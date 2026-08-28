@@ -32,6 +32,12 @@
 <div class="terr">Canada</div>
 <h1>Ottawa maintient le cap sur l&#x27;interdiction des réseaux sociaux pour les moins de 16 ans</h1>
 <div class="chapo">Global News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ottawa-maintient-le-cap-sur-l-interdiction-des-reseaux-socia-161568.html"
+  data-titre="Ottawa maintient le cap sur l&#x27;interdiction des réseaux sociaux pour les moins de 16 ans" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ottawa-maintient-le-cap-sur-l-interdiction-des-reseaux-socia-161568.html">https://entreelibre.ca/edition/2026-08-28/a/ottawa-maintient-le-cap-sur-l-interdiction-des-reseaux-socia-161568.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://globalnews.ca/news/12037580/meta-social-media-settlement-kids-canada-youth-ban/" target="_blank" rel="noopener"><span class="src-nom">Global News</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le gouvernement fédéral affirme maintenir son intention de légiférer pour interdire l&#x27;accès aux réseaux sociaux aux jeunes de moins de 16 ans, malgré une entente récente d&#x27;environ 18 milliards de dollars américains entre Meta et plusieurs États américains concernant la sécurité des enfants en ligne — un règlement qui a poussé l&#x27;entreprise à annoncer de nouvelles mesures de protection pour ses jeunes utilisateurs. Des experts cités par Global News estiment que la portée du projet de loi canadien pourrait toutefois se voir réduite avec le temps, à mesure que les plateformes ajustent volontairement leurs pratiques et que les pressions de l&#x27;industrie se multiplient contre une interdiction complète.</p><p>Le dossier canadien s&#x27;inscrit dans un mouvement plus large de plusieurs pays occidentaux qui étudient des mesures similaires pour encadrer l&#x27;accès des mineurs aux réseaux sociaux, sur fond de préoccupations grandissantes pour la santé mentale des adolescents. Aucun échéancier précis n&#x27;a été confirmé par Ottawa pour le dépôt ou l&#x27;adoption d&#x27;un projet de loi en ce sens, le gouvernement se contentant pour l&#x27;instant de réaffirmer son intention politique sans détailler la forme finale que prendrait la mesure.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

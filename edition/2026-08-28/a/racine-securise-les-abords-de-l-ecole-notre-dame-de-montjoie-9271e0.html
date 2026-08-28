@@ -32,6 +32,12 @@
 <div class="terr">Racine (Estrie)</div>
 <h1>Racine sécurise les abords de l&#x27;école Notre-Dame-de-Montjoie pendant des travaux</h1>
 <div class="chapo">Municipalité de Racine · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/racine-securise-les-abords-de-l-ecole-notre-dame-de-montjoie-9271e0.html"
+  data-titre="Racine sécurise les abords de l&#x27;école Notre-Dame-de-Montjoie pendant des travaux" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/racine-securise-les-abords-de-l-ecole-notre-dame-de-montjoie-9271e0.html">https://entreelibre.ca/edition/2026-08-28/a/racine-securise-les-abords-de-l-ecole-notre-dame-de-montjoie-9271e0.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://racine.ca/2026/08/27/travaux-en-cours-a-lecole-notre-dame-de-montjoie/" target="_blank" rel="noopener"><span class="src-nom">Municipalité de Racine</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Des travaux ont débuté à l&#x27;école Notre-Dame-de-Montjoie, à Racine, où un périmètre de sécurité a été aménagé pour protéger les citoyens et les piétons. La Municipalité demande à la population de ne pas emprunter le trottoir situé devant l&#x27;école et d&#x27;utiliser plutôt celui de l&#x27;autre côté de la rue pour ses déplacements. Une enseigne sera prochainement installée sur le trottoir devant l&#x27;établissement afin de rappeler cette consigne aux passants. La Municipalité invite les citoyens à faire preuve de prudence à proximité du chantier et à respecter le périmètre de sécurité durant les travaux. La Municipalité de Racine remercie d&#x27;avance la population de sa collaboration pour la durée des travaux à l&#x27;école.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

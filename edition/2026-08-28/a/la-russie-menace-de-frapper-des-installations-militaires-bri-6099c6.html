@@ -32,6 +32,12 @@
 <div class="terr">Russie, Royaume-Uni, Ukraine</div>
 <h1>La Russie menace de frapper des installations militaires britanniques en riposte aux missiles Storm Shadow</h1>
 <div class="chapo">Anadolu, lessentieldeleco.fr, Reuters, TRT World, The Times, The Independent, Fox News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-russie-menace-de-frapper-des-installations-militaires-bri-6099c6.html"
+  data-titre="La Russie menace de frapper des installations militaires britanniques en riposte aux missiles Storm Shadow" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-russie-menace-de-frapper-des-installations-militaires-bri-6099c6.html">https://entreelibre.ca/edition/2026-08-28/a/la-russie-menace-de-frapper-des-installations-militaires-bri-6099c6.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.aa.com.tr/en/eurasia/russia-threatens-to-target-uk-military-facilities-over-ukraines-use-of-british-missiles/4039131" target="_blank" rel="noopener"><span class="src-nom">Anadolu</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par lessentieldeleco.fr, Reuters, TRT World, The Times, The Independent, Fox News, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La porte-parole du ministère russe des Affaires étrangères, Maria Zakharova, a averti jeudi que les installations militaires britanniques présentes « en Ukraine et au-delà » pourraient être visées par des frappes russes. Cette mise en garde répond, selon elle, à l&#x27;usage par Kyiv de missiles de croisière Storm Shadow contre le territoire russe, a rapporté l&#x27;agence turque Anadolu. Elle a qualifié le transfert de ces missiles à longue portée par Londres de « quintessence » de l&#x27;implication britannique dans la guerre, employant une formule inhabituellement dure pour un porte-parole officiel.</p><p>Le Royaume-Uni a par ailleurs transmis à l&#x27;Ukraine des plans classifiés permettant, à terme, la fabrication locale de cette arme, coproduite avec la France. Paris envisagerait de son côté d&#x27;aider à construire des usines de missiles sur le sol ukrainien, selon les mêmes informations relayées par plusieurs médias. Un site d&#x27;analyse économique française rapporte une mise en garde russe similaire visant directement la France, un responsable cité affirmant : « Ils jouent avec le feu. Les conséquences peuvent être totalement imprévisibles. »</p><p>Ces échanges surviennent après une rencontre à Kyiv entre dirigeants occidentaux et le président ukrainien Volodymyr Zelensky, à l&#x27;occasion du 35ᵉ anniversaire de l&#x27;indépendance de l&#x27;Ukraine vis-à-vis de l&#x27;Union soviétique. Ni Londres ni Paris n&#x27;avaient répondu publiquement aux menaces russes au moment de la publication de ces informations jeudi. La fourniture de missiles à longue portée par les pays occidentaux reste l&#x27;un des points de friction les plus sensibles entre Moscou et les capitales européennes depuis le début du conflit.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

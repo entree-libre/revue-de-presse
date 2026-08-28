@@ -32,6 +32,12 @@
 <div class="terr">Chine</div>
 <h1>La start-up chinoise LandSpace récupère au sol le premier étage de sa fusée Zhuque-3</h1>
 <div class="chapo">Sciences et Avenir · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-start-up-chinoise-landspace-recupere-au-sol-le-premier-et-13ae7e.html"
+  data-titre="La start-up chinoise LandSpace récupère au sol le premier étage de sa fusée Zhuque-3" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-start-up-chinoise-landspace-recupere-au-sol-le-premier-et-13ae7e.html">https://entreelibre.ca/edition/2026-08-28/a/la-start-up-chinoise-landspace-recupere-au-sol-le-premier-et-13ae7e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.sciencesetavenir.fr/espace/exploration/chine-la-start-up-landspace-recupere-sur-terre-le" target="_blank" rel="noopener"><span class="src-nom">Sciences et Avenir</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;entreprise privée chinoise LandSpace a réussi à faire atterrir sur la terre ferme le premier étage de sa fusée Zhuque-3, après avoir mis un satellite en orbite. Une première pour cette entreprise, qui rejoint SpaceX dans la maîtrise de la récupération de lanceurs réutilisables sur un site terrestre plutôt qu&#x27;en mer.</p><p>La Chine avait déjà récupéré en juillet un premier étage de la fusée publique Longue Marche-10B, mais sur une plateforme en mer plutôt qu&#x27;au sol, une manœuvre techniquement moins exigeante qu&#x27;un retour à terre. La multiplication des essais, publics et privés, illustre l&#x27;accélération du secteur spatial chinois, qui cherche à réduire le coût de ses lancements en réutilisant ses étages plutôt qu&#x27;en les laissant retomber en mer ou se consumer dans l&#x27;atmosphère.</p><p>Zhuque-3 utilise un carburant à base de méthane liquide, une filière que plusieurs lanceurs de nouvelle génération explorent pour sa combustion plus propre et son coût réduit par rapport aux ergols classiques. LandSpace figure parmi la première vague d&#x27;entreprises spatiales privées chinoises créées dans la foulée de l&#x27;ouverture partielle du secteur au capital privé, il y a une dizaine d&#x27;années.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

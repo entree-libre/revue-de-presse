@@ -32,6 +32,12 @@
 <div class="terr">États-Unis</div>
 <h1>Les entreprises américaines poussent leurs employés vers des canaux publics pour mieux nourrir leurs IA</h1>
 <div class="chapo">Slate · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/les-entreprises-americaines-poussent-leurs-employes-vers-des-2346d9.html"
+  data-titre="Les entreprises américaines poussent leurs employés vers des canaux publics pour mieux nourrir leurs IA" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/les-entreprises-americaines-poussent-leurs-employes-vers-des-2346d9.html">https://entreelibre.ca/edition/2026-08-28/a/les-entreprises-americaines-poussent-leurs-employes-vers-des-2346d9.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.slate.fr/tech-internet/ia-slack-messages-informations-personnelles-chatbot-modele-innova" target="_blank" rel="noopener"><span class="src-nom">Slate</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Aux États-Unis, certains dirigeants encouragent leurs salariés à délaisser les messages privés au profit de canaux publics sur des outils comme Slack, rapporte Slate. L&#x27;objectif affiché est de fournir aux systèmes d&#x27;intelligence artificielle internes davantage d&#x27;informations sur le fonctionnement réel de l&#x27;entreprise, afin d&#x27;améliorer leur efficacité et leur capacité à répondre aux questions des employés.</p><p>Cette évolution soulève des questions sur la frontière entre communication professionnelle et vie privée au travail, les employés étant de facto poussés à rendre publiques des discussions qui relevaient auparavant de conversations informelles entre collègues. Certains craignent que cette exposition accrue de leurs échanges quotidiens ne serve aussi, au-delà de l&#x27;entraînement des IA internes, à une forme de surveillance managériale.</p><p>Slate note que la pratique reste pour l&#x27;instant surtout documentée dans la Silicon Valley, mais s&#x27;inscrit dans une tendance plus large à l&#x27;utilisation des données internes des entreprises pour affiner leurs outils d&#x27;intelligence artificielle maison. Aucune loi américaine ne semble à ce jour encadrer spécifiquement ce type d&#x27;incitation patronale à la publicité des communications internes.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

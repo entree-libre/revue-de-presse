@@ -32,6 +32,12 @@
 <div class="terr">Iran, Qatar</div>
 <h1>Le premier ministre du Qatar se rend à Téhéran pour tenter de relancer la diplomatie irano-américaine</h1>
 <div class="chapo">Radio-Canada, Al-Manar · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-premier-ministre-du-qatar-se-rend-a-teheran-pour-tenter-d-ad061b.html"
+  data-titre="Le premier ministre du Qatar se rend à Téhéran pour tenter de relancer la diplomatie irano-américaine" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-premier-ministre-du-qatar-se-rend-a-teheran-pour-tenter-d-ad061b.html">https://entreelibre.ca/edition/2026-08-28/a/le-premier-ministre-du-qatar-se-rend-a-teheran-pour-tenter-d-ad061b.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278221/premier-ministre-qatar-iran-diplomatie" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Al-Manar, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le premier ministre du Qatar, pays qui joue les médiateurs dans le conflit entre l&#x27;Iran et les États-Unis, a rencontré jeudi à Téhéran le chef de la diplomatie iranienne pour tenter de relancer la voie diplomatique, au point mort après six mois de guerre. Les deux responsables ont discuté des efforts déployés pour apaiser les tensions dans l&#x27;ensemble de la région du Golfe. Ils ont également évoqué les échanges en cours entre l&#x27;Iran et Oman au sujet d&#x27;un couloir maritime conjoint temporaire dans le détroit d&#x27;Ormuz, a indiqué le ministère qatari des Affaires étrangères sur les réseaux sociaux.</p><p>Donald Trump a par ailleurs annoncé une reprise du dialogue avec l&#x27;Iran, une affirmation aussitôt démentie par Téhéran, qui assure qu&#x27;aucune négociation n&#x27;est actuellement en cours entre les deux pays. Washington a annoncé en début de semaine de nouvelles sanctions visant à « asphyxier » économiquement l&#x27;Iran, menaçant des mêmes conséquences les pays qui commercent avec Téhéran. La Russie, l&#x27;un des principaux partenaires commerciaux de l&#x27;Iran avec des importations évaluées à 930 millions de dollars sur les dix mois précédant janvier 2026, figure parmi les pays potentiellement visés par cette pression américaine accrue.</p><p>Le président iranien Massoud Pezeshkian doit par ailleurs rencontrer son homologue russe Vladimir Poutine la semaine prochaine, en marge du sommet de l&#x27;Organisation de coopération de Shanghai prévu au Kirghizistan.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Outaouais</div>
 <h1>Rentrée scolaire en Outaouais : confiance des centres de services, réserves du syndicat</h1>
 <div class="chapo">Le Droit, Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/rentree-scolaire-en-outaouais-confiance-des-centres-de-servi-9962d5.html"
+  data-titre="Rentrée scolaire en Outaouais : confiance des centres de services, réserves du syndicat" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/rentree-scolaire-en-outaouais-confiance-des-centres-de-servi-9962d5.html">https://entreelibre.ca/edition/2026-08-28/a/rentree-scolaire-en-outaouais-confiance-des-centres-de-servi-9962d5.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledroit.com/actualites/education/2026/08/27/une-rentree-scolaire-cinq-enjeux-cles-en-outaouais-ZWKNHVBJ2JGWHIDBHSI2ZHNL6Q/" target="_blank" rel="noopener"><span class="src-nom">Le Droit</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Radio-Canada, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les directions générales des quatre centres de services scolaires de l&#x27;Outaouais et de la Commission scolaire Western Québec se sont réunies devant les médias mercredi pour présenter, d&#x27;une seule voix, les enjeux à surveiller pour la rentrée. Elles disent aborder les 180 jours du calendrier scolaire « avec confiance ».</p><p>Des représentants syndicaux offrent cependant une tout autre lecture de la situation. Selon Radio-Canada, ils dénoncent un manque d&#x27;espaces personnels dans les écoles de la région, qu&#x27;ils relient à des enjeux de violence vécus par le personnel. Deux portraits opposés de l&#x27;état des écoles outaouaises se sont donc fait entendre à la même rentrée : l&#x27;un rassurant, du côté des gestionnaires, l&#x27;autre alarmé, du côté syndical.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

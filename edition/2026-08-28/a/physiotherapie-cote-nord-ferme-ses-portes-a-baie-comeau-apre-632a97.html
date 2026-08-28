@@ -33,6 +33,12 @@
 <div class="terr">Côte-Nord (Manicouagan)</div>
 <h1>Physiothérapie Côte-Nord ferme ses portes à Baie-Comeau après 20 ans</h1>
 <div class="chapo">Le Manic, Le Haute-Côte-Nord, Le Nord-Côtier · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/physiotherapie-cote-nord-ferme-ses-portes-a-baie-comeau-apre-632a97.html"
+  data-titre="Physiothérapie Côte-Nord ferme ses portes à Baie-Comeau après 20 ans" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/physiotherapie-cote-nord-ferme-ses-portes-a-baie-comeau-apre-632a97.html">https://entreelibre.ca/edition/2026-08-28/a/physiotherapie-cote-nord-ferme-ses-portes-a-baie-comeau-apre-632a97.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Baie-Comeau.jpg/1280px-Baie-Comeau.jpg" onerror="this.closest('figure').remove()"><figcaption>Baie-Comeau, sur la Côte-Nord. Photo : Harfang, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lemanic.ca/2026/08/27/baie-comeau-physiotherapie-cote-nord-ferme-ses-portes/" target="_blank" rel="noopener"><span class="src-nom">Le Manic</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Haute-Côte-Nord, Le Nord-Côtier, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le propriétaire de la clinique Physiothérapie Côte-Nord, à Baie-Comeau, François Lessard, annonce la fermeture définitive de son établissement après vingt ans d&#x27;activité. « Les derniers mois m&#x27;ont envoyé des signaux que je ne pouvais ignorer au risque de fragiliser ma santé ainsi que la sécurité financière de ma famille », explique-t-il dans une publication Facebook le 25 août. Il précise que malgré les nombreux défis rencontrés au fil de sa carrière d&#x27;entrepreneur, il a toujours fait preuve de résilience, mais que cette fois la décision s&#x27;imposait, tout en se disant conscient que cette fermeture soudaine déstabilise sa clientèle.</p><p>« Je tiens aussi à remercier du plus profond de mon cœur mes employés. Leur dire au revoir n&#x27;a pas été facile », conclut M. Lessard. Les employés de la clinique, dont les deux physiothérapeutes, continueront néanmoins d&#x27;offrir leurs services à Baie-Comeau, indépendamment de la bannière Physiothérapie Côte-Nord.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

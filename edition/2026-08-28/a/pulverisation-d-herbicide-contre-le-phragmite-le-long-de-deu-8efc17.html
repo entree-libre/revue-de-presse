@@ -32,6 +32,12 @@
 <div class="terr">Petite-Rivière-Saint-François (Charlevoix)</div>
 <h1>Pulvérisation d&#x27;herbicide contre le phragmite le long de deux routes de Petite-Rivière-Saint-François</h1>
 <div class="chapo">Ministère des Transports et de la Mobilité durable · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/pulverisation-d-herbicide-contre-le-phragmite-le-long-de-deu-8efc17.html"
+  data-titre="Pulvérisation d&#x27;herbicide contre le phragmite le long de deux routes de Petite-Rivière-Saint-François" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/pulverisation-d-herbicide-contre-le-phragmite-le-long-de-deu-8efc17.html">https://entreelibre.ca/edition/2026-08-28/a/pulverisation-d-herbicide-contre-le-phragmite-le-long-de-deu-8efc17.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.petiteriviere.com/pulverisation-dherbicide-route-138-et-rue-principale/" target="_blank" rel="noopener"><span class="src-nom">Ministère des Transports et de la Mobilité durable</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le ministère des Transports et de la Mobilité durable procédera à des interventions ponctuelles de pulvérisation d&#x27;herbicide entre le 1er et le 30 septembre aux abords de la route 138 et de la rue Principale, à Petite-Rivière-Saint-François, afin de contrôler la prolifération du phragmite, une espèce exotique envahissante. Les travaux seront réalisés conformément aux normes du Code de gestion des pesticides du Québec, et les sites traités seront identifiés par des affichettes indiquant la date et l&#x27;heure de l&#x27;application. Le Ministère recommande de ne pas accéder aux sites traités pendant les 24 heures suivant la pulvérisation. Aucune entrave majeure à la circulation n&#x27;est prévue, bien que des ralentissements ponctuels puissent survenir aux abords des zones traitées. Le ministère précise que les interventions ponctuelles pourraient toucher les accotements sans entraîner de fermeture complète des voies.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

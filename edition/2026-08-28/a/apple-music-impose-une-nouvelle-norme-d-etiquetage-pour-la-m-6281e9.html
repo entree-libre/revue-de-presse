@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>Apple Music impose une nouvelle norme d&#x27;étiquetage pour la musique générée par IA</h1>
 <div class="chapo">ZDNet, Mac4Ever, Feed Clubic, iGeneration · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/apple-music-impose-une-nouvelle-norme-d-etiquetage-pour-la-m-6281e9.html"
+  data-titre="Apple Music impose une nouvelle norme d&#x27;étiquetage pour la musique générée par IA" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/apple-music-impose-une-nouvelle-norme-d-etiquetage-pour-la-m-6281e9.html">https://entreelibre.ca/edition/2026-08-28/a/apple-music-impose-une-nouvelle-norme-d-etiquetage-pour-la-m-6281e9.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.zdnet.fr/actualites/apple-music-encadre-lia-generative-vers-une-nouvelle-norme-de-transp" target="_blank" rel="noopener"><span class="src-nom">ZDNet</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Mac4Ever, Feed Clubic, iGeneration, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Apple Music lancera d&#x27;ici la fin de l&#x27;année une initiative d&#x27;étiquetage baptisée « Made With AI », qui exigera des labels et distributeurs qu&#x27;ils déclarent les contenus musicaux générés par intelligence artificielle mis en ligne sur la plateforme. La mesure a été annoncée par courriel aux partenaires de l&#x27;industrie le 20 août, selon des informations de Billboard reprises par ZDNet.</p><p>Apple justifie cette initiative par la multiplication de musique générée par IA distribuée sans que son origine soit toujours mesurée par les acteurs de la chaîne de diffusion, des labels jusqu&#x27;aux plateformes d&#x27;écoute. L&#x27;entreprise affirme vouloir donner aux auditeurs une information claire sur la part d&#x27;intervention humaine dans les œuvres qu&#x27;ils écoutent.</p><p>Les modalités précises de vérification des déclarations n&#x27;ont pas encore été détaillées, et rien n&#x27;indique à ce stade comment Apple compte détecter les contenus non déclarés par les distributeurs eux-mêmes. D&#x27;autres plateformes musicales étudient des initiatives similaires, sans qu&#x27;un standard commun à toute l&#x27;industrie n&#x27;ait encore émergé.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

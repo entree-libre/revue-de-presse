@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Le FRAPRU demande aux partis des engagements chiffrés sur le logement social</h1>
 <div class="chapo">La Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-frapru-demande-aux-partis-des-engagements-chiffres-sur-le-a22b16.html"
+  data-titre="Le FRAPRU demande aux partis des engagements chiffrés sur le logement social" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-frapru-demande-aux-partis-des-engagements-chiffres-sur-le-a22b16.html">https://entreelibre.ca/edition/2026-08-28/a/le-frapru-demande-aux-partis-des-engagements-chiffres-sur-le-a22b16.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/dialogue/opinions/2026-08-27/campagne-electorale/aurons-nous-des-propositions-serieuses-sur-l-abordabilite-du-logement.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>À l&#x27;ouverture de la campagne électorale, la porte-parole du Front d&#x27;action populaire en réaménagement urbain (FRAPRU) demande aux partis de s&#x27;engager à faire progresser la part du logement social et communautaire dans le parc locatif québécois, plutôt que de s&#x27;en tenir à des promesses générales d&#x27;abordabilité.</p><p>L&#x27;argument est que les mesures visant le marché privé n&#x27;ont pas enrayé la hausse des loyers, et qu&#x27;une cible de croissance du parc hors marché constitue le seul engagement vérifiable après le scrutin.</p><p>Cette demande est portée par des centaines d&#x27;organisations québécoises, réunies notamment au sein de la Coalition contre le logement cher (COLOC), du Collectif québécois de prévention de l&#x27;itinérance et des signataires du Manifeste pour un Québec sans pauvreté. Le FRAPRU défend de longue date le développement du logement social, ce qui situe sa proposition dans un débat où d&#x27;autres acteurs privilégient plutôt la relance de la construction privée. La campagne se poursuit jusqu&#x27;au scrutin du 5 octobre, où le logement et le coût de la vie figurent parmi les préoccupations les plus souvent citées.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

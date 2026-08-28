@@ -33,6 +33,12 @@
 <div class="terr">Saint-Jérôme</div>
 <h1>Saint-Jérôme crée un comité consultatif pour revitaliser son centre-ville</h1>
 <div class="chapo">Ville de Saint-Jérôme · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/saint-jerome-cree-un-comite-consultatif-pour-revitaliser-son-8cb9a8.html"
+  data-titre="Saint-Jérôme crée un comité consultatif pour revitaliser son centre-ville" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/saint-jerome-cree-un-comite-consultatif-pour-revitaliser-son-8cb9a8.html">https://entreelibre.ca/edition/2026-08-28/a/saint-jerome-cree-un-comite-consultatif-pour-revitaliser-son-8cb9a8.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/67/NKN-2007-03-11_101450_Saint-Jerome_Cathedrale_%28Yvan_Leduc_author_for_Wikipedia%29.jpg" onerror="this.closest('figure').remove()"><figcaption>La cathédrale de Saint-Jérôme. Photo : Yvan Leduc, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.vsj.ca/actualites/faits-saillants-de-la-seance-du-conseil-municipal-du-25-aout/" target="_blank" rel="noopener"><span class="src-nom">Ville de Saint-Jérôme</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le conseil municipal de Saint-Jérôme a créé, lors de sa séance du 25 août, un Comité consultatif du centre-ville et adopté son cadre de gouvernance, une nouvelle instance permanente réunissant la Ville et des acteurs du milieu pour favoriser le dialogue et cocréer des solutions pour le secteur. La Ville ajoutera aussi sous peu de nouveaux débarcadères permettant un stationnement maximal de 30 minutes, afin de faciliter l&#x27;accès au centre-ville pour les usagers et les commerçants. Le conseil a autorisé une entente intermunicipale avec la MRC de La Rivière-du-Nord pour une étude d&#x27;opportunité sur la requalification de la Maison de la culture Claude-Henri-Grignon, en vue d&#x27;une éventuelle relocalisation de la bibliothèque Marie-Antoinette-Foucher; le ministère de la Culture et des Communications y contribue pour 63 000 $, soit la moitié des coûts. La Ville s&#x27;engage par ailleurs à protéger pendant au moins 50 ans les 350 arbres plantés au parc Richer lors d&#x27;une activité de reboisement social menée en mai avec la coopérative Arbre-Évolution, sur une superficie de 4 600 mètres carrés, afin de lutter contre les îlots de chaleur. Ces décisions s&#x27;inscrivent dans le Plan d&#x27;urbanisme et de mobilité durable ainsi que dans la Politique culturelle et patrimoniale de la Ville. L&#x27;ensemble de ces décisions a été présenté par la Ville dans son résumé des faits saillants de la séance du 25 août.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

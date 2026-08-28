@@ -32,6 +32,12 @@
 <div class="terr">Toronto (Ontario)</div>
 <h1>Ottawa investit dans Xanadu pour renforcer la filière quantique canadienne</h1>
 <div class="chapo">Gouvernement du Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ottawa-investit-dans-xanadu-pour-renforcer-la-filiere-quanti-6703e5.html"
+  data-titre="Ottawa investit dans Xanadu pour renforcer la filière quantique canadienne" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ottawa-investit-dans-xanadu-pour-renforcer-la-filiere-quanti-6703e5.html">https://entreelibre.ca/edition/2026-08-28/a/ottawa-investit-dans-xanadu-pour-renforcer-la-filiere-quanti-6703e5.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/08/le-ministre-solomon-ainsi-que-le-depute-james-maloney-annonceront-un-investissement-dans-xanadu-visant-a-renforcer-la-chaine-dapprovisionnement-can.html" target="_blank" rel="noopener"><span class="src-nom">Gouvernement du Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le ministre fédéral de l&#x27;Intelligence artificielle et de l&#x27;Innovation numérique, Evan Solomon, doit annoncer vendredi à Toronto, aux côtés du député d&#x27;Etobicoke–Lakeshore James Maloney, un investissement dans l&#x27;entreprise Xanadu Quantum Technologies afin de lui permettre d&#x27;agrandir ses installations de recherche-développement. L&#x27;objectif affiché par Ottawa est de doter le Canada de capacités de fabrication de pointe dans le secteur des technologies quantiques, un domaine jugé stratégique sur le plan économique et sécuritaire.</p><p>Le montant précis de l&#x27;investissement n&#x27;était pas encore connu au moment de l&#x27;avis aux médias diffusé par le gouvernement fédéral, qui invitait les journalistes à s&#x27;inscrire à l&#x27;avance pour assister à l&#x27;événement. L&#x27;annonce s&#x27;inscrit dans une série d&#x27;investissements fédéraux visant à consolider la chaîne d&#x27;approvisionnement canadienne dans les technologies de pointe, alors qu&#x27;Ottawa cherche à positionner le pays comme un acteur clé de l&#x27;informatique quantique à l&#x27;échelle mondiale, un secteur où le Canada revendique déjà une expertise de recherche reconnue internationalement.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

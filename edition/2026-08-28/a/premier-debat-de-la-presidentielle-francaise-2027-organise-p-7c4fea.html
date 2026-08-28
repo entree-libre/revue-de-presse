@@ -32,6 +32,12 @@
 <div class="terr">France</div>
 <h1>Premier débat de la présidentielle française 2027, organisé par le Medef</h1>
 <div class="chapo">Franceinfo, France 24, RFI, TV5Monde · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/premier-debat-de-la-presidentielle-francaise-2027-organise-p-7c4fea.html"
+  data-titre="Premier débat de la présidentielle française 2027, organisé par le Medef" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/premier-debat-de-la-presidentielle-francaise-2027-organise-p-7c4fea.html">https://entreelibre.ca/edition/2026-08-28/a/premier-debat-de-la-presidentielle-francaise-2027-organise-p-7c4fea.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html" target="_blank" rel="noopener"><span class="src-nom">Franceinfo</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par France 24, RFI, TV5Monde, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Sept candidats déclarés à la présidentielle française de 2027 ont débattu jeudi après-midi sur des thématiques économiques, en clôture de l&#x27;université d&#x27;été du Medef, l&#x27;organisation patronale française, au stade Roland-Garros à Paris. Marine Le Pen, du Rassemblement national et actuelle favorite des sondages, Jean-Luc Mélenchon, de La France insoumise et crédité d&#x27;une dynamique susceptible de le hisser au second tour pour sa quatrième tentative, ainsi qu&#x27;Édouard Philippe et Gabriel Attal pour le bloc central, Raphaël Glucksmann pour Place publique, Bruno Retailleau pour Les Républicains et Marine Tondelier pour Les Écologistes ont pris part à l&#x27;échange, retransmis en direct.</p><p>M. Mélenchon devait notamment y défendre sa proposition d&#x27;annuler une partie de la dette publique, une mesure très contestée à droite comme dans le monde patronal présent dans la salle ce jour-là. Ce premier grand oral commun marque le coup d&#x27;envoi médiatique d&#x27;une campagne présidentielle qui s&#x27;annonce disputée, à plusieurs mois du premier tour du scrutin prévu au printemps 2027. Le choix du Medef comme organisateur de ce premier débat a lui-même suscité des critiques de la gauche de l&#x27;échiquier politique, qui y voit une mise en avant excessive des préoccupations patronales.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

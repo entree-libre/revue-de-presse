@@ -33,6 +33,12 @@
 <div class="terr">Russie, Ukraine</div>
 <h1>Les frappes de drones ukrainiens plongent la Russie dans une pénurie de carburant</h1>
 <div class="chapo">The Guardian · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/les-frappes-de-drones-ukrainiens-plongent-la-russie-dans-une-846028.html"
+  data-titre="Les frappes de drones ukrainiens plongent la Russie dans une pénurie de carburant" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/les-frappes-de-drones-ukrainiens-plongent-la-russie-dans-une-846028.html">https://entreelibre.ca/edition/2026-08-28/a/les-frappes-de-drones-ukrainiens-plongent-la-russie-dans-une-846028.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Volga_river._Saratov_Oil_Refinery_P8090741_2200.jpg/1280px-Volga_river._Saratov_Oil_Refinery_P8090741_2200.jpg" onerror="this.closest('figure').remove()"><figcaption>Une raffinerie de pétrole russe, sur la Volga. Photo : Alexxx1979, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports" target="_blank" rel="noopener"><span class="src-nom">The Guardian</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un pétrolier de la « flotte fantôme » sanctionnée transporte du pétrole depuis la Turquie, pourtant membre de l&#x27;OTAN, vers un port russe de la Baltique. Un accord est par ailleurs signé pour que du pétrole russe soit raffiné au Kazakhstan, hors de portée directe des sanctions occidentales. Des cargaisons de carburant arrivent également d&#x27;Inde via l&#x27;Égypte, selon un circuit détourné documenté par des données commerciales.</p><p>Autant d&#x27;indices, selon le quotidien britannique The Guardian, d&#x27;une même réalité : en l&#x27;espace d&#x27;un été, la Russie, autrefois deuxième producteur mondial de pétrole brut, s&#x27;est retrouvée en quête désespérée de sources d&#x27;essence pour combler les trous croissants dans sa capacité de raffinage. Le Kremlin fait désormais pression sur ses alliés pour qu&#x27;ils lui vendent le carburant qui lui manque cruellement, une situation qualifiée d&#x27;inédite par le journal depuis le début du conflit.</p><p>La campagne ukrainienne de frappes de drones a visé raffineries et dépôts de carburant russes ces derniers mois, avec une intensité et une précision technique croissantes. Cette campagne s&#x27;est étendue aux usines chimiques, aux sites d&#x27;armement, aux voies ferrées et aux entrepôts qui font circuler les biens de consommation, selon le journal, qui y voit l&#x27;un des effets les plus tangibles et les plus mesurables de la guerre sur l&#x27;économie intérieure russe à ce jour.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

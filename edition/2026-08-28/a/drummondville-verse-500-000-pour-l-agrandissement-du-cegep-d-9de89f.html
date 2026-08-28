@@ -33,6 +33,12 @@
 <div class="terr">Drummondville</div>
 <h1>Drummondville verse 500 000 $ pour l&#x27;agrandissement du Cégep Drummond</h1>
 <div class="chapo">Ville de Drummondville · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/drummondville-verse-500-000-pour-l-agrandissement-du-cegep-d-9de89f.html"
+  data-titre="Drummondville verse 500 000 $ pour l&#x27;agrandissement du Cégep Drummond" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/drummondville-verse-500-000-pour-l-agrandissement-du-cegep-d-9de89f.html">https://entreelibre.ca/edition/2026-08-28/a/drummondville-verse-500-000-pour-l-agrandissement-du-cegep-d-9de89f.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Entr%C3%A9e_du_C%C3%A9gep_de_Drummondville.JPG/1280px-Entr%C3%A9e_du_C%C3%A9gep_de_Drummondville.JPG" onerror="this.closest('figure').remove()"><figcaption>Le Cégep de Drummondville. Photo : Khayman, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.drummondville.ca/la-ville-fiere-de-contribuer-a-lagrandissement-du-cegep-drummond/" target="_blank" rel="noopener"><span class="src-nom">Ville de Drummondville</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Ville de Drummondville a versé 500 000 $ pour l&#x27;agrandissement du Cégep Drummond, dont le nouveau pavillon a été inauguré cette semaine. Le maire Jean-François Houle justifie cette contribution par l&#x27;importance de l&#x27;éducation comme investissement collectif, estimant qu&#x27;il allait de soi que la Ville participe à doter les étudiantes et étudiants d&#x27;espaces modernes à la hauteur de leurs ambitions. Pensé pour répondre aux besoins actuels et futurs de la communauté collégiale, le nouveau pavillon comprend treize grandes classes fenestrées ainsi que des espaces dédiés à la vie étudiante. Il ajoute aussi une zone d&#x27;études lumineuse, de nouvelles salles de rencontre et deux départements d&#x27;enseignement supplémentaires. La contribution municipale s&#x27;ajoute aux plus de 2,1 millions de dollars amassés par la Fondation du Cégep Drummond lors de sa campagne de financement 2022-2024, consacrée à cet agrandissement et au réaménagement des espaces existants.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

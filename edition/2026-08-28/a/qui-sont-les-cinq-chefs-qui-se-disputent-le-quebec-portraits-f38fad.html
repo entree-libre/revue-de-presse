@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Qui sont les cinq chefs qui se disputent le Québec ? Portraits</h1>
 <div class="chapo">Canada&#x27;s National Observer · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/qui-sont-les-cinq-chefs-qui-se-disputent-le-quebec-portraits-f38fad.html"
+  data-titre="Qui sont les cinq chefs qui se disputent le Québec ? Portraits" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/qui-sont-les-cinq-chefs-qui-se-disputent-le-quebec-portraits-f38fad.html">https://entreelibre.ca/edition/2026-08-28/a/qui-sont-les-cinq-chefs-qui-se-disputent-le-quebec-portraits-f38fad.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.nationalobserver.com/2026/08/27/news/quicksketch-parti-quebecois-leader-paul-st-pierre-plamondon" target="_blank" rel="noopener"><span class="src-nom">Canada&#x27;s National Observer</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>À l&#x27;ouverture de la campagne électorale québécoise, La Presse canadienne a dressé le portrait des cinq chefs de parti qui se disputeront les électeurs jusqu&#x27;au 5 octobre. Christine Fréchette, 56 ans, dirige la Coalition avenir Québec depuis avril, après avoir défait Bernard Drainville à la course à la direction et succédé à François Legault comme première ministre; économiste de formation, elle a été ministre de l&#x27;Immigration puis de l&#x27;Économie avant d&#x27;accéder au poste de première ministre. Paul St-Pierre Plamondon, 49 ans, avocat de formation devenu chef péquiste en 2020, a ramené son parti de l&#x27;arrière jusqu&#x27;en tête des sondages et a enchaîné quatre victoires en élections partielles.</p><p>Charles Milliard, 46 ans, pharmacien de formation et ancien président de la Fédération des chambres de commerce du Québec, dirige le Parti libéral depuis février, après avoir été couronné chef par acclamation à la suite de la démission de Pablo Rodriguez, empêtré dans des allégations sur le financement de sa propre course à la direction. Ruba Ghazal, 48 ans, née à Beyrouth, coporte-parole de Québec solidaire aux côtés de Sol Zanetti, en est à sa première campagne à ce titre et deviendrait première ministre si son parti formait le gouvernement. Éric Duhaime, 57 ans, ancien animateur radio, dirige le Parti conservateur du Québec depuis 2021 sans avoir jamais occupé de fonction élective, ayant notamment perdu une élection partielle dans Arthabaska l&#x27;an dernier.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

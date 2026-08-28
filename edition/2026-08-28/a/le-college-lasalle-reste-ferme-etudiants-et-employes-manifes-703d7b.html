@@ -32,6 +32,12 @@
 <div class="terr">Montréal</div>
 <h1>Le Collège LaSalle reste fermé : étudiants et employés manifestent en pleine faillite</h1>
 <div class="chapo">Global News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-college-lasalle-reste-ferme-etudiants-et-employes-manifes-703d7b.html"
+  data-titre="Le Collège LaSalle reste fermé : étudiants et employés manifestent en pleine faillite" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-college-lasalle-reste-ferme-etudiants-et-employes-manifes-703d7b.html">https://entreelibre.ca/edition/2026-08-28/a/le-college-lasalle-reste-ferme-etudiants-et-employes-manifes-703d7b.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://globalnews.ca/news/12038626/lasalle-college-students-staff-rally-as-college-remains-closed-amid-bankruptcy-proceedings/" target="_blank" rel="noopener"><span class="src-nom">Global News</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Des étudiants et des membres du personnel du Collège LaSalle se sont rassemblés jeudi devant l&#x27;établissement montréalais, le jour même de la rentrée normalement prévue, pour réclamer de la transparence sur l&#x27;avenir de l&#x27;école. Le collège a suspendu ses cours après avoir demandé la protection de la loi sur la faillite plus tôt cette semaine, disant devoir près de 48 millions de dollars au gouvernement provincial. Son directeur général, Claude Marchand, attribue cette crise financière à une amende de 30 millions de dollars imposée après l&#x27;adoption de la loi 96, qui a limité les inscriptions dans les programmes offerts en anglais : « Parce que nous n&#x27;avons pas eu de période de transition pour nous conformer à une nouvelle loi », a-t-il expliqué, ajoutant que le collège doit aussi rembourser près de 18 millions de dollars de subventions jugées versées en trop par Québec.</p><p>Le gouvernement soutient de son côté que l&#x27;établissement a dépassé son quota d&#x27;inscriptions en programmes anglophones en 2023-2024 puis l&#x27;année suivante ; le collège rétorque que les étudiants déjà inscrits dans des programmes de trois ans avant l&#x27;entrée en vigueur de la loi auraient dû pouvoir terminer leurs études, une période de transition qu&#x27;il dit avoir demandée en vain. Une étudiante brésilienne, Vitoria Garcia Pinheiro, a dit craindre pour l&#x27;argent investi dans sa formation, tandis qu&#x27;une enseignante depuis 42 ans, Yolande Nesseth, peine à imaginer la fermeture d&#x27;une institution vieille de 67 ans. Le ministère de l&#x27;Enseignement supérieur du Québec affirme avoir nommé un contrôleur indépendant pour superviser le dossier pendant que les discussions se poursuivent ; les parties doivent retourner devant le tribunal le 3 septembre.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

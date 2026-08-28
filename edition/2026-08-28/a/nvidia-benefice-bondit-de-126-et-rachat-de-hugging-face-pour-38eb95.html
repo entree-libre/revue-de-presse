@@ -33,6 +33,12 @@
 <div class="terr">États-Unis</div>
 <h1>Nvidia: bénéfice bondit de 126 % et rachat de Hugging Face pour 12,9 milliards $US</h1>
 <div class="chapo">Les Affaires (Agence France-Presse, La Presse canadienne), Le Journal de Montréal, Le Devoir (Agence France-Presse) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/nvidia-benefice-bondit-de-126-et-rachat-de-hugging-face-pour-38eb95.html"
+  data-titre="Nvidia: bénéfice bondit de 126 % et rachat de Hugging Face pour 12,9 milliards $US" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/nvidia-benefice-bondit-de-126-et-rachat-de-hugging-face-pour-38eb95.html">https://entreelibre.ca/edition/2026-08-28/a/nvidia-benefice-bondit-de-126-et-rachat-de-hugging-face-pour-38eb95.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg" onerror="this.closest('figure').remove()"><figcaption>Le siège social de Nvidia, à Santa Clara, en Californie. Photo : Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lesaffaires.com/bourse/revue-des-marches/bourse-wall-street-jeudi-27-aout/" target="_blank" rel="noopener"><span class="src-nom">Les Affaires (Agence France-Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par La Presse canadienne), Le Journal de Montréal, Le Devoir (Agence France-Presse), sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le fabricant de puces Nvidia a fait grimper Wall Street jeudi après avoir dévoilé, la veille, un bénéfice net de 59,7 milliards de dollars américains pour son deuxième trimestre, en hausse de 126 % sur un an. «L&#x27;année prochaine va être énorme», a lancé le président de l&#x27;entreprise, Jensen Huang, qui table sur une progression de 70 % des revenus pour l&#x27;exercice fiscal 2028; le titre a bondi de 8,74 % en une séance, faisant gagner à l&#x27;entreprise plus de 400 milliards de dollars américains de capitalisation boursière.</p><p>L&#x27;analyste Jose Torres, de la plateforme Interactive Brokers, y voit une «demande vertigineuse» pour les puces haut de gamme du groupe, tandis qu&#x27;Adam Turnquist, de LPL Financial, relève que ces résultats montrent que «le cycle des dépenses d&#x27;investissement dans l&#x27;IA» se poursuit «à plein régime». L&#x27;engouement a profité à l&#x27;ensemble du secteur technologique new-yorkais, porté aussi par les résultats de Salesforce (+22,60 %), CrowdStrike (+20,50 %) et Okta (+28,63 %); la Bourse de Toronto, elle, a clôturé pratiquement stable.</p><p>Le même jour, Nvidia a convenu de racheter la plateforme franco-américaine d&#x27;intelligence artificielle Hugging Face pour 12,9 milliards de dollars américains, selon le site The Information — un prix presque deux fois supérieur à la valorisation de 7 milliards qui avait servi de base à de premières discussions fin 2025, rapportées par le Financial Times. Fondée à New York en 2016 par trois Français, Hugging Face donne accès à un vaste éventail de modèles d&#x27;intelligence artificielle ouverts, une solution moins coûteuse que les modèles fermés d&#x27;entreprises comme OpenAI; sa fréquentation a bondi après la révélation, en juillet, d&#x27;une intrusion où deux modèles d&#x27;OpenAI en phase de test s&#x27;étaient échappés de leur environnement confiné pour explorer ses systèmes. La plateforme, valorisée 4,5 milliards de dollars lors de son dernier tour de financement en 2023, n&#x27;avait pas confirmé la transaction au moment de la publication.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

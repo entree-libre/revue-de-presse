@@ -32,6 +32,12 @@
 <div class="terr">Gatineau</div>
 <h1>Gatineau : un homme d&#x27;Ottawa arrêté pour l&#x27;agression filmée et diffusée sur les réseaux sociaux</h1>
 <div class="chapo">Service de police de la Ville de Gatineau · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/gatineau-un-homme-d-ottawa-arrete-pour-l-agression-filmee-et-262805.html"
+  data-titre="Gatineau : un homme d&#x27;Ottawa arrêté pour l&#x27;agression filmée et diffusée sur les réseaux sociaux" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/gatineau-un-homme-d-ottawa-arrete-pour-l-agression-filmee-et-262805.html">https://entreelibre.ca/edition/2026-08-28/a/gatineau-un-homme-d-ottawa-arrete-pour-l-agression-filmee-et-262805.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.gatineau.ca/portail/default.aspx?p=police/actualites/communiques/communique&amp;id=1787747772" target="_blank" rel="noopener"><span class="src-nom">Service de police de la Ville de Gatineau</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Sûreté du Québec a procédé à l&#x27;arrestation d&#x27;Abdul Rahman Al Hallak, 28 ans, d&#x27;Ottawa, pour voies de fait causant des lésions corporelles, à la suite de l&#x27;enquête menée par le Service de police de la Ville de Gatineau (SPVG) sur l&#x27;agression diffusée sur les réseaux sociaux au début du mois, dans laquelle une jeune femme avait été frappée au visage. Selon le SPVG, les faits remontent au 8 août peu avant 4 h dans le secteur Hull, où un homme aurait commis des voies de fait contre une femme; celle-ci, consciente à l&#x27;arrivée des policiers, avait été transportée à l&#x27;hôpital pour des blessures ne mettant pas sa vie en danger, tandis que le suspect avait quitté les lieux avant leur arrivée. L&#x27;affaire avait suscité une vive réaction en ligne après la diffusion de la vidéo montrant l&#x27;agression, au début du mois d&#x27;août. M. Al Hallak, arrêté dans la région de Montréal, est demeuré détenu au centre de détention de Valleyfield et devait comparaître par visioconférence au palais de justice de Gatineau. L&#x27;enquête a permis de déterminer qu&#x27;il n&#x27;y a pas de deuxième victime liée à cet événement, précise le SPVG. Les accusations portées contre lui n&#x27;ont pas encore fait l&#x27;objet d&#x27;un verdict, le processus judiciaire suivant son cours devant les tribunaux.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>« La Peur de la liberté », l&#x27;essai d&#x27;Erich Fromm sur l&#x27;autoritarisme, retrouve un écho inattendu</h1>
 <div class="chapo">Philosophie magazine · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-peur-de-la-liberte-l-essai-d-erich-fromm-sur-l-autoritari-97cfdd.html"
+  data-titre="« La Peur de la liberté », l&#x27;essai d&#x27;Erich Fromm sur l&#x27;autoritarisme, retrouve un écho inattendu" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-peur-de-la-liberte-l-essai-d-erich-fromm-sur-l-autoritari-97cfdd.html">https://entreelibre.ca/edition/2026-08-28/a/la-peur-de-la-liberte-l-essai-d-erich-fromm-sur-l-autoritari-97cfdd.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.philomag.com/articles/la-peur-de-la-liberte-un-guide-pour-resister-lautoritarisme" target="_blank" rel="noopener"><span class="src-nom">Philosophie magazine</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Paru en 1941, l&#x27;essai La Peur de la liberté, dans lequel le sociologue et psychanalyste Erich Fromm sonde les ressorts de l&#x27;autoritarisme, retrouve une actualité particulière à l&#x27;heure du trumpisme, note Philosophie magazine dans une relecture de l&#x27;ouvrage. Fromm y explore les voies qui permettent, selon lui, de résister à cette tentation autoritaire présente en chacun plutôt que de la réduire à un phénomène purement extérieur.</p><p>La revue y voit un texte bref mais dense, dont les analyses sur la fuite devant la liberté individuelle éclairent des dynamiques politiques contemporaines bien au-delà du contexte des années 1940 dans lequel il a été écrit. Fromm y décrit comment l&#x27;angoisse suscitée par une liberté nouvellement acquise peut pousser des individus à se soumettre volontairement à une autorité forte plutôt qu&#x27;à l&#x27;assumer pleinement.</p><p>Philosophie magazine présente cette relecture comme une invitation à revenir aux textes classiques de la théorie politique pour éclairer des phénomènes contemporains, plutôt que de s&#x27;en tenir aux seules analyses journalistiques du moment.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

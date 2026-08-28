@@ -32,6 +32,12 @@
 <div class="terr">Ahuntsic-Cartierville, Villeray–Saint-Michel–Parc-Extension, Pierrefonds-Roxboro, L&#x27;Île-Bizard–Sainte-Geneviève</div>
 <h1>La collecte des ordures passera aux deux semaines dans quatre arrondissements montréalais</h1>
 <div class="chapo">Ville de Montréal, CTV News, Noovo Info · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-collecte-des-ordures-passera-aux-deux-semaines-dans-quatr-dec196.html"
+  data-titre="La collecte des ordures passera aux deux semaines dans quatre arrondissements montréalais" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-collecte-des-ordures-passera-aux-deux-semaines-dans-quatr-dec196.html">https://entreelibre.ca/edition/2026-08-28/a/la-collecte-des-ordures-passera-aux-deux-semaines-dans-quatr-dec196.html</a>
+</div>
 <div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://montreal.ca/communiques-de-presse/collecte-des-ordures-nouvelle-frequence-dans-certains-secteurs-de-quatre-arrondissements" target="_blank" rel="noopener"><span class="src-nom">Ville de Montréal</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.ctvnews.ca/montreal/article/trash-collection-moving-to-every-two-weeks-in-four-new-montreal-boroughs/" target="_blank" rel="noopener"><span class="src-nom">CTV News</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Noovo Info, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La collecte des ordures ménagères passera aux deux semaines dans quatre arrondissements montréalais de plus, annonce la Ville de Montréal : Ahuntsic-Cartierville et Villeray–Saint-Michel–Parc-Extension dès le 1er octobre, puis Pierrefonds-Roxboro et L&#x27;Île-Bizard–Sainte-Geneviève le 2 novembre. La collecte du compost et du recyclage continuera sur une base hebdomadaire. La Ville dit vouloir encourager le compostage et le recyclage, alors que les principaux sites d&#x27;enfouissement du Grand Montréal approchent de leur capacité maximale — la Communauté métropolitaine de Montréal demande aux municipalités de limiter les collectes de déchets domestiques à 26 par année d&#x27;ici décembre 2027. Cette approche est déjà en vigueur dans 70 des 82 municipalités de la région métropolitaine, précise la Ville de Montréal, qui la déploie de façon progressive et différenciée selon les réalités de chaque arrondissement.</p><p>Le passage à la collecte aux deux semaines, déjà en vigueur dans plusieurs arrondissements depuis 2024, permettrait des économies pouvant atteindre 41 millions de dollars sur sept ans, selon les estimations de la Ville, qui cite l&#x27;exemple de Saint-Laurent, où les matières envoyées à l&#x27;enfouissement ont reculé de 17 %. L&#x27;arrondissement de Mercier–Hochelaga-Maisonneuve, qui avait dénoncé la mesure après son entrée en vigueur en novembre 2024 — plaintes de bacs débordants, d&#x27;odeurs et de rongeurs —, est revenu à une collecte hebdomadaire l&#x27;été dernier pour réduire ces nuisances. Lors de la campagne municipale de 2025, Projet Montréal et Ensemble Montréal avaient tous deux promis d&#x27;y rétablir la collecte hebdomadaire.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -33,6 +33,12 @@
 <div class="terr">Corée du Sud</div>
 <h1>Séoul, Washington et Tokyo annoncent des manœuvres conjointes « Freedom Edge » du 7 au 11 septembre</h1>
 <div class="chapo">CNEWS (AFP), Le Parisien, Sud Ouest · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/seoul-washington-et-tokyo-annoncent-des-manuvres-conjointes-a381fb.html"
+  data-titre="Séoul, Washington et Tokyo annoncent des manœuvres conjointes « Freedom Edge » du 7 au 11 septembre" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/seoul-washington-et-tokyo-annoncent-des-manuvres-conjointes-a381fb.html">https://entreelibre.ca/edition/2026-08-28/a/seoul-washington-et-tokyo-annoncent-des-manuvres-conjointes-a381fb.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_Maritime_Self-Defense_Force%2C_Republic_of_Korea_Navy%2C_and_U.S._Navy_ships_sail_in_formation_in_support_of_Exercise_Freedom_Edge_25_in_the_U.S._7th_Fleet_area_of_operations%2C_Sept._16%2C_2025_02.jpg/1280px-thumbnail.jpg" onerror="this.closest('figure').remove()"><figcaption>Navires japonais, sud-coréens et américains en formation lors d&#x27;un précédent exercice Freedom Edge. Photo : U.S. Navy photo by Mass Communication Specialist 1st Class, Public domain, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.cnews.fr/monde/2026-08-28/la-coree-du-sud-les-etats-unis-et-le-japon-vont-mener-des-exercices-militaires" target="_blank" rel="noopener"><span class="src-nom">CNEWS (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Parisien, Sud Ouest, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Corée du Sud, les États-Unis et le Japon mèneront du 7 au 11 septembre des exercices militaires conjoints baptisés « Freedom Edge », a annoncé vendredi l&#x27;état-major interarmées sud-coréen. Les manœuvres se tiendront dans les eaux internationales à l&#x27;est et au sud de l&#x27;île de Jeju. Elles porteront sur la défense aérienne, la lutte anti-sous-marine et la cyberdéfense. Selon l&#x27;agence sud-coréenne Yonhap, elles doivent aussi préparer les trois alliés à d&#x27;éventuels tirs de missiles balistiques nord-coréens.</p><p>L&#x27;exercice a été créé en juin 2024, dans la foulée du sommet de Camp David entre les dirigeants des trois pays. Il vise officiellement à répondre « aux menaces nucléaires et balistiques » de Pyongyang et à contribuer à la stabilité régionale, selon l&#x27;état-major sud-coréen. L&#x27;annonce survient dans un contexte particulier : les manœuvres annuelles américano-sud-coréennes se sont achevées le 21 août après que Donald Trump en a ordonné abruptement la réduction. Le président américain les avait jugées « très insultantes » pour Kim Jong-un, qu&#x27;il dit vouloir rencontrer cette année. Pyongyang, qui dénonce systématiquement ces exercices, a poursuivi ses tirs de missiles et n&#x27;a donné aucun signe de réciprocité aux ouvertures américaines.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Montréal</div>
 <h1>Toujours de la moutarde, jamais coupé : le charme increvable du Wilensky&#x27;s</h1>
 <div class="chapo">CBC · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/toujours-de-la-moutarde-jamais-coupe-le-charme-increvable-du-452b6c.html"
+  data-titre="Toujours de la moutarde, jamais coupé : le charme increvable du Wilensky&#x27;s" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/toujours-de-la-moutarde-jamais-coupe-le-charme-increvable-du-452b6c.html">https://entreelibre.ca/edition/2026-08-28/a/toujours-de-la-moutarde-jamais-coupe-le-charme-increvable-du-452b6c.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.cbc.ca/news/canada/montreal/wilenskys-creator-network-9.7318540?cmp=rss" target="_blank" rel="noopener"><span class="src-nom">CBC</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Depuis 1932, Wilensky&#x27;s Light Lunch, rue Fairmount, sert le même sandwich exactement de la même façon : le « Wilensky Special », salami et bologne de bœuf grillés, pressés à plat et garnis de moutarde, raconte CBC dans un court documentaire du cinéaste montréalais Ezra Soiferman. Le commerce familial n&#x27;a presque pas changé depuis près d&#x27;un siècle — neuf tabourets, aucune table, une fontaine à soda d&#x27;époque, une politique stricte de non-pourboire, et deux règles immuables : toujours de la moutarde, jamais coupé en deux.</p><p>Le documentaire, intitulé « A Special Place », mêle photos, poésie et musique pour capter ce qui rend cette institution du Mile End si iconique aux yeux des Montréalais.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

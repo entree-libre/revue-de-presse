@@ -32,6 +32,12 @@
 <div class="terr">Mascouche</div>
 <h1>Mascouche transforme un stationnement en corridor végétalisé au parc des Optimistes</h1>
 <div class="chapo">La Revue · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/mascouche-transforme-un-stationnement-en-corridor-vegetalise-88b005.html"
+  data-titre="Mascouche transforme un stationnement en corridor végétalisé au parc des Optimistes" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/mascouche-transforme-un-stationnement-en-corridor-vegetalise-88b005.html">https://entreelibre.ca/edition/2026-08-28/a/mascouche-transforme-un-stationnement-en-corridor-vegetalise-88b005.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.larevue.qc.ca/article/actualites/un-nouveau-projet-de-demineralisation-dans-lanaudiere/" target="_blank" rel="noopener"><span class="src-nom">La Revue</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Conseil régional de l&#x27;environnement de Lanaudière a sélectionné un stationnement secondaire du parc des Optimistes, sur la rue Verlaine à Mascouche, pour son projet de déminéralisation participative Sous les pavés. L&#x27;asphalte du stationnement sera retiré et l&#x27;espace verdi pour transformer le lieu en corridor végétalisé. La démarche s&#x27;inscrit dans le Plan de résilience climatique de la Ville de Mascouche, qui mise notamment sur une gestion durable des eaux de pluie pour mieux protéger les milieux de vie face aux changements climatiques. Le retrait de l&#x27;asphalte se fait à la main, dans le cadre de cette initiative de verdissement participatif. La démarche s&#x27;appuie sur la participation citoyenne : le retrait de l&#x27;asphalte se fait à la main, avec la mobilisation de bénévoles du milieu.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

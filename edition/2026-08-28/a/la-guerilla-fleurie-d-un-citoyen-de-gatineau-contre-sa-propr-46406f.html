@@ -32,6 +32,12 @@
 <div class="terr">Outaouais (Gatineau)</div>
 <h1>La guérilla fleurie d&#x27;un citoyen de Gatineau contre sa propre ville</h1>
 <div class="chapo">Le Soleil, Le Droit · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-guerilla-fleurie-d-un-citoyen-de-gatineau-contre-sa-propr-46406f.html"
+  data-titre="La guérilla fleurie d&#x27;un citoyen de Gatineau contre sa propre ville" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-guerilla-fleurie-d-un-citoyen-de-gatineau-contre-sa-propr-46406f.html">https://entreelibre.ca/edition/2026-08-28/a/la-guerilla-fleurie-d-un-citoyen-de-gatineau-contre-sa-propr-46406f.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lesoleil.com/actualites/le-fil-des-coops/2026/08/28/la-guerilla-fleurie-dun-citoyen-de-gatineau-XA2NPH35Z5EINEIXAGS624EDDI/" target="_blank" rel="noopener"><span class="src-nom">Le Soleil</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Droit, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Jean-François Danis ne s&#x27;attendait pas à devoir mener une telle bataille contre une ville qui se targue pourtant d&#x27;être une « amie » certifiée des monarques, des abeilles et des oiseaux : Gatineau, qui a adopté une politique de protection de la biodiversité et un vaste Plan climat encourageant les citoyens à maintenir des aménagements naturels, menace maintenant le résident du Mont-Bleu d&#x27;une amende pouvant atteindre 1000 $ s&#x27;il ne rase pas le petit espace de biodiversité qu&#x27;il entretient devant sa maison de la rue Richard. « Je n&#x27;ai pas juste arrêté de couper mon gazon pour laisser pousser n&#x27;importe quoi », précise-t-il : il a plutôt identifié ce qui poussait naturellement, puis acheté pour environ 1000 $ de plantes indigènes en pépinière, soulignant que la Ville propose elle-même sur son site une liste d&#x27;une quarantaine d&#x27;espèces destinées à attirer les pollinisateurs.</p><p>« Pour moi, une mauvaise herbe, c&#x27;est une catégorie très restreinte : ce sont des plantes qui nuisent à la santé humaine », fait-il valoir, citant en exemple le panais sauvage, qui brûle la peau, ou les espèces provoquant des allergies importantes. Il note qu&#x27;il doit posséder au moins le tiers des espèces recommandées par la Ville sur son propre terrain.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

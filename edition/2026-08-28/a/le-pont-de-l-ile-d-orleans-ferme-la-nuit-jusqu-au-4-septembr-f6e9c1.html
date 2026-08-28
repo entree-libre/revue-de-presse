@@ -33,6 +33,12 @@
 <div class="terr">Île d&#x27;Orléans</div>
 <h1>Le pont de l&#x27;Île d&#x27;Orléans fermé la nuit jusqu&#x27;au 4 septembre pour des travaux d&#x27;entretien</h1>
 <div class="chapo">Autour de l&#x27;île, Ici L&#x27;info · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-pont-de-l-ile-d-orleans-ferme-la-nuit-jusqu-au-4-septembr-f6e9c1.html"
+  data-titre="Le pont de l&#x27;Île d&#x27;Orléans fermé la nuit jusqu&#x27;au 4 septembre pour des travaux d&#x27;entretien" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-pont-de-l-ile-d-orleans-ferme-la-nuit-jusqu-au-4-septembr-f6e9c1.html">https://entreelibre.ca/edition/2026-08-28/a/le-pont-de-l-ile-d-orleans-ferme-la-nuit-jusqu-au-4-septembr-f6e9c1.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/b/be/QC_-_Pont_de_l_ile_d%E2%80%99Orleans.jpg" onerror="this.closest('figure').remove()"><figcaption>Le pont de l&#x27;Île d&#x27;Orléans. Photo : Wladyslaw, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://autourdelile.com/2026/08/travaux-de-nuit-sur-le-pont-de-lile-du-26-aout-au-4-septembre-2026/" target="_blank" rel="noopener"><span class="src-nom">Autour de l&#x27;île</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Ici L&#x27;info, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La circulation sera réduite en alternance sur le pont de l&#x27;Île d&#x27;Orléans (route 368) entre 20 h et 6 h le lendemain, du lundi au jeudi, jusqu&#x27;au 4 septembre, pour permettre des travaux d&#x27;entretien sur le tablier de la structure, rapportent le journal communautaire Autour de l&#x27;île et Ici L&#x27;info. La largeur de la voie sera réduite à trois mètres durant cette période. Le ministère des Transports et de la Mobilité durable recommande aux automobilistes de prévoir plus de temps pour leurs déplacements en soirée et la nuit, et de consulter Québec 511 avant de prendre la route. Les entraves pourraient être annulées ou reportées selon les conditions météorologiques ou des contraintes opérationnelles.</p><p>Le secteur a connu plusieurs interventions similaires cet été : le ministère avait notamment annoncé des entraves à la circulation à Saint-Jean et Sainte-Famille, sur l&#x27;île, entre le 24 et le 27 août. Le pont de l&#x27;Île d&#x27;Orléans, seul lien routier reliant l&#x27;île à la rive nord du fleuve, fait l&#x27;objet d&#x27;un suivi régulier en raison de son âge et de l&#x27;achalandage quotidien qu&#x27;il supporte.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

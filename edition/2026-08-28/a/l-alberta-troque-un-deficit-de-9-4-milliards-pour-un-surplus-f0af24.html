@@ -33,6 +33,12 @@
 <div class="terr">Alberta</div>
 <h1>L&#x27;Alberta troque un déficit de 9,4 milliards pour un surplus de 2 milliards</h1>
 <div class="chapo">CBC, Global News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-alberta-troque-un-deficit-de-9-4-milliards-pour-un-surplus-f0af24.html"
+  data-titre="L&#x27;Alberta troque un déficit de 9,4 milliards pour un surplus de 2 milliards" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-alberta-troque-un-deficit-de-9-4-milliards-pour-un-surplus-f0af24.html">https://entreelibre.ca/edition/2026-08-28/a/l-alberta-troque-un-deficit-de-9-4-milliards-pour-un-surplus-f0af24.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/1/19/31_Pumpjack_in_oil_well_-_oil_industry_in_Alberta%2C_Canada.jpg" onerror="this.closest('figure').remove()"><figcaption>Une pompe à balancier dans un champ pétrolifère albertain. Photo : Marek Ślusarczyk, CC BY 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.cbc.ca/news/canada/calgary/alberta-budget-oil-prices-2-billion-surplus-9.7322824" target="_blank" rel="noopener"><span class="src-nom">CBC</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Global News, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La mise à jour budgétaire de l&#x27;Alberta pour 2026 prévoit désormais un surplus de deux milliards de dollars, un revirement spectaculaire par rapport au déficit de 9,4 milliards de dollars annoncé en février dernier. Le gouvernement attribue ce renversement à la hausse du prix du pétrole : la province avait initialement bâti son budget sur un baril de référence à 60,50 $ US, alors que les projections actuelles tablent plutôt sur une moyenne de 73,50 $ US pour l&#x27;année financière allant d&#x27;avril à mars, selon Global News. Les nouvelles prévisions supposent également un apaisement des conflits internationaux affectant l&#x27;offre mondiale de pétrole et un resserrement du marché pétrolier qui a fait grimper les cours depuis le début de l&#x27;année.</p><p>CBC rapporte que la ministre des Finances a néanmoins mis en garde contre un optimisme excessif, rappelant que les revenus pétroliers de l&#x27;Alberta demeurent extrêmement sensibles aux soubresauts des marchés internationaux et que la province reste vulnérable à un retournement de conjoncture aussi rapide que celui qui vient de se produire dans l&#x27;autre sens. Le gouvernement albertain avait déjà dû revoir ses prévisions à plusieurs reprises au cours de la dernière année en raison de la volatilité du prix du baril, un exercice qui illustre la dépendance persistante des finances publiques de la province envers les revenus pétroliers malgré les efforts de diversification économique annoncés ces dernières années. Cette embellie survient alors que l&#x27;Alberta est aussi engagée, par la voix de la première ministre Danielle Smith, dans un débat plus large sur la meilleure façon de répondre aux tarifs américains touchant le secteur énergétique, certains réclamant une réponse plus musclée que celle privilégiée par le gouvernement provincial. Global News et CBC notent tous deux que la mise à jour budgétaire ne modifie pas les principaux engagements de dépenses déjà annoncés par la province pour l&#x27;année en cours. Les deux médias rappellent enfin que ce type de révision à la hausse, aussi spectaculaire soit-il, reste tributaire d&#x27;un prix du pétrole qui pourrait tout aussi rapidement rechuter d&#x27;ici la fin de l&#x27;exercice financier.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

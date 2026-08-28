@@ -32,6 +32,12 @@
 <div class="terr">Montréal</div>
 <h1>Des centaines de condos du centre-ville de Montréal rachetés à prix cassés</h1>
 <div class="chapo">La Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/des-centaines-de-condos-du-centre-ville-de-montreal-rachetes-d70615.html"
+  data-titre="Des centaines de condos du centre-ville de Montréal rachetés à prix cassés" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/des-centaines-de-condos-du-centre-ville-de-montreal-rachetes-d70615.html">https://entreelibre.ca/edition/2026-08-28/a/des-centaines-de-condos-du-centre-ville-de-montreal-rachetes-d70615.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/affaires/2026-08-27/montreal/le-centre-ville-devient-le-theatre-d-achats-de-centaines-de-condos-au-rabais.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Deux transactions importantes conclues cet été ont vu des centaines de condos du centre-ville de Montréal rachetés en bloc, à prix réduits, alors que le nombre d&#x27;unités invendues dans ce secteur atteint des sommets.</p><p>Le phénomène rappelle l&#x27;acquisition, au printemps dernier, d&#x27;un portefeuille de condos neufs invendus de 30 millions de dollars par le Groupe Jesta à Toronto, un achat en gros réalisé par la firme d&#x27;investissement immobilier Ipso Facto.</p><p>Ces opérations soulèvent la question de savoir si le centre-ville montréalais devient la cible de fonds cherchant à profiter des actifs dépréciés. La qualification de « fonds vautours » est celle qu&#x27;emploient les critiques de ce type de montage ; les acheteurs, eux, y voient une opération d&#x27;écoulement d&#x27;un inventaire excédentaire. Ni le nom des acquéreurs des deux transactions montréalaises ni les prix payés à l&#x27;unité n&#x27;ont été rendus publics.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

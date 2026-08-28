@@ -32,6 +32,12 @@
 <div class="terr">Égypte</div>
 <h1>Un texte juridique romain inédit, vieux de 1 600 ans, retrouvé en 50 morceaux en Égypte</h1>
 <div class="chapo">Geo · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-texte-juridique-romain-inedit-vieux-de-1-600-ans-retrouve-27b975.html"
+  data-titre="Un texte juridique romain inédit, vieux de 1 600 ans, retrouvé en 50 morceaux en Égypte" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-texte-juridique-romain-inedit-vieux-de-1-600-ans-retrouve-27b975.html">https://entreelibre.ca/edition/2026-08-28/a/un-texte-juridique-romain-inedit-vieux-de-1-600-ans-retrouve-27b975.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.geo.fr/histoire/retrouve-en-50-morceaux-ce-texte-romain-vieux-de-1-600-ans-livre-ses-sec" target="_blank" rel="noopener"><span class="src-nom">Geo</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Des fragments d&#x27;un texte juridique romain jusque-là inconnu ont été reconstitués à partir de 50 morceaux préservés depuis plus de 1 600 ans dans les conditions particulièrement sèches de l&#x27;Égypte, rapporte Geo, qui cite des travaux publiés sur Phys.org. Le climat aride du pays a permis la conservation de matériaux organiques qui se seraient décomposés depuis longtemps sous des climats plus humides.</p><p>Daniel Markovich, directeur du département d&#x27;études classiques de l&#x27;Université de Cincinnati, souligne que la découverte est d&#x27;autant plus remarquable que le texte ne correspond à aucun code juridique impérial déjà répertorié. « Ce qui rend cette découverte particulièrement remarquable, c&#x27;est que ce texte ne correspond à aucun code juridique impérial connu », a-t-il expliqué, à la différence de la quasi-totalité des autres fragments de droit romain répertoriés.</p><p>La reconstitution de ces 50 fragments épars en un texte cohérent a nécessité un travail de longue haleine, les morceaux ayant été dispersés dans des collections différentes avant d&#x27;être rapprochés par les chercheurs. L&#x27;analyse du contenu juridique du texte pourrait encore livrer des indications sur des pratiques légales romaines mal documentées par ailleurs.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

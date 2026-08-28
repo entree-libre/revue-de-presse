@@ -32,6 +32,12 @@
 <div class="terr">Soudan</div>
 <h1>Le Soudan sombre plus profondément dans la crise humanitaire, avertissent de hauts responsables de l&#x27;ONU</h1>
 <div class="chapo">ONU — Conseil de sécurité, 10211e séance (SC/16437) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-soudan-sombre-plus-profondement-dans-la-crise-humanitaire-217c64.html"
+  data-titre="Le Soudan sombre plus profondément dans la crise humanitaire, avertissent de hauts responsables de l&#x27;ONU" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-soudan-sombre-plus-profondement-dans-la-crise-humanitaire-217c64.html">https://entreelibre.ca/edition/2026-08-28/a/le-soudan-sombre-plus-profondement-dans-la-crise-humanitaire-217c64.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://press.un.org/en/2026/sc16437.doc.htm" target="_blank" rel="noopener"><span class="src-nom">ONU — Conseil de sécurité</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par 10211e séance (SC/16437), sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La guerre au Soudan a aggravé l&#x27;une des pires crises humanitaires au monde et ravivé les craintes d&#x27;atrocités de masse, ont averti de hauts responsables des Nations unies devant le Conseil de sécurité. Rosemary DiCarlo, sous-secrétaire générale aux affaires politiques, a dénoncé des « massacres et atrocités brutaux, des enlèvements de femmes et de filles et des viols de masse » qui se répètent selon elle, les forces armées soudanaises et les Forces de soutien rapide (FSR) ayant toutes deux mené des attaques de drones contre des marchés, des écoles, des stations-service et des infrastructures hydrauliques.</p><p>Tom Fletcher, coordonnateur des secours d&#x27;urgence de l&#x27;ONU, a précisé que plus des deux tiers de la population soudanaise ont désespérément besoin d&#x27;une aide vitale. L&#x27;organisation a recensé 1 400 morts civils depuis le début de l&#x27;année, dont plus de 1 100 causés par des frappes de drones, tandis que les combats dans la ville d&#x27;El Obeid, dans le Kordofan-Nord, ont poussé 15 000 familles à fuir vers la ville depuis la mi-juillet. Une conseillère de l&#x27;ONU, Eva Khair, a affirmé que les deux camps commettent des violations généralisées contre les civils, avec des violences sexuelles rapportées dans 16 des 18 États du pays, qu&#x27;elle a qualifiées de « stratégie délibérée pour terroriser les civils ».</p><p>Les États-Unis ont proposé d&#x27;élargir l&#x27;embargo sur les armes à l&#x27;ensemble du Soudan, y compris aux drones, tandis que la Russie s&#x27;est opposée à un durcissement des sanctions, estimant qu&#x27;il aggraverait la situation de la population soudanaise plutôt que de l&#x27;améliorer. Le représentant du Soudan a défendu l&#x27;action de son gouvernement devant le Conseil, affirmant que 5,8 millions de personnes déplacées étaient rentrées chez elles d&#x27;ici la fin juin, tout en s&#x27;opposant à un élargissement des sanctions qui, selon lui, mettrait sur un pied d&#x27;égalité l&#x27;armée régulière soudanaise et les paramilitaires des FSR.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

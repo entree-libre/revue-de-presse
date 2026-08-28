@@ -32,6 +32,12 @@
 <div class="terr">Terre-Neuve-et-Labrador</div>
 <h1>Ottawa et Teck Resources protègent 1 600 hectares de forêt boréale à Terre-Neuve-et-Labrador</h1>
 <div class="chapo">Gouvernement du Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ottawa-et-teck-resources-protegent-1-600-hectares-de-foret-b-c28555.html"
+  data-titre="Ottawa et Teck Resources protègent 1 600 hectares de forêt boréale à Terre-Neuve-et-Labrador" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ottawa-et-teck-resources-protegent-1-600-hectares-de-foret-b-c28555.html">https://entreelibre.ca/edition/2026-08-28/a/ottawa-et-teck-resources-protegent-1-600-hectares-de-foret-b-c28555.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/08/le-canada-conservation-de-la-nature-canada-et-teck-resources-limited-collaborent-pour-conserver-1-600-hectares-a-terre-neuve-et-labrador.html" target="_blank" rel="noopener"><span class="src-nom">Gouvernement du Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le gouvernement fédéral, Conservation de la nature Canada et la minière Teck Resources ont annoncé jeudi la création de la réserve naturelle du Lac-Beothuk, près de Millertown, protégeant 1 600 hectares de forêt boréale, de milieux humides et d&#x27;habitats riverains dans le bassin versant de la rivière Exploits, l&#x27;un des plus importants réseaux à saumon de la province. Le territoire abrite des espèces en péril comme la martre des pins de Terre-Neuve, et se trouve à proximité du lieu historique national Indian Point, un site qui a servi de campement d&#x27;hiver et de terrain de chasse au caribou pour les Béothuks. Le financement provient à la fois du Programme fédéral de conservation du patrimoine naturel et d&#x27;une contribution de Teck Resources liée à l&#x27;héritage de son ancienne mine Duck Pond, dans la région. Ottawa présente cette annonce comme une étape vers son objectif déclaré de protéger 30 % des terres et des eaux du Canada d&#x27;ici 2030 ; le gouvernement fédéral affirme avoir déjà investi 558 millions de dollars dans ce programme, auxquels s&#x27;ajoutent plus de 1,1 milliard de dollars recueillis par des organismes de conservation partenaires, pour un total de près de 966 000 hectares protégés à ce jour.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

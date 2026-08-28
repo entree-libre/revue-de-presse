@@ -33,6 +33,12 @@
 <div class="terr">États-Unis</div>
 <h1>L&#x27;acteur Tim Curry, inoubliable Frank-N-Furter du Rocky Horror Picture Show, meurt à 80 ans</h1>
 <div class="chapo">Le Journal de Montréal, La Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-acteur-tim-curry-inoubliable-frank-n-furter-du-rocky-horro-5e1933.html"
+  data-titre="L&#x27;acteur Tim Curry, inoubliable Frank-N-Furter du Rocky Horror Picture Show, meurt à 80 ans" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-acteur-tim-curry-inoubliable-frank-n-furter-du-rocky-horro-5e1933.html">https://entreelibre.ca/edition/2026-08-28/a/l-acteur-tim-curry-inoubliable-frank-n-furter-du-rocky-horro-5e1933.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tim_Curry_-_Rocky_Horror_50th.jpg/1280px-Tim_Curry_-_Rocky_Horror_50th.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;acteur Tim Curry lors d&#x27;un événement soulignant les 50 ans de Rocky Horror Picture Show. Photo : Kevin Paul, CC BY 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/cinema/2026-08-26/vedette-de-the-rocky-horror-picture-show/tim-curry-s-etein" target="_blank" rel="noopener"><span class="src-nom">Le Journal de Montréal</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par La Presse, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;acteur britannique Tim Curry, qui a incarné toute une galerie de méchants excentriques au théâtre et au cinéma, est mort à l&#x27;âge de 80 ans, rapporte La Presse. Il s&#x27;était fait connaître en interprétant le Transylvanien Frank-N-Furter dans la comédie musicale The Rocky Horror Picture Show, créée en 1973 au Royal Court Theatre de Londres avant de devenir un phénomène culturel durable et un classique du cinéma de minuit.</p><p>Sa carrière s&#x27;est ensuite étendue à de nombreux rôles de composition au cinéma et à la télévision, où sa voix distinctive et son sens du grotesque en avaient fait une figure recherchée pour incarner des personnages inquiétants ou théâtraux. Le public plus jeune l&#x27;a aussi connu comme voix de personnages d&#x27;animation et de jeux vidéo, où sa diction reconnaissable continuait de marquer les productions auxquelles il prêtait sa voix.</p><p>Son interprétation de Frank-N-Furter reste, un demi-siècle après la création du spectacle, la référence la plus citée lorsqu&#x27;il est question de son héritage artistique.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

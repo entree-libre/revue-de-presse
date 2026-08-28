@@ -32,6 +32,12 @@
 <div class="terr">Gatineau</div>
 <h1>Gatineau : la police cherche d&#x27;autres victimes présumées d&#x27;un homme accusé d&#x27;introductions par effraction</h1>
 <div class="chapo">Service de police de la Ville de Gatineau · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/gatineau-la-police-cherche-d-autres-victimes-presumees-d-un-f907b1.html"
+  data-titre="Gatineau : la police cherche d&#x27;autres victimes présumées d&#x27;un homme accusé d&#x27;introductions par effraction" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/gatineau-la-police-cherche-d-autres-victimes-presumees-d-un-f907b1.html">https://entreelibre.ca/edition/2026-08-28/a/gatineau-la-police-cherche-d-autres-victimes-presumees-d-un-f907b1.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.gatineau.ca/portail/default.aspx?p=police/actualites/communiques/communique&amp;id=-453428709" target="_blank" rel="noopener"><span class="src-nom">Service de police de la Ville de Gatineau</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Service de police de la Ville de Gatineau (SPVG) recherche d&#x27;éventuelles victimes d&#x27;introductions par effraction reliées à Timothy Patten, 52 ans, de Gatineau, arrêté le 20 novembre 2025 après l&#x27;exécution d&#x27;un mandat de perquisition dans le secteur du Manoir-des-Trembles. Il avait alors comparu devant la Cour du Québec pour deux dossiers d&#x27;introduction par effraction; d&#x27;autres accusations similaires ont depuis été autorisées par le Directeur des poursuites criminelles et pénales. Les enquêteurs croient que l&#x27;homme, qui offrait ses services d&#x27;« homme à tout faire » chez des particuliers, pourrait avoir fait d&#x27;autres victimes ailleurs à Gatineau et à Ottawa. En raison du nombre de victimes déjà identifiées, la structure de gestion des enquêtes sur les crimes en série, coordonnée par la Sûreté du Québec, a été déployée. Le SPVG invite toute personne détenant de l&#x27;information ou croyant avoir été victime de M. Patten à communiquer avec sa ligne Info.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

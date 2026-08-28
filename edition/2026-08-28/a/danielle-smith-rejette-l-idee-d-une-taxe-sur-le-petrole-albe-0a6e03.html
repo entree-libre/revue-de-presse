@@ -32,6 +32,12 @@
 <div class="terr">Alberta</div>
 <h1>Danielle Smith rejette l&#x27;idée d&#x27;une taxe sur le pétrole albertain exporté vers les États-Unis</h1>
 <div class="chapo">Global News, National Post · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/danielle-smith-rejette-l-idee-d-une-taxe-sur-le-petrole-albe-0a6e03.html"
+  data-titre="Danielle Smith rejette l&#x27;idée d&#x27;une taxe sur le pétrole albertain exporté vers les États-Unis" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/danielle-smith-rejette-l-idee-d-une-taxe-sur-le-petrole-albe-0a6e03.html">https://entreelibre.ca/edition/2026-08-28/a/danielle-smith-rejette-l-idee-d-une-taxe-sur-le-petrole-albe-0a6e03.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://globalnews.ca/news/12036906/danielle-smith-energy-exports-trade-war/" target="_blank" rel="noopener"><span class="src-nom">Global News</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par National Post, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La première ministre de l&#x27;Alberta, Danielle Smith, a rejeté l&#x27;idée d&#x27;imposer une taxe sur les exportations pétrolières albertaines vers les États-Unis en guise de représailles dans la guerre commerciale, plaidant plutôt pour qu&#x27;Ottawa « redouble » ses efforts diplomatiques auprès des autorités américaines et évite toute nouvelle escalade des tarifs. « Même si je comprends la nécessité de répondre fermement à ces tarifs, je ne peux pas imaginer de décision politique plus désastreuse » que de s&#x27;en prendre aux exportations énergétiques albertaines, a-t-elle déclaré selon Global News, estimant qu&#x27;une telle mesure nuirait à l&#x27;économie canadienne au moins autant qu&#x27;à celle des États-Unis. Le National Post rapporte que Mme Smith a insisté sur l&#x27;importance de préserver l&#x27;accès du pétrole albertain au marché américain, qui demeure de loin son principal débouché à l&#x27;exportation malgré les efforts de diversification vers l&#x27;Asie.</p><p>La position de Mme Smith tranche avec celle d&#x27;une partie du mouvement souverainiste albertain et de certains élus qui réclament une réponse plus musclée face à Washington, illustrant les tensions persistantes entre le gouvernement albertain et Ottawa sur la stratégie à adopter dans le conflit commercial. Ni le bureau du premier ministre Mark Carney ni celui de la ministre des Finances n&#x27;ont commenté directement la sortie de Mme Smith. Le dossier survient dans un contexte où l&#x27;Alberta se prépare également à un possible référendum sur la séparation à l&#x27;automne, un enjeu que plusieurs observateurs lient à la volonté de Mme Smith de se positionner comme la voix de la modération économique face à Washington. Le National Post note que la sortie de Mme Smith survient au moment même où l&#x27;Alberta annonce un surplus budgétaire inattendu de deux milliards de dollars, attribuable à la remontée du prix du pétrole, ce qui pourrait renforcer sa position dans les débats internes du Parti conservateur uni sur la stratégie à adopter face aux tarifs américains. Global News rapporte que plusieurs élus fédéraux de l&#x27;Ouest canadien partagent la prudence de Mme Smith quant à toute mesure susceptible de nuire davantage aux exportations énergétiques de la région.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

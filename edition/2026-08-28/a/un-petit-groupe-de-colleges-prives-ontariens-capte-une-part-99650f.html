@@ -32,6 +32,12 @@
 <div class="terr">Ontario</div>
 <h1>Un petit groupe de collèges privés ontariens capte une part croissante des bourses OSAP</h1>
 <div class="chapo">CBC, Global News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-petit-groupe-de-colleges-prives-ontariens-capte-une-part-99650f.html"
+  data-titre="Un petit groupe de collèges privés ontariens capte une part croissante des bourses OSAP" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-petit-groupe-de-colleges-prives-ontariens-capte-une-part-99650f.html">https://entreelibre.ca/edition/2026-08-28/a/un-petit-groupe-de-colleges-prives-ontariens-capte-une-part-99650f.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.cbc.ca/news/canada/toronto/osap-grants-seven-career-colleges-ontario-9.7322793" target="_blank" rel="noopener"><span class="src-nom">CBC</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Global News, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Une poignée de collèges privés de formation professionnelle en Ontario a connu une croissance explosive du nombre d&#x27;étudiants recevant de l&#x27;aide financière, selon de nouvelles données obtenues conjointement par CBC et Global News. Sept de ces établissements, sur environ 170 collèges de ce type dans la province, ont à eux seuls capté 385 millions de dollars en subventions et prêts du Programme d&#x27;aide financière aux étudiantes et étudiants de l&#x27;Ontario (OSAP) au cours de la dernière année. L&#x27;association représentant le secteur des collèges privés a elle-même exprimé des inquiétudes face à cette concentration rapide de l&#x27;aide financière chez un nombre restreint d&#x27;établissements, un signal que les deux médias interprètent comme le symptôme possible d&#x27;un problème plus large de surveillance du programme.</p><p>Les deux reportages soulignent que cette croissance soulève des questions sur la qualité de la formation offerte et sur les mécanismes de contrôle du programme provincial, sans que des allégations précises de fraude n&#x27;aient été formulées publiquement contre les établissements visés à ce stade. Le ministère ontarien responsable du programme n&#x27;avait pas commenté ces chiffres au moment de la publication des deux reportages. Le phénomène rappelle des controverses similaires observées dans d&#x27;autres provinces canadiennes ces dernières années, où la croissance rapide de certains établissements privés subventionnés par l&#x27;État a parfois précédé la mise au jour de pratiques douteuses de recrutement d&#x27;étudiants étrangers ou vulnérables. CBC précise que les sept établissements visés n&#x27;ont pas été identifiés publiquement dans le reportage, les deux médias ayant choisi de concentrer leur analyse sur les chiffres agrégés plutôt que sur des cas individuels en l&#x27;absence d&#x27;allégations formelles. Le gouvernement de l&#x27;Ontario dispose déjà d&#x27;un mécanisme d&#x27;inspection pour les collèges privés, mais son efficacité face à une croissance aussi rapide de l&#x27;aide financière versée reste à démontrer, selon les deux reportages.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -33,6 +33,12 @@
 <div class="terr">États-Unis</div>
 <h1>Détenus à Miami, les frères Tate témoignent pour tenter d&#x27;éviter leur extradition vers le Royaume-Uni</h1>
 <div class="chapo">Radio-Canada (La Presse canadienne), Le Devoir, La Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/detenus-a-miami-les-freres-tate-temoignent-pour-tenter-d-evi-8c542e.html"
+  data-titre="Détenus à Miami, les frères Tate témoignent pour tenter d&#x27;éviter leur extradition vers le Royaume-Uni" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/detenus-a-miami-les-freres-tate-temoignent-pour-tenter-d-evi-8c542e.html">https://entreelibre.ca/edition/2026-08-28/a/detenus-a-miami-les-freres-tate-temoignent-pour-tenter-d-evi-8c542e.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Gabriel_Ernesto_Rapisarda%2C_Andrew_Tate%2CTristan_Tate.jpg" onerror="this.closest('figure').remove()"><figcaption>Andrew et Tristan Tate. Photo : KaoriKellyBarbie, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278395/freres-tate-temoignent-eviter-extradition" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada (La Presse canadienne)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Devoir, La Presse, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les influenceurs masculinistes Andrew et Tristan Tate ont témoigné jeudi devant une cour fédérale de Miami, plaidant qu&#x27;ils ne peuvent pas préparer leur défense contre des accusations d&#x27;agression sexuelle s&#x27;ils restent incarcérés pendant la contestation de leur extradition vers le Royaume-Uni. Menottés et vêtus de combinaisons de prison, les deux frères ont nié sous serment, pendant près de deux heures, les accusations portées contre eux dans plusieurs pays, décrivant leurs personnages en ligne comme des fictions. L&#x27;audience de huit heures s&#x27;est conclue sans décision de la magistrate Lauren Louis, et les frères ont été reconduits en détention, où ils se trouvent depuis leur arrestation le 18 juillet.</p><p>La procureure fédérale adjointe Abbie Waxman a soutenu qu&#x27;Andrew Tate est accusé d&#x27;avoir étranglé et immobilisé ses victimes avant de les violer, et Tristan Tate de traite d&#x27;êtres humains, de blanchiment et de violences envers des mineurs. « ils prônent une violence incroyable envers les femmes », a-t-elle affirmé. La défense fait valoir que la demande britannique est prématurée, l&#x27;affaire pénale roumaine devant selon elle être jugée d&#x27;abord, et que la notoriété des deux hommes rend toute fuite illusoire. Andrew Tate s&#x27;est dit innocent et a affirmé craindre une condamnation « injuste » en Europe. Aucune date n&#x27;a été fixée pour l&#x27;audience d&#x27;extradition. Londres a jusqu&#x27;à la mi-septembre pour transmettre ses éléments de preuve au département d&#x27;État.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">France</div>
 <h1>Les fuites de données de Bercy et de l&#x27;Éducation nationale pourraient être liées, selon des chercheurs</h1>
 <div class="chapo">The Conversation · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/les-fuites-de-donnees-de-bercy-et-de-l-education-nationale-p-2dcc3a.html"
+  data-titre="Les fuites de données de Bercy et de l&#x27;Éducation nationale pourraient être liées, selon des chercheurs" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/les-fuites-de-donnees-de-bercy-et-de-l-education-nationale-p-2dcc3a.html">https://entreelibre.ca/edition/2026-08-28/a/les-fuites-de-donnees-de-bercy-et-de-l-education-nationale-p-2dcc3a.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://theconversation.com/les-fuites-de-donnees-de-bercy-et-de-leducation-nationale-auraient-elles" target="_blank" rel="noopener"><span class="src-nom">The Conversation</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Plusieurs compromissions ayant touché ces derniers mois les systèmes fiscaux français, le cadastre, les données de succession et celles du ministère de l&#x27;Éducation nationale pourraient avoir un point commun, malgré des systèmes hébergés et administrés séparément, écrivent des chercheurs dans The Conversation. Un même acteur, désigné sous le nom Zerobytes, a revendiqué ces attaques, mais pourrait n&#x27;être qu&#x27;un intermédiaire chargé de commercialiser les données dérobées plutôt que l&#x27;auteur direct des intrusions.</p><p>La méthode employée serait, selon les auteurs, relativement simple : l&#x27;usurpation d&#x27;identifiants de connexion d&#x27;utilisateurs autorisés, permettant d&#x27;entrer sur les réseaux visés puis d&#x27;en extraire les données sans éveiller l&#x27;attention des équipes de sécurité. Cette approche ne nécessite pas d&#x27;exploiter une faille technique sophistiquée, ce qui la rend difficile à détecter avant que les données n&#x27;aient déjà quitté les systèmes visés.</p><p>Les chercheurs y voient un signe que la vulnérabilité tient moins à des failles techniques complexes qu&#x27;à la gestion des accès humains, un constat qui vaut pour de nombreuses administrations au-delà des cas français cités. Ils appellent à un renforcement des pratiques d&#x27;authentification plutôt qu&#x27;à la seule multiplication des outils de détection.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

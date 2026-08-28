@@ -32,6 +32,12 @@
 <div class="terr">Canada, États-Unis</div>
 <h1>Guerre commerciale : comment les négociations entre le Canada et les États-Unis ont avorté</h1>
 <div class="chapo">La Presse (The New York Times) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/guerre-commerciale-comment-les-negociations-entre-le-canada-90e164.html"
+  data-titre="Guerre commerciale : comment les négociations entre le Canada et les États-Unis ont avorté" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/guerre-commerciale-comment-les-negociations-entre-le-canada-90e164.html">https://entreelibre.ca/edition/2026-08-28/a/guerre-commerciale-comment-les-negociations-entre-le-canada-90e164.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/actualites/politique/2026-08-26/guerre-commerciale/comment-les-negociations-etats-unis-canada-ont-avorte.php" target="_blank" rel="noopener"><span class="src-nom">La Presse (The New York Times)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Minuit approchait vendredi dernier : de nouveaux droits de douane américains visant le Canada étaient sur le point d&#x27;entrer en vigueur, et les négociateurs, enfermés dans un bâtiment face à la Maison-Blanche, peinaient encore à régler leurs différends. Le récit, publié par des journalistes du New York Times et repris par La Presse, détaille les dernières heures des pourparlers entre les deux délégations. Selon des responsables américains, le Canada avait devant lui la meilleure entente commerciale offerte par Washington à un partenaire ; côté canadien, on jugeait au contraire l&#x27;offre insuffisante et déséquilibrée en faveur des intérêts américains.</p><p>Dans les dernières heures, les positions se sont durcies des deux côtés de la frontière. À Ottawa, le premier ministre Mark Carney a échangé par téléphone avec son homologue ontarien Doug Ford, qui l&#x27;a exhorté à ne pas accepter l&#x27;entente proposée en l&#x27;état. M. Ford refusait notamment de se plier à l&#x27;exigence américaine de rétablir la vente d&#x27;alcool américain au Canada, et jugeait par ailleurs les droits de douane visant la sidérurgie et l&#x27;automobile canadiennes encore trop élevés pour la survie à long terme de ces industries.</p><p>Peu après 22 h 30, M. Carney a mis fin aux pourparlers et rappelé son équipe de négociation postée à Washington, mettant un terme à un mois entier de tractations sans résultat concret. Les deux capitales n&#x27;ont depuis lors fixé aucune date pour une reprise formelle des discussions bilatérales.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

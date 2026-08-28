@@ -33,6 +33,12 @@
 <div class="terr">Verdun, LaSalle, Le Sud-Ouest</div>
 <h1>Verdun fait de la séparation des pistes partagées une priorité face à l&#x27;achalandage</h1>
 <div class="chapo">Nouvelles d&#x27;Ici · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/verdun-fait-de-la-separation-des-pistes-partagees-une-priori-453cdc.html"
+  data-titre="Verdun fait de la séparation des pistes partagées une priorité face à l&#x27;achalandage" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/verdun-fait-de-la-separation-des-pistes-partagees-une-priori-453cdc.html">https://entreelibre.ca/edition/2026-08-28/a/verdun-fait-de-la-separation-des-pistes-partagees-une-priori-453cdc.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Piste_cyclable_canal_Aqueduc_-_2025-09-13_-_01.jpg" onerror="this.closest('figure').remove()"><figcaption>Une piste partagée le long du canal de l&#x27;Aqueduc, à Verdun. Photo : Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://nouvellesdici.com/art-de-vivre/loisirs/a-velo/pistes-partagees-cyclistes-pietons-certains-enjeux-de-cohabitation-a-verdun-lasalle-et-le-sud-ouest/" target="_blank" rel="noopener"><span class="src-nom">Nouvelles d&#x27;Ici</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les pistes partagées entre cyclistes et piétons de Verdun, LaSalle et du Sud-Ouest posent des enjeux croissants de cohabitation, alors que l&#x27;achalandage augmente sur ces voies empruntées à vélo, en trottinette, en patins, à pied ou avec une poussette. À Verdun, où 34,9 des 74,1 kilomètres de pistes et sentiers sont polyvalents, séparer les usages est devenu une « priorité absolue » pour les nouveaux projets de modernisation, indique Isabelle Beaulac, cheffe de division aux relations avec les citoyens de l&#x27;arrondissement. Le nombre d&#x27;accidents rapportés reste très faible, mais ces pistes « n&#x27;offrent plus le niveau de confort souhaité par les citoyens », affirme Jean Cardin, chef de division ingénierie à Verdun, qui évoque l&#x27;ajout de trottoirs, de sentiers dédiés ou de délimitations physiques par mode de transport. L&#x27;arrondissement mène en parallèle une campagne de sensibilisation pour favoriser un « vivre-ensemble agréable » sur ces tronçons, notamment les plus fréquentés comme celui du canal de l&#x27;Aqueduc. La réflexion touche notamment des tronçons très fréquentés comme celui du canal de l&#x27;Aqueduc, où se croisent quotidiennement plusieurs types d&#x27;usagers.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

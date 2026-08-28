@@ -32,6 +32,12 @@
 <div class="terr">MRC de La Nouvelle-Beauce</div>
 <h1>Un projet éolien à Saint-Isidore et Saint-Lambert-de-Lauzon inquiète une quarantaine de résidents</h1>
 <div class="chapo">Beauce Média, MRC de La Nouvelle-Beauce · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-projet-eolien-a-saint-isidore-et-saint-lambert-de-lauzon-ff98c9.html"
+  data-titre="Un projet éolien à Saint-Isidore et Saint-Lambert-de-Lauzon inquiète une quarantaine de résidents" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-projet-eolien-a-saint-isidore-et-saint-lambert-de-lauzon-ff98c9.html">https://entreelibre.ca/edition/2026-08-28/a/un-projet-eolien-a-saint-isidore-et-saint-lambert-de-lauzon-ff98c9.html</a>
+</div>
 <div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.beaucemedia.ca/actualites/eoliennes-avec-le-vent-les-tourments/" target="_blank" rel="noopener"><span class="src-nom">Beauce Média</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.nouvellebeauce.com/2026/08/28/infolettre-aout-2026-eolienne-ecocentre-transport/" target="_blank" rel="noopener"><span class="src-nom">MRC de La Nouvelle-Beauce</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Une quarantaine de résidents de Saint-Isidore et de Saint-Lambert-de-Lauzon sont venus exprimer leurs craintes envers un projet éolien à l&#x27;étude sur leur territoire, lors de la séance du conseil des maires de la MRC de La Nouvelle-Beauce du 25 août.</p><p>Le débat a d&#x27;abord porté sur un contrat de communication octroyé à l&#x27;Agence Well, dont la neutralité a été mise en doute par le résident Dave Lachance; la directrice générale de la MRC, Nancy Labbé, a répliqué que ce mandat visait seulement à organiser de futures consultations publiques et non à orienter la décision. Plusieurs citoyens ont évoqué la baisse de valeur des propriétés, la contamination de la nappe phréatique, les ultrasons et la perte de terres agricoles comme conséquences appréhendées, jugeant le projet incomparable au parc éolien existant de Frampton.</p><p>Le préfet Olivier Dumais a indiqué que la MRC avancerait « étape par étape », la prochaine étant la tenue de consultations publiques cet automne, avec une réglementation resserrée par rapport à celle de 2006. Le porte-parole citoyen Alexandre Lemieux a fait valoir que la question devrait être soumise à un référendum dans les seules municipalités concernées et a annoncé la création de trois pétitions distinctes; une séance d&#x27;information citoyenne est prévue le 29 août à Saint-Isidore.</p><p>Dans son infolettre du 28 août, le préfet Olivier Dumais présente la démarche de la MRC comme distincte de celle des promoteurs privés : ces derniers doivent déposer leur projet d&#x27;ici février 2027 pour participer à l&#x27;appel d&#x27;offres d&#x27;Hydro-Québec, alors que la MRC, elle, travaille à mettre à jour sa réglementation pour mieux encadrer l&#x27;éolien sur son territoire. « La présence des promoteurs ne signifie pas que la MRC ou les municipalités se sont prononcées sur leurs projets », précise le préfet, qui promet une consultation publique distincte de tout mandat de communication.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

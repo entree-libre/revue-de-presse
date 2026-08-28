@@ -32,6 +32,12 @@
 <div class="terr">Montréal</div>
 <h1>La CNESST dévoile les conclusions de son enquête sur la mort d&#x27;un contremaître à Montréal</h1>
 <div class="chapo">Gouvernement du Québec · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-cnesst-devoile-les-conclusions-de-son-enquete-sur-la-mort-0830a7.html"
+  data-titre="La CNESST dévoile les conclusions de son enquête sur la mort d&#x27;un contremaître à Montréal" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-cnesst-devoile-les-conclusions-de-son-enquete-sur-la-mort-0830a7.html">https://entreelibre.ca/edition/2026-08-28/a/la-cnesst-devoile-les-conclusions-de-son-enquete-sur-la-mort-0830a7.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.quebec.ca/nouvelles/actualites/details/deces-dun-contremaitre-de-lentreprise-scv-enercor-inc-la-cnesst-devoile-les-conclusions-de-son-enquete-72330" target="_blank" rel="noopener"><span class="src-nom">Gouvernement du Québec</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Commission des normes, de l&#x27;équité, de la santé et de la sécurité du travail (CNESST) a rendu publiques jeudi les conclusions de son enquête sur l&#x27;accident qui a coûté la vie à un contremaître et grièvement blessé un travailleur de l&#x27;entreprise SCV Enercor, le 20 novembre 2025 dans l&#x27;arrondissement montréalais d&#x27;Anjou. Le contremaître procédait à un essai de pression pneumatique sur un tuyau en acier inoxydable, dans l&#x27;atelier de préfabrication de l&#x27;entreprise, lorsque le collet à l&#x27;une des extrémités a cédé ; le collet et le bouchon ont été éjectés, l&#x27;air comprimé s&#x27;est libéré brusquement et le tuyau projeté a percuté le contremaître, qui est mort de ses blessures, et blessé grièvement un collègue à proximité. La CNESST conclut que la méthode de travail utilisée ne permettait pas de contrôler le risque de projection de pièces et que l&#x27;accident aurait pu être évité par une analyse adéquate des risques et l&#x27;application d&#x27;une procédure sécuritaire prévoyant un périmètre de sécurité. L&#x27;organisme dit transmettre ses conclusions aux associations d&#x27;employeurs et de travailleurs concernées ainsi qu&#x27;au ministère de l&#x27;Éducation, qui les diffusera dans les établissements d&#x27;enseignement visés.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

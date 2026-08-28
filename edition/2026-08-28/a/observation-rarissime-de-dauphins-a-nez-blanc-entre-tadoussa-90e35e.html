@@ -33,6 +33,12 @@
 <div class="terr">Côte-Nord</div>
 <h1>Observation rarissime de dauphins à nez blanc entre Tadoussac et Les Bergeronnes</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/observation-rarissime-de-dauphins-a-nez-blanc-entre-tadoussa-90e35e.html"
+  data-titre="Observation rarissime de dauphins à nez blanc entre Tadoussac et Les Bergeronnes" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/observation-rarissime-de-dauphins-a-nez-blanc-entre-tadoussa-90e35e.html">https://entreelibre.ca/edition/2026-08-28/a/observation-rarissime-de-dauphins-a-nez-blanc-entre-tadoussa-90e35e.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/0/01/White_beaked_dolphin.jpg" onerror="this.closest('figure').remove()"><figcaption>Un dauphin à nez blanc, l&#x27;espèce observée au large de Tadoussac. Photo : Hannah Beker, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/ohdio/premiere/emissions/cote-a-cote/episodes/1224194/mercredi-26-aout-2026" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Lors d&#x27;une sortie en mer entre Tadoussac et Les Bergeronnes, les passagers d&#x27;un bateau de l&#x27;entreprise Tadoussac Autrement ont suivi une dizaine de dauphins à nez blanc, une espèce rarement observée dans l&#x27;estuaire maritime du Saint-Laurent. Le photographe animalier et guide-interprète Renaud Pintiaux, qui se trouvait à bord, a partagé des vidéos du moment sur ses réseaux sociaux.</p><p>Il s&#x27;agit seulement de la deuxième fois en 29 ans que M. Pintiaux observe cette espèce dans l&#x27;estuaire, ce qui donne la mesure de la rareté du phénomène pour un habitué de ces eaux.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

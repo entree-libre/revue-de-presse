@@ -32,6 +32,12 @@
 <div class="terr">LaSalle</div>
 <h1>À LaSalle, une placette longtemps retardée suscite des réactions mitigées</h1>
 <div class="chapo">Nouvelles d&#x27;Ici · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/a-lasalle-une-placette-longtemps-retardee-suscite-des-reacti-c5bbeb.html"
+  data-titre="À LaSalle, une placette longtemps retardée suscite des réactions mitigées" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/a-lasalle-une-placette-longtemps-retardee-suscite-des-reacti-c5bbeb.html">https://entreelibre.ca/edition/2026-08-28/a/a-lasalle-une-placette-longtemps-retardee-suscite-des-reacti-c5bbeb.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://nouvellesdici.com/actu/placette-de-la-2e-avenue-a-lasalle-petit-parc-grandes-reactions/" target="_blank" rel="noopener"><span class="src-nom">Nouvelles d&#x27;Ici</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La placette aménagée au coin de la 2e avenue et de la rue Centrale, à LaSalle, est ouverte au public depuis quelques jours seulement, mais plusieurs personnes rencontrées à proximité par Nouvelles d&#x27;Ici ne cachent pas leur déception. Le projet, qui transforme un ancien stationnement municipal de cinq places en un lieu de détente de 170 mètres carrés, a été financé à hauteur de 410 000 $ dans le cadre du budget participatif de Montréal, avec 95 000 $ additionnels pour une murale de l&#x27;artiste Fluke à dévoiler en septembre. Les travaux, amorcés le 27 août 2025, devaient se terminer fin novembre de la même année; l&#x27;ouverture n&#x27;a eu lieu que le 12 août 2026. Selon Caroline Elliott, chargée de communication de l&#x27;arrondissement de LaSalle, le report s&#x27;explique par l&#x27;arrivée précoce de l&#x27;hiver, des ajustements liés à l&#x27;intégration de l&#x27;œuvre d&#x27;art et des délais de livraison du mobilier et des branchements électriques d&#x27;Hydro-Québec. L&#x27;aménagement fait partie des 14 sites réaménagés à Montréal dans le cadre du projet Microparcs et microplaces, qui vise à transformer des terrains publics sous-utilisés en lieux de rencontre. Le budget participatif de Montréal permet chaque année à la population de proposer et de choisir des projets d&#x27;aménagement locaux financés directement par la Ville.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

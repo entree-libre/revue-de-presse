@@ -32,6 +32,12 @@
 <div class="terr">Outaouais (Gatineau)</div>
 <h1>À 58 ans, la Gatinoise Nathalie Champagne carbure à sa fibre compétitive en cyclisme</h1>
 <div class="chapo">Le Droit · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/a-58-ans-la-gatinoise-nathalie-champagne-carbure-a-sa-fibre-295a54.html"
+  data-titre="À 58 ans, la Gatinoise Nathalie Champagne carbure à sa fibre compétitive en cyclisme" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/a-58-ans-la-gatinoise-nathalie-champagne-carbure-a-sa-fibre-295a54.html">https://entreelibre.ca/edition/2026-08-28/a/a-58-ans-la-gatinoise-nathalie-champagne-carbure-a-sa-fibre-295a54.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledroit.com/sports/sport-local/2026/08/28/la-fibre-competitive-qui-propulse-une-gatinoise-de-58-ans-4QGSC6OR3RBCTOJLZ72HK42C4M/" target="_blank" rel="noopener"><span class="src-nom">Le Droit</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>« J&#x27;ai toujours eu ça dans mon ADN, on dirait. J&#x27;ai toujours voulu me dépasser. Ça vient me chercher, je ne sais pas pourquoi », confie la cycliste gatinoise Nathalie Champagne, jointe alors qu&#x27;elle attendait son vol à l&#x27;aéroport Montréal-Trudeau, en route vers une course sur l&#x27;île japonaise d&#x27;Hokkaido. Bien qu&#x27;elle aura 59 ans en septembre, la compétition demeure relativement nouvelle pour elle : c&#x27;est durant la pandémie, en se joignant au club Agowatt du parc de la Gatineau, qu&#x27;elle a découvert les courses cyclistes. « On est une cinquantaine, dont une dizaine qui font des courses au niveau provincial. Elles m&#x27;ont permis de développer un certain potentiel qui était peut-être en latence », raconte-t-elle.</p><p>Mme Champagne s&#x27;est vite imposée dans la catégorie des maîtres de 35 ans et plus, devançant l&#x27;an dernier toutes les coureuses aux Championnats canadiens, y compris celles dans la trentaine et la quarantaine, peu avant un triomphe en Australie dans sa catégorie d&#x27;âge. « Je vais toujours là pour gagner [...] il faut toujours que j&#x27;aille tout de suite à l&#x27;avant, et mon objectif, c&#x27;est d&#x27;être parmi les cinq premières durant toute la course », explique-t-elle. Elle ne laisse d&#x27;ailleurs rien au hasard avant une compétition : à son arrivée, elle parcourt une fois le circuit au complet, puis marche et refait plusieurs fois les trois derniers kilomètres, en vélo comme en voiture, pour repérer les trous dans la chaussée, les virages et les côtes.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

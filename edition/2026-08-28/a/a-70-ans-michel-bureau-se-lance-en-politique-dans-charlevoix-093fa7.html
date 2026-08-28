@@ -33,6 +33,12 @@
 <div class="terr">Charlevoix</div>
 <h1>À 70 ans, Michel Bureau se lance en politique dans Charlevoix–Côte-de-Beaupré</h1>
 <div class="chapo">Le Charlevoisien · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/a-70-ans-michel-bureau-se-lance-en-politique-dans-charlevoix-093fa7.html"
+  data-titre="À 70 ans, Michel Bureau se lance en politique dans Charlevoix–Côte-de-Beaupré" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/a-70-ans-michel-bureau-se-lance-en-politique-dans-charlevoix-093fa7.html">https://entreelibre.ca/edition/2026-08-28/a/a-70-ans-michel-bureau-se-lance-en-politique-dans-charlevoix-093fa7.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paysage_au_sommet_du_Mont_du_Lac_des_Cygnes.jpg/1280px-Paysage_au_sommet_du_Mont_du_Lac_des_Cygnes.jpg" onerror="this.closest('figure').remove()"><figcaption>Le parc national des Grands-Jardins, dans Charlevoix. Photo : Simon Blais, Domaine public, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lecharlevoisien.com/2026/08/28/michel-bureau-se-lance-pour-faire-entendre-ses-idees/" target="_blank" rel="noopener"><span class="src-nom">Le Charlevoisien</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Candidat du Parti libéral du Québec dans Charlevoix–Côte-de-Beaupré, Michel Bureau, 70 ans, reconnaît d&#x27;entrée de jeu que ses chances de l&#x27;emporter sont « très, très minces », mais souhaite profiter de la campagne pour faire entendre ses idées et défendre les intérêts des citoyens. Après 50 ans dans le monde des médias, il veut notamment porter la voix des baby-boomers : « Je me présente pour représenter ma génération, pour amener des nouvelles idées », affirme-t-il, citant en exemple sa tante, qui vivait dans une résidence pour aînés facturée 3200 $ par mois. « C&#x27;est ces gens-là qui ont bâti le Québec », soutient-il.</p><p>Ses propositions dépassent toutefois les enjeux des aînés : il souhaite notamment développer l&#x27;usage de drones dans certaines municipalités pour améliorer la prévention des incendies de forêt, et multiplier les frigos communautaires pour venir en aide aux personnes qui peinent à payer leur épicerie. Son passage au Parti libéral marque un changement de cap : l&#x27;ex-journaliste rappelle avoir voté « oui » aux deux référendums sur la souveraineté, mais affirme qu&#x27;il voterait « non » dans le contexte actuel.</p><p>Dès le lancement de la campagne, les équipes de tous les candidats de la circonscription ont commencé à installer leurs pancartes aux quatre coins du territoire, la députée sortante caquiste Kariane Bourassa s&#x27;affichant tôt le long des principales routes.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

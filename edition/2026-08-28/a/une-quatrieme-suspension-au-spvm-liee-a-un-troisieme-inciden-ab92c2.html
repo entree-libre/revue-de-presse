@@ -33,6 +33,12 @@
 <div class="terr">Montréal</div>
 <h1>Une quatrième suspension au SPVM liée à un troisième incident à caractère raciste</h1>
 <div class="chapo">Le Canada Français · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/une-quatrieme-suspension-au-spvm-liee-a-un-troisieme-inciden-ab92c2.html"
+  data-titre="Une quatrième suspension au SPVM liée à un troisième incident à caractère raciste" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/une-quatrieme-suspension-au-spvm-liee-a-un-troisieme-inciden-ab92c2.html">https://entreelibre.ca/edition/2026-08-28/a/une-quatrieme-suspension-au-spvm-liee-a-un-troisieme-inciden-ab92c2.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/SPVM_82-45.jpg/1280px-SPVM_82-45.jpg" onerror="this.closest('figure').remove()"><figcaption>Un véhicule de patrouille du Service de police de la Ville de Montréal (SPVM). Photo : Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canadafrancais.com/nouvelles-nationales/la-plus-recente-suspension-au-spvm-liee-a-un-troisieme-incident-a-caractere-raciste/" target="_blank" rel="noopener"><span class="src-nom">Le Canada Français</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Service de police de la Ville de Montréal a confirmé qu&#x27;une suspension récente touchant un agent affecté à Montréal-Nord est liée à un troisième incident d&#x27;inconduite présumé. Le directeur du SPVM, Fady Dagher, avait annoncé en juin la dissolution et le désarmement d&#x27;une unité de patrouille de seize agents à la suite d&#x27;allégations de racisme, de fautes professionnelles et de comportement criminel.</p><p>Trois agents de cette unité avaient été suspendus dès juin, leurs dossiers ayant été transmis au Directeur des poursuites criminelles et pénales pendant qu&#x27;une enquête interne se poursuivait. Un porte-parole du corps policier a précisé par courriel que deux agents avaient été suspendus à la suite d&#x27;un même incident, tandis qu&#x27;un troisième l&#x27;avait été en lien avec un deuxième incident distinct; un quatrième agent est maintenant visé par une suspension liée à un troisième événement.</p><p>Ces suspensions répétées ont ébranlé la confiance envers le corps policier, selon la cheffe par intérim de l&#x27;opposition à l&#x27;hôtel de ville, Ericka Alneus, qui réclame une enquête indépendante sur l&#x27;ensemble des événements — une demande à laquelle la mairesse Soraya Martinez Ferrada n&#x27;a pas fermé la porte. Le ministre québécois de la Sécurité intérieure, Ian Lafrenière, a de son côté nommé une observatrice indépendante pour superviser l&#x27;enquête interne du SPVM, tandis que le Commissaire à l&#x27;éthique et à la déontologie policières mène une enquête distincte à sa demande.</p><p>La Ville a par ailleurs annoncé son intention d&#x27;équiper les policiers de caméras corporelles d&#x27;ici un an, une mesure incluse dans les demandes budgétaires que Mme Martinez Ferrada a adressées cette semaine au prochain gouvernement du Québec, qui prévoient aussi l&#x27;embauche de 225 policiers supplémentaires par année. Un document rendu public lundi indique par ailleurs que le SPVM pourrait dépasser son budget de 67 millions de dollars cette année.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

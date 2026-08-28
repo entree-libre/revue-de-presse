@@ -32,6 +32,12 @@
 <div class="terr">Saint-Donat</div>
 <h1>Saint-Donat presse Québec de sécuriser la route 125 après un grave accident</h1>
 <div class="chapo">Municipalité de Saint-Donat · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/saint-donat-presse-quebec-de-securiser-la-route-125-apres-un-1515a1.html"
+  data-titre="Saint-Donat presse Québec de sécuriser la route 125 après un grave accident" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/saint-donat-presse-quebec-de-securiser-la-route-125-apres-un-1515a1.html">https://entreelibre.ca/edition/2026-08-28/a/saint-donat-presse-quebec-de-securiser-la-route-125-apres-un-1515a1.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.saint-donat.ca/la-securite-de-la-route-125-ne-peut-plus-attendre/" target="_blank" rel="noopener"><span class="src-nom">Municipalité de Saint-Donat</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un grave accident survenu la semaine dernière sur la route 125 Nord, qui a fait un blessé, relance les démarches de Saint-Donat pour que Québec sécurise cet axe. La municipalité, qui dit accompagner de ses pensées la personne blessée et sa famille, rappelle que la route relève du ministère des Transports et de la Mobilité durable (MTMD) et non de son propre territoire de compétence. Le conseil municipal affirme multiplier les signalements et les demandes d&#x27;intervention auprès du Ministère pour porter la situation à son attention. Comme village-relais des Laurentides, Saint-Donat voit transiter chaque jour un important volume de voitures, de motos et de cyclistes sur cette route, ce qui en fait, selon l&#x27;administration, un enjeu de sécurité prioritaire. La Municipalité invite la population à signaler toute problématique au service *511 du Ministère, précisant que plus les signalements sont nombreux, mieux la réalité du terrain est documentée pour appuyer ses démarches.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

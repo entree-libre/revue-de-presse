@@ -33,6 +33,12 @@
 <div class="terr">Aéroport Montréal-Trudeau</div>
 <h1>Des chauffeurs de taxi de l&#x27;aéroport Montréal-Trudeau poursuivent Taxelco</h1>
 <div class="chapo">La Presse, Le Devoir · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/des-chauffeurs-de-taxi-de-l-aeroport-montreal-trudeau-poursu-5243b7.html"
+  data-titre="Des chauffeurs de taxi de l&#x27;aéroport Montréal-Trudeau poursuivent Taxelco" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/des-chauffeurs-de-taxi-de-l-aeroport-montreal-trudeau-poursu-5243b7.html">https://entreelibre.ca/edition/2026-08-28/a/des-chauffeurs-de-taxi-de-l-aeroport-montreal-trudeau-poursu-5243b7.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/C-FNNW_at_YUL_20260629.jpg" onerror="this.closest('figure').remove()"><figcaption>Un appareil d&#x27;Air Canada à l&#x27;aéroport Montréal-Trudeau. Photo : VynedJ, CC BY 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/affaires/entreprises/2026-08-27/aeroport-montreal-trudeau/taxelco-visee-par-une-demande-d-action-collective-des-taxis.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Devoir, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un regroupement de chauffeurs-exploitants de taxi de l&#x27;aéroport Montréal-Trudeau a déposé une demande d&#x27;action collective contre Taxelco, l&#x27;entreprise qui détient depuis mai 2025 un régime d&#x27;accès exclusif aux zones de prise en charge de l&#x27;aéroport. Le groupement allègue que ce régime a entraîné une hausse substantielle des cotisations, redevances et autres frais imposés aux chauffeurs, sans qu&#x27;ils obtiennent en retour une contrepartie équivalente en services ou en volume de courses. Les chauffeurs demandent au tribunal d&#x27;autoriser un recours collectif afin de faire valoir leurs griefs financiers face à l&#x27;entreprise, qui gère l&#x27;accès aux voies de prise en charge pour le compte de l&#x27;administration aéroportuaire.</p><p>L&#x27;affaire illustre les tensions persistantes autour de la gestion privée de l&#x27;accès aux aéroports pour l&#x27;industrie du taxi, un modèle de plus en plus répandu dans les grands aéroports canadiens mais qui suscite la grogne chez une partie des chauffeurs qui s&#x27;estiment lésés par les nouvelles structures de frais. La Presse et Le Devoir rapportent tous deux que la démarche judiciaire s&#x27;inscrit dans un mécontentement plus large qui couvait depuis l&#x27;implantation du régime exclusif l&#x27;an dernier. Taxelco n&#x27;avait pas encore réagi publiquement à la demande d&#x27;action collective au moment d&#x27;écrire ces lignes, et aucune date d&#x27;audience n&#x27;avait été fixée pour l&#x27;étape de l&#x27;autorisation du recours. Le Devoir rappelle que des différends similaires sur la tarification de l&#x27;accès aux zones aéroportuaires ont déjà opposé des chauffeurs de taxi à des gestionnaires privés dans d&#x27;autres grands aéroports canadiens, sans toutefois atteindre le stade d&#x27;un recours collectif. Le dossier pourrait, si la demande est autorisée, établir un précédent sur l&#x27;encadrement des ententes commerciales entre aéroports et fournisseurs privés de services de transport.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

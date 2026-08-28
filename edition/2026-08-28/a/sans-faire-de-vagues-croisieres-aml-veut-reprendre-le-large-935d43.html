@@ -33,6 +33,12 @@
 <div class="terr">Bas-Saint-Laurent</div>
 <h1>Sans faire de vagues, Croisières AML veut reprendre le large au Bas-Saint-Laurent</h1>
 <div class="chapo">Infodimanche · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/sans-faire-de-vagues-croisieres-aml-veut-reprendre-le-large-935d43.html"
+  data-titre="Sans faire de vagues, Croisières AML veut reprendre le large au Bas-Saint-Laurent" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/sans-faire-de-vagues-croisieres-aml-veut-reprendre-le-large-935d43.html">https://entreelibre.ca/edition/2026-08-28/a/sans-faire-de-vagues-croisieres-aml-veut-reprendre-le-large-935d43.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Whale_watching_Tadoussac_12.jpg/1280px-Whale_watching_Tadoussac_12.jpg" onerror="this.closest('figure').remove()"><figcaption>Une excursion d&#x27;observation des baleines au départ de Tadoussac. Photo : Hans Bernhard (Schnobby), CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.infodimanche.com/affaires-et-economie/sans-faire-de-vagues-croisieres-aml-souhaite-reprendre-le-large-au-bas-saint-laurent/" target="_blank" rel="noopener"><span class="src-nom">Infodimanche</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un projet qui dormait dans les cartons depuis quelques années vient de remonter dans les priorités de Croisières AML. Absente du secteur du Bas-Saint-Laurent depuis 2020, l&#x27;entreprise souhaite renouer avec la région et évalue la possibilité d&#x27;y être présente avant même l&#x27;arrivée de la future traverse de la Société des traversiers du Québec (STQ) à Gros-Cacouna.</p><p>« On est en train de l&#x27;évaluer aussi, voir quelque chose de temporaire, mais tout ça est sous toute réserve », précise Cédric Lavoie, conseiller en communication chez Croisières AML, qui parle d&#x27;un dossier encore aux premiers balbutiements. Le dossier a refait surface la semaine dernière avec la publication du rapport de consultation sur le futur terminal de traverse de Gros-Cacouna, où l&#x27;on apprend qu&#x27;AML souhaite intégrer ses activités aux futures infrastructures portuaires.</p><p>Fait notable, les responsables du projet de terminal n&#x27;avaient pas été informés des démarches entreprises depuis plusieurs années par AML auprès de la STQ — une situation qui a surpris l&#x27;entreprise elle-même, selon M. Lavoie.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

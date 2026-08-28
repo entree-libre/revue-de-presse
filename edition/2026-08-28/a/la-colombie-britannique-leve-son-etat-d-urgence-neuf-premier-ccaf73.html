@@ -32,6 +32,12 @@
 <div class="terr">Colombie-Britannique</div>
 <h1>La Colombie-Britannique lève son état d&#x27;urgence, neuf Premières Nations restent évacuées</h1>
 <div class="chapo">APTN News, Global News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-colombie-britannique-leve-son-etat-d-urgence-neuf-premier-ccaf73.html"
+  data-titre="La Colombie-Britannique lève son état d&#x27;urgence, neuf Premières Nations restent évacuées" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-colombie-britannique-leve-son-etat-d-urgence-neuf-premier-ccaf73.html">https://entreelibre.ca/edition/2026-08-28/a/la-colombie-britannique-leve-son-etat-d-urgence-neuf-premier-ccaf73.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.aptnnews.ca/national-news/b-c-ends-state-of-provincial-emergency-over-wildfires-risk-remains-elevated/" target="_blank" rel="noopener"><span class="src-nom">APTN News</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Global News, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Colombie-Britannique a mis fin à l&#x27;état d&#x27;urgence provincial décrété en raison des feux de forêt, tout en prévenant que le risque demeure élevé dans une grande partie du territoire et en invitant la population à rester prête.</p><p>La province explique que la mesure avait été adoptée pour rendre rapidement accessibles des pouvoirs d&#x27;urgence, mais qu&#x27;elle n&#x27;a finalement pas eu besoin de s&#x27;en servir. La levée est sans effet sur les ordres et les alertes d&#x27;évacuation en vigueur, ni sur les états d&#x27;urgence locaux décrétés par les administrations municipales ou les Premières Nations.</p><p>Selon Services aux Autochtones Canada, neuf Premières Nations de la province demeurent évacuées. La plupart des communautés touchées amorcent une phase de rétablissement qu&#x27;elles pilotent elles-mêmes, avec un appui provincial maintenu.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

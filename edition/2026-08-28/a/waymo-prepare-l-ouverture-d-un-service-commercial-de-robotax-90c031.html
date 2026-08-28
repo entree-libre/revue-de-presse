@@ -33,6 +33,12 @@
 <div class="terr">Allemagne</div>
 <h1>Waymo prépare l&#x27;ouverture d&#x27;un service commercial de robotaxis à Munich</h1>
 <div class="chapo">MacGeneration, Presse-citron, ZDNet, Mac4Ever · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/waymo-prepare-l-ouverture-d-un-service-commercial-de-robotax-90c031.html"
+  data-titre="Waymo prépare l&#x27;ouverture d&#x27;un service commercial de robotaxis à Munich" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/waymo-prepare-l-ouverture-d-un-service-commercial-de-robotax-90c031.html">https://entreelibre.ca/edition/2026-08-28/a/waymo-prepare-l-ouverture-d-un-service-commercial-de-robotax-90c031.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg/1280px-Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg" onerror="this.closest('figure').remove()"><figcaption>Un véhicule autonome Waymo en circulation. Photo : Dllu, CC BY 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.macg.co/mobilites/2026/08/robotaxi-waymo-prepare-son-entree-munich-sa-premiere-ville-dan" target="_blank" rel="noopener"><span class="src-nom">MacGeneration</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Presse-citron, ZDNet, Mac4Ever, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La filiale de véhicules autonomes d&#x27;Alphabet, Waymo, a ouvert une filiale à Munich cet été et annonce vouloir y lancer un service commercial de robotaxis d&#x27;ici la fin de 2027, sa première implantation en Allemagne. L&#x27;entreprise mise sur une approche jugée plus prudente que celle de Tesla, en s&#x27;appuyant sur une cartographie détaillée préétablie de chaque ville desservie plutôt que sur la seule analyse vidéo en temps réel pour orienter ses véhicules.</p><p>Waymo exploite déjà des services commerciaux dans plusieurs villes américaines, dont San Francisco et Phoenix, où ses véhicules circulent sans conducteur depuis plusieurs années. Son entrée en Europe la place en concurrence directe avec les projets européens de conduite autonome, dans un marché où la réglementation reste généralement plus stricte qu&#x27;aux États-Unis.</p><p>Munich, capitale bavaroise et siège de plusieurs grands constructeurs automobiles allemands, représente un symbole pour Waymo dans sa tentative de s&#x27;implanter sur le terrain même de l&#x27;industrie automobile européenne. L&#x27;entreprise devra composer avec un encadrement réglementaire européen généralement plus prudent qu&#x27;aux États-Unis à l&#x27;égard des véhicules sans conducteur.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

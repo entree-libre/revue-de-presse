@@ -32,6 +32,12 @@
 <div class="terr">Chine</div>
 <h1>Un typhon force le report de la mission lunaire chinoise Chang&#x27;e 7</h1>
 <div class="chapo">La Presse, Futura, Clubic · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-typhon-force-le-report-de-la-mission-lunaire-chinoise-cha-48210d.html"
+  data-titre="Un typhon force le report de la mission lunaire chinoise Chang&#x27;e 7" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-typhon-force-le-report-de-la-mission-lunaire-chinoise-cha-48210d.html">https://entreelibre.ca/edition/2026-08-28/a/un-typhon-force-le-report-de-la-mission-lunaire-chinoise-cha-48210d.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/actualites/sciences/2026-08-23/un-report-pour-la-mission-lunaire-chinoise.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Futura, Clubic, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le typhon Narra a forcé le report à la dernière minute, le 23 août, du lancement de la mission lunaire chinoise Chang&#x27;e 7, selon La Presse. La fenêtre de lancement, prévue depuis l&#x27;île de Hainan, ne durait qu&#x27;une seule journée : le tir doit maintenant attendre environ un mois.</p><p>Chang&#x27;e 7 doit être la première mission chinoise à vérifier directement sur le sol lunaire la présence d&#x27;eau glacée, jusqu&#x27;ici seulement détectée à distance depuis l&#x27;orbite. Un « robot sauteur » à six pattes doit descendre dans des cratères du pôle Sud plongés en permanence dans l&#x27;ombre, où l&#x27;eau glacée pourrait s&#x27;être accumulée, mélangée au sol.</p><p>La mission s&#x27;inscrit dans la course que se livrent la Chine et les États-Unis pour la Lune : Pékin vise un alunissage habité en 2029 avec une approche proche du programme Apollo, pendant que la NASA prévoit un test d&#x27;arrimage de la capsule Orion en 2027 puis un alunissage habité avec Artemis IV début 2028. Futura et Clubic ont rappelé que les alunisseurs américains restent nettement plus gros et complexes que l&#x27;engin chinois.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

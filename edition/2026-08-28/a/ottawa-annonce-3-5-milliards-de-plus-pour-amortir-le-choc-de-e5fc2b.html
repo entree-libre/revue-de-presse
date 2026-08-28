@@ -32,6 +32,12 @@
 <div class="terr">Canada</div>
 <h1>Ottawa annonce 3,5 milliards de plus pour amortir le choc des droits de douane américains</h1>
 <div class="chapo">Gouvernement du Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ottawa-annonce-3-5-milliards-de-plus-pour-amortir-le-choc-de-e5fc2b.html"
+  data-titre="Ottawa annonce 3,5 milliards de plus pour amortir le choc des droits de douane américains" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ottawa-annonce-3-5-milliards-de-plus-pour-amortir-le-choc-de-e5fc2b.html">https://entreelibre.ca/edition/2026-08-28/a/ottawa-annonce-3-5-milliards-de-plus-pour-amortir-le-choc-de-e5fc2b.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canada.ca/fr/ministere-finances/nouvelles/2026/08/le-gouvernement-du-canada-souligne-les-contre-mesures-ciblees-et-les-mesures-importantes-prises-pour-soutenir-les-travailleurs-et-les-entreprises-en.html" target="_blank" rel="noopener"><span class="src-nom">Gouvernement du Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le gouvernement du Canada a annoncé un financement additionnel de 3,5 milliards de dollars pour soutenir les travailleurs et les entreprises touchés par les droits de douane américains, selon un communiqué du ministère des Finances diffusé à Sarnia, en Ontario. La somme se divise en deux volets : 1,5 milliard par l&#x27;entremise de l&#x27;Initiative régionale de réponse tarifaire, gérée par les agences de développement régional, pour offrir des liquidités aux petites et moyennes entreprises aux prises avec les pressions tarifaires, et 2 milliards par le nouveau Fonds de diversification pour un Canada fort, destiné aux entreprises touchées dont les projets de diversification sont prêts à démarrer. Ottawa présente ces mesures comme un complément aux contre-tarifs déjà imposés en réplique aux droits de douane américains. L&#x27;annonce survient alors que les pourparlers commerciaux entre Ottawa et Washington sont au point mort et que le Canada doit commencer à appliquer ses propres contre-tarifs le 8 septembre. Cette aide fédérale s&#x27;ajoute à une série d&#x27;annonces régionales similaires faites ces dernières semaines, à mesure que le conflit commercial avec les États-Unis s&#x27;installe dans la durée.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

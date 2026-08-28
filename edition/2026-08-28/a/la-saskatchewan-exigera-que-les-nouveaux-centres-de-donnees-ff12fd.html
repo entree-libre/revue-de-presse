@@ -32,6 +32,12 @@
 <div class="terr">Saskatchewan</div>
 <h1>La Saskatchewan exigera que les nouveaux centres de données soient canadiens et produisent leur électricité</h1>
 <div class="chapo">The Globe and Mail, Canada&#x27;s National Observer · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-saskatchewan-exigera-que-les-nouveaux-centres-de-donnees-ff12fd.html"
+  data-titre="La Saskatchewan exigera que les nouveaux centres de données soient canadiens et produisent leur électricité" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-saskatchewan-exigera-que-les-nouveaux-centres-de-donnees-ff12fd.html">https://entreelibre.ca/edition/2026-08-28/a/la-saskatchewan-exigera-que-les-nouveaux-centres-de-donnees-ff12fd.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.theglobeandmail.com/canada/article-ai-data-centres-canada-saskatchewan/" target="_blank" rel="noopener"><span class="src-nom">The Globe and Mail</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Canada&#x27;s National Observer, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Saskatchewan annonce que les nouveaux centres de données établis sur son territoire devront être détenus par des intérêts canadiens et fournir eux-mêmes l&#x27;électricité nécessaire à leur exploitation.</p><p>La province encadre ainsi une filière en expansion rapide, portée par la demande de capacité de calcul pour l&#x27;intelligence artificielle, et dont la consommation électrique pèse sur les réseaux publics.</p><p>Interrogé sur le fait que ce cadre n&#x27;a pas été soumis au public avant la construction du site de Bell, le ministre Jeremy Harrison a répondu que la province appliquait déjà ces orientations. Le libellé exact des règles et les mécanismes de conformité n&#x27;ont pas été détaillés au moment de l&#x27;annonce. Bell exploite déjà un centre de données dans la province, construit avant la publication de ce cadre.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

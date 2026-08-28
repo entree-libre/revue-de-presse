@@ -32,6 +32,12 @@
 <div class="terr">États-Unis</div>
 <h1>Washington suspend temporairement les entretiens pour les visas d&#x27;immigration dans le monde</h1>
 <div class="chapo">France 24 (AFP), Le Monde · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/washington-suspend-temporairement-les-entretiens-pour-les-vi-bd6422.html"
+  data-titre="Washington suspend temporairement les entretiens pour les visas d&#x27;immigration dans le monde" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/washington-suspend-temporairement-les-entretiens-pour-les-vi-bd6422.html">https://entreelibre.ca/edition/2026-08-28/a/washington-suspend-temporairement-les-entretiens-pour-les-vi-bd6422.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.france24.com/fr/am%C3%A9riques/20260827-etats-unis-pause-entretiens-visas-immigration-consulat-rendez-vous" target="_blank" rel="noopener"><span class="src-nom">France 24 (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Monde, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le gouvernement américain observe une pause temporaire, à travers le monde, dans les rendez-vous en vue d&#x27;obtenir un visa d&#x27;immigration aux États-Unis. Cette mesure vise à permettre la formation de ses agents consulaires, a annoncé mercredi le département d&#x27;État dans un courriel adressé à l&#x27;AFP confirmant des informations parues plus tôt dans la presse américaine. Les délais entre la demande d&#x27;un ressortissant étranger et son entretien avec un agent consulaire seront « ajustés » pour permettre cette formation ; la mesure s&#x27;applique à toutes les ambassades et tous les consulats américains dans le monde, sans exception géographique.</p><p>Cette pause ne concerne pas les visas de tourisme, d&#x27;études, d&#x27;affaires ou de travail temporaire, qui continuent d&#x27;être traités normalement selon les procédures habituelles. Un responsable du département d&#x27;État, s&#x27;exprimant sous couvert d&#x27;anonymat, n&#x27;a pas précisé quand ces rendez-vous d&#x27;immigration pourraient reprendre. Il n&#x27;a pas non plus indiqué combien de personnes seraient concernées par ce report à l&#x27;échelle mondiale, ni si des exceptions seraient accordées pour des cas jugés urgents.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

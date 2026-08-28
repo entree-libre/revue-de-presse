@@ -32,6 +32,12 @@
 <div class="terr">Colombie-Britannique</div>
 <h1>Ottawa investit plus de 99 millions dans les sciences de la vie, dont un projet de Kardium en Colombie-Britannique</h1>
 <div class="chapo">Gouvernement du Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ottawa-investit-plus-de-99-millions-dans-les-sciences-de-la-c32e30.html"
+  data-titre="Ottawa investit plus de 99 millions dans les sciences de la vie, dont un projet de Kardium en Colombie-Britannique" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ottawa-investit-plus-de-99-millions-dans-les-sciences-de-la-c32e30.html">https://entreelibre.ca/edition/2026-08-28/a/ottawa-investit-plus-de-99-millions-dans-les-sciences-de-la-c32e30.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/08/la-ministre-joly-annonce-un-investissement-de-plus-que-99-millions-de-dollars-dans-le-secteur-des-sciences-de-la-vie.html" target="_blank" rel="noopener"><span class="src-nom">Gouvernement du Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La ministre de l&#x27;Innovation, des Sciences et du Développement économique, Mélanie Joly, a annoncé un investissement fédéral de plus de 99 millions de dollars dans le secteur des sciences de la vie, selon un communiqué du gouvernement du Canada. La plus importante part de cette enveloppe, jusqu&#x27;à 31,25 millions de dollars, ira au projet de 125 millions de dollars de l&#x27;entreprise Kardium, qui prévoit construire à Burnaby, en Colombie-Britannique, une installation de fabrication de dispositifs médicaux de pointe. Ottawa affirme que ce projet d&#x27;expansion créera et maintiendra 260 emplois et devrait attirer des investissements internationaux additionnels dans le secteur canadien des sciences de la vie. Le gouvernement fédéral présente cet appui comme un renforcement de la position de la Colombie-Britannique à titre de pôle mondial des sciences de la vie. L&#x27;annonce s&#x27;inscrit dans une semaine chargée pour Mme Joly, qui a également dévoilé cette semaine de nouvelles chaires de recherche fédérales destinées à attirer des scientifiques étrangers au pays.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Colombie</div>
 <h1>Un caporal de la Légion étrangère enlevé en Colombie pendant une permission</h1>
 <div class="chapo">Libération, RFI, France 24, CNEWS, Le Parisien, Franceinfo · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-caporal-de-la-legion-etrangere-enleve-en-colombie-pendant-890d6c.html"
+  data-titre="Un caporal de la Légion étrangère enlevé en Colombie pendant une permission" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-caporal-de-la-legion-etrangere-enleve-en-colombie-pendant-890d6c.html">https://entreelibre.ca/edition/2026-08-28/a/un-caporal-de-la-legion-etrangere-enleve-en-colombie-pendant-890d6c.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.liberation.fr/international/amerique/un-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie-20260828_Y4LC4IRRUVGSHGQY2SWR2AEPLY/" target="_blank" rel="noopener"><span class="src-nom">Libération</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par RFI, France 24, CNEWS, Le Parisien, Franceinfo, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un soldat de la Légion étrangère française a été enlevé en Colombie, où il passait une permission dans son pays d&#x27;origine. L&#x27;information a été donnée par le colonel Mauricio Osorio à une radio colombienne, puis reprise vendredi par plusieurs médias français. José Olger Melo Charry, caporal franco-colombien, servait dans l&#x27;armée française depuis quatre ans. Les circonstances de l&#x27;enlèvement, sa localisation précise et l&#x27;identité des ravisseurs n&#x27;étaient pas établies publiquement vendredi matin. Aucune revendication n&#x27;était rapportée par les médias qui suivent l&#x27;affaire.</p><p>Les enlèvements demeurent une réalité persistante en Colombie, où opèrent guérillas dissidentes, groupes paramilitaires et organisations liées au narcotrafic. L&#x27;affaire survient au moment où le nouveau président Abelardo de la Espriella, investi début août, promet une ligne dure contre les groupes armés. Paris n&#x27;avait pas communiqué publiquement sur le dossier au moment de la publication des premiers articles.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

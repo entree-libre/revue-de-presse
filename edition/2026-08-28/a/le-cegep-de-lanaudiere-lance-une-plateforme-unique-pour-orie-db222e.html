@@ -32,6 +32,12 @@
 <div class="terr">Terrebonne</div>
 <h1>Le Cégep de Lanaudière lance une plateforme unique pour orienter ses étudiants à Terrebonne</h1>
 <div class="chapo">La Revue · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-cegep-de-lanaudiere-lance-une-plateforme-unique-pour-orie-db222e.html"
+  data-titre="Le Cégep de Lanaudière lance une plateforme unique pour orienter ses étudiants à Terrebonne" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-cegep-de-lanaudiere-lance-une-plateforme-unique-pour-orie-db222e.html">https://entreelibre.ca/edition/2026-08-28/a/le-cegep-de-lanaudiere-lance-une-plateforme-unique-pour-orie-db222e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.larevue.qc.ca/article/actualites/le-cegep-de-lanaudiere-lance-ma-reussite-a-terrebonne/" target="_blank" rel="noopener"><span class="src-nom">La Revue</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Cégep de Lanaudière à Terrebonne a lancé cette année une nouvelle plateforme numérique, « Ma réussite à Terrebonne », qui centralise en un seul endroit les services destinés à sa communauté étudiante : services psychosociaux, services adaptés, vie étudiante, bibliothèque, ressources informatiques et cheminement scolaire.</p><p>L&#x27;outil a été conçu entièrement à l&#x27;interne par les conseillères en orientation et aides pédagogiques individuelles Marie-Josée Kéramphèle et Marie-Carmen Bussières-Vega, dans le but de simplifier l&#x27;accès à l&#x27;aide pour les étudiants et étudiantes du cégep.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

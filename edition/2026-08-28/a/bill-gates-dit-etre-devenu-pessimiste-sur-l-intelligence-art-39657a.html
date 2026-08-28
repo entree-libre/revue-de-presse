@@ -32,6 +32,12 @@
 <div class="terr">États-Unis</div>
 <h1>Bill Gates dit être devenu pessimiste sur l&#x27;intelligence artificielle</h1>
 <div class="chapo">Sciences et Avenir, The Verge · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/bill-gates-dit-etre-devenu-pessimiste-sur-l-intelligence-art-39657a.html"
+  data-titre="Bill Gates dit être devenu pessimiste sur l&#x27;intelligence artificielle" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/bill-gates-dit-etre-devenu-pessimiste-sur-l-intelligence-art-39657a.html">https://entreelibre.ca/edition/2026-08-28/a/bill-gates-dit-etre-devenu-pessimiste-sur-l-intelligence-art-39657a.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and" target="_blank" rel="noopener"><span class="src-nom">Sciences et Avenir</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par The Verge, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Bill Gates, longtemps présenté comme un optimiste de l&#x27;intelligence artificielle, se dit désormais profondément inquiet des conséquences de cette technologie sur l&#x27;avenir collectif, dans un essai de près de 6 000 mots publié après une longue période de silence public sur le sujet. Le cofondateur de Microsoft y détaille les raisons de ce changement de position, qu&#x27;il présente comme le fruit d&#x27;une longue réflexion plutôt que d&#x27;un événement précis.</p><p>Selon The Verge, Gates ne remet pas en cause l&#x27;utilité de l&#x27;intelligence artificielle elle-même, mais s&#x27;inquiète du rythme de son déploiement et de l&#x27;absence de garde-fous adéquats pour en encadrer les usages les plus risqués. Sciences et Avenir a relayé ses propos en français, notant le contraste avec les positions plus optimistes qu&#x27;il défendait encore récemment sur la même question.</p><p>La sortie publique de Gates s&#x27;ajoute à une liste croissante de figures de l&#x27;industrie technologique qui, après avoir soutenu le développement rapide de l&#x27;IA, expriment désormais des réserves sur ses conséquences sociales. Sa fondation continue par ailleurs de financer des projets liés à l&#x27;intelligence artificielle dans le domaine de la santé mondiale, ce qui nuance la portée de son pessimisme récent.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

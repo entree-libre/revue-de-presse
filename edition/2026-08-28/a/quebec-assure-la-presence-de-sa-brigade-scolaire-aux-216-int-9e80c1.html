@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Québec assure la présence de sa brigade scolaire aux 216 intersections pour une troisième année</h1>
 <div class="chapo">Ville de Québec · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/quebec-assure-la-presence-de-sa-brigade-scolaire-aux-216-int-9e80c1.html"
+  data-titre="Québec assure la présence de sa brigade scolaire aux 216 intersections pour une troisième année" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/quebec-assure-la-presence-de-sa-brigade-scolaire-aux-216-int-9e80c1.html">https://entreelibre.ca/edition/2026-08-28/a/quebec-assure-la-presence-de-sa-brigade-scolaire-aux-216-int-9e80c1.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ville.quebec.qc.ca/apropos/espace-presse/actualites/actualite.aspx?IdActualite=3219" target="_blank" rel="noopener"><span class="src-nom">Ville de Québec</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Grâce à l&#x27;engagement de plus de 300 brigadières et brigadiers, la Ville de Québec dessert dès la rentrée l&#x27;ensemble de ses 216 intersections scolaires, pour une troisième année consécutive. Ce résultat découle de mesures mises en place depuis 2023, dont le renforcement du recrutement, l&#x27;amélioration des outils de gestion et une meilleure planification des affectations. Le Service de police de la Ville de Québec intensifie par ailleurs sa présence aux abords des écoles en ce début d&#x27;année scolaire, notamment par des opérations de sensibilisation et le déploiement de radars photo mobiles. « Notre objectif est d&#x27;assurer la présence de la brigade sur l&#x27;ensemble des intersections, tout au long de l&#x27;année scolaire », souligne le responsable de la sécurité routière au comité exécutif, Éric Courtemanche Baril. La Ville invite aussi les automobilistes à la collaboration, rappelant que la sécurité des enfants repose sur la vigilance de l&#x27;ensemble des usagers de la route. Le maintien d&#x27;une brigade scolaire complète est considéré par plusieurs villes québécoises comme un indicateur clé de la sécurité aux abords des écoles.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

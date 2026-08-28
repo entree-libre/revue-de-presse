@@ -32,6 +32,12 @@
 <div class="terr">Estrie</div>
 <h1>Granby : un nouvel organisme reprend le service de halte-répit</h1>
 <div class="chapo">La Tribune, Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/granby-un-nouvel-organisme-reprend-le-service-de-halte-repit-a786ef.html"
+  data-titre="Granby : un nouvel organisme reprend le service de halte-répit" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/granby-un-nouvel-organisme-reprend-le-service-de-halte-repit-a786ef.html">https://entreelibre.ca/edition/2026-08-28/a/granby-un-nouvel-organisme-reprend-le-service-de-halte-repit-a786ef.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278297/offre-halte-repit-granby-partage-st-francois" target="_blank" rel="noopener"><span class="src-nom">La Tribune</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Radio-Canada, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>En juillet, Santé Québec Estrie–CHUS avait annoncé la fermeture de la halte-répit de Granby, faute de reconduction de l&#x27;entente de financement jusque-là accordée au Partage Notre-Dame, qui en assumait la gestion. Après un appel d&#x27;offres, c&#x27;est finalement le Partage St-François, de Sherbrooke, qui a été retenu pour reprendre le flambeau — une décision qui pourrait permettre au service de rouvrir dès octobre, dans les locaux mêmes du Partage Notre-Dame.</p><p>Sébastien Laberge, directeur général du Partage St-François, explique que son organisme possède une expertise dans les services d&#x27;urgence, de crise et d&#x27;itinérance qui se transposait bien à la mission de la halte, et dit avoir pris le temps de consulter les organismes communautaires de Granby, l&#x27;administration municipale et le service de police avant de proposer son approche.</p><p>Contrairement à la formule du Partage Notre-Dame, le nouvel exploitant veut coconstruire l&#x27;offre avec le milieu et privilégier une halte de nuit; un comité d&#x27;implantation sera mis en place et des employés seront embauchés et formés. « On veut s&#x27;assurer d&#x27;investir notre énergie à mettre en place les services qui sont en adéquation avec la Ville de Granby », précise M. Laberge, qui note que malgré la proximité des deux villes, peu de liens existaient jusqu&#x27;ici entre les organismes de Granby et de Sherbrooke.</p><p>Le service devra néanmoins être relocalisé après le 31 mars 2027. Le Partage St-François prévoit tenir des rencontres avec les citoyens et les usagers de la halte dans les prochaines semaines.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

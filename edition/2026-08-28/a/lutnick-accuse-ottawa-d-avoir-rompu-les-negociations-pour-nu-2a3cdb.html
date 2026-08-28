@@ -32,6 +32,12 @@
 <div class="terr">Canada, États-Unis, Québec</div>
 <h1>Lutnick accuse Ottawa d&#x27;avoir rompu les négociations pour nuire au Parti québécois</h1>
 <div class="chapo">Le Canada Français, Coops de l&#x27;information (La Presse canadienne) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/lutnick-accuse-ottawa-d-avoir-rompu-les-negociations-pour-nu-2a3cdb.html"
+  data-titre="Lutnick accuse Ottawa d&#x27;avoir rompu les négociations pour nuire au Parti québécois" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/lutnick-accuse-ottawa-d-avoir-rompu-les-negociations-pour-nu-2a3cdb.html">https://entreelibre.ca/edition/2026-08-28/a/lutnick-accuse-ottawa-d-avoir-rompu-les-negociations-pour-nu-2a3cdb.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canadafrancais.com/nouvelles-nationales/lutnick-accuse-carney-davoir-voulu-nuire-au-pq-en-se-retirant-des-negociations/" target="_blank" rel="noopener"><span class="src-nom">Le Canada Français</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Coops de l&#x27;information (La Presse canadienne), sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le secrétaire américain au Commerce, Howard Lutnick, a soutenu jeudi que le gouvernement de Mark Carney s&#x27;était retiré des négociations commerciales dans le but de nuire au Parti québécois, en pleine campagne électorale au Québec. En point de presse à Washington, il a affirmé que le parti souverainiste était en avance dans les intentions de vote et que le premier ministre canadien avait cherché à « fabriquer quelque chose qui les empêcherait de gagner ».</p><p>Selon la version de M. Lutnick, une entente existait vendredi dernier et les responsables des deux pays s&#x27;étaient serré la main avant qu&#x27;Ottawa ne se retire pour des motifs de politique partisane. Il a également nié avoir soulevé la question du français, que le gouvernement canadien avait présenté comme un point de friction dans les pourparlers : la langue parlée par les Québécois n&#x27;importe pas aux Américains, a-t-il lancé, ajoutant « on s&#x27;en fout ».</p><p>Ces affirmations émanent de la seule partie américaine et n&#x27;ont pas été corroborées ; aucune réaction du cabinet de M. Carney n&#x27;accompagnait la dépêche de La Presse canadienne. Le retrait canadien de vendredi a été suivi cette semaine de l&#x27;imposition de surtaxes de 15 à 50 % sur une liste de produits américains, puis du décret présidentiel rebaptisant le lac Ontario.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

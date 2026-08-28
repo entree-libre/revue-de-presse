@@ -32,6 +32,12 @@
 <div class="terr">Guyane française, Europe</div>
 <h1>Le satellite MTG-I2 complète le dernier trio météorologique européen après un lancement d&#x27;Ariane 6</h1>
 <div class="chapo">Agence spatiale européenne · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-satellite-mtg-i2-complete-le-dernier-trio-meteorologique-79701d.html"
+  data-titre="Le satellite MTG-I2 complète le dernier trio météorologique européen après un lancement d&#x27;Ariane 6" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-satellite-mtg-i2-complete-le-dernier-trio-meteorologique-79701d.html">https://entreelibre.ca/edition/2026-08-28/a/le-satellite-mtg-i2-complete-le-dernier-trio-meteorologique-79701d.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.esa.int/Newsroom/Press_Releases/MTG-I2_vient_completer_le_plus_recent_trio_de_satellites_meteorologiques_europeens" target="_blank" rel="noopener"><span class="src-nom">Agence spatiale européenne</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le deuxième satellite imageur Meteosat de troisième génération, MTG-I2, a été lancé à bord d&#x27;une Ariane 6 depuis le port spatial de l&#x27;Europe, en Guyane française, lors du vol VA270.</p><p>Il complète la première famille de satellites MTG, destinée à alimenter les prévisions météorologiques pour l&#x27;Europe et l&#x27;Afrique du Nord.</p><p>L&#x27;Agence spatiale européenne annonce une qualité, une quantité et une fréquence de données « sans précédent » pour cette génération d&#x27;instruments — une caractérisation de l&#x27;agence maîtresse d&#x27;œuvre, qui reste à confronter à l&#x27;exploitation opérationnelle des données par les services météorologiques nationaux. L&#x27;exploitation opérationnelle des Meteosat revient à Eumetsat, l&#x27;organisation européenne qui distribue leurs données aux services météorologiques nationaux. La mise en service suit habituellement plusieurs mois de vérifications en orbite.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

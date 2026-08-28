@@ -32,6 +32,12 @@
 <div class="terr">Outaouais</div>
 <h1>Un résident de Gatineau reçoit un avis d&#x27;infraction à cause de son « pré fleuri »</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-resident-de-gatineau-recoit-un-avis-d-infraction-a-cause-5800af.html"
+  data-titre="Un résident de Gatineau reçoit un avis d&#x27;infraction à cause de son « pré fleuri »" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-resident-de-gatineau-recoit-un-avis-d-infraction-a-cause-5800af.html">https://entreelibre.ca/edition/2026-08-28/a/un-resident-de-gatineau-recoit-un-avis-d-infraction-a-cause-5800af.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278275/gatineau-pre-fleuri-infraction-amende" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Jean-François Danis entretient depuis 2017 un « pré fleuri » sur son terrain de Gatineau, où il cultive plus d&#x27;une quarantaine d&#x27;espèces de plantes indigènes ou rustiques par souci de biodiversité, plutôt que de tondre un gazon traditionnel. La Ville lui a fait parvenir un avis d&#x27;infraction au règlement sur les nuisances, qui exige que la végétation ne dépasse pas 20 centimètres sous peine d&#x27;amendes pouvant atteindre 1000 $, soutenant que l&#x27;aménagement d&#x27;habitats pour pollinisateurs doit s&#x27;inscrire dans une démarche planifiée et encadrée. M. Danis a demandé au conseil municipal, mercredi, que les plaintes comme la sienne soient simplement rejetées et jugées nulles et non avenues, estimant l&#x27;application du règlement dépassée face aux réalités climatiques actuelles. Le conseiller du district du Lac-Beauchamp, Timmy Jutras, lui a manifesté son appui séance tenante, l&#x27;invitant à lancer à Gatineau un mouvement semblable à celui né à Sherbrooke en 2021.</p><p>Le président du Conseil scientifique de la Ville, le professeur Sylvain Delagrange (UQO), estime que les prés fleuris peuvent enrichir la biodiversité urbaine s&#x27;ils sont bien encadrés, notamment pour éviter la propagation d&#x27;espèces exotiques envahissantes. La Ville dit travailler à un guide de bonnes pratiques sur l&#x27;aménagement de tels espaces, et la demande de M. Danis sera étudiée par la Commission de l&#x27;environnement et de la lutte aux changements climatiques.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

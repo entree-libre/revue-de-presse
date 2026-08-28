@@ -32,6 +32,12 @@
 <div class="terr">Scarborough (Ontario)</div>
 <h1>La voiture d&#x27;une députée libérale ontarienne incendiée, Carney dénonce un acte d&#x27;intimidation</h1>
 <div class="chapo">National Post, Québecor, La Presse, Global News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-voiture-d-une-deputee-liberale-ontarienne-incendiee-carne-482132.html"
+  data-titre="La voiture d&#x27;une députée libérale ontarienne incendiée, Carney dénonce un acte d&#x27;intimidation" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-voiture-d-une-deputee-liberale-ontarienne-incendiee-carne-482132.html">https://entreelibre.ca/edition/2026-08-28/a/la-voiture-d-une-deputee-liberale-ontarienne-incendiee-carne-482132.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://nationalpost.com/news/canada/suspected-arson-aimed-at-liberal-mp-is-a-cowardly-act-of-intimidation-carney-says" target="_blank" rel="noopener"><span class="src-nom">National Post</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Québecor, La Presse, Global News, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La voiture de la députée libérale fédérale Salma Zahid a été incendiée dans la nuit de mercredi à jeudi devant son domicile de Scarborough, dans la région de Toronto, dans ce que la police soupçonne être un acte criminel. Le premier ministre Mark Carney a qualifié l&#x27;incident d&#x27;« acte lâche de violence et d&#x27;intimidation » dans une publication sur les réseaux sociaux, se disant soulagé que Mme Zahid et sa famille n&#x27;aient pas été blessées. Aucun suspect n&#x27;avait été identifié publiquement au moment d&#x27;écrire ces lignes, et les autorités n&#x27;ont pas précisé si l&#x27;enquête envisageait un lien avec les fonctions politiques de la députée.</p><p>L&#x27;incident survient dans un climat où plusieurs élus canadiens de tous les paliers ont récemment rapporté une hausse des menaces et des gestes d&#x27;intimidation à leur endroit, sans qu&#x27;un lien direct ait été établi entre ces phénomènes et l&#x27;affaire visant Mme Zahid. Le Parti libéral n&#x27;a pas commenté publiquement au-delà de la déclaration du premier ministre. Les quatre médias qui ont rapporté l&#x27;incident jeudi s&#x27;appuyaient tous sur la même déclaration du bureau du premier ministre, aucun ne rapportant d&#x27;élément d&#x27;enquête supplémentaire à ce stade. Le caucus libéral fédéral n&#x27;a pas organisé de sortie collective sur l&#x27;incident, se contentant pour l&#x27;instant de relayer la déclaration du premier ministre sur les réseaux sociaux. La police régionale de Toronto n&#x27;a pas indiqué si l&#x27;enquête serait transférée à une unité spécialisée, ni fourni d&#x27;estimation quant au moment où des développements supplémentaires pourraient être communiqués publiquement.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

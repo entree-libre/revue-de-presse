@@ -32,6 +32,12 @@
 <div class="terr">Canada, Inde</div>
 <h1>Ottawa et New Delhi tiennent leur premier dialogue formel des ministres des Finances</h1>
 <div class="chapo">Gouvernement du Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ottawa-et-new-delhi-tiennent-leur-premier-dialogue-formel-de-059b32.html"
+  data-titre="Ottawa et New Delhi tiennent leur premier dialogue formel des ministres des Finances" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ottawa-et-new-delhi-tiennent-leur-premier-dialogue-formel-de-059b32.html">https://entreelibre.ca/edition/2026-08-28/a/ottawa-et-new-delhi-tiennent-leur-premier-dialogue-formel-de-059b32.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canada.ca/fr/ministere-finances/nouvelles/2026/08/premier-dialogue-des-ministres-des-finances-du-canada-et-de-linde-sur-le-secteur-economique-et-financier.html" target="_blank" rel="noopener"><span class="src-nom">Gouvernement du Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Canada et l&#x27;Inde ont tenu leur tout premier dialogue formel entre ministres des Finances sur les questions économiques et financières bilatérales, une rencontre présentée par Ottawa comme une étape vers un resserrement des liens commerciaux et financiers entre les deux pays. Les deux délégations ont discuté des avantages mutuels d&#x27;un approfondissement des relations économiques, notamment sur le plan des investissements, dans un contexte où le Canada cherche à diversifier ses partenariats commerciaux au-delà des États-Unis. Ottawa ne précise pas d&#x27;engagements chiffrés ni d&#x27;échéancier pour de prochaines rencontres.</p><p>Ottawa qualifie l&#x27;exercice de jalon dans l&#x27;aspiration commune des deux pays à bâtir une relation économique et financière plus étroite, un langage diplomatique qui laisse entrevoir des discussions préliminaires plutôt que des ententes concrètes à ce stade. Le dialogue survient alors qu&#x27;Ottawa multiplie les démarches diplomatiques pour élargir ses débouchés commerciaux dans un contexte de tensions persistantes avec Washington, l&#x27;Inde figurant parmi les partenaires économiques que le gouvernement fédéral identifie comme prioritaires pour cette diversification.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

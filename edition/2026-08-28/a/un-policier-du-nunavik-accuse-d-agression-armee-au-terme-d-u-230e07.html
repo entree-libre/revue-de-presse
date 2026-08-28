@@ -33,6 +33,12 @@
 <div class="terr">Nunavik</div>
 <h1>Un policier du Nunavik accusé d&#x27;agression armée au terme d&#x27;une enquête du BEI</h1>
 <div class="chapo">La Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-policier-du-nunavik-accuse-d-agression-armee-au-terme-d-u-230e07.html"
+  data-titre="Un policier du Nunavik accusé d&#x27;agression armée au terme d&#x27;une enquête du BEI" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-policier-du-nunavik-accuse-d-agression-armee-au-terme-d-u-230e07.html">https://entreelibre.ca/edition/2026-08-28/a/un-policier-du-nunavik-accuse-d-agression-armee-au-terme-d-u-230e07.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kuujjuaq_Airport_front.jpg/1280px-Kuujjuaq_Airport_front.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;aéroport de Kuujjuaq, au Nunavik. Photo : Samuell, CC BY 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-27/enquete-du-bei/un-policier-du-nunavik-accuse-d-agression-armee.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un policier du Nunavik fait face à des accusations d&#x27;agression armée et de voies de fait contre une personne autochtone, à la suite d&#x27;une enquête du Bureau des enquêtes indépendantes (BEI).</p><p>L&#x27;agent était suspendu administrativement depuis le déclenchement de l&#x27;enquête. Les accusations n&#x27;ont pas été mises à l&#x27;épreuve devant un tribunal.</p><p>Le BEI détient plusieurs mandats, dont celui d&#x27;enquêter sur toute allégation d&#x27;infraction criminelle commise par un policier lorsque la victime est une personne autochtone — un mandat distinct de celui, plus connu, qui vise les blessures graves ou les décès survenus lors d&#x27;une intervention policière. Le corps de police auquel appartient l&#x27;agent, la date des faits reprochés et l&#x27;identité de la personne visée n&#x27;ont pas été précisés.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

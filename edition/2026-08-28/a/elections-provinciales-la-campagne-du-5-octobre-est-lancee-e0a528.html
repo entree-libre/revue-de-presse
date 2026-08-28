@@ -33,6 +33,12 @@
 <div class="terr">Ensemble du Québec</div>
 <h1>Élections provinciales : la campagne du 5 octobre est lancée</h1>
 <div class="chapo">Le Soleil, Courrier Laval, CBC, Le Canada Français · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/elections-provinciales-la-campagne-du-5-octobre-est-lancee-e0a528.html"
+  data-titre="Élections provinciales : la campagne du 5 octobre est lancée" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/elections-provinciales-la-campagne-du-5-octobre-est-lancee-e0a528.html">https://entreelibre.ca/edition/2026-08-28/a/elections-provinciales-la-campagne-du-5-octobre-est-lancee-e0a528.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec_-_facade-1.jpg/1280px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec_-_facade-1.jpg" onerror="this.closest('figure').remove()"><figcaption>La façade de l&#x27;Assemblée nationale du Québec, à Québec. Photo : Bouchecl, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lesoleil.com/actualites/politique/2026/08/27/la-campagne-electorale-quebecoise-sera-declenchee-jeudi-IWZCWL7ZIRHEVN4ZE2AQ6KAECI/" target="_blank" rel="noopener"><span class="src-nom">Le Soleil</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Courrier Laval, CBC, Le Canada Français, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La première ministre Christine Fréchette a rencontré la lieutenante-gouverneure Manon Jeannotte jeudi matin, qui a signé le décret dissolvant l&#x27;Assemblée nationale. Le coup d&#x27;envoi d&#x27;une campagne de 39 jours était donné : les Québécois voteront le lundi 5 octobre pour élire les 127 députés d&#x27;une carte électorale renouvelée. Plus de 6,4 millions d&#x27;électrices et d&#x27;électeurs sont inscrits sur la liste électorale.</p><p>Cinq partis sollicitent l&#x27;appui des électeurs : la Coalition avenir Québec, menée par la première ministre sortante; le Parti libéral du Québec, dirigé par Charles Milliard; le Parti québécois, mené par Paul St-Pierre Plamondon; Québec solidaire, dirigé par Ruba Ghazal; et le Parti conservateur du Québec, mené par Éric Duhaime. Plusieurs candidats en région s&#x27;attendent à ce que le litige tarifaire avec les États-Unis colore une bonne partie des échanges.</p><p>Selon CBC, le Parti québécois, donné en tête dans les sondages, cherche à désamorcer d&#x27;entrée de jeu la question référendaire : M. St-Pierre Plamondon a confirmé qu&#x27;il ne déclencherait pas de référendum avant la fin du second mandat du président américain Donald Trump. Charles Milliard soutient de son côté que son parti est le mieux placé pour rebâtir les relations avec le gouvernement fédéral et les autres provinces.</p><p>D&#x27;un bout à l&#x27;autre du Québec, les journaux locaux ont profité du jour un pour présenter leurs candidatures. À Châteauguay, la députée sortante caquiste Marie-Belle Gendron sollicite un deuxième mandat face au libéral Félix Rhéaume et à la solidaire Marianne Pharand-Roy, 21 ans. Sur la Côte-Nord, dans René-Lévesque, les électeurs suivront eux aussi la campagne des candidats au cours des prochaines semaines.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

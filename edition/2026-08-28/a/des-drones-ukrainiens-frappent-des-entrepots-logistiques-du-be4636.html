@@ -32,6 +32,12 @@
 <div class="terr">Russie, Ukraine</div>
 <h1>Des drones ukrainiens frappent des entrepôts logistiques du géant russe du commerce en ligne Ozon</h1>
 <div class="chapo">Euromaidan Press, Meduza, Kyiv Post, The Moscow Times, Ukrinform · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/des-drones-ukrainiens-frappent-des-entrepots-logistiques-du-be4636.html"
+  data-titre="Des drones ukrainiens frappent des entrepôts logistiques du géant russe du commerce en ligne Ozon" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/des-drones-ukrainiens-frappent-des-entrepots-logistiques-du-be4636.html">https://entreelibre.ca/edition/2026-08-28/a/des-drones-ukrainiens-frappent-des-entrepots-logistiques-du-be4636.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://euromaidanpress.com/2026/08/27/russias-number-two-online-retailer-reports-drone-attacks-on-logistics-hubs-in-two-regions/" target="_blank" rel="noopener"><span class="src-nom">Euromaidan Press</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Meduza, Kyiv Post, The Moscow Times, Ukrinform, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Des drones ukrainiens ont attaqué dans la nuit du 27 août deux centres logistiques d&#x27;Ozon, l&#x27;un à Oufa et l&#x27;autre dans la région d&#x27;Orenbourg. Le deuxième plus grand magasin en ligne de Russie a fait cette annonce lui-même, selon des informations relayées par Euromaidan Press citant des sources ukrainiennes et russes concordantes. Le personnel a été évacué des deux sites et aucune victime n&#x27;a été signalée dans un premier temps par l&#x27;entreprise.</p><p>Une vidéo publiée par la chaîne ukrainienne de surveillance Exilenova+ montrerait un drone atteignant l&#x27;entrepôt du Bachkortostan avant d&#x27;exploser, provoquant un incendie visible sur plusieurs kilomètres. La campagne ukrainienne de frappes en profondeur s&#x27;est étendue ces derniers mois aux raffineries et dépôts de carburant russes, aux usines chimiques et d&#x27;armement, ainsi qu&#x27;aux voies ferrées utilisées pour le transport militaire.</p><p>Elle vise désormais aussi les entrepôts qui font circuler les biens de consommation courante à travers le pays, un signe de l&#x27;élargissement délibéré des cibles économiques choisies par Kyiv. Les autorités russes n&#x27;ont pas communiqué d&#x27;estimation chiffrée des dégâts matériels causés par cette double frappe.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

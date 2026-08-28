@@ -33,6 +33,12 @@
 <div class="terr">Canada</div>
 <h1>Le français, nouveau point de friction dans les pourparlers commerciaux avec Washington</h1>
 <div class="chapo">National Post, Québecor, La Presse, Le Devoir, Global News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-francais-nouveau-point-de-friction-dans-les-pourparlers-c-dd5d5b.html"
+  data-titre="Le français, nouveau point de friction dans les pourparlers commerciaux avec Washington" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-francais-nouveau-point-de-friction-dans-les-pourparlers-c-dd5d5b.html">https://entreelibre.ca/edition/2026-08-28/a/le-francais-nouveau-point-de-friction-dans-les-pourparlers-c-dd5d5b.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Centre_Block_-_Parliament_Hill.jpg" onerror="this.closest('figure').remove()"><figcaption>La colline du Parlement, à Ottawa. Photo : Saffron Blaze, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://nationalpost.com/news/leblanc-welcomes-u-s-comments-on-french-language-protections-raises-possibility-of-renewed-trade-talks" target="_blank" rel="noopener"><span class="src-nom">National Post</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Québecor, La Presse, Le Devoir, Global News, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Au lendemain de l&#x27;échec de pourparlers commerciaux entre le Canada et les États-Unis, le premier ministre Mark Carney a expliqué que des exigences de dernière minute de Washington sur la découvrabilité du contenu canadien sur les plateformes de diffusion en continu et sur l&#x27;étiquetage bilingue étaient devenues un point de blocage non négociable pour Ottawa. Le lendemain, le ministre fédéral responsable du commerce, Dominic LeBlanc, a affirmé en entrevue radio que les lois québécoises d&#x27;étiquetage sont depuis longtemps un irritant commercial pour Washington, mais que c&#x27;est bien la question de la découvrabilité francophone sur les plateformes de diffusion qui s&#x27;était révélée non négociable pour l&#x27;équipe canadienne. Il a ajouté que les États-Unis avaient depuis fait évoluer leur position sur ce dossier précis, ouvrant la porte à une reprise des discussions. Le gouvernement canadien a dit se réjouir de ce changement de ton et attendre des propositions « constructives » de la part de Washington pour la suite des négociations.</p><p>Le secrétaire au Commerce américain, Howard Lutnick, a toutefois offert une tout autre lecture des événements : il accuse M. Carney de « mentir » sur la place réelle qu&#x27;aurait occupée la question du français dans les négociations, une manœuvre qui viserait selon lui à nuire au Parti québécois et au mouvement en faveur d&#x27;un référendum sur la séparation de l&#x27;Alberta prévu cet automne. Les versions concurrentes de MM. Carney et Lutnick sur les causes exactes de l&#x27;échec des pourparlers n&#x27;ont pas été réconciliées publiquement, chaque camp continuant d&#x27;attribuer l&#x27;échec à l&#x27;intransigeance de l&#x27;autre. Global News a rapporté que M. Carney avait qualifié la position américaine sur le français de sujet « non négociable », une formulation reprise ensuite par plusieurs médias québécois.</p><p>Le litige commercial plus large, marqué par des droits de douane américains et des mesures de rétorsion canadiennes, continue par ailleurs de dominer les premiers jours de la campagne électorale québécoise. Plusieurs chefs de parti ont déjà été appelés à se positionner sur la meilleure stratégie à adopter face à la Maison-Blanche, certains plaidant pour la fermeté et d&#x27;autres pour la retenue diplomatique, dans un climat où chaque geste de Washington est scruté pour ses répercussions possibles sur le vote du 5 octobre.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

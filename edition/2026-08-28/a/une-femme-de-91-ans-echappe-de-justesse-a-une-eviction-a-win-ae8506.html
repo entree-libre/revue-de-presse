@@ -32,6 +32,12 @@
 <div class="terr">Windsor (Ontario)</div>
 <h1>Une femme de 91 ans échappe de justesse à une éviction à Windsor</h1>
 <div class="chapo">CBC · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/une-femme-de-91-ans-echappe-de-justesse-a-une-eviction-a-win-ae8506.html"
+  data-titre="Une femme de 91 ans échappe de justesse à une éviction à Windsor" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/une-femme-de-91-ans-echappe-de-justesse-a-une-eviction-a-win-ae8506.html">https://entreelibre.ca/edition/2026-08-28/a/une-femme-de-91-ans-echappe-de-justesse-a-une-eviction-a-win-ae8506.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.cbc.ca/news/canada/windsor/windsor-rent-fight-sylvia-berk-peretz-seniors-apartment-ltb-9.7321192" target="_blank" rel="noopener"><span class="src-nom">CBC</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Une femme de 91 ans de Windsor, Sylvia Berk, a eu gain de cause devant la Commission de la location immobilière de l&#x27;Ontario après que son propriétaire, l&#x27;organisme I.L. Peretz Senior Citizen Corporation, eut tenté de la soumettre à une hausse de loyer dépassant largement le plafond légal de 2,5 % en vigueur l&#x27;an dernier. Le propriétaire soutenait que l&#x27;immeuble, désigné comme projet de logement social, était exempté des règles habituelles de plafonnement des loyers, un argument que la Commission a finalement rejeté. « J&#x27;étais tellement soulagée et tellement reconnaissante », a confié Mme Berk après avoir appris la décision.</p><p>L&#x27;affaire illustre les zones grises entourant certaines exemptions au contrôle des loyers en Ontario pour les logements destinés aux personnes âgées ou à faible revenu, un enjeu qui touche un nombre croissant de locataires vulnérables dans la province à mesure que les coûts de logement continuent d&#x27;augmenter. CBC souligne que des cas similaires impliquant des exemptions contestées ont été rapportés ailleurs en Ontario au cours de la dernière année.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

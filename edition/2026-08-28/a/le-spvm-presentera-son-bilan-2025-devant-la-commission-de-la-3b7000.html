@@ -33,6 +33,12 @@
 <div class="terr">Ville de Montréal</div>
 <h1>Le SPVM présentera son bilan 2025 devant la Commission de la sécurité publique le 16 septembre</h1>
 <div class="chapo">Ville de Montréal · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-spvm-presentera-son-bilan-2025-devant-la-commission-de-la-3b7000.html"
+  data-titre="Le SPVM présentera son bilan 2025 devant la Commission de la sécurité publique le 16 septembre" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-spvm-presentera-son-bilan-2025-devant-la-commission-de-la-3b7000.html">https://entreelibre.ca/edition/2026-08-28/a/le-spvm-presentera-son-bilan-2025-devant-la-commission-de-la-3b7000.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Service_de_police_de_la_Ville_de_Montr%C3%A9al_police_car.jpg/1280px-Service_de_police_de_la_Ville_de_Montr%C3%A9al_police_car.jpg" onerror="this.closest('figure').remove()"><figcaption>Un véhicule du Service de police de la Ville de Montréal (SPVM). Photo : Hillelfrei, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://montreal.ca/communiques-de-presse/assemblee-publique-etude-publique-du-rapport-annuel-2025-du-service-de-police-de-la-ville-de-0" target="_blank" rel="noopener"><span class="src-nom">Ville de Montréal</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Commission de la sécurité publique de Montréal tiendra une assemblée publique le 16 septembre à 13 h, à la salle des Armoiries de l&#x27;hôtel de ville, pour l&#x27;étude du rapport annuel 2025 du Service de police de la Ville de Montréal. La séance, prévue à l&#x27;origine le 22 juin, avait dû être reportée. Elle sera diffusée en direct sur le site de la Commission, et un service d&#x27;interprétation en langue des signes québécoise peut être offert sur demande présentée cinq jours à l&#x27;avance. La commission est présidée par la conseillère Alba Stella Zúñiga Ramos et réunit des élus de plusieurs arrondissements et villes liées, ainsi qu&#x27;un représentant du gouvernement du Québec. Les commissions permanentes de Montréal ont pour mission d&#x27;éclairer les décisions des élus et de favoriser la participation citoyenne aux débats d&#x27;intérêt public, en vertu de la Loi sur les cités et villes et de la Charte de la Ville. La documentation relative à l&#x27;assemblée sera rendue disponible sur la page web dédiée de la Commission avant la séance.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

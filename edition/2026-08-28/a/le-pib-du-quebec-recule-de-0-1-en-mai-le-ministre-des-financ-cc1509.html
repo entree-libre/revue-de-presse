@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Le PIB du Québec recule de 0,1 % en mai, le ministre des Finances écarte un scénario de récession</h1>
 <div class="chapo">Institut de la statistique du Québec (communiqué), Les Affaires (La Presse canadienne) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-pib-du-quebec-recule-de-0-1-en-mai-le-ministre-des-financ-cc1509.html"
+  data-titre="Le PIB du Québec recule de 0,1 % en mai, le ministre des Finances écarte un scénario de récession" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-pib-du-quebec-recule-de-0-1-en-mai-le-ministre-des-financ-cc1509.html">https://entreelibre.ca/edition/2026-08-28/a/le-pib-du-quebec-recule-de-0-1-en-mai-le-ministre-des-financ-cc1509.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://statistique.quebec.ca/fr/communique/pib-reel-quebec-baisse-0-virgule-1-mai-2026" target="_blank" rel="noopener"><span class="src-nom">Institut de la statistique du Québec (communiqué)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Les Affaires (La Presse canadienne), sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le produit intérieur brut (PIB) réel du Québec a reculé de 0,1 % en mai par rapport au mois précédent, après une hausse de 0,1 % en avril, selon les données publiées par l&#x27;Institut de la statistique du Québec (ISQ). La production de biens a chuté de 0,7 %, la fabrication (−1,2 %) et les services publics (−1,1 %) menant le repli — la fabrication de produits du pétrole et du charbon reculant à elle seule de 8,1 % —, tandis que la production de services a progressé de 0,1 %, l&#x27;hébergement et la restauration (+1,4 %) profitant possiblement des séries éliminatoires du Canadien de Montréal et du Grand Prix du Canada, tenu en mai. Sur les cinq premiers mois de 2026, le PIB québécois demeure 0,1 % sous son niveau de la même période en 2025, la fabrication (−2,9 %) et les administrations publiques (−2,0 %) tirant vers le bas, contrairement à la finance et aux assurances (+3,2 %); le PIB canadien, lui, croît de 0,9 % sur la même période.</p><p>Réagissant à ce ralentissement en marge du dernier conseil des ministres avant le déclenchement de la campagne électorale, le ministre des Finances, Eric Girard, écarte un scénario de récession pour le Québec: «le scénario de récession, c&#x27;est un scénario qui est basé sur un retrait complet des États-Unis de l&#x27;accord Canada, États-Unis, Mexique [...] Alors on n&#x27;est pas là», a-t-il expliqué. Il reconnaît toutefois que la nouvelle escalade tarifaire assombrit les perspectives par rapport au rapport préélectoral, qui prévoyait une croissance de 0,7 % pour 2026: «on est en ralentissement, entre les deux» scénarios de base et pessimiste, ce dernier prévoyant plutôt un recul du PIB réel de 0,2 % cette année. L&#x27;économiste en chef de iA Groupe financier, Sébastien Mc Mahon, parle lui aussi d&#x27;une «stagnation avec une économie qui se transforme».</p><p>La vérificatrice générale du Québec, Christine Roy, avait prévenu plus tôt ce mois-ci que près de 70 % des efforts budgétaires requis pour respecter la Loi sur l&#x27;équilibre budgétaire retomberont sur le prochain gouvernement, soit 2 milliards de dollars dès l&#x27;an prochain et 3 milliards l&#x27;année suivante, en plus d&#x27;un écart de 1,85 milliard non encore identifié. Selon le fiscaliste Luc Godbout, de l&#x27;Université de Sherbrooke, ce cadre financier serré signifie que «chaque engagement financier entraînant un manque à gagner pour l&#x27;État devrait être assorti» d&#x27;une source de financement précise dans les plateformes électorales.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

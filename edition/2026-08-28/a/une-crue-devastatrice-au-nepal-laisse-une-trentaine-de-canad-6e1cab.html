@@ -32,6 +32,12 @@
 <div class="terr">Népal, Tibet</div>
 <h1>Une crue dévastatrice au Népal laisse une trentaine de Canadiens portés disparus</h1>
 <div class="chapo">Québecor, Radio-Canada, Le Devoir, La Presse, CBC · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/une-crue-devastatrice-au-nepal-laisse-une-trentaine-de-canad-6e1cab.html"
+  data-titre="Une crue dévastatrice au Népal laisse une trentaine de Canadiens portés disparus" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/une-crue-devastatrice-au-nepal-laisse-une-trentaine-de-canad-6e1cab.html">https://entreelibre.ca/edition/2026-08-28/a/une-crue-devastatrice-au-nepal-laisse-une-trentaine-de-canad-6e1cab.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.tvanouvelles.ca/2026/08/26/coulee-de-boue-au-tibet--558-personnes-disparues-selon-un-nouveau-bilan" target="_blank" rel="noopener"><span class="src-nom">Québecor</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Radio-Canada, Le Devoir, La Presse, CBC, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les équipes de secours ont extrait jeudi les corps d&#x27;au moins 362 victimes de l&#x27;immense coulée de boue qui a dévasté la veille la région frontalière entre le Népal et le Tibet, tout en poursuivant les recherches pour retrouver plus de 1400 personnes toujours portées disparues. Parmi elles se trouveraient une trentaine de Canadiens, selon un bilan communiqué par les autorités et repris par Québecor. L&#x27;ambassadeur du Népal au Canada, Bharat Raj Paudyal, a expliqué ne pas être en mesure de fournir de détails sur l&#x27;identité des personnes recherchées, mais a rappelé que la région touchée est prisée des randonneurs et sert aussi de route fréquentée par les pèlerins, ce qui pourrait expliquer la présence de nombreux étrangers au moment de la catastrophe.</p><p>À Toronto, la communauté népalaise du Canada tente de joindre des proches sur place pendant que des organismes locaux s&#x27;organisent pour envoyer de l&#x27;aide, rapporte Radio-Canada. Khagendra Kandel, membre du conseil d&#x27;administration de Nepalese Canadian Community Services, a décrit une communauté sous le choc, mobilisée pour soutenir les familles en attente de nouvelles. Le Devoir et La Presse ont tous deux repris le bilan des victimes au fil de la journée, chacun soulignant l&#x27;ampleur inhabituelle de la catastrophe pour la région himalayenne. Aucune aide gouvernementale canadienne n&#x27;avait été annoncée formellement au moment de la publication, même si Affaires mondiales Canada avait indiqué suivre la situation de près pour les ressortissants canadiens dans la zone touchée. Le bilan communiqué jeudi représente déjà l&#x27;un des plus lourds enregistrés dans la région himalayenne depuis plusieurs années, et les autorités népalaises ont prévenu que le nombre de victimes confirmées pourrait encore grimper à mesure que les équipes de secours progressent dans les zones les plus difficiles d&#x27;accès. La coordination entre les autorités népalaises, chinoises et canadiennes sur le terrain n&#x27;avait pas encore fait l&#x27;objet d&#x27;un point de presse conjoint au moment de la publication des quatre reportages.</p><p>**Mise à jour, 21 h 30** — Dix résidents de Toronto figurent parmi les personnes portées disparues, a confirmé jeudi sur les ondes de CBC News Network Leslie Crespi, responsable des relations communautaires en Amérique du Nord pour la Fondation Isha, un organisme spirituel sans but lucratif établi aux États-Unis. Ces dix personnes font partie des 80 membres de l&#x27;organisation dont on est toujours sans nouvelles. Les organisateurs du voyage et les familles n&#x27;ont eu aucun contact avec le groupe depuis mercredi matin.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

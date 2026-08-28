@@ -32,6 +32,12 @@
 <div class="terr">Mexique</div>
 <h1>Le tueur présumé d&#x27;un influenceur abattu en direct sur TikTok arrêté au Mexique</h1>
 <div class="chapo">Le Journal de Montréal, Le Parisien · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-tueur-presume-d-un-influenceur-abattu-en-direct-sur-tikto-6e39f2.html"
+  data-titre="Le tueur présumé d&#x27;un influenceur abattu en direct sur TikTok arrêté au Mexique" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-tueur-presume-d-un-influenceur-abattu-en-direct-sur-tikto-6e39f2.html">https://entreelibre.ca/edition/2026-08-28/a/le-tueur-presume-d-un-influenceur-abattu-en-direct-sur-tikto-6e39f2.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.journaldemontreal.com/2026/08/27/mexique-arrestation-du-tueur-presume-dun-influenceur-abattu-en-plein-direct" target="_blank" rel="noopener"><span class="src-nom">Le Journal de Montréal</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Parisien, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les autorités mexicaines ont arrêté un homme soupçonné d&#x27;avoir abattu un influenceur devant un restaurant où celui-ci réalisait une diffusion en direct sur TikTok. La victime a été tuée sous les yeux de ses abonnés, l&#x27;application ayant continué de diffuser la scène pendant plusieurs instants avant que la retransmission ne soit interrompue.</p><p>L&#x27;enquête doit encore établir le mobile exact de cette attaque, qui a suscité une vive émotion au Mexique et sur les réseaux sociaux dans les jours qui ont suivi les faits. Ce type d&#x27;agression contre des personnalités des réseaux sociaux, parfois liée au crime organisé ou à des règlements de comptes personnels, s&#x27;est multiplié ces dernières années dans le pays. Plusieurs influenceurs mexicains ont déjà été visés par des attaques similaires, certaines diffusées elles aussi en direct sur les plateformes de vidéo.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

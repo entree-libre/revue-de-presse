@@ -36,6 +36,12 @@ Originaire de Saint-Henri et aujourd&#x27;hui résident de">
 <div class="terr">Bellechasse</div>
 <h1>Le Parti québécois confirme Jérôme Couture comme candidat dans Bellechasse</h1>
 <div class="chapo">La Voix du Sud · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-parti-quebecois-confirme-jerome-couture-comme-candidat-da-8dea1e.html"
+  data-titre="Le Parti québécois confirme Jérôme Couture comme candidat dans Bellechasse" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-parti-quebecois-confirme-jerome-couture-comme-candidat-da-8dea1e.html">https://entreelibre.ca/edition/2026-08-28/a/le-parti-quebecois-confirme-jerome-couture-comme-candidat-da-8dea1e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lavoixdusud.com/actualites/jerome-couture-sera-candidat-du-parti-quebecois-dans-bellechasse/" target="_blank" rel="noopener"><span class="src-nom">La Voix du Sud</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Parti québécois a confirmé mercredi soir la candidature de Jérôme Couture dans Bellechasse, en vue du scrutin du 5 octobre.</p><p>Originaire de Saint-Henri et aujourd&#x27;hui résident de Cap-Rouge, le politologue de 45 ans détient un doctorat de l&#x27;Université Laval, où il enseigne les finances publiques et la fiscalité; il travaille aussi comme analyste à Transport Québec et comme contractuel à l&#x27;École nationale d&#x27;administration publique. Militant péquiste de longue date, il a été conseiller municipal à Saint-Henri pendant huit ans et présidait l&#x27;Office municipal d&#x27;habitation de la Rivière-Etchemin jusqu&#x27;à sa fusion avec celui de Montmagny en 2024.</p><p>M. Couture affrontera la députée sortante Stéphanie Lachance (équipe de Christine Fréchette, CAQ), le chef conservateur Éric Duhaime, le libéral Richard Garon et Raphaël Bédard de Québec solidaire. Il dit vouloir mettre de l&#x27;avant le soutien aux PME dans le contexte de la guerre commerciale, la défense de l&#x27;agriculture et l&#x27;accès aux services de santé en région, et appuie la position de son parti en faveur de l&#x27;abolition de Santé Québec. Selon lui, les fusions administratives passées, notamment dans le réseau des offices d&#x27;habitation, ont éloigné les décisions des régions comme Bellechasse. Le Parti québécois n&#x27;a plus élu personne dans la circonscription depuis plus de vingt ans.</p></div>
 <div class="etiquettes">
@@ -102,7 +108,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -124,4 +130,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

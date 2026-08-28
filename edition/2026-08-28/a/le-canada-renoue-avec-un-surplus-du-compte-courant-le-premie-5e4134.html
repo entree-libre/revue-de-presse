@@ -32,6 +32,12 @@
 <div class="terr">Canada</div>
 <h1>Le Canada renoue avec un surplus du compte courant, le premier depuis 2022</h1>
 <div class="chapo">Statistique Canada (Le Quotidien) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-canada-renoue-avec-un-surplus-du-compte-courant-le-premie-5e4134.html"
+  data-titre="Le Canada renoue avec un surplus du compte courant, le premier depuis 2022" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-canada-renoue-avec-un-surplus-du-compte-courant-le-premie-5e4134.html">https://entreelibre.ca/edition/2026-08-28/a/le-canada-renoue-avec-un-surplus-du-compte-courant-le-premie-5e4134.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www150.statcan.gc.ca/n1/daily-quotidien/260827/dq260827a-fra.htm" target="_blank" rel="noopener"><span class="src-nom">Statistique Canada (Le Quotidien)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Canada a enregistré au deuxième trimestre de 2026 un excédent du compte courant de 8,8 milliards de dollars, après un déficit de 8,3 milliards au trimestre précédent, selon les données de la balance des paiements internationaux publiées jeudi par Statistique Canada. Il s&#x27;agit du premier excédent depuis le deuxième trimestre de 2022 et du plus élevé depuis la fin de 2005.</p><p>Le solde du commerce de biens est passé d&#x27;un déficit de 6,4 milliards à un excédent de 12,2 milliards, le plus important depuis 2008, porté par une hausse record de 13,1 % des exportations, à 232,1 milliards de dollars. Les exportations de produits énergétiques ont bondi de 27,4 % dans le contexte de l&#x27;incertitude entourant l&#x27;approvisionnement international liée au conflit en Iran, celles de pétrole brut et de bitume atteignant un sommet inégalé de 44,8 milliards; les exportations de véhicules automobiles ont également grimpé de 19,3 %. Les importations ont, elles, progressé plus modestement, de 3,9 %, à 220,0 milliards.</p><p>L&#x27;excédent du commerce des services a toutefois fondu, passant de 472,1 millions à 26,3 millions, tandis que l&#x27;excédent des revenus de placement poursuit sa troisième baisse trimestrielle consécutive, à 0,5 milliard. Dans le compte financier, les investisseurs étrangers ont acquis pour un niveau record de 110,2 milliards de dollars de titres d&#x27;emprunt canadiens, dont 80,8 milliards en obligations des administrations publiques — également un sommet —, tout en réduisant pour un deuxième trimestre de suite leurs avoirs en actions canadiennes, de 9,6 milliards. Les prochaines données, portant sur le troisième trimestre, seront publiées le 27 novembre.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

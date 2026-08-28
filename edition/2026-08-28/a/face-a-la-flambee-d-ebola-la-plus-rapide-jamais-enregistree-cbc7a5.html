@@ -33,6 +33,12 @@
 <div class="terr">République démocratique du Congo</div>
 <h1>Face à la flambée d&#x27;Ebola la plus rapide jamais enregistrée en RDC, Guterres réclame 1,1 milliard de dollars</h1>
 <div class="chapo">ONU Info, La Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/face-a-la-flambee-d-ebola-la-plus-rapide-jamais-enregistree-cbc7a5.html"
+  data-titre="Face à la flambée d&#x27;Ebola la plus rapide jamais enregistrée en RDC, Guterres réclame 1,1 milliard de dollars" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/face-a-la-flambee-d-ebola-la-plus-rapide-jamais-enregistree-cbc7a5.html">https://entreelibre.ca/edition/2026-08-28/a/face-a-la-flambee-d-ebola-la-plus-rapide-jamais-enregistree-cbc7a5.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Operation_United_Assistance_141126-A-BO458-001.jpg/1280px-Operation_United_Assistance_141126-A-BO458-001.jpg" onerror="this.closest('figure').remove()"><figcaption>Formation d&#x27;agents de santé lors d&#x27;une riposte à une épidémie d&#x27;Ebola. Photo : Spc. Rashene Mincy, Public domain, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://news.un.org/fr/story/2026/08/1159370" target="_blank" rel="noopener"><span class="src-nom">ONU Info</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par La Presse, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le secrétaire général des Nations unies, António Guterres, a placé jeudi la crise d&#x27;Ebola en République démocratique du Congo au centre d&#x27;une conférence de presse à New York, avec un constat sans détour sur ce qu&#x27;il a décrit comme la flambée la plus rapide jamais enregistrée du virus. L&#x27;ONU a mobilisé plus de 80 millions de dollars par l&#x27;intermédiaire de ses fonds communs, mais ces ressources ne permettront de tenir que « des semaines, pas des mois », a-t-il averti devant la presse internationale.</p><p>M. Guterres a dénoncé une forme d&#x27;indifférence internationale face à la crise, alors que l&#x27;attention mondiale reste largement tournée vers d&#x27;autres conflits en cours ailleurs dans le monde. Il a demandé 1,1 milliard de dollars pour financer une réponse humanitaire à la hauteur de l&#x27;urgence, alors que l&#x27;épidémie continue de progresser dans l&#x27;est du pays. Cette région reste déjà fragilisée par des années de conflit armé impliquant de multiples groupes armés et par des déplacements massifs de population qui compliquent le travail des équipes sanitaires sur le terrain.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

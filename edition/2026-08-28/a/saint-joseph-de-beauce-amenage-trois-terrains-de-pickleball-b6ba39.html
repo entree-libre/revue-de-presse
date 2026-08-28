@@ -32,6 +32,12 @@
 <div class="terr">Saint-Joseph-de-Beauce</div>
 <h1>Saint-Joseph-de-Beauce aménage trois terrains de pickleball sur le site de l&#x27;ancien aréna</h1>
 <div class="chapo">Beauce Média · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/saint-joseph-de-beauce-amenage-trois-terrains-de-pickleball-b6ba39.html"
+  data-titre="Saint-Joseph-de-Beauce aménage trois terrains de pickleball sur le site de l&#x27;ancien aréna" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/saint-joseph-de-beauce-amenage-trois-terrains-de-pickleball-b6ba39.html">https://entreelibre.ca/edition/2026-08-28/a/saint-joseph-de-beauce-amenage-trois-terrains-de-pickleball-b6ba39.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.beaucemedia.ca/actualites/de-nouveaux-terrains-de-pickleball-a-saint-joseph/" target="_blank" rel="noopener"><span class="src-nom">Beauce Média</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Ville de Saint-Joseph-de-Beauce a annoncé le 26 août l&#x27;aménagement de trois terrains de pickleball, baptisés « Terrains de pickleball DLM », sur le site du plateau sportif municipal, à l&#x27;emplacement de l&#x27;ancien aréna. Le projet, réalisé par l&#x27;entreprise Patrick Gagné et Fils, représente un investissement de 276 000 $ et découle d&#x27;une collaboration entre la Ville et l&#x27;entreprise DLM, établie sur son territoire. L&#x27;aménagement doit être complété à la fin de l&#x27;automne et s&#x27;ajoutera au Pavillon d&#x27;accueil MCG ainsi qu&#x27;à la patinoire extérieure et à la surface de dek hockey déjà en place. La Ville a par ailleurs déposé un projet auprès du ministère de l&#x27;Éducation du Québec dans le cadre d&#x27;un programme d&#x27;aide financière aux infrastructures sportives. La Ville a par ailleurs déposé un projet auprès du ministère de l&#x27;Éducation du Québec dans le cadre d&#x27;un programme d&#x27;aide financière aux infrastructures sportives et récréatives.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

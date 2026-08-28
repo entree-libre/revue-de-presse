@@ -32,6 +32,12 @@
 <div class="terr">Chine, États-Unis</div>
 <h1>La Chine rejette les accusations américaines de cyberespionnage</h1>
 <div class="chapo">Boursorama (AFP), Le Journal de Montréal, 20 Minutes, Noovo Info · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-chine-rejette-les-accusations-americaines-de-cyberespionn-a845bd.html"
+  data-titre="La Chine rejette les accusations américaines de cyberespionnage" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-chine-rejette-les-accusations-americaines-de-cyberespionn-a845bd.html">https://entreelibre.ca/edition/2026-08-28/a/la-chine-rejette-les-accusations-americaines-de-cyberespionn-a845bd.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.boursorama.com/actualite-economique/actualites/la-plus-grande-puissance-de-piratage-au-monde-la-chine-pointe-les-etats-unis-apres-les-accusations-de-washington-sur-la-cybersecurite-mondiale-d6c848ea3b9c01233c527c2ee3e0212a" target="_blank" rel="noopener"><span class="src-nom">Boursorama (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Journal de Montréal, 20 Minutes, Noovo Info, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Après de nouvelles opérations annoncées par Washington dans le domaine de la cybersécurité, la Chine a renvoyé aux États-Unis les accusations de piratage informatique. Elle les a qualifiés jeudi de « plus grande puissance de piratage et de surveillance au monde », rapporte l&#x27;AFP citant un porte-parole du ministère chinois des Affaires étrangères. Le ministère américain de la Justice avait dénoncé plus tôt des « activités de cyberpiratage indiscriminées parrainées par la République populaire de Chine », des accusations que Pékin qualifie de « calomnie » pure et simple.</p><p>Cet échange s&#x27;ajoute à une liste déjà longue de différends entre les deux pays, sur fond de tensions commerciales et technologiques persistantes depuis plusieurs années. Ni Washington ni Pékin n&#x27;ont fourni de preuves techniques détaillées et vérifiables de façon indépendante à l&#x27;appui de leurs accusations respectives, chaque camp se contentant pour l&#x27;instant de déclarations publiques. Ce type d&#x27;échange rhétorique entre les deux capitales sur le terrain de la cybersécurité s&#x27;est nettement intensifié au cours des derniers mois.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">États-Unis</div>
 <h1>Un fossile texan vieux de 324 millions d&#x27;années révèle un insecte à 24 pattes</h1>
 <div class="chapo">Geo · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-fossile-texan-vieux-de-324-millions-d-annees-revele-un-in-31b58f.html"
+  data-titre="Un fossile texan vieux de 324 millions d&#x27;années révèle un insecte à 24 pattes" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-fossile-texan-vieux-de-324-millions-d-annees-revele-un-in-31b58f.html">https://entreelibre.ca/edition/2026-08-28/a/un-fossile-texan-vieux-de-324-millions-d-annees-revele-un-in-31b58f.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.geo.fr/animaux/le-fossile-dun-etrange-insecte-de-24-pattes-intrigue-les-scientifiques-23" target="_blank" rel="noopener"><span class="src-nom">Geo</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;analyse d&#x27;un fossile vieux de 324 millions d&#x27;années, exhumé d&#x27;une couche de schiste dans l&#x27;ouest du Texas, a révélé un arthropode doté de 24 pattes, rapporte Geo. Le paléoentomologiste Erik Tihelka, de l&#x27;Université de Cambridge, estime que cette découverte comble une lacune importante dans les archives fossiles de ce groupe d&#x27;animaux, pour une période où les traces fossiles restent rares.</p><p>« Cette découverte comble une lacune importante dans les archives fossiles », a-t-il expliqué, cité par Geo. L&#x27;espèce ne correspond à aucun groupe connu d&#x27;arthropodes actuels, ce qui pousse les chercheurs à revoir la diversité déjà large des formes corporelles apparues à cette période géologique reculée, bien avant l&#x27;apparition des dinosaures.</p><p>La période concernée, le Carbonifère, est déjà connue pour avoir vu apparaître des arthropodes de grande taille, favorisés par une atmosphère alors plus riche en oxygène qu&#x27;aujourd&#x27;hui. Les conditions géologiques particulières du site texan, situé dans une ancienne mer intérieure, ont permis une préservation exceptionnelle du fossile.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

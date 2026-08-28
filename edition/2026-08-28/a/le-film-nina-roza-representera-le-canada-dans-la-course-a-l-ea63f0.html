@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Le film Nina Roza représentera le Canada dans la course à l&#x27;Oscar du meilleur film international</h1>
 <div class="chapo">Radio-Canada, Le Journal de Montréal, La Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-film-nina-roza-representera-le-canada-dans-la-course-a-l-ea63f0.html"
+  data-titre="Le film Nina Roza représentera le Canada dans la course à l&#x27;Oscar du meilleur film international" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-film-nina-roza-representera-le-canada-dans-la-course-a-l-ea63f0.html">https://entreelibre.ca/edition/2026-08-28/a/le-film-nina-roza-representera-le-canada-dans-la-course-a-l-ea63f0.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2277654/nina-roza-canada-oscar-meilleur-film-international" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Journal de Montréal, La Presse, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le film Nina Roza, de la réalisatrice Geneviève Dulude-De Celles, représentera le Canada dans la course à l&#x27;Oscar du meilleur film international, a annoncé Radio-Canada. La cinéaste avait déjà remporté l&#x27;Ours de cristal du meilleur film dans la section Generation Kplus de la Berlinale, ainsi que le Prix Écran canadien du meilleur film pour son premier long métrage de fiction, Une colonie.</p><p>La sélection canadienne doit encore franchir plusieurs étapes de présélection de l&#x27;Académie des arts et des sciences du cinéma avant de connaître le sort du film dans la course aux nominations de l&#x27;an prochain. Chaque pays ne peut soumettre qu&#x27;un seul long métrage dans cette catégorie, ce qui fait de la sélection nationale elle-même une étape déjà compétitive.</p><p>Le choix de Nina Roza confirme la reconnaissance internationale grandissante de Geneviève Dulude-De Celles, dont le parcours a été jalonné de prix dans plusieurs festivals européens avant cette sélection. Le Canada n&#x27;a plus été nommé dans cette catégorie aux Oscars depuis plusieurs années, ce qui ajoute à l&#x27;attente entourant la suite du parcours du film.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

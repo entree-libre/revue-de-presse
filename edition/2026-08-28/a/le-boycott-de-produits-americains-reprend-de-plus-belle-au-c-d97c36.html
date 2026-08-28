@@ -32,6 +32,12 @@
 <div class="terr">Canada, États-Unis</div>
 <h1>Le boycott de produits américains reprend de plus belle au Canada</h1>
 <div class="chapo">France 24 (AFP), Boursorama, Sud Ouest · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-boycott-de-produits-americains-reprend-de-plus-belle-au-c-d97c36.html"
+  data-titre="Le boycott de produits américains reprend de plus belle au Canada" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-boycott-de-produits-americains-reprend-de-plus-belle-au-c-d97c36.html">https://entreelibre.ca/edition/2026-08-28/a/le-boycott-de-produits-americains-reprend-de-plus-belle-au-c-d97c36.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.boursorama.com/bourse/actualites/au-canada-le-mouvement-de-boycott-contre-les-etats-unis-relance-b06d2ac61e3033e89dc662e567c454c8" target="_blank" rel="noopener"><span class="src-nom">France 24 (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Boursorama, Sud Ouest, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>« Acheter canadien » : l&#x27;escalade du conflit commercial avec les États-Unis fait souffler un vent de patriotisme économique au Canada, où le gouvernement de Mark Carney encourage plus que jamais les citoyens à boycotter les produits américains, rapporte l&#x27;AFP. « Les droits de douane, ça fait du mal à notre économie, mais ça nous force à acheter canadien. Et ça, je suis bien d&#x27;accord », témoigne Philippe Méranger, un Montréalais de 61 ans interrogé à la sortie d&#x27;un supermarché.</p><p>Des graffitis appelant au boycott de vins américains sont apparus dans des magasins d&#x27;alcool à Montréal, selon des images recueillies par l&#x27;AFP sur place. Plusieurs chaînes de distribution ont par ailleurs mis en avant des produits d&#x27;origine canadienne sur leurs tablettes, à l&#x27;aide d&#x27;étiquetages spécifiques facilitant leur identification par la clientèle. Le mouvement, apparu au tout début de la guerre commerciale l&#x27;an dernier, semble avoir repris de la vigueur avec l&#x27;échec, cette semaine, des dernières négociations bilatérales entre Ottawa et Washington.</p><p>Des associations de commerçants rapportent une hausse mesurable des ventes de produits identifiés comme canadiens depuis le début de l&#x27;automne, sans toutefois fournir de chiffres consolidés à l&#x27;échelle nationale.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

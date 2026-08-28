@@ -32,6 +32,12 @@
 <div class="terr">Bas-Saint-Laurent</div>
 <h1>Christine Fréchette entame la campagne électorale au Bas-Saint-Laurent</h1>
 <div class="chapo">Le Soleil, Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/christine-frechette-entame-la-campagne-electorale-au-bas-sai-14d3b8.html"
+  data-titre="Christine Fréchette entame la campagne électorale au Bas-Saint-Laurent" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/christine-frechette-entame-la-campagne-electorale-au-bas-sai-14d3b8.html">https://entreelibre.ca/edition/2026-08-28/a/christine-frechette-entame-la-campagne-electorale-au-bas-sai-14d3b8.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lesoleil.com/actualites/actualites-locales/est-du-quebec/2026/08/28/quest-ce-qui-attire-christine-frechette-au-bas-saint-laurent-EJJOWYHNPBDRVBLCR77L7KPIZA/" target="_blank" rel="noopener"><span class="src-nom">Le Soleil</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Radio-Canada, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La cheffe de la Coalition avenir Québec, Christine Fréchette, devient la première cheffe de parti à visiter le Bas-Saint-Laurent depuis le déclenchement de la campagne électorale, jeudi. Elle était attendue en fin de journée au restaurant Le Tournesol de Rivière-du-Loup — où François Legault avait lui-même lancé sa campagne en 2022, une pure coïncidence dans le choix du lieu — pour appuyer le lancement de campagne de la députée sortante et ministre du Tourisme, Amélie Dionne, dans Rivière-du-Loup–Témiscouata–Les Basques. « Il y a toujours une belle énergie ici. J&#x27;avais débuté ma campagne à la chefferie ici, alors voilà, on récidive! », a expliqué Mme Fréchette.</p><p>« C&#x27;est une région qui a un grand potentiel et c&#x27;est une région où on a été très actif aussi », a-t-elle ajouté, évoquant notamment la pénurie de logements. Trois des quatre députés du Bas-Saint-Laurent avaient été élus sous la bannière caquiste en 2022. Plus tôt dans la journée, elle avait fait un arrêt dans Côte-du-Sud pour un bain de foule avec le député sortant Mathieu Rivest, également présent à Rivière-du-Loup aux côtés du candidat caquiste dans Rivière-du-Loup–Témiscouata–Les Basques, Henry McLaren.</p><p>La cheffe n&#x27;a pris aucun engagement spécifique pour cette circonscription lors de son passage, mais a promis de dévoiler son cadre financier électoral dans les prochains jours et prévoyait une annonce vendredi matin du côté de Rimouski. Elle ne se rendra toutefois pas jusqu&#x27;à Matane-Matapédia-Mitis au cours de ce court séjour dans l&#x27;Est-du-Québec.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

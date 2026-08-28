@@ -32,6 +32,12 @@
 <div class="terr">Ensemble du Québec</div>
 <h1>Une enquête des Coops de l&#x27;information sonde la surcharge sur les routes du Québec</h1>
 <div class="chapo">Les Coops de l&#x27;information (La Tribune, Le Soleil, Le Quotidien, Le Nouvelliste, La Voix de l&#x27;Est, Le Droit) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/une-enquete-des-coops-de-l-information-sonde-la-surcharge-su-f0e781.html"
+  data-titre="Une enquête des Coops de l&#x27;information sonde la surcharge sur les routes du Québec" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/une-enquete-des-coops-de-l-information-sonde-la-surcharge-su-f0e781.html">https://entreelibre.ca/edition/2026-08-28/a/une-enquete-des-coops-de-l-information-sonde-la-surcharge-su-f0e781.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.latribune.ca/enquete/2026/08/28/si-on-voit-ca-dans-les-balances-quest-ce-qui-roule-sur-nos-routes-ZSGKLIJSM5BG3IPEDUOSGSKRCU/" target="_blank" rel="noopener"><span class="src-nom">Les Coops de l&#x27;information (La Tribune</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Soleil, Le Quotidien, Le Nouvelliste, La Voix de l&#x27;Est, Le Droit), sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Une scène observée la semaine dernière par les Coops de l&#x27;information illustre une inquiétude grandissante chez les contrôleurs routiers : si de tels comportements sont visibles jusque dans les postes de contrôle eux-mêmes, que se passe-t-il ailleurs sur le réseau ? À la fin juillet, un camion-citerne transportant du dioxyde de carbone liquide réfrigéré a omis de prendre la sortie obligatoire vers la pesée, au poste de contrôle de Saint-Mathieu-de-Beloeil, en Montérégie. Réalisant son erreur, le conducteur a immobilisé son poids lourd sur l&#x27;autoroute avant de reculer dangereusement en direction du poste.</p><p>À Charlesbourg, un ensemble de véhicules lourds a par ailleurs été retiré de la circulation après une inspection ayant révélé six défectuosités majeures, dont des freins mal ajustés sur 75 % des unités de freinage. Ces incidents alimentent les appels à resserrer la surveillance d&#x27;un réseau où l&#x27;essentiel du camionnage échappe, selon les contrôleurs, à toute vérification.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

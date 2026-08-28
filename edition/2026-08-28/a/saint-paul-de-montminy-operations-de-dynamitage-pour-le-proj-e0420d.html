@@ -33,6 +33,12 @@
 <div class="terr">Saint-Paul-de-Montminy (Bellechasse)</div>
 <h1>Saint-Paul-de-Montminy : opérations de dynamitage pour le projet éolien de Kruger</h1>
 <div class="chapo">Municipalité de Saint-Paul-de-Montminy · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/saint-paul-de-montminy-operations-de-dynamitage-pour-le-proj-e0420d.html"
+  data-titre="Saint-Paul-de-Montminy : opérations de dynamitage pour le projet éolien de Kruger" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/saint-paul-de-montminy-operations-de-dynamitage-pour-le-proj-e0420d.html">https://entreelibre.ca/edition/2026-08-28/a/saint-paul-de-montminy-operations-de-dynamitage-pour-le-proj-e0420d.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/2/29/%C3%89olienne_-_Parc_%C3%A9olien_du_Massif_du_Sud.JPG" onerror="this.closest('figure').remove()"><figcaption>Une éolienne dans la région de Bellechasse, où se déroulent les travaux à Saint-Paul-de-Montminy. Photo : AnnaTallulah, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.stpauldemontminy.com/2026/08/27/avis-a-la-population-dynamitage-prevu-du-28-au-30-aout-2026/" target="_blank" rel="noopener"><span class="src-nom">Municipalité de Saint-Paul-de-Montminy</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Dans le cadre des travaux du projet éolien de Saint-Paul-de-Montminy, l&#x27;entreprise Kruger informe les citoyennes et citoyens résidant à proximité du chantier, ainsi que ceux situés dans la zone d&#x27;exclusion, que des opérations de dynamitage seront réalisées par un sous-traitant du 28 au 30 août, entre 11 h et 15 h et entre 17 h et 20 h chaque jour. La municipalité publie une carte des secteurs concernés, numérotés selon l&#x27;avis de dynamitage du jour, pour faciliter leur repérage. La procédure prévoit un signal sonore de douze petits coups avant la mise à feu, une pause de 30 secondes, puis un grand coup de 15 secondes confirmant que le sautage a été initié; le périmètre d&#x27;exclusion n&#x27;est levé qu&#x27;après vérification exhaustive une fois la fumée dissipée. Si les travaux devaient se poursuivre au-delà de cette fenêtre, un nouvel avis sera publié pour tenir la population informée. La municipalité précise qu&#x27;un nouvel avis sera publié si les opérations de dynamitage devaient se poursuivre au-delà de cette fenêtre de trois jours.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

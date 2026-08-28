@@ -32,6 +32,12 @@
 <div class="terr">Côte-Nord</div>
 <h1>Hells Angels à Sept-Îles : « une démonstration de force », selon un ex-enquêteur</h1>
 <div class="chapo">Journal Haute-Côte-Nord · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/hells-angels-a-sept-iles-une-demonstration-de-force-selon-un-682835.html"
+  data-titre="Hells Angels à Sept-Îles : « une démonstration de force », selon un ex-enquêteur" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/hells-angels-a-sept-iles-une-demonstration-de-force-selon-un-682835.html">https://entreelibre.ca/edition/2026-08-28/a/hells-angels-a-sept-iles-une-demonstration-de-force-selon-un-682835.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.journalhcn.com/2026/08/27/hells-angels-a-sept-iles-derriere-le-spectacle-une-demonstration-de-force/" target="_blank" rel="noopener"><span class="src-nom">Journal Haute-Côte-Nord</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le passage d&#x27;un groupe de Hells Angels sur la Côte-Nord a une fois de plus attiré les regards à Sept-Îles : leur arrivée en groupe, leurs motos et leurs couleurs donnent inévitablement l&#x27;impression d&#x27;un événement hors de l&#x27;ordinaire. Mais selon Arold Bernatchez, ex-enquêteur de la Sûreté du Québec responsable des crimes majeurs sur la Côte-Nord, il faut se garder de romantiser ou de glorifier la présence de cette organisation : « le but, c&#x27;est de montrer leur force, montrer leur pouvoir, c&#x27;est d&#x27;intimider carrément », l&#x27;un des moyens pour le groupe de rappeler qu&#x27;il continue d&#x27;occuper le territoire.</p><p>Certains propriétaires de bars de la ville relativisent toutefois l&#x27;impact de ces visites : Yannick Vachon, propriétaire du bar 7 Îles, dit n&#x27;avoir jamais eu de problème et vivre plutôt une période tranquille lorsque les motards sont de passage. Le bar Le Gibson, théâtre d&#x27;un passage à tabac commis par des Hells Angels lors d&#x27;un précédent passage l&#x27;an dernier, était fermé cette fois, mais uniquement en raison d&#x27;un manque de personnel de sécurité, selon ses gestionnaires — sans lien avec la visite du groupe.</p><p>La Sûreté du Québec a néanmoins déployé une présence policière accrue lors du déplacement, une procédure habituelle, précise M. Bernatchez, lorsque des groupes de motards criminalisés circulent sur le territoire.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

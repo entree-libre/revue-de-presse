@@ -33,6 +33,12 @@
 <div class="terr">Estrie (Sherbrooke)</div>
 <h1>ARTIST par Marilyn ouvre une deuxième boutique pour sa communauté, à Sherbrooke</h1>
 <div class="chapo">La Tribune · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/artist-par-marilyn-ouvre-une-deuxieme-boutique-pour-sa-commu-147e9b.html"
+  data-titre="ARTIST par Marilyn ouvre une deuxième boutique pour sa communauté, à Sherbrooke" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/artist-par-marilyn-ouvre-une-deuxieme-boutique-pour-sa-commu-147e9b.html">https://entreelibre.ca/edition/2026-08-28/a/artist-par-marilyn-ouvre-une-deuxieme-boutique-pour-sa-commu-147e9b.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Centre-ville_sherbrooke_nuit.jpg" onerror="this.closest('figure').remove()"><figcaption>Le centre-ville de Sherbrooke. Photo : Michel Gagnon, Domaine public, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.latribune.ca/affaires/proximite-pme/2026/08/28/artist-par-marilyn-une-deuxieme-boutique-pour-sa-communaute-MU77MTFZSRHTFN3LITYOOSRHFE/" target="_blank" rel="noopener"><span class="src-nom">La Tribune</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>« Même avant qu&#x27;il y ait la boutique, les gens se déplaçaient quand même. Les gens venaient de Québec, du Saguenay–Lac-Saint-Jean, ils venaient de partout un peu au Québec », lance d&#x27;emblée la fondatrice d&#x27;ARTIST, Marilyn Pellerin, dont l&#x27;entreprise de cosmétiques ouvre une deuxième boutique physique pour répondre à l&#x27;envie de ses clientes de vivre « l&#x27;expérience ARTIST ». Depuis 2020, elle a bâti sur les réseaux sociaux une communauté de plus de 200 000 abonnés à sa page Facebook, en leur donnant régulièrement rendez-vous pour des vidéos en direct — une formule qui, dit-elle, se ressent jusque dans les produits qu&#x27;elle conçoit. « La première personne que j&#x27;écoute, ce n&#x27;est pas les études de marché, ce n&#x27;est pas les grandes statistiques. C&#x27;est ma cliente! », résume-t-elle, précisant répondre encore personnellement aux messages du service à la clientèle malgré un chiffre d&#x27;affaires désormais de dix millions de dollars par année.</p><p>Même si 95 % des ventes se font en ligne, à raison d&#x27;une centaine de commandes par jour, l&#x27;entrepreneure reste convaincue de la pertinence d&#x27;offrir des boutiques physiques à ses clientes : à la première, ouverte au centre-ville de Montréal depuis un an, 95 % des visiteuses sont déjà des clientes existantes. Selon elle, celles-ci se déplacent pour toucher et essayer les produits, et surtout pour se faire conseiller dans le cadre du « parcours ARTIST », qui comprend une analyse complète de la peau ainsi qu&#x27;une analyse des couleurs et du maquillage.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

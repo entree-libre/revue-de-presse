@@ -33,6 +33,12 @@
 <div class="terr">Côte-Nord</div>
 <h1>Un déraillement force la fermeture du chemin de fer QNS&amp;L</h1>
 <div class="chapo">Le Nord-Côtier · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-deraillement-force-la-fermeture-du-chemin-de-fer-qns-l-6b7859.html"
+  data-titre="Un déraillement force la fermeture du chemin de fer QNS&amp;L" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-deraillement-force-la-fermeture-du-chemin-de-fer-qns-l-6b7859.html">https://entreelibre.ca/edition/2026-08-28/a/un-deraillement-force-la-fermeture-du-chemin-de-fer-qns-l-6b7859.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/QNSL.jpg/1280px-QNSL.jpg" onerror="this.closest('figure').remove()"><figcaption>Un train du chemin de fer Quebec North Shore and Labrador (QNS&amp;L). Photo : Harfang, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://lenord-cotier.com/2026/08/27/un-deraillement-de-deux-wagons-provoque-la-fermeture-du-chemin-de-fer-qnsl/" target="_blank" rel="noopener"><span class="src-nom">Le Nord-Côtier</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La circulation ferroviaire sur le chemin de fer QNS&amp;L est interrompue depuis mercredi soir en raison du déraillement de deux wagons dans le secteur de Ross Bay. Aucun blessé n&#x27;est à déplorer, précise Rio Tinto IOC, qui exploite la voie et dont les équipes procèdent à des inspections pour déterminer les travaux nécessaires à la reprise du trafic.</p><p>Cette fermeture temporaire a des répercussions au-delà du transport de marchandises : le départ d&#x27;un train voyageur de Transport Tshiuetin, prévu jeudi matin, a dû être annulé, privant des passagers de leur seul lien ferroviaire vers l&#x27;intérieur des terres.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

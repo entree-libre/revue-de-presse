@@ -33,6 +33,12 @@
 <div class="terr">Ville de Montréal</div>
 <h1>Montréal réclame un « Réflexe Montréal » à la veille des élections provinciales</h1>
 <div class="chapo">Ville de Montréal · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/montreal-reclame-un-reflexe-montreal-a-la-veille-des-electio-032605.html"
+  data-titre="Montréal réclame un « Réflexe Montréal » à la veille des élections provinciales" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/montreal-reclame-un-reflexe-montreal-a-la-veille-des-electio-032605.html">https://entreelibre.ca/edition/2026-08-28/a/montreal-reclame-un-reflexe-montreal-a-la-veille-des-electio-032605.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Montreal_City_Hall_Jan_2006.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;hôtel de ville de Montréal. Photo : David Iliff, CC BY 2.5, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://montreal.ca/communiques-de-presse/elections-provinciales-2026-ladministration-martinez-ferrada-demande-aux-partis-de-reinstaurer-le" target="_blank" rel="noopener"><span class="src-nom">Ville de Montréal</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>À l&#x27;approche des élections québécoises, la mairesse de Montréal, Soraya Martinez Ferrada, presse le prochain gouvernement de rétablir un « Réflexe Montréal » dans ses décisions et de joindre un « chapitre Montréal » à ses grandes politiques. La Ville chiffre à 50 milliards de dollars le déficit actuel de maintien de ses infrastructures d&#x27;eau et de voirie, un montant qui pourrait atteindre 94,5 milliards en 2036 si rien ne change, alors que les municipalités gèrent 60 % des infrastructures publiques du Québec avec seulement 8 % des revenus fiscaux.</p><p>Pour l&#x27;itinérance, l&#x27;administration réclame 3 200 places d&#x27;hébergement d&#x27;urgence ouvertes en tout temps, trois centres d&#x27;urgence spécialisés en santé mentale et en dépendance d&#x27;ici l&#x27;été 2027, ainsi que 2 000 logements de transition avec accompagnement. Elle demande aussi que 45 % des enveloppes des programmes d&#x27;habitation lui reviennent, compte tenu de l&#x27;ampleur des besoins sur son territoire.</p><p>Sur la mobilité, Montréal veut un financement stable pour moderniser les actifs vieillissants de la Société de transport de Montréal et développer un projet de transport collectif structurant pour l&#x27;est de la ville, en plus d&#x27;un statut particulier pour le centre-ville. « Il n&#x27;y a pas de prospérité au Québec sans une métropole forte, comme il n&#x27;y a pas de prospérité à Montréal sans des régions fortes », a déclaré Mme Martinez Ferrada.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

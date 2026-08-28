@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>Un plastique capable de se décomposer à la chaleur puis de se reformer en refroidissant</h1>
 <div class="chapo">Geo · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-plastique-capable-de-se-decomposer-a-la-chaleur-puis-de-s-fb0469.html"
+  data-titre="Un plastique capable de se décomposer à la chaleur puis de se reformer en refroidissant" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-plastique-capable-de-se-decomposer-a-la-chaleur-puis-de-s-fb0469.html">https://entreelibre.ca/edition/2026-08-28/a/un-plastique-capable-de-se-decomposer-a-la-chaleur-puis-de-s-fb0469.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.geo.fr/sciences/des-scientifiques-ont-cree-un-plastique-qui-disparait-a-la-chaleur-puis-" target="_blank" rel="noopener"><span class="src-nom">Geo</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Des chercheurs ont mis au point un nouveau type de plastique capable de se décomposer facilement en gaz lorsqu&#x27;il est chauffé, avant de se reconstituer naturellement une fois refroidi, rapporte Geo. Le matériau se distingue des plastiques classiques par ce comportement réversible, qui pourrait faciliter grandement son recyclage en fin de vie.</p><p>« Nous avons démontré qu&#x27;il est possible de créer un matériau au comportement très différent, capable de se transformer en vapeur avant de se reconstituer pour former le même polymère », a résumé l&#x27;un des chercheurs à l&#x27;origine des travaux, cité par Geo. Les plastiques classiques, une fois formés, résistent au contraire à la chaleur sans revenir à leur état d&#x27;origine, ce qui complique leur recyclage chimique.</p><p>L&#x27;application industrielle du procédé reste à démontrer à plus grande échelle, notamment son coût de production par rapport aux plastiques conventionnels et sa résistance dans des conditions d&#x27;usage courantes. Les chercheurs devront aussi démontrer que le matériau conserve ses propriétés mécaniques après plusieurs cycles de décomposition et de reformation.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

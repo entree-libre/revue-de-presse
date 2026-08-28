@@ -32,6 +32,12 @@
 <div class="terr">Montérégie (Huntingdon)</div>
 <h1>Huntingdon : un enseignant de français porte les couleurs du PQ</h1>
 <div class="chapo">Le Saint-François · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/huntingdon-un-enseignant-de-francais-porte-les-couleurs-du-p-b2530f.html"
+  data-titre="Huntingdon : un enseignant de français porte les couleurs du PQ" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/huntingdon-un-enseignant-de-francais-porte-les-couleurs-du-p-b2530f.html">https://entreelibre.ca/edition/2026-08-28/a/huntingdon-un-enseignant-de-francais-porte-les-couleurs-du-p-b2530f.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://journalsaint-francois.ca/huntingdon-un-prof-de-francais-candidat-pour-le-pq/" target="_blank" rel="noopener"><span class="src-nom">Le Saint-François</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un enseignant de français au secondaire, Frédéric Laplante, représentera le Parti québécois dans la circonscription de Huntingdon lors du scrutin provincial du 5 octobre. Sa candidature a été officialisée jeudi, le jour même du lancement de la campagne par la première ministre Christine Fréchette. Le trentenaire, qui a présidé l&#x27;association de comté l&#x27;an dernier, estime que sa connaissance du milieu scolaire et de la jeunesse sera utile au parti. « Je connais Napierville comme le fond de ma poche puisqu&#x27;une grande partie de ma famille y habite depuis plusieurs générations », explique-t-il, citant la réussite scolaire, la valorisation du français, la souveraineté alimentaire et la protection des PME parmi les enjeux qui lui tiennent à cœur, en plus des dossiers ruraux liés à l&#x27;agriculture, au tourisme, à l&#x27;entretien des écoles et à l&#x27;accès aux soins de santé.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

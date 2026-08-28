@@ -32,6 +32,12 @@
 <div class="terr">Bas-Saint-Laurent</div>
 <h1>Matane-Matapédia-Mitis : le PLQ change de candidat quelques heures avant la campagne</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/matane-matapedia-mitis-le-plq-change-de-candidat-quelques-he-ee8cf4.html"
+  data-titre="Matane-Matapédia-Mitis : le PLQ change de candidat quelques heures avant la campagne" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/matane-matapedia-mitis-le-plq-change-de-candidat-quelques-he-ee8cf4.html">https://entreelibre.ca/edition/2026-08-28/a/matane-matapedia-mitis-le-plq-change-de-candidat-quelques-he-ee8cf4.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278077/parti-liberal-candidat-bsl-gaspesie" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Parti libéral du Québec a désigné André Côté comme nouveau candidat dans Matane-Matapédia-Mitis, quelques heures seulement après le retrait de Louis-Éric Savoie, dont la candidature n&#x27;avait pas encore été officialisée. Le chef libéral Charles Milliard a vanté sa connaissance du parti et « toute la rigueur nécessaire pour faire avancer les dossiers qui comptent vraiment pour les Québécois ». M. Côté, qui a agi comme organisateur du PLQ pour l&#x27;Est-du-Québec en 2022 et s&#x27;est présenté sans succès comme conseiller municipal à Lévis, possède près de 40 ans d&#x27;expérience en commercialisation dans l&#x27;industrie pharmaceutique et médicale et a servi huit ans comme officier logistique dans la réserve des Forces armées canadiennes.</p><p>Le remplacement survient alors que le PLQ a perdu sept candidats avant même le déclenchement officiel de la campagne, dont celui de Rimouski, écarté jeudi matin. Dans Matane-Matapédia-Mitis, M. Côté affrontera le péquiste sortant Pascal Bérubé, l&#x27;enseignant Gabriel Plante pour Québec solidaire et Henry Maclaren pour la Coalition avenir Québec; le Parti conservateur n&#x27;y avait toujours pas de candidat jeudi. Les partis ont jusqu&#x27;au 17 septembre pour officialiser leurs candidatures.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

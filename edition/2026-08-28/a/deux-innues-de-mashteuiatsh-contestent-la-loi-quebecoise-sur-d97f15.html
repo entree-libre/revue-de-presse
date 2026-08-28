@@ -33,6 +33,12 @@
 <div class="terr">Saguenay–Lac-Saint-Jean</div>
 <h1>Deux Innues de Mashteuiatsh contestent la loi québécoise sur l&#x27;hébergement touristique</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/deux-innues-de-mashteuiatsh-contestent-la-loi-quebecoise-sur-d97f15.html"
+  data-titre="Deux Innues de Mashteuiatsh contestent la loi québécoise sur l&#x27;hébergement touristique" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/deux-innues-de-mashteuiatsh-contestent-la-loi-quebecoise-sur-d97f15.html">https://entreelibre.ca/edition/2026-08-28/a/deux-innues-de-mashteuiatsh-contestent-la-loi-quebecoise-sur-d97f15.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Mashteuiatsh.jpg" onerror="this.closest('figure').remove()"><figcaption>La communauté innue de Mashteuiatsh, au Lac-Saint-Jean. Photo : Vintotal, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278265/mashteuiatsh-taxe-hebergement-recours" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Deux Innues de Mashteuiatsh contestent devant les tribunaux la constitutionnalité de la Loi sur l&#x27;hébergement touristique du Québec, après avoir été accusées d&#x27;avoir exploité un établissement d&#x27;hébergement touristique sans y être enregistrées — une infraction passible d&#x27;une amende de 2 500 $ à 25 000 $. Les deux femmes avaient affiché des espaces à louer sur les réseaux sociaux, l&#x27;une en avril 2024 pour une chambre dans sa résidence principale et l&#x27;autre en septembre 2024 pour un logement; un inspecteur de Revenu Québec les avait contactées sous un pseudonyme pour vérifier la disponibilité des lieux avant de porter les accusations.</p><p>Dans leur requête, datée du 15 septembre 2025, les femmes font valoir que la loi est inapplicable sur les terres de leur communauté puisque l&#x27;article 91(24) de la Loi constitutionnelle de 1867 réserve au Parlement fédéral la compétence exclusive sur « les Indiens et les terres réservées pour les Indiens ». Elles contestent également la taxe de 3,5 % par nuitée imposée aux locateurs d&#x27;hébergement touristique au Québec, qu&#x27;elles jugent contraire à l&#x27;article 87 de la Loi sur les Indiens, qui protège les biens situés sur une réserve de toute taxation.</p><p>Le Conseil des Innus de Mashteuiatsh, qui représente environ 2000 résidents et plus de 12 600 membres de la Première Nation des Pekuakamiulnuatsh, a demandé à se joindre au recours, jugeant que la décision à venir aura des répercussions sur l&#x27;ensemble de ses membres et de son territoire. Revenu Québec, le Procureur général du Québec et les avocats des requérantes ont tous décliné une demande de commentaire en raison des procédures en cours; les parties doivent faire le point sur le dossier le 7 octobre au palais de justice de Roberval.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

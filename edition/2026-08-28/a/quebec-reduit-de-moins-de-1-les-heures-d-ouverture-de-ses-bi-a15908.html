@@ -33,6 +33,12 @@
 <div class="terr">Québec</div>
 <h1>Québec réduit de moins de 1 % les heures d&#x27;ouverture de ses bibliothèques dès octobre</h1>
 <div class="chapo">Ville de Québec · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/quebec-reduit-de-moins-de-1-les-heures-d-ouverture-de-ses-bi-a15908.html"
+  data-titre="Québec réduit de moins de 1 % les heures d&#x27;ouverture de ses bibliothèques dès octobre" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/quebec-reduit-de-moins-de-1-les-heures-d-ouverture-de-ses-bi-a15908.html">https://entreelibre.ca/edition/2026-08-28/a/quebec-reduit-de-moins-de-1-les-heures-d-ouverture-de-ses-bi-a15908.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Qu%C3%A9bec%2C_Biblioth%C3%A8que_Gabrielle-Roy1.jpg" onerror="this.closest('figure').remove()"><figcaption>La bibliothèque Gabrielle-Roy, à Québec. Photo : Bouchecl, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ville.quebec.qc.ca/apropos/espace-presse/actualites/actualite.aspx?IdActualite=3218" target="_blank" rel="noopener"><span class="src-nom">Ville de Québec</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Ville de Québec ajustera à partir du 4 octobre les horaires de 18 de ses 26 bibliothèques municipales, une révision qui se traduit par une diminution globale de huit heures d&#x27;ouverture par semaine à l&#x27;échelle du réseau, soit moins de 1 % du total actuel. Les quatre bibliothèques de secteur — Étienne-Parent, Félix-Leclerc, Monique-Corriveau et Paul-Aimé-Paiement — seront ouvertes de 9 h à 20 h en semaine et de 9 h à 17 h la fin de semaine, tandis que la bibliothèque centrale Gabrielle-Roy conserve les heures les plus étendues, de 8 h à 21 h en semaine. Les 21 bibliothèques de proximité partageront des horaires variant entre 10 h et 20 h en semaine, avec au moins deux soirées d&#x27;ouverture chacune. À compter de la fête du Travail, le 7 septembre, les bibliothèques fermeront aussi lors de cinq jours fériés de plus qu&#x27;auparavant : le dimanche de Pâques, la Journée nationale des patriotes, la fête du Travail, l&#x27;Action de grâce et le 26 décembre. La Ville dit s&#x27;appuyer sur les données d&#x27;achalandage, qui montrent une fréquentation plus faible ces journées-là, et vouloir simplifier ses communications avec la population tout en tenant compte de la qualité de vie du personnel. Quelques exceptions sont prévues : le 2 janvier, huit bibliothèques ouvriront dès 13 h, et le lundi de Pâques, sept établissements conserveront leurs heures habituelles.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

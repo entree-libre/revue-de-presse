@@ -32,6 +32,12 @@
 <div class="terr">Monde</div>
 <h1>L&#x27;état des sols se dégrade dans le monde, avertit un rapport de l&#x27;ONU</h1>
 <div class="chapo">France 24 (AFP), Le Journal de Montréal · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-etat-des-sols-se-degrade-dans-le-monde-avertit-un-rapport-a2c31c.html"
+  data-titre="L&#x27;état des sols se dégrade dans le monde, avertit un rapport de l&#x27;ONU" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-etat-des-sols-se-degrade-dans-le-monde-avertit-un-rapport-a2c31c.html">https://entreelibre.ca/edition/2026-08-28/a/l-etat-des-sols-se-degrade-dans-le-monde-avertit-un-rapport-a2c31c.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.journaldemontreal.com/2026/08/26/letat-des-sols-dans-le-monde-se-degrade-et-les-solutions-restent-ignorees-selon-un-rapport-de-lonu" target="_blank" rel="noopener"><span class="src-nom">France 24 (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Journal de Montréal, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les sols sont à l&#x27;origine de 95 % de la production alimentaire mondiale, rappelle un rapport de l&#x27;Organisation des Nations unies pour l&#x27;alimentation et l&#x27;agriculture sur l&#x27;état des ressources en sols du monde, dont la deuxième édition a été présentée jeudi. Le document constate une dégradation continue des sols à l&#x27;échelle planétaire, qu&#x27;il attribue notamment à l&#x27;érosion, à la surexploitation agricole intensive et à l&#x27;artificialisation croissante des terres cultivables au profit de l&#x27;urbanisation.</p><p>Les solutions existantes pour enrayer ce phénomène restent largement ignorées par les décideurs politiques, selon l&#x27;AFP, qui relaie les conclusions détaillées du rapport. Celui-ci appelle les gouvernements à intégrer davantage la santé des sols dans leurs politiques agricoles et climatiques nationales. Il avertit que l&#x27;appauvrissement continu des terres cultivables menace à terme la sécurité alimentaire mondiale, en particulier dans les régions déjà les plus vulnérables au changement climatique et à la croissance démographique.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

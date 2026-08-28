@@ -32,6 +32,12 @@
 <div class="terr">Laval</div>
 <h1>Le Service de police de Laval multiplie les interventions préventives autour des écoles</h1>
 <div class="chapo">Ville de Laval · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-service-de-police-de-laval-multiplie-les-interventions-pr-a8e19e.html"
+  data-titre="Le Service de police de Laval multiplie les interventions préventives autour des écoles" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-service-de-police-de-laval-multiplie-les-interventions-pr-a8e19e.html">https://entreelibre.ca/edition/2026-08-28/a/le-service-de-police-de-laval-multiplie-les-interventions-pr-a8e19e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.laval.ca/organisation-municipale/salle-presse/communiques-presse/rentree-scolaire-spl/" target="_blank" rel="noopener"><span class="src-nom">Ville de Laval</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Avec le retour en classe de milliers d&#x27;élèves, le Service de police de Laval (SPL) relance sa campagne « Débarque-moi en toute sécurité! », qui vise à sensibiliser les usagers de la route aux bonnes pratiques aux abords des écoles. Dès la rentrée, des policiers seront présents dans les zones scolaires pour des interventions de prévention et de sécurité routière, et pour rappeler aux parents et automobilistes l&#x27;importance du respect de la signalisation et des limites de vitesse. La campagne se déploie en quatre phases jusqu&#x27;au printemps 2027 : à la rentrée (31 août au 25 septembre), à l&#x27;arrivée de la noirceur (2 au 13 novembre), pendant l&#x27;hiver (18 janvier au 5 février) et à l&#x27;arrivée du printemps (12 au 23 avril). Le SPL recommande aux parents de privilégier un trajet à pied sécuritaire pour leurs enfants, d&#x27;utiliser les rues avoisinantes pour stationner lorsque le trajet complet à pied n&#x27;est pas possible, et de respecter les zones réservées aux brigadiers scolaires. « La sécurité des jeunes est une responsabilité que nous partageons tous », a déclaré la directrice du SPL, Karine Ménard. Le SPL rappelle vouloir travailler main dans la main avec les écoles, les centres de services scolaires, les brigadiers et les parents pour maintenir un environnement sécuritaire autour des établissements.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

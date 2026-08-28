@@ -32,6 +32,12 @@
 <div class="terr">Repentigny</div>
 <h1>Repentigny : un investissement de 10 M$ dans la Zone Agtech créera jusqu&#x27;à 20 emplois</h1>
 <div class="chapo">Hebdo Rive Nord · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/repentigny-un-investissement-de-10-m-dans-la-zone-agtech-cre-3b1b74.html"
+  data-titre="Repentigny : un investissement de 10 M$ dans la Zone Agtech créera jusqu&#x27;à 20 emplois" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/repentigny-un-investissement-de-10-m-dans-la-zone-agtech-cre-3b1b74.html">https://entreelibre.ca/edition/2026-08-28/a/repentigny-un-investissement-de-10-m-dans-la-zone-agtech-cre-3b1b74.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.hebdorivenord.com/article/actualites/un-investissement-de-10-m-sajoute-au-developpement-de-la-zone-agtech/" target="_blank" rel="noopener"><span class="src-nom">Hebdo Rive Nord</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Groupe Riendeau investira 10 millions de dollars pour construire un bâtiment industriel de 36 657 pieds carrés dans la Zone Agtech de Repentigny, destiné à l&#x27;entreprise E. Lefebvre et fils, un fabricant d&#x27;équipements de transport réfrigéré qu&#x27;il a acquis en janvier 2025.</p><p>Le projet doit créer de 16 à 20 emplois directs d&#x27;ici le printemps 2027. La directrice générale de la Zone Agtech, Marilou Cyr, le maire de Repentigny et préfet de la MRC de L&#x27;Assomption, Nicolas Dufour, et le maire de L&#x27;Assomption et président de la Zone Agtech, Sébastien Nadeau, ont salué l&#x27;apport du projet au développement industriel du secteur. Avec cet ajout, les investissements cumulés dans la Zone Agtech depuis 2020 dépassent désormais 74 millions de dollars.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

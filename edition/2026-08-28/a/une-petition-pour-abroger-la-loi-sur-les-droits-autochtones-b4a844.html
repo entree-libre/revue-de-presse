@@ -33,6 +33,12 @@
 <div class="terr">Colombie-Britannique</div>
 <h1>Une pétition pour abroger la loi sur les droits autochtones autorisée à procéder en Colombie-Britannique</h1>
 <div class="chapo">Canada&#x27;s National Observer, APTN News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/une-petition-pour-abroger-la-loi-sur-les-droits-autochtones-b4a844.html"
+  data-titre="Une pétition pour abroger la loi sur les droits autochtones autorisée à procéder en Colombie-Britannique" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/une-petition-pour-abroger-la-loi-sur-les-droits-autochtones-b4a844.html">https://entreelibre.ca/edition/2026-08-28/a/une-petition-pour-abroger-la-loi-sur-les-droits-autochtones-b4a844.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/British_Columbia_Parliament_Buildings_in_Victoria%2C_British_Columbia%2C_Canada_01.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;édifice du Parlement de la Colombie-Britannique, à Victoria. Photo : Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.nationalobserver.com/2026/08/27/news/elections-bc-allows-petition-seeking-indigenous-laws-repeal-proceed" target="_blank" rel="noopener"><span class="src-nom">Canada&#x27;s National Observer</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par APTN News, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Elections BC a autorisé en principe une pétition réclamant l&#x27;abrogation de la Loi sur la déclaration des droits des peuples autochtones (DRIPA), a annoncé jeudi la directrice générale des élections de la province, Shipra Verma, qui s&#x27;est dite satisfaite que la question relève de la compétence de l&#x27;Assemblée législative et que le projet de loi proposé soit clair. La pétition est portée par le député conservateur Harman Bhangu, porte-parole de l&#x27;opposition en matière de transports, pour qui cette loi constitue un « désastre » menaçant les droits de propriété privée ; la cheffe de l&#x27;opposition, Kerry-Lynne Findlay, a qualifié la loi de « folie ».</p><p>Pour forcer un renvoi à l&#x27;Assemblée législative, les organisateurs devront recueillir l&#x27;appui d&#x27;au moins 10 % des électeurs dans chacune des 93 circonscriptions de la province d&#x27;ici le 25 janvier 2027 ; même un succès ne rendrait pas l&#x27;abrogation automatique, la décision finale revenant aux élus. Le chef régional de l&#x27;Assemblée des Premières Nations de la Colombie-Britannique, Terry Teegee, a dénoncé une démarche qu&#x27;il associe à un « discours raciste » et à de la désinformation, exhortant la population à ne pas signer une pétition qu&#x27;il juge instrumentalisée à des fins politiques. La loi, adoptée à l&#x27;unanimité en 2019 pour appliquer la Déclaration des Nations unies sur les droits des peuples autochtones dans la législation provinciale, est devenue un point de friction depuis qu&#x27;une cour d&#x27;appel provinciale a jugé, l&#x27;an dernier, que des règles minières provinciales étaient incompatibles avec elle — le premier ministre David Eby avait d&#x27;ailleurs renoncé en avril à un projet de suspension de la loi, après une vive opposition de nombreux chefs des Premières Nations. Le ministre responsable des Relations avec les Autochtones, Spencer Chandra Herbert, a averti qu&#x27;une abrogation entraînerait des pertes d&#x27;emplois massives et nuirait à la santé, à l&#x27;environnement et aux communautés de la province.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

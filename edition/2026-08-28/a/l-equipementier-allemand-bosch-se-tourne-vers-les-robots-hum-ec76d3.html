@@ -32,6 +32,12 @@
 <div class="terr">Allemagne</div>
 <h1>L&#x27;équipementier allemand Bosch se tourne vers les robots humanoïdes industriels</h1>
 <div class="chapo">Presse-citron, Feed Clubic · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-equipementier-allemand-bosch-se-tourne-vers-les-robots-hum-ec76d3.html"
+  data-titre="L&#x27;équipementier allemand Bosch se tourne vers les robots humanoïdes industriels" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-equipementier-allemand-bosch-se-tourne-vers-les-robots-hum-ec76d3.html">https://entreelibre.ca/edition/2026-08-28/a/l-equipementier-allemand-bosch-se-tourne-vers-les-robots-hum-ec76d3.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.clubic.com/actualite-626338-bosch-se-lance-dans-les-robots-humanoides-avec-une-productio" target="_blank" rel="noopener"><span class="src-nom">Presse-citron</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Feed Clubic, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;équipementier automobile allemand Bosch se reconvertit dans la production de robots humanoïdes, un virage présenté comme stratégique pour l&#x27;entreprise face au ralentissement de son cœur de métier historique. Le chinois Unitree, qui conçoit et fabrique en série des robots quadrupèdes et humanoïdes depuis 2016, sert de point de comparaison au marché déjà en place et à la concurrence que Bosch devra affronter.</p><p>Les analystes de la banque UBS cités par Clubic tablent sur environ deux millions de robots humanoïdes en circulation dans le monde d&#x27;ici 2035, et jusqu&#x27;à 300 millions en 2050, des projections qui alimentent l&#x27;intérêt de plusieurs grands groupes industriels pour ce secteur naissant. Bosch cherche à se positionner sur ce marché alors que son activité historique de sous-traitance automobile traverse une période difficile, marquée par le ralentissement de la demande de véhicules thermiques.</p><p>L&#x27;entreprise n&#x27;a pas précisé quel calendrier ni quels investissements elle prévoit pour cette diversification. Plusieurs autres équipementiers automobiles européens explorent des pistes similaires de diversification vers la robotique, à mesure que la transition vers le véhicule électrique bouleverse leurs chaînes de production traditionnelles.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

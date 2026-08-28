@@ -32,6 +32,12 @@
 <div class="terr">Cisjordanie</div>
 <h1>En Cisjordanie, des militants juifs affrontent des colons pour protéger des Palestiniens</h1>
 <div class="chapo">TV5Monde (AFP), Le Devoir, France 24 · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/en-cisjordanie-des-militants-juifs-affrontent-des-colons-pou-8ac917.html"
+  data-titre="En Cisjordanie, des militants juifs affrontent des colons pour protéger des Palestiniens" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/en-cisjordanie-des-militants-juifs-affrontent-des-colons-pou-8ac917.html">https://entreelibre.ca/edition/2026-08-28/a/en-cisjordanie-des-militants-juifs-affrontent-des-colons-pou-8ac917.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://information.tv5monde.com/international/guides-par-la-foi-des-militants-juifs-affrontent-des-colons-violents-pour-proteger-des-palestiniens-2835096" target="_blank" rel="noopener"><span class="src-nom">TV5Monde (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Devoir, France 24, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Ziva Sharp affirme que c&#x27;est sa foi juive qui l&#x27;a motivée à se rendre de Jérusalem en Cisjordanie occupée pour défendre des Palestiniens menacés par des colons radicaux, rapporte l&#x27;AFP. Elle appartient à un groupe d&#x27;une trentaine d&#x27;Israéliens, de tous âges et peu religieux pour la plupart, qui se rendent régulièrement en Cisjordanie pour protéger des Palestiniens visés par des attaques croissantes de colons. Mardi, au moins cinq de ces militants ont été blessés alors qu&#x27;ils portaient assistance à des Palestiniens harcelés dans le village de Jannatah, près de Bethléem.</p><p>Un journaliste de l&#x27;AFP présent sur place a lui aussi été blessé au menton par un coup de bâton donné par un enfant colon lors de cette échauffourée. Les colons qui ont chassé les militants du village, en lançant des pierres et en utilisant du gaz poivré, revendiquent eux aussi agir au nom de leur foi religieuse. Mme Sharp explique quant à elle agir pour « mettre en pratique [son] engagement envers [son] judaïsme, qui est humaniste et non violent », et pour « réduire, dans la mesure du possible, les dommages que le peuple juif inflige aux Palestiniens ».</p><p>Cet épisode illustre une fracture religieuse et politique croissante au sein de la société israélienne face à l&#x27;expansion continue de la colonisation en Cisjordanie. Des organisations de défense des droits humains, tant israéliennes que palestiniennes, documentent depuis plusieurs années une hausse des incidents violents impliquant des colons dans ce territoire occupé.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

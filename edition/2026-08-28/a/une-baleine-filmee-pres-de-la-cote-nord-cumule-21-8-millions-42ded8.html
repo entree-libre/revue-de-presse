@@ -33,6 +33,12 @@
 <div class="terr">Côte-Nord, Charlevoix</div>
 <h1>Une baleine filmée près de la Côte-Nord cumule 21,8 millions de vues</h1>
 <div class="chapo">Le Charlevoisien · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/une-baleine-filmee-pres-de-la-cote-nord-cumule-21-8-millions-42ded8.html"
+  data-titre="Une baleine filmée près de la Côte-Nord cumule 21,8 millions de vues" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/une-baleine-filmee-pres-de-la-cote-nord-cumule-21-8-millions-42ded8.html">https://entreelibre.ca/edition/2026-08-28/a/une-baleine-filmee-pres-de-la-cote-nord-cumule-21-8-millions-42ded8.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Balaenoptera_acutorostrata_Saint-Laurent_05.jpg/1280px-Balaenoptera_acutorostrata_Saint-Laurent_05.jpg" onerror="this.closest('figure').remove()"><figcaption>Un petit rorqual (Balaenoptera acutorostrata) photographié dans le Saint-Laurent. Photo : Claude Robillard, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lecharlevoisien.com/2026/08/27/218-millions-de-vues-une-scene-captee-au-parc-marin-devient-virale/" target="_blank" rel="noopener"><span class="src-nom">Le Charlevoisien</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Une vidéo montrant Gaspar, une baleine à bosse bien connue des équipes de Croisières AML depuis 2006, a fait sensation sur TikTok cet été. Filmée à bord d&#x27;un zodiaque de l&#x27;entreprise dans le parc marin du Saguenay–Saint-Laurent, la séquence a récolté environ 21,8 millions de vues et plus de cinq millions de mentions « J&#x27;aime », et a même attiré l&#x27;attention de médias américains comme ABC7 News et USA Today.</p><p>« On est très reconnaissants envers le passager de l&#x27;avoir filmée », souligne Laurence Bilodeau, coordonnatrice marketing et communications senior chez Croisières AML, qui note que le succès du moment a même mené certains internautes à se demander si les images avaient été générées par intelligence artificielle. L&#x27;entreprise, qui connaît déjà une bonne saison, peine à quantifier l&#x27;effet du phénomène sur ses réservations, mais y voit une vitrine précieuse pour la région.</p><p>La clientèle de Croisières AML demeure diversifiée — Français, Belges, Américains et Canadiens d&#x27;autres provinces — ce qui donne une importance particulière aux incertitudes tarifaires entre le Canada et les États-Unis pour le secteur touristique. L&#x27;entreprise se dit néanmoins confiante que les visiteurs continueront de venir voir les baleines et les couleurs d&#x27;automne d&#x27;ici la fin de sa saison, à la fin octobre.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

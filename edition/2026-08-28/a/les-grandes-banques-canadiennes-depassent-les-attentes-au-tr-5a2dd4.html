@@ -33,6 +33,12 @@
 <div class="terr">Canada</div>
 <h1>Les grandes banques canadiennes dépassent les attentes au troisième trimestre</h1>
 <div class="chapo">La Presse (La Presse canadienne), Les Affaires, Conseiller, Finance et Investissement, Le Globe and Mail · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/les-grandes-banques-canadiennes-depassent-les-attentes-au-tr-5a2dd4.html"
+  data-titre="Les grandes banques canadiennes dépassent les attentes au troisième trimestre" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/les-grandes-banques-canadiennes-depassent-les-attentes-au-tr-5a2dd4.html">https://entreelibre.ca/edition/2026-08-28/a/les-grandes-banques-canadiennes-depassent-les-attentes-au-tr-5a2dd4.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Toronto-Dominion_Centre%2C_August_6_2026.jpg/1280px-Toronto-Dominion_Centre%2C_August_6_2026.jpg" onerror="this.closest('figure').remove()"><figcaption>Le Toronto-Dominion Centre, dans le quartier financier de Toronto. Photo : Dillan Payne, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/affaires/entreprises/2026-08-27/la-banque-royale-du-canada-optimiste-malgre-les-tensions-commerciales.php" target="_blank" rel="noopener"><span class="src-nom">La Presse (La Presse canadienne)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Les Affaires, Conseiller, Finance et Investissement, Le Globe and Mail, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les six grandes banques canadiennes ont dévoilé, jeudi, des résultats en hausse pour leur troisième trimestre, la plupart dépassant les attentes des analystes malgré les tensions commerciales avec les États-Unis.</p><p>La Banque Royale (RBC) a dégagé un bénéfice de 6,02 milliards de dollars, ou 4,23 $ par action, pour le trimestre clos le 31 juillet, contre 5,41 milliards un an plus tôt; sur une base ajustée, le bénéfice de 4,28 $ par action dépasse les 4,08 $ attendus par les analystes sondés par LSEG Data &amp; Analytics. Son président, Dave McKay, attribue cette performance à un taux de droits de douane effectif qui reste faible, à environ 6 %, plus de 80 % des exportations canadiennes demeurant exemptes.</p><p>La CIBC a réalisé un bénéfice de 2,41 milliards, en hausse par rapport à 2,10 milliards il y a un an, avec des revenus de 8,37 milliards contre 7,25 milliards; son bénéfice ajusté de 2,73 $ par action dépasse lui aussi la prévision moyenne de 2,53 $. La Banque Nationale a vu son résultat net bondir de 23 % à 1,31 milliard de dollars, porté par l&#x27;ensemble de ses secteurs d&#x27;exploitation, tandis que la Banque Scotia a elle aussi vu son bénéfice progresser sur un an. La Banque TD affiche des revenus et un bénéfice en hausse, et annonce l&#x27;ouverture prévue de 100 nouvelles succursales aux États-Unis d&#x27;ici 2028.</p><p>Seule la Banque de Montréal (BMO) fait bande à part: son bénéfice recule à 1,75 milliard, contre 2,33 milliards un an plus tôt, une charge liée à la vente de ses activités de financement de matériel de transport ayant pesé sur le résultat; sur une base ajustée, la banque dépasse tout de même les attentes, portée par ses activités américaines (868 millions, contre 767 millions) et ses marchés des capitaux (645 millions, contre 442 millions).</p><p>Ces résultats, les premiers depuis l&#x27;imposition des droits de douane américains de 50 % sur des produits canadiens en fin de semaine dernière, sont scrutés comme un premier indicateur de la résistance du secteur financier à l&#x27;escalade commerciale. Chez Jefferies, l&#x27;analyste John Aiken souligne que RBC a enregistré une «croissance impressionnante» de ses prêts, sa «prime de valorisation» se justifiant par son rendement des capitaux propres.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Canada, États-Unis</div>
 <h1>Le Canada impose des surtaxes de 15 à 50 % sur des produits américains en riposte</h1>
 <div class="chapo">Le Courrier du Vietnam (AFP) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-canada-impose-des-surtaxes-de-15-a-50-sur-des-produits-am-191985.html"
+  data-titre="Le Canada impose des surtaxes de 15 à 50 % sur des produits américains en riposte" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-canada-impose-des-surtaxes-de-15-a-50-sur-des-produits-am-191985.html">https://entreelibre.ca/edition/2026-08-28/a/le-canada-impose-des-surtaxes-de-15-a-50-sur-des-produits-am-191985.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://lecourrier.vn/le-canada-riposte-en-imposant-des-surtaxes-de-15-a-50-aux-etats-unis/1354245.html" target="_blank" rel="noopener"><span class="src-nom">Le Courrier du Vietnam (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Canada imposera à partir du 8 septembre des droits de douane de 15 % à 50 % sur une série de produits américains, en riposte à l&#x27;échec des négociations commerciales bilatérales rapporté la veille par plusieurs médias. Ottawa a prévenu qu&#x27;il répliquerait de nouveau si son secteur automobile venait à être visé par de nouvelles surtaxes américaines, alors que la guerre commerciale entre les deux pays continue de s&#x27;envenimer semaine après semaine. Cette annonce fait suite à la suspension, pour trois jours seulement, de l&#x27;entrée en vigueur des droits de douane américains contre le Canada, qui n&#x27;aura donc pas permis de sauver l&#x27;accord recherché par les deux parties.</p><p>Les nouvelles mesures canadiennes visent des secteurs encore non détaillés publiquement dans leur intégralité au moment de l&#x27;annonce. Le gouvernement a toutefois indiqué être prêt à intensifier sa réponse si Washington venait à frapper davantage l&#x27;industrie automobile, l&#x27;un des piliers historiques du commerce intégré entre les deux pays depuis des décennies. Le milieu des affaires canadien redoute les répercussions de cette escalade sur des chaînes d&#x27;approvisionnement étroitement imbriquées de part et d&#x27;autre de la frontière.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

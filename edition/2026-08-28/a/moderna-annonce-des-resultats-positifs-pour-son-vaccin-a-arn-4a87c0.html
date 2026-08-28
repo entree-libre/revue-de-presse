@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>Moderna annonce des résultats positifs pour son vaccin à ARN contre le mélanome</h1>
 <div class="chapo">Sciences et Avenir · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/moderna-annonce-des-resultats-positifs-pour-son-vaccin-a-arn-4a87c0.html"
+  data-titre="Moderna annonce des résultats positifs pour son vaccin à ARN contre le mélanome" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/moderna-annonce-des-resultats-positifs-pour-son-vaccin-a-arn-4a87c0.html">https://entreelibre.ca/edition/2026-08-28/a/moderna-annonce-des-resultats-positifs-pour-son-vaccin-a-arn-4a87c0.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.sciencesetavenir.fr/sante/que-faut-il-savoir-sur-le-vaccin-a-arn-contre-le-melanome_194434" target="_blank" rel="noopener"><span class="src-nom">Sciences et Avenir</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;entreprise de biotechnologies Moderna a annoncé le 19 août les résultats d&#x27;un essai de phase III pour un vaccin à ARN contre le mélanome, une forme dangereuse de cancer de la peau, jugés très positifs par Sciences et Avenir. Le vaccin ne protège pas de l&#x27;apparition du cancer, mais viserait à réduire le risque de récidive chez des patients déjà traités pour un mélanome.</p><p>Cette annonce s&#x27;inscrit dans la continuité des vaccins à ARN messager développés initialement contre les infections virales, dont le Covid-19, une technologie que plusieurs entreprises tentent désormais d&#x27;adapter à l&#x27;oncologie. Moderna avait déjà mené des essais préliminaires prometteurs sur cette indication avant d&#x27;annoncer ces résultats de phase III, généralement considérée comme la dernière étape avant une éventuelle homologation.</p><p>Les résultats détaillés de l&#x27;essai n&#x27;ont pas encore fait l&#x27;objet d&#x27;une publication scientifique complète au moment de l&#x27;annonce, ce qui limite pour l&#x27;instant l&#x27;évaluation indépendante des données par la communauté scientifique. Moderna n&#x27;a pas précisé de calendrier pour une éventuelle demande d&#x27;homologation auprès des autorités réglementaires.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

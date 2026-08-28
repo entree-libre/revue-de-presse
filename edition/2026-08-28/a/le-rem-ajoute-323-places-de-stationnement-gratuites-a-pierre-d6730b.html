@@ -33,6 +33,12 @@
 <div class="terr">Pierrefonds-Roxboro</div>
 <h1>Le REM ajoute 323 places de stationnement gratuites à Pierrefonds-Roxboro et Sunnybrooke</h1>
 <div class="chapo">Ville de Montréal · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-rem-ajoute-323-places-de-stationnement-gratuites-a-pierre-d6730b.html"
+  data-titre="Le REM ajoute 323 places de stationnement gratuites à Pierrefonds-Roxboro et Sunnybrooke" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-rem-ajoute-323-places-de-stationnement-gratuites-a-pierre-d6730b.html">https://entreelibre.ca/edition/2026-08-28/a/le-rem-ajoute-323-places-de-stationnement-gratuites-a-pierre-d6730b.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/9/98/R%C3%A9seau_express_m%C3%A9tropolitain_-_Station_Sunnybrooke.jpg" onerror="this.closest('figure').remove()"><figcaption>La station Sunnybrooke du Réseau express métropolitain. Photo : Lea-Kim, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://montreal.ca/actualites/rem-plus-de-stationnements-gratuits-sunnybrooke-et-pierrefonds-roxboro-119273" target="_blank" rel="noopener"><span class="src-nom">Ville de Montréal</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Réseau express métropolitain convertira une partie de ses stationnements payants en places gratuites aux stations Sunnybrooke et Pierrefonds-Roxboro, annonce l&#x27;arrondissement de Pierrefonds-Roxboro. Au total, 120 places s&#x27;ajoutent à Sunnybrooke depuis le 21 août et 203 places à Pierrefonds-Roxboro à compter du 27 août. Une offre payante demeure disponible pour qui souhaite s&#x27;assurer un emplacement. La décision découle de l&#x27;utilisation observée des stationnements et des besoins exprimés par les usagers, et s&#x27;inscrit dans une révision plus large de l&#x27;offre de stationnement sur le réseau du REM. L&#x27;arrondissement invite les résidentes et résidents qui n&#x27;ont pas encore essayé ce mode de transport à consulter la carte interactive du réseau. Les deux stations desservent le secteur ouest de l&#x27;île de Montréal, où le stationnement incitatif reste un enjeu important pour les usagers du train léger.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

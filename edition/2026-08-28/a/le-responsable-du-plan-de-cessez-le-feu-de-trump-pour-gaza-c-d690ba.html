@@ -32,6 +32,12 @@
 <div class="terr">Gaza, Israël, États-Unis</div>
 <h1>Le responsable du plan de cessez-le-feu de Trump pour Gaza critique Israël</h1>
 <div class="chapo">La Presse, Le Devoir · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-responsable-du-plan-de-cessez-le-feu-de-trump-pour-gaza-c-d690ba.html"
+  data-titre="Le responsable du plan de cessez-le-feu de Trump pour Gaza critique Israël" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-responsable-du-plan-de-cessez-le-feu-de-trump-pour-gaza-c-d690ba.html">https://entreelibre.ca/edition/2026-08-28/a/le-responsable-du-plan-de-cessez-le-feu-de-trump-pour-gaza-c-d690ba.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/international/2026-08-26/le-responsable-charge-du-plan-de-cessez-le-feu-de-trump-pour-gaza-critique-israel.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Devoir, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le responsable chargé par le président américain Donald Trump de superviser le plan de cessez-le-feu pour Gaza a critiqué mercredi Israël pour ses attaques contre le territoire palestinien ravagé par la guerre. Il a averti que l&#x27;alternative à la proposition américaine serait une reprise pleine et entière du conflit armé dans l&#x27;enclave. Un accord conclu récemment entre les États-Unis et le Hamas en vue d&#x27;un désarmement du mouvement était perçu, il y a quelques semaines encore, comme une avancée potentielle vers la fin de la guerre déclenchée par l&#x27;attaque du 7 octobre 2023 dans le sud d&#x27;Israël.</p><p>Le responsable américain n&#x27;a pas précisé publiquement quelles mesures concrètes il attendait du gouvernement israélien pour apaiser la situation sur le terrain à court terme. Son intervention traduit néanmoins une pression croissante de Washington pour que le cessez-le-feu tienne, alors que des frappes continuent d&#x27;être signalées presque quotidiennement dans l&#x27;enclave. Le gouvernement israélien n&#x27;avait pas réagi publiquement à ces critiques américaines jeudi soir.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

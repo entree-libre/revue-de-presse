@@ -33,6 +33,12 @@
 <div class="terr">Soudan du Sud</div>
 <h1>Le Conseil de sécurité condamne l&#x27;attaque qui a tué deux Casques bleus au Soudan du Sud</h1>
 <div class="chapo">ONU — Communiqué du Conseil de sécurité (SC/16442) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-conseil-de-securite-condamne-l-attaque-qui-a-tue-deux-cas-7b081e.html"
+  data-titre="Le Conseil de sécurité condamne l&#x27;attaque qui a tué deux Casques bleus au Soudan du Sud" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-conseil-de-securite-condamne-l-attaque-qui-a-tue-deux-cas-7b081e.html">https://entreelibre.ca/edition/2026-08-28/a/le-conseil-de-securite-condamne-l-attaque-qui-a-tue-deux-cas-7b081e.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bangladesh_Foreign_Minister_A._K._Abdul_Momen_Visits_UNMISS_Peacekeepers_in_South_Sudan_2021-08-20_%28PID-0028020%29.jpg/1280px-Bangladesh_Foreign_Minister_A._K._Abdul_Momen_Visits_UNMISS_Peacekeepers_in_South_Sudan_2021-08-20_%28PID-0028020%29.jpg" onerror="this.closest('figure').remove()"><figcaption>Des Casques bleus de la MINUSS, au Soudan du Sud. Photo : Press Information Department (Bangladesh), Public domain, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://press.un.org/en/2026/sc16442.doc.htm" target="_blank" rel="noopener"><span class="src-nom">ONU — Communiqué du Conseil de sécurité (SC/16442)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les membres du Conseil de sécurité de l&#x27;ONU ont condamné « dans les termes les plus forts » l&#x27;attaque « odieuse et délibérée » menée par des individus armés contre un convoi de protection de la Mission des Nations unies au Soudan du Sud (MINUSS) dans l&#x27;État de Jonglei. Ce communiqué a été diffusé jeudi par la présidente du Conseil, l&#x27;ambassadrice danoise Christina Markus Lassen. L&#x27;attaque, survenue le 24 août, a tué deux Casques bleus et blessé sept autres personnes, dont trois soldats éthiopiens de la paix, deux policiers sud-soudanais et deux membres du personnel civil de la MINUSS.</p><p>Le Conseil a souligné que des attaques contre des Casques bleus peuvent constituer des crimes de guerre au regard du droit international. Il a exigé une enquête complète, transparente et immédiate pour traduire les responsables en justice, avertissant que l&#x27;impunité pour de tels actes est inacceptable en toutes circonstances. Il a par ailleurs exprimé une vive inquiétude face à la persistance des violences intercommunautaires dans l&#x27;État de Jonglei, exigeant que les dirigeants politiques et communautaires sud-soudanais agissent pour protéger les populations civiles, les travailleurs humanitaires et les Casques bleus déployés sur place.</p><p>La MINUSS a activé sans délai ses procédures d&#x27;urgence, notamment le déploiement d&#x27;une force de réaction rapide dans la zone de l&#x27;attaque. Le Conseil a par ailleurs réaffirmé son soutien indéfectible au mandat de la mission, qui vise à protéger les civils et à soutenir le processus de paix au Soudan du Sud depuis plusieurs années déjà.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

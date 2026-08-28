@@ -33,6 +33,12 @@
 <div class="terr">Alberta</div>
 <h1>L&#x27;Alberta prévoit un surplus budgétaire de 2 milliards grâce à la flambée du pétrole</h1>
 <div class="chapo">Global News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-alberta-prevoit-un-surplus-budgetaire-de-2-milliards-grace-bd6ce7.html"
+  data-titre="L&#x27;Alberta prévoit un surplus budgétaire de 2 milliards grâce à la flambée du pétrole" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-alberta-prevoit-un-surplus-budgetaire-de-2-milliards-grace-bd6ce7.html">https://entreelibre.ca/edition/2026-08-28/a/l-alberta-prevoit-un-surplus-budgetaire-de-2-milliards-grace-bd6ce7.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Alberta-Legislature-Building-Edmonton-Alberta-Canada-02.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;édifice de l&#x27;Assemblée législative de l&#x27;Alberta, à Edmonton. Photo : WinterE229 WinterforceMedia, CC0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://globalnews.ca/news/12038137/alberta-2026-budget-fiscal-update/" target="_blank" rel="noopener"><span class="src-nom">Global News</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le gouvernement de l&#x27;Alberta prévoit désormais un surplus budgétaire de 2 milliards de dollars pour l&#x27;exercice 2026, un revirement spectaculaire par rapport au déficit de 9,4 milliards de dollars anticipé dans le budget déposé en février, selon sa plus récente mise à jour des finances publiques. La province table sur un baril de pétrole à environ 88 $US depuis avril, bien au-dessus des 60,50 $US prévus avant que le conflit entre les États-Unis et l&#x27;Iran ne perturbe la circulation des pétroliers dans le détroit d&#x27;Ormuz ; chaque dollar de hausse du baril de référence nord-américain WTI ajoute environ 680 millions de dollars aux coffres albertains.</p><p>Le ministre des Finances, Jason Nixon, a prévenu que les prix de l&#x27;énergie peuvent changer rapidement et que l&#x27;incertitude commerciale est bien réelle, avertissant que chaque dollar consacré à la dette est un dollar retiré aux salles de classe, aux hôpitaux et aux familles. Il a assuré que son gouvernement « n&#x27;engagera pas de revenus temporaires dans des dépenses permanentes ». Les mêmes prix élevés qui gonflent les revenus pétroliers de la province font aussi grimper le coût de la vie ; La province avait déjà versé en juin des chèques de 100 $ à la majorité des Albertains pour compenser la hausse du prix de l&#x27;essence, et M. Nixon n&#x27;a pas exclu un nouveau geste semblable. Le ministre a averti que les contre-tarifs canadiens dans la guerre commerciale avec les États-Unis pourraient eux aussi contribuer à faire grimper les prix pour les consommateurs.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

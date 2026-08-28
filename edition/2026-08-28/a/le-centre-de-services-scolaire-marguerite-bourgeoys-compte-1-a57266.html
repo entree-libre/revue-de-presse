@@ -32,6 +32,12 @@
 <div class="terr">Lachine, LaSalle</div>
 <h1>Le Centre de services scolaire Marguerite-Bourgeoys compte 1 500 élèves de moins cette rentrée</h1>
 <div class="chapo">Nouvelles d&#x27;Ici · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-centre-de-services-scolaire-marguerite-bourgeoys-compte-1-a57266.html"
+  data-titre="Le Centre de services scolaire Marguerite-Bourgeoys compte 1 500 élèves de moins cette rentrée" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-centre-de-services-scolaire-marguerite-bourgeoys-compte-1-a57266.html">https://entreelibre.ca/edition/2026-08-28/a/le-centre-de-services-scolaire-marguerite-bourgeoys-compte-1-a57266.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://nouvellesdici.com/gens-d-ici/education/actu-des-ecoles-ici/ca-du-cssmb-25-aout-1500-eleves-en-moins-des-ecoles-fraichement-renovees-et-une-cinquantaine-de-postes-denseignants-a-combler/" target="_blank" rel="noopener"><span class="src-nom">Nouvelles d&#x27;Ici</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Centre de services scolaire Marguerite-Bourgeoys (CSSMB) dénombre environ 1 500 élèves de moins que l&#x27;an dernier à pareille date pour cette rentrée 2026-2027 — quelque 1 300 au primaire et 200 au secondaire —, a indiqué son directeur général, Dominic Bertrand, lors du conseil d&#x27;administration du 25 août. Le chiffre exact ne sera confirmé qu&#x27;à la prise de présences officielle du 30 septembre; environ 880 jeunes ont été inscrits durant l&#x27;été, mais le CSSMB en désactive aussi plusieurs qui déménagent sans le signaler. Le directeur général a qualifié l&#x27;année de « record » pour les déménagements et inaugurations d&#x27;écoles : les élèves de Sainte-Geneviève-Sud, à LaSalle, réintègrent leurs locaux rénovés après près de deux ans de travaux chiffrés à 18 millions de dollars, tandis qu&#x27;une nouvelle école primaire de 125 places ouvre à LaSalle dans l&#x27;ancien Centre d&#x27;éducation des adultes. Sur le personnel enseignant, M. Bertrand affirme que le CSSMB « s&#x27;en tire vraiment beaucoup mieux que les années passées », avec une cinquantaine de postes à combler sur un effectif de 5 500 à 6 000 enseignants — un roulement jugé habituel. Le Centre cherche aussi une quinzaine de professionnels, dont des orthophonistes et des psychoéducateurs, ainsi que 55 postes de soutien, principalement des éducateurs en service de garde et des techniciens en éducation spécialisée.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

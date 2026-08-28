@@ -32,6 +32,12 @@
 <div class="terr">États-Unis</div>
 <h1>Take-Two poursuit Microsoft et Discord après des fuites vidéo de GTA 6</h1>
 <div class="chapo">Feed Clubic, Le Journal de Montréal, The Verge · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/take-two-poursuit-microsoft-et-discord-apres-des-fuites-vide-9cc7e7.html"
+  data-titre="Take-Two poursuit Microsoft et Discord après des fuites vidéo de GTA 6" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/take-two-poursuit-microsoft-et-discord-apres-des-fuites-vide-9cc7e7.html">https://entreelibre.ca/edition/2026-08-28/a/take-two-poursuit-microsoft-et-discord-apres-des-fuites-vide-9cc7e7.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed" target="_blank" rel="noopener"><span class="src-nom">Feed Clubic</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Journal de Montréal, The Verge, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;éditeur Take-Two Interactive a assigné Microsoft et Discord à comparaître après la fuite de plusieurs vidéos de Grand Theft Auto VI, rapporte The Verge, qui cite des informations de Kotaku. Dans les citations déposées jeudi, l&#x27;entreprise affirme que le matériel diffusé enfreint ses droits d&#x27;auteur sur du contenu audiovisuel, des illustrations, des dialogues et d&#x27;autres éléments créatifs du jeu, et cherche à identifier les responsables des fuites par ce biais plutôt que de poursuivre directement Microsoft et Discord pour le contenu lui-même.</p><p>GTA 6, l&#x27;une des sorties les plus attendues de l&#x27;histoire de l&#x27;industrie du jeu vidéo, a déjà fait l&#x27;objet de plusieurs vagues de fuites depuis l&#x27;annonce du jeu, certaines remontant à des années avant sa sortie prévue. Take-Two n&#x27;a pas précisé si l&#x27;action visait aussi à faire retirer les contenus déjà diffusés sur les deux plateformes.</p><p>Le recours illustre la difficulté des grands éditeurs à contenir la circulation de contenu non autorisé sur des plateformes de messagerie et de jeu qu&#x27;ils ne contrôlent pas directement. Take-Two n&#x27;a pas communiqué de nouvelle date de sortie pour le jeu lui-même dans le cadre de cette annonce judiciaire.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

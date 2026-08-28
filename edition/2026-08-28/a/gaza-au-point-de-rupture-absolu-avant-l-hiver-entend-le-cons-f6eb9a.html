@@ -33,6 +33,12 @@
 <div class="terr">Gaza</div>
 <h1>Gaza « au point de rupture absolu » avant l&#x27;hiver, entend le Conseil de sécurité</h1>
 <div class="chapo">ONU — Conseil de sécurité, 10214e séance (SC/16440) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/gaza-au-point-de-rupture-absolu-avant-l-hiver-entend-le-cons-f6eb9a.html"
+  data-titre="Gaza « au point de rupture absolu » avant l&#x27;hiver, entend le Conseil de sécurité" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/gaza-au-point-de-rupture-absolu-avant-l-hiver-entend-le-cons-f6eb9a.html">https://entreelibre.ca/edition/2026-08-28/a/gaza-au-point-de-rupture-absolu-avant-l-hiver-entend-le-cons-f6eb9a.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/UN_Security_Council_2007-04-03.JPG/1280px-UN_Security_Council_2007-04-03.JPG" onerror="this.closest('figure').remove()"><figcaption>La salle du Conseil de sécurité des Nations unies, à New York. Photo : Kjetil Ree, CC BY-SA 2.5, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://press.un.org/en/2026/sc16440.doc.htm" target="_blank" rel="noopener"><span class="src-nom">ONU — Conseil de sécurité</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par 10214e séance (SC/16440), sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La situation humanitaire de Gaza est « au point de rupture absolu » à l&#x27;approche de l&#x27;hiver, deux millions de personnes restant piégées dans l&#x27;enclave, a entendu mercredi le Conseil de sécurité. La séance portait sur le suivi de la résolution 2803 et du plan de paix parrainé par Washington, un an après l&#x27;entrée en vigueur d&#x27;un cessez-le-feu précaire.</p><p>Athena Rayburn, directrice de l&#x27;Association des agences internationales de développement, a affirmé devant le Conseil qu&#x27;Israël a radié plus de trente organisations humanitaires. Plus d&#x27;un millier de Palestiniens auraient été tués par l&#x27;armée israélienne depuis le cessez-le-feu, selon son témoignage. Des biens comme les béquilles ou les fauteuils roulants sont refusés au titre du « double usage », a-t-elle ajouté, avant de juger que « le Conseil de paix échoue », en référence à l&#x27;instance créée par le plan américain.</p><p>Nickolaï Mladenov, haut représentant pour Gaza de ce Conseil de paix, a défendu au contraire un processus qui « est passé de la table des négociations à la table d&#x27;ingénierie ». Il a rappelé que le Hamas a accepté le 30 juillet la feuille de route de mise en œuvre — une « percée historique » selon lui —, tout en reconnaissant que le mouvement n&#x27;a pas cessé toute activité militaire. Le coordonnateur spécial adjoint de l&#x27;ONU, Ramiz Alakbarov, a signalé que les deux tiers de Gaza restent inaccessibles ou soumis à de sévères restrictions. Il a aussi relevé qu&#x27;Israël retient six milliards de dollars de recettes fiscales palestiniennes et que des appels d&#x27;offres ont été ouverts pour plus de 1 200 logements dans la zone E1, à l&#x27;est de Jérusalem.</p><p>Les positions se sont affrontées : les États-Unis ont exigé le désarmement du Hamas, la France a condamné les propos du ministre israélien Itamar Ben Gvir appelant à tuer « 30 ou 40 » personnes par nuit, et la Chine a accusé Israël d&#x27;avoir rejeté la deuxième phase du cessez-le-feu. L&#x27;observateur palestinien a qualifié le projet E1 de « Rubicon » vers l&#x27;annexion. La représentante israélienne a répliqué que 600 camions d&#x27;aide entrent chaque jour dans l&#x27;enclave et que « le désarmement doit venir d&#x27;abord ».</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -33,6 +33,12 @@
 <div class="terr">Montréal</div>
 <h1>Équiterre proteste contre le retour de Shein à Montréal, réclame une loi contre la mode ultra-éphémère</h1>
 <div class="chapo">La Presse, Radio-Canada, Les Affaires, Le Devoir, Pivot · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/equiterre-proteste-contre-le-retour-de-shein-a-montreal-recl-46ceac.html"
+  data-titre="Équiterre proteste contre le retour de Shein à Montréal, réclame une loi contre la mode ultra-éphémère" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/equiterre-proteste-contre-le-retour-de-shein-a-montreal-recl-46ceac.html">https://entreelibre.ca/edition/2026-08-28/a/equiterre-proteste-contre-le-retour-de-shein-a-montreal-recl-46ceac.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rue_Sainte-Catherine%2C_Montreal%2C_Quebec_%2829985268241%29.jpg/1280px-Rue_Sainte-Catherine%2C_Montreal%2C_Quebec_%2829985268241%29.jpg" onerror="this.closest('figure').remove()"><figcaption>La rue Sainte-Catherine, artère commerciale du centre-ville de Montréal. Photo : Ken Lund, CC BY-SA 2.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/affaires/entreprises/2026-08-27/ouverture-de-shein-au-centre-ville-de-montreal/un-coup-d-eclat-d-equiterre-joue-les-trouble-fete.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Radio-Canada, Les Affaires, Le Devoir, Pivot, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un camion à ordures portant l&#x27;inscription «Non à la mode jetable» a accueilli les premiers clients de la boutique éphémère que le géant chinois Shein a rouverte rue Sainte-Catherine Ouest, à Montréal, jeudi, jusqu&#x27;au 30 août. L&#x27;organisme Équiterre, à l&#x27;origine de cette action, dénonce les conséquences environnementales du modèle d&#x27;affaires de la mode ultrarapide et réclame l&#x27;intervention du gouvernement fédéral pour en freiner l&#x27;essor.</p><p>«Le modèle d&#x27;affaires des géants de la mode ultra éphémère est basé sur l&#x27;achat répété d&#x27;articles conçus pour ne pas durer», a déclaré le directeur général d&#x27;Équiterre, Daniel Rotman, devant la boutique. «Qui va payer la facture des dépotoirs qui débordent et les impacts environnementaux et sanitaires qui en découlent? Pas Shein, pas Temu, c&#x27;est nous tous et toutes.» Selon Recyc-Québec, 344 000 tonnes de textiles ont été jetées dans les dépotoirs du Québec en 2023.</p><p>Équiterre cite en exemple la France, qui a adopté en juin une loi interdisant la publicité pour les entreprises de mode ultrarapide et leur imposant une pénalité, de même que l&#x27;Union européenne, dont la nouvelle taxe sur les petits colis en provenance de Chine, entrée en vigueur le 1er juillet, aurait fait chuter les importations de 30 % à 40 %, selon le ministre français de l&#x27;Économie. Le ministère fédéral des Finances n&#x27;a pas répondu aux questions sur d&#x27;éventuelles mesures similaires au Canada; Shein, de son côté, a rencontré des représentants d&#x27;Affaires mondiales Canada, d&#x27;Emploi et Développement social Canada, d&#x27;Environnement Canada et du cabinet du premier ministre en avril, selon le Registre des lobbyistes. Le président-directeur général du Conseil québécois du commerce de détail, Damien Silès, accuse par ailleurs la plateforme chinoise de concurrence déloyale et dénonce «l&#x27;immobilisme total» des gouvernements face aux mesures adoptées ailleurs.</p><p>Malgré la présence du camion d&#x27;Équiterre, l&#x27;achalandage est demeuré modeste à l&#x27;ouverture: quelques clientes, dont deux adolescentes venues avant leur rentrée scolaire, ont néanmoins profité de l&#x27;occasion pour magasiner dans un local où, fait rare pour Shein, les vêtements pouvaient être essayés sur place. Selon le 16e Baromètre de la consommation responsable, publié en juin, 28 % des Québécois achètent sur des plateformes à bas prix comme Shein et Temu, et 35 % estiment que le modèle acheter-jeter demeure la solution pour se vêtir à faible coût.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

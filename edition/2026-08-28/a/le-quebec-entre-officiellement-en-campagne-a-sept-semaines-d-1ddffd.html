@@ -33,6 +33,12 @@
 <div class="terr">Québec</div>
 <h1>Le Québec entre officiellement en campagne, à sept semaines du scrutin</h1>
 <div class="chapo">Radio-Canada, Québecor, Le Devoir, La Presse, CBC, Global News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-quebec-entre-officiellement-en-campagne-a-sept-semaines-d-1ddffd.html"
+  data-titre="Le Québec entre officiellement en campagne, à sept semaines du scrutin" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-quebec-entre-officiellement-en-campagne-a-sept-semaines-d-1ddffd.html">https://entreelibre.ca/edition/2026-08-28/a/le-quebec-entre-officiellement-en-campagne-a-sept-semaines-d-1ddffd.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_Canada.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;Assemblée nationale du Québec, à Québec. Photo : Wilfredor, CC0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.journaldequebec.com/2026/08/27/christine-frechette-identifie-donald-trump-comme-principal-adversaire" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Québecor, Le Devoir, La Presse, CBC, Global News, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Québec est officiellement entré en campagne électorale jeudi : la première ministre Christine Fréchette a rencontré la lieutenante-gouverneure Manon Jeannotte en matinée pour dissoudre l&#x27;Assemblée nationale en vue du scrutin du 5 octobre. Cheffe de la Coalition avenir Québec depuis avril, quand elle a succédé à François Legault, Mme Fréchette a présenté son équipe comme incarnant à la fois « l&#x27;énergie du changement » et « la force de l&#x27;expérience », se positionnant comme le choix le plus sûr face à ce qu&#x27;elle a appelé la « tempête » déclenchée par Donald Trump. Sans le nommer directement, elle a visé le chef conservateur Éric Duhaime, lui reprochant de vouloir court-circuiter le gouvernement fédéral dans les rapports avec Washington.</p><p>De son côté, le chef péquiste Paul St-Pierre Plamondon, dont le parti mène dans les intentions de vote et vient d&#x27;enchaîner quatre victoires en élections partielles, a réitéré dans un parc montréalais qu&#x27;il n&#x27;organiserait de référendum sur l&#x27;indépendance qu&#x27;après avoir démontré la capacité de son parti à bien gouverner — soit dans la seconde moitié d&#x27;un premier mandat, et pas avant la fin du second mandat de M. Trump à la Maison-Blanche. Il a qualifié la séparation de « onzième priorité » des Québécois pour l&#x27;instant. Le PQ, justement, avait dû composer la veille avec le retrait de son candidat dans Taschereau, Vincent Marissal, visé par une enquête de la commissaire à l&#x27;éthique de l&#x27;Assemblée nationale.</p><p>Le chef libéral Charles Milliard, présenté par CBC comme le mieux placé pour renouer les liens avec Ottawa et les autres provinces, a lancé sa campagne à Québec entouré de son caucus régional et dévoilé une vingtaine d&#x27;engagements étalés sur dix ans. Sa journée a toutefois été éclipsée par le retrait, pour « comportement inacceptable », de son candidat dans Rimouski — le huitième perdu par le Parti libéral depuis le début du processus de sélection. Chez la Coalition avenir Québec, le candidat Mathieu Rivest, qui affronte un adversaire conservateur dans sa circonscription, a lui aussi capté une partie de l&#x27;attention du premier jour. Les cinq principaux partis se disputeront les 125 circonscriptions de l&#x27;Assemblée nationale d&#x27;ici le 5 octobre, dans une campagne déjà dominée par la guerre commerciale avec les États-Unis et le coût de la vie.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

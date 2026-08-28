@@ -33,6 +33,12 @@
 <div class="terr">Montréal</div>
 <h1>Nick Suzuki dit ne pas s&#x27;en faire avec la flambée des salaires dans la LNH</h1>
 <div class="chapo">La Voix de l&#x27;Est, Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/nick-suzuki-dit-ne-pas-s-en-faire-avec-la-flambee-des-salair-03657d.html"
+  data-titre="Nick Suzuki dit ne pas s&#x27;en faire avec la flambée des salaires dans la LNH" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/nick-suzuki-dit-ne-pas-s-en-faire-avec-la-flambee-des-salair-03657d.html">https://entreelibre.ca/edition/2026-08-28/a/nick-suzuki-dit-ne-pas-s-en-faire-avec-la-flambee-des-salair-03657d.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Nick_Suzuki%28nicolas_suzuki%29.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;attaquant et capitaine du Canadien de Montréal, Nick Suzuki. Photo : Princesse sabrina, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lavoixdelest.ca/sports/2026/08/27/nick-suzuki-ne-s-en-fait-pas-avec-son-contrat-et-la-flambee-des-salaires-dans-la-lnh-L2QAI27K2BFZLEWI26CPUJKQ6M/" target="_blank" rel="noopener"><span class="src-nom">La Voix de l&#x27;Est</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Radio-Canada, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le directeur général du Canadien de Montréal, Kent Hughes, a réussi un tour de force remarqué dans le milieu du hockey en mettant sous contrat à long terme tout le noyau de jeunes joueurs de l&#x27;équipe à des salaires inférieurs aux nouvelles normes du marché, alors que des joueurs comparables ailleurs dans la ligue ont depuis obtenu des ententes nettement plus lucratives. Le capitaine Nick Suzuki, qui a lui-même signé un contrat de huit ans à 63 millions de dollars quelques semaines avant le congédiement de Marc Bergevin, affirme ne pas voir la situation comme si ses coéquipiers s&#x27;étaient fait flouer.</p><p>« On veut tous gagner, et certains des gars ont accepté de toucher moins pour qu&#x27;on y parvienne », a-t-il expliqué jeudi, en marge du tournoi de golf qu&#x27;il préside pour la Fondation Asista, un organisme qui vient en aide aux personnes aux prises avec des enjeux de santé mentale grâce à des chiens accompagnateurs.</p><p>Suzuki, qui siège au conseil de direction de la fondation avec son épouse, s&#x27;était entretenu en matinée avec des militaires, l&#x27;un des groupes que soutient Asista aux côtés des enfants et des athlètes; le tournoi affichait complet pour la première fois depuis sa création. Le capitaine du Canadien a également indiqué vouloir exercer un leadership plus exigeant cette saison, alors que les attentes montent pour une équipe qui a atteint le carré d&#x27;as la saison dernière.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

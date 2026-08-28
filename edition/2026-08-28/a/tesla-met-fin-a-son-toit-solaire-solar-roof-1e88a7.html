@@ -33,6 +33,12 @@
 <div class="terr">États-Unis</div>
 <h1>Tesla met fin à son toit solaire Solar Roof</h1>
 <div class="chapo">Tesla Mag, The Verge · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/tesla-met-fin-a-son-toit-solaire-solar-roof-1e88a7.html"
+  data-titre="Tesla met fin à son toit solaire Solar Roof" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/tesla-met-fin-a-son-toit-solaire-solar-roof-1e88a7.html">https://entreelibre.ca/edition/2026-08-28/a/tesla-met-fin-a-son-toit-solaire-solar-roof-1e88a7.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tesla_Solar_Roof-4.jpg/1280px-Tesla_Solar_Roof-4.jpg" onerror="this.closest('figure').remove()"><figcaption>Des tuiles solaires Tesla Solar Roof installées sur une résidence. Photo : Wikideas1, CC0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued" target="_blank" rel="noopener"><span class="src-nom">Tesla Mag</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par The Verge, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Tesla a mis fin à la commercialisation de Solar Roof, ses tuiles solaires conçues pour imiter l&#x27;apparence d&#x27;un toit ordinaire, selon des informations d&#x27;Electrek reprises par The Verge. Des sources proches du programme ont indiqué au site que l&#x27;entreprise a averti son réseau d&#x27;installateurs tiers que le produit n&#x27;est plus disponible à la commande, seuls les panneaux solaires classiques continuant d&#x27;être fournis aux clients.</p><p>Lancé par Elon Musk en 2016 comme une alternative esthétique aux panneaux solaires traditionnels, Solar Roof n&#x27;a jamais atteint l&#x27;échelle de production espérée par l&#x27;entreprise, plombé par des coûts d&#x27;installation élevés et des délais rallongés qui ont découragé une partie de la clientèle visée. Le produit avait pourtant été présenté à grand renfort de démonstrations publiques par Elon Musk lui-même lors de son lancement.</p><p>Tesla continue de vendre des panneaux solaires classiques par l&#x27;intermédiaire de sa division énergie, qui reste nettement plus petite que son activité automobile. L&#x27;abandon de Solar Roof illustre les difficultés récurrentes de Tesla à faire décoller ses activités hors de la production de véhicules électriques.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>2026 pourrait battre le record de température des océans, sous l&#x27;effet du réchauffement et d&#x27;El Niño</h1>
 <div class="chapo">La Presse, Sciences et Avenir, Geo, Slate · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/2026-pourrait-battre-le-record-de-temperature-des-oceans-sou-4bd61e.html"
+  data-titre="2026 pourrait battre le record de température des océans, sous l&#x27;effet du réchauffement et d&#x27;El Niño" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/2026-pourrait-battre-le-record-de-temperature-des-oceans-sou-4bd61e.html">https://entreelibre.ca/edition/2026-08-28/a/2026-pourrait-battre-le-record-de-temperature-des-oceans-sou-4bd61e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/actualites/environnement/2026-08-24/les-oceans-ont-enregistre-samedi-un-reco" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Sciences et Avenir, Geo, Slate, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La température de surface des océans mondiaux a atteint 21,1 degrés Celsius en moyenne le 22 août, un record absolu sur une journée, selon l&#x27;observatoire européen Copernicus cité par La Presse. Ce sommet résulte à la fois du réchauffement climatique de fond et du développement d&#x27;un épisode El Niño dans le Pacifique.</p><p>Selon le tableau de bord Climate Brink, qui s&#x27;appuie sur les données de l&#x27;agence américaine NOAA, les températures dans la zone de référence du Pacifique connue sous le nom de région Niño 3.4 dépassaient de 2,6 degrés la moyenne des trente dernières années, rapporte Geo. Des experts cités par le site estiment que cet épisode pourrait faire de 2027 l&#x27;une des années les plus chaudes jamais mesurées, et donner un aperçu des températures que le monde pourrait connaître régulièrement d&#x27;ici la fin des années 2030.</p><p>Sciences et Avenir souligne que ce record s&#x27;ajoute à une série d&#x27;étés successifs marqués par des températures océaniques inhabituelles, avec des conséquences directes sur l&#x27;intensité des ouragans et la fonte des glaces polaires. Slate rappelle de son côté que les effets d&#x27;El Niño se font aussi sentir loin des océans, jusque dans les changements de régime de mousson qui touchent l&#x27;agriculture en Asie du Sud.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

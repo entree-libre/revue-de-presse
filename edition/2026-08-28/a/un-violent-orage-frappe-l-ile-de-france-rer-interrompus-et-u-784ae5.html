@@ -32,6 +32,12 @@
 <div class="terr">France</div>
 <h1>Un violent orage frappe l&#x27;Île-de-France, RER interrompus et une personne blessée</h1>
 <div class="chapo">France 3 Régions (AFP), CNEWS · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-violent-orage-frappe-l-ile-de-france-rer-interrompus-et-u-784ae5.html"
+  data-titre="Un violent orage frappe l&#x27;Île-de-France, RER interrompus et une personne blessée" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-violent-orage-frappe-l-ile-de-france-rer-interrompus-et-u-784ae5.html">https://entreelibre.ca/edition/2026-08-28/a/un-violent-orage-frappe-l-ile-de-france-rer-interrompus-et-u-784ae5.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://france3-regions.franceinfo.fr/paris-ile-de-france/val-de-marne/arbres-arraches-routes-inondees-et-rer-fortement-perturbes-le-bilan-des-violents-orages-en-ile-de-france-3407615.html" target="_blank" rel="noopener"><span class="src-nom">France 3 Régions (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par CNEWS, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un violent épisode orageux a frappé l&#x27;Île-de-France jeudi en fin de journée, avec de fortes pluies, des grêlons de deux centimètres de diamètre et de puissantes rafales de vent. La région avait été placée en vigilance orange par Météo-France, comme 37 départements français ce jour-là. Le Val-de-Marne a été le plus sévèrement touché par cet épisode très localisé. « Une tempête effrayante », a témoigné une habitante de Vitry-sur-Seine auprès de France 3 Régions.</p><p>Une personne a été blessée à Chevilly-Larue, victime d&#x27;une fracture au bras après la chute de branchages. Selon la Brigade de sapeurs-pompiers de Paris, 37 des 60 interventions menées dans ce département concernaient le Val-de-Marne, où le ministère de l&#x27;Intérieur dénombre 120 interventions au total, contre 80 en Seine-et-Marne. Les pompiers ont aussi recensé treize inondations de sous-sols ou de logements et neuf câbles électriques tombés sur la voie publique. À Ivry-sur-Seine, des bâtiments municipaux, dont des écoles, ont été touchés, selon la mairie.</p><p>Le trafic ferroviaire francilien a été fortement perturbé : les RER A, C, D et E ont subi des interruptions ou de longs retards, certains voyageurs patientant de deux à quatre heures. Sur le RER C, des arbres tombés sur les voies ont coupé la circulation vers la gare d&#x27;Austerlitz, tandis qu&#x27;un arbre a bloqué le RER D entre la gare de Lyon et Maisons-Alfort. Les lignes K, N, P et R, ainsi que le métro 7 et le tramway T4, ont également été affectés par pannes électriques, arbres ou inondations. La SNCF assurait vendredi matin que l&#x27;ensemble du trafic avait repris après le déblaiement des voies.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

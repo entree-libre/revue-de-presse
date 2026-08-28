@@ -33,6 +33,12 @@
 <div class="terr">Québec</div>
 <h1>Lutnick et Ottawa s&#x27;affrontent sur la place du français dans les pourparlers ratés — les chefs québécois divisés</h1>
 <div class="chapo">Le Devoir, National Post · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/lutnick-et-ottawa-s-affrontent-sur-la-place-du-francais-dans-eab8eb.html"
+  data-titre="Lutnick et Ottawa s&#x27;affrontent sur la place du français dans les pourparlers ratés — les chefs québécois divisés" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/lutnick-et-ottawa-s-affrontent-sur-la-place-du-francais-dans-eab8eb.html">https://entreelibre.ca/edition/2026-08-28/a/lutnick-et-ottawa-s-affrontent-sur-la-place-du-francais-dans-eab8eb.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Lester_B._Pearson_Building.JPG" onerror="this.closest('figure').remove()"><figcaption>L&#x27;édifice Lester B. Pearson, siège d&#x27;Affaires mondiales Canada, à Ottawa. Photo : Óðinn, CC BY-SA 2.5 ca, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledevoir.com/politique/canada/1004672/lutnick-accuse-carney-instrumentaliser-francais-nuire-election-pq" target="_blank" rel="noopener"><span class="src-nom">Le Devoir</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par National Post, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le secrétaire américain au Commerce, Howard Lutnick, accuse le premier ministre canadien Mark Carney d&#x27;avoir inventé de toutes pièces l&#x27;idée que la protection du français aurait fait échouer les pourparlers commerciaux avec Washington, dans le seul but de nuire au Parti québécois et au mouvement référendaire albertain prévu cet automne. « Qu&#x27;est-ce qui pourrait avoir moins d&#x27;importance pour les États-Unis [que la façon dont les Québécois parlent] ? On s&#x27;en fiche ! » a-t-il lancé lors d&#x27;un point de presse à Washington jeudi, ajoutant que le parti souverainiste, en tête dans les sondages, serait la vraie cible de la manœuvre prêtée à M. Carney.</p><p>M. Carney avait pourtant affirmé samedi que les négociateurs américains cherchaient à limiter la découvrabilité du contenu francophone sur les plateformes de diffusion, un point devenu selon lui non négociable pour Ottawa. Le ministre du Commerce international, Dominic LeBlanc, a confirmé jeudi que Washington avait depuis assoupli sa position sur ce dossier précis, ouvrant la porte à une reprise des discussions. Le chef du Bloc québécois, Yves-François Blanchet, a jugé « intéressant » que la place du français semble avoir compté moins que ce qu&#x27;avaient d&#x27;abord laissé entendre MM. Carney et LeBlanc, et le chef péquiste Paul St-Pierre Plamondon a cité des articles de presse américains et canadiens, dont un du New York Times, selon lesquels le français n&#x27;aurait jamais été un enjeu réel des négociations.</p><p>La première ministre sortante et cheffe de la Coalition avenir Québec, Christine Fréchette, a dit croire la version d&#x27;Ottawa : « Je n&#x27;ai pas demandé de preuve, mais je sens la sincérité dans les échanges qu&#x27;on a eus avec le fédéral. » M. St-Pierre Plamondon a reproché à Mme Fréchette d&#x27;avoir répété la version fédérale « sans savoir ce qui se passait réellement » à la table de négociation, tandis que le chef libéral Charles Milliard l&#x27;a accusée d&#x27;utiliser la crise commerciale à des fins électorales plutôt que de défendre le bilan de son gouvernement. Mme Fréchette a rejeté l&#x27;hypothèse d&#x27;un calcul fédéral pour nuire à un parti souverainiste, jugeant qu&#x27;aucun gouvernement n&#x27;accepterait un tel risque économique pour cette seule raison. M. Lutnick prédit par ailleurs qu&#x27;Ottawa reviendra à la table de négociation « dès que les élections seront terminées » au Québec et en Alberta en octobre ; les pourparlers sont pour l&#x27;instant au point mort, et le Canada doit commencer à appliquer ses propres contre-tarifs le 8 septembre.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Ukraine</div>
 <h1>À Kyiv, l&#x27;Odyssée d&#x27;Homère réécrite avec les prisonniers de guerre en toile de fond</h1>
 <div class="chapo">Associated Press, The Independent · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/a-kyiv-l-odyssee-d-homere-reecrite-avec-les-prisonniers-de-g-c7687f.html"
+  data-titre="À Kyiv, l&#x27;Odyssée d&#x27;Homère réécrite avec les prisonniers de guerre en toile de fond" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/a-kyiv-l-odyssee-d-homere-reecrite-avec-les-prisonniers-de-g-c7687f.html">https://entreelibre.ca/edition/2026-08-28/a/a-kyiv-l-odyssee-d-homere-reecrite-avec-les-prisonniers-de-g-c7687f.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://apnews.com/article/russia-ukraine-war-azov-odyssey-nolan-homer-8c8e73e287fe4d62877a1e5d6cf0705b" target="_blank" rel="noopener"><span class="src-nom">Associated Press</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par The Independent, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le théâtre national Ivan-Franko de Kyiv transpose l&#x27;épopée d&#x27;Homère dans l&#x27;Ukraine en guerre avec « Odyssée. Méotide », rapporte l&#x27;Associated Press. La création fait de l&#x27;attente des familles de prisonniers et de disparus une réécriture contemporaine du retour d&#x27;Ulysse. La comédienne Daryna Leheida y incarne une Pénélope d&#x27;aujourd&#x27;hui, dont l&#x27;attente fait écho à celle de milliers de familles ukrainiennes. Le titre renvoie à la Méotide, nom antique de la mer d&#x27;Azov, autour de laquelle se sont joués le siège de Marioupol et la captivité de ses défenseurs.</p><p>La mort, la captivité, l&#x27;attente et l&#x27;appel du foyer : quatre ans et demi après le début de l&#x27;invasion, les thèmes du poème trouvent une résonance directe dans le public de Kyiv, décrit l&#x27;agence, qui a assisté aux dernières répétitions le 25 août. Les échanges de prisonniers entre Kyiv et Moscou, irréguliers, laissent des milliers de familles sans nouvelles. La scène ukrainienne s&#x27;est imposée depuis 2022 comme un lieu où le pays met sa guerre en récit.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

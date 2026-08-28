@@ -33,6 +33,12 @@
 <div class="terr">MRC de Pierre-De Saurel</div>
 <h1>La MRC de Pierre-De Saurel presse Québec de réparer l&#x27;autoroute 30 entre Saint-Roch et Calixa-Lavallée</h1>
 <div class="chapo">MRC de Pierre-De Saurel · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-mrc-de-pierre-de-saurel-presse-quebec-de-reparer-l-autoro-7ccfef.html"
+  data-titre="La MRC de Pierre-De Saurel presse Québec de réparer l&#x27;autoroute 30 entre Saint-Roch et Calixa-Lavallée" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-mrc-de-pierre-de-saurel-presse-quebec-de-reparer-l-autoro-7ccfef.html">https://entreelibre.ca/edition/2026-08-28/a/la-mrc-de-pierre-de-saurel-presse-quebec-de-reparer-l-autoro-7ccfef.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Maison_des_Gouverneurs.jpg/1280px-Maison_des_Gouverneurs.jpg" onerror="this.closest('figure').remove()"><figcaption>La Maison des gouverneurs, à Sorel-Tracy. Photo : Fralambert, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.mrcpierredesaurel.com/retour-sur-la-seance-du-conseil-de-la-mrc-de-pierre-de-saurel-du-26-aout-2026/" target="_blank" rel="noopener"><span class="src-nom">MRC de Pierre-De Saurel</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Réuni en séance ordinaire le 26 août, le conseil de la MRC de Pierre-De Saurel a adopté une résolution demandant au ministère des Transports et de la Mobilité durable (MTMD) de prioriser la réfection des tronçons les plus détériorés de l&#x27;autoroute 30, entre Saint-Roch-de-Richelieu et Calixa-Lavallée. Le préfet Vincent Deguise qualifie cette portion de l&#x27;autoroute de préoccupante, autant pour la sécurité que pour la qualité des déplacements, et dit unir sa voix à celle de la MRC voisine de Marguerite-D&#x27;Youville pour en faire une priorité d&#x27;intervention. La MRC souhaite obtenir un état de situation sur les travaux prévus à court, moyen et long terme et rencontrer les représentants du Ministère pour discuter des correctifs. Le conseil a par ailleurs approuvé une contribution de 360 873 $, puisée dans son enveloppe du Fonds régions et ruralité, pour financer une exposition permanente à la Maison des gouverneurs de Sorel-Tracy, consacrée à des artéfacts du XVIIIe siècle découverts lors de fouilles archéologiques dans d&#x27;anciennes latrines. Plusieurs municipalités membres ont aussi reçu de petites aides financières, dont 2 000 $ à Yamaska pour un module de jeux et une somme équivalente à Saint-Joseph-de-Sorel pour son événement La Féérie des lumières. Enfin, le conseil a ratifié l&#x27;embauche de Hamza El-Gass à la direction du Service de l&#x27;ingénierie et de l&#x27;environnement de la MRC.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

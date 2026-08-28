@@ -33,6 +33,12 @@
 <div class="terr">Norvège</div>
 <h1>Le roi Harald V de Norvège est mort à 89 ans, son fils Haakon lui succède</h1>
 <div class="chapo">TV5Monde (AFP), Le Journal de Montréal, France 24, CNews, RFI, Franceinfo · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-etat-de-sante-du-roi-harald-de-norvege-devient-extremement-da015c.html"
+  data-titre="Le roi Harald V de Norvège est mort à 89 ans, son fils Haakon lui succède" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-etat-de-sante-du-roi-harald-de-norvege-devient-extremement-da015c.html">https://entreelibre.ca/edition/2026-08-28/a/l-etat-de-sante-du-roi-harald-de-norvege-devient-extremement-da015c.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Secretary_Kerry_Shakes_Hands_With_King_Harald_of_Norway_at_the_Royal_Palace_in_Oslo_%2827659382586%29.jpg/1280px-Secretary_Kerry_Shakes_Hands_With_King_Harald_of_Norway_at_the_Royal_Palace_in_Oslo_%2827659382586%29.jpg" onerror="this.closest('figure').remove()"><figcaption>Le roi Harald V de Norvège au palais royal d&#x27;Oslo. Photo : U.S. Department of State from United States, Public domain, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://information.tv5monde.com/international/norvege-aggravation-de-letat-de-sante-du-roi-harald-2835104" target="_blank" rel="noopener"><span class="src-nom">TV5Monde (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Journal de Montréal, France 24, CNews, RFI, Franceinfo, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le roi Harald V de Norvège est mort vendredi à l&#x27;âge de 89 ans, a annoncé le Palais royal. Doyen des souverains européens, hospitalisé pour des complications liées à une maladie du sang, il avait vu son état se détériorer jusqu&#x27;à devenir « extrêmement grave », selon le communiqué diffusé la veille par le Palais. Son fils, le prince héritier Haakon, qui assurait déjà la régence lors des absences de son père, doit lui succéder conformément à la Constitution.</p><p>Monté sur le trône en janvier 1991 à la mort de son père Olav V, Harald avait repris la devise familiale « Alt for Norge » — « Tout pour la Norvège ». Marin accompli, il avait représenté son pays aux Jeux olympiques de 1964, 1968 et 1972 avant de continuer à régater au-delà de ses 80 ans. Son règne a modernisé une monarchie sans pouvoir politique direct : publication des comptes de la maison royale, ouverture des résidences au public, et adoption de la succession égalitaire qui permettra un jour à sa petite-fille Ingrid Alexandra de régner. Pour épouser la roturière Sonja Haraldsen, il avait tenu tête neuf ans à son père, menaçant de ne jamais se marier. Après les attentats d&#x27;Oslo et d&#x27;Utøya en 2011, ses appels au calme et à une société ouverte avaient durablement renforcé sa popularité.</p><p>La fin de son règne a toutefois été assombrie par la pire crise de l&#x27;histoire de la couronne norvégienne : la condamnation à quatre ans de prison de Marius Borg Høiby, fils aîné de la princesse Mette-Marit, et la révélation d&#x27;une correspondance entre la princesse et le criminel sexuel Jeffrey Epstein, qui ont nourri un débat inédit sur l&#x27;avenir de l&#x27;institution. Malgré la maladie, Harald V avait toujours refusé d&#x27;abdiquer, se considérant roi « jusqu&#x27;à la mort », fidèle à la formule de son grand-père Haakon VII.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

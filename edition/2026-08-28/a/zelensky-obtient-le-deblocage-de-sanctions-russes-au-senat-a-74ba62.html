@@ -33,6 +33,12 @@
 <div class="terr">États-Unis, Ukraine, Russie</div>
 <h1>Zelensky obtient le déblocage de sanctions russes au Sénat américain grâce à un plaidoyer direct</h1>
 <div class="chapo">Associated Press · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/zelensky-obtient-le-deblocage-de-sanctions-russes-au-senat-a-74ba62.html"
+  data-titre="Zelensky obtient le déblocage de sanctions russes au Sénat américain grâce à un plaidoyer direct" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/zelensky-obtient-le-deblocage-de-sanctions-russes-au-senat-a-74ba62.html">https://entreelibre.ca/edition/2026-08-28/a/zelensky-obtient-le-deblocage-de-sanctions-russes-au-senat-a-74ba62.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1280px-US_Capitol_dome_Jan_2006.jpg" onerror="this.closest('figure').remove()"><figcaption>Le Capitole, à Washington. Photo : Diliff, CC BY 2.5, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://apnews.com/article/congress-graham-ukraine-zelenskyy-trump-sanctions-5ed896360d926b920e2e9347343076aa" target="_blank" rel="noopener"><span class="src-nom">Associated Press</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le président ukrainien Volodymyr Zelensky est arrivé au Capitole quelques heures après les funérailles du sénateur Lindsey Graham, pour s&#x27;adresser à un auditoire inhabituellement attentif, rapporte l&#x27;Associated Press. La moitié du Sénat américain s&#x27;était réunie à huis clos pour l&#x27;occasion, un niveau de participation rare pour ce type de rencontre. Sénateurs et représentants ont posé leurs téléphones pour écouter M. Zelensky répondre aux questions sur la stratégie de son pays dans la guerre contre la Russie.</p><p>Il a expliqué comment l&#x27;Ukraine repoussait l&#x27;invasion russe tout en portant le combat jusqu&#x27;en territoire russe, mais a plaidé pour une aide accrue en missiles intercepteurs Patriot et en accords de licence permettant une production conjointe d&#x27;armements sur le sol ukrainien. Ce plaidoyer direct aurait contribué à débloquer, à la Chambre comme au Sénat, un projet de sanctions renforcées contre la Russie qui restait jusque-là en suspens depuis plusieurs semaines faute de consensus.</p><p>La suite du parcours législatif du texte demeure toutefois incertaine, selon l&#x27;agence de presse, plusieurs élus républicains restant réticents à l&#x27;idée de nouvelles mesures punitives à l&#x27;égard de Moscou en pleine négociation diplomatique. Le sénateur Lindsey Graham, dont les funérailles ont précédé la visite de M. Zelensky, était l&#x27;un des principaux artisans républicains du soutien à l&#x27;Ukraine au Congrès.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

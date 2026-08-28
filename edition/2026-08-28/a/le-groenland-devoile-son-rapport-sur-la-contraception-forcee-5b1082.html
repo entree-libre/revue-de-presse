@@ -33,6 +33,12 @@
 <div class="terr">Groenland, Danemark</div>
 <h1>Le Groenland dévoile son rapport sur la contraception forcée imposée aux femmes inuit</h1>
 <div class="chapo">TV5Monde, France 24, Radio-Canada (AFP), CNEWS · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-groenland-devoile-son-rapport-sur-la-contraception-forcee-5b1082.html"
+  data-titre="Le Groenland dévoile son rapport sur la contraception forcée imposée aux femmes inuit" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-groenland-devoile-son-rapport-sur-la-contraception-forcee-5b1082.html">https://entreelibre.ca/edition/2026-08-28/a/le-groenland-devoile-son-rapport-sur-la-contraception-forcee-5b1082.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2017-09-25_02_NUKA_ARCTICA_-_IMO_9100231_-_Sikuki_Nuuk%2C_Greenland.jpg/1280px-2017-09-25_02_NUKA_ARCTICA_-_IMO_9100231_-_Sikuki_Nuuk%2C_Greenland.jpg" onerror="this.closest('figure').remove()"><figcaption>Le port de Nuuk, au Groenland. Photo : Gordon Leggett, CC BY 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://information.tv5monde.com/international/le-groenland-presente-un-rapport-tres-attendu-sur-la-contraception-forcee-des-inuites-2835194" target="_blank" rel="noopener"><span class="src-nom">TV5Monde</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par France 24, Radio-Canada (AFP), CNEWS, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Groenland présente vendredi les conclusions d&#x27;une commission chargée depuis près de deux ans d&#x27;examiner la campagne de contraception forcée menée par Copenhague auprès des femmes inuit. Entre les années 1960 et 1990, plus de 4 000 Groenlandaises se sont vu poser un stérilet, en grande majorité sans leur consentement ou, lorsqu&#x27;elles étaient mineures, sans celui de leurs parents.</p><p>Le mandat de la commission porte sur les implications juridiques de cette politique, et notamment sur la question de savoir si elle peut être qualifiée de génocide — une qualification que le rapport doit trancher et dont le gouvernement groenlandais devra ensuite tirer les suites.</p><p>Naaja Nathanielsen, députée représentant l&#x27;île arctique au Parlement danois, qui a lancé la commission en août 2024 alors qu&#x27;elle était ministre, dit à l&#x27;AFP que la démarche vise d&#x27;abord à comprendre l&#x27;histoire du territoire, malgré ceux qui estiment qu&#x27;il faudrait se taire par prudence face aux pressions américaines sur le Groenland. Selon elle, tout ce qui se passe entre Copenhague et Nuuk est aujourd&#x27;hui scruté de près.</p><p>Henriette Berthelsen, l&#x27;une des victimes, juge de son côté les conclusions biaisées par l&#x27;absence d&#x27;Inuits groenlandais parmi les experts. Les personnes interrogées insistent pour que cette affaire ne serve pas à légitimer d&#x27;autres objectifs politiques sur la scène internationale.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

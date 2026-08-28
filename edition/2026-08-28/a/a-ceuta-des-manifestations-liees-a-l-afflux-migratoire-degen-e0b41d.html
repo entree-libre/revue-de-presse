@@ -33,6 +33,12 @@
 <div class="terr">Espagne</div>
 <h1>À Ceuta, des manifestations liées à l&#x27;afflux migratoire dégénèrent en affrontements</h1>
 <div class="chapo">Le Parisien, TV5Monde (AFP), France 24 · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/a-ceuta-des-manifestations-liees-a-l-afflux-migratoire-degen-e0b41d.html"
+  data-titre="À Ceuta, des manifestations liées à l&#x27;afflux migratoire dégénèrent en affrontements" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/a-ceuta-des-manifestations-liees-a-l-afflux-migratoire-degen-e0b41d.html">https://entreelibre.ca/edition/2026-08-28/a/a-ceuta-des-manifestations-liees-a-l-afflux-migratoire-degen-e0b41d.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Valla_de_Ceuta.jpg/1280px-Valla_de_Ceuta.jpg" onerror="this.closest('figure').remove()"><figcaption>La clôture frontalière séparant Ceuta du Maroc. Photo : Xemenendura, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.leparisien.fr/international/la-tension-reste-tres-elevee-les-manifestations-anti-migrants-a-ceuta-degenerent-en-affrontements-28-08-2026-73XDXZ36JZEDVK35KUS2NTZTGI.php" target="_blank" rel="noopener"><span class="src-nom">Le Parisien</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par TV5Monde (AFP), France 24, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Des manifestations contre les conditions de sécurité à Ceuta, enclave espagnole en Afrique du Nord, ont dégénéré jeudi en affrontements, rapporte l&#x27;AFP. « La tension reste très élevée », résume Le Parisien. Les rassemblements surviennent un mois après l&#x27;arrivée soudaine de milliers de personnes ayant franchi la frontière depuis le Maroc, à la nage ou par la digue. La plupart étaient retournées au Maroc quelques heures après cet afflux. Entre 3 500 et 7 000 personnes sont toutefois restées dans la ville, selon le gouvernement espagnol.</p><p>Les autorités locales multiplient les appels au calme face à des rassemblements qui visent la présence de migrants, dans une enclave de 85 000 habitants dont les capacités d&#x27;accueil sont saturées. Madrid et Rabat s&#x27;étaient mutuellement accusés lors de précédentes crises migratoires autour de Ceuta et Melilla, portes d&#x27;entrée européennes en Afrique. Le gouvernement espagnol n&#x27;avait pas annoncé de mesures nouvelles au moment de la publication des dépêches.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

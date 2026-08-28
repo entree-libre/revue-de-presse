@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>À bâbord!: l&#x27;économie circulaire, un «vernis écologique» sur un vieux réflexe capitaliste</h1>
 <div class="chapo">Revue À bâbord! · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/a-babord-l-economie-circulaire-un-vernis-ecologique-sur-un-v-f60966.html"
+  data-titre="À bâbord!: l&#x27;économie circulaire, un «vernis écologique» sur un vieux réflexe capitaliste" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/a-babord-l-economie-circulaire-un-vernis-ecologique-sur-un-v-f60966.html">https://entreelibre.ca/edition/2026-08-28/a/a-babord-l-economie-circulaire-un-vernis-ecologique-sur-un-v-f60966.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ababord.org/Les-chimeres-de-l-economie-circulaire" target="_blank" rel="noopener"><span class="src-nom">Revue À bâbord!</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La revue de gauche À bâbord! publie une critique en règle de l&#x27;économie circulaire, présentée depuis des décennies comme un pilier de la transition écologique. Selon un texte publié par À bâbord!, l&#x27;idée de réduire le gaspillage pour optimiser la production n&#x27;a rien de nouveau: elle est, selon la revue, «une quête constante au sein du système capitaliste», illustrée depuis longtemps par l&#x27;industrie des abattoirs, où presque rien n&#x27;est perdu de l&#x27;animal. Ce qui aurait changé, avance-t-elle, c&#x27;est le «vernis écologique» qui accompagne aujourd&#x27;hui ce discours, exploitant la méconnaissance du public à l&#x27;égard des processus de recyclage réels pour laisser croire à un système fermé où les objets seraient recyclés à l&#x27;infini.</p><p>Dans les faits, rappelle la revue, chaque passage au recyclage entraîne des pertes de quantité ou de qualité: les appareils électroniques, qui contiennent de nombreux matériaux en très petites quantités, sont particulièrement difficiles et peu rentables à récupérer, tout comme les emballages combinant plusieurs matériaux. La revue vise en particulier les entreprises qui, selon elle, se donnent «une façade écologique à peu de frais» en misant sur l&#x27;ambiguïté du concept plutôt que sur une réduction réelle de la production de déchets.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

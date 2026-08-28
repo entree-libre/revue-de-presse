@@ -32,6 +32,12 @@
 <div class="terr">Biélorussie, Ukraine</div>
 <h1>La Biélorussie aménage une base ferroviaire à la frontière ukrainienne pour recevoir du matériel militaire</h1>
 <div class="chapo">Euromaidan Press, Ukrinform · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-bielorussie-amenage-une-base-ferroviaire-a-la-frontiere-u-f469d8.html"
+  data-titre="La Biélorussie aménage une base ferroviaire à la frontière ukrainienne pour recevoir du matériel militaire" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-bielorussie-amenage-une-base-ferroviaire-a-la-frontiere-u-f469d8.html">https://entreelibre.ca/edition/2026-08-28/a/la-bielorussie-amenage-une-base-ferroviaire-a-la-frontiere-u-f469d8.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://euromaidanpress.com/2026/08/27/up-to-60-railcars-belarus-wires-a-border-base-to-take-in-military-trains/" target="_blank" rel="noopener"><span class="src-nom">Euromaidan Press</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Ukrinform, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Biélorussie aménage une nouvelle base près de sa frontière avec l&#x27;Ukraine pour recevoir du matériel militaire lourd par voie ferrée. L&#x27;information s&#x27;appuie sur des documents de conception ayant fuité et rapportés par Radio Svaboda, le service biélorusse de Radio Free Europe/Radio Liberty, repris par Euromaidan Press. Officiellement présenté comme un terrain d&#x27;entraînement, le site est en réalité conçu, selon ces documents, pour décharger des trains entiers de véhicules militaires, pouvant accueillir jusqu&#x27;à 60 wagons.</p><p>Les travaux se poursuivent alors même que des commandants biélorusses affirment désormais publiquement qu&#x27;aucune menace réelle ne pèse depuis l&#x27;Occident, un argument qui avait pourtant justifié par le passé le renforcement militaire du pays face à l&#x27;OTAN. La Biélorussie continue ainsi d&#x27;ajouter des infrastructures militaires permanentes le long de sa frontière avec l&#x27;Ukraine, en tant qu&#x27;allié indéfectible de la Russie dans son offensive depuis 2022. Le pays avait déjà servi de base arrière et de point de transit pour les troupes russes lors de l&#x27;invasion initiale de l&#x27;Ukraine par le nord.</p><p>Minsk n&#x27;a pas commenté publiquement ces révélations au moment de leur publication. Des analystes cités par Euromaidan Press y voient un indice supplémentaire d&#x27;une intégration militaire croissante entre les deux pays, plutôt que la préparation d&#x27;une nouvelle offensive terrestre imminente depuis le territoire biélorusse.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Gaspésie–Îles-de-la-Madeleine</div>
 <h1>La mutualisation entre musées gaspésiens citée en exemple par la Société des musées du Québec</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-mutualisation-entre-musees-gaspesiens-citee-en-exemple-pa-37cba7.html"
+  data-titre="La mutualisation entre musées gaspésiens citée en exemple par la Société des musées du Québec" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-mutualisation-entre-musees-gaspesiens-citee-en-exemple-pa-37cba7.html">https://entreelibre.ca/edition/2026-08-28/a/la-mutualisation-entre-musees-gaspesiens-citee-en-exemple-pa-37cba7.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278218/mutualisation-ressources-musees-gaspesiens-partage" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Société des musées du Québec (SMQ) cite en exemple deux initiatives de partage de ressources entre institutions muséales gaspésiennes, dans les résultats d&#x27;une enquête menée à l&#x27;automne 2025 sur la mutualisation dans les musées du Québec : le partage des services d&#x27;un même conservateur entre le Musée acadien du Québec et le Site historique national de Paspébiac, et celui d&#x27;une personne-ressource pour développer une activité de médiation culturelle. L&#x27;accès à des ressources spécialisées est un défi de taille pour les musées en région, explique la directrice générale du Musée acadien, Myriam Custeau : un poste à temps partiel suffit rarement à se loger et à se nourrir, ce qui complique l&#x27;embauche de diplômés. En partageant son conservateur avec Paspébiac, l&#x27;institution a pu garder « une ressource ultra qualifiée dans la région » et améliorer la rétention de son personnel.</p><p>Le partage de ressources a aussi permis aux cinq musées d&#x27;histoire de la Gaspésie de créer des projets communs, dont l&#x27;installation numérique Portraits vivants, qui met en valeur une figure marquante de la région dans chacun des établissements et incite les visiteurs à comparer les sites entre eux. Le directeur du Musée de la Gaspésie, Martin Roussy, se dit favorable à ces initiatives tout en appelant à la prudence : la mutualisation « ne doit en aucun cas servir de prétexte au désengagement de l&#x27;État », prévient-il, les économies d&#x27;échelle ne pouvant remplacer un financement adéquat.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

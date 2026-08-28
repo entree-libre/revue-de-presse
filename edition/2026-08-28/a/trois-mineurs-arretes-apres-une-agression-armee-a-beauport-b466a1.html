@@ -32,6 +32,12 @@
 <div class="terr">Capitale-Nationale</div>
 <h1>Trois mineurs arrêtés après une agression armée à Beauport</h1>
 <div class="chapo">Zone 911 · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/trois-mineurs-arretes-apres-une-agression-armee-a-beauport-b466a1.html"
+  data-titre="Trois mineurs arrêtés après une agression armée à Beauport" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/trois-mineurs-arretes-apres-une-agression-armee-a-beauport-b466a1.html">https://entreelibre.ca/edition/2026-08-28/a/trois-mineurs-arretes-apres-une-agression-armee-a-beauport-b466a1.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://zone911.com/scenes-policieres/quebec-trois-mineurs-arretes-apres-une-agression-armee-a-beauport" target="_blank" rel="noopener"><span class="src-nom">Zone 911</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les enquêteurs du module des crimes contre la personne du Service de police de la Ville de Québec ont arrêté trois mineurs de 15 et 16 ans en lien avec une agression armée survenue à Beauport; ils font face à des accusations de voies de fait graves envers une victime du même âge. L&#x27;affaire a été signalée mardi soir vers 23 h 10, lorsqu&#x27;un appel au 911 a rapporté qu&#x27;un jeune homme de 15 ans s&#x27;était présenté dans un centre hospitalier avec une blessure par arme blanche — la victime a été prise en charge par le personnel médical et sa vie n&#x27;est pas en danger.</p><p>Selon les informations recueillies par les policiers, l&#x27;agression se serait toutefois produite plus tôt dans la journée, dans un parc de la rue Cambert, à Beauport. Une scène de crime y a été érigée en début de nuit, et l&#x27;Unité d&#x27;identification judiciaire s&#x27;est rendue sur place pour recueillir des éléments de preuve; une perquisition dans une résidence du secteur a par ailleurs permis aux policiers de saisir des munitions. Les trois mineurs demeurent détenus en vue de leur comparution.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

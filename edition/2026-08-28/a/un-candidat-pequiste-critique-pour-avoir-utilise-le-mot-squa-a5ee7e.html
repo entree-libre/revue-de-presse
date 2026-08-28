@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Un candidat péquiste critiqué pour avoir utilisé le mot « squaw » en 2022</h1>
 <div class="chapo">La Presse, Le Devoir · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-candidat-pequiste-critique-pour-avoir-utilise-le-mot-squa-a5ee7e.html"
+  data-titre="Un candidat péquiste critiqué pour avoir utilisé le mot « squaw » en 2022" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-candidat-pequiste-critique-pour-avoir-utilise-le-mot-squa-a5ee7e.html">https://entreelibre.ca/edition/2026-08-28/a/un-candidat-pequiste-critique-pour-avoir-utilise-le-mot-squa-a5ee7e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/elections-quebecoises/2026-08-27/mot-squaw-utilise-par-un-candidat-pequiste/incompatible-pour-batir-une-relation-de-confiance-dit-le-chef-de-l-apnql.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Devoir, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le chef de l&#x27;Assemblée des Premières Nations Québec-Labrador, Francis Verreault-Paul, a dénoncé l&#x27;usage par le candidat péquiste François Gariépy, animateur à Radio X, du mot « squaw » pour désigner des femmes autochtones, jugeant ce choix de vocabulaire « incompatible » avec la relation de confiance que le Parti québécois affirme vouloir bâtir avec les Premières Nations. Les propos, tenus dans une baladodiffusion de 2022 où M. Gariépy racontait que sa mère infirmière « a accouché des squaws » en Gaspésie, ont été mis en lumière par La Presse ; l&#x27;Assemblée des Premières Nations Québec-Labrador les juge préoccupants dans le contexte de la candidature actuelle de M. Gariépy dans Charlevoix–Côte-de-Beaupré. Autrefois employé pour désigner une femme autochtone mariée, le terme est aujourd&#x27;hui qualifié d&#x27;injurieux par le dictionnaire Merriam-Webster et a déjà été classé par Facebook parmi les discours haineux.</p><p>Contacté par Le Devoir, M. Gariépy a présenté ses excuses, disant avoir employé « le mot que [sa] mère utilisait » et reconnaissant une « connotation problématique » sans toutefois se dire personnellement fautif. La cheffe de la Coalition avenir Québec, Christine Fréchette, a qualifié ses propos d&#x27;« inacceptables », assurant que jamais on n&#x27;entendrait un tel langage dans les rangs de son parti, tandis que le chef libéral Charles Milliard a invité le chef péquiste Paul St-Pierre Plamondon à faire un « examen de conscience ». M. St-Pierre Plamondon a défendu son candidat, qu&#x27;il a décrit comme un homme « coloré », refusant de reconnaître une erreur dans son choix, mais assurant que le mot « squaw » ne serait « jamais toléré » au PQ.</p><p>En entrevue avec Le Devoir, la cocoordonnatrice du Regroupement des groupes de femmes de la Capitale-Nationale, Anne-Valérie Lemieux-Breton, a qualifié les propos de M. Gariépy de « racistes » et « misogynes » et dénoncé la réaction de M. St-Pierre Plamondon, estimant que le candidat n&#x27;a plus la légitimité nécessaire pour représenter les femmes de sa circonscription. Elle a comparé le traitement réservé à M. Gariépy à celui du candidat péquiste Vincent Marissal, écarté quant à lui après 48 heures pour un manquement au code d&#x27;éthique des parlementaires, y voyant « deux poids, deux mesures » de la part du parti.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

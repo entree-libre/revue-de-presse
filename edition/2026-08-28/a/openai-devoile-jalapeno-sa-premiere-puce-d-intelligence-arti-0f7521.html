@@ -32,6 +32,12 @@
 <div class="terr">États-Unis</div>
 <h1>OpenAI dévoile Jalapeño, sa première puce d&#x27;intelligence artificielle</h1>
 <div class="chapo">ZDNet, The Verge · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/openai-devoile-jalapeno-sa-premiere-puce-d-intelligence-arti-0f7521.html"
+  data-titre="OpenAI dévoile Jalapeño, sa première puce d&#x27;intelligence artificielle" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/openai-devoile-jalapeno-sa-premiere-puce-d-intelligence-arti-0f7521.html">https://entreelibre.ca/edition/2026-08-28/a/openai-devoile-jalapeno-sa-premiere-puce-d-intelligence-arti-0f7521.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks" target="_blank" rel="noopener"><span class="src-nom">ZDNet</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par The Verge, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>OpenAI affirme que sa nouvelle puce d&#x27;intelligence artificielle, baptisée Jalapeño, exécute des tâches plus efficacement et répond plus rapidement que d&#x27;autres systèmes d&#x27;IA. Lors d&#x27;un point de presse, le vice-président matériel d&#x27;OpenAI, Richard Ho, a présenté la puce comme offrant à la fois une latence plus faible et un débit plus élevé que les solutions actuellement utilisées par l&#x27;entreprise.</p><p>L&#x27;entreprise, jusqu&#x27;ici entièrement dépendante des puces de fournisseurs comme Nvidia pour faire tourner ses modèles, s&#x27;engage ainsi plus avant dans la conception de son propre matériel, une tendance déjà observée chez plusieurs autres grands acteurs de l&#x27;IA générative. Aucun calendrier de déploiement commercial n&#x27;a été précisé par l&#x27;entreprise.</p><p>La maîtrise de puces internes permettrait à OpenAI de réduire sa dépendance à des fournisseurs externes et, potentiellement, d&#x27;abaisser le coût de calcul associé à l&#x27;entraînement et à l&#x27;exploitation de ses modèles. Plusieurs autres grandes entreprises d&#x27;intelligence artificielle ont emprunté la même voie ces dernières années, cherchant à s&#x27;affranchir progressivement d&#x27;un marché des puces dominé par un petit nombre de fournisseurs.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

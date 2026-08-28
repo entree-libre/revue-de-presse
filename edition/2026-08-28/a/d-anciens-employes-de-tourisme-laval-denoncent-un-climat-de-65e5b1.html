@@ -32,6 +32,12 @@
 <div class="terr">Laval</div>
 <h1>D&#x27;anciens employés de Tourisme Laval dénoncent un « climat de travail toxique »</h1>
 <div class="chapo">Courrier Laval · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/d-anciens-employes-de-tourisme-laval-denoncent-un-climat-de-65e5b1.html"
+  data-titre="D&#x27;anciens employés de Tourisme Laval dénoncent un « climat de travail toxique »" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/d-anciens-employes-de-tourisme-laval-denoncent-un-climat-de-65e5b1.html">https://entreelibre.ca/edition/2026-08-28/a/d-anciens-employes-de-tourisme-laval-denoncent-un-climat-de-65e5b1.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://courrierlaval.com/tourisme-laval-anciens-employes-denoncent-climat-travail-toxique/" target="_blank" rel="noopener"><span class="src-nom">Courrier Laval</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Une douzaine d&#x27;anciens employés de Tourisme Laval ont accepté de témoigner auprès du Courrier Laval pour décrire un environnement de travail qu&#x27;ils qualifient de « toxique » et de « malsain » au 480, promenade du Centropolis. Selon leurs témoignages, la détérioration du climat de travail aurait commencé dans les mois suivant l&#x27;entrée en poste de la nouvelle présidente-directrice générale, Christine Métayer, à l&#x27;automne 2023, et aurait été signalée par un lanceur d&#x27;alerte.</p><p>Tous les anciens employés interrogés ont demandé l&#x27;anonymat, disant craindre des représailles de la direction; une personne a même refusé une demande d&#x27;entrevue, n&#x27;en trouvant pas le courage. Les témoignages font état d&#x27;une direction jugée peu à l&#x27;écoute, d&#x27;un manque de communication et d&#x27;une transformation organisationnelle qui aurait fragilisé les équipes au point de pousser plusieurs employés vers la sortie. « Avec l&#x27;arrivée de la nouvelle PDG, on y a cru : elle semblait à l&#x27;écoute », confie l&#x27;un d&#x27;eux, avant de décrire une désillusion progressive.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

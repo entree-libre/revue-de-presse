@@ -33,6 +33,12 @@
 <div class="terr">Ontario et Québec</div>
 <h1>439 M$ en assurances de dommages après les orages de juillet en Ontario et au Québec</h1>
 <div class="chapo">Bureau d&#x27;assurance du Canada (communiqué, via Les Affaires/Cision), Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/les-orages-de-juin-et-juillet-ont-cause-439-millions-de-domm-4e76b0.html"
+  data-titre="439 M$ en assurances de dommages après les orages de juillet en Ontario et au Québec" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/les-orages-de-juin-et-juillet-ont-cause-439-millions-de-domm-4e76b0.html">https://entreelibre.ca/edition/2026-08-28/a/les-orages-de-juin-et-juillet-ont-cause-439-millions-de-domm-4e76b0.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lightning_in_Toronto_-_2003_%28267608325%29.jpg/1280px-Lightning_in_Toronto_-_2003_%28267608325%29.jpg" onerror="this.closest('figure').remove()"><figcaption>Un orage d&#x27;été au-dessus de Toronto (photo d&#x27;archive). Photo : John R. Southern, CC BY-SA 2.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278268/orage-dommage-indemnisation-degat-ottawa" target="_blank" rel="noopener"><span class="src-nom">Bureau d&#x27;assurance du Canada (communiqué</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par via Les Affaires/Cision), Radio-Canada, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les violents orages qui ont frappé le sud du Québec et l&#x27;Ontario entre le 30 juin et le 3 juillet, apportant vent, grêle, pluies torrentielles et crues soudaines, ont généré environ 439 millions de dollars en réclamations d&#x27;assurance de dommages pour les sinistres résidentiels et automobiles, selon un récent rapport de l&#x27;organisme torontois Catastrophe Indices et Quantification. La région d&#x27;Ottawa-Gatineau a été particulièrement touchée : la Ville d&#x27;Ottawa a battu son record quotidien de précipitations avec 118 millimètres de pluie le 1er juillet, et jusqu&#x27;à 175 mm dans certains quartiers, selon Environnement Canada.</p><p>Deux semaines après la tempête, les autorités municipales d&#x27;Ottawa avaient indiqué qu&#x27;une centaine de personnes avaient dû quitter leur domicile, et que plus de 6000 signalements de sous-sols inondés avaient été faits à la Ville. Cette facture est probablement sous-évaluée, ces estimations ne tenant pas compte des dommages non assurés ni des pertes indirectes; le vice-président du Bureau d&#x27;assurance du Canada, Maximilien Roy, a plaidé pour des investissements accrus dans la réduction du risque d&#x27;inondation.</p><p>Le Canada subit chaque année environ 9,2 milliards de dollars de pertes liées aux catastrophes, en hausse d&#x27;environ 9,4 % par année depuis les années 1980 — une croissance plus rapide que celle de la population, du PIB ou des coûts de construction, selon l&#x27;Institut de réduction des pertes catastrophiques. Les experts attribuent cette tendance au changement climatique, mais aussi à la croissance démographique en zones à risque, à la hausse des coûts de reconstruction et au vieillissement des réseaux d&#x27;assainissement.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

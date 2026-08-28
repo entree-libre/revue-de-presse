@@ -32,6 +32,12 @@
 <div class="terr">Ontario</div>
 <h1>Chapman&#x27;s tourne le dos à ses fournisseurs américains face aux tarifs</h1>
 <div class="chapo">Radio-Canada, CBC · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/chapman-s-tourne-le-dos-a-ses-fournisseurs-americains-face-a-7b57ec.html"
+  data-titre="Chapman&#x27;s tourne le dos à ses fournisseurs américains face aux tarifs" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/chapman-s-tourne-le-dos-a-ses-fournisseurs-americains-face-a-7b57ec.html">https://entreelibre.ca/edition/2026-08-28/a/chapman-s-tourne-le-dos-a-ses-fournisseurs-americains-face-a-7b57ec.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278398/tarifs-chapmans-creme-glace-lait" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par CBC, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Confrontée aux droits de douane américains, l&#x27;entreprise familiale ontarienne de crème glacée Chapman&#x27;s a commencé dès mars 2025 à chercher des solutions de rechange à ses fournisseurs américains et prévoit avoir remplacé plus de 70 % de ses ingrédients d&#x27;origine américaine d&#x27;ici le milieu de 2027, tout en n&#x27;augmentant pas ses prix avant mars 2028. « Nous avons dit à l&#x27;époque que nous n&#x27;allions pas augmenter nos prix et que nous allions commencer cette aventure », a expliqué à CBC London Morning le chef de la direction Ashley Chapman, fils des fondateurs de l&#x27;entreprise.</p><p>L&#x27;un des changements les plus importants touche les cornets : faute de producteur industriel canadien, Chapman&#x27;s s&#x27;est entendue avec le fabricant ontarien Original Foods, de Dunnville, pour importer un four et rapatrier cette étape de production. « Nous serons la seule entreprise au Canada qui détient une chaîne de production de cornets 100 % canadienne », affirme M. Chapman. Le président d&#x27;Original Foods, Steeve Tremblay, dit avoir lui-même approché Chapman&#x27;s pour lui offrir de fabriquer localement, une décision qu&#x27;il présente comme un geste pour renforcer l&#x27;économie canadienne, même si des retards liés à la réglementation canadienne sur l&#x27;électricité ont ralenti l&#x27;installation de l&#x27;équipement, acheté en Allemagne. L&#x27;entreprise prévoit aussi rapatrier au Canada la production des gaufres de ses sandwichs à la crème glacée et se tourner vers des amandes australiennes et des cerises chiliennes plutôt qu&#x27;américaines.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

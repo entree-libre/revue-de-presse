@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Milliard recrute une ex-diplomate pour son équipe économique et relance le troisième lien</h1>
 <div class="chapo">La Presse, Québecor · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/milliard-recrute-une-ex-diplomate-pour-son-equipe-economique-1c783c.html"
+  data-titre="Milliard recrute une ex-diplomate pour son équipe économique et relance le troisième lien" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/milliard-recrute-une-ex-diplomate-pour-son-equipe-economique-1c783c.html">https://entreelibre.ca/edition/2026-08-28/a/milliard-recrute-une-ex-diplomate-pour-son-equipe-economique-1c783c.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/elections-quebecoises/2026-08-28/parti-liberal-du-quebec/un-ex-consule-generale-dans-le-midwest-americain-atterrit-a-laval.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Québecor, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le chef libéral Charles Milliard doit annoncer vendredi que l&#x27;ex-consule générale du Canada dans le Midwest américain, Madeleine Féquière, quitte son poste à Chicago pour se présenter dans la circonscription de Chomedey, à Laval, sous la bannière du Parti libéral du Québec, selon des informations obtenues par La Presse. Cette experte en commerce international, qui a aussi œuvré dans la gestion du risque de crédit mondial chez Domtar, se joint à l&#x27;équipe économique libérale au moment où Washington menace de hausser encore ses droits de douane si Ottawa applique, à compter du 8 septembre, les contre-tarifs « dollar pour dollar » qu&#x27;il a promis. M. Milliard doit également proposer d&#x27;organiser des missions économiques « inversées », où le gouvernement ferait venir au Québec des fournisseurs étrangers non américains pour rencontrer les PME privées de certains intrants depuis le début de la guerre commerciale.</p><p>En matière de transport, M. Milliard a réitéré jeudi son appui au projet de troisième lien routier entre Québec et Lévis tout en réclamant d&#x27;abord de nouvelles études, une position plus prudente que celle de son parti avant son arrivée à sa tête, alors que les libéraux qualifiaient le projet de « gros n&#x27;importe quoi ». « Ce n&#x27;est pas un projet que je reporte à 2035 », a-t-il assuré, sans toutefois s&#x27;engager sur un échéancier. Devant des sondages qui placent son parti loin derrière le Parti québécois, M. Milliard, qui ne se prive pas de qualifier la première ministre sortante Christine Fréchette de « reine de la politique spectacle », s&#x27;est dit convaincu que rien n&#x27;est joué dans cette campagne. M. Milliard devra lui-même défendre son propre siège dans Orford, un château fort fédéraliste où le Parti québécois a recruté Jocelyn Caron, l&#x27;un des corédacteurs du Livre bleu sur la souveraineté, dans l&#x27;espoir qu&#x27;une division du vote entre libéraux et caquistes lui ouvre la voie.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Canada</div>
 <h1>Guerre tarifaire: les chaînes d&#x27;épicerie remettent de l&#x27;avant les produits canadiens</h1>
 <div class="chapo">Radio-Canada (La Presse canadienne) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/guerre-tarifaire-les-chaines-d-epicerie-remettent-de-l-avant-887d0d.html"
+  data-titre="Guerre tarifaire: les chaînes d&#x27;épicerie remettent de l&#x27;avant les produits canadiens" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/guerre-tarifaire-les-chaines-d-epicerie-remettent-de-l-avant-887d0d.html">https://entreelibre.ca/edition/2026-08-28/a/guerre-tarifaire-les-chaines-d-epicerie-remettent-de-l-avant-887d0d.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2277979/droits-douane-epiceries-patriotisme-clients" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada (La Presse canadienne)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les grandes chaînes d&#x27;épicerie canadiennes réactivent leur signalétique «produit d&#x27;ici» à mesure que les tensions commerciales avec les États-Unis s&#x27;intensifient. Loblaw, qui exploite notamment Provigo et Maxi, annonce le retour des symboles «T» pour signaler les produits dont le prix augmente en raison des droits de douane; son président Per Bank s&#x27;engage à ce que l&#x27;entreprise «ne tire aucun profit» de la situation: «lorsque les droits de douane augmentent nos coûts, toute hausse des prix en rayon qui en résulte reflétera cet impact — cent pour cent», écrit-il sur LinkedIn.</p><p>Empire, la société mère de Sobeys et des IGA, prévoit renforcer la signalétique de ses magasins pour mettre en avant les produits canadiens, précise la porte-parole Karen White-Boswell, tandis que Metro affirme déjà accorder la priorité aux produits d&#x27;ici. Le consultant Henry Chambers, du cabinet Sentinel, estime que les détaillants sont mieux préparés qu&#x27;en 2025, ayant tiré des leçons de la première vague tarifaire et disposant désormais d&#x27;un réseau de fournisseurs locaux plus solide.</p><p>L&#x27;analyste Amar Singh, de Kantar, prévient toutefois que cet engouement pourrait n&#x27;être que passager: si la majorité des Canadiens souhaitent acheter local, plusieurs, en particulier les ménages à plus faible revenu, n&#x27;en ont pas nécessairement les moyens compte tenu du coût élevé de l&#x27;épicerie. «Il existe actuellement une dichotomie: on veut agir, mais on n&#x27;a pas vraiment les moyens», résume-t-il.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

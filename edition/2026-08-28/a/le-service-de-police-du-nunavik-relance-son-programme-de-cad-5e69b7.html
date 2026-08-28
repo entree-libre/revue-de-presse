@@ -33,6 +33,12 @@
 <div class="terr">Nunavik (Kuujjuaq)</div>
 <h1>Le Service de police du Nunavik relance son programme de cadets</h1>
 <div class="chapo">Nunatsiaq News · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-service-de-police-du-nunavik-relance-son-programme-de-cad-5e69b7.html"
+  data-titre="Le Service de police du Nunavik relance son programme de cadets" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-service-de-police-du-nunavik-relance-son-programme-de-cad-5e69b7.html">https://entreelibre.ca/edition/2026-08-28/a/le-service-de-police-du-nunavik-relance-son-programme-de-cad-5e69b7.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Kuujjuaq1.JPG" onerror="this.closest('figure').remove()"><figcaption>Kuujjuaq, au Nunavik. Photo : Orbitale (Wikipédia en français), CC BY-SA 1.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://nunatsiaq.com/stories/article/nunavik-police-relaunch-cadet-program-to-build-inuit-workforce/" target="_blank" rel="noopener"><span class="src-nom">Nunatsiaq News</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Service de police du Nunavik relance son programme de cadets, dans le but d&#x27;augmenter la proportion d&#x27;employés inuits au sein du corps policier et d&#x27;offrir des occasions d&#x27;apprentissage aux jeunes de la région, rapporte Nunatsiaq News. Le programme, d&#x27;une durée de huit mois, recrutera à Kuujjuaq des jeunes de 12 à 20 ans, répartis en trois groupes d&#x27;âge, pour des rencontres hebdomadaires portant sur le travail policier, les premiers soins et d&#x27;autres compétences, explique la coordonnatrice du programme, Jessica Ashcroft. « Nous voulons un programme qui les accompagne, qui les soutient », affirme-t-elle, précisant que les difficultés rencontrées par le passé ont porté leurs leçons et ne se répéteront pas.</p><p>L&#x27;ancien chef de police Jean-Pierre Larose avait annoncé en mars 2025 le retour de ce programme, resté inactif depuis sa dernière cohorte en 2018. Son retour prévu l&#x27;été dernier ne s&#x27;était finalement pas concrétisé. Mme Ashcroft, entrée en poste en octobre sous la direction du nouveau chef Jean-François Bernier, a notamment établi un partenariat avec l&#x27;organisme Saqijuq pour offrir aux cadets des activités traditionnelles sur le territoire, comme la chasse et la pêche. « Nous voulons un corps policier plus représentatif, mais nous voulons aussi préserver l&#x27;identité culturelle », résume-t-elle.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

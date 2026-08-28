@@ -32,6 +32,12 @@
 <div class="terr">Carignan</div>
 <h1>Carignan accorde 500 $ à un jeune athlète médaillé au championnat du monde de course à obstacles</h1>
 <div class="chapo">Ville de Carignan · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/carignan-accorde-500-a-un-jeune-athlete-medaille-au-champion-c270f4.html"
+  data-titre="Carignan accorde 500 $ à un jeune athlète médaillé au championnat du monde de course à obstacles" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/carignan-accorde-500-a-un-jeune-athlete-medaille-au-champion-c270f4.html">https://entreelibre.ca/edition/2026-08-28/a/carignan-accorde-500-a-un-jeune-athlete-medaille-au-champion-c270f4.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.carignan.quebec/500-daide-financiere-a-nicolas-briere/" target="_blank" rel="noopener"><span class="src-nom">Ville de Carignan</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Ville de Carignan accorde une aide financière de 500 $ à Nicolas Brière, un jeune athlète de la municipalité, pour sa participation au Championnat du monde de course à obstacles (Obstacle Course Racing) tenu en Irlande du 6 au 9 août, où il a remporté une médaille de bronze. La Ville présente cette contribution comme une façon de soutenir le parcours des jeunes athlètes de Carignan et de reconnaître leur engagement sportif. Elle souligne les efforts que Nicolas Brière consacre à la pratique de la ringuette, qui lui ont permis d&#x27;atteindre ce niveau de compétition internationale. L&#x27;aide s&#x27;inscrit, selon l&#x27;administration, dans sa volonté de soutenir la relève sportive locale et de valoriser les citoyens qui contribuent au rayonnement de la communauté.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

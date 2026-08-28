@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Québec solidaire promet de taxer les riches et de contrôler les loyers</h1>
 <div class="chapo">Le Devoir · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/quebec-solidaire-promet-de-taxer-les-riches-et-de-controler-e72918.html"
+  data-titre="Québec solidaire promet de taxer les riches et de contrôler les loyers" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/quebec-solidaire-promet-de-taxer-les-riches-et-de-controler-e72918.html">https://entreelibre.ca/edition/2026-08-28/a/quebec-solidaire-promet-de-taxer-les-riches-et-de-controler-e72918.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledevoir.com/politique/quebec/1004615/quebec-solidaire-veut-changer-quebec-profondeur-taxant-riches" target="_blank" rel="noopener"><span class="src-nom">Le Devoir</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Entourée d&#x27;une cinquantaine de candidats et de son co-porte-parole Sol Zanetti, la co-porte-parole de Québec solidaire, Ruba Ghazal, a dévoilé jeudi les grandes lignes de la plateforme électorale du parti, articulée autour du contrôle des loyers, de la création d&#x27;une épicerie publique et d&#x27;investissements accrus dans les transports en commun. Mme Ghazal a proposé de financer ces engagements en misant sur une économie « plus résiliente » et en demandant une contribution accrue aux contribuables les plus fortunés. Il s&#x27;agit de la première campagne de Mme Ghazal et de M. Zanetti à la tête du parti depuis qu&#x27;ils ont remplacé les vétérans Manon Massé et Gabriel Nadeau-Dubois à la co-porte-parolat.</p><p>Contrairement aux autres partis, Québec solidaire ne présente pas un chef unique mais un tandem paritaire; c&#x27;est toutefois Mme Ghazal, élue dans Mercier depuis 2018, qui deviendrait première ministre advenant une victoire solidaire. Née à Beyrouth d&#x27;une famille palestinienne et arrivée au Québec à l&#x27;âge de dix ans, elle a travaillé en gestion environnementale pour des entreprises manufacturières avant de faire le saut en politique. Elle a résumé l&#x27;ambition du parti par une formule imagée, promettant que Québec solidaire « louera des trains oranges » pour tous les électeurs qui ne se reconnaîtraient plus dans l&#x27;offre péquiste.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

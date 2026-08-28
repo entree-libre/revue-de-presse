@@ -33,6 +33,12 @@
 <div class="terr">Europe</div>
 <h1>Amende record de 825 millions d&#x27;euros contre Uber pour des suspensions de comptes décidées par algorithme</h1>
 <div class="chapo">Presse-citron, Feed Clubic, ZDNet · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/amende-record-de-825-millions-d-euros-contre-uber-pour-des-s-a1421d.html"
+  data-titre="Amende record de 825 millions d&#x27;euros contre Uber pour des suspensions de comptes décidées par algorithme" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/amende-record-de-825-millions-d-euros-contre-uber-pour-des-s-a1421d.html">https://entreelibre.ca/edition/2026-08-28/a/amende-record-de-825-millions-d-euros-contre-uber-pour-des-s-a1421d.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Uber_car_with_lidar.jpg" onerror="this.closest('figure').remove()"><figcaption>Un véhicule équipé pour le service Uber. Photo : Timtempleton, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.presse-citron.net/licencies-algorithme-pourquoi-uber-va-devoir-payer-825-millions-euros/" target="_blank" rel="noopener"><span class="src-nom">Presse-citron</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Feed Clubic, ZDNet, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le régulateur néerlandais de protection des données a infligé à Uber une amende de 825 millions d&#x27;euros, la deuxième plus lourde sanction de l&#x27;histoire du RGPD après le 1,2 milliard imposé à Meta en 2023. L&#x27;autorité reproche à l&#x27;entreprise d&#x27;avoir suspendu ou banni définitivement des comptes de chauffeurs sur la seule base de décisions algorithmiques, sans avertissement préalable ni intervention humaine réelle.</p><p>L&#x27;affaire remonte à 2019 : le chauffeur français Brahim Ben Ali avait rassemblé les témoignages de 170 collègues privés de leur compte du jour au lendemain, et saisi l&#x27;autorité néerlandaise avec l&#x27;appui de l&#x27;ONG PersonalData.io, le siège européen d&#x27;Uber étant situé à Amsterdam. Le RGPD interdit les décisions entièrement automatisées ayant un impact majeur sur la vie des personnes, sauf à offrir une révision humaine systématique.</p><p>« Un ordinateur ne doit pas prendre seul des décisions aux conséquences aussi lourdes », a fait valoir Monique Verdier, vice-présidente de l&#x27;autorité néerlandaise, citée par Presse-citron. Uber conteste une sanction qu&#x27;elle juge disproportionnée, affirme qu&#x27;aucune exclusion définitive n&#x27;intervient sans contrôle humain, et a annoncé faire appel. PersonalData.io prépare par ailleurs une action collective pour permettre aux chauffeurs sanctionnés d&#x27;obtenir réparation.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

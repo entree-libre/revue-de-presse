@@ -32,6 +32,12 @@
 <div class="terr">Capitale-Nationale</div>
 <h1>Plus d&#x27;une centaine de résidents évacués après un incendie dans une tour d&#x27;habitation à Québec</h1>
 <div class="chapo">Zone 911 · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/plus-d-une-centaine-de-residents-evacues-apres-un-incendie-d-bc22df.html"
+  data-titre="Plus d&#x27;une centaine de résidents évacués après un incendie dans une tour d&#x27;habitation à Québec" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/plus-d-une-centaine-de-residents-evacues-apres-un-incendie-d-bc22df.html">https://entreelibre.ca/edition/2026-08-28/a/plus-d-une-centaine-de-residents-evacues-apres-un-incendie-d-bc22df.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://zone911.com/incendies/incendie-dans-un-immeuble-de-13-etages-sur-la-rue-marie-de-lincarnation-a-quebec" target="_blank" rel="noopener"><span class="src-nom">Zone 911</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les pompiers de Québec sont intervenus vers 17 h 40 mercredi pour un incendie dans un immeuble de 13 étages de l&#x27;Office municipal d&#x27;habitation de Québec, au 14, rue Marie-de-l&#x27;Incarnation. Le brasier se serait déclaré dans un logement du 10e étage, d&#x27;où plusieurs témoins ont signalé de la fumée noire s&#x27;échappant d&#x27;un balcon.</p><p>Les policiers arrivés en premier ont contribué à évacuer les résidents avant de céder le relais aux pompiers, qui ont procédé à l&#x27;extinction tout en poursuivant l&#x27;évacuation du bâtiment; plus d&#x27;une centaine de résidents ont dû quitter les lieux et environ 65 pompiers ont été mobilisés. Quatre personnes ont été évaluées par les paramédics après avoir été incommodées par la fumée, dont une femme transportée à l&#x27;hôpital sans que sa vie soit en danger.</p><p>Un homme de 53 ans a été arrêté pour négligence criminelle et rencontrera les enquêteurs du Service de police de la Ville de Québec, dont l&#x27;Unité d&#x27;identification judiciaire s&#x27;est rendue sur les lieux pour établir les circonstances de l&#x27;incendie. Un représentant de la Sécurité civile a été demandé sur place pour assurer la prise en charge des occupants par la Croix-Rouge.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

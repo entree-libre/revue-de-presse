@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Mort de Peter Cullen, voix d&#x27;Optimus Prime né à Montréal</h1>
 <div class="chapo">La Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/mort-de-peter-cullen-voix-d-optimus-prime-ne-a-montreal-f28daf.html"
+  data-titre="Mort de Peter Cullen, voix d&#x27;Optimus Prime né à Montréal" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/mort-de-peter-cullen-voix-d-optimus-prime-ne-a-montreal-f28daf.html">https://entreelibre.ca/edition/2026-08-28/a/mort-de-peter-cullen-voix-d-optimus-prime-ne-a-montreal-f28daf.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/cinema/2026-08-27/voix-d-optimus-prime/peter-cullen-meurt-a-85-ans.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le comédien Peter Cullen, né à Montréal et connu internationalement pour avoir prêté sa voix au personnage Optimus Prime dans la franchise Transformers, s&#x27;est éteint mercredi à l&#x27;âge de 85 ans, entouré de ses proches dans sa résidence de Los Angeles, a annoncé sa famille selon La Presse. Il avait quitté le Québec très tôt dans sa carrière pour tenter sa chance dans l&#x27;industrie américaine du doublage.</p><p>Sa voix grave et posée était devenue, pour plusieurs générations de spectateurs, indissociable du personnage de chef des Autobots, qu&#x27;il a incarné pendant plus de quatre décennies à travers les séries télévisées et les films de la franchise, depuis la série animée des années 1980 jusqu&#x27;aux longs métrages les plus récents.</p><p>Sa carrière de comédien vocal s&#x27;étendait bien au-delà de Transformers, avec des rôles marquants dans plusieurs autres productions d&#x27;animation nord-américaines au fil des décennies. Son décès a suscité de nombreux hommages de studios et de collègues, plusieurs saluant la longévité rare d&#x27;un rôle porté par le même acteur pendant plus de quarante ans.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

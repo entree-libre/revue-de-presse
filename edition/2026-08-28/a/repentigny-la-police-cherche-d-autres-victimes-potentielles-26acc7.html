@@ -33,6 +33,12 @@
 <div class="terr">Repentigny</div>
 <h1>Repentigny : la police cherche d&#x27;autres victimes potentielles d&#x27;un cas de voyeurisme</h1>
 <div class="chapo">Hebdo Rive Nord · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/repentigny-la-police-cherche-d-autres-victimes-potentielles-26acc7.html"
+  data-titre="Repentigny : la police cherche d&#x27;autres victimes potentielles d&#x27;un cas de voyeurisme" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/repentigny-la-police-cherche-d-autres-victimes-potentielles-26acc7.html">https://entreelibre.ca/edition/2026-08-28/a/repentigny-la-police-cherche-d-autres-victimes-potentielles-26acc7.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Repentigny_%28Qu%C3%A9bec%29-Vue_de_la_fa%C3%A7ade_ouest_de_l%27Hotel_de_ville_qui_abrite_plusieurs_locaux_d%27organismes-2023-11-29.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;hôtel de ville de Repentigny. Photo : Veillg1, CC0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.hebdorivenord.com/article/actualites/faits-divers/recherche-de-victimes-potentielles-repentigny/" target="_blank" rel="noopener"><span class="src-nom">Hebdo Rive Nord</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Service de police de la Ville de Repentigny (SPVR) recherche d&#x27;éventuelles victimes de Stéphane Biron, qui a comparu le 16 juillet sous deux chefs d&#x27;accusation de voyeurisme. Selon l&#x27;enquête, M. Biron aurait filmé à leur insu des femmes lors de séances de massothérapie données à son domicile. Les enquêteurs du SPVR invitent toute personne détenant de l&#x27;information ou croyant avoir été victime à communiquer avec le service de police. L&#x27;affaire, révélée par Hebdo Rive Nord, s&#x27;ajoute aux dossiers d&#x27;exploitation de la confiance associés à des services offerts à domicile, un type de crime que les corps policiers disent difficile à documenter sans que les victimes se manifestent. Le SPVR n&#x27;a pas précisé combien de victimes potentielles ont déjà été identifiées à ce stade de l&#x27;enquête.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

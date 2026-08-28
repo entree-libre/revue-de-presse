@@ -32,6 +32,12 @@
 <div class="terr">MRC de La Nouvelle-Beauce</div>
 <h1>La Nouvelle-Beauce prolonge de cinq ans son contrat de transport collectif avec Taxi Sainte-Marie</h1>
 <div class="chapo">Beauce Média · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-nouvelle-beauce-prolonge-de-cinq-ans-son-contrat-de-trans-09de5b.html"
+  data-titre="La Nouvelle-Beauce prolonge de cinq ans son contrat de transport collectif avec Taxi Sainte-Marie" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-nouvelle-beauce-prolonge-de-cinq-ans-son-contrat-de-trans-09de5b.html">https://entreelibre.ca/edition/2026-08-28/a/la-nouvelle-beauce-prolonge-de-cinq-ans-son-contrat-de-trans-09de5b.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.beaucemedia.ca/actualites/transport-collectif-la-mrc-mise-sur-la-continuite/" target="_blank" rel="noopener"><span class="src-nom">Beauce Média</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La MRC de La Nouvelle-Beauce a déposé, lors de son conseil des maires du 25 août, un avis d&#x27;intention pour conclure un contrat de gré à gré de cinq ans avec Taxi Sainte-Marie pour le transport adapté et collectif sur son territoire. Un avis d&#x27;intention permet à la MRC de vérifier si d&#x27;autres entreprises pourraient répondre à ses besoins avant d&#x27;attribuer le contrat directement, sans appel d&#x27;offres public. Taxi Sainte-Marie, unique fournisseur de services de taxi établi sur le territoire depuis environ 16 mois, répond aux attentes de fiabilité et de qualité de la MRC, qui applique les tarifs fixés par la Commission des transports du Québec. Le même soir, la MRC a confirmé une aide financière de 40 940 $ pour la période 2025-2027 du ministère des Transports et de la Mobilité durable, à laquelle s&#x27;ajoute un surplus accumulé de 75 765 $ dédié au transport collectif. Le contrat actuel arrive à échéance le 31 décembre, d&#x27;où la volonté de la MRC d&#x27;assurer une transition sans interruption de service pour les usagers.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

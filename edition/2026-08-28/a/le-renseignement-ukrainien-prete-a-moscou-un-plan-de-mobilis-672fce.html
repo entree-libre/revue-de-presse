@@ -32,6 +32,12 @@
 <div class="terr">Russie</div>
 <h1>Le renseignement ukrainien prête à Moscou un plan de mobilisation de 600 000 hommes d&#x27;ici 2027</h1>
 <div class="chapo">The Kyiv Independent, Kyiv Post, Interfax-Ukraine, Oukraïnska Pravda · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-renseignement-ukrainien-prete-a-moscou-un-plan-de-mobilis-672fce.html"
+  data-titre="Le renseignement ukrainien prête à Moscou un plan de mobilisation de 600 000 hommes d&#x27;ici 2027" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-renseignement-ukrainien-prete-a-moscou-un-plan-de-mobilis-672fce.html">https://entreelibre.ca/edition/2026-08-28/a/le-renseignement-ukrainien-prete-a-moscou-un-plan-de-mobilis-672fce.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://kyivindependent.com/ukraine-reveals-new-russian-mobilization-claims/" target="_blank" rel="noopener"><span class="src-nom">The Kyiv Independent</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Kyiv Post, Interfax-Ukraine, Oukraïnska Pravda, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Russie prépare une vague de mobilisation supplémentaire pour 2026-2027, affirme la présidence ukrainienne en s&#x27;appuyant sur les données de son renseignement. Selon ce rapport, relayé par le Kyiv Independent et le Kyiv Post, Moscou chercherait à recruter 300 000 hommes cette année et autant l&#x27;an prochain. Kyiv y voit la réponse du pouvoir russe à la perte d&#x27;initiative sur le front, à la hausse constante des pertes et à l&#x27;essoufflement du recrutement sous contrat.</p><p>Ces affirmations ne peuvent être vérifiées de source indépendante. Elles s&#x27;inscrivent dans la guerre de l&#x27;information que se livrent les deux camps. Le Kremlin, qui dément régulièrement préparer une nouvelle mobilisation générale, n&#x27;a pas réagi à ce rapport. La première mobilisation partielle de septembre 2022, officiellement limitée à 300 000 réservistes, avait provoqué le départ à l&#x27;étranger de centaines de milliers de Russes. L&#x27;annonce intervient alors que le chef du renseignement militaire ukrainien évoque une possible reprise des pourparlers avec Moscou en septembre.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

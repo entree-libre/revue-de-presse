@@ -32,6 +32,12 @@
 <div class="terr">Ukraine</div>
 <h1>Kyiv attaquée toute la journée de jeudi ; la centrale thermique de Kherson détruite, selon Ukrenergo</h1>
 <div class="chapo">The Kyiv Independent, Ukrinform, United24 Media, Interfax-Ukraine · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/kyiv-attaquee-toute-la-journee-de-jeudi-la-centrale-thermiqu-01f4ea.html"
+  data-titre="Kyiv attaquée toute la journée de jeudi ; la centrale thermique de Kherson détruite, selon Ukrenergo" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/kyiv-attaquee-toute-la-journee-de-jeudi-la-centrale-thermiqu-01f4ea.html">https://entreelibre.ca/edition/2026-08-28/a/kyiv-attaquee-toute-la-journee-de-jeudi-la-centrale-thermiqu-01f4ea.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://kyivindependent.com/ukraine-war-latest-kyiv-endures-day-long-russian-attacks-that-began-overnight/" target="_blank" rel="noopener"><span class="src-nom">The Kyiv Independent</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Ukrinform, United24 Media, Interfax-Ukraine, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les attaques russes commencées dans la nuit de mercredi à jeudi se sont poursuivies en plein jour sur Kyiv, une rareté qui a maintenu la capitale en alerte pendant des heures, rapporte le Kyiv Independent. La défense aérienne ukrainienne dit avoir abattu environ 120 drones au cours de la seule journée de jeudi, selon l&#x27;agence Ukrinform, qui évoque quelque 140 appareils lancés en plein jour. Kyiv y voit une évolution du mode opératoire russe, les vagues nocturnes se prolongeant désormais après l&#x27;aube.</p><p>La compagnie publique d&#x27;énergie affirme que la centrale thermique de Kherson a été frappée par quatre bombes planantes qui ont détruit l&#x27;ensemble de ses équipements de production d&#x27;électricité et de chaleur, à quelques semaines de la saison de chauffe. Aucune version russe de cette frappe n&#x27;était disponible. Moscou soutient de manière générale ne viser que des objectifs militaires. La destruction de la centrale pèse directement sur Kherson, dont les autorités pressent déjà les habitants de partir. Quatre ans et demi après le début de l&#x27;invasion à grande échelle, les frappes sur le réseau énergétique redeviennent l&#x27;enjeu central de l&#x27;automne.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

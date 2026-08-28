@@ -33,6 +33,12 @@
 <div class="terr">Ontario</div>
 <h1>Des collèges privés ontariens ont touché l&#x27;essentiel d&#x27;une explosion de bourses OSAP l&#x27;an dernier</h1>
 <div class="chapo">CBC · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/des-colleges-prives-ontariens-ont-touche-l-essentiel-d-une-e-99650f.html"
+  data-titre="Des collèges privés ontariens ont touché l&#x27;essentiel d&#x27;une explosion de bourses OSAP l&#x27;an dernier" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/des-colleges-prives-ontariens-ont-touche-l-essentiel-d-une-e-99650f.html">https://entreelibre.ca/edition/2026-08-28/a/des-colleges-prives-ontariens-ont-touche-l-essentiel-d-une-e-99650f.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Toronto_Queens_park_3_%288438564926%29.jpg" onerror="this.closest('figure').remove()"><figcaption>Queen&#x27;s Park, à Toronto, où siège le gouvernement de l&#x27;Ontario. Photo : Alain Rouiller, CC BY-SA 2.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.cbc.ca/news/canada/toronto/osap-grants-seven-career-colleges-ontario-9.7322793" target="_blank" rel="noopener"><span class="src-nom">CBC</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un petit nombre de collèges privés de formation professionnelle en Ontario est à l&#x27;origine d&#x27;une croissance explosive du nombre de bénéficiaires de l&#x27;aide financière aux études, selon des données obtenues par La Presse canadienne dans le cadre d&#x27;une demande d&#x27;accès à l&#x27;information. Au campus torontois de la rue Bay de l&#x27;Academy of Learning, le nombre d&#x27;étudiants touchant une aide de l&#x27;OSAP est passé de 996 à 7435 entre 2021-2022 et 2024-2025, pour des subventions provinciales de plus de 108 millions de dollars cette dernière année ; son campus de Brampton-Est a connu une hausse de plus de 1300 % sur la même période. Au total, les subventions provinciales versées aux étudiants de seulement sept collèges privés ont atteint environ 385 millions de dollars en 2024-2025, soit l&#x27;équivalent de ce qu&#x27;ont reçu combinés tous les étudiants des collèges publics de l&#x27;Ontario cette année-là.</p><p>Le gouvernement de Doug Ford a resserré cette année l&#x27;aide financière destinée aux étudiants des universités et des collèges publics tout en coupant l&#x27;accès à l&#x27;OSAP pour les étudiants de cinq collèges privés, invoquant des coûts « insoutenables » et des inquiétudes liées à des programmes d&#x27;apprentissage asynchrone. Le cabinet du ministre des Collèges et Universités, Nolan Quinn, prévient que d&#x27;autres mesures législatives suivront cet automne pour « freiner une croissance hors de contrôle ». L&#x27;organisme représentant l&#x27;industrie, Career Colleges Ontario, dit collaborer avec le gouvernement mais assure que les cas problématiques demeurent rares parmi ses membres. Le président d&#x27;une firme-conseil spécialisée en enseignement supérieur, Alex Usher, juge ces hausses anormales, notant qu&#x27;en Alberta la croissance annuelle de l&#x27;aide financière versée à un collège privé est plafonnée à 10 %.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

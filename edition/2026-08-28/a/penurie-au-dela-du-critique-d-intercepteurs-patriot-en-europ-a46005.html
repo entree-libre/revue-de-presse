@@ -32,6 +32,12 @@
 <div class="terr">Europe</div>
 <h1>Pénurie « au-delà du critique » d&#x27;intercepteurs Patriot en Europe, selon des responsables cités par l&#x27;AP</h1>
 <div class="chapo">Associated Press, Global News, The Washington Post · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/penurie-au-dela-du-critique-d-intercepteurs-patriot-en-europ-a46005.html"
+  data-titre="Pénurie « au-delà du critique » d&#x27;intercepteurs Patriot en Europe, selon des responsables cités par l&#x27;AP" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/penurie-au-dela-du-critique-d-intercepteurs-patriot-en-europ-a46005.html">https://entreelibre.ca/edition/2026-08-28/a/penurie-au-dela-du-critique-d-intercepteurs-patriot-en-europ-a46005.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://apnews.com/article/patriot-missiles-iran-war-russia-ukraine-trump-09c7d8030a2e11fbd8ee3f7176b3f2d4" target="_blank" rel="noopener"><span class="src-nom">Associated Press</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Global News, The Washington Post, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;armée américaine fait face en Europe à une pénurie « au-delà du critique » de missiles intercepteurs avancés. C&#x27;est ce qu&#x27;affirment un responsable américain de la défense en Europe et un responsable de l&#x27;OTAN à l&#x27;Associated Press. Cette pénurie serait en grande partie causée par la guerre menée contre l&#x27;Iran, qui a englouti une part des stocks. Le manque le plus préoccupant concernerait les munitions des batteries Patriot, pilier de la défense antiaérienne alliée. Selon ces sources, la situation nourrit des inquiétudes sur la vulnérabilité des pays membres face à une éventuelle attaque russe.</p><p>Ni le Pentagone ni l&#x27;Alliance n&#x27;ont confirmé publiquement ces niveaux de stocks, qui relèvent d&#x27;informations classifiées. La mise en garde tranche avec les propos tenus jeudi par Donald Trump, pour qui la Russie « ne va pas attaquer un territoire de l&#x27;OTAN ». Elle intervient aussi au moment où Washington presse les Européens d&#x27;acheter davantage d&#x27;armements américains pour soutenir l&#x27;Ukraine. Les villes ukrainiennes subissent, elles, des frappes quotidiennes de drones et de missiles que la défense antiaérienne peine à absorber.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

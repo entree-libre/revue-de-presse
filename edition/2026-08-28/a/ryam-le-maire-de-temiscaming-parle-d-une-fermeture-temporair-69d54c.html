@@ -33,6 +33,12 @@
 <div class="terr">Abitibi-Témiscamingue</div>
 <h1>RYAM : le maire de Témiscaming parle d&#x27;une fermeture « temporaire »</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ryam-le-maire-de-temiscaming-parle-d-une-fermeture-temporair-69d54c.html"
+  data-titre="RYAM : le maire de Témiscaming parle d&#x27;une fermeture « temporaire »" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ryam-le-maire-de-temiscaming-parle-d-une-fermeture-temporair-69d54c.html">https://entreelibre.ca/edition/2026-08-28/a/ryam-le-maire-de-temiscaming-parle-d-une-fermeture-temporair-69d54c.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/220813-096-Usine_Rayonier.jpg/1280px-220813-096-Usine_Rayonier.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;usine Rayonier (RYAM) de Témiscaming, en Abitibi-Témiscamingue. Photo : François Ruph, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278065/usine-fermeture-ryam-bois-tarifs-americain" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La direction de l&#x27;entreprise américaine Rayonier Advanced Materials (RYAM) a annoncé mercredi l&#x27;interruption des activités de son usine de pâtes et papiers de Témiscaming à compter du 15 septembre, invoquant les nouveaux tarifs douaniers imposés par les États-Unis contre le Canada. Environ 400 travailleurs syndiqués seraient mis à pied, mais une centaine d&#x27;employés continueraient de travailler puisque certains services essentiels sont maintenus.</p><p>Le maire de Témiscaming, Alain Gauthier — un ancien directeur général de l&#x27;usine —, maintient que la fermeture sera temporaire, tout en la qualifiant d&#x27;arrêt économique. « La grande différence avec les arrêts précédents, c&#x27;est qu&#x27;on ne sait pas la durée », a-t-il expliqué à l&#x27;émission Des matins en or, précisant que RYAM lui aurait indiqué que sa position pourrait être revue rapidement en cas de bonnes nouvelles du côté des tarifs ou de l&#x27;aide gouvernementale. L&#x27;entreprise, qui a refusé les demandes d&#x27;entrevue, dit être consciente des répercussions sur ses employés et sur l&#x27;ensemble de cette communauté mono-industrielle.</p><p>Le député fédéral d&#x27;Abitibi–Témiscamingue, Sébastien Lemire, souhaite que les entreprises forestières aient accès à des programmes gouvernementaux leur donnant plus de prévisibilité, et devait poursuivre les discussions avec le cabinet de la ministre Mélanie Joly. Le préfet de la MRC de Témiscamingue, Martin Lefebvre, espère pour sa part une réouverture, notant que l&#x27;usine a développé de nouveaux marchés en Europe mais qu&#x27;une bonne partie de sa production demeure destinée aux États-Unis — ce qui l&#x27;expose directement au conflit tarifaire.</p><p>Sur place, l&#x27;inquiétude se mêle à l&#x27;espoir : « C&#x27;est vraiment très, très insécurisant [...] On espère qu&#x27;il va y avoir des développements, parce que c&#x27;est énorme, particulièrement pour la région ici qui ne vit que de cette usine », confie à Radio-Canada Bianca Cousineau, copropriétaire d&#x27;une entreprise de chargement et de transport de bois. Un travailleur du moulin se dit pour sa part partiellement rassuré par les dernières nouvelles, tout en reconnaissant avoir d&#x27;autres options d&#x27;emploi si la fermeture devait se prolonger.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

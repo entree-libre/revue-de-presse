@@ -32,6 +32,12 @@
 <div class="terr">Outaouais (Gatineau)</div>
 <h1>Exemption de français refusée à un élève autiste de Gatineau : Québec pressé de revoir le processus</h1>
 <div class="chapo">CBC · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/exemption-de-francais-refusee-a-un-eleve-autiste-de-gatineau-1e6d8f.html"
+  data-titre="Exemption de français refusée à un élève autiste de Gatineau : Québec pressé de revoir le processus" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/exemption-de-francais-refusee-a-un-eleve-autiste-de-gatineau-1e6d8f.html">https://entreelibre.ca/edition/2026-08-28/a/exemption-de-francais-refusee-a-un-eleve-autiste-de-gatineau-1e6d8f.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.cbc.ca/news/canada/montreal/french-exemption-children-with-disabilities-9.7322779" target="_blank" rel="noopener"><span class="src-nom">CBC</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Charte de la langue française permet aux élèves ayant de graves difficultés d&#x27;apprentissage d&#x27;obtenir une exemption de l&#x27;obligation de réussir le cours de français, mais des parents, des experts en éducation et des élus estiment que le processus pour l&#x27;obtenir est si ardu qu&#x27;il peut nuire au parcours des étudiants, rapporte CBC. Le ministère de l&#x27;Éducation a ainsi refusé la demande d&#x27;exemption fondée sur un handicap présentée par Henry Gendreau, un jeune autiste de Gatineau de 18 ans qui n&#x27;a été capable de parler qu&#x27;à partir d&#x27;environ cinq ans. Admis à son programme de cégep à condition d&#x27;obtenir cette exemption après avoir échoué ses cours obligatoires de français dans une école secondaire anglophone, il doit maintenant terminer son secondaire en Ontario.</p><p>« Dire à un enfant, à un jeune, que parce qu&#x27;il n&#x27;a pas la capacité d&#x27;apprendre cette langue, il ne pourra plus poursuivre son parcours scolaire, ça ne sert à personne », dénonce la candidate libérale dans D&#x27;Arcy-McGee, Elisabeth Prass, qui réclame la mise en place d&#x27;un mécanisme d&#x27;appel — inexistant actuellement — pour les demandes refusées. La candidate solidaire dans Verdun, Alejandra Zaga Mendez, souhaite pour sa part plus de transparence dans un processus qui exclut toute communication directe entre le ministère et les parents. L&#x27;avocat constitutionnaliste Julius Grey qualifie la situation d&#x27;« injuste », estimant que le processus est structuré pour pencher vers le refus plutôt que vers l&#x27;intérêt de l&#x27;enfant. Le Parti québécois et le Parti conservateur n&#x27;ont pas répondu aux demandes de CBC, et la ministre sortante de l&#x27;Éducation, Sonia LeBel, a décliné tout commentaire.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

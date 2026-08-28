@@ -32,6 +32,12 @@
 <div class="terr">Abitibi-Témiscamingue</div>
 <h1>Cinéma : Jean-Marc Vallée et Gilles Villeneuve à l&#x27;honneur pour les 45 ans du Festival de Rouyn-Noranda</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/cinema-jean-marc-vallee-et-gilles-villeneuve-a-l-honneur-pou-e957b6.html"
+  data-titre="Cinéma : Jean-Marc Vallée et Gilles Villeneuve à l&#x27;honneur pour les 45 ans du Festival de Rouyn-Noranda" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/cinema-jean-marc-vallee-et-gilles-villeneuve-a-l-honneur-pou-e957b6.html">https://entreelibre.ca/edition/2026-08-28/a/cinema-jean-marc-vallee-et-gilles-villeneuve-a-l-honneur-pou-e957b6.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278089/films-festival-cinema-abitibi-temiscamingue" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le 45e Festival du cinéma international en Abitibi-Témiscamingue, qui se tiendra du 31 octobre au 5 novembre à Rouyn-Noranda, mettra à l&#x27;honneur l&#x27;univers de Jean-Marc Vallée et la vie du pilote de course Gilles Villeneuve. Le film « Villeneuve, l&#x27;ascension d&#x27;une légende » y sera présenté en première québécoise, tandis que l&#x27;exposition « Mixtape », consacrée à Vallée et déjà vue au Centre PHI de Montréal, s&#x27;installera au Musée d&#x27;art de Rouyn-Noranda pour souligner à la fois le festival et le centenaire de la ville.</p><p>Le cinéaste Martin Villeneuve, un habitué du festival, y présentera un nouveau volet des aventures de son personnage Imelda, inspiré de sa grand-mère et qu&#x27;il interprète lui-même aux côtés d&#x27;Anne-Marie Cadieux, Robert Lepage et Michel Barrette. Le festival accueillera aussi la première mondiale de « Paquet de troubles », premier long métrage de Myriam Guimond sur un adolescent musicien prodige aux prises avec un diagnostic de schizophrénie, et clôturera avec le film franco-belge « Demain je tombe amoureux », de Martin Provost, présenté en première canadienne avec Fabrice Luchini, Emmanuelle Devos et Chiara Mastroianni.</p><p>Les trois cofondateurs de l&#x27;événement, Jacques Matte, Louis Dallaire et Guy Parent, soulignent l&#x27;ampleur du chemin parcouru en 45 ans, portés notamment par des bénévoles présents depuis la création du festival. Les passeports et billets pour la soirée d&#x27;ouverture seront mis en vente le 11 septembre, et le reste de la programmation sera dévoilé le 8 octobre.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -33,6 +33,12 @@
 <div class="terr">États-Unis, Cuba</div>
 <h1>Le procès du cerveau présumé des attentats du 11-Septembre fixé à l&#x27;été 2028</h1>
 <div class="chapo">TV5Monde (AFP), CNews, Le Parisien, Europe 1, Libération, Le Journal de Montréal, Le Devoir, RFI · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-proces-du-cerveau-presume-des-attentats-du-11-septembre-f-4979d6.html"
+  data-titre="Le procès du cerveau présumé des attentats du 11-Septembre fixé à l&#x27;été 2028" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-proces-du-cerveau-presume-des-attentats-du-11-septembre-f-4979d6.html">https://entreelibre.ca/edition/2026-08-28/a/le-proces-du-cerveau-presume-des-attentats-du-11-septembre-f-4979d6.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Guantanamo_Bay_-_Cuba.jpg" onerror="this.closest('figure').remove()"><figcaption>La base navale américaine de Guantanamo, à Cuba. Photo du domaine public (Public domain), via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://information.tv5monde.com/international/11-septembre-le-presume-cerveau-de-lattentat-khalid-cheikh-mohammed-toujours-detenu-guantanamo-sera-juge-en-juin-2028-2835151" target="_blank" rel="noopener"><span class="src-nom">TV5Monde (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par CNews, Le Parisien, Europe 1, Libération, Le Journal de Montréal, Le Devoir, RFI, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un juge militaire américain a fixé au 5 juin 2028 le début du procès de Khalid Cheikh Mohammed et de trois coaccusés, poursuivis pour avoir planifié les attentats du 11 septembre 2001. Ce nouveau calendrier représente un report de dix-huit mois par rapport à la date précédemment envisagée par la justice militaire américaine. L&#x27;armée américaine et les administrations successives peinent depuis plus de vingt ans à faire juger cet homme accusé d&#x27;avoir orchestré l&#x27;une des attaques les plus meurtrières jamais commises contre les États-Unis.</p><p>Ce Pakistanais élevé au Koweït, connu sous ses initiales KSM, était l&#x27;un des principaux lieutenants d&#x27;Oussama ben Laden au sein d&#x27;Al-Qaïda avant sa capture au Pakistan en mars 2003. Il a été transféré en septembre 2006 à la prison militaire américaine de Guantanamo, sur l&#x27;île de Cuba, où il est détenu depuis sans jugement définitif, soit près de vingt-deux ans de détention à ce jour.</p><p>La procédure est marquée depuis des années par des contestations juridiques répétées portant sur l&#x27;usage, lors de son interrogatoire par la CIA, de preuves obtenues sous la torture. Plusieurs juges militaires successifs se sont succédé sur ce dossier, chacun devant statuer sur la recevabilité d&#x27;éléments de preuve remontant aux programmes de détention secrète de la CIA du milieu des années 2000. Les familles des victimes du 11-Septembre, consultées à intervalles réguliers sur l&#x27;avancement du dossier, ont exprimé des réactions partagées face à ce nouveau report.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

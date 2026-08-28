@@ -32,6 +32,12 @@
 <div class="terr">Estrie</div>
 <h1>L&#x27;OTC dévoile les motifs de son approbation de la voie de contournement de Lac-Mégantic</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-otc-devoile-les-motifs-de-son-approbation-de-la-voie-de-co-8ca9b1.html"
+  data-titre="L&#x27;OTC dévoile les motifs de son approbation de la voie de contournement de Lac-Mégantic" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-otc-devoile-les-motifs-de-son-approbation-de-la-voie-de-co-8ca9b1.html">https://entreelibre.ca/edition/2026-08-28/a/l-otc-devoile-les-motifs-de-son-approbation-de-la-voie-de-co-8ca9b1.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278255/otc-motifs-decisions-voie-contournement-lac-megantic" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;Office des transports du Canada a dévoilé les motifs qui l&#x27;ont mené à approuver, le 16 juillet dernier, le projet de voie de contournement ferroviaire de 12,5 kilomètres à l&#x27;extérieur du centre-ville de Lac-Mégantic. Le rapport, publié jeudi, conclut que l&#x27;emplacement retenu est convenable compte tenu des besoins de service et d&#x27;exploitation du Canadien Pacifique, propriétaire de la voie, et des intérêts des localités concernées.</p><p>L&#x27;Office souligne que la voie ferrée actuelle agit comme une barrière physique et psychologique au centre-ville depuis la tragédie de 2013, et qu&#x27;environ le quart des mémoires reçus lors de ses consultations, closes en janvier, faisaient valoir que le contournement contribuerait au rétablissement et au sentiment de sécurité des résidents. Le nombre de résidences situées à moins de 100 mètres de la voie passerait de 258 à 18 avec le nouveau tracé, précise le rapport, qui prévoit aussi la réduction du nombre de passages à niveau de 16 à 4 ainsi qu&#x27;un abaissement de la pente maximale de la ligne.</p><p>Le projet de contournement, réclamé depuis la tragédie ferroviaire de 2013, vise à éloigner le transport de matières dangereuses du centre-ville reconstruit. Le Canadien Pacifique devra respecter 164 engagements pris envers l&#x27;Office pour la construction et l&#x27;exploitation de la nouvelle voie, notamment la surveillance des puits d&#x27;eau potable et des milieux humides environnants. La municipalité de Frontenac et la Coalition des victimes collatérales de Lac-Mégantic, qui représente environ 300 résidents de Nantes, Frontenac et Lac-Mégantic, ont toutes deux contesté la décision, tandis que Nantes a choisi de ne pas aller de l&#x27;avant avec une contestation.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

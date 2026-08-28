@@ -33,6 +33,12 @@
 <div class="terr">New York, États-Unis</div>
 <h1>Collision de LaGuardia : deux contrôleurs aériens auraient quitté leur poste avant l&#x27;accident</h1>
 <div class="chapo">Le Canada Français, Le Journal de Montréal, Radio-Canada, La Presse (La Presse canadienne) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/collision-de-laguardia-deux-controleurs-aeriens-auraient-qui-19dc9c.html"
+  data-titre="Collision de LaGuardia : deux contrôleurs aériens auraient quitté leur poste avant l&#x27;accident" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/collision-de-laguardia-deux-controleurs-aeriens-auraient-qui-19dc9c.html">https://entreelibre.ca/edition/2026-08-28/a/collision-de-laguardia-deux-controleurs-aeriens-auraient-qui-19dc9c.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Grand_Central_Pkwy_td_%282022-01-14%29_041_-_LaGuardia_Airport_Terminal_B_Tower.jpg/1280px-Grand_Central_Pkwy_td_%282022-01-14%29_041_-_LaGuardia_Airport_Terminal_B_Tower.jpg" onerror="this.closest('figure').remove()"><figcaption>La tour de contrôle de l&#x27;aéroport LaGuardia, à New York. Photo : Tdorante10, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canadafrancais.com/nouvelles-nationales/accident-a-laguardia-des-controleurs-aeriens-auraient-quitte-leur-poste-plus-tot/" target="_blank" rel="noopener"><span class="src-nom">Le Canada Français</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Journal de Montréal, Radio-Canada, La Presse (La Presse canadienne), sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Deux contrôleurs aériens auraient quitté leur poste environ une heure avant la fin de leur quart, le soir du 22 mars, peu avant la collision entre un avion d&#x27;Air Canada et un camion de pompiers à l&#x27;aéroport LaGuardia, à New York. L&#x27;accident a coûté la vie à deux pilotes.</p><p>Leur départ prématuré a laissé deux collègues seuls dans la tour de contrôle, sans renfort. L&#x27;information a été rapportée jeudi par le Wall Street Journal ; selon des médias américains, la Federal Aviation Administration a engagé des procédures de congédiement contre les deux employés.</p><p>L&#x27;Association nationale des contrôleurs aériens (NATCA), qui les représente, confirme l&#x27;existence de ces allégations dans une déclaration transmise par courriel, sans les commenter sur le fond. Le syndicat indique en discuter « activement » avec la direction de la FAA et estime que ces échanges constituent le cadre approprié pour traiter la question.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Canada</div>
 <h1>Représailles tarifaires: deux lectures opposées de la bonne stratégie face à Trump</h1>
 <div class="chapo">Le Globe and Mail, Ricochet · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/represailles-tarifaires-deux-lectures-opposees-de-la-bonne-s-8e60df.html"
+  data-titre="Représailles tarifaires: deux lectures opposées de la bonne stratégie face à Trump" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/represailles-tarifaires-deux-lectures-opposees-de-la-bonne-s-8e60df.html">https://entreelibre.ca/edition/2026-08-28/a/represailles-tarifaires-deux-lectures-opposees-de-la-bonne-s-8e60df.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.theglobeandmail.com/business/commentary/article-canadas-furious-i-get-it-but-by-retaliating-we-punish-only-ourselves/" target="_blank" rel="noopener"><span class="src-nom">Le Globe and Mail</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Ricochet, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Faut-il répliquer aux droits de douane américains, ou est-ce une erreur stratégique? La question divise les commentateurs depuis l&#x27;annonce, mardi, des contre-tarifs canadiens sur 27,6 milliards de dollars de produits américains.</p><p>Dans le Globe and Mail, le professeur Fraser Johnson, de la Ivey Business School de l&#x27;Université Western, juge la riposte inefficace: elle ne fait, selon lui, que «hausser les prix à la consommation, punir les entreprises canadiennes et compliquer inutilement les négociations commerciales». Il rappelle qu&#x27;Ottawa avait imposé l&#x27;an dernier trois rondes de contre-tarifs sur plus de 90 milliards de dollars de produits américains avant d&#x27;en retirer la moitié en septembre pour faciliter les pourparlers, et souligne l&#x27;asymétrie du rapport de force: les exportations américaines vers le Canada ne représentent que 16 % du total des exportations de biens des États-Unis, alors que 75 % des exportations canadiennes prennent le chemin inverse. Pour lui, «il n&#x27;y a pas de gagnants dans les guerres commerciales, seulement des perdants», et le Canada devrait plutôt miser sur la patience et une réponse mesurée à long terme.</p><p>À l&#x27;opposé, l&#x27;historien Christo Aivalis, qui écrit dans Ricochet — un média d&#x27;orientation progressiste —, estime que Mark Carney a eu raison de rejeter l&#x27;entente américaine et propose d&#x27;aller plus loin: il réclame une taxe spéciale sur la richesse et les profits excédentaires pour financer un «Canadian Freedom Fund» qui appuierait des sociétés d&#x27;État et des coopératives de travailleurs. S&#x27;inspirant du discours de 1939 de Tommy Douglas sur la mobilisation économique canadienne pendant la Seconde Guerre mondiale, il soutient que la dépendance du Canada au capitalisme de marché est ce qui l&#x27;a rendu vulnérable à la pression américaine depuis l&#x27;ALENA, et conclut: «si nous voulons un ordre post-américain, il doit être post-capitaliste».</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

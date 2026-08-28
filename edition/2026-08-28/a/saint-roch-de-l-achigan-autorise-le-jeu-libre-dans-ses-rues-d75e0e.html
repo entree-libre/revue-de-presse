@@ -32,6 +32,12 @@
 <div class="terr">Saint-Roch-de-l&#x27;Achigan</div>
 <h1>Saint-Roch-de-l&#x27;Achigan autorise le jeu libre dans ses rues résidentielles</h1>
 <div class="chapo">La Revue · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/saint-roch-de-l-achigan-autorise-le-jeu-libre-dans-ses-rues-d75e0e.html"
+  data-titre="Saint-Roch-de-l&#x27;Achigan autorise le jeu libre dans ses rues résidentielles" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/saint-roch-de-l-achigan-autorise-le-jeu-libre-dans-ses-rues-d75e0e.html">https://entreelibre.ca/edition/2026-08-28/a/saint-roch-de-l-achigan-autorise-le-jeu-libre-dans-ses-rues-d75e0e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.larevue.qc.ca/article/actualites/sports-rues-residentielles-sebastien-marcil/" target="_blank" rel="noopener"><span class="src-nom">La Revue</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le conseil municipal de Saint-Roch-de-l&#x27;Achigan a adopté, le 17 août, un règlement autorisant le jeu libre dans les rues résidentielles du village, afin d&#x27;inciter les jeunes à sortir et à faire du sport dans leur quartier. Le maire, Sébastien Marcil, jugeait qu&#x27;il n&#x27;était « pas normal » qu&#x27;un règlement interdise la pratique d&#x27;activités physiques dans la rue, un enjeu que le conseil discutait depuis près d&#x27;un an. Selon lui, l&#x27;ancienne réglementation servait surtout d&#x27;outil aux personnes moins tolérantes envers le sport de rue pour se plaindre ou faire intervenir la police. « Jouer dans la rue, au hockey-balle ou au basketball, était interdit. Ça n&#x27;avait tout simplement pas de sens », a-t-il expliqué, ajoutant que le conseil a choisi de se ranger du côté des familles qui veulent voir leurs jeunes bouger dehors. Le règlement, en vigueur depuis son adoption le 17 août, s&#x27;applique à l&#x27;ensemble des rues résidentielles reconnues comme telles par la municipalité.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>Apple dévoile ses nouvelles puces M6 et M5 Pro pour le Mac mini et le Mac Studio</h1>
 <div class="chapo">L&#x27;Éclaireur Fnac, Lense, Mac4Ever, MacGeneration, Le Journal de Montréal · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/apple-devoile-ses-nouvelles-puces-m6-et-m5-pro-pour-le-mac-m-91a64e.html"
+  data-titre="Apple dévoile ses nouvelles puces M6 et M5 Pro pour le Mac mini et le Mac Studio" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/apple-devoile-ses-nouvelles-puces-m6-et-m5-pro-pour-le-mac-m-91a64e.html">https://entreelibre.ca/edition/2026-08-28/a/apple-devoile-ses-nouvelles-puces-m6-et-m5-pro-pour-le-mac-m-91a64e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://leclaireur.fnac.com/article/cp72000-apple-que-sait-on-des-puces-m6-et-m5-ultra-taillees-pour" target="_blank" rel="noopener"><span class="src-nom">L&#x27;Éclaireur Fnac</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Lense, Mac4Ever, MacGeneration, Le Journal de Montréal, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Apple a présenté sa nouvelle génération de puces M6 et la variante Ultra de la série M5, destinées aux Mac mini et Mac Studio renouvelés. Le Mac Studio passe également aux puces M5 Max et M5 Ultra, avec une puissance de calcul accrue pour les tâches d&#x27;intelligence artificielle traitées directement sur l&#x27;appareil plutôt que dans le nuage.</p><p>La puce M6 embarque un double moteur neuronal à 16 cœurs, présenté par Apple comme un compromis entre puissance et efficacité énergétique pour les usages courants d&#x27;intelligence artificielle sur ordinateur personnel. L&#x27;entreprise cherche ainsi à s&#x27;imposer sur le terrain du calcul local, alors que ses concurrents misent davantage sur des modèles hébergés à distance et facturés à l&#x27;usage.</p><p>Cette annonce survient alors qu&#x27;Apple doit encore finaliser sa nouvelle génération de smartphones pour la rentrée, ce qui laisse penser que l&#x27;entreprise choisit cette fois de mettre d&#x27;abord l&#x27;accent sur la puissance de calcul de ses ordinateurs. Le renouvellement simultané du Mac mini et du Mac Studio marque aussi la fin d&#x27;un cycle de production entamé avec la précédente génération de puces M.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

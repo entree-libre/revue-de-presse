@@ -32,6 +32,12 @@
 <div class="terr">France</div>
 <h1>Pas de pandémie de maladies neurodégénératives en France, nuance une étude</h1>
 <div class="chapo">Pour la Science · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/pas-de-pandemie-de-maladies-neurodegeneratives-en-france-nua-bf0480.html"
+  data-titre="Pas de pandémie de maladies neurodégénératives en France, nuance une étude" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/pas-de-pandemie-de-maladies-neurodegeneratives-en-france-nua-bf0480.html">https://entreelibre.ca/edition/2026-08-28/a/pas-de-pandemie-de-maladies-neurodegeneratives-en-france-nua-bf0480.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.pourlascience.fr/sd/neurosciences/parkinson-sclerose-en-plaques-charcot-il-n-y-a-pas-de-" target="_blank" rel="noopener"><span class="src-nom">Pour la Science</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>De nombreuses publications scientifiques évoquent depuis quelques années une « pandémie » de maladies neurodégénératives comme Parkinson ou la sclérose en plaques, sous-entendant une explosion du nombre de nouveaux cas causée par des facteurs environnementaux. Une étude relayée par Pour la Science vient nuancer ce constat : la hausse réellement observée de l&#x27;incidence en France serait faible, de l&#x27;ordre de 1,8 %, pour une incidence totale d&#x27;environ 2 000 cas par an.</p><p>Plus de la moitié de cette hausse s&#x27;expliquerait simplement par le vieillissement de la population, ces maladies survenant majoritairement à un âge avancé, plutôt que par une progression réelle du risque à âge égal. Les chercheurs insistent sur la distinction entre un nombre absolu de cas en hausse, mécaniquement lié au vieillissement démographique, et un risque individuel de développer la maladie, resté globalement stable.</p><p>Les auteurs appellent à la prudence dans l&#x27;emploi du mot « pandémie », qui suggère une progression bien plus rapide et généralisée que celle réellement mesurée par les données disponibles. Le vieillissement démographique se poursuivant dans la plupart des pays occidentaux, le nombre absolu de cas continuera vraisemblablement d&#x27;augmenter dans les prochaines décennies, indépendamment de tout facteur environnemental nouveau.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

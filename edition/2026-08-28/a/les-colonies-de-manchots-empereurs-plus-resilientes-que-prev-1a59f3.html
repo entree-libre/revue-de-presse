@@ -33,6 +33,12 @@
 <div class="terr">Antarctique</div>
 <h1>Les colonies de manchots empereurs plus résilientes que prévu face aux changements de la banquise</h1>
 <div class="chapo">NASA · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/les-colonies-de-manchots-empereurs-plus-resilientes-que-prev-1a59f3.html"
+  data-titre="Les colonies de manchots empereurs plus résilientes que prévu face aux changements de la banquise" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/les-colonies-de-manchots-empereurs-plus-resilientes-que-prev-1a59f3.html">https://entreelibre.ca/edition/2026-08-28/a/les-colonies-de-manchots-empereurs-plus-resilientes-que-prev-1a59f3.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Halley_Emperor_Penguin_Colony_in_1999.jpg" onerror="this.closest('figure').remove()"><figcaption>Une colonie de manchots empereurs en Antarctique. Photo : Mtpaley, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/" target="_blank" rel="noopener"><span class="src-nom">NASA</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Une nouvelle étude fondée sur des décennies d&#x27;observations par satellites Landsat de la NASA et de l&#x27;agence américaine USGS montre que de nombreuses colonies de manchots empereurs ont persisté pendant des décennies malgré les bouleversements de la banquise en Antarctique. Les manchots empereurs se révéleraient plus flexibles qu&#x27;on ne le pensait quant au choix de leurs sites de reproduction, capables de s&#x27;établir sur de nouvelles zones de glace lorsque celle qu&#x27;ils occupaient devient instable.</p><p>À l&#x27;exception de quelques colonies déjà bien étudiées, les scientifiques savaient jusqu&#x27;ici peu de choses sur la durée de vie de la plupart des colonies, l&#x27;évolution de leurs populations ou leur réaction aux perturbations passées de la glace de mer. Le suivi satellite, qui permet d&#x27;observer ces colonies sans perturber les oiseaux par une présence humaine directe, a rendu possible cette analyse à grande échelle.</p><p>Ce constat offre, selon la NASA, un motif d&#x27;espoir prudent pour l&#x27;avenir de l&#x27;espèce face au recul de la banquise, sans pour autant écarter les risques posés par un réchauffement qui s&#x27;accélérerait au-delà de ce que les manchots peuvent compenser par leur mobilité. Les données Landsat couvrent désormais plusieurs décennies d&#x27;observation continue, un intervalle de temps jugé indispensable pour distinguer les fluctuations naturelles d&#x27;une tendance de fond.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Côte-Nord</div>
 <h1>Entente de principe à la mine Tio de Rio Tinto, sur la Côte-Nord</h1>
 <div class="chapo">La Presse (La Presse canadienne), Les Affaires · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/entente-de-principe-a-la-mine-tio-de-rio-tinto-sur-la-cote-n-ab84ee.html"
+  data-titre="Entente de principe à la mine Tio de Rio Tinto, sur la Côte-Nord" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/entente-de-principe-a-la-mine-tio-de-rio-tinto-sur-la-cote-n-ab84ee.html">https://entreelibre.ca/edition/2026-08-28/a/entente-de-principe-a-la-mine-tio-de-rio-tinto-sur-la-cote-n-ab84ee.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/affaires/entreprises/2026-08-26/rio-tinto-fer-et-titane/entente-de-principe-a-la-mine-tio.php" target="_blank" rel="noopener"><span class="src-nom">La Presse (La Presse canadienne)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Les Affaires, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les 266 travailleurs syndiqués de la mine Tio, exploitée par Rio Tinto Fer et Titane à Havre-Saint-Pierre, ont obtenu une entente de principe de renouvellement de leur convention collective, annoncent les Métallos, affiliés à la FTQ. Le contenu de l&#x27;entente sera présenté aux membres lors d&#x27;une assemblée générale vendredi.</p><p>La mine produit de l&#x27;ilménite, un minerai utilisé notamment dans la fabrication de peintures et de plastiques — le Québec en est le seul producteur en Amérique du Nord. Au début du mois de juin, les syndiqués avaient rejeté l&#x27;offre finale et globale de l&#x27;employeur et s&#x27;étaient donné un mandat de grève générale et illimitée; la convention collective doit prendre fin le 31 août, et la coutume veut que les travailleurs cessent le travail si aucun nouveau contrat n&#x27;est en vigueur à cette date. Les salaires, le régime de retraite, le recours à la sous-traitance et le mode de calcul d&#x27;un «boni de vie chère» indexé à l&#x27;indice des prix à la consommation figuraient parmi les points en litige.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

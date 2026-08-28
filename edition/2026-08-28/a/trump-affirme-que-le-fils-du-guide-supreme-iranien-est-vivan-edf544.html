@@ -32,6 +32,12 @@
 <div class="terr">Iran, États-Unis</div>
 <h1>Trump affirme que le fils du Guide suprême iranien est vivant mais gravement blessé</h1>
 <div class="chapo">Euronews · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/trump-affirme-que-le-fils-du-guide-supreme-iranien-est-vivan-edf544.html"
+  data-titre="Trump affirme que le fils du Guide suprême iranien est vivant mais gravement blessé" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/trump-affirme-que-le-fils-du-guide-supreme-iranien-est-vivan-edf544.html">https://entreelibre.ca/edition/2026-08-28/a/trump-affirme-que-le-fils-du-guide-supreme-iranien-est-vivan-edf544.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://fr.euronews.com/2026/08/27/trump-mojtaba-khamenei-vivant-mais-gravement-blesse-dans-les-frappes-de-fevrier" target="_blank" rel="noopener"><span class="src-nom">Euronews</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le président américain Donald Trump a déclaré penser que Mojtaba Khamenei, fils du Guide suprême iranien, est vivant mais a été grièvement blessé lors des frappes de février qui ont tué son père, selon des propos rapportés par Euronews. « Il a été très grièvement blessé, mais je ne pense pas qu&#x27;il soit mort », a déclaré M. Trump au commentateur conservateur Glenn Beck lors d&#x27;un entretien radiophonique. Ces propos interviennent alors que de nouvelles rumeurs, non confirmées par des sources indépendantes, spéculaient depuis plusieurs jours sur la mort du fils Khamenei.</p><p>Ni Téhéran ni la Maison-Blanche n&#x27;ont fourni de confirmation officielle sur l&#x27;état de santé de Mojtaba Khamenei depuis les frappes de février contre l&#x27;Iran, qui ont marqué le début du conflit ouvert entre les deux pays. L&#x27;incertitude entourant le sort de la famille du Guide suprême alimente depuis plusieurs mois les spéculations sur la succession à la tête du régime iranien, un sujet hautement sensible pour Téhéran. Les autorités iraniennes n&#x27;ont, à ce jour, jamais confirmé publiquement l&#x27;ampleur exacte des pertes subies par la famille du Guide suprême lors des frappes de février.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

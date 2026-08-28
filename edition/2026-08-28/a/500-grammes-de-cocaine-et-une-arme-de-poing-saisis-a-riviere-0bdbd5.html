@@ -33,6 +33,12 @@
 <div class="terr">Bas-Saint-Laurent</div>
 <h1>500 grammes de cocaïne et une arme de poing saisis à Rivière-du-Loup</h1>
 <div class="chapo">Infodimanche · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/500-grammes-de-cocaine-et-une-arme-de-poing-saisis-a-riviere-0bdbd5.html"
+  data-titre="500 grammes de cocaïne et une arme de poing saisis à Rivière-du-Loup" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/500-grammes-de-cocaine-et-une-arme-de-poing-saisis-a-riviere-0bdbd5.html">https://entreelibre.ca/edition/2026-08-28/a/500-grammes-de-cocaine-et-une-arme-de-poing-saisis-a-riviere-0bdbd5.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Voitures_SQ.jpg/1280px-Voitures_SQ.jpg" onerror="this.closest('figure').remove()"><figcaption>Des véhicules de la Sûreté du Québec. Photo : SQ2010, Public domain, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.infodimanche.com/justice-et-faits-divers/500-g-de-cocaine-et-une-arme-de-poing-saisis-a-riviere-du-loup/" target="_blank" rel="noopener"><span class="src-nom">Infodimanche</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Une intervention policière liée à une possible capacité de conduite affaiblie s&#x27;est transformée, mardi soir vers 22 h 30 à Rivière-du-Loup, en une importante saisie de drogue et d&#x27;armes. Les policiers ont arrêté une conductrice dans la trentaine et son passager dans la vingtaine, qui circulaient sur le boulevard Cartier et étaient déjà en possession de drogue et de matériel de consommation au moment de l&#x27;interception.</p><p>La fouille et la perquisition du véhicule ont permis de mettre la main sur une quantité beaucoup plus importante de substances qu&#x27;anticipé : environ 500 grammes de cocaïne, une cinquantaine de comprimés de méthamphétamine et un millier de comprimés de médicaments d&#x27;ordonnance. Les policiers ont également saisi une arme de poing de calibre 9 mm, une arme à impulsion électrique et trois téléphones cellulaires.</p><p>Les deux suspects ont comparu et sont demeurés détenus à la suite de leur comparution. La Sûreté du Québec invite quiconque détient de l&#x27;information sur le trafic de stupéfiants dans la région à communiquer avec elle.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

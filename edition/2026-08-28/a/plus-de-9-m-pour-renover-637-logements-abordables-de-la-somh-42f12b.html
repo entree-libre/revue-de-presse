@@ -33,6 +33,12 @@
 <div class="terr">Capitale-Nationale</div>
 <h1>Plus de 9 M$ pour rénover 637 logements abordables de la SOMHAC à Québec</h1>
 <div class="chapo">Monsaintsauveur · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/plus-de-9-m-pour-renover-637-logements-abordables-de-la-somh-42f12b.html"
+  data-titre="Plus de 9 M$ pour rénover 637 logements abordables de la SOMHAC à Québec" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/plus-de-9-m-pour-renover-637-logements-abordables-de-la-somh-42f12b.html">https://entreelibre.ca/edition/2026-08-28/a/plus-de-9-m-pour-renover-637-logements-abordables-de-la-somh-42f12b.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/383-385%2C_rue_Saint-Sauveur_01.jpg/1280px-383-385%2C_rue_Saint-Sauveur_01.jpg" onerror="this.closest('figure').remove()"><figcaption>Une rue du quartier Saint-Sauveur, à Québec. Photo : Jeangagnon, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://monsaintsauveur.com/2026/plus-de-9-m-pour-renover-les-logements-de-la-somhac/" target="_blank" rel="noopener"><span class="src-nom">Monsaintsauveur</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un financement combiné de 9,8 millions de dollars du gouvernement fédéral et de 3,2 millions de la Société municipale d&#x27;habitation Champlain (SOMHAC) permettra d&#x27;effectuer d&#x27;importants travaux de rénovation touchant 637 logements abordables, situés en bonne partie dans les quartiers centraux de Québec. L&#x27;annonce a été faite dans un bâtiment récemment rénové de la rue Bigaouette, dans Saint-Sauveur, par le député fédéral de Québec-Centre, Jean-Yves Duclos.</p><p>Soulignant le déclenchement des élections provinciales le jour même, M. Duclos a rappelé l&#x27;importance pour lui de maintenir la question du logement au centre des débats. « Le coût du logement, c&#x27;est un stress énorme pour les familles et les personnes seules dans la circonscription, en particulier dans la Basse-Ville », a-t-il fait valoir.</p><p>Les travaux, déjà complétés à 50 %, touchent 19 des 21 bâtiments du parc immobilier de la SOMHAC, qui compte au total 1034 logements abordables. Les investissements permettront de bonifier la qualité de vie des résidents tout en gardant le loyer abordable, explique Dany Caron, directeur général de la SOMHAC et de l&#x27;Office municipal d&#x27;habitation.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

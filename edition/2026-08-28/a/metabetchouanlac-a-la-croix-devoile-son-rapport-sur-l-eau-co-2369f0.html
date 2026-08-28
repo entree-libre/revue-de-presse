@@ -32,6 +32,12 @@
 <div class="terr">Saguenay–Lac-Saint-Jean</div>
 <h1>Métabetchouan–Lac-à-la-Croix dévoile son rapport sur l&#x27;eau contaminée</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/metabetchouanlac-a-la-croix-devoile-son-rapport-sur-l-eau-co-2369f0.html"
+  data-titre="Métabetchouan–Lac-à-la-Croix dévoile son rapport sur l&#x27;eau contaminée" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/metabetchouanlac-a-la-croix-devoile-son-rapport-sur-l-eau-co-2369f0.html">https://entreelibre.ca/edition/2026-08-28/a/metabetchouanlac-a-la-croix-devoile-son-rapport-sur-l-eau-co-2369f0.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278098/hydrologie-expert-contamination-source" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Ville de Métabetchouan–Lac-à-la-Croix a rendu public cette semaine le rapport hydrogéologique préparé par la firme AquaTer-Eau inc. sur son problème d&#x27;eau potable, qui touche la municipalité par intermittence depuis près de deux ans. Le rapport attribue la contamination à un taux de nitrates trop élevé, provenant principalement de l&#x27;épandage d&#x27;engrais azotés par les activités agricoles environnantes, des nitrates qui s&#x27;infiltrent facilement dans le sol jusqu&#x27;à la nappe phréatique. Les citoyens les plus vulnérables demeurent visés par un avis de non-consommation.</p><p>Le maire André Fortin dit privilégier la recherche d&#x27;une nouvelle source d&#x27;eau plutôt qu&#x27;une solution temporaire, un chantier de forage dont les experts ont déjà identifié trois emplacements potentiels et qui exigera, selon lui, deux ou trois ans avant d&#x27;aboutir. Un producteur s&#x27;est déjà montré disposé à autoriser des forages sur son terrain, tandis que des discussions se poursuivent avec les deux autres propriétaires visés. « Ça coûte des milliers de dollars (...) c&#x27;est pour ça que le conseil municipal y va tranquillement en espérant avoir des subventions », explique le maire, qui prévoit une décision du conseil à l&#x27;automne, en vue du prochain budget.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>Le commerce illégal d&#x27;espèces sauvages prospère sur les réseaux sociaux, alertent des chercheurs</h1>
 <div class="chapo">Geo · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-commerce-illegal-d-especes-sauvages-prospere-sur-les-rese-40dac1.html"
+  data-titre="Le commerce illégal d&#x27;espèces sauvages prospère sur les réseaux sociaux, alertent des chercheurs" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-commerce-illegal-d-especes-sauvages-prospere-sur-les-rese-40dac1.html">https://entreelibre.ca/edition/2026-08-28/a/le-commerce-illegal-d-especes-sauvages-prospere-sur-les-rese-40dac1.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.geo.fr/animaux/des-chercheurs-alertent-sur-lessor-du-trafic-despeces-sauvages-sur-les-re" target="_blank" rel="noopener"><span class="src-nom">Geo</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le commerce illégal d&#x27;espèces sauvages en ligne se propage sur de nombreuses plateformes, y compris les réseaux sociaux les plus populaires, et représente une menace croissante et évolutive pour la biodiversité, a déclaré le professeur Enrico Di Minin, cité par Geo. « Ce qui est particulièrement préoccupant, c&#x27;est que nombre des espèces faisant l&#x27;objet d&#x27;un commerce illégal en ligne sont soit fortement menacées d&#x27;extinction, soit n&#x27;avaient pas été considérées auparavant comme menacées », a-t-il poursuivi.</p><p>Les chercheurs appellent les plateformes à renforcer leur modération de ce type de contenu, qu&#x27;elles peinent pour l&#x27;instant à détecter de façon systématique en raison du volume d&#x27;annonces publiées chaque jour. Le passage du commerce d&#x27;espèces sauvages vers des canaux numériques complique aussi le travail des autorités douanières et de conservation habituées à surveiller des marchés physiques.</p><p>L&#x27;étude ne précise pas quelles espèces en particulier dominent ce commerce, mais souligne que la rapidité d&#x27;évolution des plateformes et de leurs règles de modération dépasse souvent la capacité des chercheurs à en documenter l&#x27;ampleur réelle. Les auteurs appellent à une collaboration plus étroite entre plateformes et organismes de conservation pour repérer plus rapidement les annonces suspectes.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

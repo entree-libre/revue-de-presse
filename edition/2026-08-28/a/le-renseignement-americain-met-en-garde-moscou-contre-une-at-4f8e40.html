@@ -33,6 +33,12 @@
 <div class="terr">Russie, États-Unis, OTAN</div>
 <h1>Le renseignement américain met en garde Moscou contre une attaque de l&#x27;OTAN, le Kremlin dément</h1>
 <div class="chapo">TV5Monde (AFP), Enderi, Le Devoir, Le Journal de Montréal, RFI, BFMTV, Le Figaro, Franceinfo, Libération, Courrier international, CNEWS · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-renseignement-americain-met-en-garde-moscou-contre-une-at-4f8e40.html"
+  data-titre="Le renseignement américain met en garde Moscou contre une attaque de l&#x27;OTAN, le Kremlin dément" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-renseignement-americain-met-en-garde-moscou-contre-une-at-4f8e40.html">https://entreelibre.ca/edition/2026-08-28/a/le-renseignement-americain-met-en-garde-moscou-contre-une-at-4f8e40.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Moscow_05-2012_Kremlin_22.jpg/1280px-Moscow_05-2012_Kremlin_22.jpg" onerror="this.closest('figure').remove()"><figcaption>Le Kremlin, à Moscou. Photo : A.Savin, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://information.tv5monde.com/international/le-kremlin-rejette-les-recits-alarmistes-sur-le-risque-dune-attaque-russe-contre-lotan-2835161" target="_blank" rel="noopener"><span class="src-nom">TV5Monde (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Enderi, Le Devoir, Le Journal de Montréal, RFI, BFMTV, Le Figaro, Franceinfo, Libération, Courrier international, CNEWS, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le directeur de la CIA, John Ratcliffe, s&#x27;est rendu à Moscou mardi pour mettre en garde le Kremlin contre toute attaque visant un pays membre de l&#x27;OTAN. Des médias américains, dont CBS, ont rapporté ce déplacement inhabituel jeudi, une information reprise par l&#x27;AFP. Il survient alors que le renseignement américain évalue que le gouvernement russe pourrait chercher à mettre l&#x27;Alliance atlantique à l&#x27;épreuve, dans un contexte d&#x27;usure militaire prolongée en Ukraine.</p><p>Selon des estimations occidentales citées par le site Enderi, la Russie aurait subi environ 1,4 million de pertes militaires, tuées, blessées ou disparues, depuis le début de son offensive en février 2022. Ces pertes s&#x27;élèveraient à 77 000 pour la seule année 2026. Kyiv affirme malgré tout que Moscou prévoit de déployer 300 000 soldats supplémentaires en première ligne dans les mois à venir. Beth Sanner, ex-adjointe à la direction du renseignement national américain, a résumé le message adressé au Kremlin par l&#x27;envoyé de Washington : « Nous savons ce que vous envisagez de faire, et vous feriez mieux de vous abstenir. »</p><p>Interrogé jeudi sur ce voyage, le porte-parole du Kremlin Dmitri Peskov a qualifié ces informations d&#x27;« histoires alarmistes » n&#x27;ayant, selon lui, « rien à voir avec la réalité » ni avec les intentions de la Russie. Il a accusé à l&#x27;inverse les pays européens de faire preuve d&#x27;« agressivité » envers Moscou. Donald Trump a pour sa part minimisé la portée du déplacement, assurant que Vladimir Poutine « n&#x27;allait pas attaquer un territoire de l&#x27;OTAN ». Une haute responsable européenne a affirmé jeudi que les services de renseignement du continent ne disposaient d&#x27;aucun élément indiquant que la Russie préparait une telle attaque, tout en reconnaissant un risque d&#x27;opérations à moindre coût contre l&#x27;Alliance, telles que des cyberattaques ou des actions hybrides visant les pays baltes.</p><p>Mise à jour, vendredi — Donald Trump a minimisé jeudi la menace : « J&#x27;ai eu de bonnes discussions avec lui », a-t-il dit de Vladimir Poutine devant la presse à la Maison-Blanche, assurant que le président russe « ne va pas attaquer un territoire de l&#x27;OTAN ». Selon le Washington Post, il a tenu des propos semblables au média Axios, quarante-huit heures après le déplacement de John Ratcliffe à Moscou. Le Kremlin a de son côté rejeté ce qu&#x27;il qualifie de récits « alarmistes » sur le risque d&#x27;une attaque russe contre l&#x27;Alliance.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

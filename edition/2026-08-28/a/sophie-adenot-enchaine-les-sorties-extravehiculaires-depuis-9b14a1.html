@@ -33,6 +33,12 @@
 <div class="terr">International</div>
 <h1>Sophie Adenot enchaîne les sorties extravéhiculaires depuis la Station spatiale internationale</h1>
 <div class="chapo">NASA, ESA France, Ciel et Espace, franceinfo, Sciences et Avenir · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/sophie-adenot-enchaine-les-sorties-extravehiculaires-depuis-9b14a1.html"
+  data-titre="Sophie Adenot enchaîne les sorties extravéhiculaires depuis la Station spatiale internationale" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/sophie-adenot-enchaine-les-sorties-extravehiculaires-depuis-9b14a1.html">https://entreelibre.ca/edition/2026-08-28/a/sophie-adenot-enchaine-les-sorties-extravehiculaires-depuis-9b14a1.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Iss074e0403089_%28March_18%2C_2026%29_--_NASA_astronaut_Jessica_Meir_installs_a_roll-out_solar_array_modification_kit_to_the_exterior_of_the_International_Space_Station_during_the_278th_spacewalk_in_support_of_space_station.jpg/1280px-thumbnail.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;astronaute Jessica Meir lors d&#x27;une sortie extravéhiculaire à la Station spatiale internationale. Photo : NASA Johnson Space Center, Public domain, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/" target="_blank" rel="noopener"><span class="src-nom">NASA</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par ESA France, Ciel et Espace, franceinfo, Sciences et Avenir, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;astronaute française Sophie Adenot a effectué le 25 août sa deuxième sortie extravéhiculaire depuis la Station spatiale internationale, aux côtés de l&#x27;astronaute de la NASA Jessica Meir. Les deux femmes ont remplacé un rétroréflecteur sur le module Harmony, un équipement qui sert de repère de navigation aux vaisseaux en approche pour l&#x27;amarrage.</p><p>La NASA a profité de l&#x27;opération pour faire exécuter plusieurs tâches d&#x27;entretien courant de la station, diffusées en direct. L&#x27;agence a précisé qu&#x27;il s&#x27;agissait de la 99e sortie américaine organisée depuis la station.</p><p>Une autre sortie, la troisième d&#x27;Adenot dans cette mission, était annoncée pour les jours suivants selon franceinfo, cette fois en compagnie de l&#x27;astronaute Anil Menon. Ciel et Espace et Sciences et Avenir ont souligné le rythme inhabituellement soutenu de sorties pour une même astronaute sur une mission de cette durée. L&#x27;Agence spatiale européenne a salué la prestation de sa représentante, qui multiplie les interventions hors de la station cet été.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

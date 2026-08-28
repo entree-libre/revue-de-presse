@@ -32,6 +32,12 @@
 <div class="terr">Taschereau (Québec)</div>
 <h1>Rebondissement dans Taschereau : le PQ perd puis remplace son candidat en deux jours</h1>
 <div class="chapo">Journal Haute-Côte-Nord, CBC, Le Soleil, Radio-Canada, Le Canada Français, Le Devoir, Journal Métro · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/elections-le-parti-quebecois-perd-puis-remplace-son-candidat-e5b6ff.html"
+  data-titre="Rebondissement dans Taschereau : le PQ perd puis remplace son candidat en deux jours" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/elections-le-parti-quebecois-perd-puis-remplace-son-candidat-e5b6ff.html">https://entreelibre.ca/edition/2026-08-28/a/elections-le-parti-quebecois-perd-puis-remplace-son-candidat-e5b6ff.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledevoir.com/politique/quebec/1004510/commissaire-ethique-lance-enquete-vincent-marissal" target="_blank" rel="noopener"><span class="src-nom">Journal Haute-Côte-Nord</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par CBC, Le Soleil, Radio-Canada, Le Canada Français, Le Devoir, Journal Métro, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La commissaire à l&#x27;éthique et à la déontologie de l&#x27;Assemblée nationale a confirmé jeudi avoir ouvert une enquête visant l&#x27;ex-député solidaire Vincent Marissal, à peine 48 heures après que le Parti québécois eut annoncé sa candidature dans la circonscription de Taschereau, au centre-ville de Québec. Le PQ a rapidement fait marche arrière : dès mercredi après-midi, le chef Paul St-Pierre Plamondon a rencontré le conseil local du parti dans Taschereau pour justifier le retrait de M. Marissal, invoquant une situation qui « ne résiste pas à l&#x27;examen » du code d&#x27;éthique des élus, lequel interdit strictement de tirer un profit ou un avantage à même les allocations de l&#x27;Assemblée nationale. Ni le PQ ni M. Marissal n&#x27;ont détaillé publiquement la nature exacte des allocations en cause.</p><p>Le PQ n&#x27;est pas resté longtemps sans candidat dans cette circonscription : dès jeudi, Radio-Canada a appris que Christian Savard, ex-directeur général de l&#x27;organisme urbaniste Vivre en Ville, portera désormais les couleurs péquistes dans Taschereau. Journal Métro a également suivi le dossier, notant que le retrait de M. Marissal, ex-député solidaire de Rosemont passé au PQ, représentait un revers embarrassant si tôt dans la course. L&#x27;épisode, qui a marqué les deux premiers jours de la campagne du parti, s&#x27;est ajouté à d&#x27;autres difficultés dans le camp péquiste : le chef St-Pierre Plamondon, dont la formation mène pourtant dans les sondages, s&#x27;est retrouvé être la cible privilégiée de ses adversaires lors du lancement officiel de la campagne. Plusieurs observateurs ont souligné que le PQ a par ailleurs opéré un virage important sur son calendrier référendaire depuis les dernières élections générales, ce qui complique la lecture de sa stratégie de campagne pour ses adversaires comme pour ses propres candidats.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">France</div>
 <h1>Le recul de l&#x27;État social a-t-il nourri la montée des égoïsmes en France ?</h1>
 <div class="chapo">Nonfiction.fr · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-recul-de-l-etat-social-a-t-il-nourri-la-montee-des-egoism-e3cb54.html"
+  data-titre="Le recul de l&#x27;État social a-t-il nourri la montée des égoïsmes en France ?" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-recul-de-l-etat-social-a-t-il-nourri-la-montee-des-egoism-e3cb54.html">https://entreelibre.ca/edition/2026-08-28/a/le-recul-de-l-etat-social-a-t-il-nourri-la-montee-des-egoism-e3cb54.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.nonfiction.fr/article-12805-le-recul-de-letat-social-et-la-montee-des-egoismes.htm" target="_blank" rel="noopener"><span class="src-nom">Nonfiction.fr</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le sociologue Camille Peugny identifie les classes moyennes supérieures, acquises aux valeurs de mérite, de responsabilité individuelle et de libre concurrence, comme principal vecteur de diffusion des valeurs néolibérales au sein de la société française, selon un compte rendu publié par Nonfiction.fr. L&#x27;auteur s&#x27;inscrit dans la continuité des travaux du sociologue Robert Castel sur la dissolution des protections collectives.</p><p>Le livre prolonge et discute par endroits les analyses de Vincent Tiberj, dont l&#x27;ouvrage La Droitisation française, mythe et réalités avait nuancé l&#x27;idée d&#x27;un basculement généralisé des Français vers la droite, en démontrant notamment une tolérance croissante à l&#x27;égard des couples homosexuels. Nonfiction.fr situe cette lecture dans un débat plus large sur l&#x27;évolution des valeurs collectives en France depuis le recul progressif des protections sociales universelles. L&#x27;ouvrage s&#x27;appuie sur des données de long terme pour retracer cette évolution plutôt que sur une seule enquête ponctuelle.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -33,6 +33,12 @@
 <div class="terr">Québec</div>
 <h1>Québec lance une consultation sur un plan d&#x27;urbanisme pour la colline Parlementaire</h1>
 <div class="chapo">Ville de Québec · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/quebec-lance-une-consultation-sur-un-plan-d-urbanisme-pour-l-1ec615.html"
+  data-titre="Québec lance une consultation sur un plan d&#x27;urbanisme pour la colline Parlementaire" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/quebec-lance-une-consultation-sur-un-plan-d-urbanisme-pour-l-1ec615.html">https://entreelibre.ca/edition/2026-08-28/a/quebec-lance-une-consultation-sur-un-plan-d-urbanisme-pour-l-1ec615.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_Canada.jpg/1280px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_Canada.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;Assemblée nationale du Québec, sur la colline Parlementaire. Photo : Wilfredor, CC0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ville.quebec.qc.ca/apropos/espace-presse/actualites/actualite.aspx?IdActualite=3224" target="_blank" rel="noopener"><span class="src-nom">Ville de Québec</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Plusieurs décisions et consultations municipales de la semaine ressortent des avis publics de la Ville de Québec. Le conseil d&#x27;agglomération y a promulgué quatre règlements d&#x27;emprunt : pour des travaux de gestion des milieux humides et hydriques, pour l&#x27;achat de véhicules et d&#x27;équipements destinés au Service de police, pour l&#x27;achat de véhicules et d&#x27;équipements destinés au Service de protection contre l&#x27;incendie, et pour la réfection d&#x27;infrastructures souterraines. Le conseil municipal a par ailleurs lancé une consultation publique sur un projet de plan particulier d&#x27;urbanisme (PPU) pour la colline Parlementaire, un exercice qui entraînera des ajustements de concordance dans les règlements d&#x27;harmonisation et d&#x27;arrondissement pour aligner leur zonage sur ce nouveau plan. Des modifications de zonage sont en parallèle entrées en vigueur dans les arrondissements de Beauport, de Sainte-Foy–Sillery–Cap-Rouge et des Rivières. La Ville tient enfin deux assemblées publiques sur des projets immobiliers dérogeant à la réglementation : l&#x27;un aux 3350 et 3390, rue de la Pérade, dans le quartier de la Pointe-de-Sainte-Foy, l&#x27;autre au 0, rue de la Pointe-aux-Lièvres, dans le quartier Saint-Roch.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

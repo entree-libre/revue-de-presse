@@ -32,6 +32,12 @@
 <div class="terr">Saint-Amable</div>
 <h1>La Commission municipale épingle la gestion des cartes de crédit à Saint-Amable</h1>
 <div class="chapo">Gouvernement du Québec · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-commission-municipale-epingle-la-gestion-des-cartes-de-cr-10f0c4.html"
+  data-titre="La Commission municipale épingle la gestion des cartes de crédit à Saint-Amable" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-commission-municipale-epingle-la-gestion-des-cartes-de-cr-10f0c4.html">https://entreelibre.ca/edition/2026-08-28/a/la-commission-municipale-epingle-la-gestion-des-cartes-de-cr-10f0c4.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.quebec.ca/nouvelles/actualites/details/la-commission-municipale-publie-son-rapport-daudit-de-performance-sur-lutilisation-de-cartes-de-credit-et-le-remboursement-de-depenses-aux-membres-du-personnel-a-la-ville-de-saint-amable-72331" target="_blank" rel="noopener"><span class="src-nom">Gouvernement du Québec</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Commission municipale du Québec a publié un rapport d&#x27;audit de performance concluant que les mesures mises en place par la Ville de Saint-Amable pour encadrer l&#x27;attribution et l&#x27;utilisation des cartes de crédit municipales, ainsi que le remboursement des dépenses du personnel, sont jugées insuffisantes. Le rapport, déposé jeudi, fait partie du mandat de surveillance que la Commission exerce périodiquement sur la gestion administrative des municipalités québécoises, indépendamment de tout signalement préalable de mauvaise conduite.</p><p>L&#x27;exercice s&#x27;inscrit dans les vérifications régulières que mène l&#x27;organisme provincial pour s&#x27;assurer de la bonne gouvernance financière des villes et municipalités du Québec, particulièrement dans les plus petites administrations qui disposent de ressources de contrôle interne plus limitées que les grandes villes. La Ville de Saint-Amable, en Montérégie, n&#x27;a pas commenté publiquement les conclusions du rapport au moment de sa publication, et la Commission n&#x27;a pas précisé si un suivi formel serait exigé de l&#x27;administration municipale dans les mois à venir.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

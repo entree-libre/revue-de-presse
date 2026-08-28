@@ -33,6 +33,12 @@
 <div class="terr">États-Unis</div>
 <h1>La mort de Dolly Parton rassemble le milieu culturel québécois</h1>
 <div class="chapo">Le Journal de Montréal, Radio-Canada, La Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-mort-de-dolly-parton-rassemble-le-milieu-culturel-quebeco-036cb5.html"
+  data-titre="La mort de Dolly Parton rassemble le milieu culturel québécois" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-mort-de-dolly-parton-rassemble-le-milieu-culturel-quebeco-036cb5.html">https://entreelibre.ca/edition/2026-08-28/a/la-mort-de-dolly-parton-rassemble-le-milieu-culturel-quebeco-036cb5.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Dolly_Parton_in_2022.jpg" onerror="this.closest('figure').remove()"><figcaption>La chanteuse et actrice Dolly Parton. Photo : Peabody Awards, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/arts/musique/2026-08-25/dolly-parton-1946-2026/le-milieu-culturel-quebecois-" target="_blank" rel="noopener"><span class="src-nom">Le Journal de Montréal</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Radio-Canada, La Presse, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La mort de Dolly Parton, chanteuse et actrice devenue une icône planétaire de la musique country, a suscité une vague d&#x27;hommages au Québec, rapporte La Presse. Née en 1946 dans une cabane d&#x27;une pièce des Appalaches, quatrième d&#x27;une fratrie de douze enfants, elle avait bâti son empire artistique à la seule force de sa plume, transformant une enfance marquée par la pauvreté en un répertoire capable de traverser les genres et les générations.</p><p>Au Québec, l&#x27;auteure-compositrice-interprète Mara Tremblay a tenu à la remercier dans une publication éphémère sur Instagram. Maxime Landry et Annie Blanchard, qui avaient créé le spectacle Jolene and the Gambler autour des succès de Dolly Parton et de Kenny Rogers, ont eux aussi exprimé leur tristesse. Parmi ses chansons les plus marquantes figure Jolene, écrite et enregistrée en quelques minutes le même jour que I Will Always Love You, inspirée d&#x27;une employée de banque dont Dolly Parton soupçonnait alors le mari de s&#x27;être épris.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

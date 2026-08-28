@@ -33,6 +33,12 @@
 <div class="terr">Saskatchewan</div>
 <h1>Le Canada pourrait-il couper la potasse aux États-Unis ? « Un jeu de poule mouillée » à haut risque</h1>
 <div class="chapo">National Post, Canada&#x27;s National Observer · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-canada-pourrait-il-couper-la-potasse-aux-etats-unis-un-je-37ba7e.html"
+  data-titre="Le Canada pourrait-il couper la potasse aux États-Unis ? « Un jeu de poule mouillée » à haut risque" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-canada-pourrait-il-couper-la-potasse-aux-etats-unis-un-je-37ba7e.html">https://entreelibre.ca/edition/2026-08-28/a/le-canada-pourrait-il-couper-la-potasse-aux-etats-unis-un-je-37ba7e.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Saskatchewan_potash_mines_%288032904261%29.jpg" onerror="this.closest('figure').remove()"><figcaption>Installations minières de potasse en Saskatchewan. Photo : Tony Hisgett, CC BY 2.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://nationalpost.com/news/canada/could-canada-cut-off-potash-trade-war" target="_blank" rel="noopener"><span class="src-nom">National Post</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Canada&#x27;s National Observer, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Alors que la guerre commerciale entre le Canada et les États-Unis se poursuit, certains observateurs évoquent la possibilité que le Canada, qui domine largement le marché mondial de la potasse, utilise cet engrais essentiel comme levier de négociation contre Washington. Le Canada exporte l&#x27;immense majorité de sa production de potasse, extraite principalement en Saskatchewan, vers les fermes américaines qui en dépendent pour leurs cultures de maïs, de soya et de blé. Selon l&#x27;analyste Vikram Maharaj, cité par le National Post, l&#x27;imposition de tarifs à l&#x27;exportation ou une réduction des livraisons de potasse « pourrait affamer le secteur agricole américain »; si le Canada allait jusqu&#x27;à couper complètement l&#x27;approvisionnement, cela « provoquerait une crise » aux États-Unis qui ferait grimper encore davantage le coût de la nourriture pour les consommateurs américains.</p><p>L&#x27;idée demeure toutefois hypothétique et n&#x27;a pas été formellement proposée par le gouvernement fédéral canadien, qui n&#x27;a pas commenté publiquement la possibilité d&#x27;utiliser la potasse comme arme commerciale dans le conflit tarifaire en cours. Des analystes cités par les deux médias qualifient une telle option de « jeu de poule mouillée » aux conséquences potentiellement lourdes pour les deux pays, dont l&#x27;agriculture et l&#x27;industrie alimentaire sont étroitement imbriquées de part et d&#x27;autre de la frontière. Canada&#x27;s National Observer note que la Saskatchewan, elle-même engagée dans un bras de fer distinct avec Washington sur d&#x27;autres dossiers commerciaux, pourrait se retrouver en première ligne advenant une telle escalade, ses recettes provinciales dépendant largement des redevances minières liées à la potasse. Le National Post rappelle que le Canada produit environ le tiers de la potasse mondiale, une position dominante qui confère à Ottawa un levier théorique important, mais dont l&#x27;utilisation réelle impliquerait des risques diplomatiques et économiques considérables pour les relations bilatérales à plus long terme. Aucun parti fédéral n&#x27;a pour l&#x27;instant proposé d&#x27;inscrire cette option à son programme, la plupart des élus interrogés préférant miser sur la négociation plutôt que sur une nouvelle escalade des mesures de rétorsion.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

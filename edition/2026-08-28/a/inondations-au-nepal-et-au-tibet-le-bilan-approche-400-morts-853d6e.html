@@ -33,6 +33,12 @@
 <div class="terr">Népal, Chine (Tibet)</div>
 <h1>Inondations au Népal et au Tibet : le bilan approche 400 morts et 1 400 disparus</h1>
 <div class="chapo">Euronews, Franceinfo, Le Devoir, Radio-Canada, France 24, RFI, TV5Monde, Le Parisien · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/inondations-au-nepal-et-au-tibet-le-bilan-approche-400-morts-853d6e.html"
+  data-titre="Inondations au Népal et au Tibet : le bilan approche 400 morts et 1 400 disparus" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/inondations-au-nepal-et-au-tibet-le-bilan-approche-400-morts-853d6e.html">https://entreelibre.ca/edition/2026-08-28/a/inondations-au-nepal-et-au-tibet-le-bilan-approche-400-morts-853d6e.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kali_Gandaki_Valley%2C_Mustang%2C_Nepal%2C_Himalaya.jpg/1280px-Kali_Gandaki_Valley%2C_Mustang%2C_Nepal%2C_Himalaya.jpg" onerror="this.closest('figure').remove()"><figcaption>Une vallée de l&#x27;Himalaya, au Népal. Photo : Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://fr.euronews.com/2026/08/27/pres-de-400-morts-1-400-disparus-apres-les-inondations-au-nepal-tibet" target="_blank" rel="noopener"><span class="src-nom">Euronews</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Franceinfo, Le Devoir, Radio-Canada, France 24, RFI, TV5Monde, Le Parisien, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le bilan des inondations et glissements de terrain qui ont dévasté des communautés le long de la frontière entre le Népal et le Tibet approche jeudi les 400 morts et 1 400 disparus, selon les autorités népalaises et chinoises citées par Euronews. Les intempéries, provoquées par une vague de crue soudaine descendue des hauteurs de l&#x27;Himalaya, ont détruit des villages entiers et coupé plusieurs axes routiers dans une région montagneuse difficile d&#x27;accès. Cette situation complique considérablement les opérations de secours et de recherche des personnes disparues.</p><p>Les autorités népalaises ont mis en place une police touristique pour tenter de localiser les nombreuses personnes portées disparues, dont une part importante de voyageurs étrangers surpris par la catastrophe alors qu&#x27;ils se trouvaient en randonnée dans la région. Plusieurs ambassades étrangères, dont celle de l&#x27;Ukraine, ont ouvert des lignes d&#x27;urgence pour leurs ressortissants respectifs. Le bilan pourrait encore s&#x27;alourdir dans les prochains jours, à mesure que les équipes de secours parviennent à accéder aux zones les plus reculées et les plus durement touchées par les glissements de terrain successifs.</p><p>Mise à jour, vendredi — Le bilan dépasse désormais 470 morts et près de 1 400 disparus, selon les autorités népalaises et chinoises citées par l&#x27;AFP et Reuters. Les secours ont dû suspendre vendredi leurs opérations au cœur de la zone sinistrée du Tibet : un lac géant formé il y a quarante-huit heures par l&#x27;effondrement d&#x27;un glacier a commencé à déborder, et de fortes précipitations sont attendues. Pékin a averti dans la nuit d&#x27;un « risque élevé » de rupture de cette retenue d&#x27;eau, qui menace les vallées des deux côtés de la frontière.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

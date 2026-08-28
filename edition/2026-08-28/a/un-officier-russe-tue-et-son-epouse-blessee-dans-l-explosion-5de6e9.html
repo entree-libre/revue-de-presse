@@ -32,6 +32,12 @@
 <div class="terr">Russie</div>
 <h1>Un officier russe tué et son épouse blessée dans l&#x27;explosion d&#x27;une voiture à Saint-Pétersbourg</h1>
 <div class="chapo">Le Parisien, Franceinfo, Le Figaro, La Libre, Al Jazeera, The Moscow Times, Sud Ouest · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-officier-russe-tue-et-son-epouse-blessee-dans-l-explosion-5de6e9.html"
+  data-titre="Un officier russe tué et son épouse blessée dans l&#x27;explosion d&#x27;une voiture à Saint-Pétersbourg" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-officier-russe-tue-et-son-epouse-blessee-dans-l-explosion-5de6e9.html">https://entreelibre.ca/edition/2026-08-28/a/un-officier-russe-tue-et-son-epouse-blessee-dans-l-explosion-5de6e9.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.leparisien.fr/international/russie-un-officier-russe-tue-et-son-epouse-blessee-dans-lexplosion-dune-voiture-a-saint-petersbourg-27-08-2026-ZIKLJXWKJNEELELKGADQYRFRRM.php" target="_blank" rel="noopener"><span class="src-nom">Le Parisien</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Franceinfo, Le Figaro, La Libre, Al Jazeera, The Moscow Times, Sud Ouest, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le comité d&#x27;enquête local de Saint-Pétersbourg a annoncé jeudi l&#x27;ouverture d&#x27;une procédure pénale après l&#x27;explosion d&#x27;un véhicule dans le district de Pouchkine, qui a fait un mort et une blessée. Les autorités russes n&#x27;ont pas communiqué l&#x27;identité des victimes dans leur communiqué officiel, se limitant à évoquer un incendie de véhicule aux conséquences graves. Des médias russes, dont Fontanka, avancent toutefois qu&#x27;il s&#x27;agirait d&#x27;un officier de l&#x27;armée russe, tué sur le coup, et de son épouse, hospitalisée dans un état jugé stable par les services d&#x27;urgence.</p><p>La thèse d&#x27;un attentat ciblé n&#x27;a pas été confirmée officiellement à ce stade par les enquêteurs russes, qui privilégient pour l&#x27;instant la prudence dans leurs communications publiques. Ce type d&#x27;incident, visant des militaires ou des responsables liés à l&#x27;effort de guerre en Ukraine, s&#x27;est multiplié en Russie depuis le début de l&#x27;invasion, sans qu&#x27;aucun groupe n&#x27;en revendique systématiquement la responsabilité. Plusieurs cas similaires, impliquant des voitures piégées visant des officiers ou des propagandistes proches de l&#x27;armée, avaient déjà été recensés en Russie au cours des dernières années de guerre. L&#x27;enquête doit désormais déterminer l&#x27;origine exacte de l&#x27;explosion et établir s&#x27;il s&#x27;agit bien d&#x27;un acte volontaire.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">États-Unis</div>
 <h1>Nvidia envisagerait de racheter Hugging Face pour près de 13 milliards de dollars</h1>
 <div class="chapo">Les news de Korben, ZDNet, Feed Clubic, MacGeneration, Mac4Ever · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/nvidia-envisagerait-de-racheter-hugging-face-pour-pres-de-13-dd65e5.html"
+  data-titre="Nvidia envisagerait de racheter Hugging Face pour près de 13 milliards de dollars" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/nvidia-envisagerait-de-racheter-hugging-face-pour-pres-de-13-dd65e5.html">https://entreelibre.ca/edition/2026-08-28/a/nvidia-envisagerait-de-racheter-hugging-face-pour-pres-de-13-dd65e5.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://korben.info/nvidia-soffrirait-hugging-face-pour-129-milliards.html" target="_blank" rel="noopener"><span class="src-nom">Les news de Korben</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par ZDNet, Feed Clubic, MacGeneration, Mac4Ever, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Selon plusieurs médias américains cités par Korben, Nvidia serait sur le point d&#x27;offrir 12,9 milliards de dollars pour racheter Hugging Face, la plateforme communautaire où les développeurs du monde entier rangent, échangent et récupèrent des modèles d&#x27;intelligence artificielle libres. Ni Nvidia ni Hugging Face n&#x27;ont confirmé la transaction, qui reste au stade de la rumeur relayée par plusieurs médias américains bien introduits auprès des deux entreprises.</p><p>En s&#x27;emparant de ce dépôt central de modèles ouverts, Nvidia se positionnerait au cœur de l&#x27;écosystème de l&#x27;IA ouverte, alors que l&#x27;entreprise domine déjà le marché des puces qui font tourner ces mêmes modèles. Korben résume l&#x27;enjeu en notant que Nvidia n&#x27;empocherait pas seulement une bibliothèque de modèles, mais aussi le carrefour par lequel transite une bonne partie de l&#x27;IA ouverte mondiale.</p><p>Plusieurs observateurs cités par ZDNet et Clubic s&#x27;inquiètent des conséquences d&#x27;une telle concentration sur l&#x27;indépendance de la plateforme, jusqu&#x27;ici perçue comme un espace neutre par la communauté de recherche en intelligence artificielle. Aucune des deux entreprises n&#x27;a indiqué de calendrier pour une éventuelle annonce officielle.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

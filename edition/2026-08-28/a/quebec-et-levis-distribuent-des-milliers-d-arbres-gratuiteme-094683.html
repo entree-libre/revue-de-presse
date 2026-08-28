@@ -32,6 +32,12 @@
 <div class="terr">Québec, Lévis</div>
 <h1>Québec et Lévis distribuent des milliers d&#x27;arbres gratuitement cet automne</h1>
 <div class="chapo">Ville de Québec, Ici L&#x27;info, Ville de Lévis · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/quebec-et-levis-distribuent-des-milliers-d-arbres-gratuiteme-094683.html"
+  data-titre="Québec et Lévis distribuent des milliers d&#x27;arbres gratuitement cet automne" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/quebec-et-levis-distribuent-des-milliers-d-arbres-gratuiteme-094683.html">https://entreelibre.ca/edition/2026-08-28/a/quebec-et-levis-distribuent-des-milliers-d-arbres-gratuiteme-094683.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.icilinfo.ca/article/1905/1-600-arbres-gratuits-offerts-a-la-population-le-samedi-12-septembre" target="_blank" rel="noopener"><span class="src-nom">Ville de Québec</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Ici L&#x27;info, Ville de Lévis, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Ville de Québec offre gratuitement 1 600 arbres à la population le samedi 12 septembre, de 8 h 30 à 11 h, dans l&#x27;un des six points de distribution prévus, dont le Centre de plein air de Beauport, rapporte le journal Ici L&#x27;info. Six essences seront proposées au choix. La Ville de Lévis distribue de son côté 300 arbres cet automne dans le cadre de son initiative « Je verdis Lévis ». Les deux villes misent sur la participation citoyenne pour verdir leur territoire, une pratique de plus en plus répandue chez les municipalités québécoises soucieuses de leur couvert forestier urbain. Dans les deux cas, les quantités sont limitées et les modalités d&#x27;inscription sont précisées sur les sites respectifs des deux villes. La distribution s&#x27;inscrit dans les efforts de verdissement urbain que plusieurs municipalités multiplient à l&#x27;approche de l&#x27;automne, une période propice à la plantation d&#x27;arbres.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

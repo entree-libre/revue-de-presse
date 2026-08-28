@@ -33,6 +33,12 @@
 <div class="terr">Japon</div>
 <h1>Morte à 97 ans, Yayoi Kusama laisse une œuvre qui a transformé ses hallucinations en art</h1>
 <div class="chapo">Radio-Canada, Le Journal de Montréal, La Presse, Slate · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/morte-a-97-ans-yayoi-kusama-laisse-une-uvre-qui-a-transforme-603321.html"
+  data-titre="Morte à 97 ans, Yayoi Kusama laisse une œuvre qui a transformé ses hallucinations en art" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/morte-a-97-ans-yayoi-kusama-laisse-une-uvre-qui-a-transforme-603321.html">https://entreelibre.ca/edition/2026-08-28/a/morte-a-97-ans-yayoi-kusama-laisse-une-uvre-qui-a-transforme-603321.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Yayoi_Kusama_Obliteration_Room.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;installation « Obliteration Room » de Yayoi Kusama. Photo : Helsinki Art Museum, The Broad, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2277993/mort-artiste-japonaise-yayoi-kusama" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Journal de Montréal, La Presse, Slate, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;artiste japonaise Yayoi Kusama, l&#x27;une des plus célèbres figures de l&#x27;art contemporain, est morte le 14 août à l&#x27;âge de 97 ans, a annoncé sa société le jour même de la nouvelle, selon l&#x27;Agence France-Presse relayée par Radio-Canada. Née en 1929 dans une famille aisée, elle avait commencé à produire ses œuvres emblématiques dès l&#x27;âge de dix ans, inspirée par des hallucinations survenues dans l&#x27;enfance.</p><p>Installée aux États-Unis à la fin des années 1950, elle s&#x27;était imposée sur la scène avant-gardiste new-yorkaise malgré les discriminations rencontrées comme femme japonaise, à travers de grandes peintures audacieuses et des happenings mêlant peinture corporelle et motifs de pois. De retour au Japon dans les années 1970, elle s&#x27;était volontairement fait hospitaliser dans un établissement psychiatrique de Tokyo, où elle a vécu et continué de peindre jusqu&#x27;à la fin de sa vie.</p><p>« Un jour, après avoir vu sur un bureau une nappe ornée d&#x27;un motif de fleurs rouges, j&#x27;ai aperçu le même motif partout sur le plafond, les fenêtres et les piliers », avait-elle raconté dans son autobiographie, citée par Radio-Canada. Ses sculptures de citrouilles et ses installations immersives, les infinity rooms, ont attiré des foules immenses et se sont vendues pour plusieurs millions de dollars, faisant d&#x27;elle l&#x27;une des artistes vivantes les plus commercialement reconnues au monde.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

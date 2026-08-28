@@ -32,6 +32,12 @@
 <div class="terr">États-Unis</div>
 <h1>Les États-Unis approuvent un traitement prometteur contre le cancer du pancréas</h1>
 <div class="chapo">France 24 (AFP), Paris Match, Pourquoi Docteur · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/les-etats-unis-approuvent-un-traitement-prometteur-contre-le-830f66.html"
+  data-titre="Les États-Unis approuvent un traitement prometteur contre le cancer du pancréas" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/les-etats-unis-approuvent-un-traitement-prometteur-contre-le-830f66.html">https://entreelibre.ca/edition/2026-08-28/a/les-etats-unis-approuvent-un-traitement-prometteur-contre-le-830f66.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.parismatch.com/Actu/Sante/cancer-du-pancreas-les-etats-unis-approuvent-un-traitement-prometteur-qui-a-double-la-duree-de-survie-des-patients-274734" target="_blank" rel="noopener"><span class="src-nom">France 24 (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Paris Match, Pourquoi Docteur, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les autorités sanitaires américaines ont annoncé mercredi l&#x27;approbation d&#x27;un nouveau traitement contre le cancer du pancréas. Cette décision ouvre, selon des cancérologues cités par Paris Match, une nouvelle ère dans la prise en charge de l&#x27;un des cancers les plus mortels qui soient, généralement diagnostiqué à un stade déjà avancé. Le médicament, baptisé Rasonque (daraxonrasib), ne constitue pas un remède, mais aurait permis, selon les essais cliniques cités, de doubler la durée de survie médiane des patients traités par rapport aux protocoles existants jusqu&#x27;ici.</p><p>Son approbation suscite l&#x27;enthousiasme des associations de patients, le cancer du pancréas étant associé à un pronostic particulièrement sombre depuis des décennies, faute de traitements réellement efficaces. Le prix du traitement et ses modalités de remboursement n&#x27;ont pas encore été précisés par le fabricant ni par les autorités sanitaires américaines au moment de l&#x27;annonce. Plusieurs associations de patients ont d&#x27;ores et déjà demandé un accès rapide et large au nouveau médicament, y compris pour les patients suivis en dehors des essais cliniques initiaux.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

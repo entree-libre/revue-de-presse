@@ -32,6 +32,12 @@
 <div class="terr">Union européenne</div>
 <h1>Taxe européenne sur les petits colis : les importations chutent de 30 à 40 %, selon Bercy</h1>
 <div class="chapo">Franceinfo, France 24, CNEWS · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/taxe-europeenne-sur-les-petits-colis-les-importations-chuten-307365.html"
+  data-titre="Taxe européenne sur les petits colis : les importations chutent de 30 à 40 %, selon Bercy" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/taxe-europeenne-sur-les-petits-colis-les-importations-chuten-307365.html">https://entreelibre.ca/edition/2026-08-28/a/taxe-europeenne-sur-les-petits-colis-les-importations-chuten-307365.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.franceinfo.fr/economie/la-taxe-europeenne-sur-les-petits-colis-chinois-fait-chuter-les-importations-de-30-a-40-annonce-le-ministere-de-l-economie_8165381.html" target="_blank" rel="noopener"><span class="src-nom">Franceinfo</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par France 24, CNEWS, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les importations de petits colis en provenance de Chine ont chuté de 30 à 40 % depuis l&#x27;entrée en vigueur, le 1er juillet, de la taxe européenne qui les vise, a annoncé jeudi le ministère français de l&#x27;Économie. La taxe s&#x27;élève à trois euros par catégorie de produits contenue dans chaque colis. Elle cible en particulier les plateformes Shein, Temu et AliExpress, dont les envois massifs de paquets à bas prix échappaient largement aux droits de douane.</p><p>La mesure visait à répondre à la déferlante des colis de moins de 150 euros, exemptés jusque-là de droits, dont plusieurs milliards entraient chaque année dans l&#x27;Union. Le chiffre avancé par Bercy porte sur les flux constatés depuis juillet. Il n&#x27;a pas été détaillé par plateforme ni confirmé à ce stade par des données douanières publiques. Les plateformes visées n&#x27;avaient pas réagi publiquement à ces chiffres jeudi soir. L&#x27;effet sur les prix et sur les recettes fiscales sera scruté à l&#x27;automne, la Commission européenne ayant fait de l&#x27;encadrement du commerce en ligne à bas coût l&#x27;un de ses chantiers commerciaux avec Pékin.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

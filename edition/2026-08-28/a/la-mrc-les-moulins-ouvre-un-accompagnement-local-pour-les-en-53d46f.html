@@ -33,6 +33,12 @@
 <div class="terr">Terrebonne, Mascouche</div>
 <h1>La MRC Les Moulins ouvre un accompagnement local pour les entreprises frappées par les tarifs américains</h1>
 <div class="chapo">MRC Les Moulins · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-mrc-les-moulins-ouvre-un-accompagnement-local-pour-les-en-53d46f.html"
+  data-titre="La MRC Les Moulins ouvre un accompagnement local pour les entreprises frappées par les tarifs américains" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-mrc-les-moulins-ouvre-un-accompagnement-local-pour-les-en-53d46f.html">https://entreelibre.ca/edition/2026-08-28/a/la-mrc-les-moulins-ouvre-un-accompagnement-local-pour-les-en-53d46f.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Terrebonne%2C_Quebec.jpg/1280px-Terrebonne%2C_Quebec.jpg" onerror="this.closest('figure').remove()"><figcaption>Terrebonne, dans la MRC Les Moulins. Photo : Roncanada, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.mrclesmoulins.ca/non-classifiee/tarifs-douaniers-un-accompagnement-local-pour-aider-les-entreprises-a-passer-a-laction/" target="_blank" rel="noopener"><span class="src-nom">MRC Les Moulins</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La MRC Les Moulins met l&#x27;expertise de son Service de développement économique à la disposition des entreprises de Terrebonne et de Mascouche touchées par les tarifs douaniers américains, qui se traduisent par des baisses de ventes et de commandes, une pression sur les liquidités, une hausse du coût des intrants et des perturbations d&#x27;approvisionnement.</p><p>L&#x27;accompagnement vise à orienter les entreprises vers les mesures existantes, à commencer par le Programme d&#x27;aide d&#x27;urgence aux petites et moyennes entreprises – Tarifs douaniers (PAUPME), qui soutient temporairement les besoins de liquidités.</p><p>Le programme s&#x27;adresse aux entreprises exportant vers les États-Unis ainsi qu&#x27;à leurs fournisseurs et sous-traitants, et prend notamment la forme d&#x27;un prêt. Il s&#x27;agit d&#x27;une aide au financement de trésorerie et non d&#x27;une compensation des pertes causées par les tarifs. La MRC Les Moulins regroupe Terrebonne et Mascouche, dans Lanaudière, en bordure nord de la région métropolitaine de Montréal.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

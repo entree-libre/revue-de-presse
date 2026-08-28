@@ -33,6 +33,12 @@
 <div class="terr">Japon</div>
 <h1>Yayoi Kusama, figure de l&#x27;avant-garde japonaise, meurt à 97 ans</h1>
 <div class="chapo">TV5Monde (AFP), France 24, RFI, Franceinfo, Le Journal de Montréal · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/yayoi-kusama-figure-de-l-avant-garde-japonaise-meurt-a-97-an-f60621.html"
+  data-titre="Yayoi Kusama, figure de l&#x27;avant-garde japonaise, meurt à 97 ans" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/yayoi-kusama-figure-de-l-avant-garde-japonaise-meurt-a-97-an-f60621.html">https://entreelibre.ca/edition/2026-08-28/a/yayoi-kusama-figure-de-l-avant-garde-japonaise-meurt-a-97-an-f60621.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Yayoi_Kusama%2C_Pumpkin%2C_2015_%2837171698741%29.jpg/1280px-Yayoi_Kusama%2C_Pumpkin%2C_2015_%2837171698741%29.jpg" onerror="this.closest('figure').remove()"><figcaption>Une des sculptures « Pumpkin » de Yayoi Kusama. Photo : art_inthecity, CC BY 2.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://information.tv5monde.com/international/lartiste-avant-gardiste-japonaise-yayoi-kusama-est-morte-97-ans-2835082" target="_blank" rel="noopener"><span class="src-nom">TV5Monde (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par France 24, RFI, Franceinfo, Le Journal de Montréal, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Japonaise Yayoi Kusama, l&#x27;une des artistes contemporaines les plus célèbres au monde, est morte le 14 août à l&#x27;âge de 97 ans, a annoncé jeudi sa société, suscitant une vague d&#x27;hommages de ses admirateurs à travers le monde. Surnommée la « reine des pois », l&#x27;artiste d&#x27;avant-garde avait transformé ses hallucinations et ses traumatismes personnels en œuvres éclatantes. Elle mettait en scène ses motifs emblématiques de pois, de filets et d&#x27;infini au cours d&#x27;une carrière longue de plusieurs décennies, débutée dans le New York des années 1960.</p><p>Ses installations immersives, comme les « Infinity Mirror Rooms », et ses sculptures de citrouilles géantes ont été exposées dans les plus grands musées du monde, de Tokyo à New York en passant par Paris. Elles ont fait d&#x27;elle, avant sa mort, l&#x27;une des artistes vivantes les plus visitées de la planète, toutes générations confondues. Aucune cause précise de décès n&#x27;a été communiquée par sa société de gestion, qui a précisé que des funérailles privées avaient déjà eu lieu au Japon en petit comité.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

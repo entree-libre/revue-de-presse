@@ -32,6 +32,12 @@
 <div class="terr">Montérégie</div>
 <h1>Longueuil : l&#x27;ex-ministre des Finances Nicolas Marceau brigue Marie-Victorin pour le PQ</h1>
 <div class="chapo">Le Courrier du Sud · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/longueuil-l-ex-ministre-des-finances-nicolas-marceau-brigue-75df76.html"
+  data-titre="Longueuil : l&#x27;ex-ministre des Finances Nicolas Marceau brigue Marie-Victorin pour le PQ" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/longueuil-l-ex-ministre-des-finances-nicolas-marceau-brigue-75df76.html">https://entreelibre.ca/edition/2026-08-28/a/longueuil-l-ex-ministre-des-finances-nicolas-marceau-brigue-75df76.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://lecourrierdusud.ca/longueuil-nicolas-marceau-marie-victorin-parti-quebecois/" target="_blank" rel="noopener"><span class="src-nom">Le Courrier du Sud</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Nicolas Marceau, ancien ministre des Finances et de l&#x27;Économie sous le gouvernement de Pauline Marois, tentera de se faire élire dans la circonscription de Marie-Victorin, à Longueuil, sous la bannière du Parti québécois. Âgé de 62 ans, M. Marceau avait été élu à trois reprises pour le PQ, en 2009, 2012 et 2014, mais dans la circonscription de Rousseau, dans Lanaudière — pas à Longueuil.</p><p>Nommé ministre des Finances lors de la victoire minoritaire péquiste de 2012, il avait conservé ce rôle jusqu&#x27;à l&#x27;élection de 2014, remportée par les libéraux de Philippe Couillard. Économiste de formation, il a longtemps enseigné la microéconomie à l&#x27;Université du Québec à Montréal, et ce jusqu&#x27;à tout récemment.</p><p>Marie-Victorin est représentée depuis 2022 par la députée caquiste sortante Shirley Dorismond, qui avait remporté l&#x27;élection partielle de cette année-là avant de conserver son siège à l&#x27;élection générale suivante. Avant elle, la circonscription avait élu des candidats péquistes à chaque scrutin depuis 1985, ce qui en fait un enjeu symbolique pour le parti de Paul St-Pierre Plamondon.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

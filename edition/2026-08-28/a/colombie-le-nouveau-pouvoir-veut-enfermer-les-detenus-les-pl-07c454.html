@@ -32,6 +32,12 @@
 <div class="terr">Colombie</div>
 <h1>Colombie : le nouveau pouvoir veut enfermer les détenus les plus dangereux sur des navires-prisons</h1>
 <div class="chapo">RFI (AFP), Le Marin · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/colombie-le-nouveau-pouvoir-veut-enfermer-les-detenus-les-pl-07c454.html"
+  data-titre="Colombie : le nouveau pouvoir veut enfermer les détenus les plus dangereux sur des navires-prisons" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/colombie-le-nouveau-pouvoir-veut-enfermer-les-detenus-les-pl-07c454.html">https://entreelibre.ca/edition/2026-08-28/a/colombie-le-nouveau-pouvoir-veut-enfermer-les-detenus-les-pl-07c454.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.rfi.fr/fr/am%C3%A9riques/20260827-la-colombie-envisage-d-enfermer-les-d%C3%A9linquants-les-plus-dangereux-sur-des-navires-en-pleine-mer" target="_blank" rel="noopener"><span class="src-nom">RFI (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Marin, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le président colombien Abelardo de la Espriella a demandé d&#x27;avancer sur un projet de navires-prisons destinés aux délinquants jugés les plus dangereux, a indiqué à l&#x27;AFP une source au ministère de la Défense, sans plus de détails. L&#x27;idée, évoquée lors d&#x27;une réunion de sécurité, consisterait à détenir ces prisonniers sur des bâtiments en pleine mer. Arrivé au pouvoir le 7 août, le dirigeant de droite dure promet une lutte frontale, appuyée par Washington, contre les groupes armés impliqués dans le narcotrafic.</p><p>Le Marin rappelle que la formule des bateaux-prisons a des précédents anciens, des pontons anglais du XVIIIe siècle aux barges new-yorkaises contemporaines. Elle soulève des questions de droit et de conditions de détention. Ni le calendrier ni le cadre légal du projet n&#x27;ont été précisés. Les organisations de défense des droits n&#x27;avaient pas encore réagi dans les articles disponibles. Le système carcéral colombien, surpeuplé, est régulièrement pointé pour la violence et le contrôle qu&#x27;y exercent les groupes criminels.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>L&#x27;IRIS déboulonne les «mythes» sur le syndicalisme, en réplique aux lois antisyndicales de la CAQ</h1>
 <div class="chapo">IRIS (Institut de recherche et d&#x27;informations socioéconomiques) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-iris-deboulonne-les-mythes-sur-le-syndicalisme-en-replique-c4e93b.html"
+  data-titre="L&#x27;IRIS déboulonne les «mythes» sur le syndicalisme, en réplique aux lois antisyndicales de la CAQ" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-iris-deboulonne-les-mythes-sur-le-syndicalisme-en-replique-c4e93b.html">https://entreelibre.ca/edition/2026-08-28/a/l-iris-deboulonne-les-mythes-sur-le-syndicalisme-en-replique-c4e93b.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://iris-recherche.qc.ca/publications/syndicalisme-mythes-realites/" target="_blank" rel="noopener"><span class="src-nom">IRIS (Institut de recherche et d&#x27;informations socioéconomiques)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;Institut de recherche et d&#x27;informations socioéconomiques (IRIS) — un centre de recherche qui défend une intervention publique accrue — publie une brochure visant à «déboulonner certains mythes sur le syndicalisme», au moment où le gouvernement sortant de la Coalition avenir Québec termine son mandat sur deux lois contestées par le mouvement syndical: la loi 89, sanctionnée en 2025 pour encadrer davantage les grèves et les lock-out, et la loi 3, entrée en vigueur en avril, qui resserre la gouvernance des associations en milieu de travail. Selon l&#x27;IRIS, la perception voulant que les syndicats «prennent trop de place» au Québec et nuisent à la vitalité économique est généralement portée par des représentants patronaux, un discours que la CAQ a repris à plusieurs reprises durant ses huit années au pouvoir — un biais que l&#x27;institut attribue à «la proximité de plusieurs ministres de la CAQ avec le monde des affaires».</p><p>La publication, qui met à jour une étude de 2014, consacre ses huit premiers chapitres à démonter ce qu&#x27;elle présente comme des analyses erronées du rôle des syndicats, avant de détailler, dans les cinq chapitres suivants, leurs effets sur les travailleuses et travailleurs ainsi que sur la société québécoise. L&#x27;institut a publié dans la même veine, plus tôt cette année, des textes s&#x27;attaquant à d&#x27;autres perceptions courantes, notamment sur l&#x27;effet des syndicats sur l&#x27;investissement et sur la protection qu&#x27;ils offriraient aux employés incompétents.</p><p>La brochure complète est proposée en téléchargement libre sur le site de l&#x27;institut.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

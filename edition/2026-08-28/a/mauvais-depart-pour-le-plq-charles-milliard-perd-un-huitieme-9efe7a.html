@@ -32,6 +32,12 @@
 <div class="terr">Rimouski</div>
 <h1>Mauvais départ pour le PLQ : Charles Milliard perd un huitième candidat</h1>
 <div class="chapo">Québecor · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/mauvais-depart-pour-le-plq-charles-milliard-perd-un-huitieme-9efe7a.html"
+  data-titre="Mauvais départ pour le PLQ : Charles Milliard perd un huitième candidat" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/mauvais-depart-pour-le-plq-charles-milliard-perd-un-huitieme-9efe7a.html">https://entreelibre.ca/edition/2026-08-28/a/mauvais-depart-pour-le-plq-charles-milliard-perd-un-huitieme-9efe7a.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.journaldemontreal.com/2026/08/27/comportement-inacceptable--le-chef-liberal-charles-milliard-largue-son-candidat-dans-rimouski" target="_blank" rel="noopener"><span class="src-nom">Québecor</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le chef libéral Charles Milliard a dû retirer son candidat dans Rimouski, Étienne Pineau-Saindon, en raison d&#x27;un « comportement inacceptable », ternissant le premier jour de sa campagne électorale. « J&#x27;ai pris la décision de retirer le candidat de Rimouski du Parti libéral du Québec en raison d&#x27;allégations de nature personnelle que je considère comme sérieuses », a expliqué M. Milliard, ajoutant que d&#x27;autres chefs avaient dû prendre des décisions similaires la veille. Il s&#x27;agit du huitième candidat perdu par le PLQ, par désistement ou expulsion, depuis le début du processus de sélection.</p><p>Selon un sondage Léger-TVA-Le Journal, les libéraux ne récoltent que 14 % des intentions de vote chez les électeurs francophones, une position fragile qui rappelle le départ difficile de la cheffe Dominique Anglade en 2022, elle aussi en terrain miné dès le début de sa campagne. M. Milliard lui-même serait menacé dans sa propre circonscription d&#x27;Orford, où il affronte notamment un candidat associé au mouvement souverainiste. Il a néanmoins présenté les vingt engagements de son parti sur dix ans comme un plan « costaud » et s&#x27;en est pris à la Coalition avenir Québec, qu&#x27;il accuse de faire de la « politique spectacle » en centrant sa campagne sur Donald Trump plutôt que sur une offre de gouvernance alternative. « Tout le monde joue sa survie en politique », a-t-il résumé, avant de lancer sa campagne nationale à Sherbrooke en fin de journée.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

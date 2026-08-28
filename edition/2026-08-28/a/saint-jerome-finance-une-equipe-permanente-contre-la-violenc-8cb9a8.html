@@ -32,6 +32,12 @@
 <div class="terr">Saint-Jérôme</div>
 <h1>Saint-Jérôme finance une équipe permanente contre la violence conjugale et un poste de brigadier de plus</h1>
 <div class="chapo">Ville de Saint-Jérôme · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/saint-jerome-finance-une-equipe-permanente-contre-la-violenc-8cb9a8.html"
+  data-titre="Saint-Jérôme finance une équipe permanente contre la violence conjugale et un poste de brigadier de plus" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/saint-jerome-finance-une-equipe-permanente-contre-la-violenc-8cb9a8.html">https://entreelibre.ca/edition/2026-08-28/a/saint-jerome-finance-une-equipe-permanente-contre-la-violenc-8cb9a8.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.vsj.ca/actualites/faits-saillants-de-la-seance-du-conseil-municipal-du-25-aout/" target="_blank" rel="noopener"><span class="src-nom">Ville de Saint-Jérôme</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le conseil municipal de Saint-Jérôme a autorisé une entente avec le ministère de la Sécurité publique pour consolider et bonifier l&#x27;Équipe unifiée en violence conjugale et familiale de son service de police, pour les exercices 2026-2027 et 2027-2028. Grâce au financement obtenu dans le cadre du Programme québécois de lutte contre la criminalité, un poste permanent d&#x27;intervenant social et deux postes permanents de sergents-détectives seront créés, afin d&#x27;améliorer le suivi des dossiers et le soutien aux victimes en situation à haut risque. Lors de la même séance du 25 août, le conseil a aussi créé une journée annuelle de reconnaissance pour les brigadières et brigadiers scolaires et ajouté un 47e poste à leur effectif. La Ville a par ailleurs approuvé des ajustements à la structure de son Service de l&#x27;ingénierie, dont la création d&#x27;une division dédiée à la performance et à la gestion de projets et la conversion de trois postes contractuels en postes réguliers, dans le but de renforcer l&#x27;expertise interne et la planification des projets municipaux. Ces investissements en ressources humaines s&#x27;ajoutent aux effectifs existants de l&#x27;Équipe unifiée en violence conjugale et familiale du service de police.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

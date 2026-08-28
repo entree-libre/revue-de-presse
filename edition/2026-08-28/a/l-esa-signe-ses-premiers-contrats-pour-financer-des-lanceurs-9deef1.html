@@ -32,6 +32,12 @@
 <div class="terr">Europe</div>
 <h1>L&#x27;ESA signe ses premiers contrats pour financer des lanceurs privés européens</h1>
 <div class="chapo">Feed Clubic · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-esa-signe-ses-premiers-contrats-pour-financer-des-lanceurs-9deef1.html"
+  data-titre="L&#x27;ESA signe ses premiers contrats pour financer des lanceurs privés européens" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-esa-signe-ses-premiers-contrats-pour-financer-des-lanceurs-9deef1.html">https://entreelibre.ca/edition/2026-08-28/a/l-esa-signe-ses-premiers-contrats-pour-financer-des-lanceurs-9deef1.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.clubic.com/actualite-627073-c-est-parti-l-esa-signe-ses-premiers-contrats-pour-financer-" target="_blank" rel="noopener"><span class="src-nom">Feed Clubic</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;Agence spatiale européenne a signé les premiers contrats de son European Launcher Challenge, un programme destiné à renforcer l&#x27;autonomie de lancement du continent. Trois entreprises, l&#x27;allemande Rocket Factory Augsburg, l&#x27;espagnole PLD Space et l&#x27;allemande Isar Aerospace, se partageront plus de 540 millions d&#x27;euros pour tenter de rejoindre l&#x27;orbite avant 2028.</p><p>Le programme vise à réduire la dépendance de l&#x27;Europe aux lanceurs étrangers, notamment américains, en soutenant plusieurs projets concurrents plutôt qu&#x27;un seul fournisseur, sur le modèle de la concurrence qui a permis l&#x27;essor de SpaceX aux États-Unis. Aucune des trois entreprises retenues n&#x27;a encore placé de charge utile en orbite, ce qui fait de ce financement un pari sur des technologies encore en développement.</p><p>L&#x27;Europe reste dépendante d&#x27;Ariane 6, son lanceur lourd public, pour ses missions institutionnelles les plus importantes, un programme distinct de celui que finance l&#x27;European Launcher Challenge. Les trois entreprises retenues développent chacune leur propre lanceur de petite ou moyenne capacité, plutôt qu&#x27;un modèle unique commun aux trois projets.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

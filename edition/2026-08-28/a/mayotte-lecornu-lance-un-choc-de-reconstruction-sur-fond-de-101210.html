@@ -33,6 +33,12 @@
 <div class="terr">France, Mayotte</div>
 <h1>Mayotte : Lecornu lance un « choc » de reconstruction, sur fond de tensions politiques</h1>
 <div class="chapo">TV5Monde (AFP), France 24 · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/mayotte-lecornu-lance-un-choc-de-reconstruction-sur-fond-de-101210.html"
+  data-titre="Mayotte : Lecornu lance un « choc » de reconstruction, sur fond de tensions politiques" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/mayotte-lecornu-lance-un-choc-de-reconstruction-sur-fond-de-101210.html">https://entreelibre.ca/edition/2026-08-28/a/mayotte-lecornu-lance-un-choc-de-reconstruction-sur-fond-de-101210.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Mayotte_ISS.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;archipel de Mayotte, vu depuis l&#x27;espace. Photo : NASA / Station spatiale internationale, Public domain, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://information.tv5monde.com/international/mayotte-lecornu-lance-un-choc-de-reconstruction-sur-fond-de-tensions-politiques-2835137" target="_blank" rel="noopener"><span class="src-nom">TV5Monde (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par France 24, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le premier ministre français Sébastien Lecornu a lancé jeudi à Mayotte un « choc » de mises en chantier destiné à accélérer la reconstruction de l&#x27;archipel après le passage dévastateur du cyclone Chido. Cette annonce intervient sur fond de tensions politiques persistantes et de campagne présidentielle naissante en métropole. « Il faut se bouger, il ne faut pas forcément bavasser » pour obtenir « d&#x27;autres gymnases comme ça », a-t-il déclaré aux côtés du maire de Mamoudzou, Ambdilwahedou Soumaila, lors d&#x27;une visite de chantier.</p><p>Près de deux ans après le passage du cyclone, une partie de la population mahoraise vit toujours dans des logements précaires ou temporaires, faute de reconstruction suffisamment rapide des habitations détruites. La lenteur perçue de cette reconstruction est devenue un sujet de critique récurrent pour l&#x27;opposition, à quelques mois de l&#x27;élection présidentielle française. Plusieurs candidats reprochent déjà au gouvernement son manque de résultats concrets sur ce dossier, qui reste un point sensible de la politique ultramarine française.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

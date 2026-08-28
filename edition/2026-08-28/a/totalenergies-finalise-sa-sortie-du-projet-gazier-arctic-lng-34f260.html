@@ -33,6 +33,12 @@
 <div class="terr">Russie, France</div>
 <h1>TotalEnergies finalise sa sortie du projet gazier Arctic LNG 2 en Russie</h1>
 <div class="chapo">Fortuneo Bourse (Zonebourse), Le Figaro, Le Monde, The Moscow Times, Le Marin · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/totalenergies-finalise-sa-sortie-du-projet-gazier-arctic-lng-34f260.html"
+  data-titre="TotalEnergies finalise sa sortie du projet gazier Arctic LNG 2 en Russie" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/totalenergies-finalise-sa-sortie-du-projet-gazier-arctic-lng-34f260.html">https://entreelibre.ca/edition/2026-08-28/a/totalenergies-finalise-sa-sortie-du-projet-gazier-arctic-lng-34f260.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/LNG_tanker_BENUE_%2848699576983%29.jpg/1280px-LNG_tanker_BENUE_%2848699576983%29.jpg" onerror="this.closest('figure').remove()"><figcaption>Un méthanier transportant du gaz naturel liquéfié. Photo : kees torn, CC BY-SA 2.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://bourse.fortuneo.fr/actualites/totalenergies-finalise-sa-sortie-du-projet-arctic-lng-en-russie-9271673" target="_blank" rel="noopener"><span class="src-nom">Fortuneo Bourse (Zonebourse)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Figaro, Le Monde, The Moscow Times, Le Marin, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>TotalEnergies a confirmé jeudi que le transfert de sa participation de 10 % dans Arctic LNG 2 à NordLine, une filiale du groupe russe Novatek, était désormais finalisé. Cette opération met fin à la présence actionnariale du groupe pétrolier français dans ce projet gazier russe de grande envergure, engagé depuis plusieurs années. Il précise, dans un communiqué, qu&#x27;il conserve ses droits au remboursement de sa quote-part des prêts apportés par les actionnaires au projet, soit environ 1,3 milliard de dollars.</p><p>Le versement de cette somme dépendra du régime de sanctions applicable au moment du paiement, une incertitude que le groupe reconnaît explicitement dans son communiqué. Cette sortie s&#x27;inscrit dans le mouvement plus large de désengagement des groupes occidentaux des projets énergétiques russes depuis l&#x27;invasion de l&#x27;Ukraine en 2022. Arctic LNG 2 est visé par des sanctions américaines et européennes qui ont considérablement entravé sa mise en service commerciale depuis son lancement initial, limitant les débouchés export du gaz produit sur le site.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

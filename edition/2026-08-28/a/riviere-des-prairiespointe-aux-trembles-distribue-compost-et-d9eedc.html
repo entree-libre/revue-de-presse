@@ -32,6 +32,12 @@
 <div class="terr">Rivière-des-Prairies–Pointe-aux-Trembles</div>
 <h1>Rivière-des-Prairies–Pointe-aux-Trembles distribue compost et plants gratuitement le 26 septembre</h1>
 <div class="chapo">Ville de Montréal · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/riviere-des-prairiespointe-aux-trembles-distribue-compost-et-d9eedc.html"
+  data-titre="Rivière-des-Prairies–Pointe-aux-Trembles distribue compost et plants gratuitement le 26 septembre" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/riviere-des-prairiespointe-aux-trembles-distribue-compost-et-d9eedc.html">https://entreelibre.ca/edition/2026-08-28/a/riviere-des-prairiespointe-aux-trembles-distribue-compost-et-d9eedc.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://montreal.ca/actualites/des-le-3-septembre-inscrivez-vous-la-distribution-de-compost-de-rdp-pat-86833" target="_blank" rel="noopener"><span class="src-nom">Ville de Montréal</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;Éco de la Pointe-aux-Prairies, en collaboration avec l&#x27;arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles, distribuera gratuitement du compost, du paillis et des végétaux le samedi 26 septembre, sur rendez-vous seulement, dans deux parcs de l&#x27;arrondissement. Les inscriptions s&#x27;ouvrent le 3 septembre à midi, à raison d&#x27;un créneau par résidence, pour un maximum de 200 litres de compost et autant de paillis. Le compost distribué provient du compostage des résidus verts récupérés lors des collectes de l&#x27;année précédente. Dans le cadre du Plan de protection des pollinisateurs de Montréal, des plants indigènes et nectarifères — framboisiers, bleuetiers, kiwis grimpants — seront aussi offerts, avec des conseils de plantation. L&#x27;initiative s&#x27;inscrit dans la Politique d&#x27;agriculture urbaine de la Ville et le plan d&#x27;action de l&#x27;arrondissement. Un seul créneau est permis par résidence, et les personnes doivent se présenter avec une preuve de résidence, une pelle et des contenants solides.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

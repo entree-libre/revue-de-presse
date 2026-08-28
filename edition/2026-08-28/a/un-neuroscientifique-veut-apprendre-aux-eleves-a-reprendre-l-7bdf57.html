@@ -32,6 +32,12 @@
 <div class="terr">France</div>
 <h1>Un neuroscientifique veut apprendre aux élèves à reprendre la maîtrise de leur attention</h1>
 <div class="chapo">Sciences Humaines · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-neuroscientifique-veut-apprendre-aux-eleves-a-reprendre-l-7bdf57.html"
+  data-titre="Un neuroscientifique veut apprendre aux élèves à reprendre la maîtrise de leur attention" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-neuroscientifique-veut-apprendre-aux-eleves-a-reprendre-l-7bdf57.html">https://entreelibre.ca/edition/2026-08-28/a/un-neuroscientifique-veut-apprendre-aux-eleves-a-reprendre-l-7bdf57.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.scienceshumaines.com/jean-philippe-lachaux-le-probleme-de-fond-cest-la-paresse-cognitive" target="_blank" rel="noopener"><span class="src-nom">Sciences Humaines</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le neuroscientifique Jean-Philippe Lachaux a conçu un programme d&#x27;éducation à l&#x27;attention destiné aux élèves, de la maternelle à la terminale, présenté dans un entretien à Sciences Humaines. Son ambition est que chaque élève reprenne la maîtrise de son esprit plutôt que de l&#x27;abandonner passivement aux sollicitations des écrans et de l&#x27;environnement.</p><p>Pour Lachaux, le problème de fond tient moins à un manque de capacité qu&#x27;à une forme de paresse cognitive entretenue par l&#x27;environnement numérique, qu&#x27;un entraînement structuré pourrait contribuer à corriger dès le plus jeune âge. « Le problème de fond, c&#x27;est la paresse cognitive », résume-t-il dans l&#x27;entretien, plutôt qu&#x27;un déficit d&#x27;attention inné chez les jeunes générations.</p><p>Le programme, déployé dans plusieurs classes, propose des exercices réguliers plutôt qu&#x27;une interdiction pure et simple des écrans, misant sur l&#x27;entraînement progressif de la capacité à revenir volontairement à une tâche après une distraction.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Le SPGQ plaide pour une fonction publique renforcée face à la guerre commerciale</h1>
 <div class="chapo">Presse-toi à gauche ! (Syndicat de professionnelles et professionnels du gouvernement du Québec) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-spgq-plaide-pour-une-fonction-publique-renforcee-face-a-l-a0ff23.html"
+  data-titre="Le SPGQ plaide pour une fonction publique renforcée face à la guerre commerciale" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-spgq-plaide-pour-une-fonction-publique-renforcee-face-a-l-a0ff23.html">https://entreelibre.ca/edition/2026-08-28/a/le-spgq-plaide-pour-une-fonction-publique-renforcee-face-a-l-a0ff23.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.pressegauche.org/Pour-un-etat-qui-se-donne-les-moyens-d-agir" target="_blank" rel="noopener"><span class="src-nom">Presse-toi à gauche ! (Syndicat de professionnelles et professionnels du gouvernement du Québec)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Syndicat de professionnelles et professionnels du gouvernement du Québec (SPGQ) profite de la rentrée électorale pour réclamer des partis politiques un engagement à renforcer l&#x27;expertise interne de l&#x27;État, qu&#x27;il juge indispensable face à l&#x27;incertitude créée par l&#x27;échec des négociations commerciales avec les États-Unis. Dans un texte publié sur Presse-toi à gauche, le syndicat fait valoir qu&#x27;un État capable d&#x27;agir rapidement en temps de crise «ne s&#x27;improvise pas»: cette capacité se construit dans la durée, par des institutions publiques fortes et un personnel qui connaît les secteurs économiques, les territoires et les programmes gouvernementaux.</p><p>Le SPGQ soutient qu&#x27;une dépendance excessive envers les firmes externes fait perdre à l&#x27;État sa capacité de planifier ses projets et de prendre des décisions éclairées, et plaide pour que la sous-traitance «redevienne l&#x27;exception à justifier, et non un réflexe de gestion». Selon le syndicat, la guerre tarifaire rend d&#x27;autant plus pressant le besoin d&#x27;une expertise publique permanente en économie, en technologies de l&#x27;information, en cybersécurité et en intelligence artificielle, ce qui suppose que l&#x27;État se comporte «comme un employeur capable d&#x27;attirer ces compétences». Le syndicat invite chacun des partis en lice à préciser comment il entend attirer, retenir et développer ces spécialistes au sein de l&#x27;appareil public.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

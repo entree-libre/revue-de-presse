@@ -32,6 +32,12 @@
 <div class="terr">Russie, Ukraine</div>
 <h1>Poutine se prépare à intensifier les attaques contre l&#x27;Ukraine après l&#x27;échec des pourparlers, selon des proches du Kremlin</h1>
 <div class="chapo">Military.com, Bloomberg · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/poutine-se-prepare-a-intensifier-les-attaques-contre-l-ukrai-288b98.html"
+  data-titre="Poutine se prépare à intensifier les attaques contre l&#x27;Ukraine après l&#x27;échec des pourparlers, selon des proches du Kremlin" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/poutine-se-prepare-a-intensifier-les-attaques-contre-l-ukrai-288b98.html">https://entreelibre.ca/edition/2026-08-28/a/poutine-se-prepare-a-intensifier-les-attaques-contre-l-ukrai-288b98.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.military.com/putin-moves-to-escalate-war-in-ukraine-as-talks-at-dead-end" target="_blank" rel="noopener"><span class="src-nom">Military.com</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Bloomberg, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Russie se prépare à intensifier ses attaques contre l&#x27;Ukraine après avoir conclu que les négociations pour un accord de paix ont atteint une impasse. C&#x27;est ce qu&#x27;affirment trois personnes proches du Kremlin, citées sous couvert d&#x27;anonymat par le site américain Military.com en raison du caractère sensible du dossier. Moscou envisagerait de renforcer ses frappes de missiles balistiques conventionnels contre Kyiv, y compris le centre de la capitale, ainsi que contre des cibles d&#x27;infrastructure dans d&#x27;autres villes ukrainiennes.</p><p>Selon ces sources, les cadres de négociation se sont effectivement effondrés ces dernières semaines, ramenant les deux camps à leur point de départ initial. La phase actuelle des hostilités ne représenterait pas, selon elles, le sommet de l&#x27;escalade militaire à venir dans les prochains mois. Le président russe Vladimir Poutine aurait signalé ses intentions dans des propos tenus le week-end dernier à un journaliste de la télévision d&#x27;État, minimisant l&#x27;impact des attaques ukrainiennes sur l&#x27;économie russe.</p><p>Évoquant les frappes de Kyiv contre les raffineries et réseaux logistiques russes, M. Poutine a averti que l&#x27;Ukraine devrait être prête « à subir un contrecoup dans les secteurs les plus sensibles de son économie ». Moscou considérerait de plus en plus les frappes ukrainiennes comme des attaques des pays de l&#x27;OTAN eux-mêmes, ces derniers fournissant armes et renseignements à Kyiv depuis le début du conflit. Les efforts américains pour mettre fin à la guerre n&#x27;ont produit aucune percée à ce jour, les négociations restant au point mort pendant que Donald Trump concentre une part de son attention sur le conflit parallèle avec l&#x27;Iran.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

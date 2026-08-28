@@ -33,6 +33,12 @@
 <div class="terr">Ukraine, Russie</div>
 <h1>La Russie bombarde neuf villes ukrainiennes dans une frappe nocturne qualifiée de « massive »</h1>
 <div class="chapo">Associated Press, La Presse, Interfax-Ukraine, Reuters, CBC, The Washington Post, Midi Libre · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-russie-bombarde-neuf-villes-ukrainiennes-dans-une-frappe-7937e7.html"
+  data-titre="La Russie bombarde neuf villes ukrainiennes dans une frappe nocturne qualifiée de « massive »" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-russie-bombarde-neuf-villes-ukrainiennes-dans-une-frappe-7937e7.html">https://entreelibre.ca/edition/2026-08-28/a/la-russie-bombarde-neuf-villes-ukrainiennes-dans-une-frappe-7937e7.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Attack_on_Kyiv%2C_4_July_2025_21.webp" onerror="this.closest('figure').remove()"><figcaption>Intervention des services d&#x27;urgence après une frappe sur Kyiv. Photo : State Emergency Service of Ukraine, CC BY 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://apnews.com/article/russia-ukraine-war-drone-missile-attack-c841f3aa849a38ddca94e2dd44556c3a" target="_blank" rel="noopener"><span class="src-nom">Associated Press</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par La Presse, Interfax-Ukraine, Reuters, CBC, The Washington Post, Midi Libre, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Russie a bombardé des villes à travers l&#x27;Ukraine à l&#x27;aide de missiles et de drones lors d&#x27;une offensive qui a débuté mercredi à la tombée de la nuit et s&#x27;est poursuivie jusqu&#x27;en matinée jeudi. Des explosions ont résonné à Kyiv jusque dans la matinée, selon l&#x27;Associated Press, qui décrit une nuit particulièrement intense. Le ministère russe de la Défense a affirmé avoir mené une frappe « massive » pendant la nuit contre des cibles situées dans neuf villes ukrainiennes.</p><p>Moscou décrit ces cibles comme liées à l&#x27;effort de guerre : installations industrielles, raffineries, plateformes logistiques et infrastructures portuaires. Des zones civiles, dont des immeubles d&#x27;habitation, ont néanmoins subi des dégâts, selon des images recueillies sur place par des journalistes locaux. Selon les autorités ukrainiennes, la frappe a tué une femme de 78 ans dans la région méridionale de Zaporijjia et une autre personne dans celle de Kharkiv, au nord ; au moins 14 personnes ont par ailleurs été blessées ailleurs dans le pays.</p><p>Kyiv est en pénurie de missiles antiaériens Patriot fabriqués aux États-Unis, seuls capables de contrer les missiles balistiques russes, alors que les drones à propulsion à réaction employés par Moscou posent un défi supplémentaire depuis le début de l&#x27;invasion à grande échelle il y a quatre ans et demi. Des responsables ukrainiens estiment que la Russie reconstitue ses stocks de missiles avant de lancer des frappes majeures tous les quelques jours, dans l&#x27;espoir d&#x27;épuiser les défenses ukrainiennes par la seule masse des tirs. En retour, l&#x27;Ukraine a continué de frapper des cibles de premier plan sur le sol russe, les deux pays s&#x27;infligeant des destructions mutuelles à mesure que le conflit s&#x27;installe dans la durée.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

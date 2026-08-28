@@ -32,6 +32,12 @@
 <div class="terr">Gaspésie–Îles-de-la-Madeleine, Côte-Nord</div>
 <h1>Le retrait des contre-tarifs canadiens soulage l&#x27;industrie de la pêche en Gaspésie</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-retrait-des-contre-tarifs-canadiens-soulage-l-industrie-d-495de1.html"
+  data-titre="Le retrait des contre-tarifs canadiens soulage l&#x27;industrie de la pêche en Gaspésie" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-retrait-des-contre-tarifs-canadiens-soulage-l-industrie-d-495de1.html">https://entreelibre.ca/edition/2026-08-28/a/le-retrait-des-contre-tarifs-canadiens-soulage-l-industrie-d-495de1.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278176/contre-tarifs-industrie-mer-peches" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le gouvernement fédéral a décidé de retirer les poissons et fruits de mer de sa liste de contre-tarifs contre les États-Unis, une annonce faite mercredi soir à la suite d&#x27;une rencontre entre le ministre du Commerce intérieur, Dominic LeBlanc, des élus provinciaux et des acteurs de l&#x27;industrie. L&#x27;intention initiale d&#x27;Ottawa d&#x27;imposer des contre-tarifs de 25 % sur les produits de la mer américains avait suscité de vives inquiétudes dans les provinces maritimes et au Québec.</p><p>Le directeur général de l&#x27;Association québécoise de l&#x27;industrie de la pêche (AQIP), Serge Fortin, craignait surtout une réplique disproportionnée du gouvernement de Donald Trump contre les produits de la mer canadiens, alors que les pêcheries québécoises font encore principalement affaire avec des clients américains malgré des efforts de diversification. Il précise que la mesure aurait eu un impact direct sur des usines de la Gaspésie et des Îles-de-la-Madeleine qui importent du homard du Maine et emploient des travailleurs saisonniers : « Avec cette surtaxe, il n&#x27;y a pas d&#x27;intérêt pour l&#x27;usine à rester ouverte pour faire travailler ses employés », certains d&#x27;entre eux risquant même de ne pas atteindre le nombre d&#x27;heures minimal requis pour l&#x27;assurance-emploi.</p><p>M. LeBlanc affirme avoir pris sa décision après une discussion avec le premier ministre de la Nouvelle-Écosse, Tim Houston : les usines des provinces maritimes importent elles aussi des produits du Maine, qu&#x27;elles transforment avant de les exporter vers l&#x27;Asie, l&#x27;Europe et les États-Unis. Selon l&#x27;AQIP, l&#x27;industrie vise malgré tout à réduire sa dépendance au marché américain, actuellement à 90 % des ventes, à 70 ou 80 % d&#x27;ici deux à trois ans.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

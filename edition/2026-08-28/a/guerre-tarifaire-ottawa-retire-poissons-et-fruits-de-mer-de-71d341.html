@@ -32,6 +32,12 @@
 <div class="terr">Canada</div>
 <h1>Guerre tarifaire: Ottawa retire poissons et fruits de mer de sa liste de représailles, Trump hausse le ton</h1>
 <div class="chapo">Le Journal de Montréal, Les Affaires (La Presse canadienne) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/guerre-tarifaire-ottawa-retire-poissons-et-fruits-de-mer-de-71d341.html"
+  data-titre="Guerre tarifaire: Ottawa retire poissons et fruits de mer de sa liste de représailles, Trump hausse le ton" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/guerre-tarifaire-ottawa-retire-poissons-et-fruits-de-mer-de-71d341.html">https://entreelibre.ca/edition/2026-08-28/a/guerre-tarifaire-ottawa-retire-poissons-et-fruits-de-mer-de-71d341.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.journaldemontreal.com/2026/08/27/riposte-canadienne--le-poisson-et-les-fruits-de-mer-retires-de-la-liste-des-contre-tarifs" target="_blank" rel="noopener"><span class="src-nom">Le Journal de Montréal</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Les Affaires (La Presse canadienne), sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le gouvernement fédéral a retiré les poissons et les fruits de mer américains — saumon, morue, crevettes, homard, pétoncles et une dizaine d&#x27;autres catégories — de sa liste de contre-tarifs, qui devait leur imposer des droits de douane de 25 % dès le mardi suivant la fête du Travail. Le ministère des Finances explique ce changement par des consultations menées auprès de l&#x27;industrie, «pour nous protéger contre les préjudices économiques plus généraux [...] tout en maintenant une réponse équivalente au dollar près et au taux près».</p><p>Ce réajustement survient deux jours après l&#x27;annonce, par Ottawa, d&#x27;une série de droits de douane de rétorsion sur environ 27,6 milliards de dollars de produits américains — dont les tarifs sur l&#x27;acier et l&#x27;aluminium américains, doublés à 50 % —, en réponse aux droits de 50 % imposés en fin de semaine par Washington sur 28 milliards de dollars de produits canadiens; un plan d&#x27;aide de 7,5 milliards aux entreprises et travailleurs touchés accompagne la mesure. Selon plusieurs médias américains, l&#x27;administration Trump envisagerait de riposter à son tour si les contre-tarifs canadiens entrent bel et bien en vigueur le 8 septembre.</p><p>Le président américain a pour sa part durci le ton, affirmant en entrevue à l&#x27;animateur conservateur Glenn Beck qu&#x27;«il est temps d&#x27;apprendre au Canada qu&#x27;il ne peut plus agir ainsi» et répétant des affirmations erronées sur la gestion de l&#x27;offre laitière canadienne et l&#x27;industrie automobile. Son conseiller principal, Peter Navarro, a qualifié le premier ministre Mark Carney de «pire chose qui soit arrivée au Canada» et le premier ministre ontarien Doug Ford de «berger allemand» de M. Carney, les accusant tous deux de vouloir «jouer la carte politique avec un pays qui est économiquement bien plus puissant» que le Canada. Le déficit commercial américain envers le Canada s&#x27;explique en grande partie par les achats d&#x27;énergie et de pétrole plutôt que par les pratiques dénoncées par M. Trump.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

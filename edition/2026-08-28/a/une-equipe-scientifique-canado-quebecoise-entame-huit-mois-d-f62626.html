@@ -32,6 +32,12 @@
 <div class="terr">Arctique</div>
 <h1>Une équipe scientifique canado-québécoise entame huit mois de recherche prise dans la banquise arctique</h1>
 <div class="chapo">La Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/une-equipe-scientifique-canado-quebecoise-entame-huit-mois-d-f62626.html"
+  data-titre="Une équipe scientifique canado-québécoise entame huit mois de recherche prise dans la banquise arctique" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/une-equipe-scientifique-canado-quebecoise-entame-huit-mois-d-f62626.html">https://entreelibre.ca/edition/2026-08-28/a/une-equipe-scientifique-canado-quebecoise-entame-huit-mois-d-f62626.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/actualites/sciences/2026-08-26/etude-de-l-ecosysteme-arctique/l-equipe-d-un-" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Six scientifiques et six membres d&#x27;équipage ont entamé une mission de huit mois à bord de la station de recherche polaire Tara, un navire en forme de soucoupe conçu pour être pris directement dans la banquise arctique plutôt que d&#x27;y naviguer librement. Le chercheur principal du projet, Maxime Geoffroy, de l&#x27;Institut des pêches et des sciences marines de l&#x27;Université Memorial, indique que l&#x27;équipe doit mener plus de 220 protocoles de recherche durant la dérive.</p><p>« Même si nous ne sommes que six scientifiques à bord, [c&#x27;est] une très bonne analogie avec la Station spatiale internationale », a-t-il expliqué à La Presse, en évoquant l&#x27;isolement et la diversité des tâches à accomplir dans un espace confiné pendant plusieurs mois. Le projet doit documenter l&#x27;évolution de l&#x27;écosystème arctique sur un cycle complet de gel et de dégel, une durée jugée nécessaire pour observer des changements saisonniers complets.</p><p>Ce type de mission de dérive prolongée dans la banquise reste rare, la plupart des expéditions scientifiques arctiques se limitant à des séjours de quelques semaines plutôt que de plusieurs mois consécutifs. Le choix d&#x27;une station en forme de soucoupe, plutôt qu&#x27;un navire classique, vise justement à résister à la pression exercée par la glace qui se referme autour de la coque durant l&#x27;hiver polaire.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Saguenay–Lac-Saint-Jean et Côte-Nord</div>
 <h1>L&#x27;Alliance des communautés forestières dépose ses demandes aux partis politiques</h1>
 <div class="chapo">Le Nouvelliste, Le Quotidien · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-alliance-des-communautes-forestieres-depose-ses-demandes-a-65a2df.html"
+  data-titre="L&#x27;Alliance des communautés forestières dépose ses demandes aux partis politiques" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-alliance-des-communautes-forestieres-depose-ses-demandes-a-65a2df.html">https://entreelibre.ca/edition/2026-08-28/a/l-alliance-des-communautes-forestieres-depose-ses-demandes-a-65a2df.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lenouvelliste.ca/affaires/2026/08/27/lalliance-des-communautes-forestieres-depose-ses-demandes-XVL6WLJRQZHWFMMKMFJZF3NEVE/" target="_blank" rel="noopener"><span class="src-nom">Le Nouvelliste</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Quotidien, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>« Chaque jour, des centaines de familles vivent dans l&#x27;incertitude la plus totale », affirme d&#x27;entrée de jeu l&#x27;Alliance des communautés forestières, qui regroupe les municipalités forestières du Saguenay–Lac-Saint-Jean et de la Côte-Nord, dans un document transmis à l&#x27;ensemble des formations politiques en campagne. « Le secteur forestier et nos communautés vivent une crise majeure », poursuit l&#x27;organisme. Elle évoque des entrepreneurs peinant à survivre, des travailleurs perdant leur emploi, des familles incapables de subvenir à leurs besoins et des communautés qui se dévitalisent. Sa première demande vise à faire désigner le bois comme un matériau stratégique, assortie de leviers politiques capables de dégager des moyens financiers importants pour soutenir la filière — les modifications apportées au régime forestier en fin de mandat par le gouvernement caquiste n&#x27;étant, selon la coalition, visiblement pas suffisantes.</p><p>L&#x27;Alliance presse le prochain gouvernement de relancer dès son entrée en fonction les travaux de modernisation du régime forestier, en s&#x27;appuyant sur les tables sur l&#x27;avenir des forêts et les consultations menées en 2024 et 2025. Cette modernisation devrait selon elle reposer sur une vision globale de la filière, partagée autant par les communautés forestières que par les Premières Nations.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

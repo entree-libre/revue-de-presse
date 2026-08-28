@@ -33,6 +33,12 @@
 <div class="terr">Syrie</div>
 <h1>Syrie : l&#x27;ex-chef kurde Mazloum Abdi nommé conseiller à la présidence</h1>
 <div class="chapo">RFI (AFP), Al-Manar · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/syrie-l-ex-chef-kurde-mazloum-abdi-nomme-conseiller-a-la-pre-4da1cf.html"
+  data-titre="Syrie : l&#x27;ex-chef kurde Mazloum Abdi nommé conseiller à la présidence" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/syrie-l-ex-chef-kurde-mazloum-abdi-nomme-conseiller-a-la-pre-4da1cf.html">https://entreelibre.ca/edition/2026-08-28/a/syrie-l-ex-chef-kurde-mazloum-abdi-nomme-conseiller-a-la-pre-4da1cf.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/General_Commander_Mazlum_Abdi.png" onerror="this.closest('figure').remove()"><figcaption>Mazloum Abdi, ex-commandant des Forces démocratiques syriennes. Photo : Sirwan Kajjo for VOA, Public domain, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.rfi.fr/fr/moyen-orient/20260828-syrie-le-pr%C3%A9sident-ahmed-al-charaa-fait-du-chef-kurde-mazloum-abdi-l-un-de-ses-conseillers" target="_blank" rel="noopener"><span class="src-nom">RFI (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Al-Manar, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le président syrien Ahmed al-Charaa a nommé vendredi le dirigeant kurde Mazloum Abdi conseiller auprès de la présidence. Le décret, publié par l&#x27;agence officielle Sana, le désigne sous son état civil, Moustafa Khalil Abdi. La nomination intervient quelques jours après que l&#x27;intéressé a annoncé, mardi, la dissolution des Forces démocratiques syriennes (FDS), en application de l&#x27;accord d&#x27;intégration conclu en janvier avec Damas.</p><p>Formées en 2015 à l&#x27;initiative des États-Unis après la bataille de Kobané, les FDS ont été le fer de lance de la lutte contre le groupe État islamique. Elles ont compté jusqu&#x27;à environ 100 000 combattants kurdes et arabes et contrôlé de vastes zones du nord-est syrien, riches en pétrole. Mazloum Abdi s&#x27;est rallié à l&#x27;intégration après les affrontements de janvier, qui ont vu les Kurdes perdre du terrain face aux troupes gouvernementales, au moment où Washington se rapprochait de Damas. L&#x27;émissaire américain Tom Barrack a salué une décision « absolument historique » qui, selon lui, renforce la souveraineté syrienne. L&#x27;accord met en revanche fin aux espoirs d&#x27;autonomie kurde.</p><p>Ahmed al-Charaa a par ailleurs signé un décret consacrant les droits nationaux des Kurdes et reconnaissant le kurde comme langue nationale — une première depuis l&#x27;indépendance de 1946, selon l&#x27;AFP. Le ministère de l&#x27;Éducation annonce son intégration à l&#x27;école dans les zones kurdes.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">États-Unis, Chine</div>
 <h1>Trump déclare l&#x27;état d&#x27;urgence sur le réseau électrique américain, visant indirectement la Chine</h1>
 <div class="chapo">L&#x27;EnerGeek, Le Figaro, Le Monde · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/trump-declare-l-etat-d-urgence-sur-le-reseau-electrique-amer-48548a.html"
+  data-titre="Trump déclare l&#x27;état d&#x27;urgence sur le réseau électrique américain, visant indirectement la Chine" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/trump-declare-l-etat-d-urgence-sur-le-reseau-electrique-amer-48548a.html">https://entreelibre.ca/edition/2026-08-28/a/trump-declare-l-etat-d-urgence-sur-le-reseau-electrique-amer-48548a.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://lenergeek.com/2026/08/27/donald-trump-etat-urgence-reseau/" target="_blank" rel="noopener"><span class="src-nom">L&#x27;EnerGeek</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Figaro, Le Monde, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Donald Trump a proclamé le 26 août l&#x27;état d&#x27;urgence nationale pour le réseau électrique des États-Unis. Le décret interdit l&#x27;achat et l&#x27;installation d&#x27;équipements provenant de pays sous embargo ou sanctions américaines sur le commerce des armes. Le texte ne mentionne aucun pays en particulier, mais la Chine, principal exportateur mondial d&#x27;équipements de réseau électrique, est le pays le plus directement concerné par ces restrictions, selon le site spécialisé L&#x27;EnerGeek.</p><p>Le décret cible des composants jugés critiques pour l&#x27;infrastructure électrique du pays : transformateurs, onduleurs, systèmes de stockage par batteries, automates industriels, logiciels et accès à distance aux réseaux. Les transformateurs jouent un rôle central dans l&#x27;infrastructure électrique américaine, assurant la conversion et la distribution de l&#x27;électricité à grande échelle sur l&#x27;ensemble du territoire.</p><p>Cette interdiction met en lumière la dépendance persistante des opérateurs américains envers des fournisseurs chinois pour des technologies essentielles à la transition énergétique en cours. Elle les oblige désormais à chercher des alternatives domestiques ou européennes, généralement plus coûteuses et disponibles en quantités plus limitées à court terme, ce qui pourrait retarder certains projets d&#x27;infrastructure déjà engagés.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

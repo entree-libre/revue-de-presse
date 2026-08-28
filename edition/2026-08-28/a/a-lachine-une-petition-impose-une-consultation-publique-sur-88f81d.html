@@ -32,6 +32,12 @@
 <div class="terr">Lachine</div>
 <h1>À Lachine, une pétition impose une consultation publique sur la baignade en eau libre</h1>
 <div class="chapo">Nouvelles d&#x27;Ici · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/a-lachine-une-petition-impose-une-consultation-publique-sur-88f81d.html"
+  data-titre="À Lachine, une pétition impose une consultation publique sur la baignade en eau libre" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/a-lachine-une-petition-impose-une-consultation-publique-sur-88f81d.html">https://entreelibre.ca/edition/2026-08-28/a/a-lachine-une-petition-impose-une-consultation-publique-sur-88f81d.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://nouvellesdici.com/actu/consultation-publique-sur-la-baignade-en-eau-libre-a-lachine-obtenue-mais-pas-encore-confirmee-ni-financee/" target="_blank" rel="noopener"><span class="src-nom">Nouvelles d&#x27;Ici</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Une pétition réclamant la consultation de la population sur un projet de piscine en eau libre à Lachine a franchi le cap des 1 941 signatures requises, ce qui obligera l&#x27;arrondissement à financer et à tenir une consultation publique une fois la conformité des signatures vérifiée — un processus qui peut prendre jusqu&#x27;à 21 jours après la clôture de la pétition, le 21 septembre. La mairesse de Lachine, Julie-Pascale Provost, affirme qu&#x27;il faudra « trouver une façon de financer cette consultation publique-là qui n&#x27;est absolument pas budgétée », alors qu&#x27;elle évoquait en juin un coût d&#x27;au moins 120 000 $. Elle dit devoir composer en parallèle avec la relocalisation des organismes communautaires de l&#x27;ancien Centre Albert-Gariépy, un dossier qu&#x27;elle juge urgent. À Verdun, une consultation publique tenue en vertu du même droit d&#x27;initiative citoyen, pour la piétonnisation permanente de la rue Wellington, avait d&#x27;abord été estimée à 115 000 $ entre novembre 2024 et février 2025. Les signatures de la pétition lachinoise doivent provenir de résidentes et résidents âgés de 15 ans et plus. Le droit d&#x27;initiative citoyen permet à la population de forcer la tenue d&#x27;une consultation publique sur un enjeu de son choix, à condition de réunir un nombre de signatures suffisant.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

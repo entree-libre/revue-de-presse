@@ -33,6 +33,12 @@
 <div class="terr">Saint-Augustin-de-Desmaures</div>
 <h1>Saint-Augustin-de-Desmaures menace de quitter le RTC pour créer son propre transport collectif</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/saint-augustin-de-desmaures-menace-de-quitter-le-rtc-pour-cr-4319ed.html"
+  data-titre="Saint-Augustin-de-Desmaures menace de quitter le RTC pour créer son propre transport collectif" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/saint-augustin-de-desmaures-menace-de-quitter-le-rtc-pour-cr-4319ed.html">https://entreelibre.ca/edition/2026-08-28/a/saint-augustin-de-desmaures-menace-de-quitter-le-rtc-pour-cr-4319ed.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saint-Augustin-de-Desmaures.jpg/1280px-Saint-Augustin-de-Desmaures.jpg" onerror="this.closest('figure').remove()"><figcaption>Saint-Augustin-de-Desmaures. Photo : Roncanada, CC0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/info/videos/1-10746465/saint-augustin-desmaures-menace-larguer-rtc-et-creer-son-reseau-transport" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le maire de Saint-Augustin-de-Desmaures, Sylvain Juneau, envisage que sa municipalité se retire du Réseau de transport de la Capitale (RTC) pour mettre sur pied son propre service de transport collectif.</p><p>Il qualifie le réseau actuel de « disgracieux, onéreux et carrément mauvais » pour les résidents de sa ville, située à l&#x27;ouest de l&#x27;agglomération de Québec.</p><p>Aucune décision n&#x27;a été prise à ce stade et le RTC n&#x27;avait pas répondu publiquement à ces critiques. Un retrait supposerait de démêler la contribution financière de la municipalité au réseau métropolitain et la desserte de ses résidents vers le centre de Québec.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

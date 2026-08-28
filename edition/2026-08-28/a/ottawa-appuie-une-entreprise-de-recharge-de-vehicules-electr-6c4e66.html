@@ -32,6 +32,12 @@
 <div class="terr">Etobicoke (Ontario)</div>
 <h1>Ottawa appuie une entreprise de recharge de véhicules électriques à Etobicoke</h1>
 <div class="chapo">Gouvernement du Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ottawa-appuie-une-entreprise-de-recharge-de-vehicules-electr-6c4e66.html"
+  data-titre="Ottawa appuie une entreprise de recharge de véhicules électriques à Etobicoke" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ottawa-appuie-une-entreprise-de-recharge-de-vehicules-electr-6c4e66.html">https://entreelibre.ca/edition/2026-08-28/a/ottawa-appuie-une-entreprise-de-recharge-de-vehicules-electr-6c4e66.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2026/08/le-gouvernement-du-canada-appuie-les-entreprises-detobicoke-afin-de-stimuler-la-croissance-et-de-renforcer-la-competitivite.html" target="_blank" rel="noopener"><span class="src-nom">Gouvernement du Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le gouvernement fédéral, par l&#x27;entremise de l&#x27;Agence fédérale de développement économique pour le Sud de l&#x27;Ontario, a annoncé un investissement de quatre millions de dollars dans l&#x27;entreprise SWTCH Energy, basée à Etobicoke, afin de renforcer sa résilience et sa compétitivité. Les fonds doivent permettre à l&#x27;entreprise d&#x27;accroître ses capacités de service pour soutenir le déploiement de ses solutions de recharge pour véhicules électriques auprès d&#x27;une clientèle commerciale et résidentielle.</p><p>L&#x27;annonce fait partie d&#x27;une série d&#x27;investissements fédéraux régionaux destinés à aider les petites et moyennes entreprises ontariennes à composer avec les pressions tarifaires actuelles tout en misant sur la croissance de secteurs jugés porteurs, comme celui de l&#x27;électrification des transports. Ottawa présente ce type de financement ciblé comme un complément aux mesures plus larges de soutien commercial déployées depuis le début du conflit tarifaire avec les États-Unis.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

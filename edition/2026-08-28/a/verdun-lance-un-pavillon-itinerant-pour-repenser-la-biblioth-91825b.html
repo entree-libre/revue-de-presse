@@ -32,6 +32,12 @@
 <div class="terr">Verdun</div>
 <h1>Verdun lance un pavillon itinérant pour repenser la bibliothèque de demain</h1>
 <div class="chapo">Ville de Montréal · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/verdun-lance-un-pavillon-itinerant-pour-repenser-la-biblioth-91825b.html"
+  data-titre="Verdun lance un pavillon itinérant pour repenser la bibliothèque de demain" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/verdun-lance-un-pavillon-itinerant-pour-repenser-la-biblioth-91825b.html">https://entreelibre.ca/edition/2026-08-28/a/verdun-lance-un-pavillon-itinerant-pour-repenser-la-biblioth-91825b.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://montreal.ca/actualites/activites-gratuites-verdun-lancement-du-pavillon-bibliobservatoire-vivant-119104" target="_blank" rel="noopener"><span class="src-nom">Ville de Montréal</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;arrondissement de Verdun et l&#x27;Université de Montréal lancent le 12 septembre le Bibliobservatoire Vivant, un pavillon éphémère et itinérant qui explore comment les bibliothèques peuvent contribuer à des villes plus solidaires face aux inégalités sociales et aux bouleversements climatiques. La journée de lancement, gratuite, se tiendra de 10 h 30 à 20 h au parc des Madelinots, avec heure du conte, atelier créatif et performance de danse contemporaine. Le projet, financé par le Fonds de recherche du Québec, réunit des chercheuses et chercheurs de l&#x27;École d&#x27;architecture et de l&#x27;École de bibliothéconomie et des sciences de l&#x27;information de l&#x27;Université de Montréal, qui y voient un espace d&#x27;expérimentation et de cocréation avec la population plutôt qu&#x27;un simple lieu de prêt de livres. Les bibliothèques de Verdun sont associées à la démarche depuis la définition du concept jusqu&#x27;à son déploiement sur le territoire. Le pavillon voyagera ensuite aux berges de Verdun en octobre, puis au parc de la Fontaine, à L&#x27;Île-des-Sœurs, en novembre.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

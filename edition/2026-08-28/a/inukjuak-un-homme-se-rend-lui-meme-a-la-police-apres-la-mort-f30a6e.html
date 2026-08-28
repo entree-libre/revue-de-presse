@@ -32,6 +32,12 @@
 <div class="terr">Nord-du-Québec (Nunavik)</div>
 <h1>Inukjuak : un homme se rend lui-même à la police après la mort d&#x27;une femme</h1>
 <div class="chapo">Nunatsiaq News, Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/inukjuak-un-homme-se-rend-lui-meme-a-la-police-apres-la-mort-f30a6e.html"
+  data-titre="Inukjuak : un homme se rend lui-même à la police après la mort d&#x27;une femme" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/inukjuak-un-homme-se-rend-lui-meme-a-la-police-apres-la-mort-f30a6e.html">https://entreelibre.ca/edition/2026-08-28/a/inukjuak-un-homme-se-rend-lui-meme-a-la-police-apres-la-mort-f30a6e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278090/meurtre-nunavik-nord-femme" target="_blank" rel="noopener"><span class="src-nom">Nunatsiaq News</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Radio-Canada, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un homme de 45 ans de la communauté inuite d&#x27;Inukjuak, au Nunavik, fait face à une accusation de meurtre après la mort d&#x27;une femme de 41 ans, retrouvée sans vie dans une résidence du village. Selon la Sûreté du Québec, l&#x27;accusé, Charlie Palliser, s&#x27;est lui-même présenté au poste de police de la communauté lundi dernier pour informer les agents qu&#x27;il avait commis le crime.</p><p>Les policiers, dépêchés immédiatement sur place, ont découvert une femme vraisemblablement poignardée; son décès a été constaté au CLSC du village. L&#x27;homme a été arrêté et interrogé par les enquêteurs de l&#x27;unité des crimes majeurs de la SQ; il a comparu par visioconférence et demeure détenu pour la suite des procédures. Un technicien en scène de crime s&#x27;est rendu dans la communauté pour recueillir des preuves, mais la SQ n&#x27;a pas confirmé officiellement l&#x27;identité de la victime ni son lien avec l&#x27;accusé.</p><p>Des documents judiciaires cités par Nunatsiaq News identifient la victime comme étant Elisabeth Qumak, 41 ans, décrite comme la conjointe de l&#x27;accusé; celui-ci fait face à une accusation de meurtre au premier degré, dont la peine minimale prévue au Code criminel est l&#x27;emprisonnement à vie.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

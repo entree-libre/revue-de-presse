@@ -33,6 +33,12 @@
 <div class="terr">Québec</div>
 <h1>Le Devoir: le coup d&#x27;envoi de la campagne électorale québécoise, entre pivot historique et ombre de Trump</h1>
 <div class="chapo">Le Devoir · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-devoir-le-coup-d-envoi-de-la-campagne-electorale-quebecoi-8deba1.html"
+  data-titre="Le Devoir: le coup d&#x27;envoi de la campagne électorale québécoise, entre pivot historique et ombre de Trump" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-devoir-le-coup-d-envoi-de-la-campagne-electorale-quebecoi-8deba1.html">https://entreelibre.ca/edition/2026-08-28/a/le-devoir-le-coup-d-envoi-de-la-campagne-electorale-quebecoi-8deba1.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_l%27H%C3%B4tel_du_Parlement%2C_fa%C3%A7ade_avec_ancien_entr%C3%A9_principal.jpg/1280px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_l%27H%C3%B4tel_du_Parlement%2C_fa%C3%A7ade_avec_ancien_entr%C3%A9_principal.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;Hôtel du Parlement, à Québec, siège de l&#x27;Assemblée nationale. Photo : Marc-Lautenbacher, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledevoir.com/opinion/editoriaux/1004051/ombre-electorale-bis-donald-trump" target="_blank" rel="noopener"><span class="src-nom">Le Devoir</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le coup d&#x27;envoi de la campagne électorale québécoise, qui mènera au scrutin du 5 octobre, survient alors que la guerre commerciale avec les États-Unis s&#x27;intensifie — une coïncidence qui inquiète les éditorialistes du Devoir. Pour la journaliste Marie Vastel, l&#x27;escalade tarifaire risque d&#x27;accaparer «la première moitié» de la campagne, au risque de reléguer au second rang la santé, l&#x27;éducation, la crise du logement et l&#x27;environnement, pourtant au sommet des préoccupations citoyennes; selon l&#x27;économiste Trevor Tombe, la dernière salve de droits de douane américains pourrait à elle seule coûter 18 300 emplois au Québec et 69 000 ailleurs au Canada. Un sondage Angus Reid indique que 85 % des Québécois appuient la décision du premier ministre Mark Carney de rejeter l&#x27;offre commerciale américaine, mais un sondage Léger montre que près de la moitié des électeurs pourraient encore changer d&#x27;idée d&#x27;ici au vote.</p><p>Le directeur du Devoir, Brian Myles, dresse pour sa part le bilan d&#x27;une série éditoriale menée tout l&#x27;été sur les grands chantiers de la prochaine législature — santé, éducation, finances publiques, langue et relations internationales — et constate que «le contrat social entre la classe dirigeante et la population s&#x27;effrite», tous partis confondus. Il note que le gouvernement sortant de la Coalition avenir Québec a tenu la majeure partie de ses promesses, selon le Polimètre du Centre d&#x27;analyse des politiques publiques de l&#x27;Université Laval, malgré «un essoufflement dans la dernière ligne droite». M. Myles appelle les électeurs à résister «aux idées simplistes et aux leurres du clientélisme» et plaide pour un débat de fond sur la direction que doit prendre la société québécoise, entre autonomisme, souveraineté et fédéralisme.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

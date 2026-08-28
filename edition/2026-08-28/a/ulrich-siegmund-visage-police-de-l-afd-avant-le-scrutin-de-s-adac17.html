@@ -33,6 +33,12 @@
 <div class="terr">Allemagne</div>
 <h1>Ulrich Siegmund, visage policé de l&#x27;AfD avant le scrutin de Saxe-Anhalt</h1>
 <div class="chapo">La Croix, Deutsche Welle · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ulrich-siegmund-visage-police-de-l-afd-avant-le-scrutin-de-s-adac17.html"
+  data-titre="Ulrich Siegmund, visage policé de l&#x27;AfD avant le scrutin de Saxe-Anhalt" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ulrich-siegmund-visage-police-de-l-afd-avant-le-scrutin-de-s-adac17.html">https://entreelibre.ca/edition/2026-08-28/a/ulrich-siegmund-visage-police-de-l-afd-avant-le-scrutin-de-s-adac17.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%282026%29_AfD_Ulrich_Siegmund_160024148.jpg/1280px-%282026%29_AfD_Ulrich_Siegmund_160024148.jpg" onerror="this.closest('figure').remove()"><figcaption>Ulrich Siegmund, tête de liste de l&#x27;AfD pour l&#x27;élection régionale de Saxe-Anhalt. Photo : Roy Zuo, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.la-croix.com/international/ulrich-siegmund-l-etoile-montante-inattendue-et-lisse-de-lextreme-droite-allemande-20260828" target="_blank" rel="noopener"><span class="src-nom">La Croix</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Deutsche Welle, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>À dix jours de l&#x27;élection régionale du 6 septembre en Saxe-Anhalt, La Croix et la Deutsche Welle dressent le portrait d&#x27;Ulrich Siegmund, tête de liste de l&#x27;Alternative pour l&#x27;Allemagne (AfD). Le parti est classé extrémiste de droite avéré par le renseignement intérieur allemand. Devant 5 000 personnes rassemblées à Quedlinbourg, le candidat cultive un style souriant et consensuel, à rebours de l&#x27;image provocatrice de sa formation. Une « extrême droite version bonne humeur », résume la chaîne allemande.</p><p>Les deux rédactions décrivent une stratégie de normalisation : vocabulaire policé, présence assidue sur les réseaux sociaux et thèmes centrés sur le pouvoir d&#x27;achat et l&#x27;immigration. La Croix note que cette candidature « lisse » et inattendue incarne la nouvelle génération de cadres du parti, formée dans les parlements régionaux de l&#x27;Est. Le scrutin de Saxe-Anhalt est suivi dans toute l&#x27;Allemagne. Une victoire de l&#x27;AfD en ferait la première formation de ce courant à diriger un gouvernement régional depuis 1945, un scénario que les autres partis disent vouloir empêcher par leurs alliances.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

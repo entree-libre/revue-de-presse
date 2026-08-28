@@ -32,6 +32,12 @@
 <div class="terr">Russie</div>
 <h1>La peste faisait déjà des ravages chez les chasseurs-cueilleurs du lac Baïkal, il y a près de 5 000 ans</h1>
 <div class="chapo">Pour la Science · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-peste-faisait-deja-des-ravages-chez-les-chasseurs-cueille-e8955a.html"
+  data-titre="La peste faisait déjà des ravages chez les chasseurs-cueilleurs du lac Baïkal, il y a près de 5 000 ans" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-peste-faisait-deja-des-ravages-chez-les-chasseurs-cueille-e8955a.html">https://entreelibre.ca/edition/2026-08-28/a/la-peste-faisait-deja-des-ravages-chez-les-chasseurs-cueille-e8955a.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.pourlascience.fr/sd/paleoanthropologie/la-peste-faisait-deja-des-ravages-chez-les-chasse" target="_blank" rel="noopener"><span class="src-nom">Pour la Science</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Une équipe internationale menée par Eske Willerslev, de l&#x27;Université de Copenhague, a établi que la peste faisait déjà des victimes parmi des populations de chasseurs-cueilleurs aux abords du lac Baïkal, en Sibérie, près de 5 000 ans avant que la peste noire ne décime l&#x27;Europe. Le résultat, publié selon Pour la Science, s&#x27;appuie sur l&#x27;analyse d&#x27;ADN ancien prélevé sur des restes humains retrouvés dans la région.</p><p>Cette découverte contredit l&#x27;idée selon laquelle les flambées de peste ne se seraient déclarées que dans des communautés sédentaires et agricoles, plus denses et davantage au contact d&#x27;animaux porteurs de la maladie. Les populations de chasseurs-cueilleurs, généralement moins nombreuses et plus mobiles, étaient jusqu&#x27;ici considérées comme moins exposées à ce type de maladie infectieuse.</p><p>Cette découverte repousse ainsi la présence documentée de la maladie chez l&#x27;humain bien avant l&#x27;apparition de l&#x27;agriculture dans cette région, et invite à reconsidérer les conditions qui permettent l&#x27;émergence de foyers épidémiques anciens. L&#x27;équipe a pu retracer, grâce à l&#x27;ADN ancien, plusieurs lignées distinctes de la bactérie responsable de la peste ayant circulé dans la région à des époques différentes.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

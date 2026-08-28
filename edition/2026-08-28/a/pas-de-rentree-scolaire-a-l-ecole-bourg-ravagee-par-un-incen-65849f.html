@@ -32,6 +32,12 @@
 <div class="terr">Gaspésie–Îles-de-la-Madeleine</div>
 <h1>Pas de rentrée scolaire à l&#x27;école Bourg, ravagée par un incendie en janvier</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/pas-de-rentree-scolaire-a-l-ecole-bourg-ravagee-par-un-incen-65849f.html"
+  data-titre="Pas de rentrée scolaire à l&#x27;école Bourg, ravagée par un incendie en janvier" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/pas-de-rentree-scolaire-a-l-ecole-bourg-ravagee-par-un-incen-65849f.html">https://entreelibre.ca/edition/2026-08-28/a/pas-de-rentree-scolaire-a-l-ecole-bourg-ravagee-par-un-incen-65849f.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278293/chantier-renovations-incendie-carleton-mer" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les élèves de l&#x27;école Bourg, à Carleton-sur-Mer, dont l&#x27;édifice a été la proie des flammes en janvier dernier, passeront toute l&#x27;année scolaire 2026-2027 à l&#x27;ancienne école Saint-Paul, à Maria. Le Centre de services scolaire René-Lévesque (CSSRL) l&#x27;a confirmé mercredi aux familles, après avoir sécurisé le bâtiment sinistré et retiré l&#x27;amiante qui s&#x27;y trouvait. Le chantier de démolition et de reconstruction de la zone endommagée n&#x27;a toutefois pas encore commencé : la directrice générale du CSSRL, Sandra Nicol, prévoit un appel d&#x27;offres en septembre, l&#x27;ouverture des soumissions en octobre et le début des travaux en novembre, pour un échéancier qui doit s&#x27;étendre jusqu&#x27;à l&#x27;été 2027.</p><p>L&#x27;absence de gymnase à l&#x27;école Saint-Paul avait forcé la suspension des activités parascolaires l&#x27;an dernier, les cours d&#x27;éducation physique se donnant plutôt au centre communautaire de Maria, à environ un kilomètre de l&#x27;école. Plusieurs élèves, dont les jumeaux Flavie et Xavier Landry, auraient préféré revenir à Carleton-sur-Mer pour leur dernière année du primaire, jugeant trop petits la cour et le gymnase temporaires. « On va quand même tenter de voir si on peut avoir accès au gymnase (...) le parascolaire, c&#x27;est important », indique Mme Nicol, qui ajoute que le calendrier de cette année permettra une planification plus structurée qu&#x27;à pareille date l&#x27;an dernier.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

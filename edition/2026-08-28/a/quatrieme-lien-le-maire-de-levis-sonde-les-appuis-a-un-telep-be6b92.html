@@ -32,6 +32,12 @@
 <div class="terr">Capitale-Nationale</div>
 <h1>« Quatrième lien » : le maire de Lévis sonde les appuis à un téléphérique</h1>
 <div class="chapo">Le Soleil · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/quatrieme-lien-le-maire-de-levis-sonde-les-appuis-a-un-telep-be6b92.html"
+  data-titre="« Quatrième lien » : le maire de Lévis sonde les appuis à un téléphérique" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/quatrieme-lien-le-maire-de-levis-sonde-les-appuis-a-un-telep-be6b92.html">https://entreelibre.ca/edition/2026-08-28/a/quatrieme-lien-le-maire-de-levis-sonde-les-appuis-a-un-telep-be6b92.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lesoleil.com/actualites/actualites-locales/la-capitale/2026/08/28/quatrieme-lien-steven-blaney-pousse-pour-un-telepherique-en-coulisses-VLGPWT4NERB33DLNM4PO5LEJZE/" target="_blank" rel="noopener"><span class="src-nom">Le Soleil</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Ce n&#x27;est pas un hasard si le maire de Lévis, Steven Blaney, a commencé à évoquer publiquement un « quatrième lien » de transport en commun entre Québec et Lévis ces derniers jours : son administration sonde depuis quelques mois, en coulisses, les appuis à un nouveau concept de téléphérique urbain reliant les deux rives. Le tracé à l&#x27;étude relierait le centre-ville de Lévis, près du centre commercial Les Galeries Chagnon, au réseau du tramway de Québec, par des cabines aériennes. Une rencontre aurait eu lieu ce printemps à l&#x27;hôtel de ville de Lévis avec des représentants d&#x27;organisations qui pourraient éventuellement participer au projet, où le maire et des promoteurs du concept ont présenté l&#x27;idée à leurs partenaires potentiels.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

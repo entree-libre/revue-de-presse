@@ -32,6 +32,12 @@
 <div class="terr">Laval</div>
 <h1>La résidence patrimoniale Marcel-Saint-Pierre, à Laval, enfin inaugurée</h1>
 <div class="chapo">Courrier Laval · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-residence-patrimoniale-marcel-saint-pierre-a-laval-enfin-05df3c.html"
+  data-titre="La résidence patrimoniale Marcel-Saint-Pierre, à Laval, enfin inaugurée" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-residence-patrimoniale-marcel-saint-pierre-a-laval-enfin-05df3c.html">https://entreelibre.ca/edition/2026-08-28/a/la-residence-patrimoniale-marcel-saint-pierre-a-laval-enfin-05df3c.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://courrierlaval.com/residence-marcel-saint-pierre-inauguree-laval/" target="_blank" rel="noopener"><span class="src-nom">Courrier Laval</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Après huit ans de travaux de restauration, la résidence de création Marcel-Saint-Pierre, dans le Vieux Sainte-Rose à Laval, a ouvert ses portes au grand public du 21 au 23 août. Quelque 1300 visiteurs ont foulé ce site patrimonial vieux de près de 300 ans, aux abords de la rivière des Mille Îles, où exposition muséale, ateliers créatifs, conférences et cinéma en plein air marquaient la fin des travaux. « Grâce à cette revitalisation, cette maison riche en histoire continuera d&#x27;être le témoin privilégié d&#x27;œuvres en pleine création qui prendront racine sur notre territoire », a déclaré Valérie Laforest, directrice adjointe du Service de la culture, des loisirs, du sport et du développement social à la Ville de Laval, lors du coup d&#x27;envoi de la fête le 21 août.</p><p>Le public a aussi pu découvrir l&#x27;exposition Habiter l&#x27;histoire. Le jardin avoisinant accueille par ailleurs une sculpture d&#x27;André Fournelle, Le tombeau de Couperin : hommage à Marcel Saint-Pierre. Plusieurs partenaires culturels se sont joints à la Ville de Laval pour souligner cette revitalisation.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

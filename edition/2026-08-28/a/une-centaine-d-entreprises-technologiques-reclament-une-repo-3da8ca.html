@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>Une centaine d&#x27;entreprises technologiques réclament une « réponse mondiale » aux cyberattaques amplifiées par l&#x27;IA</h1>
 <div class="chapo">Radio-Canada, Les Affaires, France 24 (AFP) · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/une-centaine-d-entreprises-technologiques-reclament-une-repo-3da8ca.html"
+  data-titre="Une centaine d&#x27;entreprises technologiques réclament une « réponse mondiale » aux cyberattaques amplifiées par l&#x27;IA" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/une-centaine-d-entreprises-technologiques-reclament-une-repo-3da8ca.html">https://entreelibre.ca/edition/2026-08-28/a/une-centaine-d-entreprises-technologiques-reclament-une-repo-3da8ca.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2278251/cyberattaques-amplifiees-ia-geants-tech-pour-reponse-mondiale" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Les Affaires, France 24 (AFP), sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Plus d&#x27;une centaine d&#x27;entreprises, essentiellement américaines, ont signé jeudi une lettre ouverte appelant gouvernements et entreprises à une « réponse mondiale » pour protéger les infrastructures essentielles — hôpitaux, réseaux d&#x27;eau et autres services critiques — contre les cyberattaques amplifiées par l&#x27;intelligence artificielle.</p><p>Parmi les signataires figurent les concepteurs des principaux modèles d&#x27;IA générative, dont OpenAI, Anthropic et Google. Les entreprises disent s&#x27;attendre à des attaques « beaucoup plus répandues et sophistiquées » dans les prochains mois et estiment disposer d&#x27;une fenêtre limitée pour renforcer les cyberdéfenses.</p><p>Le texte avance aussi qu&#x27;« aucune entreprise ne devrait à elle seule contrôler l&#x27;avenir » de ces technologies. L&#x27;appel émane des fournisseurs eux-mêmes, qui sont à la fois les producteurs des outils en cause et les vendeurs des dispositifs de défense proposés ; aucune obligation contraignante n&#x27;y est associée.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

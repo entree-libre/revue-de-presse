@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Le Parti québécois essuie les coups dès le premier jour de campagne</h1>
 <div class="chapo">Le Devoir · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-parti-quebecois-essuie-les-coups-des-le-premier-jour-de-c-ca82cc.html"
+  data-titre="Le Parti québécois essuie les coups dès le premier jour de campagne" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-parti-quebecois-essuie-les-coups-des-le-premier-jour-de-c-ca82cc.html">https://entreelibre.ca/edition/2026-08-28/a/le-parti-quebecois-essuie-les-coups-des-le-premier-jour-de-c-ca82cc.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledevoir.com/politique/quebec/1004591/pq-encaisse-coups-premier-jour-campagne" target="_blank" rel="noopener"><span class="src-nom">Le Devoir</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Parti québécois, qui a opéré un virage marqué sur la question référendaire depuis les dernières élections générales, s&#x27;est retrouvé la cible numéro un de ses adversaires dès le premier jour de la campagne électorale, jeudi. Le chef Paul St-Pierre Plamondon devait notamment gérer les suites du retrait, la veille, de son candidat dans Taschereau, Vincent Marissal, visé par une enquête de la commissaire à l&#x27;éthique de l&#x27;Assemblée nationale pour des questions liées aux allocations parlementaires. Plusieurs adversaires ont profité de la tribune du lancement de campagne pour rappeler cet épisode plutôt que de débattre des engagements électoraux du PQ.</p><p>Malgré cet accroc, le PQ continue de dominer les intentions de vote, ce qui explique en partie l&#x27;intensité des attaques dirigées contre son chef par les autres formations dès l&#x27;ouverture des hostilités électorales. Le changement de cap du parti sur l&#x27;échéancier référendaire — M. St-Pierre Plamondon ayant déjà écarté la tenue d&#x27;un référendum avant la fin d&#x27;un premier mandat complet — semble avoir désamorcé une partie des critiques sur ce front, forçant ses adversaires à concentrer leurs attaques sur d&#x27;autres angles, dont la gestion interne des candidatures. Le Devoir note que cette dynamique pourrait se répéter à plusieurs reprises au cours de la campagne, le PQ étant appelé à défendre sa position de tête plutôt qu&#x27;à simplement attaquer ses rivaux.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

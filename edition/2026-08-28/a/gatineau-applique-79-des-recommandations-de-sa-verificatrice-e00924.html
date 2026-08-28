@@ -33,6 +33,12 @@
 <div class="terr">Gatineau</div>
 <h1>Gatineau applique 79 % des recommandations de sa vérificatrice générale, en hausse</h1>
 <div class="chapo">Ville de Gatineau · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/gatineau-applique-79-des-recommandations-de-sa-verificatrice-e00924.html"
+  data-titre="Gatineau applique 79 % des recommandations de sa vérificatrice générale, en hausse" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/gatineau-applique-79-des-recommandations-de-sa-verificatrice-e00924.html">https://entreelibre.ca/edition/2026-08-28/a/gatineau-applique-79-des-recommandations-de-sa-verificatrice-e00924.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Hotel_de_ville_de_Gatineau_-_01.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;hôtel de ville de Gatineau. Photo : Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.gatineau.ca/portail/default.aspx?p=nouvelles_annonces/communiques/communique_2015&amp;id=1932459483" target="_blank" rel="noopener"><span class="src-nom">Ville de Gatineau</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La vérificatrice générale de Gatineau, Johanne Beausoleil, a déposé le 25 août son rapport annuel 2025, portant notamment sur la gestion de grands projets d&#x27;infrastructure, l&#x27;octroi de contrats, l&#x27;inspection des bâtiments, la gestion des excédents et réserves financières, l&#x27;usage des véhicules de police en contexte d&#x27;urgence et la conformité à l&#x27;article 107.9 de la Loi sur les cités et villes. La Ville affirme donner suite aux recommandations et chiffre à 79 % le taux global de réalisation des recommandations issues des rapports de la vérificatrice générale, en hausse de trois points sur un an — et de 25 % en 2020 à 79 % aujourd&#x27;hui. Les quatre audits menés en 2025 comportaient chacun, pour la plupart, plus d&#x27;une vingtaine de recommandations distinctes. Il s&#x27;agit du dernier rapport de Mme Beausoleil, dont le mandat se termine le 24 février 2027; le processus pour lui trouver une relève débutera en septembre. « Les avancées réalisées au cours de la dernière année démontrent la rigueur de notre administration », a commenté le président du comité exécutif, Steve Moran, qui a remercié la vérificatrice pour près de dix ans de contribution au renforcement des processus municipaux. Le rapport complet de la vérificatrice générale ainsi que la réponse détaillée de l&#x27;administration sont accessibles sur le site de la Ville.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

@@ -32,6 +32,12 @@
 <div class="terr">Bas-Saint-Laurent</div>
 <h1>Et si 21 % du territoire du Bas-Saint-Laurent était protégé?</h1>
 <div class="chapo">Radio-Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/et-si-21-du-territoire-du-bas-saint-laurent-etait-protege-c537e3.html"
+  data-titre="Et si 21 % du territoire du Bas-Saint-Laurent était protégé?" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/et-si-21-du-territoire-du-bas-saint-laurent-etait-protege-c537e3.html">https://entreelibre.ca/edition/2026-08-28/a/et-si-21-du-territoire-du-bas-saint-laurent-etait-protege-c537e3.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://ici.radio-canada.ca/nouvelle/2277811/environnement-protection-aire-territoire-quebec" target="_blank" rel="noopener"><span class="src-nom">Radio-Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Un peu plus du cinquième du territoire du Bas-Saint-Laurent — 21 % — devrait être protégé pour que le Québec atteigne sa cible globale de 30 % de protection d&#x27;ici 2030, selon une proposition de la section québécoise de la Société pour la nature et les parcs du Canada (SNAP Québec), qui ajuste la cible de chaque région selon sa taille, son poids économique et sa proportion de terres privées. « D&#x27;imposer au Bas-Saint-Laurent une cible égale à l&#x27;ensemble des régions, à 30 %, ça ne serait pas un plan de match qui serait possible de concrétiser », explique le directeur général de SNAP Québec, Alain Branchaud. La région ne protège actuellement que 5,1 % de son territoire, contre 17 % pour l&#x27;ensemble du Québec, ce qui exigerait la protection de 3606 kilomètres carrés supplémentaires pour atteindre la cible proposée.</p><p>Le Conseil régional de l&#x27;environnement du Bas-Saint-Laurent estime que la proportion pourrait atteindre près de 12 % d&#x27;ici 2027 si tous les projets à l&#x27;étude sont acceptés, un premier pas que son directeur général, Patrick Morin, juge à peine suffisant vu le retard accumulé par la région. Il qualifie la cible de 21 % de compliquée mais pas irréaliste, à condition de protéger des terres privées, puisque l&#x27;essentiel des aires protégées actuelles se trouve sur des terres publiques. M. Morin presse par ailleurs le gouvernement d&#x27;investir davantage dans le ministère de l&#x27;Environnement, plaidant que la protection de la biodiversité doit devenir un enjeu de la campagne électorale.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

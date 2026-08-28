@@ -32,6 +32,12 @@
 <div class="terr">Saint-Damien-de-Buckland (Bellechasse)</div>
 <h1>Collège de Saint-Damien : l&#x27;entrepreneur chargé de la démolition sanctionné, écarté du chantier</h1>
 <div class="chapo">La Voix du Sud · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/college-de-saint-damien-l-entrepreneur-charge-de-la-demoliti-fda1d7.html"
+  data-titre="Collège de Saint-Damien : l&#x27;entrepreneur chargé de la démolition sanctionné, écarté du chantier" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/college-de-saint-damien-l-entrepreneur-charge-de-la-demoliti-fda1d7.html">https://entreelibre.ca/edition/2026-08-28/a/college-de-saint-damien-l-entrepreneur-charge-de-la-demoliti-fda1d7.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lavoixdusud.com/actualites/college-de-saint-damien-lentreprise-chargee-de-la-demolition-devra-se-retirer/" target="_blank" rel="noopener"><span class="src-nom">La Voix du Sud</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;entreprise Les Entreprises Géniam, qui démolit l&#x27;ancien Collège de Saint-Damien depuis quelques mois pour le compte du Centre de services scolaire de la Côte-du-Sud, doit se retirer du chantier d&#x27;ici le 4 septembre, après avoir été inscrite au Registre des entreprises non admissibles aux contrats publics par l&#x27;Autorité des marchés publics (AMP). Dans une décision rendue le 6 juillet, l&#x27;AMP reproche à l&#x27;entreprise d&#x27;avoir sous-traité l&#x27;exécution de contrats publics à C.F.G. Construction inc. après l&#x27;inscription de cette dernière au même registre l&#x27;an dernier — l&#x27;entreprise dispose de 60 jours suivant la décision pour quitter le chantier. Malgré la sanction, l&#x27;entrepreneur peut poursuivre ses travaux d&#x27;ici son départ : la décontamination complète du bâtiment vient de se terminer et la démolition massive de la structure a débuté le 24 août. La caution chargée d&#x27;honorer la garantie d&#x27;exécution du contrat est en préparation pour céder celui-ci à un autre entrepreneur qualifié, précise le Centre de services scolaire. Le Centre de services scolaire affirme suivre le dossier de près afin d&#x27;assurer la continuité du chantier malgré le changement d&#x27;entrepreneur.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

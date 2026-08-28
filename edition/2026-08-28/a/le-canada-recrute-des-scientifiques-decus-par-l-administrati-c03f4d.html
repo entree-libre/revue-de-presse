@@ -32,6 +32,12 @@
 <div class="terr">Canada</div>
 <h1>Le Canada recrute des scientifiques déçus par l&#x27;administration Trump</h1>
 <div class="chapo">Le Devoir, Gouvernement du Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-canada-recrute-des-scientifiques-decus-par-l-administrati-c03f4d.html"
+  data-titre="Le Canada recrute des scientifiques déçus par l&#x27;administration Trump" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-canada-recrute-des-scientifiques-decus-par-l-administrati-c03f4d.html">https://entreelibre.ca/edition/2026-08-28/a/le-canada-recrute-des-scientifiques-decus-par-l-administrati-c03f4d.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledevoir.com/actualites/science/1004357/canada-recrute-parmi-scientifiques-decus-donald-trump" target="_blank" rel="noopener"><span class="src-nom">Le Devoir</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Gouvernement du Canada, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Canada a recruté 64 professeurs et chercheurs étrangers pour devenir les tout premiers titulaires de nouvelles chaires créées spécifiquement pour attirer des scientifiques de haut niveau désillusionnés par la politique de l&#x27;administration Trump à l&#x27;égard de la recherche universitaire. Selon Le Devoir, 48 des 64 premiers titulaires travaillaient jusqu&#x27;ici dans des universités américaines, sans que l&#x27;initiative ne fasse explicitement référence au président américain ou aux États-Unis dans ses communications officielles — une discrétion voulue, selon le journal, pour éviter de politiser davantage un dossier déjà sensible sur le plan diplomatique. Ottawa mise sur cette stratégie pour renforcer l&#x27;attractivité du milieu universitaire canadien à un moment où plusieurs pays cherchent à tirer parti des compressions budgétaires et des tensions politiques touchant la recherche scientifique aux États-Unis.</p><p>Le gouvernement fédéral doit par ailleurs souligner vendredi, à Toronto, de nouveaux investissements dans le Programme des chaires de recherche du Canada Eddie Goldenberg et le programme Leaders émergents Impact+ Canada, deux initiatives portées respectivement par les secrétaires parlementaires Karim Bardeesy et Maggie Chi et visant le même objectif de rapatriement de talents scientifiques internationaux. Le Devoir note que le succès de la première cohorte de 64 chercheurs pourrait servir d&#x27;argument au gouvernement pour justifier un élargissement du programme dans les prochains budgets fédéraux, dans un contexte de concurrence internationale accrue pour attirer des talents scientifiques de haut niveau. Le Devoir précise que l&#x27;initiative s&#x27;inscrit dans une tendance plus large observée dans plusieurs pays occidentaux, dont le Royaume-Uni et l&#x27;Union européenne, qui ont eux aussi lancé des programmes ciblés pour attirer des chercheurs américains depuis les compressions budgétaires imposées aux agences scientifiques fédérales des États-Unis. Le journal note que l&#x27;ampleur exacte du financement fédéral consacré à ce programme n&#x27;a pas été rendue publique dans le détail, le gouvernement se limitant à confirmer le nombre de chercheurs recrutés jusqu&#x27;à présent. Le Devoir souligne enfin que l&#x27;initiative demeure modeste en comparaison de l&#x27;ampleur des compressions budgétaires touchant la recherche universitaire aux États-Unis, mais qu&#x27;elle illustre la volonté du Canada de se positionner rapidement pour en tirer parti.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

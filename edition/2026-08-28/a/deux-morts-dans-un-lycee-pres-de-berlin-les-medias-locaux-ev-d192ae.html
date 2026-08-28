@@ -32,6 +32,12 @@
 <div class="terr">Allemagne</div>
 <h1>Deux morts dans un lycée près de Berlin ; les médias locaux évoquent un féminicide</h1>
 <div class="chapo">Libération, CNEWS, Le Journal de Montréal · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/deux-morts-dans-un-lycee-pres-de-berlin-les-medias-locaux-ev-d192ae.html"
+  data-titre="Deux morts dans un lycée près de Berlin ; les médias locaux évoquent un féminicide" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/deux-morts-dans-un-lycee-pres-de-berlin-les-medias-locaux-ev-d192ae.html">https://entreelibre.ca/edition/2026-08-28/a/deux-morts-dans-un-lycee-pres-de-berlin-les-medias-locaux-ev-d192ae.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.liberation.fr/international/europe/allemagne-deux-personnes-tuees-dans-un-lycee-pres-de-berlin-un-possible-feminicide-20260827_EGWPVTVGU5A6LK7UXUPEM5R7C4/" target="_blank" rel="noopener"><span class="src-nom">Libération</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par CNEWS, Le Journal de Montréal, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Deux personnes ont été tuées jeudi en début d&#x27;après-midi dans un établissement scolaire de Gosen-Neu Zittau, commune de 3 500 habitants du Brandebourg, à une trentaine de kilomètres de Berlin. Selon la radiotélévision publique RBB et le journal MAZ, un jeune homme de 19 ans aurait tué son ex-petite amie de 18 ans. La seconde victime, un homme de 30 ans, aurait été tuée en tentant de s&#x27;interposer. La police du Brandebourg a annoncé l&#x27;arrestation d&#x27;un homme « lié aux faits, selon les informations actuelles », sans détailler les circonstances. Les secours avaient été appelés vers 13 h 45.</p><p>« Compte tenu de l&#x27;enquête en cours, nous ne pouvons pas fournir d&#x27;informations sur le déroulement des faits », a déclaré au journal MAZ le directeur de l&#x27;établissement, Michael Kunz. Le site regroupe un lycée général, un lycée professionnel et un collège. Les cours étaient annulés vendredi, l&#x27;école restant ouverte aux élèves souhaitant s&#x27;y retrouver. L&#x27;Allemagne a connu ces dernières années plusieurs attaques visant des écoles, dont celle de Schongau en juillet, où un adolescent avait grièvement blessé deux collégiennes au couteau.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

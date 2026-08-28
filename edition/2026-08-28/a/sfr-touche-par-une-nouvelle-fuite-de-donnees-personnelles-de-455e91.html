@@ -32,6 +32,12 @@
 <div class="terr">France</div>
 <h1>SFR touché par une nouvelle fuite de données personnelles de ses abonnés</h1>
 <div class="chapo">ZDNet, Presse-citron · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/sfr-touche-par-une-nouvelle-fuite-de-donnees-personnelles-de-455e91.html"
+  data-titre="SFR touché par une nouvelle fuite de données personnelles de ses abonnés" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/sfr-touche-par-une-nouvelle-fuite-de-donnees-personnelles-de-455e91.html">https://entreelibre.ca/edition/2026-08-28/a/sfr-touche-par-une-nouvelle-fuite-de-donnees-personnelles-de-455e91.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.zdnet.fr/actualites/nouvelle-fuite-de-donnees-chez-sfr-une-recidive-qui-ravive-le-risque" target="_blank" rel="noopener"><span class="src-nom">ZDNet</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Presse-citron, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;opérateur SFR a annoncé, selon l&#x27;Agence France-Presse citée par ZDNet, avoir détecté un incident de sécurité ayant rendu temporairement accessibles des données liées à des lignes d&#x27;abonnés à la fibre, dont l&#x27;adresse, le courriel ou le numéro de téléphone. L&#x27;entreprise précise que l&#x27;accessibilité des données découle d&#x27;un acte de « cybermalveillance » plutôt que d&#x27;une faille technique de son propre système.</p><p>L&#x27;auteur de l&#x27;intrusion aurait dérobé un fichier contenant, entre autres, des IBAN, des numéros de compte bancaire et des identifiants de terminaux et de cartes SIM, une combinaison de données particulièrement sensible pour d&#x27;éventuelles fraudes. Il s&#x27;agit d&#x27;une récidive pour l&#x27;opérateur, déjà visé par des fuites similaires par le passé.</p><p>Presse-citron rappelle que ce type d&#x27;incident alimente un risque accru de tentatives d&#x27;hameçonnage ciblé contre les abonnés concernés, qui reçoivent souvent des messages frauduleux se faisant passer pour l&#x27;opérateur lui-même dans les semaines suivant la fuite. L&#x27;opérateur affirme avoir renforcé ses mesures de sécurité depuis la découverte de l&#x27;incident.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

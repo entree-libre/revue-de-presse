@@ -32,6 +32,12 @@
 <div class="terr">Centre-du-Québec (Drummondville)</div>
 <h1>La CDC Drummond invite les candidats à une table ronde électorale publique</h1>
 <div class="chapo">L&#x27;Express · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-cdc-drummond-invite-les-candidats-a-une-table-ronde-elect-a01a50.html"
+  data-titre="La CDC Drummond invite les candidats à une table ronde électorale publique" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-cdc-drummond-invite-les-candidats-a-une-table-ronde-elect-a01a50.html">https://entreelibre.ca/edition/2026-08-28/a/la-cdc-drummond-invite-les-candidats-a-une-table-ronde-elect-a01a50.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.journalexpress.ca/elections/la-cdc-drummond-invite-les-partis-a-une-table-ronde-devant-public/" target="_blank" rel="noopener"><span class="src-nom">L&#x27;Express</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>À l&#x27;occasion du lancement de la campagne électorale provinciale, la Corporation de développement communautaire (CDC) Drummond annonce la tenue, le 17 septembre au Cégep Drummond, d&#x27;une table ronde électorale gratuite et devant public, qui réunira les candidats des principales formations politiques dans les circonscriptions de Drummond–Bois-Francs et de Marie-Lacoste-Gérin-Lajoie. Portée par le comité Réflexion et action politique de l&#x27;organisme, la soirée s&#x27;appuie sur les critères de participation aux débats des chefs pour déterminer les partis invités. Ceux-ci doivent avoir fait élire au moins un député, obtenir au moins 4 % des intentions de vote provinciales et présenter des candidats dans au moins 90 % des circonscriptions.</p><p>« Les organismes communautaires sont quotidiennement aux premières loges des enjeux vécus par la population : pauvreté, logement, sécurité alimentaire, santé, itinérance, isolement social, accès aux services et bien d&#x27;autres », fait valoir la directrice générale de la CDC Drummond, Mélanie Létourneau. Ces réalités doivent, selon elle, être au cœur des discussions électorales. La soirée, organisée en deux segments consacrés chacun à une circonscription, sera enregistrée en partenariat avec NousTV et le Cégep Drummond pour une diffusion ultérieure destinée à ceux qui ne pourront y assister.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

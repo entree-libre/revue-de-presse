@@ -32,6 +32,12 @@
 <div class="terr">Saint-Anselme</div>
 <h1>Éric Duhaime, convaincu que « 2026 sera l&#x27;année des conservateurs »</h1>
 <div class="chapo">Le Devoir · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/eric-duhaime-convaincu-que-2026-sera-l-annee-des-conservateu-2f6887.html"
+  data-titre="Éric Duhaime, convaincu que « 2026 sera l&#x27;année des conservateurs »" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/eric-duhaime-convaincu-que-2026-sera-l-annee-des-conservateu-2f6887.html">https://entreelibre.ca/edition/2026-08-28/a/eric-duhaime-convaincu-que-2026-sera-l-annee-des-conservateu-2f6887.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledevoir.com/politique/quebec/1004636/2026-c-est-annee-conservateurs-eric-duhaime" target="_blank" rel="noopener"><span class="src-nom">Le Devoir</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le chef du Parti conservateur du Québec, Éric Duhaime, a lancé sa campagne électorale jeudi par une visite d&#x27;usine avant de prendre la route, à bord de son autocar de marque Prévost, pour aller galvaniser ses troupes en soirée à Saint-Anselme, dans Bellechasse. Convaincu que « 2026 sera l&#x27;année des conservateurs », M. Duhaime mise sur l&#x27;élan de deux résultats encourageants obtenus lors d&#x27;élections partielles récentes pour justifier son optimisme, même si sa formation n&#x27;a toujours fait élire aucun député depuis sa fondation. Deux nouveaux candidats, Marie-Josée Hélie et Frédéric Poulin, se sont joints à lui pour le lancement de cette tournée.</p><p>Ancien animateur de radio et commentateur politique à Radio X, M. Duhaime dirige le Parti conservateur du Québec depuis 2021 et se présente cette fois dans Bellechasse, au sud de Québec. Sa formation avait récolté près de 13 % du vote populaire aux élections de 2022 sans remporter de siège, et M. Duhaime avait lui-même perdu une élection partielle dans Arthabaska en 2025 face au Parti québécois. Il continue néanmoins de miser sur une progression constante de son parti dans les sondages régionaux pour espérer une percée historique le 5 octobre.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

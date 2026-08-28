@@ -32,6 +32,12 @@
 <div class="terr">Montérégie</div>
 <h1>Des entreprises et des plongeurs nettoient la rivière Châteauguay</h1>
 <div class="chapo">Le Soleil · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/des-entreprises-et-des-plongeurs-nettoient-la-riviere-chatea-656d60.html"
+  data-titre="Des entreprises et des plongeurs nettoient la rivière Châteauguay" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/des-entreprises-et-des-plongeurs-nettoient-la-riviere-chatea-656d60.html">https://entreelibre.ca/edition/2026-08-28/a/des-entreprises-et-des-plongeurs-nettoient-la-riviere-chatea-656d60.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://cybersoleil.com/des-entreprises-nettoient-la-riviere-chateauguay/" target="_blank" rel="noopener"><span class="src-nom">Le Soleil</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Pour une troisième année consécutive, des employés de l&#x27;entreprise Technoform, spécialisée en produits de douche et de bain, s&#x27;associent à l&#x27;organisme Ocean Wise — qui lutte contre la pollution par le plastique — pour nettoyer les berges de la rivière Châteauguay. Les bénévoles se rejoindront le 29 août au matin au parc Marcel-Seers et longeront les berges jusqu&#x27;au parc de la Commune.</p><p>En 2025, la corvée avait permis de retirer 375 kilogrammes de déchets, dont la majorité du poids provenait d&#x27;objets de grande taille repêchés dans la rivière, précise Raewyn Carter, adjointe administrative du président chez Technoform. Cette année, deux équipes de plongeurs dirigées par Mike Deveau, de Ponton Canada, seront à l&#x27;œuvre dans la rivière toute la journée du 28 août et l&#x27;avant-midi du 29. « Des fois on ramasse des chaises de parterre », note M. Deveau à propos des objets inusités retrouvés au fond de l&#x27;eau.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

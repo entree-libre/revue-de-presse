@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>Marcher à reculons n&#x27;a pas de bénéfice prouvé pour la santé, tranche l&#x27;Agence Science-Presse</h1>
 <div class="chapo">Agence Science-Presse · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/marcher-a-reculons-n-a-pas-de-benefice-prouve-pour-la-sante-20aee5.html"
+  data-titre="Marcher à reculons n&#x27;a pas de bénéfice prouvé pour la santé, tranche l&#x27;Agence Science-Presse" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/marcher-a-reculons-n-a-pas-de-benefice-prouve-pour-la-sante-20aee5.html">https://entreelibre.ca/edition/2026-08-28/a/marcher-a-reculons-n-a-pas-de-benefice-prouve-pour-la-sante-20aee5.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.sciencepresse.qc.ca/actualites-scientifiques/detecteur-rumeurs/2026/08/18/marcher-reculo" target="_blank" rel="noopener"><span class="src-nom">Agence Science-Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Détecteur de rumeurs de l&#x27;Agence Science-Presse examine l&#x27;idée, populaire sur les réseaux sociaux, selon laquelle marcher à reculons apporterait des bénéfices particuliers pour la santé. Plusieurs praticiens vantent cette pratique pour la réadaptation de patients souffrant d&#x27;arthrose du genou, de la maladie de Parkinson, de paralysie cérébrale ou ayant subi un accident vasculaire cérébral.</p><p>Les bénéfices rapportés dans les groupes étudiés pourraient toutefois provenir simplement du fait d&#x27;avoir fait de l&#x27;exercice plus longtemps, plutôt que de la marche à reculons elle-même, note l&#x27;Agence Science-Presse. Les études existantes comparent rarement la marche à reculons à une durée équivalente de marche normale, ce qui empêche d&#x27;isoler l&#x27;effet propre à la direction du mouvement.</p><p>Le Détecteur de rumeurs rappelle qu&#x27;aucune étude rigoureuse ne permet à ce jour d&#x27;isoler cet effet spécifique, et invite à la prudence face aux allégations qui circulent largement sur les réseaux sociaux sans base scientifique solide. La marche à reculons demeure néanmoins un exercice sans danger particulier pour la majorité des gens, à condition d&#x27;être pratiquée dans un environnement sécurisé.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

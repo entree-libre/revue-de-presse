@@ -33,6 +33,12 @@
 <div class="terr">Canada</div>
 <h1>Ottawa recrute des dizaines de scientifiques étrangers, plusieurs débauchés des États-Unis</h1>
 <div class="chapo">La Presse canadienne · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ottawa-recrute-des-dizaines-de-scientifiques-etrangers-plusi-c7b32d.html"
+  data-titre="Ottawa recrute des dizaines de scientifiques étrangers, plusieurs débauchés des États-Unis" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ottawa-recrute-des-dizaines-de-scientifiques-etrangers-plusi-c7b32d.html">https://entreelibre.ca/edition/2026-08-28/a/ottawa-recrute-des-dizaines-de-scientifiques-etrangers-plusi-c7b32d.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Iona_Building%2C_University_of_British_Columbia.jpg" onerror="this.closest('figure').remove()"><figcaption>Un pavillon de l&#x27;Université de la Colombie-Britannique, où une partie des nouvelles chaires de recherche a été annoncée. Photo : F B, CC BY-SA 2.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.nationalobserver.com/2026/08/28/news/canada-recruiting-dozens-foreign-scientists-researchers-poaching-many-us" target="_blank" rel="noopener"><span class="src-nom">La Presse canadienne</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Des universités canadiennes ont recruté 64 nouveaux titulaires de chaires de recherche dans le premier contingent d&#x27;un programme fédéral, plusieurs d&#x27;entre eux débauchés d&#x27;établissements américains prestigieux comme Harvard et le MIT, rapporte La Presse canadienne. Le programme, doté de 504 millions de dollars sur huit ans par le gouvernement fédéral, finance notamment les chaires de recherche distinguées Eddie-Goldenberg, nommées en l&#x27;honneur de l&#x27;ancien conseiller politique du premier ministre Jean Chrétien, décédé le mois dernier. Les nouveaux titulaires se répartissent dans des universités à travers le pays, dont l&#x27;Université de la Colombie-Britannique, McGill et l&#x27;Université de Toronto.</p><p>La ministre de l&#x27;Innovation, Mélanie Joly, qui a annoncé une partie de ces recrutements à l&#x27;Université de la Colombie-Britannique jeudi, affirme que le Canada mise plus que jamais sur la science à un moment où d&#x27;autres pays gouvernementaux s&#x27;en détournent. Ottawa financera par ailleurs le recrutement de 63 « chefs de file émergents » supplémentaires au cours de la prochaine année, à hauteur de plus de 37 millions de dollars. Parmi les recrues de l&#x27;Université de la Colombie-Britannique figure le chercheur en imagerie moléculaire Peter Caravan, auparavant professeur de radiologie à Harvard, qui dit vouloir « réinvestir dans le pays et l&#x27;université » qui ont lancé sa carrière.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

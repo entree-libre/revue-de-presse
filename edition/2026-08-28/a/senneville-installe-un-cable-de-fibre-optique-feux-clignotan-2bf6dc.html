@@ -32,6 +32,12 @@
 <div class="terr">Senneville</div>
 <h1>Senneville installe un câble de fibre optique, feux clignotants à l&#x27;intersection Pearson-Pacific</h1>
 <div class="chapo">Village de Senneville · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/senneville-installe-un-cable-de-fibre-optique-feux-clignotan-2bf6dc.html"
+  data-titre="Senneville installe un câble de fibre optique, feux clignotants à l&#x27;intersection Pearson-Pacific" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/senneville-installe-un-cable-de-fibre-optique-feux-clignotan-2bf6dc.html">https://entreelibre.ca/edition/2026-08-28/a/senneville-installe-un-cable-de-fibre-optique-feux-clignotan-2bf6dc.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.senneville.ca/travaux-dinstallation-de-fibre-optique/" target="_blank" rel="noopener"><span class="src-nom">Village de Senneville</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le Village de Senneville informe sa population que des travaux d&#x27;installation d&#x27;un câble de fibre optique de Bell dans les infrastructures souterraines existantes se dérouleront le 27 août sur l&#x27;avenue Pearson et à son intersection avec l&#x27;avenue Pacific. Durant les travaux, les feux de circulation de cette intersection fonctionneront en mode clignotant rouge, et des signaleurs géreront la circulation. Le Village prévient que la circulation pourrait être ralentie dans le secteur et que des délais supplémentaires sont à prévoir à proximité de la zone de travaux. Il invite les usagers de la route à faire preuve de prudence et à respecter la signalisation temporaire en place. Le Village invite les personnes qui auraient des questions à communiquer avec son administration municipale.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

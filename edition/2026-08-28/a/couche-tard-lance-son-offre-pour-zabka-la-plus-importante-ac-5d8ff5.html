@@ -33,6 +33,12 @@
 <div class="terr">Québec</div>
 <h1>Couche-Tard lance son offre pour Żabka, «la plus importante acquisition» de son histoire</h1>
 <div class="chapo">Les Affaires, Le Globe and Mail · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/couche-tard-lance-son-offre-pour-zabka-la-plus-importante-ac-5d8ff5.html"
+  data-titre="Couche-Tard lance son offre pour Żabka, «la plus importante acquisition» de son histoire" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/couche-tard-lance-son-offre-pour-zabka-la-plus-importante-ac-5d8ff5.html">https://entreelibre.ca/edition/2026-08-28/a/couche-tard-lance-son-offre-pour-zabka-la-plus-importante-ac-5d8ff5.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Circle_K%E2%80%93Davie_Street%2C_Vancouver.jpg/1280px-Circle_K%E2%80%93Davie_Street%2C_Vancouver.jpg" onerror="this.closest('figure').remove()"><figcaption>Un dépanneur Circle K, la bannière nord-américaine d&#x27;Alimentation Couche-Tard. Photo : Northwest, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lesaffaires.com/bourse/actualites-boursieres/la-plus-importante-acquisition-de-lhistoire-de-couche-tard-est-en-route/" target="_blank" rel="noopener"><span class="src-nom">Les Affaires</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Globe and Mail, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Alimentation Couche-Tard a officiellement lancé, par l&#x27;entremise de sa filiale Circle K Polska, son offre publique d&#x27;achat sur la totalité des actions de la chaîne d&#x27;épicerie polonaise Żabka Group, une transaction que l&#x27;entreprise québécoise qualifie de «plus importante acquisition» de son histoire.</p><p>L&#x27;offre, à 32,00 zlotys polonais (8,48 $ US) par action, représente une valeur totale d&#x27;environ 32,62 milliards de zlotys, soit 8,6 milliards de dollars américains, selon le communiqué de Couche-Tard. L&#x27;entente de principe pour cette prise de participation majoritaire avait été annoncée le 31 juillet; le président et chef de la direction, Alex Miller, l&#x27;avait alors décrite comme «un investissement transformateur» pour la croissance de l&#x27;entreprise.</p><p>Fondée en 1998 à Poznan, Żabka exploite plus de 13 000 magasins en Pologne et en Roumanie et est inscrite à la Bourse de Varsovie depuis octobre 2024; au cours des douze derniers mois terminés le 31 mars, elle a généré un chiffre d&#x27;affaires d&#x27;environ 7,4 milliards de dollars américains et un bénéfice net d&#x27;environ 300 millions. Couche-Tard prévoit des économies annuelles d&#x27;environ 250 millions de dollars américains grâce aux synergies de coûts, et l&#x27;opération doit lui assurer une position en Europe centrale.</p><p>Si elle obtient au moins 95 % des droits de vote, l&#x27;entreprise entend forcer le rachat des actions restantes et retirer Żabka de la Bourse de Varsovie. Couche-Tard dévoilera les résultats de son premier trimestre de l&#x27;exercice 2027 le 1er septembre.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

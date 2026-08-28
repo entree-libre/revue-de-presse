@@ -33,6 +33,12 @@
 <div class="terr">Outaouais (Maniwaki)</div>
 <h1>Le Festival d&#x27;été de Maniwaki veut devenir une tradition</h1>
 <div class="chapo">Le Droit · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/le-festival-d-ete-de-maniwaki-veut-devenir-une-tradition-250c20.html"
+  data-titre="Le Festival d&#x27;été de Maniwaki veut devenir une tradition" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/le-festival-d-ete-de-maniwaki-veut-devenir-une-tradition-250c20.html">https://entreelibre.ca/edition/2026-08-28/a/le-festival-d-ete-de-maniwaki-veut-devenir-une-tradition-250c20.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Eglise-Christ-Roi-Maniwaki-763.JPG/1280px-Eglise-Christ-Roi-Maniwaki-763.JPG" onerror="this.closest('figure').remove()"><figcaption>L&#x27;église Christ-Roi, à Maniwaki. Photo : Terrafranca, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledroit.com/actualites/actualites-locales/vallee-de-la-gatineau/2026/08/28/festival-dete-de-maniwaki-lambition-den-faire-une-tradition-NWAGGCGYPFA4DBLLBGNS4MQ6NI/" target="_blank" rel="noopener"><span class="src-nom">Le Droit</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>« La fébrilité est déjà dans l&#x27;air », se réjouit le maire de Maniwaki, Louis-André Hubert, à l&#x27;approche du Festival d&#x27;été de la ville, où plus de 600 spectateurs sont attendus sur la rue des Oblats. « C&#x27;était un gros besoin d&#x27;avoir un événement qui rassemble et qui permet à Maniwaki de rayonner et de jouer son rôle régional », explique-t-il, notant que pendant la dernière campagne électorale, tout le monde répétait qu&#x27;il n&#x27;y avait plus de festival d&#x27;été à Maniwaki. Moins d&#x27;un an après son entrée en fonction, le nouveau conseil municipal profite des célébrations du 175e anniversaire de la ville pour relancer le festival et souhaite en faire une tradition annuelle pour la Vallée-de-la-Gatineau.</p><p>Le groupe Yelo Molo, dont les membres originaux sont de retour et qui a lancé en mai un double album de 26 pistes, Face à la musique, ouvrira officiellement les festivités.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

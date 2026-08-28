@@ -33,6 +33,12 @@
 <div class="terr">Chine</div>
 <h1>Des robots humanoïdes chinois battent le record du 100 mètres d&#x27;Usain Bolt à Pékin</h1>
 <div class="chapo">La Presse (Agence France-Presse), Radio-Canada, The Verge, Feed Clubic, ZDNet, Mac4Ever, Presse-citron, MacGeneration · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/des-robots-humanoides-chinois-battent-le-record-du-100-metre-795fb0.html"
+  data-titre="Des robots humanoïdes chinois battent le record du 100 mètres d&#x27;Usain Bolt à Pékin" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/des-robots-humanoides-chinois-battent-le-record-du-100-metre-795fb0.html">https://entreelibre.ca/edition/2026-08-28/a/des-robots-humanoides-chinois-battent-le-record-du-100-metre-795fb0.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Unitree_G1.jpg/1280px-Unitree_G1.jpg" onerror="this.closest('figure').remove()"><figcaption>Un robot humanoïde du fabricant chinois Unitree. Photo : Sayanesy, CC0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/actualites/sciences/2026-08-24/world-robot-games/des-humanoides-battent-des-records-sportifs-humains.php" target="_blank" rel="noopener"><span class="src-nom">La Presse (Agence France-Presse)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Radio-Canada, The Verge, Feed Clubic, ZDNet, Mac4Ever, Presse-citron, MacGeneration, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Des dizaines de robots humanoïdes et leurs opérateurs ont pris part le week-end du 22 août aux World Robot Games de Pékin, une compétition mêlant athlétisme, boxe, football et arts martiaux. Lors de la cérémonie d&#x27;ouverture, l&#x27;humanoïde Tiangong Ultra, conçu par un centre de recherche pékinois pour la marque Honor, a couru le 100 mètres en 9,39 secondes, devançant le record établi par Usain Bolt en 2009 (9,58 secondes). Le lendemain, le même robot a battu le record du 400 mètres de près de cinq secondes, en 38,15 secondes.</p><p>Le niveau des machines est resté très inégal : certains robots ont trébuché dès le départ, d&#x27;autres se sont effondrés en pleine course ou ont dû être secourus après une chute, notamment un humanoïde-boxeur resté immobile contre les cordes. Des robots-footballeurs ont marqué des buts maladroits sous les rires du public.</p><p>Interrogée par l&#x27;Agence France-Presse, une spectatrice pékinoise de 72 ans a nuancé la portée de l&#x27;événement : « Pour l&#x27;instant, il ne s&#x27;agit que de course, d&#x27;une simple compétition de vitesse. Ce n&#x27;est pas un test d&#x27;intelligence. » Le gouvernement chinois a fait de la robotique un secteur stratégique, et la démonstration a été largement reprise par les médias d&#x27;État comme preuve de l&#x27;avance chinoise dans ce domaine.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

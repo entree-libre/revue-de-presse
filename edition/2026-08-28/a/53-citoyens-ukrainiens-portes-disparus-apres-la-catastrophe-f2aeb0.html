@@ -32,6 +32,12 @@
 <div class="terr">Népal, Ukraine</div>
 <h1>53 citoyens ukrainiens portés disparus après la catastrophe au Népal</h1>
 <div class="chapo">Kyiv Post · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/53-citoyens-ukrainiens-portes-disparus-apres-la-catastrophe-f2aeb0.html"
+  data-titre="53 citoyens ukrainiens portés disparus après la catastrophe au Népal" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/53-citoyens-ukrainiens-portes-disparus-apres-la-catastrophe-f2aeb0.html">https://entreelibre.ca/edition/2026-08-28/a/53-citoyens-ukrainiens-portes-disparus-apres-la-catastrophe-f2aeb0.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.kyivpost.com/post/83196" target="_blank" rel="noopener"><span class="src-nom">Kyiv Post</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le ministère ukrainien des Affaires étrangères a indiqué que 53 de ses ressortissants étaient portés disparus après les inondations et glissements de terrain catastrophiques survenus à la frontière népalo-tibétaine, rapporte le Kyiv Post. Le ministère avait d&#x27;abord reçu un signalement de perte de contact avec un groupe de 46 touristes ukrainiens mercredi matin, avant que la police touristique népalaise ne porte le total à 53 personnes disparues au fil de la journée de jeudi.</p><p>Le ministre des Affaires étrangères Andrii Sybiha a précisé qu&#x27;aucune information ne permettait à ce stade d&#x27;affirmer que des Ukrainiens figuraient parmi les morts ou blessés déjà confirmés par les autorités locales. Les ambassades ukrainiennes en Inde et en Chine collaborent avec les autorités locales pour tenter de localiser les personnes disparues, avec l&#x27;appui du consul honoraire d&#x27;Ukraine au Népal. Huit signalements supplémentaires ont par ailleurs été transmis à la ligne d&#x27;urgence du ministère par des proches sans nouvelles de membres de leur famille inscrits sur la liste des personnes disparues.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

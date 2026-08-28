@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>« Fjord », Palme d&#x27;or de Cristian Mungiu, sonde les frictions identitaires des sociétés plurielles</h1>
 <div class="chapo">Philosophie magazine · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/fjord-palme-d-or-de-cristian-mungiu-sonde-les-frictions-iden-ca0f6f.html"
+  data-titre="« Fjord », Palme d&#x27;or de Cristian Mungiu, sonde les frictions identitaires des sociétés plurielles" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/fjord-palme-d-or-de-cristian-mungiu-sonde-les-frictions-iden-ca0f6f.html">https://entreelibre.ca/edition/2026-08-28/a/fjord-palme-d-or-de-cristian-mungiu-sonde-les-frictions-iden-ca0f6f.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.philomag.com/articles/fjord-de-cristian-mungiu-une-palme-dor-entre-frictions-et-verite" target="_blank" rel="noopener"><span class="src-nom">Philosophie magazine</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Récompensé par la Palme d&#x27;or au dernier Festival de Cannes et à l&#x27;affiche depuis le 19 août, le film Fjord du réalisateur roumain Cristian Mungiu interroge les frictions identitaires qui traversent les sociétés pluralistes contemporaines, selon la lecture qu&#x27;en propose Philosophie magazine. La revue y voit un film qui refuse les réponses simples aux tensions qu&#x27;il met en scène, préférant montrer la complexité des situations plutôt que de trancher entre les points de vue en présence.</p><p>Mungiu, déjà récompensé à Cannes pour de précédents films, poursuit avec Fjord une œuvre attentive aux zones grises morales, plutôt qu&#x27;aux oppositions tranchées entre bien et mal. Le cinéaste roumain s&#x27;était déjà distingué par une attention similaire aux dilemmes moraux dans ses films précédents, primés dans plusieurs grands festivals internationaux.</p><p>Philosophie magazine consacre à cette sortie un dossier plus large sur les enjeux philosophiques soulevés par le film, au-delà de la seule critique cinématographique habituelle.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

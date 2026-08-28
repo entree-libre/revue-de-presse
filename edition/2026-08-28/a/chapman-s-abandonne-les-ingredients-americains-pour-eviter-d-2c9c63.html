@@ -33,6 +33,12 @@
 <div class="terr">Markdale (Ontario)</div>
 <h1>Chapman&#x27;s abandonne les ingrédients américains pour éviter de hausser ses prix</h1>
 <div class="chapo">National Post, CBC · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/chapman-s-abandonne-les-ingredients-americains-pour-eviter-d-2c9c63.html"
+  data-titre="Chapman&#x27;s abandonne les ingrédients américains pour éviter de hausser ses prix" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/chapman-s-abandonne-les-ingredients-americains-pour-eviter-d-2c9c63.html">https://entreelibre.ca/edition/2026-08-28/a/chapman-s-abandonne-les-ingredients-americains-pour-eviter-d-2c9c63.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Ice_Cream_Dessert_%28Unsplash%29.jpg" onerror="this.closest('figure').remove()"><figcaption>Un cornet de crème glacée. Photo : Alex Jones, CC0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://nationalpost.com/news/canada/tariff-war-ice-cream-chapmans" target="_blank" rel="noopener"><span class="src-nom">National Post</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par CBC, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;entreprise ontarienne de crème glacée Chapman&#x27;s a annoncé qu&#x27;elle remplacera plus de 70 % de ses ingrédients d&#x27;origine américaine et qu&#x27;elle n&#x27;augmentera pas ses prix pendant deux ans, une réponse directe à la guerre tarifaire entre le Canada et les États-Unis. CBC précise que l&#x27;entreprise rapatrie notamment au Canada la production des gaufrettes utilisées dans ses sandwichs glacés, et se tourne vers l&#x27;Australie pour ses amandes et vers le Chili pour ses cerises plutôt que vers des fournisseurs américains. « Nous appuyons le gouvernement canadien et l&#x27;ensemble des provinces dans notre rejet catégorique » des tarifs, a fait valoir l&#x27;entreprise dans une déclaration relayée par les deux médias.</p><p>Sylvain Charlebois, directeur du Laboratoire en sciences analytiques agroalimentaires de l&#x27;Université Dalhousie, a nuancé la portée du geste dans les pages du National Post en notant que les droits de douane sur les produits laitiers américains ne devraient pas, en principe, faire directement grimper les coûts d&#x27;une entreprise qui n&#x27;achète déjà que du lait canadien — suggérant que la décision de Chapman&#x27;s relève autant d&#x27;un choix stratégique et symbolique que d&#x27;une nécessité comptable immédiate. L&#x27;entreprise familiale, basée à Markdale, emploie plusieurs centaines de personnes et se présente comme le plus grand fabricant de crème glacée entièrement canadien encore détenu par une famille du pays, un positionnement qu&#x27;elle met de l&#x27;avant depuis le début du conflit commercial pour se démarquer de concurrents multinationaux. CBC note que la décision de Chapman&#x27;s tranche avec la réaction de plusieurs autres transformateurs alimentaires canadiens, qui ont plutôt choisi de refiler une partie des hausses de coûts liées aux tarifs à leurs clients. Le National Post souligne que ce type d&#x27;engagement public à ne pas hausser les prix, rare dans l&#x27;industrie alimentaire en ce moment, pourrait devenir un argument de marketing important pour l&#x27;entreprise dans un contexte où le patriotisme économique gagne du terrain chez les consommateurs canadiens. Les deux médias notent que Chapman&#x27;s emploie plusieurs centaines de personnes dans la région de Markdale, en Ontario, ce qui donne un poids symbolique supplémentaire à son choix de miser sur l&#x27;approvisionnement canadien et sud-américain plutôt qu&#x27;américain.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

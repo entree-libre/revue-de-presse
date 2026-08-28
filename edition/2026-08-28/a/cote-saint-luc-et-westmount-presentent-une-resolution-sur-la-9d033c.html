@@ -32,6 +32,12 @@
 <div class="terr">Côte Saint-Luc, Westmount</div>
 <h1>Côte Saint-Luc et Westmount présentent une résolution sur la paix civile à l&#x27;agglomération</h1>
 <div class="chapo">The Suburban · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/cote-saint-luc-et-westmount-presentent-une-resolution-sur-la-9d033c.html"
+  data-titre="Côte Saint-Luc et Westmount présentent une résolution sur la paix civile à l&#x27;agglomération" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/cote-saint-luc-et-westmount-presentent-une-resolution-sur-la-9d033c.html">https://entreelibre.ca/edition/2026-08-28/a/cote-saint-luc-et-westmount-presentent-une-resolution-sur-la-9d033c.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.thesuburban.com/news/city_news/csl-westmount-presenting-resolution-calling-for-civil-peace/article_c6bdd884-91d0-42c4-bbb2-6d8029f83628.html" target="_blank" rel="noopener"><span class="src-nom">The Suburban</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Ville de Côte Saint-Luc, appuyée par Westmount, a présenté le 27 août au conseil d&#x27;agglomération de Montréal une résolution demandant de réaffirmer la paix civile, la sécurité publique et la cohésion sociale sur l&#x27;ensemble de l&#x27;île. Le texte survient après l&#x27;adoption, le 24 août, d&#x27;une résolution de Projet Montréal — reportée de juin à cette date par la mairesse Soraya Martinez Ferrada — dont la version finale ne reprend plus les accusations de génocide et d&#x27;apartheid contre Israël ni la demande de rompre les liens institutionnels avec ce pays, contrairement à sa mouture initiale. Le maire de Côte Saint-Luc, David Tordjman, relie la montée de gestes et propos antisémites à Montréal, documentés dans le texte, à la hausse de l&#x27;antisémitisme observée depuis l&#x27;attaque du Hamas contre Israël le 7 octobre 2023. La résolution Côte Saint-Luc–Westmount affirme que Montréal et les municipalités reconstituées ont la responsabilité d&#x27;assurer la sécurité publique et la cohésion sociale sur leur territoire, mais qu&#x27;elles ne sont « ni responsables de la résolution des conflits internationaux ni en position de les résoudre ». Elle demande à l&#x27;agglomération de condamner toute forme d&#x27;antisémitisme, de racisme et d&#x27;intimidation fondée sur l&#x27;identité, et de réaffirmer le droit de chaque résidente et résident de fréquenter écoles, lieux de travail et lieux de culte sans intimidation ni violence. Le vote de l&#x27;agglomération sur cette résolution n&#x27;avait pas encore eu lieu au moment de sa présentation le 27 août.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

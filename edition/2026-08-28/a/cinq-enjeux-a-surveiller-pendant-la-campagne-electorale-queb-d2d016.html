@@ -32,6 +32,12 @@
 <div class="terr">Québec</div>
 <h1>Cinq enjeux à surveiller pendant la campagne électorale québécoise</h1>
 <div class="chapo">Global News, Canada&#x27;s National Observer · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/cinq-enjeux-a-surveiller-pendant-la-campagne-electorale-queb-d2d016.html"
+  data-titre="Cinq enjeux à surveiller pendant la campagne électorale québécoise" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/cinq-enjeux-a-surveiller-pendant-la-campagne-electorale-queb-d2d016.html">https://entreelibre.ca/edition/2026-08-28/a/cinq-enjeux-a-surveiller-pendant-la-campagne-electorale-queb-d2d016.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://globalnews.ca/news/12037350/here-are-5-issues-to-watch-in-the-quebec-provincial-election-campaign/" target="_blank" rel="noopener"><span class="src-nom">Global News</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Canada&#x27;s National Observer, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La campagne électorale québécoise s&#x27;ouvre alors que le Québec et Terre-Neuve-et-Labrador viennent de conclure une entente provisoire de plusieurs milliards de dollars pour se partager la production de la centrale de Churchill Falls et lancer de nouveaux projets hydroélectriques, éoliens et de transport d&#x27;électricité — un dossier qui pourrait peser lourd dans le débat sur l&#x27;avenir énergétique du Québec au cours des six prochaines semaines. La guerre commerciale avec les États-Unis, la place du français et le coût de la vie devraient aussi dominer la campagne, alors que la première ministre sortante Christine Fréchette cherche un premier mandat électif à la tête du gouvernement après avoir succédé à François Legault en cours de mandat. Selon Global News, l&#x27;issue du scrutin du 5 octobre pourrait redessiner les rapports de force à l&#x27;Assemblée nationale, le Parti québécois talonnant, voire devançant, la Coalition avenir Québec dans les intentions de vote depuis plusieurs mois.</p><p>Le média souligne également que l&#x27;immigration, la crise du logement et l&#x27;état des services publics, en particulier en santé, figurent parmi les enjeux que les partis devront adresser directement aux électeurs, au risque de voir la campagne accaparée par les échanges sur Donald Trump et les tarifs douaniers plutôt que par ces préoccupations plus concrètes pour le quotidien des Québécois. Le cinquième enjeu identifié par Global News touche directement la gestion de la relation commerciale avec Washington, chaque parti devant préciser sa propre approche advenant son élection. Canada&#x27;s National Observer note pour sa part que plusieurs de ces dossiers, de l&#x27;énergie au logement, opposeront des visions difficilement conciliables entre les cinq principales formations en lice. Global News rappelle que ces cinq enjeux devront être tranchés par un électorat dont une partie importante se dit encore indécise à l&#x27;approche du vote, ce qui pourrait favoriser des revirements rapides dans les sondages au fil des six prochaines semaines. Le média souligne enfin que la couverture médiatique de langue anglaise, souvent moins abondante pour une élection strictement québécoise, sera cette fois plus soutenue en raison de l&#x27;intérêt suscité par la dimension commerciale et diplomatique de la campagne.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

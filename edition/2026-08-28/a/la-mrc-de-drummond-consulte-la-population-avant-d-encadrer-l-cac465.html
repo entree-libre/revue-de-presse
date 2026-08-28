@@ -32,6 +32,12 @@
 <div class="terr">MRC de Drummond</div>
 <h1>La MRC de Drummond consulte la population avant d&#x27;encadrer l&#x27;éolien sur son territoire</h1>
 <div class="chapo">MRC de Drummond · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/la-mrc-de-drummond-consulte-la-population-avant-d-encadrer-l-cac465.html"
+  data-titre="La MRC de Drummond consulte la population avant d&#x27;encadrer l&#x27;éolien sur son territoire" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/la-mrc-de-drummond-consulte-la-population-avant-d-encadrer-l-cac465.html">https://entreelibre.ca/edition/2026-08-28/a/la-mrc-de-drummond-consulte-la-population-avant-d-encadrer-l-cac465.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.mrcdrummond.qc.ca/nouvelle/projet-de-reglement-eolien-la-mrc-de-drummond-consulte-la-population-de-son-territoire/" target="_blank" rel="noopener"><span class="src-nom">MRC de Drummond</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La MRC de Drummond lance une démarche d&#x27;information et de consultation sur son projet de règlement de contrôle intérimaire visant à encadrer un éventuel développement éolien sur son territoire. Aucun projet éolien précis n&#x27;a encore été présenté pour la MRC dans le cadre de l&#x27;appel d&#x27;offres d&#x27;Hydro-Québec; la démarche vise à établir d&#x27;avance les règles qui s&#x27;appliqueraient si des projets étaient déposés. La population est invitée, jusqu&#x27;au 25 septembre, à consulter des fiches d&#x27;information sur les grandes orientations du projet de règlement et à transmettre ses questions et commentaires par questionnaire en ligne. Les contributions reçues serviront à cibler les sujets à approfondir lors d&#x27;une activité publique prévue le 1er octobre, dont les détails seront communiqués sous peu. Les personnes intéressées peuvent consulter les fiches d&#x27;information et transmettre leurs commentaires au moyen du questionnaire en ligne disponible sur le site de la MRC.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

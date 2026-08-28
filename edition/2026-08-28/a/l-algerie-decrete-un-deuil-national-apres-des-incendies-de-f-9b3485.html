@@ -33,6 +33,12 @@
 <div class="terr">Algérie</div>
 <h1>L&#x27;Algérie décrète un deuil national après des incendies de forêt qui ont fait douze morts</h1>
 <div class="chapo">La Presse, Le Parisien, France 24 · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/l-algerie-decrete-un-deuil-national-apres-des-incendies-de-f-9b3485.html"
+  data-titre="L&#x27;Algérie décrète un deuil national après des incendies de forêt qui ont fait douze morts" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/l-algerie-decrete-un-deuil-national-apres-des-incendies-de-f-9b3485.html">https://entreelibre.ca/edition/2026-08-28/a/l-algerie-decrete-un-deuil-national-apres-des-incendies-de-f-9b3485.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Algeria_forest_fires_ESA23430208.jpeg/1280px-Algeria_forest_fires_ESA23430208.jpeg" onerror="this.closest('figure').remove()"><figcaption>Image satellite de feux de forêt dans le nord de l&#x27;Algérie. Photo : Agence spatiale européenne, Attribution, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/international/afrique/2026-08-27/algerie/deuil-national-de-trois-jours-apres-le-lourd-bilan-des-incendies.php" target="_blank" rel="noopener"><span class="src-nom">La Presse</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Le Parisien, France 24, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le président algérien Abdelmadjid Tebboune a décrété jeudi un deuil national de trois jours après que de violents incendies de forêt dans le nord-est du pays ont fait au moins 12 morts et 54 blessés hospitalisés pour des brûlures, dont six dans un état grave. Le ministre de l&#x27;Intérieur, Saïd Sayoud, a présenté ce bilan mercredi soir, en lien avec des feux ayant touché les régions de Béjaïa, Jijel et Tizi-Ouzou. Ces trois wilayas se trouvent dans une zone montagneuse et fortement boisée du pays, particulièrement exposée aux incendies en période estivale.</p><p>De nombreux habitants ont dû être évacués dans plusieurs préfectures, selon la Protection civile algérienne, qui poursuivait jeudi ses opérations de lutte contre les foyers encore actifs sur le terrain. Ce nouvel épisode s&#x27;inscrit dans une série d&#x27;étés marqués par des feux de forêt de plus en plus intenses sur l&#x27;ensemble du pourtour méditerranéen, du Maghreb au sud de l&#x27;Europe. Des images satellite de l&#x27;Agence spatiale européenne ont permis de cartographier l&#x27;étendue des zones brûlées dans les jours qui ont suivi le déclenchement des feux.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

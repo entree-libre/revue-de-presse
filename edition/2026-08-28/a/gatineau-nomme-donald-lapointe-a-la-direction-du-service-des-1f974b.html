@@ -32,6 +32,12 @@
 <div class="terr">Gatineau</div>
 <h1>Gatineau nomme Donald Lapointe à la direction du Service des travaux publics</h1>
 <div class="chapo">Ville de Gatineau · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/gatineau-nomme-donald-lapointe-a-la-direction-du-service-des-1f974b.html"
+  data-titre="Gatineau nomme Donald Lapointe à la direction du Service des travaux publics" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/gatineau-nomme-donald-lapointe-a-la-direction-du-service-des-1f974b.html">https://entreelibre.ca/edition/2026-08-28/a/gatineau-nomme-donald-lapointe-a-la-direction-du-service-des-1f974b.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.gatineau.ca/portail/default.aspx?p=nouvelles_annonces/communiques/communique_2015&amp;id=-1446198210" target="_blank" rel="noopener"><span class="src-nom">Ville de Gatineau</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Ville de Gatineau annonce la nomination de Donald Lapointe à titre de directeur du Service des travaux publics. Entré à la Ville en 2017 comme contremaître, M. Lapointe a gravi les échelons jusqu&#x27;au poste de chef de service, voirie, en 2022, où il supervisait une équipe de plus de 175 employés. Sélectionné pour la première cohorte du programme de relève de gestion de la Ville, il a ensuite occupé une affectation temporaire de neuf mois comme directeur adjoint au Service des ressources humaines. Il détient un baccalauréat en psychologie et en criminologie de l&#x27;Université d&#x27;Ottawa et une maîtrise en administration publique de l&#x27;École nationale d&#x27;administration publique. « Donald Lapointe connaît les rouages de l&#x27;organisation et du Service des travaux publics », a souligné le directeur général de Gatineau, Simon Rousseau.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

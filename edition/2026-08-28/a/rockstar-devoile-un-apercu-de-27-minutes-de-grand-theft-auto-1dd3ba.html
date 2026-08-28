@@ -32,6 +32,12 @@
 <div class="terr">International</div>
 <h1>Rockstar dévoile un aperçu de 27 minutes de Grand Theft Auto VI, d&#x27;abord sur Netflix</h1>
 <div class="chapo">The Verge, MacGeneration, Le 24 heures, Presse-citron · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/rockstar-devoile-un-apercu-de-27-minutes-de-grand-theft-auto-1dd3ba.html"
+  data-titre="Rockstar dévoile un aperçu de 27 minutes de Grand Theft Auto VI, d&#x27;abord sur Netflix" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/rockstar-devoile-un-apercu-de-27-minutes-de-grand-theft-auto-1dd3ba.html">https://entreelibre.ca/edition/2026-08-28/a/rockstar-devoile-un-apercu-de-27-minutes-de-grand-theft-auto-1dd3ba.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream" target="_blank" rel="noopener"><span class="src-nom">The Verge</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par MacGeneration, Le 24 heures, Presse-citron, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Rockstar Games a diffusé jeudi un aperçu d&#x27;environ 27 minutes de Grand Theft Auto VI, présenté d&#x27;abord en direct sur Netflix à 15 h (heure de l&#x27;Est) avant d&#x27;être publié sur YouTube et sur le site du studio. Les images proviennent entièrement de la version PlayStation 5 du jeu.</p><p>La séquence s&#x27;attarde à l&#x27;atmosphère, aux deux personnages principaux, Jason Duval et Lucia Caminos, et aux lieux du jeu, plutôt qu&#x27;aux mécaniques de jeu proprement dites. Le choix de la plateforme et le format long ont été lus par The Verge comme une tentative d&#x27;estomper encore la frontière entre le jeu vidéo et la fiction télévisée haut de gamme.</p><p>La diffusion a mis l&#x27;infrastructure de Netflix à l&#x27;épreuve : plusieurs abonnés se sont retrouvés dans l&#x27;impossibilité de se connecter au service ou de rejoindre le direct, selon Eurogamer, cité par MacGeneration. L&#x27;interruption a été brève et le service est revenu à la normale peu après.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

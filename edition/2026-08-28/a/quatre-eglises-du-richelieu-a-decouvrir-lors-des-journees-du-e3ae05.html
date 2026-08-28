@@ -32,6 +32,12 @@
 <div class="terr">MRC de La Vallée-du-Richelieu</div>
 <h1>Quatre églises du Richelieu à découvrir lors des Journées du patrimoine religieux</h1>
 <div class="chapo">MRC de La Vallée-du-Richelieu · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/quatre-eglises-du-richelieu-a-decouvrir-lors-des-journees-du-e3ae05.html"
+  data-titre="Quatre églises du Richelieu à découvrir lors des Journées du patrimoine religieux" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/quatre-eglises-du-richelieu-a-decouvrir-lors-des-journees-du-e3ae05.html">https://entreelibre.ca/edition/2026-08-28/a/quatre-eglises-du-richelieu-a-decouvrir-lors-des-journees-du-e3ae05.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.mrcvr.ca/de-clocher-en-clocher-quatre-eglises-a-decouvrir-au-fil-du-richelieu/" target="_blank" rel="noopener"><span class="src-nom">MRC de La Vallée-du-Richelieu</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La MRC de La Vallée-du-Richelieu invite la population à emprunter la route « De clocher en clocher » pour découvrir quatre églises de son territoire à l&#x27;occasion de la 9e édition des Journées du patrimoine religieux, qui se dérouleront les 11, 12 et 13 septembre. L&#x27;activité met en valeur le patrimoine religieux bâti de plusieurs municipalités de la MRC, généralement peu visité en dehors des offices. Les Journées du patrimoine religieux sont organisées chaque année à l&#x27;échelle du Québec pour faire connaître ce patrimoine et encourager sa préservation. La MRC précisera les détails pratiques de l&#x27;itinéraire à l&#x27;approche de l&#x27;événement. Les Journées du patrimoine religieux se tiennent chaque année à l&#x27;échelle du Québec pour faire connaître ce patrimoine bâti et encourager sa préservation.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

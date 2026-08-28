@@ -32,6 +32,12 @@
 <div class="terr">États-Unis, Mexique, Guatemala</div>
 <h1>Les expulsions de Mexicains vers des pays tiers par Washington, entre illégalité et pression sur Mexico</h1>
 <div class="chapo">RFI · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/les-expulsions-de-mexicains-vers-des-pays-tiers-par-washingt-d24f69.html"
+  data-titre="Les expulsions de Mexicains vers des pays tiers par Washington, entre illégalité et pression sur Mexico" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/les-expulsions-de-mexicains-vers-des-pays-tiers-par-washingt-d24f69.html">https://entreelibre.ca/edition/2026-08-28/a/les-expulsions-de-mexicains-vers-des-pays-tiers-par-washingt-d24f69.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.rfi.fr/fr/am%C3%A9riques/20260827-%C3%A9tats-unis-les-expulsions-de-mexicains-vers-des-pays-tiers-entre-ill%C3%A9galit%C3%A9-et-pression-sur-mexico" target="_blank" rel="noopener"><span class="src-nom">RFI</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Les États-Unis ont expulsé près de 2 300 ressortissants mexicains vers le Guatemala en 2026, et plusieurs dizaines d&#x27;autres vers le Honduras. L&#x27;administration américaine normalise cette pratique en présentant ces renvois vers des « pays tiers » comme une mesure logistique parmi d&#x27;autres, rapporte RFI dans une enquête consacrée à ce phénomène. Des organisations de la société civile y voient plutôt un moyen de pression sur le Mexique, tandis que le président guatémaltèque évoque, de son côté, de simples « escales de transit » pour ces personnes.</p><p>Ce mécanisme, qui contourne le renvoi direct vers le pays d&#x27;origine des personnes concernées, soulève des questions juridiques quant à sa conformité avec le droit international des réfugiés et des migrants. Plusieurs avocats spécialisés en droit de l&#x27;immigration, cités par RFI, estiment que cette pratique prive les personnes expulsées de garanties procédurales auxquelles elles auraient normalement droit. Ni Washington ni Mexico n&#x27;ont commenté publiquement, dans l&#x27;immédiat, les chiffres précis avancés par RFI dans son enquête sur ce dossier.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

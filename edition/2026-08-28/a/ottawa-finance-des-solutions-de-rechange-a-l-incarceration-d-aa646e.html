@@ -32,6 +32,12 @@
 <div class="terr">God&#x27;s River (Manitoba)</div>
 <h1>Ottawa finance des solutions de rechange à l&#x27;incarcération dirigées par des Autochtones au Manitoba</h1>
 <div class="chapo">Gouvernement du Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ottawa-finance-des-solutions-de-rechange-a-l-incarceration-d-aa646e.html"
+  data-titre="Ottawa finance des solutions de rechange à l&#x27;incarcération dirigées par des Autochtones au Manitoba" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ottawa-finance-des-solutions-de-rechange-a-l-incarceration-d-aa646e.html">https://entreelibre.ca/edition/2026-08-28/a/ottawa-finance-des-solutions-de-rechange-a-l-incarceration-d-aa646e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/08/le-gouvernement-du-canada-annonce-un-financement-pour-soutenir-des-solutions-de-rechange-a-lincarceration-dirigees-par-des-autochtones-au-manitoba.html" target="_blank" rel="noopener"><span class="src-nom">Gouvernement du Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La ministre fédérale des Affaires du Nord et de l&#x27;Arctique, Rebecca Chartrand, a annoncé un financement de 5 millions de dollars à l&#x27;organisme Manitoba Keewatinowi Okimakanak pour soutenir le projet MKO Gladue Pathways to Healing, qui vise à offrir des solutions de rechange à l&#x27;incarcération adaptées à la culture pour les membres des Premières Nations. Le projet doit rejoindre jusqu&#x27;à 26 communautés membres de l&#x27;organisme et soutenir jusqu&#x27;à 500 personnes par année, avec des plans individualisés incluant logement, soins de santé, services de lutte contre les dépendances et counseling.</p><p>« Cet investissement est une étape importante vers la lutte contre la surreprésentation inacceptable des Autochtones dans le système de justice pénale », a déclaré le grand chef Garrison Settee, qui y voit une façon de renouer avec la culture, la famille et la communauté. Le financement provient de l&#x27;Initiative sur les services correctionnels communautaires destinés aux Autochtones de Sécurité publique Canada, qui appuie des projets similaires ailleurs au pays. Le projet prévoit aussi un volet de collecte de données et d&#x27;évaluation continue destiné à mesurer ses effets sur le taux de récidive dans les communautés participantes.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

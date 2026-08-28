@@ -32,6 +32,12 @@
 <div class="terr">Terre-Neuve-et-Labrador</div>
 <h1>Ottawa investit dans un premier port spatial commercial à Terre-Neuve-et-Labrador</h1>
 <div class="chapo">Gouvernement du Canada · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ottawa-investit-dans-un-premier-port-spatial-commercial-a-te-e77cfd.html"
+  data-titre="Ottawa investit dans un premier port spatial commercial à Terre-Neuve-et-Labrador" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ottawa-investit-dans-un-premier-port-spatial-commercial-a-te-e77cfd.html">https://entreelibre.ca/edition/2026-08-28/a/ottawa-investit-dans-un-premier-port-spatial-commercial-a-te-e77cfd.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/08/un-investissement-de-10-millions-de-dollars-renforce-la-capacite-souveraine-de-lancement-spatial-du-canada-a-terre-neuve-et-labrador.html" target="_blank" rel="noopener"><span class="src-nom">Gouvernement du Canada</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le ministre de la Justice Sean Fraser, également responsable de l&#x27;Agence de promotion économique du Canada atlantique, a annoncé un investissement fédéral additionnel d&#x27;un million de dollars pour le Complexe spatial de l&#x27;Atlantique NordSpace, à St. Lawrence, à Terre-Neuve-et-Labrador, qui doit accueillir les premiers lanceurs spatiaux commerciaux construits au Canada. Combiné à un appui fédéral de 8,3 millions déjà annoncé plus tôt cette année, à 4 millions de la province et à 5 millions de NordSpace elle-même, l&#x27;investissement total dans le projet atteint 10 millions de dollars. L&#x27;entreprise, fondée en 2022, développe Tundra, que le gouvernement présente comme le premier lanceur de classe orbitale conçu au Canada, et vise la création de 30 emplois hautement qualifiés d&#x27;ici 2028, avec un potentiel de plus de 200 d&#x27;ici 2035.</p><p>Ottawa justifie cet appui par la volonté d&#x27;assurer un accès souverain à l&#x27;espace pour le Canada, un secteur que le gouvernement associe désormais à sa stratégie industrielle de défense, dans un marché spatial mondial dont la valeur est projetée à 2000 milliards de dollars d&#x27;ici 2040. L&#x27;annonce s&#x27;ajoute à un investissement fédéral de 200 millions de dollars déjà consenti cette année pour un port spatial en Nouvelle-Écosse, confirmant l&#x27;ambition d&#x27;Ottawa de faire du Canada atlantique une plaque tournante du lancement spatial commercial.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

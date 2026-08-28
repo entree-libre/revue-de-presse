@@ -32,6 +32,12 @@
 <div class="terr">Montérégie (Châteauguay)</div>
 <h1>Lagunes de Mercier : les plans et devis de la future usine attendus d&#x27;ici la fin de l&#x27;année</h1>
 <div class="chapo">Le Soleil de Châteauguay · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/lagunes-de-mercier-les-plans-et-devis-de-la-future-usine-att-0ea03e.html"
+  data-titre="Lagunes de Mercier : les plans et devis de la future usine attendus d&#x27;ici la fin de l&#x27;année" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/lagunes-de-mercier-les-plans-et-devis-de-la-future-usine-att-0ea03e.html">https://entreelibre.ca/edition/2026-08-28/a/lagunes-de-mercier-les-plans-et-devis-de-la-future-usine-att-0ea03e.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://cybersoleil.com/lagunes-de-mercier-plans-et-devis-de-lusine-dici-la-fin-de-lannee/" target="_blank" rel="noopener"><span class="src-nom">Le Soleil de Châteauguay</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le ministère de l&#x27;Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs entend lancer d&#x27;ici la fin de l&#x27;année un appel d&#x27;offres pour réaliser les plans et devis de la future usine de traitement des eaux souterraines contaminées, sur les terrains des lagunes de Mercier. Le soumissionnaire retenu surveillera également la construction du bâtiment et la mise en service de l&#x27;usine, précise Ghizlane Behdaoui, conseillère en communications au ministère. Un second appel d&#x27;offres sera ensuite nécessaire pour embaucher le fournisseur chargé de la construction, avant le début des travaux.</p><p>Une usine assure le confinement hydraulique du site depuis 1984, mais sa mise aux normes est jugée impensable par Québec en raison de l&#x27;âge et de l&#x27;état des installations actuelles. La nouvelle usine, annoncée en 2018, prendra place sur le même terrain. L&#x27;actuelle sera démolie une fois les nouvelles installations en service. « La construction d&#x27;une nouvelle usine permettra d&#x27;intégrer des technologies et des systèmes d&#x27;exploitation plus performants, notamment par l&#x27;ajout de systèmes automatisés », indique Mme Behdaoui.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

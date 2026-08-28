@@ -32,6 +32,12 @@
 <div class="terr">Côte Saint-Luc, Hampstead</div>
 <h1>Un nouveau panneau d&#x27;arrêt à Hampstead crispe les relations avec Côte Saint-Luc</h1>
 <div class="chapo">The Suburban · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/un-nouveau-panneau-d-arret-a-hampstead-crispe-les-relations-93bc4a.html"
+  data-titre="Un nouveau panneau d&#x27;arrêt à Hampstead crispe les relations avec Côte Saint-Luc" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/un-nouveau-panneau-d-arret-a-hampstead-crispe-les-relations-93bc4a.html">https://entreelibre.ca/edition/2026-08-28/a/un-nouveau-panneau-d-arret-a-hampstead-crispe-les-relations-93bc4a.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.thesuburban.com/news/city_news/csl-does-not-like-hampsteads-new-stop-sign-but-its-temporary/article_30e9eb9c-3387-4864-a290-7b0394acb3b1.html" target="_blank" rel="noopener"><span class="src-nom">The Suburban</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>La Ville de Hampstead a installé un nouveau panneau d&#x27;arrêt en direction ouest sur le chemin Fleet, à l&#x27;angle du chemin Minden — une intersection où il est déjà interdit aux automobilistes venant de la rue transversale de tourner à gauche vers Fleet. Le maire de Hampstead, Jeremy Levi, explique que l&#x27;arrêt découle d&#x27;une étude sur les vibrations accrues ressenties sur le chemin Fallbrook, une rue tranquille parallèle à Fleet : « L&#x27;étude recommandait de ralentir la circulation autant que possible pour réduire les vibrations », précise-t-il, ajoutant que la mesure est temporaire, en attendant la réfection du chemin Fleet. La question a été soulevée au conseil de Côte Saint-Luc du 17 août par un résident, qui suggérait plutôt un feu intelligent comme celui installé à l&#x27;angle des chemins Guelph et McMurray, capable de réduire les émissions en restant vert sauf lorsqu&#x27;un piéton traverse. Le maire de Côte Saint-Luc, David Tordjman, a indiqué qu&#x27;il communiquerait avec son homologue de Hampstead, tout en chiffrant à environ 300 000 $ à 400 000 $ l&#x27;installation d&#x27;un système de feux de circulation à cette intersection. Le chemin Fleet était autrefois réputé pour ses nombreux arrêts, remplacés au fil du temps par des feux afin de fluidifier la circulation. Le chemin Fleet demeure une artère fréquentée par les résidents des deux villes voisines, ce qui alimente régulièrement des discussions sur la fluidité et la sécurité de la circulation.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

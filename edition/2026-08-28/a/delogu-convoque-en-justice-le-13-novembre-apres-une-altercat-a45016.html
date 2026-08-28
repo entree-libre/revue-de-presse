@@ -32,6 +32,12 @@
 <div class="terr">France</div>
 <h1>Delogu convoqué en justice le 13 novembre après une altercation contestée avec des policiers</h1>
 <div class="chapo">CNEWS (AFP), Franceinfo, France 24 · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/delogu-convoque-en-justice-le-13-novembre-apres-une-altercat-a45016.html"
+  data-titre="Delogu convoqué en justice le 13 novembre après une altercation contestée avec des policiers" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/delogu-convoque-en-justice-le-13-novembre-apres-une-altercat-a45016.html">https://entreelibre.ca/edition/2026-08-28/a/delogu-convoque-en-justice-le-13-novembre-apres-une-altercat-a45016.html</a>
+</div>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.cnews.fr/france/2026-08-28/altercation-avec-des-policiers-le-depute-insoumis-sebastien-delogu-convoque" target="_blank" rel="noopener"><span class="src-nom">CNEWS (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par Franceinfo, France 24, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>Le député La France insoumise Sébastien Delogu, sorti jeudi soir de garde à vue, a été convoqué devant la justice le 13 novembre par convocation par officier de police judiciaire, a appris CNEWS d&#x27;une source proche du dossier. L&#x27;affaire remonte à lundi, vers 15 h 15 : trois policiers en civil, à la recherche d&#x27;un homme soupçonné d&#x27;un vol de montre, tentaient de pénétrer dans l&#x27;immeuble marseillais où réside le député. Il a finalement été interpellé sans incident dans un appartement situé en face du sien.</p><p>Les deux versions de l&#x27;altercation qui a suivi s&#x27;opposent. Selon Sébastien Delogu, un homme en civil non identifié lui aurait demandé de laisser la porte ouverte ; n&#x27;ayant pas confiance, ayant déjà reçu des menaces, il aurait refusé, et le ton serait monté sur le palier, les policiers lui « sautant dessus » et l&#x27;un d&#x27;eux lui assenant « un coup sur la poitrine », a-t-il raconté à l&#x27;AFP. Dans leurs procès-verbaux consultés par l&#x27;AFP, les policiers affirment au contraire que le député s&#x27;est opposé « physiquement » à leur entrée dans l&#x27;immeuble avant de les traiter de « bande de fatigués » et, pour l&#x27;un d&#x27;eux, de « trou du cul ».</p><p>Les trois policiers ont porté plainte pour outrage à personne dépositaire de l&#x27;autorité publique ; le parquet de Marseille a confirmé le placement en garde à vue du député dans le cadre de cette enquête de flagrance. Sébastien Delogu a de son côté déposé une plainte contre X pour injures et violences physiques, selon son avocat. L&#x27;élu marseillais, proche de Jean-Luc Mélenchon, s&#x27;était déjà signalé par des gestes d&#x27;éclat à l&#x27;Assemblée nationale.</p></div>
 <div class="etiquettes">
@@ -98,7 +104,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -120,4 +126,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>

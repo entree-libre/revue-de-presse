@@ -33,6 +33,12 @@
 <div class="terr">Bosnie-Herzégovine, Pays-Bas</div>
 <h1>Ratko Mladic, condamné pour le génocide de Srebrenica, meurt en prison à 84 ans</h1>
 <div class="chapo">TV5Monde (AFP), France 24, Radio-Canada, Le Devoir, Le Journal de Montréal, RFI, CNEWS, Europe 1, Libération · 28 août 2026</div>
+<div class="partage">
+ <button type="button" class="btn-partage" data-url="https://entreelibre.ca/edition/2026-08-28/a/ratko-mladic-condamne-pour-le-genocide-de-srebrenica-meurt-e-dd539a.html"
+  data-titre="Ratko Mladic, condamné pour le génocide de Srebrenica, meurt en prison à 84 ans" onclick="partager(this)">
+  <span class="txt">Partager ↗</span></button>
+ <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-08-28/a/ratko-mladic-condamne-pour-le-genocide-de-srebrenica-meurt-e-dd539a.html">https://entreelibre.ca/edition/2026-08-28/a/ratko-mladic-condamne-pour-le-genocide-de-srebrenica-meurt-e-dd539a.html</a>
+</div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ratko_Mladi%C4%87_-_Start_of_Trial.jpg" onerror="this.closest('figure').remove()"><figcaption>Ratko Mladic à l&#x27;ouverture de son procès devant le Tribunal pénal international pour l&#x27;ex-Yougoslavie. Photo : UN International Criminal Tribunal for the former Yugoslavia, CC BY 2.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://information.tv5monde.com/international/genocide-de-srebrenica-le-boucher-des-balkans-ratko-mladic-est-mort-en-prison-2835148" target="_blank" rel="noopener"><span class="src-nom">TV5Monde (AFP)</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-aussi">Également cité par France 24, Radio-Canada, Le Devoir, Le Journal de Montréal, RFI, CNEWS, Europe 1, Libération, sans lien direct pour le moment.</p><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 <div class="resume"><p>L&#x27;ancien chef militaire des Serbes de Bosnie Ratko Mladic est mort jeudi en prison à l&#x27;âge de 84 ans, a annoncé la télévision publique serbe RTS. Il purgeait une peine de perpétuité prononcée par la justice pénale internationale, notamment pour le génocide de Srebrenica en 1995, dans une unité de détention des Nations unies à La Haye. Sa mort survient quelques jours après le rejet, par le Mécanisme résiduel pour les tribunaux pénaux de l&#x27;ONU, d&#x27;une demande de sa famille et du gouvernement serbe visant à le transférer dans un hôpital militaire de Belgrade, où il aurait pu recevoir des soins jugés plus adaptés à son état de santé déclinant.</p><p>Ancien commandant de l&#x27;armée de la Republika Srpska, gravement malade depuis des mois, Ratko Mladic s&#x27;était imaginé en héros du peuple serbe jusqu&#x27;à la fin de sa vie. La justice internationale a retenu de lui, au contraire, la « quintessence du mal » pour les crimes commis par les forces sous ses ordres pendant la guerre de Bosnie, du siège de Sarajevo au massacre de Srebrenica, où environ 8 000 hommes et garçons musulmans bosniaques avaient été tués en l&#x27;espace de quelques jours en juillet 1995.</p><p>Le secrétaire général de l&#x27;ONU, António Guterres, a dit se tenir « en solidarité » avec les familles des victimes de Srebrenica à l&#x27;annonce de sa mort, selon un communiqué diffusé par son porte-parole. Sa disparition referme, sur le plan judiciaire, l&#x27;un des dossiers les plus emblématiques du Tribunal pénal international pour l&#x27;ex-Yougoslavie, dont les travaux avaient duré plus de deux décennies. Les autorités de Bosnie-Herzégovine restent divisées sur l&#x27;héritage de cette période, la Republika Srpska continuant de contester officiellement la qualification de génocide retenue par les juges internationaux.</p><p>Mise à jour — Le Mécanisme international chargé des fonctions résiduelles des tribunaux pénaux, qui siège à La Haye, a confirmé le décès à l&#x27;hôpital de la ville, après une première annonce de la télévision publique serbe RTS. En Bosnie-Herzégovine, la mort de celui que la presse a surnommé le « boucher des Balkans » a ravivé les fractures : les médias de l&#x27;entité serbe et ceux de Sarajevo n&#x27;en font pas le même récit, relève RFI.</p></div>
@@ -100,7 +106,7 @@ function etat(){var e=document.getElementById('etat');if(!e)return;
  var f={'':'Georgia','sans':'Sans','dys':'OpenDyslexic','newsreader':'Newsreader',
   'inter':'Inter'}[H.dataset.font||''];
  var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'2 colonnes');}
+ e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
@@ -122,4 +128,13 @@ function filtrer(){
 }
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
 </script></body></html>
