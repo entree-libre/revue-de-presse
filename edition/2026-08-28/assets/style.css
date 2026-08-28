@@ -293,6 +293,8 @@ html[data-theme="dark"] [data-cahier="savoirs"]{--ca:#b6a4e0}
  color:var(--muted)}
 .masthead h1{font-size:3.1rem;line-height:1.05;margin:.25rem 0 .3rem;
  letter-spacing:-.015em}
+.masthead .sous-titre{font-family:var(--titre);font-style:italic;
+ font-size:1.1rem;color:var(--muted);margin:0 0 .6rem}
 .masthead .date{font-size:.9rem;color:var(--muted);letter-spacing:.06em;
  text-transform:uppercase}
 .masthead .stats{display:flex;gap:1.6rem;justify-content:center;flex-wrap:wrap;
