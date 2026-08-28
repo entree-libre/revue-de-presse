@@ -1,6 +1,7 @@
 {
  "date": "2026-08-28",
  "volets": [
+  "continu",
   "hors-rss",
   "local",
   "monde",
@@ -9,6 +10,388 @@
   "report"
  ],
  "articles": [
+  {
+   "titre": "Le patron de la Fed juge l'inflation « préoccupante » et ouvre la porte à une hausse des taux",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "La Presse, Québecor, RFI, La Libre.be",
+   "url": "https://www.lapresse.ca/affaires/economie/2026-08-28/etats-unis/le-patron-de-la-fed-insiste-sur-l-inflation-preoccupante.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-08-28/etats-unis/le-patron-de-la-fed-insiste-sur-l-inflation-preoccupante.php"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/28/le-patron-de-la-fed-insiste-sur-linflation-preoccupante-aux-etats-unis"
+    }
+   ],
+   "resume": "Le président de la Réserve fédérale américaine, désigné par Donald Trump dans l'espoir d'obtenir une baisse des taux d'intérêt, a opéré vendredi un changement de ton laissant entendre que c'est plutôt une hausse qui se profile pour combattre une inflation qu'il qualifie de préoccupante. Les investisseurs, qui misaient majoritairement sur un statu quo à la réunion de septembre, ont basculé après le discours.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kevin_Warsh%2C_Federal_Reserve_photo_portrait.jpg",
+   "legende": "Le président de la Réserve fédérale américaine, Kevin Warsh.",
+   "photo_auteur": "Federal Reserve",
+   "photo_licence": "Domaine public",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "le-patron-de-la-fed-juge-l-inflation-preoccupante-et-ouvre-l-5f5339",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "le-patron-de-la-fed-juge-l-inflation-preoccupante-et-ouvre-l-5f5339"
+  },
+  {
+   "titre": "Le décret de Trump sur le vote par correspondance suspendu de nouveau, à 70 jours des élections",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Québecor, RFI, Yahoo Actualités",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260828-une-juge-f%C3%A9d%C3%A9rale-suspend-un-d%C3%A9cret-de-donald-trump-encadrant-le-vote-par-correspondance",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260828-une-juge-f%C3%A9d%C3%A9rale-suspend-un-d%C3%A9cret-de-donald-trump-encadrant-le-vote-par-correspondance"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/28/elections-de-mi-mandat-nouvelle-suspension-du-decret-trump-encadrant-le-vote-par-correspondance"
+    }
+   ],
+   "resume": "Une juge fédérale a de nouveau bloqué le décret de Donald Trump encadrant le vote par correspondance, trois jours après son autorisation provisoire par la Cour suprême, à 70 jours des élections américaines de mi-mandat. Elle a relevé que la plupart des États plaignants ont déjà commandé leurs bulletins et que certains sont tenus par leur propre droit de les expédier aux électeurs dès la semaine prochaine ; le président affirme vouloir prévenir des fraudes qui n'ont jamais été établies.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bag_of_81_vote-by-mail_ballots_delivered_to_our_precinct_%282246943563%29.jpg/1280px-Bag_of_81_vote-by-mail_ballots_delivered_to_our_precinct_%282246943563%29.jpg",
+   "legende": "Des bulletins de vote par correspondance livrés à un bureau de scrutin américain.",
+   "photo_auteur": "Joe Hall",
+   "photo_licence": "CC BY 2.0",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "le-decret-de-trump-sur-le-vote-par-correspondance-suspendu-d-13d67b",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "le-decret-de-trump-sur-le-vote-par-correspondance-suspendu-d-13d67b"
+  },
+  {
+   "titre": "Affaire Stormy Daniels : Trump échoue de nouveau à faire annuler sa condamnation",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada, La Presse",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278575/trump-echec-annulation-condamnation-affaire-stormy-daniels",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278575/trump-echec-annulation-condamnation-affaire-stormy-daniels"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-08-28/affaire-stormy-daniels/trump-essuie-un-nouvel-echec-pour-faire-annuler-sa-condamnation-pour-pot-de-vin.php"
+    }
+   ],
+   "resume": "Un juge fédéral américain a rejeté vendredi une nouvelle tentative de Donald Trump de faire annuler sa condamnation au criminel pour falsification de documents liés au remboursement de son ancien avocat Michael Cohen, qui avait versé un paiement à l'actrice pornographique Stormy Daniels. La décision du juge Hellerstein fait suite à une ordonnance rendue l'an dernier par une cour d'appel fédérale lui enjoignant de réexaminer son refus antérieur, alors que le président cherche à transférer le dossier pour obtenir un non-lieu en invoquant l'immunité présidentielle.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Criminal_Courts_Building%2C_100_Center_St.%2C_New_York_City._LOC_gsc.5a08406.jpg",
+   "legende": "Le palais de justice criminelle de Manhattan, au 100 Centre Street, à New York.",
+   "photo_auteur": "Gottscho-Schleisner Collection (Library of Congress)",
+   "photo_licence": "Domaine public",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "affaire-stormy-daniels-trump-echoue-de-nouveau-a-faire-annul-4806fa",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "affaire-stormy-daniels-trump-echoue-de-nouveau-a-faire-annul-4806fa"
+  },
+  {
+   "titre": "Six mois de guerre au Moyen-Orient : Téhéran se dit toujours ouvert à la diplomatie",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran",
+   "medias": "Radio-Canada, La Presse, Québecor",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278546/guerre-iran-six-mois-ouverture-diplomatie",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278546/guerre-iran-six-mois-ouverture-diplomatie"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/moyen-orient/2026-08-28/six-mois-de-guerre-au-moyen-orient/l-iran-se-dit-toujours-ouvert-a-la-diplomatie.php"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/28/liran-repete-aux-etats-unis-que-les-pressions-ne-fonctionnent-pas"
+    }
+   ],
+   "resume": "Six mois après le début de la guerre au Moyen-Orient, l'Iran s'est dit vendredi toujours ouvert à des négociations avec les États-Unis, tout en répétant que la campagne américaine de pressions économiques ne fera pas plier la République islamique. Le conflit a été déclenché le 28 février par des frappes conjointes américano-israéliennes contre l'Iran, qui a riposté en visant notamment les pays du Golfe alliés de Washington.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "six-mois-de-guerre-au-moyen-orient-teheran-se-dit-toujours-o-f39080",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "six-mois-de-guerre-au-moyen-orient-teheran-se-dit-toujours-o-f39080"
+  },
+  {
+   "titre": "Trump crée une académie spatiale nationale au centre Johnson de Houston",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "NASA, Sud Ouest, BFMTV, Québecor",
+   "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/"
+    },
+    {
+     "media": "Sud Ouest",
+     "url": "https://www.sudouest.fr/international/etats-unis/etats-unis-donald-trump-annonce-la-creation-d-une-academie-spatiale-nationale-30404067.php"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-etats-unis-donald-trump-annonce-la-creation-d-une-academie-nationale-dediee-a-l-espace_VN-202608280752.html"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/28/trump-annonce-la-creation-dune-academie-nationale-dediee-a-lespace"
+    }
+   ],
+   "resume": "Donald Trump a signé vendredi un décret créant la première académie spatiale nationale américaine, la U.S. Space Academy, établie au centre spatial Johnson de la NASA, à Houston, pour former la relève du secteur. Le texte confie la présidence d'une commission présidentielle sur l'établissement à l'administrateur de la NASA, Jared Isaacman, et sa direction exécutive à l'administrateur adjoint, Matt Anderson.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Space_Centre%2C_Houston%2C_Lyndon_B._Johnson_Space_Center_%2822%29.JPG/1280px-Space_Centre%2C_Houston%2C_Lyndon_B._Johnson_Space_Center_%2822%29.JPG",
+   "legende": "Le centre spatial Lyndon B. Johnson, à Houston.",
+   "photo_auteur": "John Cummings",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "trump-cree-une-academie-spatiale-nationale-au-centre-johnson-5b827c",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "trump-cree-une-academie-spatiale-nationale-au-centre-johnson-5b827c"
+  },
+  {
+   "titre": "Postes Canada essuie une perte de 277 millions au deuxième trimestre",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "La Presse, Coops de l'information, Les Affaires",
+   "url": "https://www.lesoleil.com/affaires/2026/08/28/postes-canada-affiche-une-perte-de-277-millions-en-trois-mois-6XL4JB6AFJBQLLNRFAEVT4NWSQ/",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/affaires/2026/08/28/postes-canada-affiche-une-perte-de-277-millions-en-trois-mois-6XL4JB6AFJBQLLNRFAEVT4NWSQ/"
+    }
+   ],
+   "resume": "Postes Canada a enregistré une perte d'exploitation avant impôt de 277 millions de dollars au deuxième trimestre, selon les résultats dévoilés vendredi. Le manque à gagner se compare à une perte de 407 millions au même trimestre l'an dernier.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/GMC_Canada_Post_Truck.JPG/1280px-GMC_Canada_Post_Truck.JPG",
+   "legende": "Un camion de livraison de Postes Canada.",
+   "photo_auteur": "Bull-Doser",
+   "photo_licence": "Domaine public",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "postes-canada-essuie-une-perte-de-277-millions-au-deuxieme-t-315403",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "postes-canada-essuie-une-perte-de-277-millions-au-deuxieme-t-315403"
+  },
+  {
+   "titre": "Le PQ promet d'abolir le fonds ayant servi à investir dans Northvolt",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Radio-Canada, Québecor",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278522/parti-quebecois-northvolt-abolition-fde",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278522/parti-quebecois-northvolt-abolition-fde"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldequebec.com/2026/08/28/investissement-dans-northvolt-frechette-renie-les-decisions-de-legault"
+    }
+   ],
+   "resume": "Le Parti québécois s'engage à abolir le fonds dont la CAQ s'est servie pour investir dans Northvolt, promettant de « défitzgibboniser » et de « défréchettiser » l'économie du Québec, en référence aux deux anciens ministres responsables du fonds. Christine Fréchette, aujourd'hui cheffe du gouvernement, a de nouveau admis vendredi qu'un soutien financier de cette ampleur à Northvolt et à l'entreprise québécoise Lion n'était pas la chose à faire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "le-pq-promet-d-abolir-le-fonds-ayant-servi-a-investir-dans-n-9bb933",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "le-pq-promet-d-abolir-le-fonds-ayant-servi-a-investir-dans-n-9bb933"
+  },
+  {
+   "titre": "Les avocats de l'aide juridique des régions en grève du 31 août au 4 septembre",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Le Manic, Le Nord-Côtier, Le Haute Côte-Nord",
+   "url": "https://www.lemanic.ca/2026/08/28/les-avocats-de-laide-juridique-en-greve/",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/08/28/les-avocats-de-laide-juridique-en-greve/"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/08/28/les-avocats-de-laide-juridique-en-greve/"
+    }
+   ],
+   "resume": "Les avocates et avocats de l'aide juridique des régions, affiliés à la Fédération des avocats de l'aide juridique du Québec, seront en grève du 31 août au 4 septembre pour dénoncer l'impasse des négociations avec Québec, après plus de trois ans sans contrat de travail. La Fédération réclame le respect du principe de parité salariale avec les procureurs aux poursuites criminelles et pénales, reconnu par le gouvernement depuis plus de 50 ans et réaffirmé par écrit, selon elle, lors de la dernière ronde de négociations.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "les-avocats-de-l-aide-juridique-des-regions-en-greve-du-31-a-d486c8",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "les-avocats-de-l-aide-juridique-des-regions-en-greve-du-31-a-d486c8"
+  },
+  {
+   "titre": "Un camion de poudre à Kraft Dinner se renverse à la sortie du pont Samuel-De Champlain",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Brossard",
+   "medias": "Québecor, Le Courrier du Sud, La Relève",
+   "url": "https://lecourrierdusud.ca/brossard-kraft-dinner-plein-chaussee-apres-sortie-de-route/",
+   "sources": [
+    {
+     "media": "Le Courrier du Sud",
+     "url": "https://lecourrierdusud.ca/brossard-kraft-dinner-plein-chaussee-apres-sortie-de-route/"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/28/un-poids-lourd-se-renverse-pres-du-pont-champlain-la-circulation-au-ralenti"
+    },
+    {
+     "media": "La Relève",
+     "url": "https://lareleve.qc.ca/2026/08/28/brossard-kraft-dinner-plein-chaussee-apres-sortie-de-route/"
+    }
+   ],
+   "resume": "Un camion chargé de poudre destinée à la préparation du Kraft Dinner s'est renversé vendredi vers 7 h sur la bretelle menant à la route 132, à la sortie du pont Samuel-De Champlain, à Brossard, répandant une partie de sa cargaison orangée sur la chaussée. Le conducteur a été transporté à l'hôpital pour des blessures qui ne mettent pas sa vie en danger, et la bretelle a été fermée le temps du remorquage.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Samuel_de_Champlain_Bridge_from_east.jpg/1280px-Samuel_de_Champlain_Bridge_from_east.jpg",
+   "legende": "Le pont Samuel-De Champlain, entre Montréal et Brossard.",
+   "photo_auteur": "Coasterlover1994",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "un-camion-de-poudre-a-kraft-dinner-se-renverse-a-la-sortie-d-ff67d1",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "un-camion-de-poudre-a-kraft-dinner-se-renverse-a-la-sortie-d-ff67d1"
+  },
+  {
+   "titre": "Cyberattaque à la CCQ : les services en ligne toujours paralysés après cinq jours",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/08/28/la-ccq-toujours-paralysee-apres-cinq-jours",
+   "resume": "Les services en ligne de la Commission de la construction du Québec demeurent complètement paralysés cinq jours après l'incident que l'organisme attribue à une cyberattaque. Plus de 197 000 travailleurs de l'industrie sont plongés dans l'incertitude. La porte-parole de la CCQ, Noémia L'Heureux-Daigneault, confirme que l'incident de cybersécurité, survenu le 24 août, entraîne la fermeture de la majorité des systèmes et des services pour une durée indéterminée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "cyberattaque-a-la-ccq-les-services-en-ligne-toujours-paralys-78dfb9",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "cyberattaque-a-la-ccq-les-services-en-ligne-toujours-paralys-78dfb9"
+  },
+  {
+   "titre": "Législatives israéliennes : le Likoud s'inquiète d'une division à sa droite",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Israël",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/international/moyen-orient/2026-08-28/legislatives-en-israel/le-parti-de-netanyahou-embarrasse-par-la-division-de-ses-allies-d-extreme-droite.php",
+   "resume": "Le Likoud de Benyamin Nétanyahou a fustigé vendredi le refus du chef d'Otzma Yehudit (« Force juive ») de se rallier à sa stratégie d'alliance en vue des prochaines législatives, craignant qu'une division des voix ne fasse échouer la coalition. Le dirigeant de cette formation, que ses adversaires situent à l'extrême droite et à laquelle les sondages attribuent 7 à 8 sièges — bien au-delà du seuil de 3,25 % des suffrages exprimés —, accuse le premier ministre de vouloir affaiblir son parti. Une candidature commune avec Bezalel Smotrich lui coûterait, selon ses propres calculs, trois à quatre sièges et ferait tomber le gouvernement de droite.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "legislatives-israeliennes-le-likoud-s-inquiete-d-une-divisio-7e44bf",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "legislatives-israeliennes-le-likoud-s-inquiete-d-une-divisio-7e44bf"
+  },
+  {
+   "titre": "Céline Dion arrive à Paris avant une résidence de 16 concerts",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "Euronews, Québecor",
+   "url": "https://fr.euronews.com/video/2026/08/28/des-fans-accueillent-celine-dion-devant-son-hotel-parisien-avant-sa-residence-de-16-concer",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/video/2026/08/28/des-fans-accueillent-celine-dion-devant-son-hotel-parisien-avant-sa-residence-de-16-concer"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/28/celine-dion-est-arrivee-en-france-deux-semaines-avant-ses-concerts"
+    }
+   ],
+   "resume": "Céline Dion est arrivée à Paris, accueillie par une foule de partisans devant son hôtel, environ deux semaines avant le début d'une résidence de 16 concerts à la Plenitude Arena. La chanteuse ne s'était plus produite dans la capitale française depuis 2024, quand elle avait interprété l'« Hymne à l'amour » à la cérémonie d'ouverture des Jeux olympiques.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/C%C3%A9line_Dion_2012.jpg",
+   "legende": "Céline Dion en 2012.",
+   "photo_auteur": "Georges Biard",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "celine-dion-arrive-a-paris-avant-une-residence-de-16-concert-112a28",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "celine-dion-arrive-a-paris-avant-une-residence-de-16-concert-112a28"
+  },
+  {
+   "titre": "Washington veut retirer aux riverains leur droit de regard sur les permis d'air des centres de données",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "The Verge, MacGeneration",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/intelligence-artificielle/2026/08/lepa-assouplit-encore-les-regles-dinstallation-de-data-centers-aux-usa-voulant-supprimer-un-droit-de-regard-des-riverains-310713"
+    }
+   ],
+   "resume": "L'Agence américaine de protection de l'environnement s'apprête à supprimer la règle fédérale qui impose un avis public et une période de commentaires lorsque certains sites industriels demandent un permis d'émissions atmosphériques. Des organisations de défense préviennent que les promoteurs de centres de données pourraient dès lors entreprendre leurs travaux sans que les résidents voisins soient consultés, ni même prévenus du chantier.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1280px-BalticServers_data_center.jpg",
+   "legende": "Des baies de serveurs dans un centre de données.",
+   "photo_auteur": "BalticServers.com",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "washington-veut-retirer-aux-riverains-leur-droit-de-regard-s-2c0deb",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "washington-veut-retirer-aux-riverains-leur-droit-de-regard-s-2c0deb"
+  },
+  {
+   "titre": "La bataille de Québec s'amorce, le PQ plombé par la controverse dans Taschereau",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/08/28/duhaime-la-facile-et-le-pq-plombe-par-la-distraction-gariepy-la-bataille-de-quebec-samorce",
+   "resume": "La grande région de Québec s'annonce comme le terrain le plus convoité de la campagne électorale, et le Parti québécois y entre handicapé : cinq des sept questions posées à Paul St-Pierre Plamondon au lancement de sa campagne ont porté sur son candidat de Taschereau plutôt que sur son programme. Éric Duhaime, lui, échappe pour l'instant à un examen équivalent, alors que plusieurs de ses propres candidats ont tenu des propos controversés et que certaines de ses promesses restent peu étayées.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%C3%89ric_Duhaime_2012-04-13.jpg/1280px-%C3%89ric_Duhaime_2012-04-13.jpg",
+   "legende": "Le chef du Parti conservateur du Québec, Éric Duhaime.",
+   "photo_auteur": "Asclepias",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "la-bataille-de-quebec-s-amorce-le-pq-plombe-par-la-controver-042ff4",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "la-bataille-de-quebec-s-amorce-le-pq-plombe-par-la-controver-042ff4"
+  },
+  {
+   "titre": "Petite-Rivière-Saint-François cherche des citoyens pour deux de ses comités",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Petite-Rivière-Saint-François",
+   "medias": "Municipalité de Petite-Rivière-Saint-François",
+   "url": "https://www.petiteriviere.com/nous-avons-besoin-de-vous/",
+   "resume": "La municipalité de Petite-Rivière-Saint-François, dans Charlevoix, cherche des citoyennes et des citoyens pour siéger à deux de ses comités. Des places sont à pourvoir au Comité du plan directeur des parcs et espaces verts ainsi qu'au Comité consultatif des loisirs.\n\nLes modalités de mise en candidature pour l'un et l'autre comité sont publiées sur le site de la municipalité.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Route_138_-_Petite-Rivi%C3%A8re-Saint-Fran%C3%A7ois_-_panoramio.jpg/1280px-Route_138_-_Petite-Rivi%C3%A8re-Saint-Fran%C3%A7ois_-_panoramio.jpg",
+   "legende": "La route 138 à Petite-Rivière-Saint-François.",
+   "photo_auteur": "4net",
+   "photo_licence": "CC BY 3.0",
+   "horodate": "2026-08-28T15:39-04:00",
+   "permalien": "petite-riviere-saint-francois-cherche-des-citoyens-pour-deux-9e1287",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-28.json",
+   "_slug": "petite-riviere-saint-francois-cherche-des-citoyens-pour-deux-9e1287"
+  },
   {
    "titre": "À LaSalle, l'école Sainte-Geneviève-Sud rouvre sa bâtisse principale après deux ans de travaux",
    "cahier": "montreal",
@@ -3378,12 +3761,12 @@
    "territoire": "Norvège",
    "medias": "TV5Monde (AFP), Le Journal de Montréal, France 24, CNews, RFI, Franceinfo",
    "url": "https://information.tv5monde.com/international/norvege-aggravation-de-letat-de-sante-du-roi-harald-2835104",
-   "resume": "Le roi Harald V de Norvège est mort vendredi à l'âge de 89 ans, a annoncé le Palais royal. Doyen des souverains européens, hospitalisé pour des complications liées à une maladie du sang, il avait vu son état se détériorer jusqu'à devenir « extrêmement grave », selon le communiqué diffusé la veille par le Palais. Son fils, le prince héritier Haakon, qui assurait déjà la régence lors des absences de son père, doit lui succéder conformément à la Constitution.\n\nMonté sur le trône en janvier 1991 à la mort de son père Olav V, Harald avait repris la devise familiale « Alt for Norge » — « Tout pour la Norvège ». Marin accompli, il avait représenté son pays aux Jeux olympiques de 1964, 1968 et 1972 avant de continuer à régater au-delà de ses 80 ans. Son règne a modernisé une monarchie sans pouvoir politique direct : publication des comptes de la maison royale, ouverture des résidences au public, et adoption de la succession égalitaire qui permettra un jour à sa petite-fille Ingrid Alexandra de régner. Pour épouser la roturière Sonja Haraldsen, il avait tenu tête neuf ans à son père, menaçant de ne jamais se marier. Après les attentats d'Oslo et d'Utøya en 2011, ses appels au calme et à une société ouverte avaient durablement renforcé sa popularité.\n\nLa fin de son règne a toutefois été assombrie par la pire crise de l'histoire de la couronne norvégienne : la condamnation à quatre ans de prison de Marius Borg Høiby, fils aîné de la princesse Mette-Marit, et la révélation d'une correspondance entre la princesse et le criminel sexuel Jeffrey Epstein, qui ont nourri un débat inédit sur l'avenir de l'institution. Malgré la maladie, Harald V avait toujours refusé d'abdiquer, se considérant roi « jusqu'à la mort », fidèle à la formule de son grand-père Haakon VII.",
+   "resume": "Le roi Harald V de Norvège est mort vendredi à l'âge de 89 ans, a annoncé le Palais royal. Doyen des souverains européens, hospitalisé pour des complications liées à une maladie du sang, il avait vu son état se détériorer jusqu'à devenir « extrêmement grave », selon le communiqué diffusé la veille par le Palais. Son fils, le prince héritier Haakon, qui assurait déjà la régence lors des absences de son père, doit lui succéder conformément à la Constitution.\n\nMonté sur le trône en janvier 1991 à la mort de son père Olav V, Harald avait repris la devise familiale « Alt for Norge » — « Tout pour la Norvège ». Marin accompli, il avait représenté son pays aux Jeux olympiques de 1964, 1968 et 1972 avant de continuer à régater au-delà de ses 80 ans. Son règne a modernisé une monarchie sans pouvoir politique direct : publication des comptes de la maison royale, ouverture des résidences au public, et adoption de la succession égalitaire qui permettra un jour à sa petite-fille Ingrid Alexandra de régner. Pour épouser la roturière Sonja Haraldsen, il avait tenu tête neuf ans à son père, menaçant de ne jamais se marier. Après les attentats d'Oslo et d'Utøya en 2011, ses appels au calme et à une société ouverte avaient durablement renforcé sa popularité.\n\nLa fin de son règne a toutefois été assombrie par la pire crise de l'histoire de la couronne norvégienne : la condamnation à quatre ans de prison de Marius Borg Høiby, fils aîné de la princesse Mette-Marit, et la révélation d'une correspondance entre la princesse et le criminel sexuel Jeffrey Epstein, qui ont nourri un débat inédit sur l'avenir de l'institution. Malgré la maladie, Harald V avait toujours refusé d'abdiquer, se considérant roi « jusqu'à la mort », fidèle à la formule de son grand-père Haakon VII.\n\n**Mise à jour, 15 h 30** — Les hommages se sont multipliés vendredi. Emmanuel Macron a salué un souverain qui « a œuvré avec constance, tout au long de son règne, au renforcement des liens unissant la Norvège et la France », évoquant l'accueil reçu à Oslo en juin 2025. Le président de la Confédération suisse, Guy Parmelin, a pour sa part retenu le dévouement du défunt roi au service de son pays.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Secretary_Kerry_Shakes_Hands_With_King_Harald_of_Norway_at_the_Royal_Palace_in_Oslo_%2827659382586%29.jpg/1280px-Secretary_Kerry_Shakes_Hands_With_King_Harald_of_Norway_at_the_Royal_Palace_in_Oslo_%2827659382586%29.jpg",
    "photo_auteur": "U.S. Department of State from United States",
    "photo_licence": "Public domain",
    "legende": "Le roi Harald V de Norvège au palais royal d'Oslo.",
-   "horodate": "2026-08-28T04:57-04:00",
+   "horodate": "2026-08-28T15:39-04:00",
    "permalien": "l-etat-de-sante-du-roi-harald-de-norvege-devient-extremement-da015c",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-28.json",
@@ -4414,12 +4797,12 @@
    "territoire": "Népal, Tibet",
    "medias": "Québecor, Radio-Canada, Le Devoir, La Presse, CBC",
    "url": "https://www.tvanouvelles.ca/2026/08/26/coulee-de-boue-au-tibet--558-personnes-disparues-selon-un-nouveau-bilan",
-   "resume": "Les équipes de secours ont extrait jeudi les corps d'au moins 362 victimes de l'immense coulée de boue qui a dévasté la veille la région frontalière entre le Népal et le Tibet, tout en poursuivant les recherches pour retrouver plus de 1400 personnes toujours portées disparues. Parmi elles se trouveraient une trentaine de Canadiens, selon un bilan communiqué par les autorités et repris par Québecor. L'ambassadeur du Népal au Canada, Bharat Raj Paudyal, a expliqué ne pas être en mesure de fournir de détails sur l'identité des personnes recherchées, mais a rappelé que la région touchée est prisée des randonneurs et sert aussi de route fréquentée par les pèlerins, ce qui pourrait expliquer la présence de nombreux étrangers au moment de la catastrophe.\n\nÀ Toronto, la communauté népalaise du Canada tente de joindre des proches sur place pendant que des organismes locaux s'organisent pour envoyer de l'aide, rapporte Radio-Canada. Khagendra Kandel, membre du conseil d'administration de Nepalese Canadian Community Services, a décrit une communauté sous le choc, mobilisée pour soutenir les familles en attente de nouvelles. Le Devoir et La Presse ont tous deux repris le bilan des victimes au fil de la journée, chacun soulignant l'ampleur inhabituelle de la catastrophe pour la région himalayenne. Aucune aide gouvernementale canadienne n'avait été annoncée formellement au moment de la publication, même si Affaires mondiales Canada avait indiqué suivre la situation de près pour les ressortissants canadiens dans la zone touchée. Le bilan communiqué jeudi représente déjà l'un des plus lourds enregistrés dans la région himalayenne depuis plusieurs années, et les autorités népalaises ont prévenu que le nombre de victimes confirmées pourrait encore grimper à mesure que les équipes de secours progressent dans les zones les plus difficiles d'accès. La coordination entre les autorités népalaises, chinoises et canadiennes sur le terrain n'avait pas encore fait l'objet d'un point de presse conjoint au moment de la publication des quatre reportages.\n\n**Mise à jour, 21 h 30** — Dix résidents de Toronto figurent parmi les personnes portées disparues, a confirmé jeudi sur les ondes de CBC News Network Leslie Crespi, responsable des relations communautaires en Amérique du Nord pour la Fondation Isha, un organisme spirituel sans but lucratif établi aux États-Unis. Ces dix personnes font partie des 80 membres de l'organisation dont on est toujours sans nouvelles. Les organisateurs du voyage et les familles n'ont eu aucun contact avec le groupe depuis mercredi matin.",
+   "resume": "Les équipes de secours ont extrait jeudi les corps d'au moins 362 victimes de l'immense coulée de boue qui a dévasté la veille la région frontalière entre le Népal et le Tibet, tout en poursuivant les recherches pour retrouver plus de 1400 personnes toujours portées disparues. Parmi elles se trouveraient une trentaine de Canadiens, selon un bilan communiqué par les autorités et repris par Québecor. L'ambassadeur du Népal au Canada, Bharat Raj Paudyal, a expliqué ne pas être en mesure de fournir de détails sur l'identité des personnes recherchées, mais a rappelé que la région touchée est prisée des randonneurs et sert aussi de route fréquentée par les pèlerins, ce qui pourrait expliquer la présence de nombreux étrangers au moment de la catastrophe.\n\nÀ Toronto, la communauté népalaise du Canada tente de joindre des proches sur place pendant que des organismes locaux s'organisent pour envoyer de l'aide, rapporte Radio-Canada. Khagendra Kandel, membre du conseil d'administration de Nepalese Canadian Community Services, a décrit une communauté sous le choc, mobilisée pour soutenir les familles en attente de nouvelles. Le Devoir et La Presse ont tous deux repris le bilan des victimes au fil de la journée, chacun soulignant l'ampleur inhabituelle de la catastrophe pour la région himalayenne. Aucune aide gouvernementale canadienne n'avait été annoncée formellement au moment de la publication, même si Affaires mondiales Canada avait indiqué suivre la situation de près pour les ressortissants canadiens dans la zone touchée. Le bilan communiqué jeudi représente déjà l'un des plus lourds enregistrés dans la région himalayenne depuis plusieurs années, et les autorités népalaises ont prévenu que le nombre de victimes confirmées pourrait encore grimper à mesure que les équipes de secours progressent dans les zones les plus difficiles d'accès. La coordination entre les autorités népalaises, chinoises et canadiennes sur le terrain n'avait pas encore fait l'objet d'un point de presse conjoint au moment de la publication des quatre reportages.\n\n**Mise à jour, 21 h 30** — Dix résidents de Toronto figurent parmi les personnes portées disparues, a confirmé jeudi sur les ondes de CBC News Network Leslie Crespi, responsable des relations communautaires en Amérique du Nord pour la Fondation Isha, un organisme spirituel sans but lucratif établi aux États-Unis. Ces dix personnes font partie des 80 membres de l'organisation dont on est toujours sans nouvelles. Les organisateurs du voyage et les familles n'ont eu aucun contact avec le groupe depuis mercredi matin.\n\n**Mise à jour, 15 h 30** — Aucun Canadien ne figure parmi les 121 ressortissants étrangers secourus près de la frontière entre le Népal et la Chine, où la crue soudaine a frappé mercredi. Au moins 32 Canadiens manquaient toujours à l'appel vendredi.",
    "photo": "",
    "legende": "",
    "photo_auteur": "",
    "photo_licence": "",
-   "horodate": "2026-08-27T21:48-04:00",
+   "horodate": "2026-08-28T15:39-04:00",
    "permalien": "une-crue-devastatrice-au-nepal-laisse-une-trentaine-de-canad-6e1cab",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-28.json",
@@ -5746,12 +6129,12 @@
    "territoire": "États-Unis",
    "medias": "Le Journal de Montréal, Radio-Canada, La Presse",
    "url": "https://www.lapresse.ca/arts/musique/2026-08-25/dolly-parton-1946-2026/le-milieu-culturel-quebecois-",
-   "resume": "La mort de Dolly Parton, chanteuse et actrice devenue une icône planétaire de la musique country, a suscité une vague d'hommages au Québec, rapporte La Presse. Née en 1946 dans une cabane d'une pièce des Appalaches, quatrième d'une fratrie de douze enfants, elle avait bâti son empire artistique à la seule force de sa plume, transformant une enfance marquée par la pauvreté en un répertoire capable de traverser les genres et les générations.\n\nAu Québec, l'auteure-compositrice-interprète Mara Tremblay a tenu à la remercier dans une publication éphémère sur Instagram. Maxime Landry et Annie Blanchard, qui avaient créé le spectacle Jolene and the Gambler autour des succès de Dolly Parton et de Kenny Rogers, ont eux aussi exprimé leur tristesse. Parmi ses chansons les plus marquantes figure Jolene, écrite et enregistrée en quelques minutes le même jour que I Will Always Love You, inspirée d'une employée de banque dont Dolly Parton soupçonnait alors le mari de s'être épris.",
+   "resume": "La mort de Dolly Parton, chanteuse et actrice devenue une icône planétaire de la musique country, a suscité une vague d'hommages au Québec, rapporte La Presse. Née en 1946 dans une cabane d'une pièce des Appalaches, quatrième d'une fratrie de douze enfants, elle avait bâti son empire artistique à la seule force de sa plume, transformant une enfance marquée par la pauvreté en un répertoire capable de traverser les genres et les générations.\n\nAu Québec, l'auteure-compositrice-interprète Mara Tremblay a tenu à la remercier dans une publication éphémère sur Instagram. Maxime Landry et Annie Blanchard, qui avaient créé le spectacle Jolene and the Gambler autour des succès de Dolly Parton et de Kenny Rogers, ont eux aussi exprimé leur tristesse. Parmi ses chansons les plus marquantes figure Jolene, écrite et enregistrée en quelques minutes le même jour que I Will Always Love You, inspirée d'une employée de banque dont Dolly Parton soupçonnait alors le mari de s'être épris.\n\n**Mise à jour, 15 h 30** — Le nombre d'écoutes en diffusion continue des chansons de Dolly Parton a bondi d'environ 2000 % depuis l'annonce de sa mort, mardi.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dolly_Parton_in_2022.jpg",
    "legende": "La chanteuse et actrice Dolly Parton.",
    "photo_auteur": "Peabody Awards",
    "photo_licence": "CC BY-SA 3.0",
-   "horodate": "2026-08-27T19:00-04:00",
+   "horodate": "2026-08-28T15:39-04:00",
    "permalien": "la-mort-de-dolly-parton-rassemble-le-milieu-culturel-quebeco-036cb5",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-28.json",
