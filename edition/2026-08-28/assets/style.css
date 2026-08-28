@@ -45,8 +45,8 @@ img{max-width:100%}
 .toolbar a{font-family:var(--ui);text-decoration:none;font-weight:600}
 nav.cahiers{position:sticky;top:2.35rem;z-index:29;background:var(--bg);
  border-bottom:2px solid var(--rule-fort);padding:0;display:flex;
- gap:1.4rem;flex-wrap:wrap;font-family:var(--ui);font-size:.8rem;font-weight:700;
- letter-spacing:.03em;text-transform:uppercase}
+ justify-content:space-between;gap:1.4rem;flex-wrap:wrap;font-family:var(--ui);
+ font-size:.8rem;font-weight:700;letter-spacing:.03em;text-transform:uppercase}
 nav.cahiers a{text-decoration:none;padding:.6rem 0;color:var(--fg);
  border-bottom:3px solid transparent;margin-bottom:-2px}
 nav.cahiers a:hover{color:var(--accent)}
