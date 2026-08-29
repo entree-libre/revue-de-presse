@@ -1,11 +1,545 @@
 {
  "date": "2026-08-29",
  "volets": [
+  "monde",
   "presse-regionale",
   "quebec-canada",
-  "report"
+  "report",
+  "savoirs"
  ],
  "articles": [
+  {
+   "titre": "Une frappe russe fait au moins 37 morts dans la région de Kyiv",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "The Associated Press, Jerusalem Post",
+   "url": "https://apnews.com/article/russia-ukraine-war-bucha-kyiv-4be42e27897bf45797a0cf3758be5eaf",
+   "sources": [
+    {
+     "media": "The Associated Press",
+     "url": "https://apnews.com/article/russia-ukraine-war-bucha-kyiv-4be42e27897bf45797a0cf3758be5eaf"
+    },
+    {
+     "media": "Jerusalem Post",
+     "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-906949"
+    }
+   ],
+   "resume": "Une frappe de drones russes a visé dans la nuit de vendredi à samedi le district de Boutcha, en périphérie de Kyiv, tuant au moins 37 personnes selon les autorités ukrainiennes citées par l'Associated Press — un bilan d'abord annoncé à 27 morts, puis revu à la hausse à mesure que les secours progressaient dans les décombres. L'attaque a endommagé au moins 50 immeubles résidentiels et provoqué un incendie qui s'est propagé à des habitations et à un restaurant, selon le chef de l'administration militaire régionale, Tymur Tkatchenko.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "une-frappe-russe-fait-au-moins-37-morts-dans-la-region-de-ky-454a19",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "une-frappe-russe-fait-au-moins-37-morts-dans-la-region-de-ky-454a19"
+  },
+  {
+   "titre": "Les autorités de Kherson appellent la population à évacuer face aux frappes russes",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "Le Devoir, La Dépêche, TF1 Info",
+   "url": "https://www.ledevoir.com/monde/europe/1004774/habitants-kherson-appeles-evacuer-face-frappes-russes",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/europe/1004774/habitants-kherson-appeles-evacuer-face-frappes-russes"
+    },
+    {
+     "media": "La Dépêche",
+     "url": "https://www.ladepeche.fr/2026/08/28/direct-guerre-en-ukraine-partez-je-vous-en-prie-les-autorites-demandent-aux-habitants-de-kherson-de-quitter-la-ville-face-au-danger-des-frappes-russes-13525388.php"
+    },
+    {
+     "media": "TF1 Info",
+     "url": "https://www.tf1info.fr/international/video-guerre-ukraine-russie-s-il-vous-plait-partez-la-population-de-kherson-appelee-a-evacuer-2460989.html"
+    }
+   ],
+   "resume": "Les autorités de Kherson, dans le sud de l'Ukraine, ont appelé les habitants à évacuer face à l'intensification des frappes russes, qui risquent de priver la ville d'électricité et de chauffage avant l'hiver. « Partez, je vous en prie », a lancé sur Telegram le gouverneur régional Oleksandre Prokoudine, alors que l'armée ukrainienne manque de munitions pour répondre aux bombardements qui se multiplient sur l'ensemble du territoire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "les-autorites-de-kherson-appellent-la-population-a-evacuer-f-cad5de",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "les-autorites-de-kherson-appellent-la-population-a-evacuer-f-cad5de"
+  },
+  {
+   "titre": "Kyiv dit avoir abattu plus de 200 drones russes au troisième jour d'alertes aériennes continues",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "The Kyiv Independent, Euronews, Politico Europe",
+   "url": "https://kyivindependent.com/ukraine-says-it-downed-more-than-200-drones-as-rare-days-long-air-raid-alerts-stretch-into-third-morning/",
+   "sources": [
+    {
+     "media": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-says-it-downed-more-than-200-drones-as-rare-days-long-air-raid-alerts-stretch-into-third-morning/"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/my-europe/2026/08/28/kyiv-sous-des-alertes-aeriennes-incessantes-la-russie-frappe-la-capitale-ukrainienne-pour-"
+    },
+    {
+     "media": "Politico Europe",
+     "url": "https://www.politico.eu/article/kyiv-air-raid-alerts-russia-war-civilians-ukraine/"
+    }
+   ],
+   "resume": "L'armée ukrainienne affirme avoir abattu ou neutralisé 233 drones russes dans la nuit de vendredi à samedi, au troisième jour consécutif d'alertes aériennes quasi continues sur de larges pans du pays. Des explosions ont été entendues à Kyiv samedi matin, alors que la Russie a intensifié ces dernières semaines ses frappes contre les infrastructures économiques ukrainiennes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "kyiv-dit-avoir-abattu-plus-de-200-drones-russes-au-troisieme-bc85f7",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "kyiv-dit-avoir-abattu-plus-de-200-drones-russes-au-troisieme-bc85f7"
+  },
+  {
+   "titre": "Le patron de la CIA se serait rendu secrètement à Moscou, selon le Washington Post",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Russie, États-Unis",
+   "medias": "The Washington Post (via Meduza), The Independent",
+   "url": "https://meduza.io/en/feature/2026/08/29/washington-post-ratcliffe-secretly-visited-moscow-to-warn-russia-not-to-exploit-perceived-u-s-weakness-from-the-iran-war-saying-escalation-in-ukraine-would-push-trump-toward-zelensky",
+   "sources": [
+    {
+     "media": "The Washington Post (via Meduza)",
+     "url": "https://meduza.io/en/feature/2026/08/29/washington-post-ratcliffe-secretly-visited-moscow-to-warn-russia-not-to-exploit-perceived-u-s-weakness-from-the-iran-war-saying-escalation-in-ukraine-would-push-trump-toward-zelensky"
+    },
+    {
+     "media": "The Independent",
+     "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-uk-nato-missile-b3041389.html"
+    }
+   ],
+   "resume": "Le directeur de la CIA, John Ratcliffe, se serait rendu discrètement à Moscou cette semaine pour avertir la Russie de ne pas profiter d'une possible faiblesse américaine liée à la guerre en Iran, selon le Washington Post; Donald Trump a qualifié la visite de mission « semi-routinière » pour tenter de mettre fin à la guerre en Ukraine, tandis que le Kremlin l'a décrite comme un « contact entre services de sécurité » dont Vladimir Poutine a été tenu informé. Le ministère russe de la Défense a annoncé quelques jours plus tard avoir testé avec succès, depuis la région d'Arkhangelsk, un missile balistique intercontinental à capacité nucléaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "le-patron-de-la-cia-se-serait-rendu-secretement-a-moscou-sel-efe5ce",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "le-patron-de-la-cia-se-serait-rendu-secretement-a-moscou-sel-efe5ce"
+  },
+  {
+   "titre": "Kyiv dit avoir frappé une importante raffinerie russe en Iaroslavl",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "The Moscow Times, Oilprice.com, United24 Media",
+   "url": "https://www.themoscowtimes.com/2026/08/28/ukrainian-drone-attack-kills-one-sparks-fire-at-yaroslavl-oil-refinery-a93595",
+   "sources": [
+    {
+     "media": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/08/28/ukrainian-drone-attack-kills-one-sparks-fire-at-yaroslavl-oil-refinery-a93595"
+    },
+    {
+     "media": "Oilprice.com",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Drones-Spark-Fire-at-Russian-Refinery-as-Fuel-Crisis-Worsens.html"
+    },
+    {
+     "media": "United24 Media",
+     "url": "https://united24media.com/war-in-ukraine/ukraines-fp-1-drones-hit-major-russian-oil-refinery-more-than-700-km-from-border-22020"
+    }
+   ],
+   "resume": "Des drones ukrainiens ont déclenché un incendie à la raffinerie Slavneft-YANOS, à Iaroslavl, à plus de 700 kilomètres de la frontière, selon l'état-major général ukrainien cité par The Moscow Times; l'attaque aurait fait un mort. Kyiv poursuit une campagne de frappes contre les capacités de raffinage russes alors que la Russie fait face à une pénurie de carburant grandissante.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "kyiv-dit-avoir-frappe-une-importante-raffinerie-russe-en-iar-07be54",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "kyiv-dit-avoir-frappe-une-importante-raffinerie-russe-en-iar-07be54"
+  },
+  {
+   "titre": "La Suède annonce l'envoi de dix bateaux et d'une aide financière à l'Ukraine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Suède",
+   "medias": "Euromaidan Press, The Maritime Executive",
+   "url": "https://euromaidanpress.com/2026/08/28/from-the-gripen-sale-to-coast-guard-boats-sweden-sends-10-vessels-to-ukraine/",
+   "sources": [
+    {
+     "media": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/08/28/from-the-gripen-sale-to-coast-guard-boats-sweden-sends-10-vessels-to-ukraine/"
+    },
+    {
+     "media": "The Maritime Executive",
+     "url": "https://maritime-executive.com/article/ukraine-to-get-10-boats-from-sweden-along-with-financial-aid"
+    }
+   ],
+   "resume": "Le gouvernement suédois a annoncé l'envoi à l'Ukraine de dix bateaux destinés à renforcer ses capacités maritimes, ainsi qu'une aide financière additionnelle. Stockholm présente ce geste comme un nouveau volet de son soutien à Kyiv, qui s'ajoute à la vente annoncée d'avions de chasse Gripen.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "la-suede-annonce-l-envoi-de-dix-bateaux-et-d-une-aide-financ-146188",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "la-suede-annonce-l-envoi-de-dix-bateaux-et-d-une-aide-financ-146188"
+  },
+  {
+   "titre": "Les frappes russes ont détruit 90 % des entrepôts modernes d'Ukraine, selon le ministre de l'Agriculture",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "Kyiv Independent, Euromaidan Press, United24 Media",
+   "url": "https://kyivindependent.com/russia-has-destroyed-90-of-ukraines-modern-storage-facilities-minister-says/",
+   "sources": [
+    {
+     "media": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-has-destroyed-90-of-ukraines-modern-storage-facilities-minister-says/"
+    },
+    {
+     "media": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/08/28/russia-has-destroyed-90-of-ukraines-modern-storage-capacity/"
+    },
+    {
+     "media": "United24 Media",
+     "url": "https://united24media.com/life-in-ukraine/russia-destroyed-90-of-ukrainian-retail-warehouse-capacity-but-food-supplies-remain-secure-22026"
+    }
+   ],
+   "resume": "Les frappes russes ont détruit environ 90 % des installations modernes d'entreposage de marchandises en Ukraine, a déclaré le ministre ukrainien de l'Agriculture, Taras Vysotskyi, cité par Interfax-Ukraine, évoquant des entrepôts, centres de distribution et terminaux postaux visés ces dernières semaines. Selon United24 Media, l'approvisionnement alimentaire du pays resterait pour l'instant assuré malgré la perturbation des chaînes logistiques.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "les-frappes-russes-ont-detruit-90-des-entrepots-modernes-d-u-2d8a9a",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "les-frappes-russes-ont-detruit-90-des-entrepots-modernes-d-u-2d8a9a"
+  },
+  {
+   "titre": "L'ex-ministre ukrainien de la Défense Mykhaïlo Fedorov devient conseiller de son homologue italien",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Ukraine, Italie",
+   "medias": "The Kyiv Independent, Anadolu, TVP World",
+   "url": "https://kyivindependent.com/ukrainian-ex-defense-minister-fedorov-becomes-an-aide-to-italian-official/",
+   "sources": [
+    {
+     "media": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/ukrainian-ex-defense-minister-fedorov-becomes-an-aide-to-italian-official/"
+    },
+    {
+     "media": "Anadolu",
+     "url": "https://www.aa.com.tr/en/europe/former-ukrainian-defense-chief-fedorov-becomes-italian-minister-s-innovation-adviser/4040759"
+    },
+    {
+     "media": "TVP World",
+     "url": "https://tvpworld.com/95085757/mykhailo-fedorov-becomes-adviser-to-italys-defense-minister"
+    }
+   ],
+   "resume": "L'ancien ministre ukrainien de la Défense Mykhaïlo Fedorov a accepté de devenir conseiller du ministre italien de la Défense, Guido Crosetto, à l'occasion d'une visite à Rome, a annoncé son service de presse. Il s'agit d'un rôle de conseil sur l'innovation, et non d'une fonction ministérielle en Italie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "l-ex-ministre-ukrainien-de-la-defense-mykhailo-fedorov-devie-0b327c",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "l-ex-ministre-ukrainien-de-la-defense-mykhailo-fedorov-devie-0b327c"
+  },
+  {
+   "titre": "Des tirs opposeraient des mutins à la garde présidentielle à Niamey, selon Libération",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Niger",
+   "medias": "TV5Monde (AFP), Libération, France 24",
+   "url": "https://information.tv5monde.com/afrique/niger-des-echanges-de-tirs-se-poursuivent-a-niamey",
+   "sources": [
+    {
+     "media": "TV5Monde (AFP)",
+     "url": "https://information.tv5monde.com/afrique/niger-des-echanges-de-tirs-se-poursuivent-a-niamey"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/afrique/au-niger-des-affrontements-en-cours-entre-des-mutins-et-la-garde-presidentielle"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/afrique/20260829-niger-des-tirs-entendus-pr%C3%A8s-d-une-base-militaire-et-dans-plusieurs-quartiers-de-niamey"
+    }
+   ],
+   "resume": "Des tirs et détonations étaient toujours entendus samedi matin à Niamey, la capitale du Niger, notamment près de la base militaire attenante à l'aéroport international, selon l'AFP, qui ne précise pas l'origine des incidents; Libération rapporte des affrontements en cours entre des mutins et la garde présidentielle du régime militaire au pouvoir depuis le putsch de juillet 2023. Il s'agirait de la troisième tentative de déstabilisation du régime cette année, et de la première ne semblant pas impliquer de forces djihadistes, qui avaient été repoussées en quelques heures lors de deux précédentes attaques contre l'aéroport en janvier et en juin.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "des-tirs-opposeraient-des-mutins-a-la-garde-presidentielle-a-661378",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "des-tirs-opposeraient-des-mutins-a-la-garde-presidentielle-a-661378"
+  },
+  {
+   "titre": "Cisjordanie : l'armée israélienne dit avoir tué trois « terroristes » à Jénine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Cisjordanie, Israël",
+   "medias": "TV5Monde (AFP), France 24",
+   "url": "https://information.tv5monde.com/international/cisjordanie-larmee-israelienne-affirme-avoir-tue-trois-combattants-palestiniens-jenine-2835287",
+   "sources": [
+    {
+     "media": "TV5Monde (AFP)",
+     "url": "https://information.tv5monde.com/international/cisjordanie-larmee-israelienne-affirme-avoir-tue-trois-combattants-palestiniens-jenine-2835287"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260829-bombardement-isra%C3%A9lien-%C3%A0-j%C3%A9nine-en-cisjordanie-occup%C3%A9e-au-moins-3-morts"
+    }
+   ],
+   "resume": "L'armée israélienne a annoncé avoir tué vendredi trois personnes qu'elle qualifie de « terroristes » lors d'une frappe aérienne dans la région de Jénine, au nord de la Cisjordanie occupée — une opération aérienne rare dans ce territoire où les interventions israéliennes sont surtout terrestres. Le ministère palestinien de la Santé fait pour sa part état de trois hommes d'une vingtaine d'années tués, selon lui par un drone.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "cisjordanie-l-armee-israelienne-dit-avoir-tue-trois-terroris-20d592",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "cisjordanie-l-armee-israelienne-dit-avoir-tue-trois-terroris-20d592"
+  },
+  {
+   "titre": "Des militants des droits civiques manifestent à Washington pour « défendre le vote »",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "franceinfo, Le Devoir, Radio-Canada",
+   "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/des-militants-des-droits-civiques-manifestent-a-washington-pour-defendre-le-vote-a-l-approche-des-elections-americaines-de-mi-mandat_8168162.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/des-militants-des-droits-civiques-manifestent-a-washington-pour-defendre-le-vote-a-l-approche-des-elections-americaines-de-mi-mandat_8168162.html"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/etats-unis/1004894/militants-droits-civiques-mobilisent-washington"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278652/defendre-vote-mobilisation-militants-droits-civiques-washington"
+    }
+   ],
+   "resume": "Des militants réunis sur le National Mall, à Washington, ont manifesté pour dénoncer le redécoupage électoral engagé par les républicains à leur propre avantage, ainsi que les restrictions au vote par correspondance soutenues par Donald Trump. Les organisateurs jugent qu'il s'agit de la plus grave remise en cause du droit de vote aux États-Unis depuis plusieurs décennies.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "des-militants-des-droits-civiques-manifestent-a-washington-p-baf228",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "des-militants-des-droits-civiques-manifestent-a-washington-p-baf228"
+  },
+  {
+   "titre": "Donald Trump se classe lui-même « plus grand » président de l'histoire des États-Unis",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "La Libre Belgique, Libération",
+   "url": "https://www.lalibre.be/international/amerique/2026/08/28/tout-en-modestie-donald-trump-se-place-plus-grand-president-de-lhistoire-des-etats-unis-dans-un-classement-et-etrille-biden-et-obama-USEYHL76LBDZHNUUO6H7STXFWI/",
+   "sources": [
+    {
+     "media": "La Libre Belgique",
+     "url": "https://www.lalibre.be/international/amerique/2026/08/28/tout-en-modestie-donald-trump-se-place-plus-grand-president-de-lhistoire-des-etats-unis-dans-un-classement-et-etrille-biden-et-obama-USEYHL76LBDZHNUUO6H7STXFWI/"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/un-populiste-se-disant-attaque-par-lestablishment-comment-donald-trump-a-t-il-etabli-son-classement-des-meilleurs-et-des-pires-presidents-20260828_LKWYKBGW4NENHI2EB2NNCCVXPM/"
+    }
+   ],
+   "resume": "Donald Trump s'est attribué la première place d'un sondage sur les meilleurs présidents américains de l'histoire, qu'il a lui-même republié et modifié sur son réseau Truth Social, se plaçant devant George Washington, Abraham Lincoln et Franklin Roosevelt. Il y relègue ses prédécesseurs Joe Biden et Barack Obama parmi les moins bien classés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "donald-trump-se-classe-lui-meme-plus-grand-president-de-l-hi-583f53",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "donald-trump-se-classe-lui-meme-plus-grand-president-de-l-hi-583f53"
+  },
+  {
+   "titre": "Washington aurait envisagé de céder une partie du parc Yosemite à un promoteur immobilier",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "États-Unis",
+   "medias": "Le Figaro, France 24, BFMTV",
+   "url": "https://www.lefigaro.fr/conjoncture/etats-unis-l-administration-trump-a-etudie-en-secret-la-cession-d-une-partie-du-parc-yosemite-a-un-promoteur-immobilier-20260829",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/conjoncture/etats-unis-l-administration-trump-a-etudie-en-secret-la-cession-d-une-partie-du-parc-yosemite-a-un-promoteur-immobilier-20260829"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260829-l-administration-trump-sur-le-point-de-c%C3%A9der-une-petite-partie-du-parc-yosemite"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump/l-administration-trump-sur-le-point-de-ceder-une-petite-partie-du-parc-yosemite-a-un-promoteur-immobilier-prive_AN-202608290067.html"
+    }
+   ],
+   "resume": "L'administration Trump aurait étudié en secret un projet permettant à un groupe immobilier de créer un accès routier privilégié vers un terrain en lisière du parc national de Yosemite, en Californie, selon Le Figaro. Le ministère américain de l'Intérieur affirme qu'« aucune décision finale » n'a été prise.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tunnel_View%2C_Yosemite_Valley%2C_Yosemite_NP_-_Diliff.jpg",
+   "legende": "Le point de vue de Tunnel View, dans la vallée de Yosemite.",
+   "horodate": "2026-08-29T08:17-04:00",
+   "photo_auteur": "Diliff",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "washington-aurait-envisage-de-ceder-une-partie-du-parc-yosem-43a78c",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "washington-aurait-envisage-de-ceder-une-partie-du-parc-yosem-43a78c"
+  },
+  {
+   "titre": "Les Islandais votent sur une reprise des négociations d'adhésion à l'Union européenne",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Islande",
+   "medias": "TV5Monde (AFP), France 24, franceinfo",
+   "url": "https://information.tv5monde.com/international/les-islandais-votent-sur-une-reprise-des-negociations-dadhesion-lue-2835325",
+   "sources": [
+    {
+     "media": "TV5Monde (AFP)",
+     "url": "https://information.tv5monde.com/international/les-islandais-votent-sur-une-reprise-des-negociations-dadhesion-lue-2835325"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260829-les-islandais-votent-sur-une-reprise-des-n%C3%A9gociations-d-adh%C3%A9sion-%C3%A0-l-ue"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/euro-peche-securite-on-vous-explique-les-enjeux-du-referendum-en-islande-sur-la-reprise-des-negociations-d-adhesion-avec-l-ue_8108924.html"
+    }
+   ],
+   "resume": "Les Islandais votent samedi lors d'un référendum sur la reprise des négociations d'adhésion à l'Union européenne, gelées depuis 2013 par l'arrivée au pouvoir d'un gouvernement eurosceptique, treize ans après le dépôt d'une première candidature dans le sillage de la crise financière de 2008. Les derniers sondages donnaient un résultat indécis entre les camps du « oui » et du « non ».",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_134-145_HDR_PAN.JPG",
+   "legende": "Vue de Reykjavik, la capitale de l'Islande.",
+   "horodate": "2026-08-29T08:17-04:00",
+   "photo_auteur": "Diego Delso",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "les-islandais-votent-sur-une-reprise-des-negociations-d-adhe-fa7363",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "les-islandais-votent-sur-une-reprise-des-negociations-d-adhe-fa7363"
+  },
+  {
+   "titre": "Colombie : aucune demande de rançon pour le soldat de la Légion étrangère française enlevé",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Colombie, France",
+   "medias": "franceinfo, Le Parisien, CNews",
+   "url": "https://www.franceinfo.fr/monde/ameriques/un-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie_8167193.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/ameriques/un-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie_8167193.html"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/soldat-de-la-legion-etrangere-enleve-en-colombie-sa-famille-na-recu-aucune-demande-de-rancon-selon-les-autorites-locales-29-08-2026-ICO5LWVQVBFQJC5B2GGRG7CS6Y.php"
+    },
+    {
+     "media": "CNews",
+     "url": "https://www.cnews.fr/monde/2026-08-29/colombie-aucune-demande-de-rancon-formulee-pour-le-soldat-de-la-legion-etrangere"
+    }
+   ],
+   "resume": "La famille d'un soldat de la Légion étrangère française enlevé en Colombie début août n'a reçu ni demande de rançon ni signe de vie de la part des ravisseurs, a indiqué vendredi à l'AFP un responsable militaire colombien. Le militaire, âgé d'une trentaine d'années, se trouvait dans le pays à titre personnel au moment de son enlèvement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "colombie-aucune-demande-de-rancon-pour-le-soldat-de-la-legio-1d242e",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "colombie-aucune-demande-de-rancon-pour-le-soldat-de-la-legio-1d242e"
+  },
+  {
+   "titre": "Haïti : le Conseil de sécurité de l'ONU alerte après un massacre d'au moins 47 personnes à Kenscoff",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Haïti",
+   "medias": "ONU (Conseil de sécurité)",
+   "url": "https://press.un.org/en/2026/sc16444.doc.htm",
+   "sources": [
+    {
+     "media": "ONU (Conseil de sécurité)",
+     "url": "https://press.un.org/en/2026/sc16444.doc.htm"
+    }
+   ],
+   "resume": "Des gangs ont tué au moins 47 personnes, dont des enfants, dans la nuit du 23 au 24 août à Kenscoff, une commune au sud-est de Port-au-Prince, certaines victimes ayant trouvé la mort alors qu'elles s'étaient réfugiées dans une église, a indiqué vendredi devant le Conseil de sécurité le représentant spécial de l'ONU pour Haïti, Carlos Ruiz Massieu. Des délégations ont appelé à accélérer le déploiement de la force internationale de lutte contre les gangs autorisée l'an dernier par le Conseil, alors que près de 1,5 million de personnes sont désormais déplacées à l'intérieur du pays.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "haiti-le-conseil-de-securite-de-l-onu-alerte-apres-un-massac-805612",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "haiti-le-conseil-de-securite-de-l-onu-alerte-apres-un-massac-805612"
+  },
+  {
+   "titre": "Mort de Ratko Mladić, condamné pour le génocide de Srebrenica",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Bosnie-Herzégovine",
+   "medias": "ONU (Secrétaire général)",
+   "url": "https://press.un.org/en/2026/sgsm23251.doc.htm",
+   "sources": [
+    {
+     "media": "ONU (Secrétaire général)",
+     "url": "https://press.un.org/en/2026/sgsm23251.doc.htm"
+    }
+   ],
+   "resume": "L'ancien commandant des forces armées des Serbes de Bosnie Ratko Mladić, condamné en 2017 à la prison à vie pour génocide, crimes contre l'humanité et violations des lois de la guerre par le Tribunal pénal international pour l'ex-Yougoslavie, est mort, a annoncé l'ONU. Le porte-parole du secrétaire général António Guterres a exprimé sa solidarité avec les victimes et rappelé que la reconnaissance du génocide de Srebrenica, établie par la justice internationale, ne saurait être remise en cause.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Srebrenica_Potocari_Memorial_2.JPG",
+   "legende": "Le mémorial du génocide de Srebrenica, à Potočari, en Bosnie-Herzégovine.",
+   "horodate": "2026-08-29T08:17-04:00",
+   "photo_auteur": "Dans-eng",
+   "photo_licence": "Domaine public",
+   "permalien": "mort-de-ratko-mladic-condamne-pour-le-genocide-de-srebrenica-67fa9d",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "mort-de-ratko-mladic-condamne-pour-le-genocide-de-srebrenica-67fa9d"
+  },
+  {
+   "titre": "Gaza à un « point de rupture » malgré le cessez-le-feu, entend le Conseil de sécurité de l'ONU",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Territoires palestiniens, Israël",
+   "medias": "ONU (Conseil de sécurité)",
+   "url": "https://press.un.org/en/2026/sc16440.doc.htm",
+   "sources": [
+    {
+     "media": "ONU (Conseil de sécurité)",
+     "url": "https://press.un.org/en/2026/sc16440.doc.htm"
+    }
+   ],
+   "resume": "La situation humanitaire à Gaza est à un « point de rupture absolu » à l'approche de l'hiver, avec deux millions de personnes toujours prises au piège près d'un an après l'entrée en vigueur du cessez-le-feu, ont averti mercredi plusieurs intervenants devant le Conseil de sécurité de l'ONU. La représentante israélienne a fait valoir que quelque 600 camions d'aide entrent chaque jour dans la bande de Gaza et que le Hamas doit désarmer avant toute autre étape, tandis que l'observateur de la Palestine a accusé Israël d'être passé à une « annexion en bonne et due forme » avec de nouveaux appels d'offres de construction dans le secteur E1, en Cisjordanie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "gaza-a-un-point-de-rupture-malgre-le-cessez-le-feu-entend-le-f6eb9a",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "gaza-a-un-point-de-rupture-malgre-le-cessez-le-feu-entend-le-f6eb9a"
+  },
+  {
+   "titre": "Sophie Binet accuse une partie du patronat de « faire la courte échelle à l'extrême droite »",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "France",
+   "medias": "Sud Ouest, RTL, Libération",
+   "url": "https://www.sudouest.fr/economie/social/sophie-binet-leader-de-la-cgt-accuse-une-partie-du-patronat-de-faire-la-courte-echelle-a-l-extreme-droite-30407240.php",
+   "sources": [
+    {
+     "media": "Sud Ouest",
+     "url": "https://www.sudouest.fr/economie/social/sophie-binet-leader-de-la-cgt-accuse-une-partie-du-patronat-de-faire-la-courte-echelle-a-l-extreme-droite-30407240.php"
+    },
+    {
+     "media": "RTL",
+     "url": "https://www.rtl.fr/actu/politique/ils-font-la-courte-echelle-a-l-extreme-droite-sophie-binet-accuse-une-partie-du-patronat-et-appelle-a-tout-faire-pour-empecher-l-arrivee-du-rn-au-pouvoir-7900666621"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/social/pour-le-medef-il-ny-a-que-largent-qui-compte-sophie-binet-accuse-une-partie-du-patronat-de-faire-la-courte-echelle-a-lextreme-droite-20260829_3T2QEWHBXFABTGD23MRLKF4PEY/"
+    }
+   ],
+   "resume": "La secrétaire générale de la CGT, Sophie Binet, accuse une partie du patronat français de « faire la courte échelle à l'extrême droite en la normalisant », alors que l'enjeu est selon elle d'empêcher l'arrivée du Rassemblement national au pouvoir. Elle vise en particulier le Medef, qu'elle juge exclusivement guidé par des considérations financières dans ses prises de position.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "sophie-binet-accuse-une-partie-du-patronat-de-faire-la-court-f8f7c6",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-29.json",
+   "_slug": "sophie-binet-accuse-une-partie-du-patronat-de-faire-la-court-f8f7c6"
+  },
   {
    "titre": "Crimes sur la Côte-Nord : des « soldats » recrutés dans les communautés autochtones",
    "cahier": "quebec",
@@ -1225,8 +1759,15 @@
    "cahier": "international",
    "rubrique": "economie",
    "territoire": "États-Unis, Venezuela",
-   "medias": "La Presse, Radio-Canada, 20 Minutes, Ouest-France",
+   "medias": "La Presse, Radio-Canada, 20 Minutes, Ouest-France, franceinfo",
    "url": "https://www.lapresse.ca/international/amerique-latine/2026-08-28/trump-annonce-un-important-accord-petrolier-avec-le-venezuela.php",
+   "resume": "Donald Trump a annoncé vendredi sur Truth Social un accord qui donnerait aux États-Unis le contrôle majoritaire de plus de 65 milliards de barils de réserves vénézuéliennes, ce qui doublerait selon lui les réserves américaines ; il présente l'entente, conclue sept mois après la capture du président déchu Nicolás Maduro, comme le plus grand accord pétrolier de l'histoire mondiale. Le président affirme avoir négocié en étroite collaboration avec la présidente par intérim du Venezuela, Delcy Rodríguez, et dit que la mise en œuvre passera par un partenariat avec des entreprises privées — aucune confirmation n'a été publiée à ce jour par Caracas.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Refiner%C3%ADa_El_Palito%2C_Carabobo%2C_Venezuela.JPG/1280px-Refiner%C3%ADa_El_Palito%2C_Carabobo%2C_Venezuela.JPG",
+   "legende": "La raffinerie El Palito, dans l'État de Carabobo, au Venezuela.",
+   "photo_auteur": "Marive Casimiro",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-08-29T08:17-04:00",
+   "permalien": "trump-annonce-un-accord-petrolier-avec-le-venezuela-portant-5316c0",
    "sources": [
     {
      "media": "La Presse",
@@ -1243,15 +1784,12 @@
     {
      "media": "Ouest-France",
      "url": "https://www.ouest-france.fr/monde/etats-unis/donald-trump/trump-annonce-un-important-accord-petrolier-avec-le-venezuela-268a3106-a336-11f1-94d9-ff4da0548a19"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/venezuela/attaque-americaine-sur-le-venezuela/les-etats-unis-et-le-venezuela-annoncent-avoir-conclu-un-accord-petrolier-historique_8168069.html"
     }
    ],
-   "resume": "Donald Trump a annoncé vendredi sur Truth Social un accord qui donnerait aux États-Unis le contrôle majoritaire de plus de 65 milliards de barils de réserves vénézuéliennes, ce qui doublerait selon lui les réserves américaines ; il présente l'entente comme le plus grand accord pétrolier de l'histoire mondiale. Le président affirme avoir négocié en étroite collaboration avec la présidente par intérim du Venezuela, Delcy Rodríguez, et dit que la mise en œuvre passera par un partenariat avec des entreprises privées — aucune confirmation n'a été publiée à ce jour par Caracas.",
-   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Refiner%C3%ADa_El_Palito%2C_Carabobo%2C_Venezuela.JPG/1280px-Refiner%C3%ADa_El_Palito%2C_Carabobo%2C_Venezuela.JPG",
-   "legende": "La raffinerie El Palito, dans l'État de Carabobo, au Venezuela.",
-   "photo_auteur": "Marive Casimiro",
-   "photo_licence": "CC BY-SA 3.0",
-   "horodate": "2026-08-28T21:39-04:00",
-   "permalien": "trump-annonce-un-accord-petrolier-avec-le-venezuela-portant-5316c0",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-29.json",
    "_slug": "trump-annonce-un-accord-petrolier-avec-le-venezuela-portant-5316c0"
@@ -1679,12 +2217,12 @@
    "territoire": "Ukraine, Russie",
    "medias": "Kyiv Post, Reuters, NY Post, The Kyiv Independent, Ukrinform",
    "url": "https://www.kyivpost.com/post/83218",
-   "resume": "Un nouveau cycle de discussions entre délégations ukrainienne et russe pourrait avoir lieu dès septembre, a déclaré Kyrylo Budanov, chef du bureau présidentiel ukrainien, cité par le Kyiv Post. Les négociations sont actuellement suspendues mais pourraient bientôt être « relancées », a-t-il indiqué au média ukrainien Novyny.LIVE. Interrogé sur un possible retour des négociateurs russes et ukrainiens à la même table de discussion, M. Budanov a répondu l'espérer.\n\n« Et avec les Américains aussi. Nous ne pouvons pas nous en passer », a-t-il ajouté, soulignant le rôle jugé indispensable de Washington dans tout format de négociation crédible. Ces propos surviennent alors que les efforts de médiation menés par les États-Unis pour mettre fin à la guerre restent dans l'impasse, malgré une activité diplomatique soutenue ces dernières semaines. Le président Zelensky avait par ailleurs multiplié les démarches à Washington pour maintenir le soutien américain, notamment lors de sa visite au Capitole relayée le même jour par l'Associated Press.\n\nAucune date précise ni aucun lieu n'ont pour l'instant été avancés officiellement par l'une ou l'autre des parties pour cette éventuelle reprise des discussions. Des précédents cycles de pourparlers, engagés plus tôt dans l'année, s'étaient déjà enlisés sans déboucher sur un accord de cessez-le-feu durable.\n\n**Mise à jour, 21 h 30** — Volodymyr Zelensky a indiqué vendredi soir avoir reçu de Washington un compte rendu des rencontres tenues ces derniers jours à Moscou, et dit apprécier que les États-Unis avancent « une vision assez réaliste » de ce qu'exige la fin de la guerre. Il s'est dit reconnaissant du ton adopté envers la Russie, sans donner de détails sur la teneur des discussions.",
+   "resume": "Un nouveau cycle de discussions entre délégations ukrainienne et russe pourrait avoir lieu dès septembre, a déclaré Kyrylo Budanov, chef du bureau présidentiel ukrainien, cité par le Kyiv Post. Les négociations sont actuellement suspendues mais pourraient bientôt être « relancées », a-t-il indiqué au média ukrainien Novyny.LIVE. Interrogé sur un possible retour des négociateurs russes et ukrainiens à la même table de discussion, M. Budanov a répondu l'espérer.\n\n« Et avec les Américains aussi. Nous ne pouvons pas nous en passer », a-t-il ajouté, soulignant le rôle jugé indispensable de Washington dans tout format de négociation crédible. Ces propos surviennent alors que les efforts de médiation menés par les États-Unis pour mettre fin à la guerre restent dans l'impasse, malgré une activité diplomatique soutenue ces dernières semaines. Le président Zelensky avait par ailleurs multiplié les démarches à Washington pour maintenir le soutien américain, notamment lors de sa visite au Capitole relayée le même jour par l'Associated Press.\n\nAucune date précise ni aucun lieu n'ont pour l'instant été avancés officiellement par l'une ou l'autre des parties pour cette éventuelle reprise des discussions. Des précédents cycles de pourparlers, engagés plus tôt dans l'année, s'étaient déjà enlisés sans déboucher sur un accord de cessez-le-feu durable.\n\n**Mise à jour, 21 h 30** — Volodymyr Zelensky a indiqué vendredi soir avoir reçu de Washington un compte rendu des rencontres tenues ces derniers jours à Moscou, et dit apprécier que les États-Unis avancent « une vision assez réaliste » de ce qu'exige la fin de la guerre. Il s'est dit reconnaissant du ton adopté envers la Russie, sans donner de détails sur la teneur des discussions.\n\n**Mise à jour, 29 août** — Moscou a de son côté douché cet optimisme : le porte-parole du Kremlin, Dmitri Peskov, a affirmé vendredi que les pourparlers de paix restaient « en pause » et qu'aucune « nouvelle idée » n'avait été avancée, en pleine impasse diplomatique alors que Washington reste concentré sur la guerre en Iran.",
    "photo": "",
    "photo_auteur": "",
    "photo_licence": "",
    "legende": "",
-   "horodate": "2026-08-28T21:39-04:00",
+   "horodate": "2026-08-29T08:17-04:00",
    "permalien": "kyiv-et-moscou-pourraient-reprendre-les-pourparlers-en-septe-d0c5a0",
    "sources": [
     {
@@ -1698,6 +2236,10 @@
     {
      "media": "Ukrinform",
      "url": "https://www.ukrinform.net/rubric-polytics/4158725-us-provided-ukraine-with-information-about-meetings-in-moscow-zelensky.html"
+    },
+    {
+     "media": "Türkiye Today",
+     "url": "https://www.turkiyetoday.com/world/russia-says-ukraine-peace-talks-remain-on-hold-no-new-ideas-3227000"
     }
    ],
    "_volet": "report",
@@ -1739,12 +2281,12 @@
    "territoire": "Népal, Chine (Tibet)",
    "medias": "Euronews, Franceinfo, Le Devoir, Radio-Canada, France 24, RFI, TV5Monde, Le Parisien",
    "url": "https://fr.euronews.com/2026/08/27/pres-de-400-morts-1-400-disparus-apres-les-inondations-au-nepal-tibet",
-   "resume": "Le bilan des inondations et glissements de terrain qui ont dévasté des communautés le long de la frontière entre le Népal et le Tibet approche jeudi les 400 morts et 1 400 disparus, selon les autorités népalaises et chinoises citées par Euronews. Les intempéries, provoquées par une vague de crue soudaine descendue des hauteurs de l'Himalaya, ont détruit des villages entiers et coupé plusieurs axes routiers dans une région montagneuse difficile d'accès. Cette situation complique considérablement les opérations de secours et de recherche des personnes disparues.\n\nLes autorités népalaises ont mis en place une police touristique pour tenter de localiser les nombreuses personnes portées disparues, dont une part importante de voyageurs étrangers surpris par la catastrophe alors qu'ils se trouvaient en randonnée dans la région. Plusieurs ambassades étrangères, dont celle de l'Ukraine, ont ouvert des lignes d'urgence pour leurs ressortissants respectifs. Le bilan pourrait encore s'alourdir dans les prochains jours, à mesure que les équipes de secours parviennent à accéder aux zones les plus reculées et les plus durement touchées par les glissements de terrain successifs.\n\nMise à jour, vendredi — Le bilan dépasse désormais 470 morts et près de 1 400 disparus, selon les autorités népalaises et chinoises citées par l'AFP et Reuters. Les secours ont dû suspendre vendredi leurs opérations au cœur de la zone sinistrée du Tibet : un lac géant formé il y a quarante-huit heures par l'effondrement d'un glacier a commencé à déborder, et de fortes précipitations sont attendues. Pékin a averti dans la nuit d'un « risque élevé » de rupture de cette retenue d'eau, qui menace les vallées des deux côtés de la frontière.\n\n**Mise à jour, 21 h 30** — Le nombre de personnes portées disparues au Népal et en Chine a dépassé 2 400 vendredi, selon le bilan rapporté par Euronews, et les secours ont retrouvé 586 corps, dont certains emportés en aval jusqu'en Inde. L'UNICEF alerte sur 17 000 enfants en détresse. La menace de nouvelles crues persiste alors que les équipes progressent dans la boue.",
+   "resume": "Le bilan des inondations et glissements de terrain qui ont dévasté des communautés le long de la frontière entre le Népal et le Tibet approche jeudi les 400 morts et 1 400 disparus, selon les autorités népalaises et chinoises citées par Euronews. Les intempéries, provoquées par une vague de crue soudaine descendue des hauteurs de l'Himalaya, ont détruit des villages entiers et coupé plusieurs axes routiers dans une région montagneuse difficile d'accès. Cette situation complique considérablement les opérations de secours et de recherche des personnes disparues.\n\nLes autorités népalaises ont mis en place une police touristique pour tenter de localiser les nombreuses personnes portées disparues, dont une part importante de voyageurs étrangers surpris par la catastrophe alors qu'ils se trouvaient en randonnée dans la région. Plusieurs ambassades étrangères, dont celle de l'Ukraine, ont ouvert des lignes d'urgence pour leurs ressortissants respectifs. Le bilan pourrait encore s'alourdir dans les prochains jours, à mesure que les équipes de secours parviennent à accéder aux zones les plus reculées et les plus durement touchées par les glissements de terrain successifs.\n\nMise à jour, vendredi — Le bilan dépasse désormais 470 morts et près de 1 400 disparus, selon les autorités népalaises et chinoises citées par l'AFP et Reuters. Les secours ont dû suspendre vendredi leurs opérations au cœur de la zone sinistrée du Tibet : un lac géant formé il y a quarante-huit heures par l'effondrement d'un glacier a commencé à déborder, et de fortes précipitations sont attendues. Pékin a averti dans la nuit d'un « risque élevé » de rupture de cette retenue d'eau, qui menace les vallées des deux côtés de la frontière.\n\n**Mise à jour, 21 h 30** — Le nombre de personnes portées disparues au Népal et en Chine a dépassé 2 400 vendredi, selon le bilan rapporté par Euronews, et les secours ont retrouvé 586 corps, dont certains emportés en aval jusqu'en Inde. L'UNICEF alerte sur 17 000 enfants en détresse. La menace de nouvelles crues persiste alors que les équipes progressent dans la boue.\n\n**Mise à jour, 29 août** — Trois jours après la crue, le bilan officiel s'élève désormais à 633 morts confirmés — 626 côté népalais et 7 en territoire chinois du Tibet —, selon des bilans encore provisoires cités par l'AFP, alors que les secours redoublent d'efforts pour localiser quelque 3 000 personnes toujours portées disparues et évacuer les rescapés bloqués à la frontière.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kali_Gandaki_Valley%2C_Mustang%2C_Nepal%2C_Himalaya.jpg/1280px-Kali_Gandaki_Valley%2C_Mustang%2C_Nepal%2C_Himalaya.jpg",
    "photo_auteur": "Vyacheslav Argenberg",
    "photo_licence": "CC BY 4.0",
    "legende": "Une vallée de l'Himalaya, au Népal.",
-   "horodate": "2026-08-28T21:39-04:00",
+   "horodate": "2026-08-29T08:17-04:00",
    "permalien": "inondations-au-nepal-et-au-tibet-le-bilan-approche-400-morts-853d6e",
    "sources": [
     {
@@ -1754,6 +2296,10 @@
     {
      "media": "Euronews",
      "url": "https://fr.euronews.com/2026/08/28/nepal-plus-de-2-400-disparus-lunicef-alerte-sur-17-000-enfants-en-detresse"
+    },
+    {
+     "media": "TV5Monde (AFP)",
+     "url": "https://information.tv5monde.com/international/crue-dans-lhimalaya-plus-de-600-morts-les-secours-la-recherche-de-milliers-de-disparus-2835362"
     }
    ],
    "_volet": "report",
@@ -1871,16 +2417,622 @@
    "territoire": "États-Unis",
    "medias": "Le Journal de Montréal, Radio-Canada, La Presse",
    "url": "https://www.lapresse.ca/arts/musique/2026-08-25/dolly-parton-1946-2026/le-milieu-culturel-quebecois-",
-   "resume": "La mort de Dolly Parton, chanteuse et actrice devenue une icône planétaire de la musique country, a suscité une vague d'hommages au Québec, rapporte La Presse. Née en 1946 dans une cabane d'une pièce des Appalaches, quatrième d'une fratrie de douze enfants, elle avait bâti son empire artistique à la seule force de sa plume, transformant une enfance marquée par la pauvreté en un répertoire capable de traverser les genres et les générations.\n\nAu Québec, l'auteure-compositrice-interprète Mara Tremblay a tenu à la remercier dans une publication éphémère sur Instagram. Maxime Landry et Annie Blanchard, qui avaient créé le spectacle Jolene and the Gambler autour des succès de Dolly Parton et de Kenny Rogers, ont eux aussi exprimé leur tristesse. Parmi ses chansons les plus marquantes figure Jolene, écrite et enregistrée en quelques minutes le même jour que I Will Always Love You, inspirée d'une employée de banque dont Dolly Parton soupçonnait alors le mari de s'être épris.\n\n**Mise à jour, 15 h 30** — Le nombre d'écoutes en diffusion continue des chansons de Dolly Parton a bondi d'environ 2000 % depuis l'annonce de sa mort, mardi.",
+   "resume": "La mort de Dolly Parton, chanteuse et actrice devenue une icône planétaire de la musique country, a suscité une vague d'hommages au Québec, où plusieurs artistes ont réagi sur les réseaux sociaux, rapporte La Presse. Les écoutes en diffusion continue de ses chansons ont bondi d'environ 2000 % depuis l'annonce de son décès.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dolly_Parton_in_2022.jpg",
    "legende": "La chanteuse et actrice Dolly Parton.",
    "photo_auteur": "Peabody Awards",
    "photo_licence": "CC BY-SA 3.0",
    "horodate": "2026-08-28T15:39-04:00",
    "permalien": "la-mort-de-dolly-parton-rassemble-le-milieu-culturel-quebeco-036cb5",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/musique/2026-08-25/dolly-parton-1946-2026/le-milieu-culturel-quebecois-"
+    }
+   ],
    "_volet": "report",
    "_fichier": "revue-report-2026-08-29.json",
    "_slug": "la-mort-de-dolly-parton-rassemble-le-milieu-culturel-quebeco-036cb5"
+  },
+  {
+   "titre": "Sophie Adenot boucle sa deuxième sortie dans l'espace",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "International",
+   "medias": "ESA",
+   "url": "https://www.esa.int/Space_in_Member_States/France/Deuxieme_sortie_extravehiculaire_reussie_pour_Sophie_Adenot",
+   "sources": [
+    {
+     "media": "ESA",
+     "url": "https://www.esa.int/Space_in_Member_States/France/Deuxieme_sortie_extravehiculaire_reussie_pour_Sophie_Adenot"
+    }
+   ],
+   "resume": "L'astronaute de l'Agence spatiale européenne Sophie Adenot et son collègue de la NASA Anil Menon ont mené à bien, mardi, une sortie extravéhiculaire de six heures et demie à bord de la Station spatiale internationale, la deuxième de la Française. Le duo a achevé l'installation d'une antenne de secours pour les communications Terre-espace, un travail entamé une semaine plus tôt et ralenti par des boulons grippés sur l'antenne défaillante. Sophie Adenot totalise désormais près de 13 heures de sortie dans l'espace, dans le cadre d'une opération qui portait à 283 le nombre de sorties effectuées depuis le début de l'assemblage de la Station.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_portrait_of_ESA_astronaut_Sophie_Adenot_wearing_a_spacesuit_%28jsc2025e073892_alt%29.jpg/1280px-Official_portrait_of_ESA_astronaut_Sophie_Adenot_wearing_a_spacesuit_%28jsc2025e073892_alt%29.jpg",
+   "legende": "L'astronaute de l'Agence spatiale européenne Sophie Adenot en tenue de sortie extravéhiculaire.",
+   "photo_auteur": "NASA Johnson Space Center / Helen Arase Vargas",
+   "photo_licence": "Domaine public",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "sophie-adenot-boucle-sa-deuxieme-sortie-dans-l-espace-610bf8",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "sophie-adenot-boucle-sa-deuxieme-sortie-dans-l-espace-610bf8"
+  },
+  {
+   "titre": "La NASA prépare le lancement du télescope Nancy Grace Roman, dimanche",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "NASA",
+   "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
+    }
+   ],
+   "resume": "Le télescope spatial Nancy Grace Roman de la NASA doit décoller au plus tôt dimanche à 7 h 26, heure de l'Est, à bord d'une fusée Falcon Heavy de SpaceX depuis le centre spatial Kennedy, en Floride. Nommé en l'honneur de la première astronome en chef de l'agence, l'observatoire combinera une vision infrarouge nette à un champ de vue au moins 100 fois plus large que celui du télescope Hubble, afin d'étudier l'énergie noire et la matière noire, de cartographier des milliards de galaxies et de caractériser des exoplanètes. Une fois en orbite, à environ 1,6 million de kilomètres de la Terre au point de Lagrange L2, la mission doit durer au moins cinq ans, avec un objectif de dix ans, et ses données seront rendues publiques.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Roman_Space_Telescope_Encapsulation_%28KSC-20260824-PH-SER01_0001%29.jpg/1280px-Roman_Space_Telescope_Encapsulation_%28KSC-20260824-PH-SER01_0001%29.jpg",
+   "legende": "Le télescope spatial Nancy Grace Roman encapsulé dans sa coiffe, avant son lancement depuis le centre spatial Kennedy.",
+   "photo_auteur": "NASA/Sydney Rohde (Rocz)",
+   "photo_licence": "Domaine public",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "la-nasa-prepare-le-lancement-du-telescope-nancy-grace-roman-f4924c",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "la-nasa-prepare-le-lancement-du-telescope-nancy-grace-roman-f4924c"
+  },
+  {
+   "titre": "L'Europe lance son deuxième satellite météo de troisième génération, MTG-I2",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "International",
+   "medias": "ESA",
+   "url": "https://www.esa.int/Newsroom/Press_Releases/MTG-I2_vient_completer_le_plus_recent_trio_de_satellites_meteorologiques_europeens",
+   "sources": [
+    {
+     "media": "ESA",
+     "url": "https://www.esa.int/Newsroom/Press_Releases/MTG-I2_vient_completer_le_plus_recent_trio_de_satellites_meteorologiques_europeens"
+    }
+   ],
+   "resume": "Le satellite européen MTG-I2 a décollé jeudi soir à bord d'une fusée Ariane 6 depuis le port spatial de Kourou, en Guyane française, a annoncé l'Agence spatiale européenne. Deuxième satellite imageur de la famille Meteosat troisième génération, il complète un système à trois satellites qui fournira des images de l'atmosphère au-dessus de l'Europe et de l'Afrique du Nord toutes les deux minutes et demie, une fréquence inédite destinée à améliorer le suivi des orages, des feux de forêt et de la pollution atmosphérique. Le satellite embarque aussi un imageur de foudre capable de détecter des éclairs individuels de jour comme de nuit.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Meteosat_Third_Generation_weather_satellites_ESA24390147.jpeg/1280px-Meteosat_Third_Generation_weather_satellites_ESA24390147.jpeg",
+   "legende": "Les satellites météorologiques européens de troisième génération Meteosat (MTG).",
+   "photo_auteur": "ESA/Mlabspace",
+   "photo_licence": "CC BY-SA 3.0 IGO",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "l-europe-lance-son-deuxieme-satellite-meteo-de-troisieme-gen-79701d",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "l-europe-lance-son-deuxieme-satellite-meteo-de-troisieme-gen-79701d"
+  },
+  {
+   "titre": "Des ondes cérébrales pourraient signaler l'Alzheimer des années avant les symptômes",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "France",
+   "medias": "Inserm",
+   "url": "https://www.inserm.fr/actualite/alzheimer-des-ondes-cerebrales-comme-biomarqueur-precoce-de-la-maladie/",
+   "sources": [
+    {
+     "media": "Inserm",
+     "url": "https://www.inserm.fr/actualite/alzheimer-des-ondes-cerebrales-comme-biomarqueur-precoce-de-la-maladie/"
+    }
+   ],
+   "resume": "Une équipe de l'Institut du cerveau à Paris, rattachée à l'Inserm, a établi un lien entre l'amplitude d'ondes cérébrales lentes détectables pendant l'éveil et l'accumulation de dépôts amyloïdes et de neurodégénérescence associés à la maladie d'Alzheimer. L'étude, menée sur plus de 300 personnes de 70 à 85 ans de la cohorte INSIGHT-preAD à la Pitié-Salpêtrière, montre que des ondes plus amples que la moyenne au départ prédisent un risque accru d'accumuler ces dépôts au fil du suivi. Les chercheurs, qui publient leurs travaux dans la revue Alzheimer's & Dementia, précisent qu'il reste à déterminer si ces ondes signalent une souffrance neuronale ou un mécanisme protecteur, et cherchent maintenant à valider leur utilité clinique auprès de nouveaux groupes de volontaires.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "des-ondes-cerebrales-pourraient-signaler-l-alzheimer-des-ann-d30bc7",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "des-ondes-cerebrales-pourraient-signaler-l-alzheimer-des-ann-d30bc7"
+  },
+  {
+   "titre": "Le rover Perseverance capture un nouveau passage de Phobos devant le Soleil",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "NASA",
+   "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/"
+    }
+   ],
+   "resume": "Le rover Perseverance de la NASA a photographié, le 12 août, la silhouette de Phobos, l'une des deux lunes de Mars, traversant le disque du Soleil, à l'aide de sa caméra Mastcam-Z. C'est l'un des nombreux transits du genre captés par l'engin depuis son atterrissage dans le cratère Jezero en février 2021; en comparant ces images entre elles, les scientifiques affinent leur connaissance de l'orbite changeante de ce satellite en forme de patate, appelé à s'écraser un jour sur la planète rouge.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Perseverance_Captures_Another_Phobos_Transit_%28PIA26811%29.png/1280px-Perseverance_Captures_Another_Phobos_Transit_%28PIA26811%29.png",
+   "legende": "La silhouette de Phobos traversant le disque solaire, photographiée par le rover Perseverance le 12 août 2026.",
+   "photo_auteur": "NASA/JPL-Caltech/ASU/MSSS/SSI",
+   "photo_licence": "Domaine public",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "le-rover-perseverance-capture-un-nouveau-passage-de-phobos-d-265418",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "le-rover-perseverance-capture-un-nouveau-passage-de-phobos-d-265418"
+  },
+  {
+   "titre": "Aurores boréales : quand le ciel islandais s'embrase de couleurs",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "International",
+   "medias": "NASA",
+   "url": "https://apod.nasa.gov/apod/ap260827.html",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://apod.nasa.gov/apod/ap260827.html"
+    }
+   ],
+   "resume": "L'image du jour de la NASA, mise en ligne jeudi, montre une aurore boréale multicolore au-dessus de l'Islande, un phénomène causé par des particules chargées du vent solaire captées par le champ magnétique terrestre et guidées vers les pôles. Les couleurs varient selon le gaz atmosphérique touché et l'altitude de la collision : l'oxygène produit du rouge et du vert, l'azote du bleu et du rose.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aurora_Borealis_activity_on_top_of_the_Kirkjufell_mountain_in_September_2018.jpg/1280px-Aurora_Borealis_activity_on_top_of_the_Kirkjufell_mountain_in_September_2018.jpg",
+   "legende": "Une aurore boréale au-dessus du mont Kirkjufell, en Islande (image d'illustration).",
+   "photo_auteur": "vaidyanathan",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "aurores-boreales-quand-le-ciel-islandais-s-embrase-de-couleu-69cbd0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "aurores-boreales-quand-le-ciel-islandais-s-embrase-de-couleu-69cbd0"
+  },
+  {
+   "titre": "SpaceX veut ériger une base de lancement à 100 milliards $ US en Louisiane",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2277850/spacex-base-spatiale-construction-louisiane",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2277850/spacex-base-spatiale-construction-louisiane"
+    }
+   ],
+   "resume": "SpaceX a annoncé mardi vouloir construire en Louisiane, sur la côte du golfe du Mexique, un complexe de lancement pour sa mégafusée Starship, avec un investissement d'au moins 100 milliards de dollars américains et la création de plus de 3000 emplois. Le site, plus de deux fois et demie plus grand que Washington, doit compter à terme une douzaine de tours de lancement permettant plus de 30 vols par jour; la construction doit débuter l'an prochain, pour un premier lancement visé en 2029. L'entreprise d'Elon Musk, connue pour ses échéanciers optimistes, prévoit aussi un projet de restauration du littoral dans cet État parmi les plus pauvres du pays.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SpaceX_Starbase_launch_facility_%2851438071556%29.jpg/1280px-SpaceX_Starbase_launch_facility_%2851438071556%29.jpg",
+   "legende": "Le site de lancement Starbase de SpaceX, au Texas — la future base louisianaise doit être plus grande encore (image d'illustration).",
+   "photo_auteur": "Lars Plougmann",
+   "photo_licence": "CC BY-SA 2.0",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "spacex-veut-eriger-une-base-de-lancement-a-100-milliards-us-81cd66",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "spacex-veut-eriger-une-base-de-lancement-a-100-milliards-us-81cd66"
+  },
+  {
+   "titre": "Il y a 20 ans, Pluton perdait son statut de planète",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "International",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10743283/comment-definit-on-une-planete-cas-historique-pluton",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10743283/comment-definit-on-une-planete-cas-historique-pluton"
+    }
+   ],
+   "resume": "Vingt ans après le vote de l'Union astronomique internationale qui a retiré à Pluton son statut de planète, en 2006, la question de sa classification continue d'alimenter le débat entre astronomes. Pluton avait été rétrogradée au rang de « planète naine » parce qu'elle ne remplit pas l'un des trois critères désormais exigés pour qu'un corps céleste soit qualifié de planète : avoir nettoyé le voisinage de son orbite des autres objets.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/1280px-Pluto_in_True_Color_-_High-Res.jpg",
+   "legende": "Pluton photographiée en couleurs réelles par la sonde New Horizons de la NASA, en 2015.",
+   "photo_auteur": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+   "photo_licence": "Domaine public",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "il-y-a-20-ans-pluton-perdait-son-statut-de-planete-02e3de",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "il-y-a-20-ans-pluton-perdait-son-statut-de-planete-02e3de"
+  },
+  {
+   "titre": "Le changement climatique rend-il les tornades plus fréquentes? Un chercheur répond",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "France",
+   "medias": "The Conversation",
+   "url": "https://theconversation.com/les-tornades-sont-elles-plus-frequentes-quavant-peut-on-les-prevoir-290474",
+   "sources": [
+    {
+     "media": "The Conversation",
+     "url": "https://theconversation.com/les-tornades-sont-elles-plus-frequentes-quavant-peut-on-les-prevoir-290474"
+    }
+   ],
+   "resume": "Après la tornade qui a blessé plusieurs personnes et touché des centaines d'habitations à Pomas, dans l'Aude, le 24 août, le chercheur Flavio Pons, spécialiste du phénomène au Laboratoire des sciences du climat et de l'environnement, explique que la Méditerranée, actuellement à son record historique de chaleur, fournit une énergie croissante aux orages violents du sud de la France. Il précise qu'il reste impossible d'affirmer que le changement climatique augmente le risque de tornades elles-mêmes, faute d'un réseau d'observation assez dense en Europe pour distinguer une vraie tendance d'un simple effet de meilleur signalement. Selon lui, seul le « nowcasting », qui suit chaque orage en temps réel, permettrait d'alerter la population quelques dizaines de minutes à l'avance — une capacité qui n'existe pas encore à l'échelle européenne.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "le-changement-climatique-rend-il-les-tornades-plus-frequente-f57698",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "le-changement-climatique-rend-il-les-tornades-plus-frequente-f57698"
+  },
+  {
+   "titre": "Nvidia rachète Hugging Face pour 12,9 milliards de dollars",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/nvidia-rachete-hugging-face-pour-129-milliards-de-dollars-un-seisme-pour-lecosysteme-de-lia-open-source-500737.htm",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/nvidia-rachete-hugging-face-pour-129-milliards-de-dollars-un-seisme-pour-lecosysteme-de-lia-open-source-500737.htm"
+    }
+   ],
+   "resume": "Nvidia a accepté de payer 12,9 milliards de dollars pour acquérir Hugging Face, la plateforme d'hébergement de modèles d'intelligence artificielle en accès libre, selon des informations de Reuters. Le montant contraste avec le chiffre d'affaires annualisé de la jeune pousse franco-américaine, estimé à 150 millions de dollars; Hugging Face avait pourtant rejeté l'an dernier une offre d'investissement de Nvidia qui l'aurait valorisée à 7 milliards. L'opération renforce l'emprise du fabricant de puces sur l'écosystème logiciel de l'intelligence artificielle, au moment où Anthropic et OpenAI cherchent à développer leurs propres puces pour s'affranchir de lui.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "nvidia-rachete-hugging-face-pour-12-9-milliards-de-dollars-d09ab7",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "nvidia-rachete-hugging-face-pour-12-9-milliards-de-dollars-d09ab7"
+  },
+  {
+   "titre": "Meta accepte de payer jusqu'à 18 milliards de dollars pour avoir rendu les ados accros à Instagram",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-626929-c-est-historique-meta-se-resout-a-payer-18-milliards-de-dollars-pour-avoir-rendu-les-ados-accros-a-instagram.html",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-626929-c-est-historique-meta-se-resout-a-payer-18-milliards-de-dollars-pour-avoir-rendu-les-ados-accros-a-instagram.html"
+    }
+   ],
+   "resume": "Meta a conclu une entente avec 52 procureurs généraux américains prévoyant un versement échelonné sur dix ans pouvant atteindre 18 milliards de dollars, pour mettre fin à des poursuites qui l'accusaient d'avoir sciemment rendu Instagram et Facebook addictifs pour les mineurs. L'entreprise s'engage en retour à imposer aux moins de 18 ans une limite quotidienne de deux heures cumulées sur les deux applications, un mode nuit bloquant l'accès de minuit à 6 h, ainsi qu'un mode école coupant les notifications non essentielles en journée. Une partie de la somme, environ 5,3 milliards, ne sera versée que si TikTok et YouTube, visés par des accusations similaires, adoptent des mesures comparables.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "meta-accepte-de-payer-jusqu-a-18-milliards-de-dollars-pour-a-24e3d6",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "meta-accepte-de-payer-jusqu-a-18-milliards-de-dollars-pour-a-24e3d6"
+  },
+  {
+   "titre": "Apple a versé 17 milliards de dollars d'impôts en Irlande en 2025",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Irlande",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/en-irlande-apple-a-verse-17-milliards-deuros-dimpots-en-2025-500497.htm",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/en-irlande-apple-a-verse-17-milliards-deuros-dimpots-en-2025-500497.htm"
+    }
+   ],
+   "resume": "Selon son premier rapport public de transparence fiscale, Apple a versé 17,1 milliards de dollars d'impôts sur le revenu en Irlande au cours de son exercice 2024-2025, soit environ 40 % du total mondial de ses impôts sur le revenu. Ce montant exceptionnel inclut le rattrapage de 13 milliards d'euros ordonné par la justice européenne en 2024, qui avait jugé illégaux les avantages fiscaux consentis par Dublin à l'entreprise; hors ce rattrapage, la société évalue ses impôts irlandais réguliers à 4,7 milliards de dollars. L'Allemagne et la France suivent loin derrière, avec respectivement 153 et 63 millions de dollars versés.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "apple-a-verse-17-milliards-de-dollars-d-impots-en-irlande-en-504310",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "apple-a-verse-17-milliards-de-dollars-d-impots-en-irlande-en-504310"
+  },
+  {
+   "titre": "Une juge américaine juge illégal le bannissement d'Anthropic ordonné par l'administration Trump",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "TVA Nouvelles",
+   "url": "https://www.tvanouvelles.ca/2026/08/27/un-tribunal-juge-illegal-le-bannissement-danthropic-decide-par-ladministration-trump",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/08/27/un-tribunal-juge-illegal-le-bannissement-danthropic-decide-par-ladministration-trump"
+    }
+   ],
+   "resume": "Une juge fédérale de San Francisco a statué que les sanctions imposées en février par l'administration Trump contre Anthropic étaient illégales, jugeant que le gouvernement avait puni l'entreprise d'intelligence artificielle pour avoir critiqué publiquement le Pentagone. La décision interdit aux agences fédérales d'appliquer l'ordre de cesser d'utiliser les outils d'Anthropic et annule sa désignation comme « risque pour la chaîne d'approvisionnement », un statut jusque-là réservé aux entreprises étrangères; le litige avait éclaté après le refus d'Anthropic de laisser l'armée utiliser son dialogueur Claude pour des armes autonomes létales ou la surveillance de masse. Une seconde sanction du Pentagone, fondée sur le code des achats publics, demeure en vigueur, et le gouvernement peut porter la décision en appel.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "une-juge-americaine-juge-illegal-le-bannissement-d-anthropic-ae7016",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "une-juge-americaine-juge-illegal-le-bannissement-d-anthropic-ae7016"
+  },
+  {
+   "titre": "Pénurie de RAM : Google va brider les applications Android trop gourmandes",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "Mac4Ever",
+   "url": "https://www.mac4ever.com/iphone/197757-penurie-de-ram-google-va-punir-les-applications-android-trop-gourmandes-en-memoire",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/iphone/197757-penurie-de-ram-google-va-punir-les-applications-android-trop-gourmandes-en-memoire"
+    }
+   ],
+   "resume": "Face à la flambée du prix de la mémoire vive, tirée par la demande des centres de données d'intelligence artificielle, Google annonce qu'à partir de février 2027, Android surveillera la consommation de mémoire de chaque application et bridera, voire fermera, celles qui en abusent. Les développeurs devront alléger leurs applications d'au moins 25 %, sous peine de voir leur visibilité réduite sur le Play Store; le mouvement, amorcé discrètement avec Android 17, se généralisera à la quasi-totalité des appareils, de 4 à plus de 16 Go de mémoire.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "penurie-de-ram-google-va-brider-les-applications-android-tro-b31f83",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "penurie-de-ram-google-va-brider-les-applications-android-tro-b31f83"
+  },
+  {
+   "titre": "Un robot humanoïde chinois descend sous les 9,4 secondes au 100 mètres",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Chine",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026"
+    }
+   ],
+   "resume": "Lors des Jeux mondiaux des robots humanoïdes de Pékin, le robot Tiangong Ultra, conçu par le Beijing Humanoid Robot Innovation Center, a couru le 100 mètres en 9,39 secondes en série préliminaire, plus vite que le record humain de 9,58 secondes établi par Usain Bolt en 2009; le robot Lightning, développé par Honor, a suivi en 9,47 secondes. Contrairement aux athlètes humains, ces robots ne ralentissent pas après l'arrivée et terminent leur course en percutant des murs matelassés; l'événement, qui en est à sa deuxième édition, réunissait cette année 2056 robots venus de 16 pays dans des épreuves de course, de saut, de football et de boxe.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "un-robot-humanoide-chinois-descend-sous-les-9-4-secondes-au-ddb581",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "un-robot-humanoide-chinois-descend-sous-les-9-4-secondes-au-ddb581"
+  },
+  {
+   "titre": "Le Mac mini franchit la barre des 1000 euros avec la puce M6",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "Mac4Ever",
+   "url": "https://www.mac4ever.com/mac/197738-mac-mini-m6-les-precommandes-sont-ouvertes-sur-amazon-a-partir-de-1-049",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/mac/197738-mac-mini-m6-les-precommandes-sont-ouvertes-sur-amazon-a-partir-de-1-049"
+    }
+   ],
+   "resume": "Les précommandes du nouveau Mac mini, équipé de la puce M6 gravée en 2 nanomètres, ont ouvert chez Apple puis chez Amazon, à partir de 1049 euros pour la version 256 Go, avec une commercialisation prévue le 22 septembre. Une version dotée d'une puce M5 Pro est aussi proposée, jusqu'à 1999 euros pour 512 Go; le format compact hérité du Mac mini M4 est conservé, mais ce dernier modèle se vendait encore à 699 euros, ce qui marque un bond tarifaire important pour la gamme.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mac_mini_2024_%28cropped%29.jpg/1280px-Mac_mini_2024_%28cropped%29.jpg",
+   "legende": "Le Mac mini dans son format compact introduit avec la génération M4, conservé pour le nouveau modèle M6.",
+   "photo_auteur": "Seasider53",
+   "photo_licence": "CC BY 4.0",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "le-mac-mini-franchit-la-barre-des-1000-euros-avec-la-puce-m6-bd70b5",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "le-mac-mini-franchit-la-barre-des-1000-euros-avec-la-puce-m6-bd70b5"
+  },
+  {
+   "titre": "Waymo choisit Munich pour son entrée en Europe",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Allemagne",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/waymo-lance-ses-robotaxis-en-europe-avec-munich-comme-tete-de-pont-500730.htm",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/waymo-lance-ses-robotaxis-en-europe-avec-munich-comme-tete-de-pont-500730.htm"
+    }
+   ],
+   "resume": "La filiale de robotaxis d'Alphabet, Waymo, a choisi Munich comme première ville européenne de déploiement, avec une phase de cartographie et d'essais conduits par des spécialistes avant l'ouverture au public visée pour la fin de 2027. L'entreprise met en avant des données tirées de plus de 350 millions de kilomètres parcourus en conduite entièrement autonome, avec 16 fois moins d'accidents graves que les conducteurs humains; elle y affrontera une concurrence déjà dense, Uber, Volkswagen et le chinois Baidu ayant aussi des projets de véhicules autonomes en Allemagne.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Waymo_robotaxis%2C_San_Francisco.jpg/1280px-Waymo_robotaxis%2C_San_Francisco.jpg",
+   "legende": "Des robotaxis Waymo, ici à San Francisco — l'entreprise doit maintenant faire ses débuts en Europe, à Munich (image d'illustration).",
+   "photo_auteur": "Mliu92",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "waymo-choisit-munich-pour-son-entree-en-europe-7c308e",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "waymo-choisit-munich-pour-son-entree-en-europe-7c308e"
+  },
+  {
+   "titre": "Uber écope d'une amende de 825 millions d'euros pour ses algorithmes de désactivation",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Pays-Bas",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-626440-uber-a-ecope-d-une-enorme-amende-en-europe-pour-avoir-laisse-des-algorithmes-decider-seuls-du-sort-de-ses-chauffeurs.html",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-626440-uber-a-ecope-d-une-enorme-amende-en-europe-pour-avoir-laisse-des-algorithmes-decider-seuls-du-sort-de-ses-chauffeurs.html"
+    }
+   ],
+   "resume": "L'autorité néerlandaise de protection des données a infligé à Uber une amende de près de 825 millions d'euros pour avoir laissé, entre 2018 et 2022, des systèmes automatisés suspendre ou désactiver des comptes de chauffeurs sans intervention humaine suffisante, en cas de soupçon de fraude ou de note trop basse. L'enquête faisait suite à des plaintes déposées par 171 chauffeurs français; il s'agit de la deuxième amende la plus lourde jamais imposée au titre du RGPD, derrière le 1,2 milliard d'euros infligé à Meta en 2023.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "uber-ecope-d-une-amende-de-825-millions-d-euros-pour-ses-alg-028025",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "uber-ecope-d-une-amende-de-825-millions-d-euros-pour-ses-alg-028025"
+  },
+  {
+   "titre": "Adobe ajoute à Photoshop un mode d'édition entièrement piloté par texte",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "Mac4Ever",
+   "url": "https://www.mac4ever.com/mac/197737-photoshop-se-met-au-tout-ia-avec-un-mode-d-edition-par-simple-prompt",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/mac/197737-photoshop-se-met-au-tout-ia-avec-un-mode-d-edition-par-simple-prompt"
+    }
+   ],
+   "resume": "Adobe déploie dans Photoshop un nouveau mode optionnel, l'éditeur assisté par IA, accessible depuis un bouton dédié qui remplace l'interface habituelle par une version simplifiée pilotée par des instructions en langage naturel. La fonction « Prompt to Edit » permet des transformations globales de l'image, comme changer une scène de jour en scène de nuit, tandis qu'une retouche plus localisée permet de sélectionner une zone précise et de demander à l'intelligence artificielle générative Firefly de la modifier seule. L'utilisateur peut à tout moment revenir à l'interface professionnelle classique.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "adobe-ajoute-a-photoshop-un-mode-d-edition-entierement-pilot-18abc2",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "adobe-ajoute-a-photoshop-un-mode-d-edition-entierement-pilot-18abc2"
+  },
+  {
+   "titre": "GTA VI : Rockstar dévoile 26 minutes de jeu et confirme sa sortie au 19 novembre",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "Pèse sur start",
+   "url": "https://www.pesesurstart.com/2026/08/27/gta-6--voyez-la-nouvelle-bande-annonce-26-minutes",
+   "sources": [
+    {
+     "media": "Pèse sur start",
+     "url": "https://www.pesesurstart.com/2026/08/27/gta-6--voyez-la-nouvelle-bande-annonce-26-minutes"
+    }
+   ],
+   "resume": "Rockstar Games a diffusé jeudi, d'abord en exclusivité sur Netflix puis sur YouTube, une nouvelle bande-annonce de 26 minutes de Grand Theft Auto VI, montrant des séquences de missions, de courses-poursuites et d'exploration dans la ville fictive de Leonida. Le studio a confirmé que le jeu, longtemps repoussé, sortira le 19 novembre sur PlayStation 5 et Xbox Series X.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "gta-vi-rockstar-devoile-26-minutes-de-jeu-et-confirme-sa-sor-2b346a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "gta-vi-rockstar-devoile-26-minutes-de-jeu-et-confirme-sa-sor-2b346a"
+  },
+  {
+   "titre": "Le producteur René Malo, artisan du Déclin de l'empire américain, meurt à 84 ans",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/culture/cinema/1003628/rene-malo-producteur-batisseur-cinema-quebecois-est-plus",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/cinema/1003628/rene-malo-producteur-batisseur-cinema-quebecois-est-plus"
+    }
+   ],
+   "resume": "René Malo, figure majeure du cinéma québécois et canadien pendant un demi-siècle, est mort dimanche à l'âge de 84 ans après un court séjour à l'hôpital, rapporte Le Devoir. C'est lui qui avait financé Le déclin de l'empire américain, de Denys Arcand, en se battant auprès de Téléfilm Canada après que personne d'autre n'ait voulu s'y engager — le film est devenu le premier long métrage canadien mis en nomination à l'Oscar du meilleur film en langue étrangère. Producteur d'artistes comme Robert Charlebois et Diane Dufresne avant de bâtir un empire de distribution, il avait aussi milité pour l'établissement de la Loi sur le cinéma du Québec et reçu, en 2013, le titre de chevalier de l'Ordre national du Québec.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Rene_Malo.jpg",
+   "legende": "Le producteur René Malo.",
+   "photo_auteur": "Jeangagnon",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "le-producteur-rene-malo-artisan-du-declin-de-l-empire-americ-748b21",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "le-producteur-rene-malo-artisan-du-declin-de-l-empire-americ-748b21"
+  },
+  {
+   "titre": "L'artiste japonaise Yayoi Kusama, reine des pois, meurt à 97 ans",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Japon",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/08/27/lartiste-avant-gardiste-japonaise-yayoi-kusama-est-morte-a-97-ans",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/27/lartiste-avant-gardiste-japonaise-yayoi-kusama-est-morte-a-97-ans"
+    }
+   ],
+   "resume": "L'artiste avant-gardiste japonaise Yayoi Kusama est morte le 14 août à l'âge de 97 ans dans un hôpital de Tokyo, a annoncé son entourage, provoquant une vague d'hommages, notamment de la part de Tim Cook, qui l'a saluée comme « une véritable visionnaire ». Reconnaissable à sa perruque rouge et à ses tenues à pois, elle avait transformé en œuvres d'art des hallucinations éprouvées dès l'enfance, avant de s'imposer dans les années 1960 sur la scène avant-gardiste new-yorkaise malgré les discriminations subies comme femme japonaise. De retour au Japon dans les années 1970, elle avait choisi de vivre et de travailler dans un hôpital psychiatrique de Tokyo jusqu'à la fin de sa vie, peignant sans relâche.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Yayoi_Kusama_circa_2004.jpg/1280px-Yayoi_Kusama_circa_2004.jpg",
+   "legende": "L'artiste japonaise Yayoi Kusama, en 2004.",
+   "photo_auteur": "George Quasha",
+   "photo_licence": "CC BY 3.0",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "l-artiste-japonaise-yayoi-kusama-reine-des-pois-meurt-a-97-a-10b504",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "l-artiste-japonaise-yayoi-kusama-reine-des-pois-meurt-a-97-a-10b504"
+  },
+  {
+   "titre": "L'acteur Tim Curry, vedette du Rocky Horror Picture Show, meurt à 80 ans",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "États-Unis",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/cinema/2026-08-26/vedette-de-the-rocky-horror-picture-show/tim-curry-s-eteint-a-l-age-de-80-ans.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-08-26/vedette-de-the-rocky-horror-picture-show/tim-curry-s-eteint-a-l-age-de-80-ans.php"
+    }
+   ],
+   "resume": "L'acteur britannique Tim Curry, qui avait incarné le Dr Frank-N-Furter dans The Rocky Horror Picture Show, est mort mercredi à son domicile de Los Angeles, a confirmé sa gérante à l'Associated Press. Victime d'un accident vasculaire cérébral en 2012 qui l'avait confiné à un fauteuil roulant, il avait aussi joué le cardinal de Richelieu dans Les Trois Mousquetaires et prêté sa voix à de nombreuses séries d'animation; il avait longtemps refusé de discuter du film culte de 1975, avant de s'y réconcilier et d'y participer lors d'événements publics.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Tim_Curry_cropped.jpg",
+   "legende": "L'acteur Tim Curry.",
+   "photo_auteur": "Alan Light",
+   "photo_licence": "CC BY 2.0",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "l-acteur-tim-curry-vedette-du-rocky-horror-picture-show-meur-323554",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "l-acteur-tim-curry-vedette-du-rocky-horror-picture-show-meur-323554"
+  },
+  {
+   "titre": "Denis Boulet, premier batteur d'Offenbach et frère de Gerry, meurt à 82 ans",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/arts/musique/2026-08-25/mort-de-denis-boulet-frere-de-gerry-et-premier-batteur-d-offenbach.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/musique/2026-08-25/mort-de-denis-boulet-frere-de-gerry-et-premier-batteur-d-offenbach.php"
+    }
+   ],
+   "resume": "Denis Boulet, cofondateur et premier batteur du groupe Offenbach ainsi que frère aîné du chanteur Gerry Boulet, est mort paisiblement le 21 août à l'âge de 82 ans, des suites d'un accident vasculaire cérébral survenu en 2024, a confirmé son fils Raphaël à La Presse. C'est lui qui aurait proposé le nom du groupe en 1969; il l'avait toutefois quitté en 1972, deux semaines après la sortie du premier album, en désaccord avec le virage plus anglophone pris par la formation. Un accident de travail dans une vitrerie lui avait coûté plusieurs doigts en 1983, mettant fin à sa carrière de batteur.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "denis-boulet-premier-batteur-d-offenbach-et-frere-de-gerry-m-cdedc0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "denis-boulet-premier-batteur-d-offenbach-et-frere-de-gerry-m-cdedc0"
+  },
+  {
+   "titre": "Le film Nina Roza représentera le Canada dans la course aux Oscars",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2277654/nina-roza-canada-oscar-meilleur-film-international",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2277654/nina-roza-canada-oscar-meilleur-film-international"
+    }
+   ],
+   "resume": "Nina Roza, deuxième long métrage de fiction de la réalisatrice Geneviève Dulude-De Celles, représentera le Canada dans la course à l'Oscar du meilleur film international, a annoncé Téléfilm Canada, qui a choisi le film parmi 17 soumissions canadiennes. Lauréat de l'Ours d'argent du meilleur scénario à la Berlinale en février, le film raconte l'histoire d'une jeune peintre prodige bulgare devenue virale sur les réseaux sociaux, et le retour aux sources d'un collectionneur montréalais dépêché pour évaluer son travail.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Genevi%C3%A8ve_Dulude-de_Celles_with_the_Silver_Bear_for_Best_Screenplay.jpg/1280px-Genevi%C3%A8ve_Dulude-de_Celles_with_the_Silver_Bear_for_Best_Screenplay.jpg",
+   "legende": "La réalisatrice Geneviève Dulude-De Celles, avec l'Ours d'argent remporté à la Berlinale pour Nina Roza.",
+   "photo_auteur": "Elena Ternovaja",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-08-29T07:51-04:00",
+   "permalien": "le-film-nina-roza-representera-le-canada-dans-la-course-aux-ea63f0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-29.json",
+   "_slug": "le-film-nina-roza-representera-le-canada-dans-la-course-aux-ea63f0"
   }
  ]
 }
