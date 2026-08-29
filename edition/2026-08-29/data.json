@@ -1,9 +1,803 @@
 {
  "date": "2026-08-29",
  "volets": [
+  "presse-regionale",
+  "quebec-canada",
   "report"
  ],
  "articles": [
+  {
+   "titre": "Crimes sur la Côte-Nord : des « soldats » recrutés dans les communautés autochtones",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Côte-Nord (Sept-Îles)",
+   "medias": "Le Nord-Côtier, Le Manic, Le Haute Côte-Nord",
+   "url": "https://lenord-cotier.com/2026/08/28/crimes-sur-la-cote-nord-des-soldats-recrutes-dans-les-communautes-autochtones/",
+   "resume": "La guerre que se livrent des groupes criminels rivaux — Blood Family Mafia, North Savage Gang et Hells Angels — pour le contrôle du trafic de stupéfiants gagne les communautés autochtones de la Côte-Nord, où des adolescents sont recrutés comme « soldats ». À Uashat mak Mani-utenam, près de Sept-Îles, le service de police de la communauté a recensé 650 crimes contre la personne en 2025, en hausse de 15,9 % en deux ans.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/08/28/crimes-sur-la-cote-nord-des-soldats-recrutes-dans-les-communautes-autochtones/"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/08/28/crimes-sur-la-cote-nord-des-soldats-recrutes-dans-les-communautes-autochtones/"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/08/28/crimes-sur-la-cote-nord-des-soldats-recrutes-dans-les-communautes-autochtones/"
+    }
+   ],
+   "permalien": "crimes-sur-la-cote-nord-des-soldats-recrutes-dans-les-commun-9e9b29",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "crimes-sur-la-cote-nord-des-soldats-recrutes-dans-les-commun-9e9b29"
+  },
+  {
+   "titre": "Crime organisé : saisie de cocaïne et d'armes à Sept-Îles",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Côte-Nord (Sept-Îles)",
+   "medias": "Le Nord-Côtier, Le Manic, Le Haute Côte-Nord",
+   "url": "https://lenord-cotier.com/2026/08/28/crime-organise-saisie-de-cocaine-et-darmes-a-sept-iles/",
+   "resume": "Trois perquisitions menées le 27 août à Sept-Îles, dans une enquête sur le trafic de stupéfiants lié au crime organisé, ont mené à la saisie de 60 grammes de cocaïne, de six armes prohibées et de plus de 13 000 $. Quatre personnes, dont une femme, ont été arrêtées puis libérées en attendant la suite des procédures.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/08/28/crime-organise-saisie-de-cocaine-et-darmes-a-sept-iles/"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/08/28/crime-organise-saisie-de-cocaine-et-darmes-a-sept-iles/"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/08/28/crime-organise-saisie-de-cocaine-et-darmes-a-sept-iles/"
+    }
+   ],
+   "permalien": "crime-organise-saisie-de-cocaine-et-d-armes-a-sept-iles-18de03",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "crime-organise-saisie-de-cocaine-et-d-armes-a-sept-iles-18de03"
+  },
+  {
+   "titre": "Et si la Martinique s'invitait dans votre assiette ?",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Capitale-Nationale (Québec)",
+   "medias": "Monlimoilou, Monsaintsauveur, Monsaintroch",
+   "url": "https://monlimoilou.com/2026/et-si-la-martinique-sinvitait-dans-votre-assiette/",
+   "resume": "Du 8 au 19 septembre, plusieurs restaurants de la grande région de Québec participent à la 19e édition du Festival Martinique Gourmande, qui met à l'honneur la cuisine martiniquaise. L'événement propose des menus thématiques dans les quartiers de Limoilou, Saint-Sauveur et Saint-Roch.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "sources": [
+    {
+     "media": "Monlimoilou",
+     "url": "https://monlimoilou.com/2026/et-si-la-martinique-sinvitait-dans-votre-assiette/"
+    },
+    {
+     "media": "Monsaintsauveur",
+     "url": "https://monsaintsauveur.com/2026/et-si-la-martinique-sinvitait-dans-votre-assiette/"
+    },
+    {
+     "media": "Monsaintroch",
+     "url": "https://monsaintroch.com/2026/et-si-la-martinique-sinvitait-dans-votre-assiette/"
+    }
+   ],
+   "permalien": "et-si-la-martinique-s-invitait-dans-votre-assiette-3217f7",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "et-si-la-martinique-s-invitait-dans-votre-assiette-3217f7"
+  },
+  {
+   "titre": "Séquestration, enlèvement et agression armée : trois hommes arrêtés à Val-Bélair",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Capitale-Nationale (Québec)",
+   "medias": "Radio-Canada, Zone 911",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278431/sequestration-arrestation-val-belair",
+   "resume": "Trois hommes de 18, 23 et 51 ans ont été arrêtés à Québec après avoir séquestré et agressé un homme de 35 ans dans le secteur de Val-Bélair, jeudi soir ; la victime s'est échappée et a trouvé refuge dans un commerce avant d'alerter les secours. Le Service de police de la Ville de Québec relie l'événement à la guerre que se livrent des groupes criminels pour le contrôle du trafic de stupéfiants.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278431/sequestration-arrestation-val-belair"
+    },
+    {
+     "media": "Zone 911",
+     "url": "https://zone911.com/scenes-policieres/sequestration-le-spvq-procede-a-larrestation-de-trois-individus-dans-le-secteur-de-val-belair"
+    }
+   ],
+   "permalien": "sequestration-enlevement-et-agression-armee-trois-hommes-arr-08fd39",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "sequestration-enlevement-et-agression-armee-trois-hommes-arr-08fd39"
+  },
+  {
+   "titre": "L'intersection Portland et Jacques-Cartier Nord rouvrira bientôt",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Estrie (Sherbrooke)",
+   "medias": "La Tribune, Radio-Canada",
+   "url": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2026/08/30/lintersection-portland-et-jacques-cartier-nord-rouvrira-bientot-KEMA5KYAZNDA3CCTIWK7ZCUDK4/",
+   "resume": "Les travaux de reconstruction des infrastructures souterraines et de la chaussée à l'intersection Portland et Jacques-Cartier Nord, à Sherbrooke, tirent à leur fin, selon la Ville. L'intersection devrait rouvrir à la circulation dans les prochains jours.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "sources": [
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2026/08/30/lintersection-portland-et-jacques-cartier-nord-rouvrira-bientot-KEMA5KYAZNDA3CCTIWK7ZCUDK4/"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278531/portland-jacques-cartier-nord-sherbrooke-reouverture"
+    }
+   ],
+   "permalien": "l-intersection-portland-et-jacques-cartier-nord-rouvrira-bie-5dcb39",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "l-intersection-portland-et-jacques-cartier-nord-rouvrira-bie-5dcb39"
+  },
+  {
+   "titre": "Les Augustines quittent leurs monastères pour une résidence à Beauport",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Capitale-Nationale (Québec)",
+   "medias": "Monsaintroch, Monsaintsauveur",
+   "url": "https://monsaintroch.com/2026/les-augustines-quittent-leurs-monasteres-pour-une-residence-a-beauport/",
+   "resume": "Les Augustines quitteront en septembre le monastère de l'Hôpital général de Québec, qu'elles habitent sans interruption depuis 333 ans, pour emménager à la résidence Marcelle-Mallet des Sœurs de la Charité, à Beauport. Les deux religieuses du monastère de l'Hôtel-Dieu les y rejoindront d'ici la fin de l'année.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "sources": [
+    {
+     "media": "Monsaintroch",
+     "url": "https://monsaintroch.com/2026/les-augustines-quittent-leurs-monasteres-pour-une-residence-a-beauport/"
+    },
+    {
+     "media": "Monsaintsauveur",
+     "url": "https://monsaintsauveur.com/2026/les-augustines-quittent-leurs-monasteres-pour-une-residence-a-beauport/"
+    }
+   ],
+   "permalien": "les-augustines-quittent-leurs-monasteres-pour-une-residence-d17eb0",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "les-augustines-quittent-leurs-monasteres-pour-une-residence-d17eb0"
+  },
+  {
+   "titre": "Un nouveau pavillon de 50 M$ inauguré au Cégep Drummond",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Centre-du-Québec (Drummondville)",
+   "medias": "L'Express, Radio-Canada",
+   "url": "https://www.journalexpress.ca/actualite/le-cegep-drummond-inaugure-son-nouveau-pavillon-photos/",
+   "resume": "Une centaine de personnes de la communauté de Drummondville ont assisté à l'inauguration du nouveau pavillon de 50 millions de dollars du Cégep Drummond. Malgré des délais dans la livraison, le chantier s'est conclu sans dépassement de coûts.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "sources": [
+    {
+     "media": "L'Express",
+     "url": "https://www.journalexpress.ca/actualite/le-cegep-drummond-inaugure-son-nouveau-pavillon-photos/"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278415/cegep-drummondville-nouveau-pavillon-inauguration"
+    }
+   ],
+   "permalien": "un-nouveau-pavillon-de-50-m-inaugure-au-cegep-drummond-50d483",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "un-nouveau-pavillon-de-50-m-inaugure-au-cegep-drummond-50d483"
+  },
+  {
+   "titre": "Un octogénaire meurt dans une collision à Sainte-Angèle-de-Mérici",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Bas-Saint-Laurent (Sainte-Angèle-de-Mérici)",
+   "medias": "Radio-Canada, CBC",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278434/mort-route-132-saint-angele-merici",
+   "resume": "Un octogénaire de Mont-Joli est mort jeudi dans une collision entre son véhicule et un camion semi-remorque sur la route 132, à Sainte-Angèle-de-Mérici. Selon la Sûreté du Québec, la victime se serait engagée sur la 132 au moment de l'impact ; le conducteur du camion a été transporté à l'hôpital par mesure préventive.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278434/mort-route-132-saint-angele-merici"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/heavy-vehicle-death-bas-saint-laurent-9.7324036?cmp=rss"
+    }
+   ],
+   "permalien": "un-octogenaire-meurt-dans-une-collision-a-sainte-angele-de-m-4f0afd",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "un-octogenaire-meurt-dans-une-collision-a-sainte-angele-de-m-4f0afd"
+  },
+  {
+   "titre": "Plus d'étudiants à diplômer au CSS de la Vallée-des-Tisserands",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Montérégie (Salaberry-de-Valleyfield)",
+   "medias": "Le Soleil de Châteauguay, Le Saint-François",
+   "url": "https://cybersoleil.com/plus-detudiants-a-diplomer-au-css-de-la-vallee-des-tisserands/",
+   "resume": "Près de 13 000 élèves amorcent l'année scolaire au Centre de services scolaire de la Vallée-des-Tisserands, qui enregistre une hausse de clientèle pour une neuvième année consécutive.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil de Châteauguay",
+     "url": "https://cybersoleil.com/plus-detudiants-a-diplomer-au-css-de-la-vallee-des-tisserands/"
+    },
+    {
+     "media": "Le Saint-François",
+     "url": "https://journalsaint-francois.ca/plus-detudiants-a-diplomer-au-css-de-la-vallee-des-tisserands/"
+    }
+   ],
+   "permalien": "plus-d-etudiants-a-diplomer-au-css-de-la-vallee-des-tisseran-4174f8",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "plus-d-etudiants-a-diplomer-au-css-de-la-vallee-des-tisseran-4174f8"
+  },
+  {
+   "titre": "Homicide involontaire à Lac-Simon : l'adolescent accusé plaide coupable",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Abitibi-Témiscamingue (Lac-Simon)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278615/justice-dpcp-abitibi-lac-simon-homicide",
+   "resume": "Un adolescent de 17 ans de Lac-Simon a plaidé coupable vendredi à un homicide involontaire coupable et à un manquement à ses conditions de probation, reconnaissant avoir poignardé mortellement un autre adolescent de la communauté dans la nuit du 11 août 2025. Selon le ministère public, l'accusé avait exprimé le désir de se venger d'un conflit survenu quelques semaines plus tôt avant de frapper sa victime au torse. La Chambre de la jeunesse de la Cour du Québec, à Val-d'Or, ordonnera un rapport présentenciel, un rapport de type Gladue et une évaluation neuropsychologique avant de déterminer la peine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "homicide-involontaire-a-lac-simon-l-adolescent-accuse-plaide-acf2b7",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "homicide-involontaire-a-lac-simon-l-adolescent-accuse-plaide-acf2b7"
+  },
+  {
+   "titre": "Les conseillers tournent le dos au maire de Paspébiac",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Gaspésie–Îles-de-la-Madeleine (Paspébiac)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278428/paspebiac-crise-municipale-mediation-conseil-jeremy-laplante",
+   "resume": "Les six conseillers municipaux de Paspébiac ont rejeté à l'unanimité, jeudi soir, l'énoncé de politique générale du maire Jérémy Laplante, tout en votant pour demander une médiation au ministère des Affaires municipales. Le conseiller Christian Grenier précise que le désaccord porte sur la gouvernance du maire plutôt que sur ses idées. Âgé de 24 ans et toujours en poste, M. Laplante doit faire connaître ses intentions dans les prochaines semaines ; la crise secoue le conseil depuis la suspension contestée d'un directeur municipal fin juillet.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "les-conseillers-tournent-le-dos-au-maire-de-paspebiac-88638a",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "les-conseillers-tournent-le-dos-au-maire-de-paspebiac-88638a"
+  },
+  {
+   "titre": "Vers une protection du territoire plus adaptée en Gaspésie ?",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Gaspésie–Îles-de-la-Madeleine",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278576/snap-quebec-aires-protegees-creg-gaspesie-iles",
+   "resume": "La Société pour la nature et les parcs (SNAP Québec) propose d'ajuster région par région la cible provinciale de 30 % de territoire protégé d'ici 2030, plutôt que de l'appliquer uniformément. Pour la Gaspésie–Îles-de-la-Madeleine, où le taux de protection atteint 9,7 %, l'organisme propose une cible de 27,5 %, appuyée par des projets d'aires protégées déjà à l'étude. Le Conseil régional de l'environnement de la Gaspésie n'a pas voulu confirmer ces chiffres, précisant travailler à dégager des projets consensuels d'ici la fin de l'année.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "vers-une-protection-du-territoire-plus-adaptee-en-gaspesie-8c74c8",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "vers-une-protection-du-territoire-plus-adaptee-en-gaspesie-8c74c8"
+  },
+  {
+   "titre": "Québec débloque 155 millions $ pour réduire le coût de la vie au Nunavik",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Nunavik",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278566/nord-entente-cout-nunavik-aide",
+   "resume": "Le gouvernement du Québec consent une aide de 155 millions de dollars sur six ans pour réduire le coût de la vie dans les 14 villages inuit du Nunavik, en renouvelant deux ententes avec l'Administration régionale Kativik et la Société Makivvik. Le programme subventionne notamment une partie des déplacements aériens, le prix de l'essence et certaines denrées alimentaires, dont le panier d'épicerie coûtait environ 33 % plus cher qu'ailleurs au Québec selon une étude de l'Université Laval de 2024. L'aide permet aussi de prolonger de deux ans l'entente Sanarrutik, qui finance le développement économique de la région depuis 2002.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "quebec-debloque-155-millions-pour-reduire-le-cout-de-la-vie-6ac6ff",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "quebec-debloque-155-millions-pour-reduire-le-cout-de-la-vie-6ac6ff"
+  },
+  {
+   "titre": "Statu quo dans le dossier de la nouvelle école à Saint-Antonin",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Bas-Saint-Laurent (Saint-Antonin)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/actualite/statu-quo-dans-le-dossier-de-la-nouvelle-ecole-a-saint-antonin/",
+   "resume": "Pour une troisième année de suite, le Centre de services scolaire de Kamouraska–Rivière-du-Loup choisit de ne pas déposer de demande de financement pour une nouvelle école primaire à Saint-Antonin. La directrice générale Caroline Dufour soutient que les installations actuelles suffisent, la clientèle oscillant entre 387 et 403 élèves depuis 2022-2023, malgré une école Lanouette utilisée presque à pleine capacité.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "statu-quo-dans-le-dossier-de-la-nouvelle-ecole-a-saint-anton-c5b532",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "statu-quo-dans-le-dossier-de-la-nouvelle-ecole-a-saint-anton-c5b532"
+  },
+  {
+   "titre": "« Ils ne sont pas nés vieux » : Les Petits Frères avec les aînés depuis 20 ans",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Bas-Saint-Laurent (Rimouski)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278659/petits-freres-rimouski-isolement-aines",
+   "resume": "L'organisme Les Petits Frères de Rimouski, qui lutte contre l'isolement des personnes de 75 ans et plus, a célébré vendredi ses 20 ans devant une soixantaine de personnes réunies au centre communautaire de Sacré-Cœur. Une cinquantaine de bénévoles accompagnent aujourd'hui autant d'aînés, contre six bénévoles à ses débuts en 2006, mais le coordonnateur Carl Desrosiers note que la demande dépasse maintenant l'offre de bénévoles. L'organisme, longtemps connu sous le nom de Petits Frères des pauvres, prévoit changer de nom pour être plus inclusif.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "ils-ne-sont-pas-nes-vieux-les-petits-freres-avec-les-aines-d-c388d8",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "ils-ne-sont-pas-nes-vieux-les-petits-freres-avec-les-aines-d-c388d8"
+  },
+  {
+   "titre": "Des terres en friche remises en culture dans La Matapédia",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Bas-Saint-Laurent (La Matapédia)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2277686/agriculture-terres-friche-mrc-matapedia-releve",
+   "resume": "Le programme de remise en culture des terres agricoles dévalorisées a soutenu 18 producteurs de La Matapédia depuis sa création en 2023, permettant de remettre en culture 127,6 hectares grâce à une aide pouvant atteindre 20 000 $ par producteur. Le programme prendra fin en 2027 et ne sera pas reconduit sous sa forme actuelle ; les producteurs intéressés doivent contacter la MRC avant le 15 septembre. Un producteur bovin de Saint-Tharcisius, Germain Michaud, y voit un outil précieux pour la relève, mais souhaiterait une aide mieux adaptée aux besoins de chaque projet.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "des-terres-en-friche-remises-en-culture-dans-la-matapedia-bdb178",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "des-terres-en-friche-remises-en-culture-dans-la-matapedia-bdb178"
+  },
+  {
+   "titre": "La galerie L'Art de vivre dit non à New York à cause des droits de douane",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Saguenay–Lac-Saint-Jean (Chicoutimi)",
+   "medias": "Le Quotidien",
+   "url": "https://www.lequotidien.com/arts/2026/08/29/la-galerie-lart-de-vivre-dit-non-a-new-york-a-cause-des-droits-de-douane-PIH25ZHFPRGBTM3DLAF2DKPYI4/",
+   "resume": "La galerie L'Art de vivre, à Chicoutimi, a dû renoncer à envoyer plus d'une centaine de tableaux vers New York après l'échec d'un compromis commercial entre le Canada et les États-Unis : les œuvres d'art figurent désormais parmi les produits visés par les tarifs de 50 % de l'administration Trump. « Tu dois payer les frais de la totalité de ton importation, même si ce n'est pas vendu », explique la propriétaire, Frédérique Girard.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "la-galerie-l-art-de-vivre-dit-non-a-new-york-a-cause-des-dro-c4cadd",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "la-galerie-l-art-de-vivre-dit-non-a-new-york-a-cause-des-dro-c4cadd"
+  },
+  {
+   "titre": "Voici les candidats et les enjeux dans Roberval",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Saguenay–Lac-Saint-Jean (Roberval)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/en-bref/90-17075/elections-provinciales-2026-circonscription-roberval",
+   "resume": "Le Parti libéral du Québec présente Serge Bergeron, maire de Roberval de 2021 à 2025 et ancien candidat conservateur fédéral, dans la circonscription en vue de l'élection partielle. Sa carrière en éducation l'a notamment mené à la direction générale de la Commission scolaire du Pays-des-Bleuets.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "voici-les-candidats-et-les-enjeux-dans-roberval-ec6c02",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "voici-les-candidats-et-les-enjeux-dans-roberval-ec6c02"
+  },
+  {
+   "titre": "Le gouvernement Carney mise sur un plan à long terme pour Bagotville",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Saguenay–Lac-Saint-Jean (Bagotville)",
+   "medias": "Le Quotidien",
+   "url": "https://www.lequotidien.com/actualites/actualites-locales/2026/08/28/le-gouvernement-carney-a-un-plan-a-tres-long-terme-pour-bagotville-64RJRUVLX5FMREJ7VHQR2R5ZGI/",
+   "resume": "En visite à Bagotville avant l'élection partielle de lundi dans Roberval, le ministre fédéral des Finances François-Philippe Champagne est venu appuyer le candidat libéral Daniel Gobeil en misant sur les investissements militaires à venir sur la base. M. Gobeil évoque une possibilité de 4 à 5 milliards de dollars d'investissements sur huit à dix ans, alors que des annonces ont déjà été faites pour l'arrivée des CF-35, dont 110 millions pour de nouveaux logements militaires.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/1/17/105th_Airlift_Wing_Supports_Bagotville_International_Air_Show_%288592990%29.jpg",
+   "legende": "Une démonstration aérienne de CF-18 à la base de Bagotville.",
+   "horodate": "2026-08-29T07:23-04:00",
+   "photo_auteur": "U.S. Air National Guard, 1st Lt. Briana Ross",
+   "photo_licence": "Domaine public",
+   "permalien": "le-gouvernement-carney-mise-sur-un-plan-a-long-terme-pour-ba-745b42",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "le-gouvernement-carney-mise-sur-un-plan-a-long-terme-pour-ba-745b42"
+  },
+  {
+   "titre": "Voici ce qui ressort des consultations d'OC Transpo",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Outaouais (Ottawa-Gatineau)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278042/commentaire-usagers-ottawa-transport-oc-transpo",
+   "resume": "Le directeur général d'OC Transpo, Rick Leary, affirme avoir tenu compte des commentaires recueillis lors de cinq séances publiques tenues en août à Ottawa, où les usagers ont surtout réclamé davantage d'autobus express et une meilleure communication du personnel de première ligne. Sept nouvelles lignes express doivent voir le jour d'ici la fin du mois. Une usagère, Sarita Chaudhary, raconte que son trajet, qui durait 50 minutes, en prend désormais jusqu'à deux heures, au point où elle a délaissé l'autobus pour la voiture.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "voici-ce-qui-ressort-des-consultations-d-oc-transpo-2961a4",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "voici-ce-qui-ressort-des-consultations-d-oc-transpo-2961a4"
+  },
+  {
+   "titre": "Parc de la Gatineau : le stationnement du centre des visiteurs devient payant",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Outaouais (Chelsea)",
+   "medias": "Le Droit",
+   "url": "https://www.ledroit.com/actualites/actualites-locales/2026/08/29/parc-de-la-gatineau-le-stationnement-du-centre-des-visiteurs-devient-payant/",
+   "resume": "La Commission de la capitale nationale mettra fin, dès le 1er septembre, à la gratuité du stationnement du centre des visiteurs du parc de la Gatineau, sur le chemin Scott à Chelsea. Les usagers devront désormais payer pour stationner entre 7 h et 22 h.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "parc-de-la-gatineau-le-stationnement-du-centre-des-visiteurs-20a10c",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "parc-de-la-gatineau-le-stationnement-du-centre-des-visiteurs-20a10c"
+  },
+  {
+   "titre": "Gatineau doit instaurer une « culture de rigueur »",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Outaouais (Gatineau)",
+   "medias": "Le Droit",
+   "url": "https://www.ledroit.com/actualites/actualites-locales/gatineau/2026/08/29/gatineau-doit-instaurer-une-culture-de-rigueur-YK2J2VZZ5FEULLYAJQX6WYNBOQ/",
+   "resume": "La vérificatrice générale de Gatineau, Johanne Beausoleil, qualifie de non efficace, non efficiente et non économique la gestion des grands projets d'infrastructures de la Ville dans un rapport rendu public cette semaine. Elle relève notamment que le conseil municipal est mal informé des risques associés à ces projets et réclame un engagement ferme de l'administration à instaurer « une culture de rigueur et de reddition de compte ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "gatineau-doit-instaurer-une-culture-de-rigueur-cca1d0",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "gatineau-doit-instaurer-une-culture-de-rigueur-cca1d0"
+  },
+  {
+   "titre": "À Parc-Extension, les rats font partie du quotidien de certains résidents",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Montréal (Parc-Extension)",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/rat-population-increase-parc-extention-9.7324665?cmp=rss",
+   "resume": "À Parc-Extension, plusieurs résidents rapportent voir des rats tous les jours, une hausse qu'ils attribuent aux déchets, aux matières organiques mal gérées et aux terrains négligés ; un exterminateur montréalais confirme une progression des appels pour rats et souris chaque année depuis la pandémie. L'arrondissement Villeray–Saint-Michel–Parc-Extension affirme pour sa part ne pas pouvoir confirmer une hausse de la population de rats, les demandes d'extermination ayant plutôt diminué, de 224 en 2024 à 74 depuis le début de 2026. « J'ai des liens si profonds avec ce quartier, mais je me sens laissé de côté par la Ville », confie le résident Emmanuel Perez, qui compte les rats sur le chemin de la garderie avec sa fille.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "a-parc-extension-les-rats-font-partie-du-quotidien-de-certai-89273e",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "a-parc-extension-les-rats-font-partie-du-quotidien-de-certai-89273e"
+  },
+  {
+   "titre": "Le Collège Montmorency accueille plus de 10 000 étudiants pour la première fois",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Laval",
+   "medias": "Courrier Laval",
+   "url": "https://courrierlaval.com/college-montmorency-etudiant-record-accueil/",
+   "resume": "Le Collège Montmorency, à Laval, franchit un jalon historique à la rentrée 2026 en accueillant plus de 10 000 étudiants pour la première fois de son histoire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "le-college-montmorency-accueille-plus-de-10-000-etudiants-po-a0b782",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "le-college-montmorency-accueille-plus-de-10-000-etudiants-po-a0b782"
+  },
+  {
+   "titre": "Saint-Lambert : un adolescent de 13 ans grièvement blessé en trottinette",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Montérégie (Saint-Lambert)",
+   "medias": "Le Courrier du Sud",
+   "url": "https://lecourrierdusud.ca/saint-lambert-adolescent-blesse-trottinette/",
+   "resume": "Un adolescent de 13 ans a été grièvement blessé vendredi après-midi à Saint-Lambert lorsque sa trottinette électrique est entrée en collision avec un VUS, à l'intersection des boulevards Simard et Plamondon. Le jeune a été transporté à l'hôpital dans un état grave après une lourde chute ; le conducteur du véhicule s'est immobilisé sur place. Les policiers doivent maintenant établir les circonstances de l'accident.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "saint-lambert-un-adolescent-de-13-ans-grievement-blesse-en-t-46a0e1",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "saint-lambert-un-adolescent-de-13-ans-grievement-blesse-en-t-46a0e1"
+  },
+  {
+   "titre": "Une célébration de la diversité latino-américaine à Boucherville",
+   "cahier": "montreal",
+   "rubrique": "culture",
+   "territoire": "Montérégie (Boucherville)",
+   "medias": "La Relève de Boucherville",
+   "url": "https://lareleve.qc.ca/2026/08/29/une-celebration-de-la-diversite-latino-americaine-a-boucherville/",
+   "resume": "L'Association hispano-québécoise de la Montérégie convie gratuitement la population à une journée de célébration de la diversité latino-américaine, le 19 septembre à Boucherville, avec danses folkloriques, musique, expositions et gastronomie de plusieurs pays d'Amérique latine. La programmation comprend aussi la présentation d'un documentaire et des activités pour les enfants.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "une-celebration-de-la-diversite-latino-americaine-a-boucherv-312350",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "une-celebration-de-la-diversite-latino-americaine-a-boucherv-312350"
+  },
+  {
+   "titre": "La plus haute distinction remise à trois Nicolétains inspirants",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Centre-du-Québec (Nicolet)",
+   "medias": "Le Nouvelliste",
+   "url": "https://www.lenouvelliste.ca/actualites/actualites-locales/2026/08/29/la-plus-haute-distinction-remise-a-trois-nicoletains-inspirants-7QAPTIGGMVDOFLKLAZDWPOG6HU/",
+   "resume": "Nicolet a remis sa plus haute distinction à trois citoyens inspirants, dont André Tourigny — qui a dirigé les Huskies de Rouyn-Noranda et les 67's d'Ottawa avant de prendre la tête du Mammouth de l'Utah dans la Ligue nationale de hockey — et Michèle Paradis, reconnue pour son apport à la muséologie et à qui l'on doit le Musée des cultures du monde de Nicolet.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "la-plus-haute-distinction-remise-a-trois-nicoletains-inspira-165b32",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "la-plus-haute-distinction-remise-a-trois-nicoletains-inspira-165b32"
+  },
+  {
+   "titre": "Lock-out chez Siemens : le syndicat demande l'intervention d'Hydro-Québec",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Mauricie (Trois-Rivières)",
+   "medias": "Le Nouvelliste",
+   "url": "https://www.lenouvelliste.ca/affaires/affaires-locales/2026/08/28/lock-out-chez-siemens-le-syndicat-demande-lintervention-dhydro-quebec-KEIWZHW27FFXDHQTLLYWVQK7YY/",
+   "resume": "Le syndicat des Métallos demande à Hydro-Québec de faire pression sur Siemens Énergie, dont la société d'État est le principal client, pour dénouer le conflit de travail qui maintient en lock-out une centaine de travailleurs de l'usine de Trois-Rivières depuis la mi-avril. Une centaine de personnes ont participé à un méchoui de soutien aux travailleurs vendredi, sur les lignes de piquetage de la rue Bellefeuille.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "lock-out-chez-siemens-le-syndicat-demande-l-intervention-d-h-fa182c",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "lock-out-chez-siemens-le-syndicat-demande-l-intervention-d-h-fa182c"
+  },
+  {
+   "titre": "Les droits de douane freinent la croissance de l'industriel Durabac",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Estrie (Granby)",
+   "medias": "La Voix de l'Est",
+   "url": "https://www.lavoixdelest.ca/affaires/2026/08/29/les-droits-de-douane-freine-la-croissance-de-lindustriel-durabac/",
+   "resume": "Les droits de douane américains sur l'acier freinent la croissance de l'industriel granbyen Durabac. Son président-fondateur, Patrick Charbonneau, constate que l'entreprise n'est plus concurrentielle sur le marché américain pour ses produits contenant de l'acier destinés aux États-Unis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "les-droits-de-douane-freinent-la-croissance-de-l-industriel-5eac69",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "les-droits-de-douane-freinent-la-croissance-de-l-industriel-5eac69"
+  },
+  {
+   "titre": "Val-des-Cerfs demande plus de stabilité en éducation",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Estrie (Granby)",
+   "medias": "La Voix de l'Est",
+   "url": "https://www.lavoixdelest.ca/actualites/education/2026/08/29/val-des-cerfs-demande-plus-de-stabilite-en-education-4IHIQHQE6BCGVL3KINTDGBQIGU/",
+   "resume": "Le Centre de services scolaire du Val-des-Cerfs, à Granby, réclame plus de stabilité dans le financement de l'éducation, rappelant qu'à pareille date l'an dernier, les directions générales des centres de services scolaires devaient composer avec une nouvelle salve de compressions annoncée par Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "val-des-cerfs-demande-plus-de-stabilite-en-education-cb3a14",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "val-des-cerfs-demande-plus-de-stabilite-en-education-cb3a14"
+  },
+  {
+   "titre": "La Capitale-Nationale pourrait atteindre le million d'habitants plus tôt",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Capitale-Nationale",
+   "medias": "Le Soleil",
+   "url": "https://www.lesoleil.com/societe/2026/08/29/la-capitale-nationale-pourrait-atteindre-le-million-dhabitants-plus-tot/",
+   "resume": "La région de la Capitale-Nationale pourrait franchir le cap du million d'habitants plus tôt que prévu, selon Richard Marcoux, professeur et directeur de l'Observatoire démographique et statistique de l'espace francophone à l'Université Laval. Dans son scénario de référence pour 2026, l'Institut de la statistique du Québec prévoit une croissance de 13,9 % de la population de la région d'ici 2051.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "la-capitale-nationale-pourrait-atteindre-le-million-d-habita-466f05",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "la-capitale-nationale-pourrait-atteindre-le-million-d-habita-466f05"
+  },
+  {
+   "titre": "Vélo-Coudres à vendre après 37 ans d'activité",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Charlevoix (L'Isle-aux-Coudres)",
+   "medias": "Le Charlevoisien",
+   "url": "https://www.lecharlevoisien.com/2026/08/28/velo-coudres-a-vendre-apres-37-ans-dactivite/",
+   "resume": "Après 37 ans à accueillir les visiteurs de L'Isle-aux-Coudres, le commerce Vélo-Coudres cherche un nouveau propriétaire : son dirigeant Gilles Moisan, 65 ans, souhaite prendre sa retraite, faute de relève en mesure de reprendre l'entreprise familiale fondée par son père. Sa fille avait envisagé la reprise, mais l'ampleur des activités rendait la tâche difficile seule. Le commerce, pour lequel quelques personnes ont déjà manifesté un intérêt sans démarche concrète, est offert au prix de 900 000 $.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T07:23-04:00",
+   "permalien": "velo-coudres-a-vendre-apres-37-ans-d-activite-fbedf9",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-08-29.json",
+   "_slug": "velo-coudres-a-vendre-apres-37-ans-d-activite-fbedf9"
+  },
+  {
+   "titre": "Ottawa prolonge de 30 jours ses mesures frontalières contre l'Ebola",
+   "cahier": "canada",
+   "rubrique": "sante",
+   "territoire": "Canada",
+   "medias": "Gouvernement du Canada",
+   "url": "https://www.canada.ca/fr/sante-publique/nouvelles/2026/08/le-gouvernement-du-canada-prolonge-les-mesures-frontalieres-temporaires-en-reponse-a-leclosion-de-la-maladie-ebola.html",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/sante-publique/nouvelles/2026/08/le-gouvernement-du-canada-prolonge-les-mesures-frontalieres-temporaires-en-reponse-a-leclosion-de-la-maladie-ebola.html"
+    }
+   ],
+   "resume": "L'Agence de la santé publique du Canada prolonge de 30 jours, jusqu'au 28 septembre, ses mesures frontalières temporaires adoptées en réponse à l'éclosion de maladie à virus Ebola en République démocratique du Congo. Les voyageurs symptomatiques ayant séjourné dans la région au cours des 21 derniers jours seront isolés en établissement médical dès leur arrivée, et les ressortissants étrangers ayant séjourné en RDC restent interdits d'entrée au pays; le traitement des dossiers d'immigration est également suspendu pour les résidents de la RDC, de l'Ouganda et du Soudan du Sud.\n\nAucun cas n'a été signalé au Canada, où le gouvernement dit maintenir une approche préventive. Depuis la déclaration de l'éclosion par l'Organisation mondiale de la santé en mai, Ottawa a versé 8 millions de dollars en aide internationale, et un essai clinique canadien d'un vaccin contre l'Ebola, mené par Moderna, a débuté le 4 août.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ebola_Virus_TEM_PHIL_1832_lores.jpg/1280px-Ebola_Virus_TEM_PHIL_1832_lores.jpg",
+   "legende": "Le virus Ebola au microscope électronique à transmission.",
+   "photo_auteur": "CDC / Cynthia Goldsmith",
+   "photo_licence": "Domaine public",
+   "horodate": "2026-08-29T05:47-04:00",
+   "permalien": "ottawa-prolonge-de-30-jours-ses-mesures-frontalieres-contre-fcbbe3",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-29.json",
+   "_slug": "ottawa-prolonge-de-30-jours-ses-mesures-frontalieres-contre-fcbbe3"
+  },
+  {
+   "titre": "Québec élargit son aide d'urgence aux PME touchées par les tarifs américains",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Gouvernement du Québec",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/soutien-aux-entreprises-touchees-par-les-tarifs-douaniers-americains-quebec-elargit-laide-durgence-aux-plus-petites-pme-72341",
+   "sources": [
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/soutien-aux-entreprises-touchees-par-les-tarifs-douaniers-americains-quebec-elargit-laide-durgence-aux-plus-petites-pme-72341"
+    }
+   ],
+   "resume": "Le ministère de l'Économie, de l'Innovation et de l'Énergie assouplit les critères du Programme d'aide d'urgence aux PME (PAUPME) — Tarifs douaniers pour rejoindre davantage de petites entreprises touchées par la guerre commerciale avec les États-Unis. Le seuil minimal de chiffre d'affaires admissible passe à 200 000 $, permettant aux PME dont le chiffre d'affaires se situe entre 200 000 $ et 2 millions de dollars d'en bénéficier, sans se limiter aux entreprises exportatrices et à leurs fournisseurs.\n\nUne exception est aussi introduite pour les PME forestières, désormais dispensées de démontrer leur rentabilité au cours d'au moins un des deux derniers exercices financiers, un critère jugé trop restrictif pour un secteur déjà fragilisé. Le PAUPME — Tarifs douaniers avait été mis en place le 22 août avec le programme FORCE, après l'échec des négociations commerciales entre le Canada et les États-Unis.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hotel_du_Parlement_du_Quebec_70.jpg/1280px-Hotel_du_Parlement_du_Quebec_70.jpg",
+   "legende": "L'Hôtel du Parlement, à Québec.",
+   "photo_auteur": "Cephas",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-08-29T05:47-04:00",
+   "permalien": "quebec-elargit-son-aide-d-urgence-aux-pme-touchees-par-les-t-945b03",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-29.json",
+   "_slug": "quebec-elargit-son-aide-d-urgence-aux-pme-touchees-par-les-t-945b03"
+  },
+  {
+   "titre": "Des fermetures de nuit se poursuivent sur le pont Pierre-Laporte jusqu'au 8 septembre",
+   "cahier": "quebec",
+   "rubrique": "transports",
+   "territoire": "Québec",
+   "medias": "Gouvernement du Québec",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/mise-a-jour-fermetures-partielles-du-pont-pierre-laporte-jusquau-8-septembre-72343",
+   "sources": [
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/mise-a-jour-fermetures-partielles-du-pont-pierre-laporte-jusquau-8-septembre-72343"
+    }
+   ],
+   "resume": "Le ministère des Transports et de la Mobilité durable rappelle que des fermetures partielles de nuit se poursuivent sur le pont Pierre-Laporte, à Québec, pour réparer la chaussée et compléter l'inspection générale de la structure. Des retards météo ont reporté les travaux aux nuits du 28 au 31 août et des 7 et 8 septembre; deux voies sur trois seront fermées dans les deux directions dans la nuit du 30 au 31 août.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pierre_Laporte_Bridge.jpg/1280px-Pierre_Laporte_Bridge.jpg",
+   "legende": "Le pont Pierre-Laporte, à Québec.",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC BY 4.0",
+   "horodate": "2026-08-29T05:47-04:00",
+   "permalien": "des-fermetures-de-nuit-se-poursuivent-sur-le-pont-pierre-lap-709dad",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-29.json",
+   "_slug": "des-fermetures-de-nuit-se-poursuivent-sur-le-pont-pierre-lap-709dad"
+  },
+  {
+   "titre": "Le commerce interprovincial s'ouvre, mais la refonte des vieilles règles prendra du temps",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "CBC, Canada's National Observer",
+   "url": "https://www.cbc.ca/news/politics/interprovincial-trade-barriers-9.7323970",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/politics/interprovincial-trade-barriers-9.7323970"
+    },
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/08/28/news/interprovincial-trade-barriers-are-falling-experts-say-challenges-remain"
+    }
+   ],
+   "resume": "L'échec des négociations commerciales avec Washington accélère les efforts pour réduire les barrières au commerce entre provinces canadiennes, rapporte La Presse canadienne : neuf provinces ont accepté en juillet la vente directe d'alcool par-delà leurs frontières, et le Fonds monétaire international chiffre à environ 210 milliards de dollars, ou 7 % du PIB réel, le gain potentiel d'une élimination complète de ces barrières à long terme. Des ministres fédéraux et provinciaux se sont réunis cette semaine à Iqaluit pour tenter de faire progresser un marché canadien unique, mais des experts cités par l'agence notent que des règles désuètes, du transport à la construction, resteront coûteuses à harmoniser.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Highway_401-Highway_402_interchange.jpg/1280px-Highway_401-Highway_402_interchange.jpg",
+   "legende": "Un échangeur autoroutier en Ontario.",
+   "photo_auteur": "Ryan Stubbs (Haljackey)",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-08-29T05:47-04:00",
+   "permalien": "le-commerce-interprovincial-s-ouvre-mais-la-refonte-des-viei-acf8da",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-29.json",
+   "_slug": "le-commerce-interprovincial-s-ouvre-mais-la-refonte-des-viei-acf8da"
+  },
+  {
+   "titre": "Après les critiques, CBC/Radio-Canada assouplit sa politique sur les attentats du 11-Septembre",
+   "cahier": "canada",
+   "rubrique": "medias",
+   "territoire": "Canada",
+   "medias": "Le Devoir, La Presse",
+   "url": "https://www.ledevoir.com/culture/medias/1005002/apres-plusieurs-critiques-cbc-change-politique-attaques-11-septembre",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/medias/1005002/apres-plusieurs-critiques-cbc-change-politique-attaques-11-septembre"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/2026-08-28/apres-plusieurs-critiques-cbc-change-sa-politique-sur-les-attaques-du-11-septembre.php"
+    }
+   ],
+   "resume": "CBC/Radio-Canada modifie sa politique linguistique pour ne plus exiger que les attentats du 11 septembre 2001 soient qualifiés de « terroristes » uniquement en attribuant le terme à une source, rapporte La Presse canadienne. Le diffuseur public avait essuyé de vives critiques après la divulgation d'une note interne réaffirmant sa pratique de longue date d'attribution systématique, dénoncée notamment par le directeur du FBI, l'ambassadeur américain au Canada et le chef conservateur Pierre Poilievre; le responsable des normes journalistiques de CBC, Basem Boshra, a expliqué vouloir lever un « obstacle à la clarté » tout en maintenant la pratique d'attribution pour les actes de violence plus récents.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Canadian_Broadcasting_Centre_August_2017_01.jpg/1280px-Canadian_Broadcasting_Centre_August_2017_01.jpg",
+   "legende": "Le Centre canadien de radiodiffusion de CBC/Radio-Canada, à Toronto.",
+   "photo_auteur": "Arild Vågen",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-08-29T05:47-04:00",
+   "permalien": "apres-les-critiques-cbc-radio-canada-assouplit-sa-politique-9bfc33",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-29.json",
+   "_slug": "apres-les-critiques-cbc-radio-canada-assouplit-sa-politique-9bfc33"
+  },
+  {
+   "titre": "Le PIB canadien rebondit de 3,3 % au deuxième trimestre, porté par les exportations",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Québecor",
+   "url": "https://www.tvanouvelles.ca/2026/08/28/leconomie-canadienne-rebondit-fortement-mais-les-difficultes-sont-a-venir",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/28/leconomie-canadienne-rebondit-fortement-mais-les-difficultes-sont-a-venir"
+    }
+   ],
+   "resume": "Selon Statistique Canada, le PIB canadien a progressé de 3,3 % en rythme annualisé au deuxième trimestre, porté par un bond de 3,6 % des exportations — la plus forte hausse depuis 2023 — grâce notamment à un sursaut de 27 % des exportations automobiles, rapporte l'AFP. L'agence statistique a par ailleurs révisé à la hausse la croissance du premier trimestre, écartant la récession technique un temps redoutée. Des économistes de la Banque CIBC préviennent toutefois que ces chiffres sont déjà « de l'histoire ancienne » : Ottawa a rompu les négociations commerciales avec Washington vendredi dernier, de nouvelles surtaxes américaines sont entrées en vigueur samedi, et la Banque TD chiffre à 0,3 à 0,6 point de pourcentage l'impact attendu sur la croissance canadienne de l'an prochain.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Containers_at_the_Port_of_Montreal.jpg/1280px-Containers_at_the_Port_of_Montreal.jpg",
+   "legende": "Des conteneurs au port de Montréal.",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC BY 4.0",
+   "horodate": "2026-08-29T05:47-04:00",
+   "permalien": "le-pib-canadien-rebondit-de-3-3-au-deuxieme-trimestre-porte-b2878b",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-29.json",
+   "_slug": "le-pib-canadien-rebondit-de-3-3-au-deuxieme-trimestre-porte-b2878b"
+  },
+  {
+   "titre": "Charles Milliard mise sur la levée des barrières interprovinciales et garde le cap malgré les sondages",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1004801/milliard-garde-cap-malgre-sondages-devastateurs",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1004801/milliard-garde-cap-malgre-sondages-devastateurs"
+    }
+   ],
+   "resume": "Malgré deux sondages consécutifs plaçant le Parti libéral loin derrière la CAQ et le PQ, son chef Charles Milliard dit vouloir garder le cap et présenter son plan sur les 38 jours de campagne. Il propose de lever « des dizaines » de barrières commerciales avec le reste du Canada, notamment dans l'alcool, la transformation alimentaire et les abattoirs régionaux, et souhaite faciliter la venue de travailleurs d'autres provinces dans la construction pour appuyer la construction de 100 000 logements. M. Milliard a aussi présenté vendredi sa candidate dans Chomedey, l'ex-consule du Canada à Chicago Madeleine Féquière.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Charles_Milliard_Ao%C3%BBt_2024.jpg/1280px-Charles_Milliard_Ao%C3%BBt_2024.jpg",
+   "legende": "Le chef du Parti libéral du Québec, Charles Milliard.",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "horodate": "2026-08-29T05:47-04:00",
+   "permalien": "charles-milliard-mise-sur-la-levee-des-barrieres-interprovin-e5bf40",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-29.json",
+   "_slug": "charles-milliard-mise-sur-la-levee-des-barrieres-interprovin-e5bf40"
+  },
   {
    "titre": "Le patron de la Fed juge l'inflation « préoccupante » et ouvre la porte à une hausse des taux",
    "cahier": "international",
@@ -615,7 +1409,7 @@
    "cahier": "quebec",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "CBC, Global News, Radio-Canada",
+   "medias": "CBC, Global News, Radio-Canada, Le Devoir",
    "url": "https://www.cbc.ca/news/canada/montreal/day-2-election-campaign-quebec-9.7324592",
    "sources": [
     {
@@ -629,14 +1423,18 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2278711/paul-st-pierre-plamondon-museler-candidat-marceau"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1004921/campagne-deja-riche-bonbons-fiscaux"
     }
    ],
-   "resume": "Premier jour complet de campagne en vue du scrutin du 5 octobre : le chef péquiste Paul St-Pierre Plamondon s'est engagé, depuis le site abandonné de l'usine Northvolt, à réduire de 20 % l'impôt des entreprises québécoises au cours d'un premier mandat, tandis que le libéral Charles Milliard promet de faire baisser d'au moins 15 % la part des exportations québécoises destinées aux États-Unis en diversifiant les marchés. La caquiste Christine Fréchette, prise à partie par ses adversaires, propose pour sa part deux semaines supplémentaires au Régime québécois d'assurance parentale.",
+   "resume": "Premier jour complet de campagne en vue du scrutin du 5 octobre : le chef péquiste Paul St-Pierre Plamondon s'est engagé, depuis le site abandonné de l'usine Northvolt, à réduire de 20 % l'impôt des entreprises québécoises au cours d'un premier mandat, tandis que le libéral Charles Milliard promet de faire baisser d'au moins 15 % la part des exportations québécoises destinées aux États-Unis en diversifiant les marchés. La caquiste Christine Fréchette, prise à partie par ses adversaires, propose pour sa part deux semaines supplémentaires au Régime québécois d'assurance parentale.\n\n**Mise à jour, 5 h 47** — Un sondage Synopsis-La Presse publié vendredi a replacé la CAQ à égalité statistique avec le PQ (27 % contre 28 %), une remontée de sept points pour la formation de Christine Fréchette; le PCQ d'Éric Duhaime a par ailleurs dévoilé sa promesse phare d'une baisse d'impôt pouvant atteindre 8726 $ sur cinq ans, financée par 47 milliards de compressions.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg",
    "legende": "La cheffe de la Coalition avenir Québec, Christine Fréchette.",
    "photo_auteur": "TVA Nouvelles",
    "photo_licence": "CC BY 3.0",
-   "horodate": "2026-08-28T21:39-04:00",
+   "horodate": "2026-08-29T05:47-04:00",
    "permalien": "impots-des-entreprises-exportations-et-conge-parental-les-tr-4f7ca7",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-29.json",
@@ -969,7 +1767,7 @@
    "territoire": "Ontario",
    "medias": "Québecor, Radio-Canada, Le Devoir, La Presse, National Post, Global News, APTN News, Canada's National Observer, Coops de l'information, France 24, Les Echos, BFMTV, Le Temps",
    "url": "https://www.journaldemontreal.com/2026/08/27/lac-amerique-donald-trump-signe-un-decret-pour-changer-le-nom-du-lac-ontario",
-   "resume": "Le président américain Donald Trump a signé jeudi un décret rebaptisant le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, une décision unilatérale qui n'a aucune portée légale au Canada. Le geste s'inscrit dans la continuité de la décision, prise plus tôt dans son second mandat, de renommer le golfe du Mexique « golfe d'Amérique » sur les cartes officielles américaines — une pratique que plusieurs observateurs interprètent comme un geste symbolique destiné à marquer le territoire politique plutôt qu'à produire un effet juridique réel. Le premier ministre canadien Mark Carney a réagi avec un mélange d'ironie et de fermeté, affirmant que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario pour les Canadiens, peu importe ce que Washington choisit d'inscrire sur ses propres cartes. Sa réponse, brève, tranchait avec le ton plus offusqué qu'avaient adopté certains élus lors de précédentes sorties américaines visant la souveraineté canadienne.\n\nLe geste survient alors que les relations commerciales entre les deux pays restent tendues, et plusieurs élus et commentateurs canadiens y ont vu une provocation gratuite plutôt qu'un enjeu appelant une réponse diplomatique formelle. Des médias de langue anglaise et française, du National Post à La Presse en passant par Radio-Canada et Le Devoir, ont largement repris la nouvelle, la plupart soulignant que la portion canadienne du lac — et donc son nom officiel du côté canadien — n'est aucunement touchée par un décret américain. Le lac Ontario, l'un des cinq Grands Lacs, forme une frontière naturelle entre la province de l'Ontario et l'État de New York et demeure une voie navigable et une source d'eau potable partagée par des millions de personnes des deux côtés de la frontière.\n\nSa gestion binationale continue de relever des ententes existantes entre le Canada et les États-Unis, que ce geste symbolique de la Maison-Blanche ne modifie en rien. Le média autochtone APTN News et le site Canada's National Observer comptaient eux aussi parmi les publications ayant repris l'affaire, aux côtés de Global News, illustrant l'ampleur de la couverture accordée à un geste pourtant dénué de conséquence juridique immédiate. La sortie de M. Trump est survenue le jour même où le Québec amorçait sa propre campagne électorale, dominée en bonne partie par la question des relations avec Washington, ce qui a amplifié la résonance politique de l'épisode des deux côtés de la frontière linguistique canadienne.\n\n**Mise à jour, 21 h 30** — Le grand chef de la Nation huronne-wendat s'est dit « indigné, outré, choqué » par le décret. Les élus du Conseil de la Nation wendat s'étaient mobilisés dès mardi contre toute tentative de changer le nom du lac, en écrivant à une série d'acteurs canadiens, américains et autochtones influents, dont Mark Carney. Le premier ministre canadien a lui-même invoqué cette origine dans sa publication : le nom vient du mot wendat « Ontari'io », qui signifie que le lac est beau et qu'il est grand, et il précède de plus de quatre siècles tant la Confédération canadienne que la déclaration d'indépendance américaine. Pour les Canadiens, a-t-il écrit, ce sera le lac Ontario « alors, maintenant et toujours ».\n\n**Mise à jour, 21 h 30** — Des dirigeants autochtones ont condamné vendredi le décret présidentiel. Le grand chef de la nation huronne-wendat, Pierre Picard, s'est dit « choqué » et y voit une tentative d'effacer l'histoire de son peuple dans la région : le toponyme vient du mot wendat *Ontari:io*, « le lac est beau, le lac est grand ». Mark Carney avait rappelé cette origine la veille en affirmant que le plan d'eau porterait le nom de lac Ontario « hier, aujourd'hui et pour toujours ».",
+   "resume": "Le président américain Donald Trump a signé jeudi un décret rebaptisant le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, une décision unilatérale qui n'a aucune portée légale au Canada. Le geste s'inscrit dans la continuité de la décision, prise plus tôt dans son second mandat, de renommer le golfe du Mexique « golfe d'Amérique » sur les cartes officielles américaines — une pratique que plusieurs observateurs interprètent comme un geste symbolique destiné à marquer le territoire politique plutôt qu'à produire un effet juridique réel. Le premier ministre canadien Mark Carney a réagi avec un mélange d'ironie et de fermeté, affirmant que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario pour les Canadiens, peu importe ce que Washington choisit d'inscrire sur ses propres cartes. Sa réponse, brève, tranchait avec le ton plus offusqué qu'avaient adopté certains élus lors de précédentes sorties américaines visant la souveraineté canadienne.\n\nLe geste survient alors que les relations commerciales entre les deux pays restent tendues, et plusieurs élus et commentateurs canadiens y ont vu une provocation gratuite plutôt qu'un enjeu appelant une réponse diplomatique formelle. Des médias de langue anglaise et française, du National Post à La Presse en passant par Radio-Canada et Le Devoir, ont largement repris la nouvelle, la plupart soulignant que la portion canadienne du lac — et donc son nom officiel du côté canadien — n'est aucunement touchée par un décret américain. Le lac Ontario, l'un des cinq Grands Lacs, forme une frontière naturelle entre la province de l'Ontario et l'État de New York et demeure une voie navigable et une source d'eau potable partagée par des millions de personnes des deux côtés de la frontière.\n\nSa gestion binationale continue de relever des ententes existantes entre le Canada et les États-Unis, que ce geste symbolique de la Maison-Blanche ne modifie en rien. Le média autochtone APTN News et le site Canada's National Observer comptaient eux aussi parmi les publications ayant repris l'affaire, aux côtés de Global News, illustrant l'ampleur de la couverture accordée à un geste pourtant dénué de conséquence juridique immédiate. La sortie de M. Trump est survenue le jour même où le Québec amorçait sa propre campagne électorale, dominée en bonne partie par la question des relations avec Washington, ce qui a amplifié la résonance politique de l'épisode des deux côtés de la frontière linguistique canadienne.\n\n**Mise à jour, 21 h 30** — Le grand chef de la Nation huronne-wendat s'est dit « indigné, outré, choqué » par le décret. Les élus du Conseil de la Nation wendat s'étaient mobilisés dès mardi contre toute tentative de changer le nom du lac, en écrivant à une série d'acteurs canadiens, américains et autochtones influents, dont Mark Carney. Le premier ministre canadien a lui-même invoqué cette origine dans sa publication : le nom vient du mot wendat « Ontari'io », qui signifie que le lac est beau et qu'il est grand, et il précède de plus de quatre siècles tant la Confédération canadienne que la déclaration d'indépendance américaine. Pour les Canadiens, a-t-il écrit, ce sera le lac Ontario « alors, maintenant et toujours ».",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lake_Ontario_Shoreline.jpg",
    "legende": "Le littoral du lac Ontario.",
    "photo_auteur": "SAF1999",
