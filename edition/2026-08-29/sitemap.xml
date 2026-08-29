@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://entreelibre.ca/edition/2026-08-29/index.html</loc>
 <lastmod>2026-08-29</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://entreelibre.ca/edition/2026-08-29/elections.html</loc>
+<lastmod>2026-08-29</lastmod><changefreq>hourly</changefreq><priority>0.8</priority></url>
 <url><loc>https://entreelibre.ca/edition/2026-08-29/quebec.html</loc>
 <lastmod>2026-08-29</lastmod><changefreq>hourly</changefreq><priority>0.8</priority></url>
 <url><loc>https://entreelibre.ca/edition/2026-08-29/montreal.html</loc>
@@ -53,8 +55,6 @@
 <url><loc>https://entreelibre.ca/edition/2026-08-29/a/repliquer-aux-tarifs-par-lenergie-deux-voix-opposees-sur-le-121d79.html</loc>
 <lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
 <url><loc>https://entreelibre.ca/edition/2026-08-29/a/education-des-etats-generaux-reclames-trente-ans-de-politiqu-c1641e.html</loc>
-<lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-<url><loc>https://entreelibre.ca/edition/2026-08-29/a/la-bataille-de-quebec-samorce-entre-un-pq-plombe-et-un-pcq-e-042ff4.html</loc>
 <lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
 <url><loc>https://entreelibre.ca/edition/2026-08-29/a/lenvironnement-joker-neglige-de-la-campagne-plaide-le-devoir-d50849.html</loc>
 <lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -207,7 +207,7 @@
 <url><loc>https://entreelibre.ca/edition/2026-08-29/a/washington-veut-retirer-aux-riverains-leur-droit-de-regard-s-2c0deb.html</loc>
 <lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
 <url><loc>https://entreelibre.ca/edition/2026-08-29/a/la-bataille-de-quebec-s-amorce-le-pq-plombe-par-la-controver-042ff4.html</loc>
-<lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+<lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
 <url><loc>https://entreelibre.ca/edition/2026-08-29/a/petite-riviere-saint-francois-cherche-des-citoyens-pour-deux-9e1287.html</loc>
 <lastmod>2026-08-28</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
 <url><loc>https://entreelibre.ca/edition/2026-08-29/a/le-polemiste-britannique-milo-yiannopoulos-arrete-par-la-pol-625f14.html</loc>

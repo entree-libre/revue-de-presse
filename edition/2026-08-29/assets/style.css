@@ -281,12 +281,13 @@ footer.pied p{margin:.2rem 0;max-width:44rem}
 /* ------------------------------------------------ le coup d'oeil (10 août) */
 [data-cahier="quebec"]{--ca:#9c3b28}[data-cahier="montreal"]{--ca:#1f668f}
 [data-cahier="canada"]{--ca:#8a621b}[data-cahier="international"]{--ca:#2e6b4f}
-[data-cahier="savoirs"]{--ca:#5d4a8f}
+[data-cahier="savoirs"]{--ca:#5d4a8f}[data-cahier="elections"]{--ca:#8f2f5e}
 html[data-theme="dark"] [data-cahier="quebec"]{--ca:#e08a72}
 html[data-theme="dark"] [data-cahier="montreal"]{--ca:#7db8dc}
 html[data-theme="dark"] [data-cahier="canada"]{--ca:#d9b36a}
 html[data-theme="dark"] [data-cahier="international"]{--ca:#84c4a4}
 html[data-theme="dark"] [data-cahier="savoirs"]{--ca:#b6a4e0}
+html[data-theme="dark"] [data-cahier="elections"]{--ca:#e893b8}
 .masthead{text-align:center;border-bottom:4px double var(--fg);
  padding:1.6rem 0 1rem;margin:.6rem 0 1.6rem}
 .masthead .sur{font-size:.78rem;letter-spacing:.35em;text-transform:uppercase;
