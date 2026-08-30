@@ -355,6 +355,14 @@ html[data-theme="dark"] [data-cahier="elections"]{--ca:#e893b8}
  color:var(--muted)}
 .masthead h1{font-size:3.1rem;line-height:1.05;margin:.25rem 0 .3rem;
  letter-spacing:-.015em}
+.masthead h1.marque{font-family:"Permanent Marker","Comic Sans MS",cursive;
+ font-weight:400;font-size:3.4rem;letter-spacing:.015em}
+.souligne-main{position:relative;z-index:0;color:var(--accent-fg);
+ padding:0 .12em}
+.souligne-main::before{content:"";position:absolute;z-index:-1;
+ left:-.14em;right:-.18em;top:.14em;bottom:-.06em;
+ transform:rotate(-1.8deg);
+ background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 80' preserveAspectRatio='none'%3E%3Cpath d='M6 46 C60 26 132 54 192 38 C232 27 274 36 295 44 L291 61 C238 73 168 53 108 67 C66 76 22 68 9 57 Z' fill='%23ffd400' opacity='.9'/%3E%3C/svg%3E") no-repeat center/100% 100%}
 .masthead .sous-titre{font-family:var(--titre);font-style:italic;
  font-size:1.1rem;color:var(--muted);margin:0 0 .6rem}
 .masthead .date{font-size:.9rem;color:var(--muted);letter-spacing:.06em;
