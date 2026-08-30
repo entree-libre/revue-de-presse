@@ -3,6 +3,7 @@
  "volets": [
   "elections",
   "hors-rss",
+  "local",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -332,7 +333,7 @@
    "cahier": "elections",
    "rubrique": "societe",
    "territoire": "Québec",
-   "medias": "La Presse",
+   "medias": "La Presse, Coops de l'information",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/logements-pour-aines/charles-milliard-promet-de-plafonner-les-hausses-de-loyer-dans-les-rpa.php",
    "resume": "Le chef du Parti libéral du Québec, Charles Milliard, s'engage à fixer chaque année un plafond aux hausses de loyer dans les résidences privées pour aînés et à obliger les exploitants qui voudraient le dépasser à s'adresser au Tribunal administratif du logement, invoquant un loyer mensuel moyen passé de 2253 $ en 2022 à 2655 $ cette année, soit 18 % de plus. Il promet aussi d'interdire aux résidences de réduire les soins et les services d'accompagnement pour absorber ce plafond, mais ne dit pas qui en fixerait le niveau ni selon quelle méthode, évoquant seulement une discussion à venir avec les propriétaires, les locataires aînés et le tribunal.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Charles_Milliard_Ao%C3%BBt_2024.jpg/1280px-Charles_Milliard_Ao%C3%BBt_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -342,6 +343,30 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/logements-pour-aines/charles-milliard-promet-de-plafonner-les-hausses-de-loyer-dans-les-rpa.php"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/actualites-locales/la-capitale/2026/08/30/charles-milliard-veut-plafonner-les-hausses-des-loyers-des-rpa-ESLLPGHOWBEFBBTTT3ECTZJ654/"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/08/30/charles-milliard-veut-plafonner-les-hausses-des-loyers-des-rpa-ESLLPGHOWBEFBBTTT3ECTZJ654/"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/08/30/charles-milliard-veut-plafonner-les-hausses-des-loyers-des-rpa-ESLLPGHOWBEFBBTTT3ECTZJ654/"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/08/30/charles-milliard-veut-plafonner-les-hausses-des-loyers-des-rpa-ESLLPGHOWBEFBBTTT3ECTZJ654/"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/08/30/charles-milliard-veut-plafonner-les-hausses-des-loyers-des-rpa-ESLLPGHOWBEFBBTTT3ECTZJ654/"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/08/30/charles-milliard-veut-plafonner-les-hausses-des-loyers-des-rpa-ESLLPGHOWBEFBBTTT3ECTZJ654/"
     }
    ],
    "photo_auteur": "TVA Nouvelles",
@@ -372,6 +397,50 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-08-30.json",
    "_slug": "quebec-solidaire-plafonnerait-les-hausses-de-loyer-a-l-infla-8d6c7e"
+  },
+  {
+   "titre": "Duhaime chiffre à 867 $ par ménage l'abolition de la TVQ sur les biens usagés",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/08/30/pas-de-tvq-sur-les-biens-usages-promet-duhaime-LOWFWXRG5NEVBCQNFOMV2ZYYWY/",
+   "resume": "Le chef du Parti conservateur du Québec, Éric Duhaime, promet d'abolir la taxe de vente du Québec sur les biens usagés, un gain qu'il chiffre à 867 $ par ménage sur une période de quatre ans et cinq mois et qu'il justifie en jugeant « immoral » que l'État taxe plusieurs fois un même produit acheté par les moins fortunés. La cheffe de la CAQ, Christine Fréchette, a écarté la mesure samedi en la disant trop coûteuse pour l'État, la co-porte-parole de Québec solidaire Ruba Ghazal a rappelé le projet de loi de son parti suspendant la TVQ sur des milliers de produits essentiels, et le chef libéral Charles Milliard a raillé dimanche un adversaire qui « veut tout abolir ».",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%C3%89ric_Duhaime_2022-07-05_%28cropped%29.jpg",
+   "legende": "Éric Duhaime, chef du Parti conservateur du Québec.",
+   "photo_auteur": "Asclepias",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-08-30T12:25-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/08/30/pas-de-tvq-sur-les-biens-usages-promet-duhaime-LOWFWXRG5NEVBCQNFOMV2ZYYWY/"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/08/30/pas-de-tvq-sur-les-biens-usages-promet-duhaime-LOWFWXRG5NEVBCQNFOMV2ZYYWY/"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/08/30/pas-de-tvq-sur-les-biens-usages-promet-duhaime-LOWFWXRG5NEVBCQNFOMV2ZYYWY/"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/08/30/pas-de-tvq-sur-les-biens-usages-promet-duhaime-LOWFWXRG5NEVBCQNFOMV2ZYYWY/"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/08/30/pas-de-tvq-sur-les-biens-usages-promet-duhaime-LOWFWXRG5NEVBCQNFOMV2ZYYWY/"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/08/30/pas-de-tvq-sur-les-biens-usages-promet-duhaime-LOWFWXRG5NEVBCQNFOMV2ZYYWY/"
+    }
+   ],
+   "permalien": "duhaime-chiffre-a-867-par-menage-l-abolition-de-la-tvq-sur-l-e9567d",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-30.json",
+   "_slug": "duhaime-chiffre-a-867-par-menage-l-abolition-de-la-tvq-sur-l-e9567d"
   },
   {
    "titre": "Un suspect brise la vitrine d'un restaurant de Saint-Michel pour y mettre le feu",
@@ -642,6 +711,30 @@
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-08-30.json",
    "_slug": "circulation-en-alternance-la-nuit-sur-le-pont-de-l-ile-d-orl-f6e9c1"
+  },
+  {
+   "titre": "Gatineau modifie circulation et stationnement près du parc de la Baie pour le Festival de montgolfières",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Gatineau",
+   "medias": "Ville de Gatineau",
+   "url": "https://www.gatineau.ca/portail/default.aspx?p=nouvelles_annonces/communiques/communique_2015&id=-571546485",
+   "sources": [
+    {
+     "media": "Ville de Gatineau",
+     "url": "https://www.gatineau.ca/portail/default.aspx?p=nouvelles_annonces/communiques/communique_2015&id=-571546485"
+    }
+   ],
+   "resume": "La Ville de Gatineau interdira le stationnement sur un côté des rues Robitaille, Aberdeen et de la Baie du 2 au 6 septembre, et fermera la rue de la Baie à la circulation en soirée, le temps de la 39e édition du Festival de montgolfières qui se tient au parc de la Baie. Les résidents, les services d'urgence et les détenteurs d'un permis du festival pourront tout de même y circuler; la Ville recommande le transport en commun vu l'achalandage attendu dans le secteur.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Festival_de_Montgolfi%C3%A8res_de_Gatineau_02.JPG/1280px-Festival_de_Montgolfi%C3%A8res_de_Gatineau_02.JPG",
+   "legende": "Le Festival de montgolfières de Gatineau, dont la 39e édition se tient au parc de la Baie début septembre.",
+   "photo_auteur": "NoonIcarus",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-08-30T12:19-04:00",
+   "permalien": "gatineau-modifie-circulation-et-stationnement-pres-du-parc-d-7e9ced",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-08-30.json",
+   "_slug": "gatineau-modifie-circulation-et-stationnement-pres-du-parc-d-7e9ced"
   },
   {
    "titre": "Suisse : un mort et cinq blessés dans une fusillade en marge d'une rave party à Aarau",
@@ -1340,7 +1433,7 @@
      "url": "https://www.senneville.ca/travaux-de-releves-sur-le-territoire-dans-le-cadre-du-projet-merige-methode-devaluation-des-risques-dinondation-et-leur-gestion/"
     }
    ],
-   "resume": "Des équipes mandatées par la Ville de Montréal effectueront au cours des prochaines semaines des relevés sur le territoire du village de Senneville dans le cadre du projet MÉRIGE, la méthode d'évaluation des risques d'inondation et de leur gestion. Le Village relaie l'avis du Service de sécurité incendie de Montréal : le personnel procédera à des observations extérieures des bâtiments, prendra des photos de leur façade et notera certaines de leurs caractéristiques.\n\nAucun accès à l'intérieur des résidences ne sera demandé et toutes les interventions se dérouleront à l'extérieur des propriétés. Les membres des équipes porteront une carte d'identité de la Ville de Montréal et devront respecter les propriétés privées.\n\nSelon l'avis, ces relevés doivent permettre de mieux comprendre les risques d'inondation sur le territoire, d'améliorer la planification des interventions d'urgence et de contribuer à la protection des personnes et des biens.",
+   "resume": "Des équipes mandatées par la Ville de Montréal effectueront au cours des prochaines semaines des relevés extérieurs des bâtiments du village de Senneville dans le cadre du projet MÉRIGE, la méthode d'évaluation des risques d'inondation — prise de photos des façades et collecte de caractéristiques des bâtiments, sans accès à l'intérieur des résidences. Le Village précise que ces relevés doivent permettre de mieux comprendre les risques d'inondation sur le territoire et d'améliorer la planification des interventions d'urgence.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Senneville_QC.JPG/1280px-Senneville_QC.JPG",
    "legende": "Le village de Senneville, dans l'ouest de l'île de Montréal.",
    "photo_auteur": "P199",
