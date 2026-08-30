@@ -62,7 +62,7 @@
    "cahier": "canada",
    "rubrique": "societe",
    "territoire": "Espagne, Montréal",
-   "medias": "Radio-Canada, RFI, France 24, Les Coops de l'information, Québecor, franceinfo",
+   "medias": "Radio-Canada, RFI, France 24, Les Coops de l'information, Québecor, franceinfo, CNEWS",
    "url": "https://ici.radio-canada.ca/sports/2278782/pogacar-chute-a-la-vuelta-sa-presence-a-montreal-improbable",
    "sources": [
     {
@@ -88,14 +88,18 @@
     {
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/sports/cyclisme/vuelta/tadej-pogacar-contraint-a-l-abandon-sur-le-tour-d-espagne-apres-une-grosse-chute-sur-la-8e-etape_8168663.html"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/sport/2026-08-29/commotion-cerebrale-fracture-de-la-clavicule-la-fin-de-saison-de-tadej-pogacar"
     }
    ],
-   "resume": "Meneur au classement général du Tour d'Espagne, Tadej Pogacar a chuté lourdement dans la 8e étape et a dû abandonner, ce qui relance la course. Le Slovène de 27 ans, double champion du monde en titre et quintuple vainqueur du Tour de France, était donné largement favori pour défendre son maillot arc-en-ciel au Grand Prix cycliste de Montréal, où sa présence est désormais jugée improbable.",
+   "resume": "Meneur au classement général du Tour d'Espagne, Tadej Pogacar a chuté lourdement dans la 8e étape et a dû abandonner, ce qui relance la course. Le Slovène de 27 ans, double champion du monde en titre et quintuple vainqueur du Tour de France, était donné largement favori pour défendre son maillot arc-en-ciel au Grand Prix cycliste de Montréal, où sa présence est désormais jugée improbable.\n\n**Mise à jour, 21 h 30** — Tadej Pogacar souffre d'une commotion cérébrale et d'une fracture de la clavicule, qui nécessitera une opération, a précisé samedi soir le directeur médical de la Vuelta, Adrian Rotunno. Son équipe le décrit dans un état « stable », mais la fin de saison du Slovène est désormais plus que compromise.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/96/2025_LBL_-_start_Tadej_Poga%C4%8Dar.jpg",
    "legende": "Tadej Pogacar au départ de Liège-Bastogne-Liège en 2025.",
    "photo_auteur": "Hoebele",
    "photo_licence": "CC BY-SA 4.0",
-   "horodate": "2026-08-29T15:56-04:00",
+   "horodate": "2026-08-29T21:39-04:00",
    "permalien": "tadej-pogacar-abandonne-le-tour-d-espagne-apres-une-lourde-c-5d854c",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-08-29.json",
@@ -370,6 +374,360 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-08-29.json",
    "_slug": "senneville-des-releves-exterieurs-des-batiments-pour-cartogr-ec8729"
+  },
+  {
+   "titre": "La centrale de Zaporijjia tourne sur ses génératrices depuis plus d'une semaine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "The Guardian, Al Jazeera",
+   "url": "https://www.theguardian.com/world/2026/aug/30/ukraine-war-briefing-nuclear-plant-lost-power",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/aug/30/ukraine-war-briefing-nuclear-plant-lost-power"
+    },
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week"
+    }
+   ],
+   "resume": "La centrale nucléaire de Zaporijjia, occupée par l'armée russe depuis mars 2022, est privée d'alimentation électrique externe depuis plus d'une semaine et fonctionne sur ses génératrices d'urgence, a indiqué samedi l'Agence internationale de l'énergie atomique, qui évalue à dix jours la réserve de diesel présente sur le site. Ses six réacteurs sont à l'arrêt depuis 2022 mais doivent toujours être refroidis; il s'agit de la 27e fois que la centrale doit recourir à ses génératrices depuis le début de l'invasion, et l'agence dit chercher à négocier un cessez-le-feu local pour réparer les lignes endommagées.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "la-centrale-de-zaporijjia-tourne-sur-ses-generatrices-depuis-0c5f77",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "la-centrale-de-zaporijjia-tourne-sur-ses-generatrices-depuis-0c5f77"
+  },
+  {
+   "titre": "Cisjordanie : critique inhabituelle de Nétanyahou après une attaque de colons à Qusra",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Cisjordanie",
+   "medias": "France 24, La Presse",
+   "url": "https://www.france24.com/fr/moyen-orient/20260829-cisjordanie-occup%C3%A9e-benjamin-netanyahu-condamne-actes-violence-criminels-commis-colons",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/moyen-orient/20260829-cisjordanie-occup%C3%A9e-benjamin-netanyahu-condamne-actes-violence-criminels-commis-colons"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/moyen-orient/2026-08-29/colons-israeliens-en-cisjordanie/rare-critique-de-netanyahou-apres-de-nouvelles-violences.php"
+    }
+   ],
+   "resume": "Des dizaines de colons israéliens ont attaqué samedi le village palestinien de Qusra, dans le nord de la Cisjordanie occupée, selon l'armée israélienne et un habitant interrogé par l'AFP, qui décrit des villageois approchés alors qu'ils effectuaient des travaux dans une maison. Le premier ministre Benyamin Nétanyahou a dénoncé des « actes de violence criminels » commis dans deux villages palestiniens, une prise de position rare de sa part après plusieurs semaines de tensions dans ce secteur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "cisjordanie-critique-inhabituelle-de-netanyahou-apres-une-at-b3bdb9",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "cisjordanie-critique-inhabituelle-de-netanyahou-apres-une-at-b3bdb9"
+  },
+  {
+   "titre": "Gaza : l'armée israélienne dit avoir visé un commandant du Hamas dans l'enceinte d'un hôpital",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Gaza",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/international/moyen-orient/2026-08-29/bande-de-gaza/israel-dit-avoir-vise-un-commandant-du-hamas-dans-l-enceinte-d-un-hopital.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/moyen-orient/2026-08-29/bande-de-gaza/israel-dit-avoir-vise-un-commandant-du-hamas-dans-l-enceinte-d-un-hopital.php"
+    }
+   ],
+   "resume": "L'armée israélienne a affirmé samedi avoir ciblé un commandant du Hamas qui se cachait, selon elle, dans l'enceinte de l'hôpital des Martyrs d'Al-Aqsa, à Deir al-Balah, dans le centre de la bande de Gaza. Elle n'a ni identifié l'homme visé ni précisé s'il avait été tué. Les autorités sanitaires du territoire palestinien ont pour leur part fait état de quatre morts dans d'autres frappes israéliennes le même jour. Ces bilans et cette revendication émanent des parties au conflit et n'ont pas été vérifiés de façon indépendante.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "gaza-l-armee-israelienne-dit-avoir-vise-un-commandant-du-ham-599576",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "gaza-l-armee-israelienne-dit-avoir-vise-un-commandant-du-ham-599576"
+  },
+  {
+   "titre": "Liban-Sud : Washington ferme la porte à toute prolongation de la Finul",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Liban",
+   "medias": "L'Orient-Le Jour",
+   "url": "https://www.lorientlejour.com/article/1545973/washington-veut-tourner-la-page-de-la-finul-qui-sera-l-arbitre-au-liban-sud.html",
+   "sources": [
+    {
+     "media": "L'Orient-Le Jour",
+     "url": "https://www.lorientlejour.com/article/1545973/washington-veut-tourner-la-page-de-la-finul-qui-sera-l-arbitre-au-liban-sud.html"
+    }
+   ],
+   "resume": "Des consultations à huis clos du Conseil de sécurité, demandées vendredi par la France qui tient la plume sur le dossier libanais, se sont achevées sans consensus sur l'avenir de la Force intérimaire des Nations unies au Liban. Les États-Unis maintiennent leur opposition à toute prorogation du mandat au-delà de son échéance ultime du 31 décembre 2026, alors que Beyrouth cherche encore à préserver la force. Après près d'un demi-siècle de présence des Casques bleus au Liban-Sud, la question devenue centrale est de savoir quelle instance sera jugée assez légitime pour vérifier à la fois le désarmement du Hezbollah et le retrait israélien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "liban-sud-washington-ferme-la-porte-a-toute-prolongation-de-8917d5",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "liban-sud-washington-ferme-la-porte-a-toute-prolongation-de-8917d5"
+  },
+  {
+   "titre": "Un millier de Suisses manifestent à Berne pour une neutralité stricte avant le vote du 27 septembre",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Suisse",
+   "medias": "Québecor",
+   "url": "https://www.tvanouvelles.ca/2026/08/29/rassemblement-a-berne-pour-une-neutralite-stricte-au-nom-de-lidentite-suisse",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/08/29/rassemblement-a-berne-pour-une-neutralite-stricte-au-nom-de-lidentite-suisse"
+    }
+   ],
+   "resume": "Environ un millier de personnes se sont rassemblées samedi devant le Palais fédéral, à Berne, pour défendre une neutralité suisse stricte, un mois avant le référendum du 27 septembre sur l'initiative « Sauvegarder la neutralité suisse ». Ses promoteurs reprochent au gouvernement sa coopération avec l'OTAN et son alignement sur les sanctions de l'Union européenne contre la Russie. La foule, décrite comme largement âgée, brandissait des pancartes présentant la neutralité comme un fondement de l'identité nationale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "un-millier-de-suisses-manifestent-a-berne-pour-une-neutralit-81d6d5",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "un-millier-de-suisses-manifestent-a-berne-pour-une-neutralit-81d6d5"
+  },
+  {
+   "titre": "La Turquie convoque l'ambassadeur d'Ukraine après des attaques contre deux navires turcs en mer Noire",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Turquie, Ukraine",
+   "medias": "20 Minutes",
+   "url": "https://www.20minutes.fr/monde/ukraine/4241604-20260829-guerre-ukraine-direct-moins-27-morts-apres-frappe-russe-entrepot-pres-kiev",
+   "sources": [
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/ukraine/4241604-20260829-guerre-ukraine-direct-moins-27-morts-apres-frappe-russe-entrepot-pres-kiev"
+    }
+   ],
+   "resume": "Le ministère turc des Affaires étrangères a annoncé samedi avoir convoqué l'ambassadeur d'Ukraine à Ankara après l'attaque, cette semaine, de deux navires turcs en mer Noire. Le « Lider Bordo Mavi » a été touché au large de Touapse, sur la côte russe, et le « Lider Kocatepe », envoyé le lendemain pour le remorquer, a lui aussi été visé. Ankara n'a pas précisé si ces attaques avaient fait des victimes à bord, ni désigné publiquement de responsable.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "la-turquie-convoque-l-ambassadeur-d-ukraine-apres-des-attaqu-91083b",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "la-turquie-convoque-l-ambassadeur-d-ukraine-apres-des-attaqu-91083b"
+  },
+  {
+   "titre": "Laurentides : un homicide à Sainte-Agathe-des-Monts et la disparition d'un homme de 67 ans pourraient être liés",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Laurentides",
+   "medias": "Radio-Canada, La Presse, Zone 911",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278858/homicide-disparition-laurentides-sq",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278858/homicide-disparition-laurentides-sq"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-29/laurentides/un-homicide-et-une-disparition-pourraient-etre-lies-selon-la-sq.php"
+    },
+    {
+     "media": "Zone 911",
+     "url": "https://zone911.com/scenes-policieres/porte-disparu-mario-poirier-retrouve-sans-vie-dans-un-logement-le-deces-pourrait-etre-lie-a-un-homicide"
+    }
+   ],
+   "resume": "La Sûreté du Québec lance un appel à témoins dans un homicide survenu le 27 août à Sainte-Agathe-des-Monts, dans les Laurentides, qu'elle croit possiblement lié à la disparition d'un homme de 67 ans dans la même municipalité, Mario Poirier, vu pour la dernière fois le 24 août. Zone 911 rapporte pour sa part que M. Poirier a été retrouvé sans vie dans un logement, une version que le corps policier n'a pas confirmée publiquement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "laurentides-un-homicide-a-sainte-agathe-des-monts-et-la-disp-a3f730",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "laurentides-un-homicide-a-sainte-agathe-des-monts-et-la-disp-a3f730"
+  },
+  {
+   "titre": "Deux sorties de route de motocyclistes, à Rivière-à-Pierre et aux Cèdres",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Portneuf, Montérégie",
+   "medias": "Zone 911, Québecor, Radio-Canada",
+   "url": "https://zone911.com/accidents/deux-motocyclistes-ont-perdu-la-vie-au-quebec-region-de-portneuf-et-en-monteregie",
+   "sources": [
+    {
+     "media": "Zone 911",
+     "url": "https://zone911.com/accidents/deux-motocyclistes-ont-perdu-la-vie-au-quebec-region-de-portneuf-et-en-monteregie"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/08/29/sortie-de-route-pres-de-riviere-a-pierre-un-motocycliste-repose-dans-un-etat-critique"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278844/motocycliste-sortie-route-portneuf"
+    }
+   ],
+   "resume": "Un motocycliste qui circulait seul a perdu la maîtrise de sa machine dans une courbe à Rivière-à-Pierre, dans Portneuf, en début d'après-midi samedi, et un second accident du même type est survenu à Les Cèdres, en Montérégie. Zone 911 fait état de deux morts, tandis que Québecor et Radio-Canada décrivaient encore en fin d'après-midi le motocycliste de Rivière-à-Pierre comme reposant dans un état critique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "deux-sorties-de-route-de-motocyclistes-a-riviere-a-pierre-et-75ffbf",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "deux-sorties-de-route-de-motocyclistes-a-riviere-a-pierre-et-75ffbf"
+  },
+  {
+   "titre": "Un incendie criminel détruit une moto et deux véhicules dans un stationnement de Beauport",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/08/29/des-vehicules-cibles-par-un-incendie-criminel-a-beauport",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/08/29/des-vehicules-cibles-par-un-incendie-criminel-a-beauport"
+    }
+   ],
+   "resume": "Un incendie qualifié de criminel a ravagé samedi une motocyclette et deux véhicules garés dans le stationnement d'un immeuble à logements de Beauport, à Québec. Aucun blessé n'a été signalé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "un-incendie-criminel-detruit-une-moto-et-deux-vehicules-dans-b51ff6",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "un-incendie-criminel-detruit-une-moto-et-deux-vehicules-dans-b51ff6"
+  },
+  {
+   "titre": "Des travailleuses communautaires de Rimouski réclament plus de soutien à domicile pour les aînés",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278816/soins-domicile-rimouski-demande-partis",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278816/soins-domicile-rimouski-demande-partis"
+    }
+   ],
+   "resume": "Des travailleuses d'organismes communautaires qui offrent du soutien à domicile dans le secteur de Rimouski estiment que Québec doit élargir les services offerts aux personnes âgées, qui « méritent mieux ». Elles demandent que les sommes investies dans le maintien à domicile se rendent directement aux usagers plutôt que d'être absorbées par les structures.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "des-travailleuses-communautaires-de-rimouski-reclament-plus-680c07",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "des-travailleuses-communautaires-de-rimouski-reclament-plus-680c07"
+  },
+  {
+   "titre": "GM assemblerait une camionnette lourde à Oshawa dans une entente de 1,1 milliard avec Unifor",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Ontario",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-gm-plans-ontario-pickup-production-in-deal-that-would-pump-11-billion/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-gm-plans-ontario-pickup-production-in-deal-that-would-pump-11-billion/"
+    }
+   ],
+   "resume": "General Motors prévoit assembler à Oshawa la prochaine génération de la camionnette lourde GMC Sierra, un investissement de 144 millions de dollars, et s'engage à ne pas vendre ni fermer à court terme sa seconde usine d'assemblage d'Ingersoll, en Ontario. Ces engagements figurent dans un rapport de négociation publié samedi par le syndicat Unifor, qui chiffre à 1,1 milliard de dollars l'ensemble des sommes que l'entente provisoire injecterait dans un secteur automobile canadien secoué par les tarifs américains. Il s'agit à ce stade d'une entente de principe présentée par le syndicat, dont les termes n'ont pas été confirmés publiquement par le constructeur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "gm-assemblerait-une-camionnette-lourde-a-oshawa-dans-une-ent-8b3aa8",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "gm-assemblerait-une-camionnette-lourde-a-oshawa-dans-une-ent-8b3aa8"
+  },
+  {
+   "titre": "Référendum albertain : séparatistes et fédéralistes lancent leurs campagnes de séduction",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278909/rassemblements-separatistes-federalistes-alberta-referendum",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278909/rassemblements-separatistes-federalistes-alberta-referendum"
+    }
+   ],
+   "resume": "L'Alberta Prosperity Project a tenu samedi un rassemblement devant l'Assemblée législative à Edmonton, pendant que le Nouveau Parti démocratique lançait à Calgary une tournée en faveur du maintien dans la fédération. Le chef du groupe indépendantiste, Mitch Sylvestre, soutient que son mouvement gagne du terrain parce que de plus en plus d'Albertains jugent inacceptable le traitement que leur réserve Ottawa. Les deux camps entrent ainsi en campagne à l'approche du référendum provincial.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "referendum-albertain-separatistes-et-federalistes-lancent-le-3dd373",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "referendum-albertain-separatistes-et-federalistes-lancent-le-3dd373"
+  },
+  {
+   "titre": "Des crues glaciaires comme celle du Népal sont possibles au Canada, avertissent des chercheurs",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Canada",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278895/nepal-chine-inondations-glacier-changements-climatiques",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278895/nepal-chine-inondations-glacier-changements-climatiques"
+    }
+   ],
+   "resume": "Les glissements de terrain ne sont pas nouveaux dans cette région de l'Himalaya, surtout pendant la mousson, mais la chute de glacier et les torrents qui l'ont suivie cette semaine au Népal sont amplifiés par le réchauffement, selon les spécialistes consultés. Michel Baraër, professeur à l'École de technologie supérieure, souligne que toutes les régions glaciaires sont exposées à ce type d'événement et que la fonte des glaciers canadiens rend le pays vulnérable à des crues comparables.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "des-crues-glaciaires-comme-celle-du-nepal-sont-possibles-au-976f2a",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "des-crues-glaciaires-comme-celle-du-nepal-sont-possibles-au-976f2a"
+  },
+  {
+   "titre": "Des images générées par intelligence artificielle circulent en masse après la crue du Népal",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Népal",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attention-aux-images-generees-par-ia-qui-illustrent-la-crue-mortelle-au-nepal_8168840.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attention-aux-images-generees-par-ia-qui-illustrent-la-crue-mortelle-au-nepal_8168840.html"
+    }
+   ],
+   "resume": "Depuis la catastrophe du 26 août au Népal, des centaines de vidéos censées montrer l'ampleur de la crue circulent sur les réseaux sociaux. Une partie d'entre elles sont authentiques, mais plusieurs des séquences les plus spectaculaires sont en réalité générées par intelligence artificielle.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "des-images-generees-par-intelligence-artificielle-circulent-0b515b",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "des-images-generees-par-intelligence-artificielle-circulent-0b515b"
+  },
+  {
+   "titre": "Le groupe ZeroBytes revendique le piratage du service français Zéro Logement Vacant",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "MacGeneration",
+   "url": "https://www.macg.co/ailleurs/2026/08/prend-les-memes-et-recommence-zerobytes-annonce-avoir-pirate-le-service-zero-logement-vacant-310719",
+   "sources": [
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/ailleurs/2026/08/prend-les-memes-et-recommence-zerobytes-annonce-avoir-pirate-le-service-zero-logement-vacant-310719"
+    }
+   ],
+   "resume": "Le groupe ZeroBytes affirme avoir compromis vendredi les serveurs de « Zéro Logement Vacant », un service de l'État français, et revendique 148 929 194 lignes d'enregistrements bruts. Ce serait sa cinquième cible publique en peu de temps, après les données fiscales, cadastrales et successorales hébergées par la Direction générale des finances publiques, puis celles de l'Éducation nationale. Ce décompte est celui des assaillants et n'a pas été confirmé par les autorités françaises.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T21:39-04:00",
+   "permalien": "le-groupe-zerobytes-revendique-le-piratage-du-service-franca-95346e",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-29.json",
+   "_slug": "le-groupe-zerobytes-revendique-le-piratage-du-service-franca-95346e"
   },
   {
    "titre": "Sondage Léger : les Québécois plébiscitent l’aide au portefeuille, pas le référendum",
@@ -695,6 +1053,10 @@
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12040627/quebec-election-day-3/"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/la-souverainete-et-limmigration-alimentent-les-discussions-au-jour-3-de-la-campagne/"
     }
    ],
    "permalien": "devant-une-ecole-de-chauveau-le-pq-lie-limmigration-a-la-sur-614902",
@@ -725,6 +1087,10 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/frechette-lance-un-appel-aux-souverainistes-lucides.php"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/la-souverainete-et-limmigration-alimentent-les-discussions-au-jour-3-de-la-campagne/"
     }
    ],
    "permalien": "frechette-courtise-les-souverainistes-lucides-opposes-a-un-r-24870a",
@@ -767,6 +1133,10 @@
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/communique-de-presse/quebec-solidaire-veut-reparer-et-developper-le-transport-collectif/"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/la-souverainete-et-limmigration-alimentent-les-discussions-au-jour-3-de-la-campagne/"
     }
    ],
    "permalien": "quebec-solidaire-promet-23-milliards-sur-dix-ans-en-transpor-297c46",
@@ -797,6 +1167,10 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/fardeau-administratif/milliard-veut-creer-une-equipe-efficacite-quebec-pour-aider-les-pme.php"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/la-souverainete-et-limmigration-alimentent-les-discussions-au-jour-3-de-la-campagne/"
     }
    ],
    "permalien": "milliard-promet-une-equipe-efficacite-quebec-et-une-regle-du-2ab4e7",
@@ -861,6 +1235,10 @@
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12040627/quebec-election-day-3/"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/la-souverainete-et-limmigration-alimentent-les-discussions-au-jour-3-de-la-campagne/"
     }
    ],
    "permalien": "frechette-promet-un-milliard-de-plus-sur-quatre-ans-pour-le-23ef0a",
@@ -873,7 +1251,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Ukraine, Russie",
-   "medias": "The Associated Press, Jerusalem Post, The New York Times, Politico Europe, ABC News",
+   "medias": "The Associated Press, Jerusalem Post, The New York Times, Politico Europe, ABC News, Le HuffPost, 20 Minutes, Ukrinform, Le Monde",
    "url": "https://apnews.com/article/russia-ukraine-war-bucha-kyiv-4be42e27897bf45797a0cf3758be5eaf",
    "sources": [
     {
@@ -895,12 +1273,28 @@
     {
      "media": "ABC News",
      "url": "https://abcnews.com/International/27-killed-bucha-russian-strike/story?id=136052711"
+    },
+    {
+     "media": "Le HuffPost",
+     "url": "https://www.huffingtonpost.fr/international/article/apres-la-frappe-russe-qui-a-fait-au-moins-37-morts-pres-de-kiev-des-critiques-s-elevent-en-ukraine_314163.html"
+    },
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/ukraine/4241604-20260829-guerre-ukraine-direct-moins-27-morts-apres-frappe-russe-entrepot-pres-kiev"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-society/4158887-august-30-declared-day-of-mourning-in-kyiv-region.html"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/08/29/pres-de-kiev-une-attaque-russe-tue-37-personnes-et-pose-la-question-de-la-presence-d-installations-sensibles-en-zone-urbaine_6760334_3210.html"
     }
    ],
-   "resume": "Une frappe de drones russes a visé dans la nuit de vendredi à samedi le district de Boutcha, en périphérie de Kyiv, tuant au moins 37 personnes selon les autorités ukrainiennes citées par l'Associated Press — un bilan d'abord annoncé à 27 morts, puis revu à la hausse à mesure que les secours progressaient dans les décombres. L'attaque a endommagé au moins 50 immeubles résidentiels et provoqué un incendie qui s'est propagé à des habitations et à un restaurant, selon le chef de l'administration militaire régionale, Tymur Tkatchenko.\n\n**Mise à jour, 15 h 56** — La cible était un entrepôt de munitions des forces de défense ukrainiennes situé à Myla, dans le district de Boutcha : obus, mines et drones y ont détoné après l'impact du drone russe, provoquant l'incendie qui a ravagé les habitations voisines, selon Volodymyr Zelensky, qui parle d'une négligence terrible de la part de ceux qui ont entreposé des explosifs à côté de la population et annonce l'ouverture de poursuites criminelles. Trente-quatre des 37 morts étaient des résidents d'un foyer pour personnes âgées et handicapées, a précisé le chef de l'administration militaire régionale Tymur Tkatchenko, et plus de 370 personnes ont été évacuées. Le premier ministre Serhii Koretskyï a rappelé qu'une frappe sur un dépôt de munitions à Vychneve, en juillet, avait déjà fait 22 morts dans les mêmes circonstances. Le ministère russe de la Défense affirme de son côté avoir visé un entrepôt abritant des composants et des propulseurs de drones à longue portée.",
+   "resume": "Une frappe de drones russes a visé dans la nuit de vendredi à samedi le district de Boutcha, en périphérie de Kyiv, tuant au moins 37 personnes selon les autorités ukrainiennes citées par l'Associated Press — un bilan d'abord annoncé à 27 morts, puis revu à la hausse à mesure que les secours progressaient dans les décombres. L'attaque a endommagé au moins 50 immeubles résidentiels et provoqué un incendie qui s'est propagé à des habitations et à un restaurant, selon le chef de l'administration militaire régionale, Tymur Tkatchenko.\n\n**Mise à jour, 15 h 56** — La cible était un entrepôt de munitions des forces de défense ukrainiennes situé à Myla, dans le district de Boutcha : obus, mines et drones y ont détoné après l'impact du drone russe, provoquant l'incendie qui a ravagé les habitations voisines, selon Volodymyr Zelensky, qui parle d'une négligence terrible de la part de ceux qui ont entreposé des explosifs à côté de la population et annonce l'ouverture de poursuites criminelles. Trente-quatre des 37 morts étaient des résidents d'un foyer pour personnes âgées et handicapées, a précisé le chef de l'administration militaire régionale Tymur Tkatchenko, et plus de 370 personnes ont été évacuées. Le premier ministre Serhii Koretskyï a rappelé qu'une frappe sur un dépôt de munitions à Vychneve, en juillet, avait déjà fait 22 morts dans les mêmes circonstances. Le ministère russe de la Défense affirme de son côté avoir visé un entrepôt abritant des composants et des propulseurs de drones à longue portée.\n\n**Mise à jour, 21 h 30** — Les procureurs ukrainiens ont ouvert une enquête sur les raisons pour lesquelles des munitions étaient entreposées si près des habitations, et Volodymyr Zelensky a rappelé samedi l'interdiction de stocker des munitions à proximité de zones résidentielles. La Russie a tiré au moins deux missiles et 267 drones d'attaque sur l'Ukraine dans la nuit de vendredi à samedi, dont 233 auraient été interceptés, selon l'armée de l'air ukrainienne. Une journée de deuil a été décrétée le 30 août dans l'oblast de Kyiv.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-29T15:56-04:00",
+   "horodate": "2026-08-29T21:39-04:00",
    "permalien": "une-frappe-russe-fait-au-moins-37-morts-dans-la-region-de-ky-454a19",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-08-29.json",
@@ -1113,7 +1507,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Niger",
-   "medias": "TV5Monde (AFP), Libération, France 24, Radio-Canada, Euronews, Le Journal de Montréal",
+   "medias": "TV5Monde (AFP), Libération, France 24, Radio-Canada, Euronews, Le Journal de Montréal, Ouest-France, Anadolu, Le Monde, Courrier international",
    "url": "https://information.tv5monde.com/afrique/niger-des-echanges-de-tirs-se-poursuivent-a-niamey",
    "sources": [
     {
@@ -1139,12 +1533,28 @@
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/08/29/niger-le-regime-militaire-affirme-reprendre-le-controle-face-a-un-mouvement-dhumeur-de-mutins"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/niger/niger-la-junte-dejoue-une-mutinerie-avec-laide-de-la-russie-4151bc20-a40d-11f1-8465-547a0964275c"
+    },
+    {
+     "media": "Anadolu",
+     "url": "https://www.aa.com.tr/fr/afrique/lambassadeur-de-russie-affirme-que-larm%C3%A9e-nig%C3%A9rienne-a-demand%C3%A9-laide-de-moscou-pour-r%C3%A9primer-la-mutinerie/4041199"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/afrique/article/2026/08/29/au-niger-le-regime-militaire-dit-reprendre-progressivement-le-controle-face-a-des-mutins-apres-une-nuit-marquee-par-des-tirs-dans-la-capitale_6759501_3213.html"
+    },
+    {
+     "media": "Courrier international",
+     "url": "https://www.courrierinternational.com/depeche/niger-le-regime-reprend-la-main-face-aux-mutins-avec-l-appui-de-la-russie.afp.com.20260829.doc.c6rv4nq.xml"
     }
    ],
-   "resume": "Des tirs et détonations étaient toujours entendus samedi matin à Niamey, la capitale du Niger, notamment près de la base militaire attenante à l'aéroport international, selon l'AFP, qui ne précise pas l'origine des incidents; Libération rapporte des affrontements en cours entre des mutins et la garde présidentielle du régime militaire au pouvoir depuis le putsch de juillet 2023. Il s'agirait de la troisième tentative de déstabilisation du régime cette année, et de la première ne semblant pas impliquer de forces djihadistes, qui avaient été repoussées en quelques heures lors de deux précédentes attaques contre l'aéroport en janvier et en juin.\n\n**Mise à jour, 15 h 56** — Le ministre nigérien de la Défense, Salifou Mody, a affirmé samedi matin qu'un groupe de soldats en rupture avec le règlement militaire avait séquestré des camarades dans la caserne de la base 101, attenante à l'aéroport de Niamey, et tiré sur plusieurs sites sensibles, mais que les forces de sécurité reprenaient progressivement le contrôle. En début d'après-midi, une source sécuritaire régionale et une source diplomatique africaine disaient à l'AFP que les mutins tenaient toujours deux casernes, et qu'une tentative de pénétrer dans le palais présidentiel avait été repoussée par la garde présidentielle, restée loyale au général Abdourahamane Tiani. Leurs revendications et l'ampleur de leurs appuis restent inconnues. Le ministère algérien des Affaires étrangères a condamné les événements et assuré Niamey de son soutien.",
+   "resume": "Des tirs et détonations étaient toujours entendus samedi matin à Niamey, la capitale du Niger, notamment près de la base militaire attenante à l'aéroport international, selon l'AFP, qui ne précise pas l'origine des incidents; Libération rapporte des affrontements en cours entre des mutins et la garde présidentielle du régime militaire au pouvoir depuis le putsch de juillet 2023. Il s'agirait de la troisième tentative de déstabilisation du régime cette année, et de la première ne semblant pas impliquer de forces djihadistes, qui avaient été repoussées en quelques heures lors de deux précédentes attaques contre l'aéroport en janvier et en juin.\n\n**Mise à jour, 15 h 56** — Le ministre nigérien de la Défense, Salifou Mody, a affirmé samedi matin qu'un groupe de soldats en rupture avec le règlement militaire avait séquestré des camarades dans la caserne de la base 101, attenante à l'aéroport de Niamey, et tiré sur plusieurs sites sensibles, mais que les forces de sécurité reprenaient progressivement le contrôle. En début d'après-midi, une source sécuritaire régionale et une source diplomatique africaine disaient à l'AFP que les mutins tenaient toujours deux casernes, et qu'une tentative de pénétrer dans le palais présidentiel avait été repoussée par la garde présidentielle, restée loyale au général Abdourahamane Tiani. Leurs revendications et l'ampleur de leurs appuis restent inconnues. Le ministère algérien des Affaires étrangères a condamné les événements et assuré Niamey de son soutien.\n\n**Mise à jour, 21 h 30** — Le pouvoir militaire nigérien a déjoué la mutinerie en fin de journée samedi et repris la base aérienne 101, attenante à l'aéroport de Niamey, avec l'appui du Corps africain rattaché au ministère russe de la Défense, dont l'état-major est logé dans cette même base. L'ambassadeur de Russie au Niger, Viktor Voropaïev, a déclaré à l'agence TASS que c'est l'armée nigérienne elle-même qui avait sollicité cette aide, et attribué la mutinerie à de jeunes officiers originaires des régions de Tillabéri et de Dosso.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-29T15:56-04:00",
+   "horodate": "2026-08-29T21:39-04:00",
    "permalien": "des-tirs-opposeraient-des-mutins-a-la-garde-presidentielle-a-661378",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-08-29.json",
@@ -1285,7 +1695,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Islande",
-   "medias": "TV5Monde (AFP), France 24, franceinfo, La Presse",
+   "medias": "TV5Monde (AFP), France 24, franceinfo, La Presse, Radio-Canada, TV5MONDE",
    "url": "https://information.tv5monde.com/international/les-islandais-votent-sur-une-reprise-des-negociations-dadhesion-lue-2835325",
    "sources": [
     {
@@ -1303,12 +1713,20 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/international/europe/2026-08-29/adhesion-a-l-union-europeenne/les-islandais-votent-sur-une-reprise-des-negociations.php"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278894/islande-referendum-ue-fin-vote-resultats"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/video/referendum-en-islande-sur-ladhesion-lunion-europeenne-2835419"
     }
    ],
-   "resume": "Les Islandais votent samedi lors d'un référendum sur la reprise des négociations d'adhésion à l'Union européenne, gelées depuis 2013 par l'arrivée au pouvoir d'un gouvernement eurosceptique, treize ans après le dépôt d'une première candidature dans le sillage de la crise financière de 2008. Les derniers sondages donnaient un résultat indécis entre les camps du « oui » et du « non ».",
+   "resume": "Les Islandais votent samedi lors d'un référendum sur la reprise des négociations d'adhésion à l'Union européenne, gelées depuis 2013 par l'arrivée au pouvoir d'un gouvernement eurosceptique, treize ans après le dépôt d'une première candidature dans le sillage de la crise financière de 2008. Les derniers sondages donnaient un résultat indécis entre les camps du « oui » et du « non ».\n\n**Mise à jour, 21 h 30** — Les bureaux de vote ont fermé samedi soir et le résultat s'annonçait trop serré pour être départagé rapidement : il pourrait falloir plusieurs heures, voire une bonne partie de la nuit, avant de savoir si le « oui » ou le « non » l'emporte.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vista_de_Reikiavik_desde_Perlan%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_134-145_HDR_PAN.JPG",
    "legende": "Vue de Reykjavik, la capitale de l'Islande.",
-   "horodate": "2026-08-29T08:17-04:00",
+   "horodate": "2026-08-29T21:39-04:00",
    "photo_auteur": "Diego Delso",
    "photo_licence": "CC BY-SA 4.0",
    "permalien": "les-islandais-votent-sur-une-reprise-des-negociations-d-adhe-fa7363",
@@ -2673,7 +3091,7 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "États-Unis, Royaume-Uni",
-   "medias": "Le Monde, Le Parisien, Le Figaro, Le Devoir, Québecor",
+   "medias": "Le Monde, Le Parisien, Le Figaro, Le Devoir, Québecor, L'actualité, Ouest-France",
    "url": "https://www.ledevoir.com/monde/etats-unis/1004996/polemiste-extreme-droite-britannique-detenu-police-americaine-immigration",
    "sources": [
     {
@@ -2695,14 +3113,22 @@
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/08/28/un-polemiste-dextreme-droite-britannique-detenu-par-la-police-americaine-de-limmigration"
+    },
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/actualites/milo-yiannopoulos-a-ete-expulse-des-etats-unis-apres-son-arrestation-par-lice/"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/etats-unis/les-etats-unis-expulsent-le-polemiste-britannique-dextreme-droite-milo-yiannopoulos-747d3596-a3e2-11f1-8465-547a0964275c"
     }
    ],
-   "resume": "Milo Yiannopoulos, polémiste britannique que la presse européenne situe à l'extrême droite et qui louait publiquement l'action de la police américaine de l'immigration, a été appréhendé jeudi par cette même agence à l'aéroport Louis-Armstrong de La Nouvelle-Orléans, selon le ministère américain de la Sécurité intérieure. Entré légalement au pays le 14 mai 2019, il a dépassé sa durée de séjour autorisée et s'est vu délivrer le 22 juillet un ordre final d'expulsion faute de s'être présenté à une audience sur son statut ; il reste détenu en attendant son renvoi.",
+   "resume": "Milo Yiannopoulos, polémiste britannique que la presse européenne situe à l'extrême droite et qui louait publiquement l'action de la police américaine de l'immigration, a été appréhendé jeudi par cette même agence à l'aéroport Louis-Armstrong de La Nouvelle-Orléans, selon le ministère américain de la Sécurité intérieure. Entré légalement au pays le 14 mai 2019, il a dépassé sa durée de séjour autorisée et s'est vu délivrer le 22 juillet un ordre final d'expulsion faute de s'être présenté à une audience sur son statut ; il reste détenu en attendant son renvoi.\n\n**Mise à jour, 21 h 30** — Milo Yiannopoulos a été expulsé vendredi vers le Royaume-Uni, a annoncé samedi le département américain de la Sécurité intérieure. Un juge de l'immigration avait rendu une décision définitive d'expulsion le 22 juillet, après qu'il ne se fut pas présenté à une audience.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/26/Milo_Yiannopoulos_%40NEXTConf_2014_%2813925731458%29_%28cropped%29.jpg",
    "legende": "Milo Yiannopoulos lors d'une conférence à Berlin en 2014.",
    "photo_auteur": "NEXTConf, Berlin",
    "photo_licence": "CC BY 2.0",
-   "horodate": "2026-08-28T21:39-04:00",
+   "horodate": "2026-08-29T21:39-04:00",
    "permalien": "le-polemiste-britannique-milo-yiannopoulos-arrete-par-la-pol-625f14",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-29.json",
@@ -3187,12 +3613,12 @@
    "territoire": "Ukraine, Russie",
    "medias": "Kyiv Post, Reuters, NY Post, The Kyiv Independent, Ukrinform",
    "url": "https://www.kyivpost.com/post/83218",
-   "resume": "Un nouveau cycle de discussions entre délégations ukrainienne et russe pourrait avoir lieu dès septembre, a déclaré Kyrylo Budanov, chef du bureau présidentiel ukrainien, cité par le Kyiv Post. Les négociations sont actuellement suspendues mais pourraient bientôt être « relancées », a-t-il indiqué au média ukrainien Novyny.LIVE. Interrogé sur un possible retour des négociateurs russes et ukrainiens à la même table de discussion, M. Budanov a répondu l'espérer.\n\n« Et avec les Américains aussi. Nous ne pouvons pas nous en passer », a-t-il ajouté, soulignant le rôle jugé indispensable de Washington dans tout format de négociation crédible. Ces propos surviennent alors que les efforts de médiation menés par les États-Unis pour mettre fin à la guerre restent dans l'impasse, malgré une activité diplomatique soutenue ces dernières semaines. Le président Zelensky avait par ailleurs multiplié les démarches à Washington pour maintenir le soutien américain, notamment lors de sa visite au Capitole relayée le même jour par l'Associated Press.\n\nAucune date précise ni aucun lieu n'ont pour l'instant été avancés officiellement par l'une ou l'autre des parties pour cette éventuelle reprise des discussions. Des précédents cycles de pourparlers, engagés plus tôt dans l'année, s'étaient déjà enlisés sans déboucher sur un accord de cessez-le-feu durable.\n\n**Mise à jour, 21 h 30** — Volodymyr Zelensky a indiqué vendredi soir avoir reçu de Washington un compte rendu des rencontres tenues ces derniers jours à Moscou, et dit apprécier que les États-Unis avancent « une vision assez réaliste » de ce qu'exige la fin de la guerre. Il s'est dit reconnaissant du ton adopté envers la Russie, sans donner de détails sur la teneur des discussions.\n\n**Mise à jour, 29 août** — Moscou a de son côté douché cet optimisme : le porte-parole du Kremlin, Dmitri Peskov, a affirmé vendredi que les pourparlers de paix restaient « en pause » et qu'aucune « nouvelle idée » n'avait été avancée, en pleine impasse diplomatique alors que Washington reste concentré sur la guerre en Iran.",
+   "resume": "Un nouveau cycle de discussions entre délégations ukrainienne et russe pourrait avoir lieu dès septembre, a déclaré Kyrylo Budanov, chef du bureau présidentiel ukrainien, cité par le Kyiv Post. Les négociations sont actuellement suspendues mais pourraient bientôt être « relancées », a-t-il indiqué au média ukrainien Novyny.LIVE. Interrogé sur un possible retour des négociateurs russes et ukrainiens à la même table de discussion, M. Budanov a répondu l'espérer.\n\n« Et avec les Américains aussi. Nous ne pouvons pas nous en passer », a-t-il ajouté, soulignant le rôle jugé indispensable de Washington dans tout format de négociation crédible. Ces propos surviennent alors que les efforts de médiation menés par les États-Unis pour mettre fin à la guerre restent dans l'impasse, malgré une activité diplomatique soutenue ces dernières semaines. Le président Zelensky avait par ailleurs multiplié les démarches à Washington pour maintenir le soutien américain, notamment lors de sa visite au Capitole relayée le même jour par l'Associated Press.\n\nAucune date précise ni aucun lieu n'ont pour l'instant été avancés officiellement par l'une ou l'autre des parties pour cette éventuelle reprise des discussions. Des précédents cycles de pourparlers, engagés plus tôt dans l'année, s'étaient déjà enlisés sans déboucher sur un accord de cessez-le-feu durable.\n\n**Mise à jour, 21 h 30** — Volodymyr Zelensky a indiqué vendredi soir avoir reçu de Washington un compte rendu des rencontres tenues ces derniers jours à Moscou, et dit apprécier que les États-Unis avancent « une vision assez réaliste » de ce qu'exige la fin de la guerre. Il s'est dit reconnaissant du ton adopté envers la Russie, sans donner de détails sur la teneur des discussions.\n\n**Mise à jour, 29 août** — Moscou a de son côté douché cet optimisme : le porte-parole du Kremlin, Dmitri Peskov, a affirmé vendredi que les pourparlers de paix restaient « en pause » et qu'aucune « nouvelle idée » n'avait été avancée, en pleine impasse diplomatique alors que Washington reste concentré sur la guerre en Iran.\n\n**Mise à jour, 21 h 30** — Le porte-parole du Kremlin, Dmitri Peskov, a déclaré vendredi que les pourparlers de paix étaient « en pause profonde », en faisant valoir que les troupes russes progressaient sur le front. Moscou n'a pas modifié son exigence d'un contrôle ukrainien cédé sur l'ensemble du Donbass comme préalable à tout cessez-le-feu.",
    "photo": "",
    "photo_auteur": "",
    "photo_licence": "",
    "legende": "",
-   "horodate": "2026-08-29T08:17-04:00",
+   "horodate": "2026-08-29T21:39-04:00",
    "permalien": "kyiv-et-moscou-pourraient-reprendre-les-pourparlers-en-septe-d0c5a0",
    "sources": [
     {
@@ -3210,6 +3636,10 @@
     {
      "media": "Türkiye Today",
      "url": "https://www.turkiyetoday.com/world/russia-says-ukraine-peace-talks-remain-on-hold-no-new-ideas-3227000"
+    },
+    {
+     "media": "New York Post",
+     "url": "https://nypost.com/2026/08/29/world-news/kremlin-says-ukraine-peace-talks-on-deep-pause/"
     }
    ],
    "_volet": "report",
@@ -3249,14 +3679,14 @@
    "cahier": "international",
    "rubrique": "environnement",
    "territoire": "Népal, Chine (Tibet)",
-   "medias": "Euronews, TV5Monde (AFP), Le Devoir, Le Journal de Montréal, Franceinfo, Radio-Canada, France 24, RFI, TV5Monde, Le Parisien",
+   "medias": "Euronews, TV5Monde (AFP), Le Devoir, Le Journal de Montréal, Franceinfo, Radio-Canada, France 24, RFI, TV5Monde, Le Parisien, Le Figaro",
    "url": "https://fr.euronews.com/2026/08/27/pres-de-400-morts-1-400-disparus-apres-les-inondations-au-nepal-tibet",
-   "resume": "Le bilan des inondations et glissements de terrain qui ont dévasté des communautés le long de la frontière entre le Népal et le Tibet approche jeudi les 400 morts et 1 400 disparus, selon les autorités népalaises et chinoises citées par Euronews. Les intempéries, provoquées par une vague de crue soudaine descendue des hauteurs de l'Himalaya, ont détruit des villages entiers et coupé plusieurs axes routiers dans une région montagneuse difficile d'accès. Cette situation complique considérablement les opérations de secours et de recherche des personnes disparues.\n\nLes autorités népalaises ont mis en place une police touristique pour tenter de localiser les nombreuses personnes portées disparues, dont une part importante de voyageurs étrangers surpris par la catastrophe alors qu'ils se trouvaient en randonnée dans la région. Plusieurs ambassades étrangères, dont celle de l'Ukraine, ont ouvert des lignes d'urgence pour leurs ressortissants respectifs. Le bilan pourrait encore s'alourdir dans les prochains jours, à mesure que les équipes de secours parviennent à accéder aux zones les plus reculées et les plus durement touchées par les glissements de terrain successifs.\n\nMise à jour, vendredi — Le bilan dépasse désormais 470 morts et près de 1 400 disparus, selon les autorités népalaises et chinoises citées par l'AFP et Reuters. Les secours ont dû suspendre vendredi leurs opérations au cœur de la zone sinistrée du Tibet : un lac géant formé il y a quarante-huit heures par l'effondrement d'un glacier a commencé à déborder, et de fortes précipitations sont attendues. Pékin a averti dans la nuit d'un « risque élevé » de rupture de cette retenue d'eau, qui menace les vallées des deux côtés de la frontière.\n\n**Mise à jour, 21 h 30** — Le nombre de personnes portées disparues au Népal et en Chine a dépassé 2 400 vendredi, selon le bilan rapporté par Euronews, et les secours ont retrouvé 586 corps, dont certains emportés en aval jusqu'en Inde. L'UNICEF alerte sur 17 000 enfants en détresse. La menace de nouvelles crues persiste alors que les équipes progressent dans la boue.\n\n**Mise à jour, 29 août** — Trois jours après la crue, le bilan officiel s'élève désormais à 633 morts confirmés — 626 côté népalais et 7 en territoire chinois du Tibet —, selon des bilans encore provisoires cités par l'AFP, alors que les secours redoublent d'efforts pour localiser quelque 3 000 personnes toujours portées disparues et évacuer les rescapés bloqués à la frontière.\n\n**Mise à jour, 15 h 56** — Le bilan officiel provisoire s'établit samedi à 682 corps exhumés — 675 au Népal et 7 au Tibet — et les autorités restent sans nouvelles d'environ 3 000 personnes, dont 2 426 au Népal et 556 côté chinois. L'armée népalaise est parvenue à insérer un tuyau d'air dans un tunnel des chantiers hydroélectriques Trishuli 3A et 3B, où plus de cent ouvriers pourraient être encore vivants, a indiqué le ministre de l'Intérieur Sudan Gurung. La Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge estime à 93 000 le nombre de sinistrés, et le ministre népalais des Affaires étrangères Shisir Khanal chiffre à plusieurs milliards de dollars le coût de la reconstruction. Le responsable de l'ONU Climat Simon Stiell et le gouvernement népalais ont attribué la catastrophe au réchauffement, que des experts relient à l'effondrement d'un glacier en amont.",
+   "resume": "Le bilan des inondations et glissements de terrain qui ont dévasté des communautés le long de la frontière entre le Népal et le Tibet approche jeudi les 400 morts et 1 400 disparus, selon les autorités népalaises et chinoises citées par Euronews. Les intempéries, provoquées par une vague de crue soudaine descendue des hauteurs de l'Himalaya, ont détruit des villages entiers et coupé plusieurs axes routiers dans une région montagneuse difficile d'accès. Cette situation complique considérablement les opérations de secours et de recherche des personnes disparues.\n\nLes autorités népalaises ont mis en place une police touristique pour tenter de localiser les nombreuses personnes portées disparues, dont une part importante de voyageurs étrangers surpris par la catastrophe alors qu'ils se trouvaient en randonnée dans la région. Plusieurs ambassades étrangères, dont celle de l'Ukraine, ont ouvert des lignes d'urgence pour leurs ressortissants respectifs. Le bilan pourrait encore s'alourdir dans les prochains jours, à mesure que les équipes de secours parviennent à accéder aux zones les plus reculées et les plus durement touchées par les glissements de terrain successifs.\n\nMise à jour, vendredi — Le bilan dépasse désormais 470 morts et près de 1 400 disparus, selon les autorités népalaises et chinoises citées par l'AFP et Reuters. Les secours ont dû suspendre vendredi leurs opérations au cœur de la zone sinistrée du Tibet : un lac géant formé il y a quarante-huit heures par l'effondrement d'un glacier a commencé à déborder, et de fortes précipitations sont attendues. Pékin a averti dans la nuit d'un « risque élevé » de rupture de cette retenue d'eau, qui menace les vallées des deux côtés de la frontière.\n\n**Mise à jour, 21 h 30** — Le nombre de personnes portées disparues au Népal et en Chine a dépassé 2 400 vendredi, selon le bilan rapporté par Euronews, et les secours ont retrouvé 586 corps, dont certains emportés en aval jusqu'en Inde. L'UNICEF alerte sur 17 000 enfants en détresse. La menace de nouvelles crues persiste alors que les équipes progressent dans la boue.\n\n**Mise à jour, 29 août** — Trois jours après la crue, le bilan officiel s'élève désormais à 633 morts confirmés — 626 côté népalais et 7 en territoire chinois du Tibet —, selon des bilans encore provisoires cités par l'AFP, alors que les secours redoublent d'efforts pour localiser quelque 3 000 personnes toujours portées disparues et évacuer les rescapés bloqués à la frontière.\n\n**Mise à jour, 15 h 56** — Le bilan officiel provisoire s'établit samedi à 682 corps exhumés — 675 au Népal et 7 au Tibet — et les autorités restent sans nouvelles d'environ 3 000 personnes, dont 2 426 au Népal et 556 côté chinois. L'armée népalaise est parvenue à insérer un tuyau d'air dans un tunnel des chantiers hydroélectriques Trishuli 3A et 3B, où plus de cent ouvriers pourraient être encore vivants, a indiqué le ministre de l'Intérieur Sudan Gurung. La Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge estime à 93 000 le nombre de sinistrés, et le ministre népalais des Affaires étrangères Shisir Khanal chiffre à plusieurs milliards de dollars le coût de la reconstruction. Le responsable de l'ONU Climat Simon Stiell et le gouvernement népalais ont attribué la catastrophe au réchauffement, que des experts relient à l'effondrement d'un glacier en amont.\n\n**Mise à jour, 21 h 30** — Le bilan provisoire s'établissait samedi à 682 morts et les secours cherchaient encore quelque 3 000 disparus entre le Népal et la province chinoise du Tibet, trois jours après la crue, une épaisse couche de boue ayant recouvert des villages entiers. Les États-Unis ont porté leur aide humanitaire de 500 000 à plus de 3,6 millions de dollars, dont une aide alimentaire couvrant jusqu'à trois mois de besoins pour près de 10 000 ménages, selon le département d'État.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kali_Gandaki_Valley%2C_Mustang%2C_Nepal%2C_Himalaya.jpg/1280px-Kali_Gandaki_Valley%2C_Mustang%2C_Nepal%2C_Himalaya.jpg",
    "photo_auteur": "Vyacheslav Argenberg",
    "photo_licence": "CC BY 4.0",
    "legende": "Une vallée de l'Himalaya, au Népal.",
-   "horodate": "2026-08-29T15:56-04:00",
+   "horodate": "2026-08-29T21:39-04:00",
    "permalien": "inondations-au-nepal-et-au-tibet-le-bilan-approche-400-morts-853d6e",
    "sources": [
     {
@@ -3278,6 +3708,14 @@
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.tvanouvelles.ca/2026/08/29/crue-dans-lhimalaya-plus-de-600-morts-les-secours-a-la-recherche-de-milliers-de-disparus"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/asie-pacifique/20260829-crue-n%C3%A9pal-tibet-pr%C3%A8s-3-000-disparus-recherche-survivants-poursuit-chine-himalaya-morts-catastophe-naturelle"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/crue-dans-l-himalaya-les-etats-unis-debloquent-une-aide-supplementaire-pour-le-nepal-20260830"
     }
    ],
    "_volet": "report",
@@ -3289,14 +3727,14 @@
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Ontario",
-   "medias": "Québecor, Le Devoir, La Presse, APTN News, Global News, CBC, The Globe and Mail, Le Journal de Montréal, Radio-Canada, National Post, Canada's National Observer, Coops de l'information, France 24, Les Echos, BFMTV, Le Temps",
+   "medias": "Québecor, Le Devoir, La Presse, APTN News, Global News, CBC, The Globe and Mail, Le Journal de Montréal, Radio-Canada, National Post, Canada's National Observer, Coops de l'information, France 24, Les Echos, BFMTV, Le Temps, Acadie Nouvelle",
    "url": "https://www.journaldemontreal.com/2026/08/27/lac-amerique-donald-trump-signe-un-decret-pour-changer-le-nom-du-lac-ontario",
-   "resume": "Le président américain Donald Trump a signé jeudi un décret rebaptisant le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, une décision unilatérale qui n'a aucune portée légale au Canada. Le geste s'inscrit dans la continuité de la décision, prise plus tôt dans son second mandat, de renommer le golfe du Mexique « golfe d'Amérique » sur les cartes officielles américaines — une pratique que plusieurs observateurs interprètent comme un geste symbolique destiné à marquer le territoire politique plutôt qu'à produire un effet juridique réel. Le premier ministre canadien Mark Carney a réagi avec un mélange d'ironie et de fermeté, affirmant que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario pour les Canadiens, peu importe ce que Washington choisit d'inscrire sur ses propres cartes. Sa réponse, brève, tranchait avec le ton plus offusqué qu'avaient adopté certains élus lors de précédentes sorties américaines visant la souveraineté canadienne.\n\nLe geste survient alors que les relations commerciales entre les deux pays restent tendues, et plusieurs élus et commentateurs canadiens y ont vu une provocation gratuite plutôt qu'un enjeu appelant une réponse diplomatique formelle. Des médias de langue anglaise et française, du National Post à La Presse en passant par Radio-Canada et Le Devoir, ont largement repris la nouvelle, la plupart soulignant que la portion canadienne du lac — et donc son nom officiel du côté canadien — n'est aucunement touchée par un décret américain. Le lac Ontario, l'un des cinq Grands Lacs, forme une frontière naturelle entre la province de l'Ontario et l'État de New York et demeure une voie navigable et une source d'eau potable partagée par des millions de personnes des deux côtés de la frontière.\n\nSa gestion binationale continue de relever des ententes existantes entre le Canada et les États-Unis, que ce geste symbolique de la Maison-Blanche ne modifie en rien. Le média autochtone APTN News et le site Canada's National Observer comptaient eux aussi parmi les publications ayant repris l'affaire, aux côtés de Global News, illustrant l'ampleur de la couverture accordée à un geste pourtant dénué de conséquence juridique immédiate. La sortie de M. Trump est survenue le jour même où le Québec amorçait sa propre campagne électorale, dominée en bonne partie par la question des relations avec Washington, ce qui a amplifié la résonance politique de l'épisode des deux côtés de la frontière linguistique canadienne.\n\n**Mise à jour, 21 h 30** — Le grand chef de la Nation huronne-wendat s'est dit « indigné, outré, choqué » par le décret. Les élus du Conseil de la Nation wendat s'étaient mobilisés dès mardi contre toute tentative de changer le nom du lac, en écrivant à une série d'acteurs canadiens, américains et autochtones influents, dont Mark Carney. Le premier ministre canadien a lui-même invoqué cette origine dans sa publication : le nom vient du mot wendat « Ontari'io », qui signifie que le lac est beau et qu'il est grand, et il précède de plus de quatre siècles tant la Confédération canadienne que la déclaration d'indépendance américaine. Pour les Canadiens, a-t-il écrit, ce sera le lac Ontario « alors, maintenant et toujours ».\n\n**Mise à jour, 15 h 56** — Le premier ministre ontarien Doug Ford a dévoilé samedi à Winona, en bordure de Hamilton, une affiche géante portant la mention « Lake Ontario Now and Always », deux jours après le décret présidentiel. Le lac restera le lac Ontario « maintenant et pour toujours », a-t-il déclaré, ajoutant que plusieurs gouverneurs américains l'ont appelé pour dire qu'ils continueraient d'employer ce nom. Le geste survient alors que les négociations commerciales entre Ottawa et Washington ont échoué le 21 août et que les mesures de rétorsion canadiennes doivent entrer en vigueur le 8 septembre.",
+   "resume": "Le président américain Donald Trump a signé jeudi un décret rebaptisant le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, une décision unilatérale qui n'a aucune portée légale au Canada. Le geste s'inscrit dans la continuité de la décision, prise plus tôt dans son second mandat, de renommer le golfe du Mexique « golfe d'Amérique » sur les cartes officielles américaines — une pratique que plusieurs observateurs interprètent comme un geste symbolique destiné à marquer le territoire politique plutôt qu'à produire un effet juridique réel. Le premier ministre canadien Mark Carney a réagi avec un mélange d'ironie et de fermeté, affirmant que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario pour les Canadiens, peu importe ce que Washington choisit d'inscrire sur ses propres cartes. Sa réponse, brève, tranchait avec le ton plus offusqué qu'avaient adopté certains élus lors de précédentes sorties américaines visant la souveraineté canadienne.\n\nLe geste survient alors que les relations commerciales entre les deux pays restent tendues, et plusieurs élus et commentateurs canadiens y ont vu une provocation gratuite plutôt qu'un enjeu appelant une réponse diplomatique formelle. Des médias de langue anglaise et française, du National Post à La Presse en passant par Radio-Canada et Le Devoir, ont largement repris la nouvelle, la plupart soulignant que la portion canadienne du lac — et donc son nom officiel du côté canadien — n'est aucunement touchée par un décret américain. Le lac Ontario, l'un des cinq Grands Lacs, forme une frontière naturelle entre la province de l'Ontario et l'État de New York et demeure une voie navigable et une source d'eau potable partagée par des millions de personnes des deux côtés de la frontière.\n\nSa gestion binationale continue de relever des ententes existantes entre le Canada et les États-Unis, que ce geste symbolique de la Maison-Blanche ne modifie en rien. Le média autochtone APTN News et le site Canada's National Observer comptaient eux aussi parmi les publications ayant repris l'affaire, aux côtés de Global News, illustrant l'ampleur de la couverture accordée à un geste pourtant dénué de conséquence juridique immédiate. La sortie de M. Trump est survenue le jour même où le Québec amorçait sa propre campagne électorale, dominée en bonne partie par la question des relations avec Washington, ce qui a amplifié la résonance politique de l'épisode des deux côtés de la frontière linguistique canadienne.\n\n**Mise à jour, 21 h 30** — Le grand chef de la Nation huronne-wendat s'est dit « indigné, outré, choqué » par le décret. Les élus du Conseil de la Nation wendat s'étaient mobilisés dès mardi contre toute tentative de changer le nom du lac, en écrivant à une série d'acteurs canadiens, américains et autochtones influents, dont Mark Carney. Le premier ministre canadien a lui-même invoqué cette origine dans sa publication : le nom vient du mot wendat « Ontari'io », qui signifie que le lac est beau et qu'il est grand, et il précède de plus de quatre siècles tant la Confédération canadienne que la déclaration d'indépendance américaine. Pour les Canadiens, a-t-il écrit, ce sera le lac Ontario « alors, maintenant et toujours ».\n\n**Mise à jour, 15 h 56** — Le premier ministre ontarien Doug Ford a dévoilé samedi à Winona, en bordure de Hamilton, une affiche géante portant la mention « Lake Ontario Now and Always », deux jours après le décret présidentiel. Le lac restera le lac Ontario « maintenant et pour toujours », a-t-il déclaré, ajoutant que plusieurs gouverneurs américains l'ont appelé pour dire qu'ils continueraient d'employer ce nom. Le geste survient alors que les négociations commerciales entre Ottawa et Washington ont échoué le 21 août et que les mesures de rétorsion canadiennes doivent entrer en vigueur le 8 septembre.\n\n**Mise à jour, 21 h 30** — Doug Ford a dévoilé samedi, dans un parc riverain de Hamilton, un grand panneau bleu portant le nom du lac Ontario surmonté de la mention « Aujourd'hui et pour toujours », en français et en anglais. Le premier ministre ontarien, vêtu d'un maillot rouge de Soccer Canada, a lui-même retiré la bâche qui recouvrait l'écriteau.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lake_Ontario_Shoreline.jpg",
    "legende": "Le littoral du lac Ontario.",
    "photo_auteur": "SAF1999",
    "photo_licence": "CC0",
-   "horodate": "2026-08-29T15:56-04:00",
+   "horodate": "2026-08-29T21:39-04:00",
    "permalien": "trump-rebaptise-le-lac-ontario-lac-d-amerique-carney-hausse-09b1fe",
    "sources": [
     {
@@ -3330,6 +3768,18 @@
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.tvanouvelles.ca/2026/08/29/aujourdhui-et-pour-toujours-doug-ford-appose-une-affiche-geante-sur-les-rives-du-lac-ontario"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/canada/1005077/doug-ford-devoile-panneau-lac-ontario-riposte-donald-trump"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/national/2026-08-29/doug-ford-devoile-un-panneau-au-lac-ontario-en-riposte-a-donald-trump.php"
+    },
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/actualites/2026/08/29/doug-ford-devoile-un-panneau-au-lac-ontario-en-riposte-a-donald-trump/"
     }
    ],
    "_volet": "report",
@@ -3343,12 +3793,12 @@
    "territoire": "Népal, Tibet",
    "medias": "Québecor, Le Canada Français, Le Devoir, Radio-Canada, La Presse, CBC",
    "url": "https://www.tvanouvelles.ca/2026/08/26/coulee-de-boue-au-tibet--558-personnes-disparues-selon-un-nouveau-bilan",
-   "resume": "Les équipes de secours ont extrait jeudi les corps d'au moins 362 victimes de l'immense coulée de boue qui a dévasté la veille la région frontalière entre le Népal et le Tibet, tout en poursuivant les recherches pour retrouver plus de 1400 personnes toujours portées disparues. Parmi elles se trouveraient une trentaine de Canadiens, selon un bilan communiqué par les autorités et repris par Québecor. L'ambassadeur du Népal au Canada, Bharat Raj Paudyal, a expliqué ne pas être en mesure de fournir de détails sur l'identité des personnes recherchées, mais a rappelé que la région touchée est prisée des randonneurs et sert aussi de route fréquentée par les pèlerins, ce qui pourrait expliquer la présence de nombreux étrangers au moment de la catastrophe.\n\nÀ Toronto, la communauté népalaise du Canada tente de joindre des proches sur place pendant que des organismes locaux s'organisent pour envoyer de l'aide, rapporte Radio-Canada. Khagendra Kandel, membre du conseil d'administration de Nepalese Canadian Community Services, a décrit une communauté sous le choc, mobilisée pour soutenir les familles en attente de nouvelles. Le Devoir et La Presse ont tous deux repris le bilan des victimes au fil de la journée, chacun soulignant l'ampleur inhabituelle de la catastrophe pour la région himalayenne. Aucune aide gouvernementale canadienne n'avait été annoncée formellement au moment de la publication, même si Affaires mondiales Canada avait indiqué suivre la situation de près pour les ressortissants canadiens dans la zone touchée. Le bilan communiqué jeudi représente déjà l'un des plus lourds enregistrés dans la région himalayenne depuis plusieurs années, et les autorités népalaises ont prévenu que le nombre de victimes confirmées pourrait encore grimper à mesure que les équipes de secours progressent dans les zones les plus difficiles d'accès. La coordination entre les autorités népalaises, chinoises et canadiennes sur le terrain n'avait pas encore fait l'objet d'un point de presse conjoint au moment de la publication des quatre reportages.\n\n**Mise à jour, 21 h 30** — Dix résidents de Toronto figurent parmi les personnes portées disparues, a confirmé jeudi sur les ondes de CBC News Network Leslie Crespi, responsable des relations communautaires en Amérique du Nord pour la Fondation Isha, un organisme spirituel sans but lucratif établi aux États-Unis. Ces dix personnes font partie des 80 membres de l'organisation dont on est toujours sans nouvelles. Les organisateurs du voyage et les familles n'ont eu aucun contact avec le groupe depuis mercredi matin.\n\n**Mise à jour, 15 h 30** — Aucun Canadien ne figure parmi les 121 ressortissants étrangers secourus près de la frontière entre le Népal et la Chine, où la crue soudaine a frappé mercredi. Au moins 32 Canadiens manquaient toujours à l'appel vendredi.\n\n**Mise à jour, 21 h 30** — La ministre des Affaires étrangères, Anita Anand, a chiffré vendredi à 32 le nombre de citoyens canadiens et de résidents permanents toujours portés disparus, en appelant les Canadiens de la région à suivre les consignes des autorités locales. Aucun Canadien ne figure parmi les 121 ressortissants étrangers retrouvés jusqu'ici.\n\n**Mise à jour, 15 h 56** — La ministre des Affaires étrangères Anita Anand indique que 32 Canadiens et résidents permanents sont portés disparus dans la région, et aucun Canadien ne figure parmi les 121 ressortissants étrangers que l'Office du tourisme népalais disait vendredi avoir secourus. Ottawa annonce 5 millions de dollars d'aide humanitaire d'urgence, versés à des organisations comme la Croix-Rouge. Dhaval et Megha Shah, de Port Moody en Colombie-Britannique, figurent parmi les disparus : leur famille, jointe à Mumbai, dit être sans nouvelles depuis mardi et réclame que le gouvernement canadien fasse pression sur Katmandou pour obtenir des réponses.",
+   "resume": "Les équipes de secours ont extrait jeudi les corps d'au moins 362 victimes de l'immense coulée de boue qui a dévasté la veille la région frontalière entre le Népal et le Tibet, tout en poursuivant les recherches pour retrouver plus de 1400 personnes toujours portées disparues. Parmi elles se trouveraient une trentaine de Canadiens, selon un bilan communiqué par les autorités et repris par Québecor. L'ambassadeur du Népal au Canada, Bharat Raj Paudyal, a expliqué ne pas être en mesure de fournir de détails sur l'identité des personnes recherchées, mais a rappelé que la région touchée est prisée des randonneurs et sert aussi de route fréquentée par les pèlerins, ce qui pourrait expliquer la présence de nombreux étrangers au moment de la catastrophe.\n\nÀ Toronto, la communauté népalaise du Canada tente de joindre des proches sur place pendant que des organismes locaux s'organisent pour envoyer de l'aide, rapporte Radio-Canada. Khagendra Kandel, membre du conseil d'administration de Nepalese Canadian Community Services, a décrit une communauté sous le choc, mobilisée pour soutenir les familles en attente de nouvelles. Le Devoir et La Presse ont tous deux repris le bilan des victimes au fil de la journée, chacun soulignant l'ampleur inhabituelle de la catastrophe pour la région himalayenne. Aucune aide gouvernementale canadienne n'avait été annoncée formellement au moment de la publication, même si Affaires mondiales Canada avait indiqué suivre la situation de près pour les ressortissants canadiens dans la zone touchée. Le bilan communiqué jeudi représente déjà l'un des plus lourds enregistrés dans la région himalayenne depuis plusieurs années, et les autorités népalaises ont prévenu que le nombre de victimes confirmées pourrait encore grimper à mesure que les équipes de secours progressent dans les zones les plus difficiles d'accès. La coordination entre les autorités népalaises, chinoises et canadiennes sur le terrain n'avait pas encore fait l'objet d'un point de presse conjoint au moment de la publication des quatre reportages.\n\n**Mise à jour, 21 h 30** — Dix résidents de Toronto figurent parmi les personnes portées disparues, a confirmé jeudi sur les ondes de CBC News Network Leslie Crespi, responsable des relations communautaires en Amérique du Nord pour la Fondation Isha, un organisme spirituel sans but lucratif établi aux États-Unis. Ces dix personnes font partie des 80 membres de l'organisation dont on est toujours sans nouvelles. Les organisateurs du voyage et les familles n'ont eu aucun contact avec le groupe depuis mercredi matin.\n\n**Mise à jour, 15 h 30** — Aucun Canadien ne figure parmi les 121 ressortissants étrangers secourus près de la frontière entre le Népal et la Chine, où la crue soudaine a frappé mercredi. Au moins 32 Canadiens manquaient toujours à l'appel vendredi.\n\n**Mise à jour, 21 h 30** — La ministre des Affaires étrangères, Anita Anand, a chiffré vendredi à 32 le nombre de citoyens canadiens et de résidents permanents toujours portés disparus, en appelant les Canadiens de la région à suivre les consignes des autorités locales. Aucun Canadien ne figure parmi les 121 ressortissants étrangers retrouvés jusqu'ici.\n\n**Mise à jour, 15 h 56** — La ministre des Affaires étrangères Anita Anand indique que 32 Canadiens et résidents permanents sont portés disparus dans la région, et aucun Canadien ne figure parmi les 121 ressortissants étrangers que l'Office du tourisme népalais disait vendredi avoir secourus. Ottawa annonce 5 millions de dollars d'aide humanitaire d'urgence, versés à des organisations comme la Croix-Rouge. Dhaval et Megha Shah, de Port Moody en Colombie-Britannique, figurent parmi les disparus : leur famille, jointe à Mumbai, dit être sans nouvelles depuis mardi et réclame que le gouvernement canadien fasse pression sur Katmandou pour obtenir des réponses.\n\n**Mise à jour, 21 h 30** — Trente-deux citoyens et résidents permanents canadiens figurent parmi les personnes portées disparues depuis la crue du 26 août, dont deux couples de la région métropolitaine de Vancouver : Dhaval et Megha Shah, de Port Moody, et Sumit et Shubakshi Rawla, de Coquitlam. Leurs proches disent n'avoir toujours aucune information sur leur sort.",
    "photo": "",
    "legende": "",
    "photo_auteur": "",
    "photo_licence": "",
-   "horodate": "2026-08-29T15:56-04:00",
+   "horodate": "2026-08-29T21:39-04:00",
    "permalien": "une-crue-devastatrice-au-nepal-laisse-une-trentaine-de-canad-6e1cab",
    "sources": [
     {
@@ -3366,6 +3816,10 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/monde/asie/1005026/pres-700-morts-apres-crue-himalaya-milliers-disparus"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/british-columbia/nepal-flood-missing-metro-vancouver-couples-9.7325518"
     }
    ],
    "_volet": "report",
