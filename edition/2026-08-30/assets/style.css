@@ -233,6 +233,8 @@ details.index .liste{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.9rem}
 details.index .liste a{font-family:var(--ui);font-size:.75rem;text-decoration:none;
  border:1px solid var(--rule);border-radius:0;padding:.25rem .6rem;color:var(--fg)}
 details.index .liste a:hover{border-color:var(--accent-txt);color:var(--accent-txt)}
+details.index .liste a{display:inline-flex;align-items:center;gap:.35rem}
+.ix-ico{width:.9rem;height:.9rem;border-radius:.2rem;object-fit:contain;background:#fff}
 details.index .liste .n{color:var(--muted);font-size:.7rem}
 
 /* ----------------------------------------------------------- page sources */
@@ -290,6 +292,12 @@ figcaption{font-family:var(--ui);font-size:.72rem;color:var(--muted);
 .src-btn:hover{border-color:var(--accent-txt);background:var(--accent);
  transform:translateY(-2px);box-shadow:0 6px 16px var(--ombre)}
 .src-btn:hover .src-nom,.src-btn:hover .src-action{color:var(--accent-fg)}
+.src-id{display:flex;align-items:center;gap:.75rem;min-width:0}
+.src-logo{width:2.1rem;height:2.1rem;border-radius:.4rem;background:#fff;
+ object-fit:contain;flex:0 0 auto;box-shadow:0 0 0 1px var(--rule);
+ padding:.15rem;box-sizing:border-box}
+.src-id.sans::before{content:"";width:2.1rem;height:2.1rem;flex:0 0 auto;
+ border-radius:.4rem;background:var(--accent)}
 .src-nom{font-weight:700;font-size:.95rem}
 .src-action{font-size:.78rem;color:var(--accent-txt);font-weight:600;
  white-space:nowrap;font-family:var(--ui)}
