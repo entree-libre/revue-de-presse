@@ -6,6 +6,19 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-08-29/a/frechette-ouvre-son-local-electoral-dans-trois-rivieres-la-c-83a415.html",
+   "url": "https://entreelibre.ca/edition/2026-08-29/a/frechette-ouvre-son-local-electoral-dans-trois-rivieres-la-c-83a415.html",
+   "title": "Fréchette ouvre son local électoral dans Trois-Rivières, la circonscription où elle se présente",
+   "content_text": "La première ministre sortante Christine Fréchette a inauguré samedi soir son local électoral de Trois-Rivières, la circonscription où elle se présente pour la Coalition avenir Québec, devant une salle réunissant plusieurs figures du parti et de la scène politique régionale. Arrivée avec une quinzaine de minutes de retard, elle a d’emblée mis son équipe de l’avant — « C’est pas compliqué, j’ai la meilleure équipe! » —, son camp voulant placer la campagne sous le signe du renouveau.",
+   "date_modified": "2026-08-29T23:20:00-04:00",
+   "tags": [
+    "Trois-Rivières",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Christine_Fr%C3%A9chette_%28cropped%29.jpg"
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-08-29/a/tadej-pogacar-abandonne-le-tour-d-espagne-apres-une-lourde-c-5d854c.html",
    "url": "https://entreelibre.ca/edition/2026-08-29/a/tadej-pogacar-abandonne-le-tour-d-espagne-apres-une-lourde-c-5d854c.html",
    "title": "Tadej Pogacar abandonne le Tour d'Espagne après une lourde chute, sa venue à Montréal compromise",
@@ -972,19 +985,6 @@
     "Espace et astronomie"
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SpaceX_Starbase_launch_facility_%2851438071556%29.jpg/1280px-SpaceX_Starbase_launch_facility_%2851438071556%29.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-08-29/a/il-y-a-20-ans-pluton-perdait-son-statut-de-planete-02e3de.html",
-   "url": "https://entreelibre.ca/edition/2026-08-29/a/il-y-a-20-ans-pluton-perdait-son-statut-de-planete-02e3de.html",
-   "title": "Il y a 20 ans, Pluton perdait son statut de planète",
-   "content_text": "Vingt ans après le vote de l'Union astronomique internationale qui a retiré à Pluton son statut de planète, en 2006, la question de sa classification continue d'alimenter le débat entre astronomes. Pluton avait été rétrogradée au rang de « planète naine » parce qu'elle ne remplit pas l'un des trois critères désormais exigés pour qu'un corps céleste soit qualifié de planète : avoir nettoyé le voisinage de son orbite des autres objets.",
-   "date_modified": "2026-08-29T07:51:00-04:00",
-   "tags": [
-    "International",
-    "Savoirs",
-    "Espace et astronomie"
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/1280px-Pluto_in_True_Color_-_High-Res.jpg"
   }
  ]
 }
