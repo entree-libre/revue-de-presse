@@ -707,12 +707,16 @@
    "rubrique": "economie",
    "territoire": "Québec",
    "medias": "La Presse, Le Devoir, Coops de l'information, Québecor, Radio-Canada",
-   "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/caq/des-promesses-de-9-7-milliards-un-trou-de-6-milliards.php",
+   "url": "https://coalitionavenirquebec.org/fr/blog/2026/08/30/lequipe-christine-frechette-presente-un-cadre-financier-responsable-pour-faire-avancer-le-quebec/",
    "resume": "La Coalition avenir Québec chiffre à 9,7 milliards de dollars, service de la dette compris, l'ensemble des promesses que Christine Fréchette entend annoncer d'ici le 5 octobre — dont huit milliards ne sont pas encore dévoilés — et son cadre financier de quatre pages, présenté à Trois-Rivières au jour 4 de la campagne, maintient un retour à l'équilibre budgétaire en 2029-2030 après des déficits de 7,7 milliards cette année, de 5,7 milliards en 2027-2028 et de 1,5 milliard en 2028-2029. Pour y arriver, le document laisse un « écart à résorber » de près de six milliards dont le parti ne dit pas comment il le comblera, sa seule mesure d'économies annoncée — des compressions dans les contrats de services professionnels — devant rapporter 308 millions en cinq ans, alors que le plan mise aussi sur 4,3 milliards de transferts fédéraux supplémentaires dont près de la moitié n'est pas garantie.\n\n**Mise à jour, 13 h** — Christine Fréchette précise qu'« il n'y aura aucun allégement pour les particuliers avant le retour à l'équilibre budgétaire », jugeant le contexte financier trop serré pour promettre une baisse d'impôt. Elle dit avoir dévoilé son cadre financier dès le jour 4 pour cette raison et s'engage plutôt à s'attaquer au coût de la vie « de manière diversifiée », en compagnie du ministre des Finances sortant Eric Girard.\n\n**Mise à jour, 14 h** — Le cadre financier prévoit une croissance moyenne des dépenses de 2,4 % sur cinq ans, mais d'environ 1 % en 2028-2029 et en 2029-2030 ; Christine Fréchette assure qu'« on n'entrera pas en période d'austérité parce qu'on ne compte pas réduire les services aux citoyens », tout en convenant d'un contexte financier serré. Le plan puise cinq milliards dans les provisions pour éventualités et compte sur 495 millions de plus des sociétés d'État, et la cheffe caquiste met au défi le Parti québécois de chiffrer le coût d'un référendum et la première année d'un Québec souverain, et le Parti conservateur d'expliquer comment il couperait 47 milliards sans toucher aux services.",
    "photo": "",
    "legende": "",
    "horodate": "2026-08-30T14:43-04:00",
    "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/08/30/lequipe-christine-frechette-presente-un-cadre-financier-responsable-pour-faire-avancer-le-quebec/"
+    },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/caq/des-promesses-de-9-7-milliards-un-trou-de-6-milliards.php"
@@ -787,12 +791,16 @@
    "rubrique": "societe",
    "territoire": "Québec",
    "medias": "La Presse, Coops de l'information",
-   "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/logements-pour-aines/charles-milliard-promet-de-plafonner-les-hausses-de-loyer-dans-les-rpa.php",
+   "url": "https://plq.org/rpa-le-plq-veut-renverser-le-fardeau-pour-mieux-proteger-les-aines-contre-les-hausses-des-couts/",
    "resume": "Le chef du Parti libéral du Québec, Charles Milliard, s'engage à fixer chaque année un plafond aux hausses de loyer dans les résidences privées pour aînés et à obliger les exploitants qui voudraient le dépasser à s'adresser au Tribunal administratif du logement, invoquant un loyer mensuel moyen passé de 2253 $ en 2022 à 2655 $ cette année, soit 18 % de plus. Il promet aussi d'interdire aux résidences de réduire les soins et les services d'accompagnement pour absorber ce plafond, mais ne dit pas qui en fixerait le niveau ni selon quelle méthode, évoquant seulement une discussion à venir avec les propriétaires, les locataires aînés et le tribunal.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Charles_Milliard_Ao%C3%BBt_2024.jpg/1280px-Charles_Milliard_Ao%C3%BBt_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "legende": "Charles Milliard, chef du Parti libéral du Québec.",
    "horodate": "2026-08-30T11:25-04:00",
    "sources": [
+    {
+     "media": "Parti libéral du Québec",
+     "url": "https://plq.org/rpa-le-plq-veut-renverser-le-fardeau-pour-mieux-proteger-les-aines-contre-les-hausses-des-couts/"
+    },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/logements-pour-aines/charles-milliard-promet-de-plafonner-les-hausses-de-loyer-dans-les-rpa.php"
@@ -1057,9 +1065,13 @@
    "rubrique": "societe",
    "territoire": "Québec",
    "medias": "Le Devoir",
-   "url": "https://www.ledevoir.com/politique/quebec/1005128/christine-frechette-promet-renforcer-aide-femmes-victimes-violence",
+   "url": "https://coalitionavenirquebec.org/fr/blog/2026/08/30/lequipe-christine-frechette-renforcera-les-services-offerts-aux-femmes-dans-toutes-les-regions-du-quebec/",
    "resume": "La cheffe de la Coalition avenir Québec, Christine Fréchette, promet de soutenir l'aménagement de huit maisons d'hébergement de première étape — celles où le séjour va de un à six mois — et d'ajouter l'équivalent d'une ressource dans chacune des maisons d'aide et d'hébergement existantes, deux engagements que son parti chiffre à 53,4 millions de dollars. Le réseau « ne dispose pas d'une capacité suffisante pour répondre à l'ensemble des demandes », convient son équipe, alors que 14 féminicides ont été recensés au Québec depuis le début de l'année.",
    "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/08/30/lequipe-christine-frechette-renforcera-les-services-offerts-aux-femmes-dans-toutes-les-regions-du-quebec/"
+    },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1005128/christine-frechette-promet-renforcer-aide-femmes-victimes-violence"
@@ -1074,6 +1086,84 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-08-30.json",
    "_slug": "violence-conjugale-la-caq-promet-huit-maisons-d-hebergement-236d66"
+  },
+  {
+   "titre": "Élections Québec a accepté 178 candidatures, dans 101 circonscriptions sur 125",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "",
+   "url": "https://www.electionsquebec.qc.ca/voter/candidatures/",
+   "resume": "Le directeur général des élections avait accepté 178 candidatures au 30 août à 16 h 54, réparties dans 101 des 125 circonscriptions entre onze partis et quatre candidatures indépendantes : le Parti québécois en compte 58, la Coalition avenir Québec 29, Québec solidaire 23, le Parti conservateur du Québec 22 et le Parti libéral du Québec 11. La liste ne se fige que le 17 septembre à 14 h et une candidature n'y paraît qu'une fois acceptée : l'écart entre les partis mesure le rythme des dépôts à ce jour, pas la taille finale des équipes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T17:55-04:00",
+   "sources": [
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/voter/candidatures/"
+    },
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/partis-et-autres-entites-politiques/partis-politiques/"
+    }
+   ],
+   "permalien": "elections-quebec-a-accepte-178-candidatures-dans-101-circons-a3e957",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-30.json",
+   "_slug": "elections-quebec-a-accepte-178-candidatures-dans-101-circons-a3e957"
+  },
+  {
+   "titre": "Vingt partis autorisés au Québec, neuf n'ont encore aucun candidat",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "",
+   "url": "https://www.electionsquebec.qc.ca/partis-et-autres-entites-politiques/partis-politiques/",
+   "resume": "Vingt partis politiques provinciaux sont autorisés par le directeur général des élections, mais neuf d'entre eux — dont le Bloc pot, le Parti nul, le Parti culinaire du Québec et le Parti marxiste-léniniste du Québec — ne présentent encore aucun candidat, et Climat Québec n'en a qu'un, sa cheffe Martine Ouellet. Le dernier venu, le Parti populaire du Québec, a obtenu son autorisation le 9 janvier 2026 et n'a lui non plus fait accepter aucune candidature à ce jour.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T17:55-04:00",
+   "sources": [
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/partis-et-autres-entites-politiques/partis-politiques/"
+    },
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/voter/candidatures/"
+    }
+   ],
+   "permalien": "vingt-partis-autorises-au-quebec-neuf-n-ont-encore-aucun-can-2ee0ae",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-30.json",
+   "_slug": "vingt-partis-autorises-au-quebec-neuf-n-ont-encore-aucun-can-2ee0ae"
+  },
+  {
+   "titre": "Le PCQ chiffre à 11 166 $ par ménage sur cinq ans ses baisses d'impôt",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://conservateur.quebec/blog/ressources/recompenser-le-travail-avec-des-baisses-dimpots-historiques-11-166-par-menage-moyen/",
+   "resume": "Le Parti conservateur du Québec évalue à 11 166 $ par ménage moyen sur cinq ans l'effet cumulé des baisses d'impôt qu'il propose, dont 8 726 $ tiendraient à un seul geste : porter le montant personnel de base de 18 952 $ à 35 242 $, de sorte qu'aucun revenu inférieur à ce seuil ne serait imposé au Québec. Le parti chiffre à 30 milliards sur cinq ans le coût de cette baisse de l'impôt des particuliers et dit la financer par 47 milliards d'économies dans l'appareil gouvernemental, trois des quatre mesures fiscales annoncées restant à détailler.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T17:55-04:00",
+   "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/recompenser-le-travail-avec-des-baisses-dimpots-historiques-11-166-par-menage-moyen/"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278453/conservateurs-baisse-impots-elections-quebec"
+    }
+   ],
+   "permalien": "le-pcq-chiffre-a-11-166-par-menage-sur-cinq-ans-ses-baisses-7bef73",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-30.json",
+   "_slug": "le-pcq-chiffre-a-11-166-par-menage-sur-cinq-ans-ses-baisses-7bef73"
   },
   {
    "titre": "Un suspect brise la vitrine d'un restaurant de Saint-Michel pour y mettre le feu",
