@@ -1,6 +1,7 @@
 {
  "date": "2026-08-30",
  "volets": [
+  "continu",
   "elections",
   "hors-rss",
   "local",
@@ -10,6 +11,418 @@
   "report"
  ],
  "articles": [
+  {
+   "titre": "« On tient bon » : Nicolas Maduro publie des photos depuis sa prison de New York",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Venezuela",
+   "medias": "La Presse, BFMTV, franceinfo, CNEWS, Le Parisien, 20 minutes, Radio-Canada",
+   "url": "https://www.lapresse.ca/international/etats-unis/2026-08-30/on-tient-bon/nicolas-maduro-publie-des-photos-depuis-sa-prison.php",
+   "resume": "Le président déchu du Venezuela, capturé le 3 janvier par l'armée américaine et détenu depuis à New York, a diffusé dimanche sur ses réseaux sociaux des photos inédites de lui en survêtement gris, présentées comme un cadeau à ses petits-enfants, avec un message où il affirme « tenir bon ». La publication survient deux jours après l'annonce, par sa successeure et présidente par intérim Delcy Rodríguez, d'un accord pétrolier qualifié d'« historique » avec les États-Unis, qui exploiteront des gisements vénézuéliens.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-08-30/on-tient-bon/nicolas-maduro-publie-des-photos-depuis-sa-prison.php"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278982/nicolas-maduro-photos-prison"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/international/amerique-latine/on-tient-bon-nicolas-maduro-donne-de-ses-nouvelles-depuis-sa-prison-new-yorkaise_AD-202608300347.html"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/venezuela/on-tient-bon-le-president-dechu-du-venezuela-nicolas-maduro-publie-des-photos-depuis-sa-prison-aux-etats-unis_8169749.html"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-08-30/tient-bon-nicolas-maduro-saffiche-tout-sourire-depuis-sa-prison-1911524"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/nicolas-maduro-incarcere-a-new-york-publie-des-photos-de-lui-sur-les-reseaux-sociaux-et-affirme-tenir-bon-30-08-2026-4SKNZEHONJHM5D2VUUHXRRFSF4.php"
+    },
+    {
+     "media": "20 minutes",
+     "url": "https://www.20min.ch/fr/story/etats-unis-on-tient-bon-declare-maduro-depuis-sa-prison-103624972"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nicol%C3%A1s_Maduro%2C_president_of_Venezuela_%282016%29.jpg/1280px-Nicol%C3%A1s_Maduro%2C_president_of_Venezuela_%282016%29.jpg",
+   "legende": "Nicolás Maduro, alors président du Venezuela, en 2016.",
+   "horodate": "2026-08-30T15:30-04:00",
+   "photo_auteur": "Eneas de Troya",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "on-tient-bon-nicolas-maduro-publie-des-photos-depuis-sa-pris-508eae",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "on-tient-bon-nicolas-maduro-publie-des-photos-depuis-sa-pris-508eae"
+  },
+  {
+   "titre": "La Russie annonce préparer des « frappes massives » contre le secteur énergétique ukrainien",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Québecor, Ouest-France, 20 Minutes",
+   "url": "https://www.tvanouvelles.ca/2026/08/30/la-russie-dit-preparer-des-frappes-massives-contre-le-secteur-energetique-de-lukraine",
+   "resume": "Le ministère russe de la Défense a fait savoir dimanche sur Telegram avoir « entamé la préparation de frappes massives » contre les installations du secteur énergétique ukrainien, qu'il présente comme une riposte aux attaques visant les infrastructures civiles et le complexe pétrolier et gazier russes. L'annonce suit la campagne de drones ukrainiens menée contre ce même secteur pétrolier et gazier, dont Kyiv soutient qu'il finance et alimente l'invasion.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/30/la-russie-dit-preparer-des-frappes-massives-contre-le-secteur-energetique-de-lukraine"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/europe/ukraine/carte-guerre-en-ukraine-la-russie-dit-preparer-des-frappes-massives-une-zone-contaminee-le-point-du-jour-74972506-a481-11f1-94d9-ff4da0548a19"
+    },
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/ukraine/4241712-20260830-guerre-ukraine-russie-promet-frappes-massives-kiev-debat-depots-munitions-pleine-ville"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T15:30-04:00",
+   "permalien": "la-russie-annonce-preparer-des-frappes-massives-contre-le-se-3d5b55",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "la-russie-annonce-preparer-des-frappes-massives-contre-le-se-3d5b55"
+  },
+  {
+   "titre": "Les deux Corées changent de ministre de la Défense le même jour",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Corée du Nord",
+   "medias": "Québecor, RFI",
+   "url": "https://www.tvanouvelles.ca/2026/08/29/coree-du-nord-le-ministre-de-la-defense-limoge",
+   "resume": "Pyongyang a annoncé la destitution de son ministre de la Défense, No Kwang Chol, dans un remaniement de l'état-major militaire nord-coréen — le jour même où Séoul annonçait de son côté un changement à la tête de son propre ministère. Les lectures divergent entre modernisation des armées et sanction politique, alors que l'ampleur de l'engagement militaire américain dans la péninsule demeure incertaine.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/29/coree-du-nord-le-ministre-de-la-defense-limoge"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20260830-changement-des-ministres-de-la-d%C3%A9fense-des-deux-cor%C3%A9es-en-plein-doute-sur-l-engagement-am%C3%A9ricain"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T15:30-04:00",
+   "permalien": "les-deux-corees-changent-de-ministre-de-la-defense-le-meme-j-00ed61",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "les-deux-corees-changent-de-ministre-de-la-defense-le-meme-j-00ed61"
+  },
+  {
+   "titre": "Trump veut faire sanctionner par la FCC une animatrice de NBC",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "La Presse, France 24, CNEWS",
+   "url": "https://www.lapresse.ca/international/etats-unis/2026-08-30/mecontent-de-sa-couverture-mediatique/donald-trump-cible-une-journaliste-de-nbc.php",
+   "resume": "Mécontent de la couverture accordée aux candidats républicains qu'il appuie en vue des élections de mi-mandat de novembre, le président américain a annoncé dimanche sur Truth Social vouloir signaler à l'autorité fédérale des communications (FCC), pour blâme ou sanction, l'animatrice de « Meet the Press » Kristen Welker, qu'il qualifie d'« impopulaire ». Il lui reproche d'avoir affirmé que ses appuis à des candidats donnaient des « résultats mitigés ».",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-08-30/mecontent-de-sa-couverture-mediatique/donald-trump-cible-une-journaliste-de-nbc.php"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260830-midterms-2026-trump-veut-sanctionner-une-journaliste-de-nbc-pour-sa-couverture-m%C3%A9diatique"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-08-30/etats-unis-donald-trump-sen-prend-une-impopulaire-animatrice-de-nbc-1911542"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg",
+   "legende": "Le président américain Donald Trump.",
+   "horodate": "2026-08-30T15:30-04:00",
+   "photo_auteur": "Shealeah Craighead",
+   "photo_licence": "Public domain",
+   "permalien": "trump-veut-faire-sanctionner-par-la-fcc-une-animatrice-de-nb-0b5802",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "trump-veut-faire-sanctionner-par-la-fcc-une-animatrice-de-nb-0b5802"
+  },
+  {
+   "titre": "Pakistan : huit responsables suspendus après la mort de 14 nourrissons dans l'incendie d'un hôpital",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Pakistan",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/08/30/pakistan-huit-responsables-suspendus-apres-la-mort-de-14-bebes-dans-un-incendie",
+   "resume": "Le premier ministre pakistanais a ordonné samedi soir la suspension de huit responsables et l'ouverture d'une procédure pénale à leur encontre, après l'incendie d'un hôpital public qui a coûté la vie à 14 nourrissons.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/30/pakistan-huit-responsables-suspendus-apres-la-mort-de-14-bebes-dans-un-incendie"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T15:30-04:00",
+   "permalien": "pakistan-huit-responsables-suspendus-apres-la-mort-de-14-nou-5a1e72",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "pakistan-huit-responsables-suspendus-apres-la-mort-de-14-nou-5a1e72"
+  },
+  {
+   "titre": "Le litre d'essence repasse au-dessus de 2 $ dans le Grand Montréal",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Le Devoir, Québecor",
+   "url": "https://www.ledevoir.com/economie/1005101/litre-essence-franchit-nouveau-barre-2-grande-region-montreal",
+   "resume": "De nombreuses stations-service de la grande région de Montréal affichaient dimanche 200,9 cents le litre, franchissant de nouveau la barre des 2 $ et prenant de court les automobilistes. Le seuil avait été atteint pour la première fois depuis 2022 le 2 avril dernier, dans la foulée de la guerre au Moyen-Orient.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005101/litre-essence-franchit-nouveau-barre-2-grande-region-montreal"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/30/le-prix-de-lessence-franchit-les-2-le-litre-dans-le-grand-montreal"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T15:30-04:00",
+   "permalien": "le-litre-d-essence-repasse-au-dessus-de-2-dans-le-grand-mont-f8c5b9",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "le-litre-d-essence-repasse-au-dessus-de-2-dans-le-grand-mont-f8c5b9"
+  },
+  {
+   "titre": "Quatorze wagons du CN déraillent à Truro, en Nouvelle-Écosse",
+   "cahier": "canada",
+   "rubrique": "transport",
+   "territoire": "Nouvelle-Écosse",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12041050/cn-rail-train-derailment-nova-scotia/",
+   "resume": "Quatorze wagons d'un convoi du Canadien National ont déraillé samedi vers 17 h 30 à Truro, dans le centre de la Nouvelle-Écosse, sans se renverser. Le transporteur affirme que la sécurité du public n'est pas menacée ; la cause du déraillement fait l'objet d'une enquête.",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12041050/cn-rail-train-derailment-nova-scotia/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T15:30-04:00",
+   "permalien": "quatorze-wagons-du-cn-deraillent-a-truro-en-nouvelle-ecosse-8e2065",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "quatorze-wagons-du-cn-deraillent-a-truro-en-nouvelle-ecosse-8e2065"
+  },
+  {
+   "titre": "Trois élections partielles fédérales lundi, dont une au Saguenay–Lac-Saint-Jean",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Canada",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/les-electeurs-se-rendront-aux-urnes-lundi-dans-trois-circonscriptions-federales/",
+   "resume": "Les électeurs de trois circonscriptions fédérales — au Québec, en Ontario et en Colombie-Britannique — se rendent aux urnes lundi. La circonscription québécoise, située au Saguenay–Lac-Saint-Jean, avait donné lieu à une course serrée au scrutin général de 2025.",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/les-electeurs-se-rendront-aux-urnes-lundi-dans-trois-circonscriptions-federales/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T15:30-04:00",
+   "permalien": "trois-elections-partielles-federales-lundi-dont-une-au-sague-80ad1e",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "trois-elections-partielles-federales-lundi-dont-une-au-sague-80ad1e"
+  },
+  {
+   "titre": "Franquelin veut aménager sa halte routière pour retenir les visiteurs",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Franquelin",
+   "medias": "Le Manic",
+   "url": "https://www.lemanic.ca/2026/08/30/franquelin-veut-devenir-un-arret-pour-les-visiteurs/",
+   "resume": "La municipalité de Franquelin, sur la Côte-Nord, poursuit ses démarches pour mettre en valeur son accès à la plage et doter les abords de la halte routière d'installations pour les visiteurs. Aucune date de construction n'est arrêtée : le coût des soumissions sera déterminant, les travaux pouvant s'avérer onéreux sur la Côte-Nord.",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/08/30/franquelin-veut-devenir-un-arret-pour-les-visiteurs/"
+    },
+    {
+     "media": "Le Journal Haute-Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/08/30/franquelin-veut-devenir-un-arret-pour-les-visiteurs/"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/08/30/franquelin-veut-devenir-un-arret-pour-les-visiteurs/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T15:30-04:00",
+   "permalien": "franquelin-veut-amenager-sa-halte-routiere-pour-retenir-les-6d4dd9",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "franquelin-veut-amenager-sa-halte-routiere-pour-retenir-les-6d4dd9"
+  },
+  {
+   "titre": "Un sexagénaire porté disparu sur le lac Stukley, en Estrie",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Orford",
+   "medias": "Québecor, Le Canada Français",
+   "url": "https://www.tvanouvelles.ca/2026/08/30/un-soixantenaire-disparu-sur-un-lac-apres-une-sortie-solitaire-en-estrie",
+   "resume": "Un homme dans la soixantaine manque à l'appel depuis une sortie solitaire en embarcation, samedi soir, sur le lac Stukley, entre Orford et Eastman. Les policiers ont localisé l'embarcation inoccupée sur le plan d'eau vers 1 h et les recherches se poursuivent, a indiqué le sergent Frédéric Deshaies, porte-parole de la Sûreté du Québec.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/30/un-soixantenaire-disparu-sur-un-lac-apres-une-sortie-solitaire-en-estrie"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/des-recherches-sont-en-cours-pour-trouver-un-sexagenaire-au-lac-stukley/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T15:30-04:00",
+   "permalien": "un-sexagenaire-porte-disparu-sur-le-lac-stukley-en-estrie-c6df87",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "un-sexagenaire-porte-disparu-sur-le-lac-stukley-en-estrie-c6df87"
+  },
+  {
+   "titre": "Trois blessés dans une sortie de route avec tonneaux à Maskinongé",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Maskinongé",
+   "medias": "Coops de l'information",
+   "url": "https://www.lenouvelliste.ca/actualites/2026/08/30/accident-avec-tonneaux-trois-blesses-et-entrave-sur-le-boulevard-maskinonge-ouest-GF4S3UEALBHHFJYWRADOMOW63M/",
+   "resume": "Trois personnes ont été blessées dimanche dans une sortie de route sur le boulevard Maskinongé Ouest, où le conducteur aurait perdu la maîtrise de son véhicule pour une raison qui demeure inconnue. Des pinces de désincarcération ont été nécessaires pour dégager les occupants et la circulation a été entravée sur les lieux.",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lenouvelliste.ca/actualites/2026/08/30/accident-avec-tonneaux-trois-blesses-et-entrave-sur-le-boulevard-maskinonge-ouest-GF4S3UEALBHHFJYWRADOMOW63M/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T15:30-04:00",
+   "permalien": "trois-blesses-dans-une-sortie-de-route-avec-tonneaux-a-maski-9c0ed7",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "trois-blesses-dans-une-sortie-de-route-avec-tonneaux-a-maski-9c0ed7"
+  },
+  {
+   "titre": "Le télescope spatial Nancy Grace Roman a décollé vers son poste d'observation",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada, Québecor, The Verge, TV5Monde",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279011/nasa-lancement-telescope-roman-espace",
+   "resume": "Le télescope de la NASA s'est envolé samedi matin de Cap Canaveral, en Floride, entamant un trajet de trois mois et de quelque 1,6 million de kilomètres vers le point de Lagrange L2, au-delà de la Lune. Développé pendant plus d'une décennie pour un coût dépassant les 4 milliards de dollars, il doit cartographier le cosmos, étudier la matière et l'énergie sombres et détecter de nouvelles exoplanètes.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279011/nasa-lancement-telescope-roman-espace"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/29/top-depart-pour-roman-le-telescope-de-la-nasa-charge-detablir-un-nouvel-atlas-de-lunivers"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/lancement-de-roman-le-telescope-de-la-nasa-qui-realisera-un-nouvel-atlas-de-lunivers-2835440"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Nancy_Grace_Roman_2015.jpg",
+   "legende": "L'astronome Nancy Grace Roman, première responsable de l'astronomie à la NASA, à qui le télescope doit son nom.",
+   "horodate": "2026-08-30T15:30-04:00",
+   "photo_auteur": "NASA",
+   "photo_licence": "Public domain",
+   "permalien": "le-telescope-spatial-nancy-grace-roman-a-decolle-vers-son-po-f6fe49",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "le-telescope-spatial-nancy-grace-roman-a-decolle-vers-son-po-f6fe49"
+  },
+  {
+   "titre": "Fuite de 12 To d'archives : les versions de tous les jeux mis en ligne sur Steam de 2003 à 2013",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+   "resume": "Plus de 12 téraoctets de données contenant les versions de développement de tous les jeux téléversés sur la plateforme Steam entre 2003 et 2013 ont fuité, un volume tel que l'inventaire n'en est pas encore fait. On y a déjà exhumé des éléments du Half-Life 2: Episode 3 abandonné, du contenu retiré de Portal 2 et une version du jeu F-Stop, ainsi que d'anciennes moutures de Call of Duty, Resident Evil, Mirror's Edge, Batman: Arkham Asylum et Dragon Age: Origins.",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T15:30-04:00",
+   "permalien": "fuite-de-12-to-d-archives-les-versions-de-tous-les-jeux-mis-cef5b3",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "fuite-de-12-to-d-archives-les-versions-de-tous-les-jeux-mis-cef5b3"
+  },
+  {
+   "titre": "El Niño pourrait faire de 2026 et 2027 les années les plus chaudes jamais enregistrées",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "International",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/08/29/el-nino-record--les-annees-2026-et-2027-pourraient-etre-les-plus-chaudes-de-lhistoire",
+   "resume": "Sous l'effet de l'El Niño en formation, 2026 pourrait s'imposer comme l'année la plus chaude jamais mesurée sur la planète, et 2027 plus probablement encore, avance Patrick Grenier, professeur au Département des sciences de l'atmosphère de l'Université du Québec à Montréal. « Les paris sont ouverts cette année », nuance-t-il, le phénomène n'étant pas encore pleinement installé.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/29/el-nino-record--les-annees-2026-et-2027-pourraient-etre-les-plus-chaudes-de-lhistoire"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/El_Ni%C3%B1o_Is_Underway_%281228049%29.jpg",
+   "legende": "Les anomalies de température de surface du Pacifique équatorial pendant un épisode El Niño, vues par satellite.",
+   "horodate": "2026-08-30T15:30-04:00",
+   "photo_auteur": "NASA Earth Observatory/Lauren Dauphin",
+   "photo_licence": "Public domain",
+   "permalien": "el-nino-pourrait-faire-de-2026-et-2027-les-annees-les-plus-c-409020",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "el-nino-pourrait-faire-de-2026-et-2027-les-annees-les-plus-c-409020"
+  },
+  {
+   "titre": "René Goscinny aurait eu 100 ans, et ses héros de BD restent parmi les plus lus",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/08/29/rene-goscinny-fete-ses-100-ans-et-ses-heros-de-bd-restent-plus-populaires-que-jamais",
+   "resume": "Le scénariste d'Astérix, d'Iznogoud et du Petit Nicolas, dont on marque le centenaire de la naissance, compte parmi les auteurs français les plus lus au monde : son œuvre s'est écoulée à quelque 500 millions d'exemplaires, selon les estimations. Revenu en France après des années passées à l'étranger, il avait donné vie à Astérix avec Albert Uderzo et formé avec Jean-Jacques Sempé le tandem du Petit Nicolas.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/29/rene-goscinny-fete-ses-100-ans-et-ses-heros-de-bd-restent-plus-populaires-que-jamais"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Goscinny_Exhibition_at_the_Jewish_Museum_London_%2841301216264%29.jpg/1280px-Goscinny_Exhibition_at_the_Jewish_Museum_London_%2841301216264%29.jpg",
+   "legende": "Une exposition consacrée à René Goscinny au Jewish Museum de Londres.",
+   "horodate": "2026-08-30T15:30-04:00",
+   "photo_auteur": "Ungry Young Man",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "rene-goscinny-aurait-eu-100-ans-et-ses-heros-de-bd-restent-p-84663d",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "rene-goscinny-aurait-eu-100-ans-et-ses-heros-de-bd-restent-p-84663d"
+  },
   {
    "titre": "Northvolt : Fitzgibbon juge « invraisemblable » la mise en garde qu’aurait faite le candidat péquiste Stéphane Paquet",
    "cahier": "elections",
@@ -1451,7 +1864,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada, États-Unis",
-   "medias": "Radio-Canada (La Presse canadienne), Les Affaires",
+   "medias": "Radio-Canada (La Presse canadienne), Les Affaires, Radio-Canada, Gouvernement du Canada",
    "url": "https://ici.radio-canada.ca/nouvelle/2278779/droits-douane-americains-questions-juridiques",
    "sources": [
     {
@@ -1461,6 +1874,10 @@
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/les-nouveaux-droits-de-douane-soulevent-des-questions-juridiques/"
+    },
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/le-canada-annonce-des-contre-mesures-ciblees-ainsi-que-des-mesures-importantes-pour-soutenir-les-travailleurs-et-les-entreprises-en-reponse-aux-dro.html"
     }
    ],
    "resume": "Pour taxer à 50 % quelque 28 milliards de dollars d'importations canadiennes, Donald Trump a invoqué l'article 338 de la loi douanière de 1930, dite Smoot-Hawley, une disposition qu'aucun président n'avait jamais utilisée et qui n'a donc jamais été soumise à un tribunal. Plusieurs juristes plaident qu'elle a été rendue caduque par les lois commerciales adoptées depuis, notamment celles de 1962 et de 1974 qui encadrent le pouvoir tarifaire présidentiel ; Peter Harrell et Jennifer Hillman, de l'Université de Georgetown, ajoutent que Washington n'a chiffré aucun préjudice et a visé des produits sans lien avec ses griefs, comme les bâtons de hockey et le ciment. L'ancien conseiller juridique du représentant américain au commerce John Veroneau juge au contraire la disposition claire et applicable, et relève que le Canada taxe lui aussi davantage les importations américaines en riposte. Aucune poursuite n'a encore été déposée : le Liberty Justice Center cherche des entreprises prêtes à contester, mais sa PDG Sara Albrecht note que ces tarifs ne touchent que 5 % des importations canadiennes, ce qui réduit le nombre de plaignants potentiels.",
@@ -1793,7 +2210,7 @@
      "url": "https://www.journaldequebec.com/2026/08/29/des-vehicules-cibles-par-un-incendie-criminel-a-beauport"
     }
    ],
-   "resume": "Un incendie qualifié de criminel a ravagé samedi une motocyclette et deux véhicules garés dans le stationnement d'un immeuble à logements de Beauport, à Québec. Aucun blessé n'a été signalé.",
+   "resume": "Un incendie d'origine criminelle a ravagé une motocyclette et deux véhicules samedi après-midi dans le stationnement d'un immeuble à logements de l'avenue de Gaspard, à Beauport, rapporte le Service de police de la Ville de Québec. Un maître-chien et des enquêteurs ont été dépêchés sur place, mais aucun suspect n'avait été appréhendé au moment de la publication.",
    "photo": "",
    "legende": "",
    "horodate": "2026-08-29T21:39-04:00",
@@ -1859,11 +2276,13 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2278909/rassemblements-separatistes-federalistes-alberta-referendum"
     }
    ],
-   "resume": "L'Alberta Prosperity Project a tenu samedi un rassemblement devant l'Assemblée législative à Edmonton, pendant que le Nouveau Parti démocratique lançait à Calgary une tournée en faveur du maintien dans la fédération. Le chef du groupe indépendantiste, Mitch Sylvestre, soutient que son mouvement gagne du terrain parce que de plus en plus d'Albertains jugent inacceptable le traitement que leur réserve Ottawa. Les deux camps entrent ainsi en campagne à l'approche du référendum provincial.",
-   "photo": "",
-   "legende": "",
+   "resume": "À moins de deux mois du référendum sur l'indépendance de l'Alberta, des centaines de personnes se sont rassemblées samedi devant l'Assemblée législative à Edmonton à l'appel du groupe séparatiste Alberta Prosperity Project, qui affirme se voir refuser l'accès à de plus grandes salles pour ses rassemblements. Le Nouveau Parti démocratique provincial a de son côté lancé une tournée pour défendre l'option fédéraliste, son chef Naheed Nenshi ayant plus tôt réclamé en vain l'annulation du vote en raison des nouveaux tarifs américains, une demande rejetée par la première ministre Danielle Smith.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alberta-Legislature-Building-Edmonton-Alberta-Canada-01A.jpg/1280px-Alberta-Legislature-Building-Edmonton-Alberta-Canada-01A.jpg",
+   "legende": "L'Assemblée législative de l'Alberta, à Edmonton.",
    "horodate": "2026-08-29T21:39-04:00",
    "permalien": "referendum-albertain-separatistes-et-federalistes-lancent-le-3dd373",
+   "photo_auteur": "WinterE229 WinterforceMedia",
+   "photo_licence": "CC0",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-30.json",
    "_slug": "referendum-albertain-separatistes-et-federalistes-lancent-le-3dd373"
@@ -1881,11 +2300,13 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2278895/nepal-chine-inondations-glacier-changements-climatiques"
     }
    ],
-   "resume": "Les glissements de terrain ne sont pas nouveaux dans cette région de l'Himalaya, surtout pendant la mousson, mais la chute de glacier et les torrents qui l'ont suivie cette semaine au Népal sont amplifiés par le réchauffement, selon les spécialistes consultés. Michel Baraër, professeur à l'École de technologie supérieure, souligne que toutes les régions glaciaires sont exposées à ce type d'événement et que la fonte des glaciers canadiens rend le pays vulnérable à des crues comparables.",
-   "photo": "",
-   "legende": "",
+   "resume": "Les crues dévastatrices survenues au Népal et au Tibet, où près de 700 personnes sont mortes et 3 000 demeuraient portées disparues vendredi soir, ne sont pas exclues au Canada, qui abrite près de 20 % de la surface glaciaire mondiale, notamment dans les Rocheuses de l'Alberta et de la Colombie-Britannique, selon des spécialistes interrogés par Radio-Canada. Les changements climatiques déstabilisent des glaciers ayant perdu près de 23 % de leur volume dans l'Ouest canadien entre 2000 et 2023, ce qui accroît le risque d'effondrements pouvant toucher barrages ou centres urbains situés en aval, préviennent les chercheuses et chercheurs consultés.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Athabasca_Glacier_-_Columbia_Icefield_-_Rocky_Mountains_-_Alberta_-_Canada.jpg/1280px-Athabasca_Glacier_-_Columbia_Icefield_-_Rocky_Mountains_-_Alberta_-_Canada.jpg",
+   "legende": "Le glacier Athabasca, dans les Rocheuses albertaines.",
    "horodate": "2026-08-29T21:39-04:00",
    "permalien": "des-crues-glaciaires-comme-celle-du-nepal-sont-possibles-au-976f2a",
+   "photo_auteur": "Adam Jones, Ph.D.",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-30.json",
    "_slug": "des-crues-glaciaires-comme-celle-du-nepal-sont-possibles-au-976f2a"
@@ -3328,11 +3749,11 @@
    "_slug": "la-piscine-saint-charles-ferme-un-mois-pour-son-entretien-an-1e3f13"
   },
   {
-   "titre": "Frappe russe sur un dépôt de munitions près de Kyiv : 37 morts, la plus meurtrière de l'année",
+   "titre": "Frappe russe sur un dépôt de munitions près de Kyiv : 38 morts, la plus meurtrière de l'année",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Ukraine, Russie",
-   "medias": "The Associated Press, Jerusalem Post, The New York Times, Politico Europe, ABC News, Le HuffPost, 20 Minutes, Ukrinform, Le Monde",
+   "medias": "The Associated Press, Jerusalem Post, The New York Times, Politico Europe, ABC News, Le HuffPost, 20 Minutes, Ukrinform, Le Monde, Associated Press, CNN, Los Angeles Times, Le Temps, Québecor",
    "url": "https://apnews.com/article/russia-ukraine-war-bucha-kyiv-4be42e27897bf45797a0cf3758be5eaf",
    "sources": [
     {
@@ -3370,23 +3791,43 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/08/29/pres-de-kiev-une-attaque-russe-tue-37-personnes-et-pose-la-question-de-la-presence-d-installations-sensibles-en-zone-urbaine_6760334_3210.html"
+    },
+    {
+     "media": "Associated Press",
+     "url": "https://apnews.com/article/russia-ukraine-war-strikes-attacks-energy-oil-gas-drones-warehouse-5cfe71b2954a40489c070459ba82116e"
+    },
+    {
+     "media": "CNN",
+     "url": "https://www.cnn.com/2026/08/29/europe/ukraine-kyiv-russia-war-attack-intl"
+    },
+    {
+     "media": "Los Angeles Times",
+     "url": "https://www.latimes.com/world-nation/story/2026-08-30/death-toll-rises-to-38-from-russias-deadliest-attack-on-ukraine-this-year"
+    },
+    {
+     "media": "Le Temps",
+     "url": "https://www.letemps.ch/monde/durement-touchee-par-une-frappe-russe-meurtriere-pres-de-kiev-l-ukraine-s-emeut-d-une-negligence-criminelle"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/30/le-bilan-monte-a-38-morts-apres-une-frappe-russe-sur-un-depot-de-munition-ukrainien"
     }
    ],
-   "resume": "Une frappe de drones russes a visé dans la nuit de vendredi à samedi le district de Boutcha, en périphérie de Kyiv, tuant au moins 37 personnes selon les autorités ukrainiennes citées par l'Associated Press — un bilan d'abord annoncé à 27 morts, puis revu à la hausse à mesure que les secours progressaient dans les décombres. L'attaque a endommagé au moins 50 immeubles résidentiels et provoqué un incendie qui s'est propagé à des habitations et à un restaurant, selon le chef de l'administration militaire régionale, Tymur Tkatchenko.\n\n**Mise à jour, 15 h 56** — La cible était un entrepôt de munitions des forces de défense ukrainiennes situé à Myla, dans le district de Boutcha : obus, mines et drones y ont détoné après l'impact du drone russe, provoquant l'incendie qui a ravagé les habitations voisines, selon Volodymyr Zelensky, qui parle d'une négligence terrible de la part de ceux qui ont entreposé des explosifs à côté de la population et annonce l'ouverture de poursuites criminelles. Trente-quatre des 37 morts étaient des résidents d'un foyer pour personnes âgées et handicapées, a précisé le chef de l'administration militaire régionale Tymur Tkatchenko, et plus de 370 personnes ont été évacuées. Le premier ministre Serhii Koretskyï a rappelé qu'une frappe sur un dépôt de munitions à Vychneve, en juillet, avait déjà fait 22 morts dans les mêmes circonstances. Le ministère russe de la Défense affirme de son côté avoir visé un entrepôt abritant des composants et des propulseurs de drones à longue portée.\n\n**Mise à jour, 21 h 30** — Les procureurs ukrainiens ont ouvert une enquête sur les raisons pour lesquelles des munitions étaient entreposées si près des habitations, et Volodymyr Zelensky a rappelé samedi l'interdiction de stocker des munitions à proximité de zones résidentielles. La Russie a tiré au moins deux missiles et 267 drones d'attaque sur l'Ukraine dans la nuit de vendredi à samedi, dont 233 auraient été interceptés, selon l'armée de l'air ukrainienne. Une journée de deuil a été décrétée le 30 août dans l'oblast de Kyiv.",
+   "resume": "Un drone russe a frappé dans la nuit de vendredi à samedi un entrepôt de munitions des forces ukrainiennes à Myla, dans le district de Boutcha en périphérie de Kyiv : obus, mines et drones y ont détoné pendant des heures, l'incendie s'est propagé aux habitations voisines et le bilan est monté à 38 morts et quatre disparus, dont 34 résidents d'un foyer pour personnes âgées et handicapées. Volodymyr Zelensky dénonce une négligence terrible dans l'entreposage d'explosifs près de la population et des poursuites criminelles ont été ouvertes, tandis que Moscou dit avoir visé un entrepôt de composants de drones à longue portée et annonce des « frappes massives » en préparation contre le secteur énergétique ukrainien.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-29T21:39-04:00",
+   "horodate": "2026-08-30T15:30-04:00",
    "permalien": "une-frappe-russe-fait-au-moins-37-morts-dans-la-region-de-ky-454a19",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-30.json",
    "_slug": "une-frappe-russe-fait-au-moins-37-morts-dans-la-region-de-ky-454a19"
   },
   {
-   "titre": "Niger : le régime dit reprendre le contrôle, des mutins tiennent encore deux casernes à Niamey",
+   "titre": "Niger : la mutinerie de Niamey matée avec l'appui de paramilitaires russes",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Niger",
-   "medias": "Anadolu, Courrier international, Euronews, France 24, Le Journal de Montréal, Le Monde, Libération, Ouest-France, Radio-Canada, TV5Monde (AFP)",
+   "medias": "Anadolu, Courrier international, Euronews, France 24, Le Journal de Montréal, Le Monde, Libération, Ouest-France, Radio-Canada, TV5Monde (AFP), TV5Monde",
    "url": "https://information.tv5monde.com/afrique/niger-des-echanges-de-tirs-se-poursuivent-a-niamey",
    "sources": [
     {
@@ -3432,12 +3873,20 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/afrique/article/2026/08/30/au-niger-une-importante-base-militaire-reprise-avec-l-aide-de-la-russie-apres-une-mutinerie_6759501_3213.html"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/video/niger-apres-la-mutinerie-retour-au-calme-avec-laide-de-la-russie-2835528"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/afrique/au-niger-apres-le-putsch-rate-la-russie-renforce-son-emprise-sur-la-junte-au-pouvoir-20260830_XLN2AQVPUBEIZEPPAPCD5F2XJA/"
     }
    ],
-   "resume": "Des tirs et détonations étaient toujours entendus samedi matin à Niamey, la capitale du Niger, notamment près de la base militaire attenante à l'aéroport international, selon l'AFP, qui ne précise pas l'origine des incidents; Libération rapporte des affrontements en cours entre des mutins et la garde présidentielle du régime militaire au pouvoir depuis le putsch de juillet 2023. Il s'agirait de la troisième tentative de déstabilisation du régime cette année, et de la première ne semblant pas impliquer de forces djihadistes, qui avaient été repoussées en quelques heures lors de deux précédentes attaques contre l'aéroport en janvier et en juin.\n\n**Mise à jour, 15 h 56** — Le ministre nigérien de la Défense, Salifou Mody, a affirmé samedi matin qu'un groupe de soldats en rupture avec le règlement militaire avait séquestré des camarades dans la caserne de la base 101, attenante à l'aéroport de Niamey, et tiré sur plusieurs sites sensibles, mais que les forces de sécurité reprenaient progressivement le contrôle. En début d'après-midi, une source sécuritaire régionale et une source diplomatique africaine disaient à l'AFP que les mutins tenaient toujours deux casernes, et qu'une tentative de pénétrer dans le palais présidentiel avait été repoussée par la garde présidentielle, restée loyale au général Abdourahamane Tiani. Leurs revendications et l'ampleur de leurs appuis restent inconnues. Le ministère algérien des Affaires étrangères a condamné les événements et assuré Niamey de son soutien.\n\n**Mise à jour, 21 h 30** — Le pouvoir militaire nigérien a déjoué la mutinerie en fin de journée samedi et repris la base aérienne 101, attenante à l'aéroport de Niamey, avec l'appui du Corps africain rattaché au ministère russe de la Défense, dont l'état-major est logé dans cette même base. L'ambassadeur de Russie au Niger, Viktor Voropaïev, a déclaré à l'agence TASS que c'est l'armée nigérienne elle-même qui avait sollicité cette aide, et attribué la mutinerie à de jeunes officiers originaires des régions de Tillabéri et de Dosso.\n\n**Mise à jour, 4 h 49** — Les forces fidèles à la junte ont repris samedi soir le contrôle de la base militaire 101 de Niamey aux mains des mutins depuis la veille, avec l'appui du groupe paramilitaire russe Africa Corps, selon des sources diplomatiques et sécuritaires citées par l'AFP ; plusieurs mutins ont été tués et des dizaines d'autres se sont rendus, tandis que leurs revendications restent inconnues.",
+   "resume": "Des soldats en rupture de rang se sont emparés vendredi de la base aérienne 101 de Niamey, attenante à l'aéroport, et ont tenté de pénétrer dans le palais présidentiel, avant que les forces fidèles au général Abdourahamane Tiani ne reprennent la base samedi soir avec l'appui du Corps africain rattaché au ministère russe de la Défense, dont l'état-major loge sur ce même site. Plusieurs mutins ont été tués et plusieurs dizaines arrêtés, leurs revendications demeurant inconnues ; l'ambassadeur de Russie à Niamey, Viktor Voropaïev, a déclaré à l'agence TASS que l'armée nigérienne avait elle-même sollicité cette aide.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-30T04:49-04:00",
+   "horodate": "2026-08-30T15:30-04:00",
    "permalien": "des-tirs-opposeraient-des-mutins-a-la-garde-presidentielle-a-661378",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-30.json",
@@ -3768,18 +4217,26 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Allemagne",
-   "medias": "RFI",
+   "medias": "RFI, Le Télégramme, The New York Times",
    "url": "https://www.rfi.fr/fr/podcasts/reportage-culture/20260829-%C3%A0-la-veille-de-l-%C3%A9lection-en-saxe-anhalt-l-afd-cible-la-culture-et-le-bauhaus",
    "sources": [
     {
      "media": "RFI",
      "url": "https://www.rfi.fr/fr/podcasts/reportage-culture/20260829-%C3%A0-la-veille-de-l-%C3%A9lection-en-saxe-anhalt-l-afd-cible-la-culture-et-le-bauhaus"
+    },
+    {
+     "media": "Le Télégramme",
+     "url": "https://www.letelegramme.fr/monde/elections-regionales-en-ex-rda-le-chancelier-allemand-merz-predit-des-dommages-considerables-en-cas-de-victoire-de-lextreme-droite-7107642.php"
+    },
+    {
+     "media": "The New York Times",
+     "url": "https://www.nytimes.com/2026/08/30/world/europe/germany-afd-saxony-anhalt.html"
     }
    ],
-   "resume": "À une semaine des élections régionales du 6 septembre en Saxe-Anhalt, où l'extrême droite pourrait pour la première fois depuis la guerre diriger un Land allemand, l'AfD prépare une politique culturelle fondée sur le slogan « penser allemand » qui vise notamment le site Bauhaus de Dessau, classé à l'Unesco, rapporte RFI. Quelque 150 institutions culturelles de la région se sont mobilisées contre ce projet, que le directeur du théâtre de Magdebourg compare à une « normalisation d'un discours néo-fasciste ».",
+   "resume": "À une semaine des élections régionales du 6 septembre en Saxe-Anhalt, où l'extrême droite pourrait pour la première fois depuis la guerre diriger un Land allemand, l'AfD prépare une politique culturelle fondée sur le slogan « penser allemand » qui vise notamment le site Bauhaus de Dessau, classé à l'Unesco, rapporte RFI. Quelque 150 institutions culturelles de la région se sont mobilisées contre ce projet, que le directeur du théâtre de Magdebourg compare à une « normalisation d'un discours néo-fasciste ».\n\n**Mise à jour, 15 h 30** — Le chancelier Friedrich Merz a estimé dimanche qu'une victoire de l'AfD causerait des « dommages considérables » au Land et menacerait sa « gouvernabilité », promettant que son parti emploierait la dernière semaine de campagne à empêcher la formation d'un gouvernement AfD. Des responsables fédéraux et régionaux envisagent par ailleurs de restreindre le partage de renseignements sensibles avec le parti s'il accédait au pouvoir.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Au%C3%9Fenansichten_des_Bauhaus-Geb%C3%A4udes_in_Dessau_01.jpg/1280px-Au%C3%9Fenansichten_des_Bauhaus-Geb%C3%A4udes_in_Dessau_01.jpg",
    "legende": "Le bâtiment du Bauhaus à Dessau, en Saxe-Anhalt, classé au patrimoine mondial de l'Unesco.",
-   "horodate": "2026-08-30T00:29-04:00",
+   "horodate": "2026-08-30T15:30-04:00",
    "photo_auteur": "JensKunstfreund",
    "photo_licence": "CC BY-SA 4.0",
    "permalien": "allemagne-a-une-semaine-des-elections-en-saxe-anhalt-l-afd-a-2b38b9",
@@ -4234,34 +4691,6 @@
    "_slug": "un-habitant-d-edmonton-de-retour-au-canada-apres-avoir-ete-d-28afff"
   },
   {
-   "titre": "Les nouveaux droits de douane américains contre le Canada soulèvent des questions juridiques",
-   "cahier": "canada",
-   "rubrique": "economie",
-   "territoire": "Canada",
-   "medias": "Radio-Canada, Gouvernement du Canada",
-   "url": "https://ici.radio-canada.ca/nouvelle/2278779/droits-douane-americains-questions-juridiques",
-   "sources": [
-    {
-     "media": "Radio-Canada",
-     "url": "https://ici.radio-canada.ca/nouvelle/2278779/droits-douane-americains-questions-juridiques"
-    },
-    {
-     "media": "Gouvernement du Canada",
-     "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/le-canada-annonce-des-contre-mesures-ciblees-ainsi-que-des-mesures-importantes-pour-soutenir-les-travailleurs-et-les-entreprises-en-reponse-aux-dro.html"
-    }
-   ],
-   "resume": "Le président américain Donald Trump s'appuie sur une disposition tarifaire vieille de 96 ans et jamais utilisée avant lui, l'article 338 de la loi douanière de 1930, pour imposer une taxe de 50 % sur 28 milliards de dollars d'importations canadiennes, mais plusieurs juristes américains doutent que cette loi soit toujours valide ou correctement appliquée, rapporte La Presse canadienne. Le Liberty Justice Center, qui a déjà fait invalider d'autres tarifs de M. Trump devant la Cour suprême, cherche des entreprises prêtes à les contester, sans succès pour l'instant.",
-   "photo": "",
-   "legende": "",
-   "photo_auteur": "",
-   "photo_licence": "",
-   "horodate": "2026-08-30T00:19-04:00",
-   "permalien": "les-nouveaux-droits-de-douane-americains-contre-le-canada-so-ed52a0",
-   "_volet": "report",
-   "_fichier": "revue-report-2026-08-30.json",
-   "_slug": "les-nouveaux-droits-de-douane-americains-contre-le-canada-so-ed52a0"
-  },
-  {
    "titre": "La Cour fédérale s'épuise sous la hausse des dossiers d'immigration",
    "cahier": "canada",
    "rubrique": "justice",
@@ -4288,54 +4717,6 @@
    "_volet": "report",
    "_fichier": "revue-report-2026-08-30.json",
    "_slug": "la-cour-federale-s-epuise-sous-la-hausse-des-dossiers-d-immi-c5c863"
-  },
-  {
-   "titre": "À l'approche du référendum albertain, séparatistes et fédéralistes multiplient les rassemblements",
-   "cahier": "canada",
-   "rubrique": "politique",
-   "territoire": "Alberta",
-   "medias": "Radio-Canada",
-   "url": "https://ici.radio-canada.ca/nouvelle/2278909/rassemblements-separatistes-federalistes-alberta-referendum",
-   "sources": [
-    {
-     "media": "Radio-Canada",
-     "url": "https://ici.radio-canada.ca/nouvelle/2278909/rassemblements-separatistes-federalistes-alberta-referendum"
-    }
-   ],
-   "resume": "À moins de deux mois du référendum sur l'indépendance de l'Alberta, des centaines de personnes se sont rassemblées samedi devant l'Assemblée législative à Edmonton à l'appel du groupe séparatiste Alberta Prosperity Project, qui affirme se voir refuser l'accès à de plus grandes salles pour ses rassemblements. Le Nouveau Parti démocratique provincial a de son côté lancé une tournée pour défendre l'option fédéraliste, son chef Naheed Nenshi ayant plus tôt réclamé en vain l'annulation du vote en raison des nouveaux tarifs américains, une demande rejetée par la première ministre Danielle Smith.",
-   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alberta-Legislature-Building-Edmonton-Alberta-Canada-01A.jpg/1280px-Alberta-Legislature-Building-Edmonton-Alberta-Canada-01A.jpg",
-   "legende": "L'Assemblée législative de l'Alberta, à Edmonton.",
-   "photo_auteur": "WinterE229 WinterforceMedia",
-   "photo_licence": "CC0",
-   "horodate": "2026-08-30T00:34-04:00",
-   "permalien": "a-l-approche-du-referendum-albertain-separatistes-et-federal-3dd373",
-   "_volet": "report",
-   "_fichier": "revue-report-2026-08-30.json",
-   "_slug": "a-l-approche-du-referendum-albertain-separatistes-et-federal-3dd373"
-  },
-  {
-   "titre": "Les crues meurtrières de l'Himalaya rappellent un risque bien réel au Canada, selon des experts",
-   "cahier": "canada",
-   "rubrique": "environnement",
-   "territoire": "Canada",
-   "medias": "Radio-Canada",
-   "url": "https://ici.radio-canada.ca/nouvelle/2278895/nepal-chine-inondations-glacier-changements-climatiques",
-   "sources": [
-    {
-     "media": "Radio-Canada",
-     "url": "https://ici.radio-canada.ca/nouvelle/2278895/nepal-chine-inondations-glacier-changements-climatiques"
-    }
-   ],
-   "resume": "Les crues dévastatrices survenues au Népal et au Tibet, où près de 700 personnes sont mortes et 3 000 demeuraient portées disparues vendredi soir, ne sont pas exclues au Canada, qui abrite près de 20 % de la surface glaciaire mondiale, notamment dans les Rocheuses de l'Alberta et de la Colombie-Britannique, selon des spécialistes interrogés par Radio-Canada. Les changements climatiques déstabilisent des glaciers ayant perdu près de 23 % de leur volume dans l'Ouest canadien entre 2000 et 2023, ce qui accroît le risque d'effondrements pouvant toucher barrages ou centres urbains situés en aval, préviennent les chercheuses et chercheurs consultés.",
-   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Athabasca_Glacier_-_Columbia_Icefield_-_Rocky_Mountains_-_Alberta_-_Canada.jpg/1280px-Athabasca_Glacier_-_Columbia_Icefield_-_Rocky_Mountains_-_Alberta_-_Canada.jpg",
-   "legende": "Le glacier Athabasca, dans les Rocheuses albertaines.",
-   "photo_auteur": "Adam Jones, Ph.D.",
-   "photo_licence": "CC BY-SA 3.0",
-   "horodate": "2026-08-30T00:34-04:00",
-   "permalien": "les-crues-meurtrieres-de-l-himalaya-rappellent-un-risque-bie-976f2a",
-   "_volet": "report",
-   "_fichier": "revue-report-2026-08-30.json",
-   "_slug": "les-crues-meurtrieres-de-l-himalaya-rappellent-un-risque-bie-976f2a"
   },
   {
    "titre": "En Ontario français, un festival du miel met l'achat local de l'avant face aux tarifs américains",
@@ -4530,30 +4911,6 @@
    "_slug": "une-couverture-de-tipi-volee-il-y-a-un-siecle-est-rapatriee-440aee"
   },
   {
-   "titre": "Un incendie criminel détruit des véhicules dans un stationnement de Beauport",
-   "cahier": "quebec",
-   "rubrique": "justice",
-   "territoire": "Québec",
-   "medias": "Québecor",
-   "url": "https://www.journaldequebec.com/2026/08/29/des-vehicules-cibles-par-un-incendie-criminel-a-beauport",
-   "sources": [
-    {
-     "media": "Québecor",
-     "url": "https://www.journaldequebec.com/2026/08/29/des-vehicules-cibles-par-un-incendie-criminel-a-beauport"
-    }
-   ],
-   "resume": "Un incendie d'origine criminelle a ravagé une motocyclette et deux véhicules samedi après-midi dans le stationnement d'un immeuble à logements de l'avenue de Gaspard, à Beauport, rapporte le Service de police de la Ville de Québec. Un maître-chien et des enquêteurs ont été dépêchés sur place, mais aucun suspect n'avait été appréhendé au moment de la publication.",
-   "photo": "",
-   "legende": "",
-   "photo_auteur": "",
-   "photo_licence": "",
-   "horodate": "2026-08-30T00:34-04:00",
-   "permalien": "un-incendie-criminel-detruit-des-vehicules-dans-un-stationne-b51ff6",
-   "_volet": "report",
-   "_fichier": "revue-report-2026-08-30.json",
-   "_slug": "un-incendie-criminel-detruit-des-vehicules-dans-un-stationne-b51ff6"
-  },
-  {
    "titre": "La bataille de Québec s'amorce, le PQ plombé par la controverse dans Taschereau",
    "cahier": "elections",
    "rubrique": "politique",
@@ -4582,7 +4939,7 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "États-Unis, Royaume-Uni",
-   "medias": "BFMTV, L'actualité, Le Devoir, Le Figaro, Le Monde, Le Parisien, Libération, Ouest-France, Québecor, RFI, franceinfo",
+   "medias": "BFMTV, L'actualité, Le Devoir, Le Figaro, Le Monde, Le Parisien, Libération, Ouest-France, Québecor, RFI, franceinfo, L'Humanité",
    "url": "https://www.ledevoir.com/monde/etats-unis/1004996/polemiste-extreme-droite-britannique-detenu-police-americaine-immigration",
    "sources": [
     {
@@ -4628,14 +4985,22 @@
     {
      "media": "BFMTV",
      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/sa-duree-de-sejour-depassee-un-polemiste-britannique-d-extreme-droite-interpelle-par-l-ice-aux-etats-unis-et-bientot-expulse_AD-202608290144.html"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/29/washington-expulse-un-polemiste-britannique-dextreme-droite"
+    },
+    {
+     "media": "L'Humanité",
+     "url": "https://www.humanite.fr/societe/etats-unis/milo-yiannopoulos-le-militant-dextreme-droite-britannique-fervent-soutien-de-trump-expulse-par-lice"
     }
    ],
-   "resume": "Milo Yiannopoulos, polémiste britannique que la presse européenne situe à l'extrême droite et qui louait publiquement l'action de la police américaine de l'immigration, a été appréhendé jeudi par cette même agence à l'aéroport Louis-Armstrong de La Nouvelle-Orléans, selon le ministère américain de la Sécurité intérieure. Entré légalement au pays le 14 mai 2019, il a dépassé sa durée de séjour autorisée et s'est vu délivrer le 22 juillet un ordre final d'expulsion faute de s'être présenté à une audience sur son statut ; il reste détenu en attendant son renvoi.\n\n**Mise à jour, 21 h 30** — Milo Yiannopoulos a été expulsé vendredi vers le Royaume-Uni, a annoncé samedi le département américain de la Sécurité intérieure. Un juge de l'immigration avait rendu une décision définitive d'expulsion le 22 juillet, après qu'il ne se fut pas présenté à une audience.",
+   "resume": "Milo Yiannopoulos, polémiste britannique que la presse européenne situe à l'extrême droite et qui louait publiquement l'action de la police américaine de l'immigration, a été appréhendé jeudi par cette même agence à l'aéroport Louis-Armstrong de La Nouvelle-Orléans, selon le ministère américain de la Sécurité intérieure. Entré légalement au pays le 14 mai 2019, il a dépassé sa durée de séjour autorisée et s'est vu délivrer le 22 juillet un ordre final d'expulsion faute de s'être présenté à une audience sur son statut ; il reste détenu en attendant son renvoi.\n\n**Mise à jour, 21 h 30** — Milo Yiannopoulos a été expulsé vendredi vers le Royaume-Uni, a annoncé samedi le département américain de la Sécurité intérieure. Un juge de l'immigration avait rendu une décision définitive d'expulsion le 22 juillet, après qu'il ne se fut pas présenté à une audience.\n\n**Mise à jour, 15 h 30** — Le gouvernement américain a annoncé samedi son expulsion vers le Royaume-Uni, son pays d'origine.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/26/Milo_Yiannopoulos_%40NEXTConf_2014_%2813925731458%29_%28cropped%29.jpg",
    "legende": "Milo Yiannopoulos lors d'une conférence à Berlin en 2014.",
    "photo_auteur": "NEXTConf, Berlin",
    "photo_licence": "CC BY 2.0",
-   "horodate": "2026-08-29T21:39-04:00",
+   "horodate": "2026-08-30T15:30-04:00",
    "permalien": "le-polemiste-britannique-milo-yiannopoulos-arrete-par-la-pol-625f14",
    "_volet": "report",
    "_fichier": "revue-report-2026-08-30.json",
@@ -4710,18 +5075,18 @@
    "_slug": "trump-annonce-un-accord-petrolier-avec-le-venezuela-portant-5316c0"
   },
   {
-   "titre": "Kyiv et Moscou pourraient reprendre les pourparlers en septembre, selon le chef du renseignement militaire ukrainien",
+   "titre": "Kyiv prépare de nouveaux échanges avec les émissaires de Trump, Moscou dit les pourparlers « en pause profonde »",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Ukraine, Russie",
-   "medias": "Kyiv Post, Reuters, NY Post, The Kyiv Independent, Ukrinform",
+   "medias": "Kyiv Post, Reuters, NY Post, The Kyiv Independent, Ukrinform, South China Morning Post",
    "url": "https://www.kyivpost.com/post/83218",
-   "resume": "Un nouveau cycle de discussions entre délégations ukrainienne et russe pourrait avoir lieu dès septembre, a déclaré Kyrylo Budanov, chef du bureau présidentiel ukrainien, cité par le Kyiv Post. Les négociations sont actuellement suspendues mais pourraient bientôt être « relancées », a-t-il indiqué au média ukrainien Novyny.LIVE. Interrogé sur un possible retour des négociateurs russes et ukrainiens à la même table de discussion, M. Budanov a répondu l'espérer.\n\n« Et avec les Américains aussi. Nous ne pouvons pas nous en passer », a-t-il ajouté, soulignant le rôle jugé indispensable de Washington dans tout format de négociation crédible. Ces propos surviennent alors que les efforts de médiation menés par les États-Unis pour mettre fin à la guerre restent dans l'impasse, malgré une activité diplomatique soutenue ces dernières semaines. Le président Zelensky avait par ailleurs multiplié les démarches à Washington pour maintenir le soutien américain, notamment lors de sa visite au Capitole relayée le même jour par l'Associated Press.\n\nAucune date précise ni aucun lieu n'ont pour l'instant été avancés officiellement par l'une ou l'autre des parties pour cette éventuelle reprise des discussions. Des précédents cycles de pourparlers, engagés plus tôt dans l'année, s'étaient déjà enlisés sans déboucher sur un accord de cessez-le-feu durable.\n\n**Mise à jour, 21 h 30** — Volodymyr Zelensky a indiqué vendredi soir avoir reçu de Washington un compte rendu des rencontres tenues ces derniers jours à Moscou, et dit apprécier que les États-Unis avancent « une vision assez réaliste » de ce qu'exige la fin de la guerre. Il s'est dit reconnaissant du ton adopté envers la Russie, sans donner de détails sur la teneur des discussions.\n\n**Mise à jour, 29 août** — Moscou a de son côté douché cet optimisme : le porte-parole du Kremlin, Dmitri Peskov, a affirmé vendredi que les pourparlers de paix restaient « en pause » et qu'aucune « nouvelle idée » n'avait été avancée, en pleine impasse diplomatique alors que Washington reste concentré sur la guerre en Iran.\n\n**Mise à jour, 21 h 30** — Le porte-parole du Kremlin, Dmitri Peskov, a déclaré vendredi que les pourparlers de paix étaient « en pause profonde », en faisant valoir que les troupes russes progressaient sur le front. Moscou n'a pas modifié son exigence d'un contrôle ukrainien cédé sur l'ensemble du Donbass comme préalable à tout cessez-le-feu.",
+   "resume": "Volodymyr Zelensky a annoncé dimanche que son équipe prépare de nouveaux échanges avec des émissaires de Donald Trump, dont les détails devaient être précisés lundi, après avoir reçu de Washington un compte rendu des rencontres tenues à Moscou et salué une « vision assez réaliste » de ce qu'exige la fin de la guerre. Le porte-parole du Kremlin, Dmitri Peskov, soutient de son côté que les pourparlers restent « en pause profonde » et que Moscou maintient l'exigence d'un contrôle ukrainien cédé sur l'ensemble du Donbass comme préalable à tout cessez-le-feu.",
    "photo": "",
    "photo_auteur": "",
    "photo_licence": "",
    "legende": "",
-   "horodate": "2026-08-29T21:39-04:00",
+   "horodate": "2026-08-30T15:30-04:00",
    "permalien": "kyiv-et-moscou-pourraient-reprendre-les-pourparlers-en-septe-d0c5a0",
    "sources": [
     {
@@ -4743,6 +5108,14 @@
     {
      "media": "New York Post",
      "url": "https://nypost.com/2026/08/29/world-news/kremlin-says-ukraine-peace-talks-on-deep-pause/"
+    },
+    {
+     "media": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3365779/ukraine-preparing-further-talks-trump-envoys-zelensky-says"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4159200-zelensky-announces-new-talks-with-representatives-of-us-president.html"
     }
    ],
    "_volet": "report",
@@ -4818,14 +5191,14 @@
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Ontario",
-   "medias": "Québecor, Le Devoir, La Presse, APTN News, Global News, CBC, The Globe and Mail, Le Journal de Montréal, Radio-Canada, National Post, Canada's National Observer, Coops de l'information, France 24, Les Echos, BFMTV, Le Temps, Acadie Nouvelle",
+   "medias": "Québecor, Le Devoir, La Presse, APTN News, Global News, CBC, The Globe and Mail, Le Journal de Montréal, Radio-Canada, National Post, Canada's National Observer, Coops de l'information, France 24, Les Echos, BFMTV, Le Temps, Acadie Nouvelle, Noovo Info, Ouest-France",
    "url": "https://www.journaldemontreal.com/2026/08/27/lac-amerique-donald-trump-signe-un-decret-pour-changer-le-nom-du-lac-ontario",
-   "resume": "Le président américain Donald Trump a signé jeudi un décret rebaptisant le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, une décision unilatérale qui n'a aucune portée légale au Canada. Le geste s'inscrit dans la continuité de la décision, prise plus tôt dans son second mandat, de renommer le golfe du Mexique « golfe d'Amérique » sur les cartes officielles américaines — une pratique que plusieurs observateurs interprètent comme un geste symbolique destiné à marquer le territoire politique plutôt qu'à produire un effet juridique réel. Le premier ministre canadien Mark Carney a réagi avec un mélange d'ironie et de fermeté, affirmant que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario pour les Canadiens, peu importe ce que Washington choisit d'inscrire sur ses propres cartes. Sa réponse, brève, tranchait avec le ton plus offusqué qu'avaient adopté certains élus lors de précédentes sorties américaines visant la souveraineté canadienne.\n\nLe geste survient alors que les relations commerciales entre les deux pays restent tendues, et plusieurs élus et commentateurs canadiens y ont vu une provocation gratuite plutôt qu'un enjeu appelant une réponse diplomatique formelle. Des médias de langue anglaise et française, du National Post à La Presse en passant par Radio-Canada et Le Devoir, ont largement repris la nouvelle, la plupart soulignant que la portion canadienne du lac — et donc son nom officiel du côté canadien — n'est aucunement touchée par un décret américain. Le lac Ontario, l'un des cinq Grands Lacs, forme une frontière naturelle entre la province de l'Ontario et l'État de New York et demeure une voie navigable et une source d'eau potable partagée par des millions de personnes des deux côtés de la frontière.\n\nSa gestion binationale continue de relever des ententes existantes entre le Canada et les États-Unis, que ce geste symbolique de la Maison-Blanche ne modifie en rien. Le média autochtone APTN News et le site Canada's National Observer comptaient eux aussi parmi les publications ayant repris l'affaire, aux côtés de Global News, illustrant l'ampleur de la couverture accordée à un geste pourtant dénué de conséquence juridique immédiate. La sortie de M. Trump est survenue le jour même où le Québec amorçait sa propre campagne électorale, dominée en bonne partie par la question des relations avec Washington, ce qui a amplifié la résonance politique de l'épisode des deux côtés de la frontière linguistique canadienne.\n\n**Mise à jour, 21 h 30** — Le grand chef de la Nation huronne-wendat s'est dit « indigné, outré, choqué » par le décret. Les élus du Conseil de la Nation wendat s'étaient mobilisés dès mardi contre toute tentative de changer le nom du lac, en écrivant à une série d'acteurs canadiens, américains et autochtones influents, dont Mark Carney. Le premier ministre canadien a lui-même invoqué cette origine dans sa publication : le nom vient du mot wendat « Ontari'io », qui signifie que le lac est beau et qu'il est grand, et il précède de plus de quatre siècles tant la Confédération canadienne que la déclaration d'indépendance américaine. Pour les Canadiens, a-t-il écrit, ce sera le lac Ontario « alors, maintenant et toujours ».\n\n**Mise à jour, 15 h 56** — Le premier ministre ontarien Doug Ford a dévoilé samedi à Winona, en bordure de Hamilton, une affiche géante portant la mention « Lake Ontario Now and Always », deux jours après le décret présidentiel. Le lac restera le lac Ontario « maintenant et pour toujours », a-t-il déclaré, ajoutant que plusieurs gouverneurs américains l'ont appelé pour dire qu'ils continueraient d'employer ce nom. Le geste survient alors que les négociations commerciales entre Ottawa et Washington ont échoué le 21 août et que les mesures de rétorsion canadiennes doivent entrer en vigueur le 8 septembre.\n\n**Mise à jour, 21 h 30** — Doug Ford a dévoilé samedi, dans un parc riverain de Hamilton, un grand panneau bleu portant le nom du lac Ontario surmonté de la mention « Aujourd'hui et pour toujours », en français et en anglais. Le premier ministre ontarien, vêtu d'un maillot rouge de Soccer Canada, a lui-même retiré la bâche qui recouvrait l'écriteau.",
+   "resume": "Un décret signé jeudi par Donald Trump rebaptise le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, et Google Maps affiche depuis dimanche ce nom à ses utilisateurs situés aux États-Unis — les internautes canadiens continuant de voir « lac Ontario » et les autres, les deux noms — un changement dont la Maison-Blanche s'est félicitée. La décision n'a aucune portée légale au Canada : Mark Carney a répondu que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario, le grand chef de la Nation huronne-wendat a exprimé son indignation, et Doug Ford a fait installer sur les rives une affiche portant « Lac Ontario, aujourd'hui et pour toujours ».",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lake_Ontario_Shoreline.jpg",
    "legende": "Le littoral du lac Ontario.",
    "photo_auteur": "SAF1999",
    "photo_licence": "CC0",
-   "horodate": "2026-08-29T21:39-04:00",
+   "horodate": "2026-08-30T15:30-04:00",
    "permalien": "trump-rebaptise-le-lac-ontario-lac-d-amerique-carney-hausse-09b1fe",
    "sources": [
     {
@@ -4871,6 +5244,30 @@
     {
      "media": "Acadie Nouvelle",
      "url": "https://www.acadienouvelle.com/actualites/2026/08/29/doug-ford-devoile-un-panneau-au-lac-ontario-en-riposte-a-donald-trump/"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/30/le-lac-ontario-devient-le-lac-amerique-sur-google-maps-aux-etats-unis"
+    },
+    {
+     "media": "Noovo Info",
+     "url": "https://www.noovo.info/nouvelles/societe/article/google-maps-change-lac-ontario-par-lac-amerique-aux-etats-unis/"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12040981/lake-ontario-lake-america-google-maps/"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://www.cbc.ca/news/canada/google-updates-maps-lake-ontario-9.7325922"
+    },
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/google-maps-lake-america-lake-ontario-u-s"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/etats-unis/le-lac-ontario-devient-le-lac-damerique-sur-le-google-maps-des-etats-unis-2ba9c918-a48e-11f1-94d9-ff4da0548a19"
     }
    ],
    "_volet": "report",
@@ -4878,13 +5275,13 @@
    "_slug": "trump-rebaptise-le-lac-ontario-lac-d-amerique-carney-hausse-09b1fe"
   },
   {
-   "titre": "Une crue dévastatrice au Népal laisse une trentaine de Canadiens portés disparus",
+   "titre": "Crue au Népal : trente-deux Canadiens portés disparus, Ottawa débloque 5 millions",
    "cahier": "canada",
    "rubrique": "societe",
    "territoire": "Népal, Tibet",
    "medias": "Québecor, Le Canada Français, Le Devoir, Radio-Canada, La Presse, CBC",
    "url": "https://www.tvanouvelles.ca/2026/08/26/coulee-de-boue-au-tibet--558-personnes-disparues-selon-un-nouveau-bilan",
-   "resume": "Les équipes de secours ont extrait jeudi les corps d'au moins 362 victimes de l'immense coulée de boue qui a dévasté la veille la région frontalière entre le Népal et le Tibet, tout en poursuivant les recherches pour retrouver plus de 1400 personnes toujours portées disparues. Parmi elles se trouveraient une trentaine de Canadiens, selon un bilan communiqué par les autorités et repris par Québecor. L'ambassadeur du Népal au Canada, Bharat Raj Paudyal, a expliqué ne pas être en mesure de fournir de détails sur l'identité des personnes recherchées, mais a rappelé que la région touchée est prisée des randonneurs et sert aussi de route fréquentée par les pèlerins, ce qui pourrait expliquer la présence de nombreux étrangers au moment de la catastrophe.\n\nÀ Toronto, la communauté népalaise du Canada tente de joindre des proches sur place pendant que des organismes locaux s'organisent pour envoyer de l'aide, rapporte Radio-Canada. Khagendra Kandel, membre du conseil d'administration de Nepalese Canadian Community Services, a décrit une communauté sous le choc, mobilisée pour soutenir les familles en attente de nouvelles. Le Devoir et La Presse ont tous deux repris le bilan des victimes au fil de la journée, chacun soulignant l'ampleur inhabituelle de la catastrophe pour la région himalayenne. Aucune aide gouvernementale canadienne n'avait été annoncée formellement au moment de la publication, même si Affaires mondiales Canada avait indiqué suivre la situation de près pour les ressortissants canadiens dans la zone touchée. Le bilan communiqué jeudi représente déjà l'un des plus lourds enregistrés dans la région himalayenne depuis plusieurs années, et les autorités népalaises ont prévenu que le nombre de victimes confirmées pourrait encore grimper à mesure que les équipes de secours progressent dans les zones les plus difficiles d'accès. La coordination entre les autorités népalaises, chinoises et canadiennes sur le terrain n'avait pas encore fait l'objet d'un point de presse conjoint au moment de la publication des quatre reportages.\n\n**Mise à jour, 21 h 30** — Dix résidents de Toronto figurent parmi les personnes portées disparues, a confirmé jeudi sur les ondes de CBC News Network Leslie Crespi, responsable des relations communautaires en Amérique du Nord pour la Fondation Isha, un organisme spirituel sans but lucratif établi aux États-Unis. Ces dix personnes font partie des 80 membres de l'organisation dont on est toujours sans nouvelles. Les organisateurs du voyage et les familles n'ont eu aucun contact avec le groupe depuis mercredi matin.\n\n**Mise à jour, 15 h 30** — Aucun Canadien ne figure parmi les 121 ressortissants étrangers secourus près de la frontière entre le Népal et la Chine, où la crue soudaine a frappé mercredi. Au moins 32 Canadiens manquaient toujours à l'appel vendredi.\n\n**Mise à jour, 21 h 30** — La ministre des Affaires étrangères, Anita Anand, a chiffré vendredi à 32 le nombre de citoyens canadiens et de résidents permanents toujours portés disparus, en appelant les Canadiens de la région à suivre les consignes des autorités locales. Aucun Canadien ne figure parmi les 121 ressortissants étrangers retrouvés jusqu'ici.\n\n**Mise à jour, 15 h 56** — La ministre des Affaires étrangères Anita Anand indique que 32 Canadiens et résidents permanents sont portés disparus dans la région, et aucun Canadien ne figure parmi les 121 ressortissants étrangers que l'Office du tourisme népalais disait vendredi avoir secourus. Ottawa annonce 5 millions de dollars d'aide humanitaire d'urgence, versés à des organisations comme la Croix-Rouge. Dhaval et Megha Shah, de Port Moody en Colombie-Britannique, figurent parmi les disparus : leur famille, jointe à Mumbai, dit être sans nouvelles depuis mardi et réclame que le gouvernement canadien fasse pression sur Katmandou pour obtenir des réponses.\n\n**Mise à jour, 21 h 30** — Trente-deux citoyens et résidents permanents canadiens figurent parmi les personnes portées disparues depuis la crue du 26 août, dont deux couples de la région métropolitaine de Vancouver : Dhaval et Megha Shah, de Port Moody, et Sumit et Shubakshi Rawla, de Coquitlam. Leurs proches disent n'avoir toujours aucune information sur leur sort.",
+   "resume": "Trente-deux citoyens et résidents permanents canadiens figurent parmi les personnes portées disparues depuis la coulée de boue du 26 août dans la région frontalière entre le Népal et le Tibet, dont deux couples de la région de Vancouver — Dhaval et Megha Shah, de Port Moody, et Sumit et Shubakshi Rawla, de Coquitlam — dont les proches disent n'avoir aucune nouvelle. Ottawa a annoncé 5 millions de dollars d'aide humanitaire d'urgence versés à des organisations comme la Croix-Rouge, alors qu'aucun Canadien ne figure parmi les 121 ressortissants étrangers que l'Office du tourisme népalais disait vendredi avoir secourus.",
    "photo": "",
    "legende": "",
    "photo_auteur": "",
