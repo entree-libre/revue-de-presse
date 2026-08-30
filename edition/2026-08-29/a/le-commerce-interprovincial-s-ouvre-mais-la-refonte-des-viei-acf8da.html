@@ -22,7 +22,7 @@
  <a href="../index.html">La une</a>
  <span class="sp"></span>
  <span id="etat" style="color:var(--muted)"></span>
- <button onclick="th()">Thème</button>
+ <button id="bth" onclick="th()" title="Changer de style — clic : style suivant">Thème</button>
  <button onclick="fo()">Police</button>
  <button onclick="co()">Colonnes</button>
  <button onclick="sz(.1)">A+</button>
@@ -85,8 +85,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){try{localStorage.setItem('revue-prefs',JSON.stringify(
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()}));}catch(e){}}
-function th(){var o=['','gris','beige','dark'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%4];save();etat();}
+function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%5];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -100,12 +100,15 @@ function dysload(){cdnfont('opendyslexic','dysf');}
 fontload();
 function co(){H.dataset.cols=H.dataset.cols==='1'?'':'1';save();etat();}
 function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))||1;
- v=Math.min(1.6,Math.max(.8,v+d));H.style.setProperty('--scale',v);save();etat();}
-function etat(){var e=document.getElementById('etat');if(!e)return;
+ v=Math.min(2.4,Math.max(.7,v+d));H.style.setProperty('--scale',v);save();etat();}
+function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre'}[H.dataset.theme||''];
- e.textContent=t+' · '+f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
+ var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
+  'contraste':'Contraste'}[H.dataset.theme||''];
+ var bt=document.getElementById('bth');if(bt)bt.textContent=t;
+ var e=document.getElementById('etat');if(!e)return;
+ e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
 /* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
