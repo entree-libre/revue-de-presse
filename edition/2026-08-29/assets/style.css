@@ -63,18 +63,35 @@ h1{font-family:var(--titre);font-size:3rem;line-height:1.05;margin:.35rem 0 .7re
 .chapeau p{line-height:1.7;margin:.6rem 0;font-size:.95rem}
 
 /* ------------------------------------------------------------- la manchette */
-.manchette{margin:0 0 2.2rem;border-bottom:2px solid var(--rule-fort);
- padding-bottom:1.8rem}
-.manchette .etiq{font-family:var(--ui);font-size:.68rem;letter-spacing:.16em;
- text-transform:uppercase;color:var(--accent);font-weight:800}
-.manchette figure{margin:.8rem 0 1rem}
-.manchette img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;
- display:block;background:var(--rule)}
-.manchette h2{font-family:var(--titre);font-size:2.6rem;line-height:1.08;
- margin:.4rem 0 .5rem;letter-spacing:-.02em;font-weight:700}
+.manchette{margin:0 0 2.6rem;background:var(--card);border:1px solid var(--rule);
+ border-top:4px solid var(--accent);border-radius:.3rem;
+ padding:1.4rem 1.8rem 1.6rem;box-shadow:0 14px 34px var(--ombre)}
+.manchette .etiq{font-family:var(--ui);font-size:.7rem;letter-spacing:.2em;
+ text-transform:uppercase;color:var(--accent);font-weight:800;
+ display:flex;align-items:center;gap:.7rem;margin-bottom:1rem}
+.manchette .etiq::after{content:"";flex:1;height:1px;background:var(--rule)}
+.man-grille{display:grid;grid-template-columns:7fr 5fr;gap:2.2rem;
+ align-items:center}
+.man-grille.sans-photo{grid-template-columns:1fr}
+.man-grille.sans-photo .man-texte{max-width:52rem;margin:0 auto}
+.manchette figure{margin:0}
+.manchette img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;
+ display:block;background:var(--rule);border-radius:.25rem}
+.manchette figcaption{font-family:var(--ui);font-size:.72rem;
+ color:var(--muted);margin-top:.45rem;text-align:left}
+.manchette h2{font-family:var(--titre);font-size:3rem;line-height:1.06;
+ margin:.3rem 0 .6rem;letter-spacing:-.022em;font-weight:800}
 .manchette h2 a{text-decoration:none;color:inherit}
 .manchette h2 a:hover{color:var(--accent)}
-.manchette .extrait{font-size:1.12rem;line-height:1.62;color:var(--fg)}
+.manchette .extrait{font-size:1.16rem;line-height:1.66;color:var(--fg)}
+.man-cta{display:inline-block;margin-top:1rem;background:var(--accent);
+ color:#fff;font-family:var(--ui);font-weight:700;font-size:.9rem;
+ padding:.65rem 1.15rem;border-radius:.3rem;text-decoration:none;
+ letter-spacing:.02em}
+.man-cta:hover{filter:brightness(1.12);color:#fff}
+@media (max-width:56rem){.man-grille{grid-template-columns:1fr;gap:1.1rem}
+ .manchette{padding:1.1rem 1rem 1.3rem}
+ .man-photo{order:-1}}
 .secondaires{display:grid;grid-template-columns:repeat(3,1fr);gap:0;
  margin:1.8rem 0 0;border-top:1px solid var(--rule);padding-top:1.2rem}
 .secondaires article.carte{border:0;padding:0 1.3rem;border-left:1px solid var(--rule)}
@@ -191,6 +208,12 @@ details.index .liste a{font-family:var(--ui);font-size:.75rem;text-decoration:no
  border:1px solid var(--rule);border-radius:0;padding:.25rem .6rem;color:var(--fg)}
 details.index .liste a:hover{border-color:var(--accent);color:var(--accent)}
 details.index .liste .n{color:var(--muted);font-size:.7rem}
+
+/* ----------------------------------------------------------- page sources */
+.page-sources{max-width:50rem;margin:1.4rem auto}
+.page-sources .liste{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.9rem}
+.page-sources .liste span{font-family:var(--ui);font-size:.75rem;
+ border:1px solid var(--rule);padding:.25rem .6rem;color:var(--fg)}
 
 /* ------------------------------------------------------------ page de sujet */
 .col-texte{max-width:50rem;margin:0 auto}
@@ -318,3 +341,12 @@ article.carte:hover{transform:translateY(-3px);box-shadow:0 6px 16px var(--ombre
 @media print{.toolbar,nav.cahiers,.retour,.filtre,details.index{display:none}
  body{background:#fff;color:#000}article.carte{break-inside:avoid}
  a{color:#000;text-decoration:none}}
+
+/* ---- deja consulte / mis a jour (memoire locale du navigateur) ---- */
+article.vu{opacity:.5}
+article.vu:hover,article.vu:focus-within{opacity:1}
+.badge-vu{display:inline-block;font:600 .68rem/1 var(--ui);letter-spacing:.07em;
+ text-transform:uppercase;margin:0 0 .4rem;padding:.2rem .5rem;
+ border-radius:.2rem;user-select:none}
+.b-vu{color:var(--muted);border:1px solid var(--rule)}
+.b-maj{color:var(--accent);border:1px solid var(--accent)}

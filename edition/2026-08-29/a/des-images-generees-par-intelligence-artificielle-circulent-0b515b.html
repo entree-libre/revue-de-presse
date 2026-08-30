@@ -18,14 +18,14 @@
 
 </head><body><div class="wrap">
 <div class="toolbar">
+ <a href="../index.html">La une</a>
+ <span class="sp"></span>
+ <span id="etat" style="color:var(--muted)"></span>
  <button onclick="th()">Thème</button>
  <button onclick="fo()">Police</button>
  <button onclick="co()">Colonnes</button>
  <button onclick="sz(.1)">A+</button>
  <button onclick="sz(-.1)">A&minus;</button>
- <span id="etat" style="color:var(--muted)"></span>
- <span class="sp"></span>
- <a href="../index.html">La une</a>
 </div>
 
 <nav class="cahiers"><a data-cahier="elections" href="../elections.html">Élections Québec 2026 <span class='n'>19</span></a><a data-cahier="quebec" href="../quebec.html">Québec et ses régions <span class='n'>41</span></a><a data-cahier="montreal" href="../montreal.html">Montréal et sa région <span class='n'>9</span></a><a data-cahier="canada" href="../canada.html">Canada <span class='n'>20</span></a><a data-cahier="international" href="../international.html">International <span class='n'>40</span></a><a class='on' data-cahier="savoirs" href="../savoirs.html">Savoirs <span class='n'>37</span></a></nav>
@@ -55,15 +55,13 @@
 <a href="sony-music-et-warner-chappell-poursuivent-anthropic-pour-l-e-202512.html"><span class="lbl">Sujet précédent</span>Sony Music et Warner Chappell poursuivent Anthropic pour l&#x27;entraînement de ses modèles</a>
 <a style="text-align:right" href="le-groupe-zerobytes-revendique-le-piratage-du-service-franca-95346e.html"><span class="lbl">Sujet suivant</span>Le groupe ZeroBytes revendique le piratage du service français Zéro Logement Vacant</a>
 </div></div></div>
+<script>window.VU={slug:"des-images-generees-par-intelligence-artificielle-circulent-0b515b",emp:"4c76250d3f"};</script>
 <footer class="pied">
 <h5>Contrôle</h5>
 <p>166 sujets. Médiane de 2.0 phrases par résumé.
 48 % des sujets reposent sur deux médias ou plus.
 Dépouillement : édition en continu, économie et opinions, elections, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>20 Minutes, ABC News, Acadie Nouvelle, Al Jazeera, Anadolu, APTN News, Awful Announcing, BFMTV, Canada&#x27;s National Observer, CBC, Clubic, CNEWS, CNews, Conseiller, Coops de l&#x27;information, Coops de l’information, Courrier international, Courrier Laval, ESA, Euromaidan Press, Euronews, FCEI, France 24, France 24 (AFP), Franceinfo, franceinfo, Global News, Gouvernement du Canada, Gouvernement du Québec, Groupe Lexis Média (Le Haute Côte-Nord, InfoBref, Infodimanche, Inserm, IRIS, Jerusalem Post, Kyiv Independent, Kyiv Post, L&#x27;actualité, L&#x27;Express, L&#x27;Orient-Le Jour, La Croix, La Dépêche, La Libre Belgique, La Libre.be, La Presse, La Presse (La Presse canadienne), La Relève, La Relève de Boucherville, La Tribune, La Voix de l&#x27;Est, Le Canada Français, Le Charlevoisien, Le Courrier du Sud, Le Devoir, Le Droit, Le Figaro, Le Haute Côte-Nord, Le HuffPost, Le Journal de Montréal, Le Manic, Le Monde, Le Nord-Côtier, Le Nord-Côtier), Le Nouvelliste, Le Parisien, Le Quotidien, Le Saint-François, Le Soleil, Le Soleil de Châteauguay, Le Temps, Les Affaires, Les Coops de l&#x27;information, Les Echos, Libération, Mac4Ever, MacGeneration, Meduza, Monlimoilou, Monsaintroch, Monsaintsauveur, Municipalité de Petite-Rivière-Saint-François, NASA, National Post, NY Post, Oilprice.com, ONU (Conseil de sécurité), ONU (Secrétaire général), Orange Actualités, Ouest-France, parlons-politique.fr, Pèse sur start, Politico Europe, Québec Urbain, Québecor, Radio-Canada, Radio-Canada (La Presse canadienne), Reuters, RFI, RTL, Statistique Canada, Sud Ouest, TF1 Info, The Associated Press, The Conversation, The Globe and Mail, The Guardian, The Independent, The Kyiv Independent, The Maritime Executive, The Moscow Times, The New York Times, The Verge, The Washington Post (via Meduza), TV5Monde, TV5MONDE, TV5Monde (AFP), TVA Nouvelles, TVP World, Ukrinform, United24 Media, Village de Senneville, Yahoo Actualités, ZDNet, Zone 911.</p>
-<p>Chaque sujet est une réécriture originale qui rapporte les faits en les
-attribuant à qui les a établis, et renvoie à l'article d'origine. Les textes
-des rédactions citées leur appartiennent ; ce journal invite à les lire.</p>
+<h5>Sources</h5><p>124 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>57 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -136,4 +134,46 @@ function partager(btn){
    var s=txt.textContent;txt.textContent='Lien copié ✓';
    setTimeout(function(){txt.textContent=s;},1800);});}
 }
+
+/* ---- memoire du deja-vu : un sujet consulte se grise ; il se re-signale
+   si des articles s'y ajoutent (l'empreinte data-emp change) ---- */
+function vusLire(){try{return JSON.parse(localStorage.getItem('revue-vus')||'{}');}catch(e){return {};}}
+function vusEcrire(v){try{
+ var k=Object.keys(v);
+ if(k.length>800){k.sort(function(a,b){return (v[a].t||0)-(v[b].t||0);});
+  k.slice(0,k.length-800).forEach(function(s){delete v[s];});}
+ localStorage.setItem('revue-vus',JSON.stringify(v));}catch(e){}}
+function vuMarquer(slug,emp){if(!slug)return;
+ var v=vusLire();v[slug]={e:emp,t:Date.now()};vusEcrire(v);}
+function vuBadge(el,txt,cls){
+ var b=el.querySelector('.badge-vu');
+ if(!b){b=document.createElement('span');
+  var c=el.querySelector('.terr, h4.titre, h2.dtitre');
+  if(c)c.parentNode.insertBefore(b,c);else el.insertBefore(b,el.firstChild);}
+ b.textContent=txt;b.className='badge-vu '+cls;}
+function vusAppliquer(){
+ var v=vusLire();
+ document.querySelectorAll('article[data-slug]').forEach(function(el){
+  var m=v[el.dataset.slug];
+  el.classList.remove('vu','maj');
+  if(!m)return;
+  if(m.e===el.dataset.emp){el.classList.add('vu');vuBadge(el,'✓ Déjà consulté','b-vu');}
+  else{el.classList.add('maj');vuBadge(el,'● Nouveaux articles','b-maj');}
+ });}
+document.addEventListener('DOMContentLoaded',function(){
+ if(window.VU)vuMarquer(VU.slug,VU.emp);
+ vusAppliquer();
+ /* apercu autonome : un sujet deplie est consulte une fois qu'on l'a fait
+    defiler jusqu'au bout */
+ var dep=document.querySelectorAll('article.deplie[data-slug]');
+ if(dep.length&&('IntersectionObserver' in window)){
+  var io=new IntersectionObserver(function(ens){
+   ens.forEach(function(en){
+    if(!en.isIntersecting&&en.boundingClientRect.bottom<0){
+     vuMarquer(en.target.dataset.slug,en.target.dataset.emp);
+     io.unobserve(en.target);}});
+  },{threshold:0});
+  dep.forEach(function(el){io.observe(el);});
+ }
+});
 </script></body></html>
