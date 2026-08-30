@@ -491,7 +491,7 @@
    "cahier": "elections",
    "rubrique": "societe",
    "territoire": "Québec",
-   "medias": "Québecor, Le Devoir, CBC",
+   "medias": "Québecor, Le Devoir, CBC, La Presse",
    "url": "https://www.ledevoir.com/politique/quebec/1005113/pq-donne-quatre-ans-renverser-declin-francais",
    "resume": "Paul St-Pierre Plamondon soutient qu'un gouvernement péquiste renverserait en un seul mandat de quatre ans ce qu'il appelle le pire déclin du français de l'histoire du Québec, avec un plan qui étend la loi 101 au cégep, l'applique aux enfants d'immigrants temporaires après douze mois au Québec, exige des détenteurs de permis de travail un français de niveau 5 sur l'échelle québécoise des compétences — les travailleurs agricoles exceptés — et réserve 10 % de la note à la qualité du français dans toutes les matières scolaires. Le chef péquiste ordonnerait aussi une enquête sur la langue de socialisation des jeunes dans les écoles de Montréal et de Laval avant d'envisager d'en réglementer l'usage dans les corridors — « ce n'est pas sur la table », a-t-il dit dimanche à Québec, « mais ça dépend de ce qu'on découvrira » —, tout en affirmant que seule l'indépendance protégerait la langue à long terme.",
    "photo": "",
@@ -509,6 +509,10 @@
     {
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/montreal/day-4-quebec-election-campaign-9.7325954"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-30/protection-du-francais/le-pq-veut-enqueter-sur-la-langue-de-socialisation-dans-les-ecoles.php"
     }
    ],
    "permalien": "le-pq-se-donne-un-mandat-pour-renverser-le-declin-du-francai-fc5635",
@@ -559,6 +563,72 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-08-30.json",
    "_slug": "controle-des-loyers-ses-adversaires-y-voient-un-frein-a-la-c-54ec3a"
+  },
+  {
+   "titre": "Réduire la fonction publique : une promesse de campagne qu'aucun gouvernement québécois n'a tenue",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/08/29/on-a-souvent-promis-mais-jamais-reduit-la-taille-de-la-fonction-publique",
+   "resume": "La promesse de réduire la taille de la fonction publique québécoise — l'une des dix plus populaires selon un sondage Léger commandé par Le Journal et TVA — revient à chaque élection sans jamais aboutir, rappelle le chroniqueur Antoine Robitaille : les libéraux de Robert Bourassa, portés au pouvoir en 1985, ont fait passer le nombre de fonctionnaires de 53 927 à 52 164 avant qu'il ne reparte à la hausse dès 1988, et huit ans après l'engagement de François Legault de couper d'abord chez ceux qui écrivent des « rapports sur les rapports », l'État québécois compte plus d'employés que jamais. Il y voit un paradoxe québécois — une population qui demande à l'État de presque tout faire tout en exigeant qu'il soit petit et peu coûteux —, dans une société où l'appareil public a hérité selon lui de la place qu'occupait l'Église et s'est nourri autant de la social-démocratie française que des modèles nordiques.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/29/on-a-souvent-promis-mais-jamais-reduit-la-taille-de-la-fonction-publique"
+    }
+   ],
+   "horodate": "2026-08-30T15:22-04:00",
+   "permalien": "reduire-la-fonction-publique-une-promesse-de-campagne-qu-auc-665587",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-30.json",
+   "_slug": "reduire-la-fonction-publique-une-promesse-de-campagne-qu-auc-665587"
+  },
+  {
+   "titre": "Immigration : au-delà des seuils, les partis attendus sur l'intégration et la francisation",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/08/26/devrait-on-reduire-ou-pas-limmigration",
+   "resume": "Réduire l'immigration figure parmi les dix promesses les plus populaires du sondage Léger commandé par Le Journal et TVA, mais la chroniqueuse Josée Legault soutient qu'un certain discours politique québécois, sous la Coalition avenir Québec en particulier, en a fait à tort la cause première de la crise du logement, de la montée de l'itinérance et des ratés du réseau scolaire — une façon, selon elle, de nier toute responsabilité gouvernementale en amont, alors que ces crises étaient engagées bien avant les hausses décidées sous le gouvernement Trudeau, qui les ont aggravées. Elle prévoit que même les électeurs favorables à une réduction attendront des partis un discours moins axé sur le blâme, tenant compte de la capacité d'accueil réelle du Québec, et surtout des explications sur la manière dont ils entendent redresser des politiques d'intégration et de francisation qui, de toute évidence, ne suffisent pas à la tâche.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/26/devrait-on-reduire-ou-pas-limmigration"
+    }
+   ],
+   "horodate": "2026-08-30T15:22-04:00",
+   "permalien": "immigration-au-dela-des-seuils-les-partis-attendus-sur-l-int-b9d340",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-30.json",
+   "_slug": "immigration-au-dela-des-seuils-les-partis-attendus-sur-l-int-b9d340"
+  },
+  {
+   "titre": "Interdire les réseaux sociaux aux moins de 16 ans : une promesse populaire jugée inapplicable",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/08/29/linterdiction-des-reseaux-sociaux-aux-moins-de-16-ans-serait-ingerable",
+   "resume": "Interdire l'accès aux réseaux sociaux aux moins de 16 ans compte parmi les dix promesses les plus populaires du sondage Léger commandé par Le Journal et TVA, mais la chroniqueuse Isabelle Maréchal la juge excellente en théorie et ingérable en pratique : les obstacles techniques, la confidentialité et la protection de la vie privée s'y opposent, et les jeunes contournent déjà les barrières d'âge existantes avec des réseaux privés virtuels ou de fausses déclarations. Elle doute qu'un véritable encadrement des plateformes vienne d'Ottawa — Meta bloque depuis trois ans le partage de contenus d'information canadiens et trouve, dit-elle, plus payant de payer des amendes que de se donner des garde-fous —, et plaide pour développer plutôt le sens critique des jeunes et leur apprendre à gérer leur consommation numérique, à commencer par l'exemple des adultes.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/29/linterdiction-des-reseaux-sociaux-aux-moins-de-16-ans-serait-ingerable"
+    }
+   ],
+   "horodate": "2026-08-30T15:22-04:00",
+   "permalien": "interdire-les-reseaux-sociaux-aux-moins-de-16-ans-une-promes-76b5cf",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-30.json",
+   "_slug": "interdire-les-reseaux-sociaux-aux-moins-de-16-ans-une-promes-76b5cf"
   },
   {
    "titre": "Un suspect brise la vitrine d'un restaurant de Saint-Michel pour y mettre le feu",
