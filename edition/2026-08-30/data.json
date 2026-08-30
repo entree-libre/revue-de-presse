@@ -2,6 +2,7 @@
  "date": "2026-08-30",
  "volets": [
   "monde",
+  "quebec-canada",
   "report"
  ],
  "articles": [
@@ -78,6 +79,206 @@
    "_volet": "monde",
    "_fichier": "revue-monde-2026-08-30.json",
    "_slug": "le-nouveau-guide-supreme-iranien-mojtaba-khamenei-appelle-le-9690d0"
+  },
+  {
+   "titre": "L'accord pétrolier entre les États-Unis et le Venezuela est «un très mauvais signal» pour le Canada, selon un analyste",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Radio-Canada, Journal de Montréal",
+   "url": "https://ici.radio-canada.ca/en-bref/90-17093/venezuela-accord-trump-etats-unis",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/90-17093/venezuela-accord-trump-etats-unis"
+    },
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/29/laccord-petrolier-etats-unis-venezuela-est-un-tres-mauvais-signal-pour-le-canada-selon-un-analyste"
+    }
+   ],
+   "resume": "Les États-Unis et le Venezuela ont annoncé vendredi un accord pétrolier portant sur 17 champs jugés stratégiques et un potentiel de 65 milliards de barils, assorti d'un investissement prévu de 100 milliards de dollars, mais des experts et des opposants vénézuéliens craignent qu'il donne trop de contrôle à Washington sur les ressources du pays. L'analyste politique Georges Mercier y voit «un très mauvais signal» pour le pétrole canadien, de qualité similaire à celui du Venezuela: si l'accord se concrétise, la position de négociation du Canada auprès des raffineries américaines pourrait s'affaiblir, bien que les liens institutionnels et les pipelines existants retardent tout effet réel.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-30T05:49-04:00",
+   "permalien": "l-accord-petrolier-entre-les-etats-unis-et-le-venezuela-est-c931aa",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-30.json",
+   "_slug": "l-accord-petrolier-entre-les-etats-unis-et-le-venezuela-est-c931aa"
+  },
+  {
+   "titre": "Le Canada et le Chili resserrent leur collaboration sur les minéraux critiques",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Gouvernement du Canada",
+   "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/08/le-canada-et-le-chili-resserrent-leur-collaboration-dans-le-secteur-des-mineraux-critiques-pour-diversifier-les-echanges-stimuler-notre-economie-et.html",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/08/le-canada-et-le-chili-resserrent-leur-collaboration-dans-le-secteur-des-mineraux-critiques-pour-diversifier-les-echanges-stimuler-notre-economie-et.html"
+    }
+   ],
+   "resume": "Le secrétaire parlementaire du ministre de l'Énergie et des Ressources naturelles, Claude Guay, a représenté le Canada cette semaine à la Conférence des ministères des mines des Amériques, à Santiago, où il a fait valoir les perspectives commerciales des entreprises minières canadiennes, selon un communiqué du gouvernement fédéral. Ottawa y présente le Canada comme un partenaire fiable pour l'approvisionnement sûr en minéraux critiques et comme destination d'investissement compétitive à l'échelle mondiale.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-30T05:49-04:00",
+   "permalien": "le-canada-et-le-chili-resserrent-leur-collaboration-sur-les-9d7839",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-30.json",
+   "_slug": "le-canada-et-le-chili-resserrent-leur-collaboration-sur-les-9d7839"
+  },
+  {
+   "titre": "Plus de 100 personnes manifestent à Hamilton contre une conférence du groupe nationaliste Dominion Society",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Ontario",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/hamilton/rally-hope-not-hate-dominion-society-9.7325522",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/hamilton/rally-hope-not-hate-dominion-society-9.7325522"
+    }
+   ],
+   "resume": "Plus de 100 personnes se sont rassemblées samedi devant l'hôtel de ville de Hamilton pour dénoncer la tenue d'une conférence du Dominion Society, un groupe qui prône la «remigration», soit l'expulsion de cinq à neuf millions de personnes vivant au Canada, rapporte CBC News. Repoussé de Hamilton après l'annulation de deux réservations, l'événement s'est finalement tenu à Burlington, où le conférencier Martin Sellner — qualifié d'extrémiste d'extrême droite par CBC et à qui le Canada a refusé un visa — a pris la parole par vidéo préenregistrée.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-30T05:49-04:00",
+   "permalien": "plus-de-100-personnes-manifestent-a-hamilton-contre-une-conf-ba1ccc",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-30.json",
+   "_slug": "plus-de-100-personnes-manifestent-a-hamilton-contre-une-conf-ba1ccc"
+  },
+  {
+   "titre": "La cheffe conservatrice de la Colombie-Britannique visée par un enregistrement controversé à l'approche d'une élection partielle",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Colombie-Britannique",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12040396/bc-byelection-conservatives-kerry-lynne-findlay-audio/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12040396/bc-byelection-conservatives-kerry-lynne-findlay-audio/"
+    }
+   ],
+   "resume": "Une élection partielle a été déclenchée en Colombie-Britannique après la démission d'une élue conservatrice, ouvrant la voie à la cheffe du parti Kerry-Lynne Findlay, qui ne siège pas à l'Assemblée législative, mais un enregistrement diffusé sur les réseaux sociaux la fait entendre évoquer un poste de conseillère pour quiconque céderait son siège, rapporte Global News. Mme Findlay qualifie cet enregistrement non vérifié de «travail de sape politique», alors que son parti a perdu six élus en un mois.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-30T05:49-04:00",
+   "permalien": "la-cheffe-conservatrice-de-la-colombie-britannique-visee-par-d10476",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-30.json",
+   "_slug": "la-cheffe-conservatrice-de-la-colombie-britannique-visee-par-d10476"
+  },
+  {
+   "titre": "Le fournisseur de télécommunications Eastlink signale une brèche de données",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada atlantique",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/nova-scotia/eastlink-data-breach-august-2026-9.7325413",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/nova-scotia/eastlink-data-breach-august-2026-9.7325413"
+    }
+   ],
+   "resume": "Le fournisseur de télécommunications Eastlink, actif dans sept provinces et aux Bermudes, avise ses clients d'une possible brèche ayant pu exposer noms, coordonnées, numéros de compte et NIP entre mercredi soir et jeudi matin, rapporte CBC News. L'entreprise affirme ne pas croire que des données bancaires ou de cartes de crédit aient été compromises, mais n'a pas précisé le nombre de personnes touchées.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/View_of_Atlantic_Canada_from_the_Air_%28August_2023%29_01.jpg/1280px-View_of_Atlantic_Canada_from_the_Air_%28August_2023%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le Canada atlantique, où le fournisseur Eastlink est établi.",
+   "photo_auteur": "DiscoA340",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-08-30T05:49-04:00",
+   "permalien": "le-fournisseur-de-telecommunications-eastlink-signale-une-br-3b28d0",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-30.json",
+   "_slug": "le-fournisseur-de-telecommunications-eastlink-signale-une-br-3b28d0"
+  },
+  {
+   "titre": "Des détaillants du Bas-Saint-Laurent misent sur les électroménagers sud-coréens pour contourner le boycottage américain",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Journal de Québec, Gouvernement du Canada",
+   "url": "https://www.journaldequebec.com/2026/08/29/des-electros-coreens-pour-contourner-le-boycott-americain",
+   "sources": [
+    {
+     "media": "Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/08/29/des-electros-coreens-pour-contourner-le-boycott-americain"
+    },
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/le-canada-annonce-des-contre-mesures-ciblees-ainsi-que-des-mesures-importantes-pour-soutenir-les-travailleurs-et-les-entreprises-en-reponse-aux-dro.html"
+    }
+   ],
+   "resume": "Des détaillants d'électroménagers du Bas-Saint-Laurent et du Centre-du-Québec se tournent vers la marque sud-coréenne LG pour répondre à une clientèle qui boycotte les produits américains et pour limiter l'effet des contre-tarifs canadiens sur les prix, rapporte le Journal de Québec. Ces contre-tarifs, annoncés par Ottawa en réponse aux droits de douane américains, entrent en vigueur le 8 septembre, mais les nouveaux prix des fournisseurs d'électroménagers ne seront appliqués qu'en octobre, selon les détaillants interrogés.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-30T05:49-04:00",
+   "permalien": "des-detaillants-du-bas-saint-laurent-misent-sur-les-electrom-ea17dd",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-30.json",
+   "_slug": "des-detaillants-du-bas-saint-laurent-misent-sur-les-electrom-ea17dd"
+  },
+  {
+   "titre": "Québec prolonge jusqu'en 2027 le recours aux agences de placement dans six régions éloignées",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/sante/2026-08-30/reseau-public-de-sante/le-recours-aux-agences-prolonge-dans-certaines-regions.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-08-30/reseau-public-de-sante/le-recours-aux-agences-prolonge-dans-certaines-regions.php"
+    }
+   ],
+   "resume": "Santé Québec accorde une dérogation «exceptionnelle et ciblée» à six régions — Côte-Nord, Abitibi-Témiscamingue, Gaspésie, Îles-de-la-Madeleine, Bas-Saint-Laurent et Outaouais —, leur permettant de continuer à recourir à des agences de placement de personnel jusqu'au 31 octobre 2027 plutôt que d'y mettre fin d'ici le 18 octobre, rapporte La Presse. Le personnel d'agence y a travaillé plus de 50 000 heures lors de la dernière période de paie, une baisse de 68 % depuis 2023-2024, mais des représentants syndicaux de la Côte-Nord et de l'Outaouais réclament un plan durable plutôt qu'un simple report.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-08-30T05:49-04:00",
+   "permalien": "quebec-prolonge-jusqu-en-2027-le-recours-aux-agences-de-plac-29e52b",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-30.json",
+   "_slug": "quebec-prolonge-jusqu-en-2027-le-recours-aux-agences-de-plac-29e52b"
+  },
+  {
+   "titre": "Le meurtrier de Roxanne Fernando obtient des sorties sous escorte",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Manitoba",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278740/meurtre-roxanne-fernando-plourde-sorties",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278740/meurtre-roxanne-fernando-plourde-sorties"
+    }
+   ],
+   "resume": "La Commission des libérations conditionnelles du Canada a accordé six mois de sorties sous escorte à Nathanael Plourde, condamné à perpétuité pour le meurtre prémédité de Roxanne Fernando, tuée à Winnipeg en 2007 alors qu'elle était enceinte, afin qu'il poursuive une formation en menuiserie-charpenterie, rapporte Radio-Canada. Une expertise psychologique de 2025 juge son risque de récidive faible à modéré-faible, et l'homme, détenu en milieu à sécurité minimale depuis 2019, n'a fait l'objet d'aucun rapport disciplinaire.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canadian_Museum_for_Human_Rights_and_downtown_Winnipeg_skyline_at_night%2C_Manitoba%2C_Canada.jpg/1280px-Canadian_Museum_for_Human_Rights_and_downtown_Winnipeg_skyline_at_night%2C_Manitoba%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Winnipeg, où Roxanne Fernando a été tuée en 2007.",
+   "photo_auteur": "Ethan Sahagun",
+   "photo_licence": "CC BY 4.0",
+   "horodate": "2026-08-30T05:49-04:00",
+   "permalien": "le-meurtrier-de-roxanne-fernando-obtient-des-sorties-sous-es-19bf7e",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-30.json",
+   "_slug": "le-meurtrier-de-roxanne-fernando-obtient-des-sorties-sous-es-19bf7e"
   },
   {
    "titre": "Kyiv dit détenir des renseignements sur une nouvelle offensive terrestre russe vers la capitale",
@@ -2889,7 +3090,7 @@
    "cahier": "canada",
    "rubrique": "diplomatie",
    "territoire": "Canada",
-   "medias": "Le Devoir, Radio-Canada",
+   "medias": "Le Devoir, Radio-Canada, La Presse, CBC",
    "url": "https://www.ledevoir.com/politique/canada/1005077/doug-ford-devoile-panneau-lac-ontario-riposte-donald-trump",
    "sources": [
     {
@@ -2899,6 +3100,14 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2278840/lac-ontario-nom-ford-trump"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/national/2026-08-29/doug-ford-devoile-un-panneau-au-lac-ontario-en-riposte-a-donald-trump.php"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/toronto/ford-unveils-lake-ontario-sign-winona-u-s-trade-war-9.7325528"
     }
    ],
    "resume": "Le premier ministre ontarien Doug Ford a dévoilé samedi, près de Hamilton, un panneau réaffirmant le nom du lac Ontario, deux jours après que le président américain Donald Trump a signé un décret pour le rebaptiser « lac d'Amérique » en pleine guerre commerciale déclenchée par l'échec des négociations bilatérales du 21 août. Le grand chef de la Nation wendat, Pierre Picard, a dénoncé un geste « odieux » cherchant à effacer un nom d'origine autochtone, tandis qu'Ottawa a répliqué aux droits de douane américains de 50 % sur des exportations canadiennes par des tarifs de représailles de 15 à 50 % entrant en vigueur le 8 septembre.",
@@ -3057,12 +3266,16 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, Gouvernement du Canada",
    "url": "https://ici.radio-canada.ca/nouvelle/2278779/droits-douane-americains-questions-juridiques",
    "sources": [
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2278779/droits-douane-americains-questions-juridiques"
+    },
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/le-canada-annonce-des-contre-mesures-ciblees-ainsi-que-des-mesures-importantes-pour-soutenir-les-travailleurs-et-les-entreprises-en-reponse-aux-dro.html"
     }
    ],
    "resume": "Le président américain Donald Trump s'appuie sur une disposition tarifaire vieille de 96 ans et jamais utilisée avant lui, l'article 338 de la loi douanière de 1930, pour imposer une taxe de 50 % sur 28 milliards de dollars d'importations canadiennes, mais plusieurs juristes américains doutent que cette loi soit toujours valide ou correctement appliquée, rapporte La Presse canadienne. Le Liberty Justice Center, qui a déjà fait invalider d'autres tarifs de M. Trump devant la Cour suprême, cherche des entreprises prêtes à les contester, sans succès pour l'instant.",
