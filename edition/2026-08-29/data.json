@@ -3,6 +3,7 @@
  "volets": [
   "continu",
   "economie-opinions",
+  "elections",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -650,6 +651,222 @@
    "_volet": "economie-opinions",
    "_fichier": "revue-economie-opinions-2026-08-29.json",
    "_slug": "des-logements-abordables-intermediaires-a-plus-de-2000-par-m-e3f1e9"
+  },
+  {
+   "titre": "Devant une école de Chauveau, le PQ lie l’immigration à la surpopulation scolaire; le PLQ et QS dénoncent",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Chauveau)",
+   "medias": "Radio-Canada, Le Devoir, La Presse, Coops de l’information, Global News",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278866/pspp-immigration-milliard-ghazal-ecole-quebec-seuils",
+   "resume": "Paul St-Pierre Plamondon a attribué la surpopulation de l’école secondaire Roger-Comtois, à Québec, à une « perte de contrôle totale » du système d’immigration sous la CAQ, et s’est engagé à ramener le nombre d’immigrants temporaires de 500 000 à une fourchette de 200 000 à 250 000, à imposer un moratoire sur l’immigration économique internationale et à abaisser à 35 000 le seuil d’immigration permanente — questionné par les journalistes, il n’a pu confirmer que les 24 classes modulaires de cette école soient liées à la hausse de l’immigration. Charles Milliard a jugé « maladroit et malaisant » d’instrumentaliser les jeunes immigrants et rappelé que la région de Québec dit manquer d’au moins 13 000 travailleurs, Ruba Ghazal a qualifié d’« épouvantable » cette façon de parler de l’immigration, et Christine Fréchette, ministre de l’Immigration de 2022 à 2024, a maintenu le seuil permanent de 45 000 par an tout en reconnaissant que les quelque 200 000 demandeurs d’asile accueillis dépassent la capacité d’accueil du Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T20:13-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278866/pspp-immigration-milliard-ghazal-ecole-quebec-seuils"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005041/pspp-associe-immigration-debordement-ecoles-crise-logement"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/annonce-sur-l-immigration-devant-une-ecole/milliard-accuse-st-pierre-plamondon-d-avoir-manque-de-classe.php"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/le-pq-promet-une-diminution-significative-de-l-immigration.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005059/remontee-caq-lance-duel-hostilites-entre-pspp-frechette"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/08/29/paul-st-pierre-plamondon-veut-reprendre-le-controle-de-limmigration-NJX2SRHJ7NAMLIDSUKI4TFSF7I/"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10747980/elections-quebec-2026-parti-quebecois-veut-revoir-seuils-immigration"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12040627/quebec-election-day-3/"
+    }
+   ],
+   "permalien": "devant-une-ecole-de-chauveau-le-pq-lie-limmigration-a-la-sur-614902",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-29.json",
+   "_slug": "devant-une-ecole-de-chauveau-le-pq-lie-limmigration-a-la-sur-614902"
+  },
+  {
+   "titre": "Fréchette courtise les souverainistes « lucides » opposés à un référendum",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Drummondville",
+   "medias": "Québecor, Le Devoir, La Presse",
+   "url": "https://www.journaldequebec.com/2026/08/29/christine-frechette-lance-un-appel-aux-souverainistes",
+   "resume": "En marge d’une annonce sur le soutien à domicile à Drummondville, Christine Fréchette a invité les indépendantistes « lucides et réalistes » — ceux qui jugent inopportun un référendum au cours des quatre prochaines années — à se rallier à la Coalition avenir Québec, pourvu qu’ils respectent l’« ADN » nationaliste et pro-développement économique du parti. S’appuyant sur les sondages récents, la première ministre sortante a soutenu qu’une large majorité de Québécois ne veut pas du référendum promis par Paul St-Pierre Plamondon et qu’en plein conflit commercial avec les États-Unis, en tenir un ne serait pas « faire preuve de jugement ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T20:13-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/08/29/christine-frechette-lance-un-appel-aux-souverainistes"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005023/frechette-courtise-independantistes-lucides-realistes"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/frechette-lance-un-appel-aux-souverainistes-lucides.php"
+    }
+   ],
+   "permalien": "frechette-courtise-les-souverainistes-lucides-opposes-a-un-r-24870a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-29.json",
+   "_slug": "frechette-courtise-les-souverainistes-lucides-opposes-a-un-r-24870a"
+  },
+  {
+   "titre": "Québec solidaire promet 23 milliards sur dix ans en transport collectif et rejette tout troisième lien",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "Radio-Canada, La Presse, Québecor, Coops de l’information, Les Affaires",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278802/campagne-electorale-mobilite",
+   "resume": "De passage dans la Capitale-Nationale, Ruba Ghazal a promis un investissement de 23 milliards de dollars sur dix ans pour réparer les réseaux de trains, d’autobus et de voies réservées et lancer de nouveaux chantiers : première phase du tramway de Québec et planification d’une seconde, prolongement de la ligne orange à Laval, projet structurant de l’Est de Montréal et tramway de Gatineau raccordé à l’O-Train. La co-porte-parole a réitéré qu’« il n’y en aura pas de troisième lien, peu importe sa forme », y compris la version réservée au transport collectif proposée par le Parti québécois, que le candidat solidaire de Taschereau, Etienne Grandmont, juge trop coûteuse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T20:13-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278802/campagne-electorale-mobilite"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/plan-sur-10-ans/un-chantier-national-de-23-milliards-en-transport-collectif-promet-ghazal.php"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/le-fil-electoral/quebec-solidaire-promet-des-investissements-massifs-en-transport-collectif.php"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/08/29/qs-dit-non-a-un-troisieme-lien-peu-importe-la-forme"
+    },
+    {
+     "media": "La Voix de l’Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/08/29/quebec-solidaire-veut-faire-du-transport-collectif-une-priorite-nationale-AQKLHX5Q6VEGTFRB6NKALC26ZI/"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/quebec-solidaire-veut-reparer-et-developper-le-transport-collectif/"
+    }
+   ],
+   "permalien": "quebec-solidaire-promet-23-milliards-sur-dix-ans-en-transpor-297c46",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-29.json",
+   "_slug": "quebec-solidaire-promet-23-milliards-sur-dix-ans-en-transpor-297c46"
+  },
+  {
+   "titre": "Milliard promet une équipe « Efficacité Québec » et une règle du deux pour un sur la réglementation",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Mauricie",
+   "medias": "Coops de l’information, Le Devoir, La Presse",
+   "url": "https://www.latribune.ca/elections-provinciales-2026/2026/08/29/charles-milliard-mise-sur-efficacite-quebec-pour-debloquer-les-projets-des-pme-VQ4W7MUUD5E3ZB4YCA6CL3ELFE/",
+   "resume": "En Mauricie, Charles Milliard s’est engagé à imposer un moratoire sur toute nouvelle réglementation alourdissant les démarches des PME, une règle du « deux pour un » retirant deux exigences administratives pour chaque nouvelle, des délais de réponse obligatoires pour les ministères, un délai de paiement de 30 jours aux fournisseurs de l’État et la création d’« Efficacité Québec », une équipe chargée de débloquer les projets coincés entre plusieurs ministères. Le chef libéral chiffre à près de 11 milliards de dollars par année le fardeau administratif des entreprises québécoises et à 2,4 milliards les coûts réglementaires ajoutés par la CAQ en huit ans, mais il n’a pu nommer une PME de la région confrontée aux blocages qu’il dénonce.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T20:13-04:00",
+   "sources": [
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/08/29/charles-milliard-mise-sur-efficacite-quebec-pour-debloquer-les-projets-des-pme-VQ4W7MUUD5E3ZB4YCA6CL3ELFE/"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005032/milliard-propose-creer-equipe-efficacite-quebec-reduire-delais-bureaucratiques"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-29/fardeau-administratif/milliard-veut-creer-une-equipe-efficacite-quebec-pour-aider-les-pme.php"
+    }
+   ],
+   "permalien": "milliard-promet-une-equipe-efficacite-quebec-et-une-regle-du-2ab4e7",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-29.json",
+   "_slug": "milliard-promet-une-equipe-efficacite-quebec-et-une-regle-du-2ab4e7"
+  },
+  {
+   "titre": "L’ex-députée libérale Caroline Simard portera les couleurs du PCQ dans Charlevoix–Côte-de-Beaupré",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Charlevoix–Côte-de-Beaupré",
+   "medias": "Radio-Canada, Le Devoir, Coops de l’information, Le Charlevoisien",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278879/duhaime-conservateur-charlevoix-caroline",
+   "resume": "Élue libérale en 2014 devant Pauline Marois, Caroline Simard revient en politique sous la bannière conservatrice, présentée samedi à La Malbaie par Éric Duhaime; elle assure n’avoir plus de lien avec le PLQ, se dit « régionaliste » et fait de la santé son principal cheval de bataille, en défendant l’ajout de la contribution du privé au réseau public pour accélérer l’accès aux soins. Elle appuie un troisième lien passant par l’île d’Orléans et s’est réjouie que le candidat péquiste François Gariépy en ait dit du bien à la radio en juillet, alors que M. Duhaime prédit une « chaude lutte » dans la circonscription.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T20:13-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278879/duhaime-conservateur-charlevoix-caroline"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005056/ex-liberale-caroline-simard-portera-couleurs-conservatrices-charlevoix"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/08/29/lex-deputee-liberale-caroline-simard-passe-chez-les-conservateurs-JOIPLUXFMBGP7FQRHD4MMLMJ2Q/"
+    },
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/08/29/caroline-simard-se-relance-en-politique-avec-le-pcq/"
+    },
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/08/29/caroline-simard-veut-relancer-les-dossiers-regionaux/"
+    }
+   ],
+   "permalien": "lex-deputee-liberale-caroline-simard-portera-les-couleurs-du-f3f95c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-29.json",
+   "_slug": "lex-deputee-liberale-caroline-simard-portera-les-couleurs-du-f3f95c"
+  },
+  {
+   "titre": "Fréchette promet un milliard de plus sur quatre ans pour le soutien à domicile",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Drummondville",
+   "medias": "Québecor, Global News",
+   "url": "https://www.journaldequebec.com/2026/08/29/plan-pour-les-aines-christine-frechette-promet-un-milliard-de-plus-pour-le-soutien-a-domicile",
+   "resume": "À Drummondville, Christine Fréchette s’est engagée à investir un milliard de dollars de plus sur quatre ans dans le soutien à domicile pour permettre à davantage d’aînés de demeurer chez eux, une mesure qui s’ajoute à l’engagement caquiste de construire 2000 logements abordables pour aînés. Interrogée sur les maisons des aînés bâties par son gouvernement, la première ministre sortante a reconnu qu’elles ont coûté « très cher » aux contribuables, tout en estimant que le tir a été corrigé depuis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-29T20:13-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/08/29/plan-pour-les-aines-christine-frechette-promet-un-milliard-de-plus-pour-le-soutien-a-domicile"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12040627/quebec-election-day-3/"
+    }
+   ],
+   "permalien": "frechette-promet-un-milliard-de-plus-sur-quatre-ans-pour-le-23ef0a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-29.json",
+   "_slug": "frechette-promet-un-milliard-de-plus-sur-quatre-ans-pour-le-23ef0a"
   },
   {
    "titre": "Frappe russe sur un dépôt de munitions près de Kyiv : 37 morts, la plus meurtrière de l'année",
