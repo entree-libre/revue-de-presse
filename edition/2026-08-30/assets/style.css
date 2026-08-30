@@ -25,9 +25,22 @@ html[data-theme="contraste"]{--bg:#000000;--fg:#ffffff;--muted:#e8e8e8;--rule:#f
  --rule-fort:#ffffff;--accent:#ffd400;--accent-fg:#000000;--accent-txt:#ffd400;
  --link:#ffd400;--card:#000000;
  --ombre:rgba(0,0,0,0);}
-html[data-theme="contraste"] a{text-decoration:underline}
+html[data-theme="contraste"] a{text-decoration:underline;
+ text-decoration-thickness:.16em}
 html[data-theme="contraste"] .man-cta{color:#000;text-decoration:none}
 html[data-theme="contraste"] article.vu{opacity:.75}
+/* Contraste (refait le 30 août 2026) : aussi le modèle pour les daltoniens.
+   Couleurs de cahier remplacées par la palette Okabe-Ito, lisible pour les
+   deutéranopes, protanopes et tritanopes — plus d'axe rouge/vert. */
+html[data-theme="contraste"] [data-cahier="quebec"]{--ca:#e69f00}
+html[data-theme="contraste"] [data-cahier="montreal"]{--ca:#56b4e9}
+html[data-theme="contraste"] [data-cahier="canada"]{--ca:#f0e442}
+html[data-theme="contraste"] [data-cahier="international"]{--ca:#9bc7f2}
+html[data-theme="contraste"] [data-cahier="savoirs"]{--ca:#cc79a7}
+html[data-theme="contraste"] [data-cahier="elections"]{--ca:#ffffff}
+html[data-theme="contraste"] nav.cahiers a{border-left-width:6px}
+html[data-theme="contraste"] article.carte{border-top-width:4px}
+html[data-theme="contraste"] .badge-vu{font-weight:800}
 html[data-font="sans"]{--font:var(--ui);--titre:var(--ui);}
 html[data-font="dys"]{--font:"OpenDyslexic",Georgia,"Comic Sans MS",Verdana,serif;
  --titre:var(--font);}
@@ -55,9 +68,10 @@ img{max-width:100%}
 .toolbar a{font-family:var(--ui);text-decoration:none;font-weight:600}
 nav.cahiers{position:sticky;top:2.35rem;z-index:29;background:var(--bg);
  border-bottom:2px solid var(--rule-fort);padding:0;display:flex;
- justify-content:space-between;gap:1.4rem;flex-wrap:wrap;font-family:var(--ui);
+ gap:.6rem;flex-wrap:wrap;font-family:var(--ui);
  font-size:.8rem;font-weight:700;letter-spacing:.03em;text-transform:uppercase}
-nav.cahiers a{text-decoration:none;padding:.6rem 0;color:var(--fg);
+nav.cahiers a{flex:1 1 0;min-width:10rem;text-align:center;
+ text-decoration:none;padding:.6rem .4rem;color:var(--fg);
  border-bottom:3px solid transparent;margin-bottom:-2px}
 nav.cahiers a:hover{color:var(--accent-txt)}
 nav.cahiers a.on{color:var(--accent-txt);border-bottom-color:var(--accent-txt)}
