@@ -2,6 +2,7 @@
  "date": "2026-08-31",
  "volets": [
   "monde",
+  "quebec-canada",
   "report",
   "savoirs"
  ],
@@ -769,6 +770,234 @@
    "_slug": "novak-djokovic-elimine-des-le-premier-tour-de-l-us-open-une-9b9618"
   },
   {
+   "titre": "Les employés syndiqués de GM ratifient leurs nouvelles conventions collectives",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Ontario",
+   "medias": "Radio-Canada, Global News",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279105/general-motors-lentente-de-principe-ratifiee",
+   "resume": "Les membres d'Unifor chez General Motors ont ratifié à forte majorité — 80,5 % à Oshawa, Woodstock et St. Catharines, 96,5 % à Ingersoll — les conventions collectives provisoires conclues le 22 août, qui portent le salaire horaire de la production à taux plein à 50,20 $ et prévoient plus d'un milliard de dollars d'investissements dans les usines canadiennes. Le syndicat dit continuer de faire pression pour la reprise de la production à l'usine CAMI d'Ingersoll, à l'arrêt, dont les employés bénéficient d'une prolongation des indemnités de chômage partiel.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279105/general-motors-lentente-de-principe-ratifiee"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12041163/unifor-gm-voting-agreement/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:55-04:00",
+   "permalien": "les-employes-syndiques-de-gm-ratifient-leurs-nouvelles-conve-b67ecb",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-31.json",
+   "_slug": "les-employes-syndiques-de-gm-ratifient-leurs-nouvelles-conve-b67ecb"
+  },
+  {
+   "titre": "Québec resserre l'accès à une prestation de l'IVAC pour enfant né d'une agression sexuelle",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278634/aide-victimes-ivac-critere-admission-preuve",
+   "resume": "Depuis le 19 juin, le ministère de la Justice exige des demandeurs de la prestation de l'IVAC pour enfant né d'une agression sexuelle une déclaration prouvant que l'infraction a été divulguée à un policier ou à un professionnel de la santé, alors qu'un simple questionnaire suffisait auparavant. Cette prestation, dont les sommes versées ont été multipliées par vingt en quatre ans pour atteindre plus de 10 millions de dollars en 2025, peut atteindre 257 000 $ par bénéficiaire; l'avocat Marc Bellemare juge la vérification légitime, alors que les Centres d'aide aux victimes d'actes criminels estiment qu'elle contredit le principe de croire les victimes d'emblée.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278634/aide-victimes-ivac-critere-admission-preuve"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:55-04:00",
+   "permalien": "quebec-resserre-l-acces-a-une-prestation-de-l-ivac-pour-enfa-47b804",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-31.json",
+   "_slug": "quebec-resserre-l-acces-a-une-prestation-de-l-ivac-pour-enfa-47b804"
+  },
+  {
+   "titre": "Shannon craint d'être submergée par 1100 nouveaux logements militaires",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Shannon",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/societe/1005143/petite-ville-shannon-face-defense-nationale",
+   "resume": "Une nouvelle phase du programme fédéral de construction de logements militaires ajoutera plus de 1100 unités à Shannon d'ici cinq ans, ce qui ferait passer la population de la ville de 7000 à plus de 10 000 habitants sans qu'Ottawa n'ait à obtenir de permis municipal. La mairesse Sarah Perreault, qui n'a reçu aucune aide du gouvernement provincial pour financer une nouvelle école, cherche à rencontrer le commandant de la base de Valcartier pour discuter du service d'incendie et de la congestion routière.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/societe/1005143/petite-ville-shannon-face-defense-nationale"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:55-04:00",
+   "permalien": "shannon-craint-d-etre-submergee-par-1100-nouveaux-logements-850a6e",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-31.json",
+   "_slug": "shannon-craint-d-etre-submergee-par-1100-nouveaux-logements-850a6e"
+  },
+  {
+   "titre": "Ottawa réitère son soutien à une mosquée de Winnipeg visée par des tirs en juillet",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Manitoba",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279048/mosquee-rahma-winnipeg-miller-duguid",
+   "resume": "Le ministre fédéral Marc Miller et le député Terry Duguid ont rencontré vendredi des représentants du centre islamique Rahma de Winnipeg, visé le 29 juillet par des tirs qui ont endommagé des fenêtres sans faire de blessé, pour leur rappeler l'existence du Programme pour la sécurité communautaire du Canada. Le Conseil national des musulmans canadiens dit recevoir désormais en un mois le volume de signalements d'actes islamophobes qu'il traitait auparavant en un an; l'enquête du Service de police de Winnipeg se poursuit, sans arrestation.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279048/mosquee-rahma-winnipeg-miller-duguid"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:55-04:00",
+   "permalien": "ottawa-reitere-son-soutien-a-une-mosquee-de-winnipeg-visee-p-ece782",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-31.json",
+   "_slug": "ottawa-reitere-son-soutien-a-une-mosquee-de-winnipeg-visee-p-ece782"
+  },
+  {
+   "titre": "Le duel Ford-Trump s'invite dans trois élections partielles ontariennes",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Ontario",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/toronto/ford-trump-ontario-byelections-9.7324502",
+   "resume": "L'ancien ministre libéral John Milloy et d'autres analystes estiment que l'échange d'insultes entre le premier ministre ontarien Doug Ford et Donald Trump — qui l'a comparé à son frère « moins charismatique », avant que M. Ford ne le traite de « roi des faillites » — pourrait avantager les progressistes-conservateurs aux élections partielles de jeudi dans Scarborough-Southwest, York-Simcoe et Hamilton-Est-Stoney Creek. Un sondage Liaison Strategies mené le jour de cet esclandre rapporte un bond de douze points dans l'approbation personnelle de M. Ford, dont la rivalité avec Washington avait déjà contribué à sa réélection majoritaire en 2025.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/toronto/ford-trump-ontario-byelections-9.7324502"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:55-04:00",
+   "permalien": "le-duel-ford-trump-s-invite-dans-trois-elections-partielles-d42617",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-31.json",
+   "_slug": "le-duel-ford-trump-s-invite-dans-trois-elections-partielles-d42617"
+  },
+  {
+   "titre": "L'Alberta amorce la dernière ligne droite avant son référendum sur la séparation",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "Global News, CBC",
+   "url": "https://globalnews.ca/news/12041051/danielle-smith-alberta-day-speech/",
+   "resume": "Les Albertains voteront le 19 octobre sur dix questions référendaires, dont celle de tenir un second référendum contraignant sur la séparation du Canada; les partisans de l'Alberta Prosperity Project et les tenants du maintien dans la fédération, réunis autour du chef néo-démocrate Naheed Nenshi, ont chacun tenu un rassemblement samedi, à Edmonton et à Calgary respectivement. La première ministre Danielle Smith dit vouloir elle-même voter pour rester au Canada, mais des sondages, dont ceux réalisés pour CBC, indiquent qu'une majorité d'Albertains souhaitent demeurer dans la fédération.",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12041051/danielle-smith-alberta-day-speech/"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/edmonton/both-sides-of-alberta-separation-debate-rally-as-momentum-kicks-up-ahead-of-vote-9.7325661"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:55-04:00",
+   "permalien": "l-alberta-amorce-la-derniere-ligne-droite-avant-son-referend-e463f7",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-31.json",
+   "_slug": "l-alberta-amorce-la-derniere-ligne-droite-avant-son-referend-e463f7"
+  },
+  {
+   "titre": "Publicité électorale et IA: un « espace largement non réglementé », selon une experte",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Ontario",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/sudbury/ontario-municipal-elections-2026-ai-artificial-intelligence-political-advertising-9.7323178",
+   "resume": "Un candidat à la mairie de Sudbury utilise des affiches générées par intelligence artificielle sans qu'aucune règle municipale ontarienne n'encadre la pratique, un « espace largement non réglementé » selon la professeure de science politique Andrea Lawlor, de l'Université McMaster. La loi fédérale C-25, adoptée en juin, oblige partis et candidats à répondre de leurs contenus générés par IA sans en interdire l'usage hors des hypertrucages, et un projet de loi qui aurait exigé la divulgation de tels contenus dans la publicité électorale provinciale ontarienne a été rejeté en mai.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/sudbury/ontario-municipal-elections-2026-ai-artificial-intelligence-political-advertising-9.7323178"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:55-04:00",
+   "permalien": "publicite-electorale-et-ia-un-espace-largement-non-reglement-e379ac",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-31.json",
+   "_slug": "publicite-electorale-et-ia-un-espace-largement-non-reglement-e379ac"
+  },
+  {
+   "titre": "Trois tactiques pour négocier avec un partenaire qui ne tient pas parole, propose un spécialiste des conflits",
+   "cahier": "canada",
+   "rubrique": "idees",
+   "territoire": "Canada",
+   "medias": "La Conversation Canada",
+   "url": "https://theconversation.com/what-game-theory-teaches-canada-about-negotiating-with-an-untrustworthy-donald-trump-290688",
+   "resume": "Le professeur de gestion des conflits Jean Poitras, de HEC Montréal, propose trois tactiques pour le Canada face à un partenaire commercial jugé imprévisible: réduire sa dépendance en développant d'autres marchés, procéder par étapes pour limiter les pertes en cas de rupture, et lier des avantages renouvelables au respect des engagements plutôt qu'à la seule confiance. Ces leviers ne renversent pas le rapport de force avec les États-Unis, précise-t-il, mais rendent son déséquilibre moins écrasant pour Ottawa.",
+   "sources": [
+    {
+     "media": "La Conversation Canada",
+     "url": "https://theconversation.com/what-game-theory-teaches-canada-about-negotiating-with-an-untrustworthy-donald-trump-290688"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:55-04:00",
+   "permalien": "trois-tactiques-pour-negocier-avec-un-partenaire-qui-ne-tien-3591ae",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-31.json",
+   "_slug": "trois-tactiques-pour-negocier-avec-un-partenaire-qui-ne-tien-3591ae"
+  },
+  {
+   "titre": "Le registre des donneurs d'organes atteint un sommet au Manitoba, mais reste sous-utilisé",
+   "cahier": "canada",
+   "rubrique": "sante",
+   "territoire": "Manitoba",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-online-organ-donor-registry-9.7325947",
+   "resume": "Environ 75 000 Manitobains, soit 6 % des adultes admissibles, étaient inscrits comme donneurs d'organes à la fin août, un sommet depuis la création du registre en ligne il y a plus de dix ans; six personnes sont mortes en attente d'une greffe l'an dernier dans la province, selon l'Institut canadien d'information sur la santé. La Société d'assurance publique du Manitoba ne demande pas aux titulaires s'ils souhaitent devenir donneurs lors du renouvellement de leur permis, et la province n'a pas adhéré au mécanisme qui permet à quatre autres provinces d'offrir de l'information sur le don d'organes directement sur la déclaration de revenus.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-online-organ-donor-registry-9.7325947"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:55-04:00",
+   "permalien": "le-registre-des-donneurs-d-organes-atteint-un-sommet-au-mani-499069",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-31.json",
+   "_slug": "le-registre-des-donneurs-d-organes-atteint-un-sommet-au-mani-499069"
+  },
+  {
+   "titre": "Les nouveaux tarifs américains frappent durement les petites entreprises exportatrices",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Canada's National Observer",
+   "url": "https://www.nationalobserver.com/2026/08/31/news/small-business-toronto-trade-war-impact",
+   "resume": "Les droits de douane américains de 50 % imposés le 22 août sur 28 milliards de dollars d'exportations canadiennes touchent les petites entreprises de façon disproportionnée, selon la Fédération canadienne de l'entreprise indépendante, dont 40 % des membres exportateurs vers les États-Unis disent avoir des produits visés. Le train de mesures fédéral annoncé par Ottawa exige un chiffre d'affaires d'au moins un million de dollars et cinq employés à temps plein — un seuil qu'une entreprise torontoise de modélisme ferroviaire touchée à 85 % par les tarifs dit ne pas atteindre —, alors que les programmes régionaux en vigueur au Québec exigent au moins deux millions de dollars de revenus.",
+   "sources": [
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/08/31/news/small-business-toronto-trade-war-impact"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:55-04:00",
+   "permalien": "les-nouveaux-tarifs-americains-frappent-durement-les-petites-5ebbb2",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-08-31.json",
+   "_slug": "les-nouveaux-tarifs-americains-frappent-durement-les-petites-5ebbb2"
+  },
+  {
    "titre": "Candidate indépendante dans Chomedey, Sona Lakhoyan Olivier n’a pas l’autorisation du DGEQ",
    "cahier": "elections",
    "rubrique": "politique",
@@ -1105,7 +1334,7 @@
    "cahier": "canada",
    "rubrique": "transport",
    "territoire": "Nouvelle-Écosse",
-   "medias": "Global News, Acadie Nouvelle, La Presse canadienne",
+   "medias": "Global News, Acadie Nouvelle, La Presse canadienne, Radio-Canada",
    "url": "https://globalnews.ca/news/12041050/cn-rail-train-derailment-nova-scotia/",
    "resume": "Quatorze wagons d'un convoi du Canadien National ont déraillé samedi vers 17 h 30 à Truro, dans le centre de la Nouvelle-Écosse, sans se renverser. Le transporteur affirme que la sécurité du public n'est pas menacée ; la cause du déraillement fait l'objet d'une enquête.",
    "sources": [
@@ -1116,6 +1345,10 @@
     {
      "media": "Acadie Nouvelle",
      "url": "https://www.acadienouvelle.com/atlantique/2026/08/30/un-train-du-cn-a-deraille-a-truro-aucune-menace-pour-la-securite-publique/"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279012/deraillement-cn-truro"
     }
    ],
    "photo": "",
@@ -1131,10 +1364,14 @@
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Canada",
-   "medias": "Le Canada Français",
-   "url": "https://www.canadafrancais.com/nouvelles-nationales/les-electeurs-se-rendront-aux-urnes-lundi-dans-trois-circonscriptions-federales/",
-   "resume": "Les électeurs de trois circonscriptions fédérales — au Québec, en Ontario et en Colombie-Britannique — se rendent aux urnes lundi. La circonscription québécoise, située au Saguenay–Lac-Saint-Jean, avait donné lieu à une course serrée au scrutin général de 2025.",
+   "medias": "Le Devoir, Le Canada Français",
+   "url": "https://www.ledevoir.com/politique/canada/1005095/liberaux-carney-quete-nouveaux-gains-elections-partielles",
+   "resume": "Trois élections partielles fédérales se tiennent lundi, dont une dans Chicoutimi–Le Fjord au Saguenay où le libéral Daniel Gobeil et la bloquiste Caroline Dubé sont donnés au coude-à-coude par l'agrégateur 338Canada, tandis que Beaches–East York (Toronto) et North Vancouver–Capilano (Colombie-Britannique) penchent nettement pour les candidats libéraux. Un gain complet permettrait aux libéraux de Mark Carney de consolider leur majorité, dans un contexte de guerre commerciale avec les États-Unis.",
    "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/canada/1005095/liberaux-carney-quete-nouveaux-gains-elections-partielles"
+    },
     {
      "media": "Le Canada Français",
      "url": "https://www.canadafrancais.com/nouvelles-nationales/les-electeurs-se-rendront-aux-urnes-lundi-dans-trois-circonscriptions-federales/"
@@ -1649,12 +1886,12 @@
    "territoire": "Ontario",
    "medias": "Québecor, Le Devoir, La Presse, APTN News, Global News, CBC, The Globe and Mail, Le Journal de Montréal, Radio-Canada, National Post, Canada's National Observer, Coops de l'information, France 24, Les Echos, BFMTV, Le Temps, Acadie Nouvelle, Noovo Info, Ouest-France",
    "url": "https://www.journaldemontreal.com/2026/08/27/lac-amerique-donald-trump-signe-un-decret-pour-changer-le-nom-du-lac-ontario",
-   "resume": "Un décret signé jeudi par Donald Trump rebaptise le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, et Google Maps affiche depuis dimanche ce nom à ses utilisateurs situés aux États-Unis — les internautes canadiens continuant de voir « lac Ontario » et les autres, les deux noms — un changement dont la Maison-Blanche s'est félicitée. La décision n'a aucune portée légale au Canada : Mark Carney a répondu que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario, le grand chef de la Nation huronne-wendat a exprimé son indignation, et Doug Ford a fait installer sur les rives une affiche portant « Lac Ontario, aujourd'hui et pour toujours ».",
+   "resume": "Un décret signé jeudi par Donald Trump rebaptise le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, et Google Maps affiche depuis dimanche ce nom à ses utilisateurs situés aux États-Unis — les internautes canadiens continuant de voir « lac Ontario » et les autres, les deux noms — un changement dont la Maison-Blanche s'est félicitée. La décision n'a aucune portée légale au Canada : Mark Carney a répondu que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario, le grand chef de la Nation huronne-wendat a exprimé son indignation, et Doug Ford a fait installer sur les rives une affiche portant « Lac Ontario, aujourd'hui et pour toujours ».\n\n**Mise à jour, 5 h 55** — Des services ontariens qui puisent leurs données cartographiques chez Google, dont la carte des pannes d'Hydro One et le localisateur de succursales de la Régie des alcools de l'Ontario, ont brièvement affiché « lac d'Amérique » avant qu'Hydro One ne dise travailler à corriger l'erreur avec son fournisseur; le ministre ontarien Stephen Crawford affirme qu'une vérification est en cours pour s'assurer que les sites du gouvernement provincial continuent de désigner le lac Ontario par son nom.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lake_Ontario_Shoreline.jpg",
    "legende": "Le littoral du lac Ontario.",
    "photo_auteur": "SAF1999",
    "photo_licence": "CC0",
-   "horodate": "2026-08-30T15:30-04:00",
+   "horodate": "2026-08-31T05:55-04:00",
    "permalien": "trump-rebaptise-le-lac-ontario-lac-d-amerique-carney-hausse-09b1fe",
    "sources": [
     {
@@ -1714,7 +1951,7 @@
      "url": "https://globalnews.ca/news/12040981/lake-ontario-lake-america-google-maps/"
     },
     {
-     "media": "Radio-Canada",
+     "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/google-updates-maps-lake-ontario-9.7325922"
     },
     {
@@ -1724,6 +1961,10 @@
     {
      "media": "Ouest-France",
      "url": "https://www.ouest-france.fr/monde/etats-unis/le-lac-ontario-devient-le-lac-damerique-sur-le-google-maps-des-etats-unis-2ba9c918-a48e-11f1-94d9-ff4da0548a19"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278963/lac-decret-trump-signature-ford"
     }
    ],
    "_fichier": "revue-report-2026-08-31.json",
