@@ -1,6 +1,7 @@
 {
  "date": "2026-08-31",
  "volets": [
+  "continu",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -8,6 +9,382 @@
   "savoirs"
  ],
  "articles": [
+  {
+   "titre": "Afflux de migrants à Ceuta : Sánchez impute la désinformation à des réseaux russes, israéliens et d'ultradroite",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Espagne",
+   "medias": "Reuters, Le Parisien, 20 minutes, Le Devoir, La Presse, La Marseillaise",
+   "url": "https://www.ledevoir.com/monde/europe/1005221/sanchez-assure-espagne-enquete-toujours-crise-ceuta-mais-exonere-maroc",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/europe/1005221/sanchez-assure-espagne-enquete-toujours-crise-ceuta-mais-exonere-maroc"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/europe/2026-08-31/espagne/le-premier-ministre-assure-que-l-enquete-sur-la-crise-migratoire-de-ceuta-est-toujours-en-cours.php"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/espagne/ceuta-lespagne-accuse-une-internationale-dultra-droite-davoir-diffuse-de-fausses-informations-a-lorigine-de-lafflux-de-migrants-31-08-2026-K3RP5MKK5NAEXMVQXOQ5SU2AC4.php"
+    },
+    {
+     "media": "20 minutes",
+     "url": "https://www.20min.ch/fr/story/espagne-israel-ou-la-russie-derriere-l-afflux-massif-de-migrants-a-ceuta-103625144"
+    },
+    {
+     "media": "Reuters (Boursorama)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/la-russie-et-israel-ont-alimente-la-desinformation-sur-ceuta-dit-sanchez-84344fcc9075f11447594d1415863e53"
+    },
+    {
+     "media": "La Marseillaise",
+     "url": "https://www.lamarseillaise.fr/international/en-espagne-la-ville-de-ceuta-en-situation-d-urgence-absolue-BH20632737"
+    }
+   ],
+   "resume": "Pedro Sánchez a soutenu lundi sur les ondes de Cadena Ser qu'un arrêt de la Cour suprême espagnole du 8 juillet avait été déformé, puis amplifié à la fin de juillet par des réseaux sociaux « liés aussi bien à la Russie qu'à Israël » et par ce qu'il a appelé une « internationale d'ultradroite » ; il dit s'appuyer sur une enquête du service diplomatique de l'Union européenne, et attribue à la position de Madrid sur l'Ukraine et le Proche-Orient le motif de ces deux États.\n\nLe chef du gouvernement espagnol écarte en revanche toute implication du Maroc, que des partis d'opposition et des organisations de défense des droits accusent d'avoir laissé passer les quelque 72 000 personnes qui ont tenté d'entrer dans l'enclave les 30 et 31 juillet — une traversée qui a fait au moins 100 morts selon les autorités locales et 145 selon le collectif Caminando Fronteras, et pour laquelle Rabat dément toute responsabilité.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ceuta_border_fence.jpg/1280px-Ceuta_border_fence.jpg",
+   "photo_auteur": "Mario Sánchez Bueno from Ceuta, España",
+   "photo_licence": "CC BY-SA 2.0",
+   "legende": "La clôture frontalière qui sépare Ceuta du Maroc.",
+   "permalien": "afflux-de-migrants-a-ceuta-sanchez-impute-la-desinformation-f2f8cd",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "afflux-de-migrants-a-ceuta-sanchez-impute-la-desinformation-f2f8cd"
+  },
+  {
+   "titre": "Une voiture piégée explose devant un commissariat au centre du Mexique",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Mexique",
+   "medias": "La Presse, franceinfo",
+   "url": "https://www.lapresse.ca/international/amerique-latine/2026-08-31/mexique/une-voiture-piegee-explose-devant-un-commissariat.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/amerique-latine/2026-08-31/mexique/une-voiture-piegee-explose-devant-un-commissariat.php"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/faits-divers/au-mexique-une-voiture-piegee-explose-devant-un-commissariat-faisant-plusieurs-blesses_8170337.html"
+    }
+   ],
+   "resume": "Une voiture piégée a explosé dans la nuit de dimanche à lundi devant un commissariat d'Ojocaliente, dans l'État de Zacatecas, faisant sept blessés dont un policier selon le dernier bilan des autorités, qui en dénombraient six quelques heures plus tôt.\n\nLe secrétaire au gouvernement de l'État, Rodrigo Reyes, a indiqué que l'explosif avait été placé dans le véhicule d'un particulier et qu'il a endommagé le commissariat ainsi que des bâtiments voisins ; à la mi-juillet, cinq corps avaient été retrouvés pendus à un pont dans le même État, sur fond de trafic de drogue.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "permalien": "une-voiture-piegee-explose-devant-un-commissariat-au-centre-298a24",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "une-voiture-piegee-explose-devant-un-commissariat-au-centre-298a24"
+  },
+  {
+   "titre": "Le tracé du train Alto toucherait 1 700 propriétés, dont 500 fermes entre Ottawa et Montréal",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Québec",
+   "medias": "CBC/Radio-Canada",
+   "url": "https://www.cbc.ca/news/canada/montreal/alto_high_speed_train_quebec_farms-9.7324862",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/alto_high_speed_train_quebec_farms-9.7324862"
+    }
+   ],
+   "resume": "Alto évalue qu'environ 1 700 propriétés seront touchées par le tracé du train à grande vitesse destiné à réduire de moitié le temps de parcours entre Toronto et Québec, dont au moins 500 fermes sur le seul segment Ottawa–Montréal.\n\nUn producteur de Rigaud affirme que la voie couperait sa terre en deux et le priverait de son accès au chemin principal, ce qui rendrait selon lui l'exploitation impossible, tandis que la fédération qui représente les producteurs agricoles québécois juge le projet « catastrophique » pour l'agriculture et redoute le morcellement des terres et des communautés.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "permalien": "le-trace-du-train-alto-toucherait-1-700-proprietes-dont-500-e70426",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "le-trace-du-train-alto-toucherait-1-700-proprietes-dont-500-e70426"
+  },
+  {
+   "titre": "Clinique de la douleur : une patiente obtient un rendez-vous après deux ans d'attente",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Montérégie",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/sante/2026-08-31/clinique-de-la-douleur/deux-ans-d-enfer-en-attendant-un-rendez-vous.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-08-31/clinique-de-la-douleur/deux-ans-d-enfer-en-attendant-un-rendez-vous.php"
+    }
+   ],
+   "resume": "Une patiente dirigée vers une clinique de la douleur a attendu environ deux ans avant d'obtenir une date de rendez-vous à l'hôpital Pierre-Boucher, à Longueuil ; la date lui a été confirmée mardi, quelques heures après que Santé Québec Montérégie-Est eut été interrogée sur son dossier.\n\nUn rapport daté de mai 2026, signé par une médecin examinatrice de Santé Québec Est-de-l'Île-de-Montréal saisie d'une plainte visant un gastroentérologue de l'hôpital Maisonneuve-Rosemont, relève que plusieurs demandes de consultation ne sont pas remplies sur le bon formulaire.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "permalien": "clinique-de-la-douleur-une-patiente-obtient-un-rendez-vous-a-225365",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "clinique-de-la-douleur-une-patiente-obtient-un-rendez-vous-a-225365"
+  },
+  {
+   "titre": "Québec abaisse à 200 000 $ de chiffre d'affaires le seuil d'accès à son aide d'urgence tarifaire",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Réseau d'information municipale du Québec",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/economie/68/1215750/soutien-aux-entreprises-touchees-par-les-tarifs-douaniers-americains-quebec-elargit",
+   "sources": [
+    {
+     "media": "Réseau d'information municipale du Québec",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/economie/68/1215750/soutien-aux-entreprises-touchees-par-les-tarifs-douaniers-americains-quebec-elargit"
+    }
+   ],
+   "resume": "Le gouvernement du Québec modifie les critères d'admissibilité du Programme d'aide d'urgence aux petites et moyennes entreprises — volet Tarifs douaniers, afin d'y admettre des entreprises plus petites que celles visées jusqu'ici.\n\nLes PME dont le chiffre d'affaires se situe entre 200 000 $ et 2 millions de dollars et qui éprouvent des difficultés financières attribuées aux tarifs douaniers américains sont invitées à vérifier leur admissibilité auprès de leur municipalité régionale de comté, à qui l'administration du programme est confiée.\n\nQuébec présente la mesure comme une réponse à la guerre tarifaire, dont il dit qu'elle continue de peser sur l'économie de la province ; le nombre d'entreprises que l'élargissement rendrait admissibles n'est pas chiffré dans l'annonce.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "permalien": "quebec-abaisse-a-200-000-de-chiffre-d-affaires-le-seuil-d-ac-b5fc48",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "quebec-abaisse-a-200-000-de-chiffre-d-affaires-le-seuil-d-ac-b5fc48"
+  },
+  {
+   "titre": "Un professeur de piano de l'Estrie ouvre son école aux enfants neurodivergents",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Estrie",
+   "medias": "Coops de l'information",
+   "url": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2026/08/31/une-ecole-de-musique-mise-sur-linclusion-des-enfants-neurodivergents-SDI52EIKDFAVLOUTA6XPTHRTSI/",
+   "sources": [
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2026/08/31/une-ecole-de-musique-mise-sur-linclusion-des-enfants-neurodivergents-SDI52EIKDFAVLOUTA6XPTHRTSI/"
+    }
+   ],
+   "resume": "Marc Olivier Robidas, qui a enseigné la musique à des groupes d'adaptation scolaire de l'école du Parchemin, à East Angus, dont une classe d'élèves autistes, offre aujourd'hui des cours de piano à des enfants autistes, dyspraxiques ou vivant avec un trouble du déficit de l'attention.\n\nIl estime que ces cours profitent aussi aux parents, qui voient leur enfant progresser dans un cadre adapté.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "permalien": "un-professeur-de-piano-de-l-estrie-ouvre-son-ecole-aux-enfan-686f10",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "un-professeur-de-piano-de-l-estrie-ouvre-son-ecole-aux-enfan-686f10"
+  },
+  {
+   "titre": "Une école sur trois de l'île de Montréal se trouve dans un îlot de chaleur",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Montréal",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/environnement/ile-de-montreal/une-ecole-sur-trois-dans-un-ilot-de-chaleur/2026-08-31/de-veritables-fournaises.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/environnement/ile-de-montreal/une-ecole-sur-trois-dans-un-ilot-de-chaleur/2026-08-31/de-veritables-fournaises.php"
+    }
+   ],
+   "resume": "Cent soixante-quatre bâtiments scolaires primaires et secondaires de l'île de Montréal se trouvent dans un îlot de chaleur, selon un croisement des cartes du Géoportail de la santé publique du Québec et des données du ministère de l'Éducation.\n\nDes documents obtenus des centres de services scolaires en vertu de la Loi sur l'accès à l'information montrent que la température a grimpé jusqu'à 36 °C, voire 37 °C dans certaines classes, pendant la vague de chaleur de juin 2024.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "permalien": "une-ecole-sur-trois-de-l-ile-de-montreal-se-trouve-dans-un-i-82510b",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "une-ecole-sur-trois-de-l-ile-de-montreal-se-trouve-dans-un-i-82510b"
+  },
+  {
+   "titre": "Le PIB canadien progresse de 0,8 % au deuxième trimestre, porté par les exportations",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Statistique Canada, InfoBref",
+   "url": "https://www.statcan.gc.ca/daily-quotidien/260828/dq260828a-fra.htm",
+   "sources": [
+    {
+     "media": "Statistique Canada",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/260828/dq260828a-fra.htm"
+    },
+    {
+     "media": "Statistique Canada (PIB par industrie)",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/260828/dq260828b-fra.htm"
+    },
+    {
+     "media": "InfoBref",
+     "url": "https://infobref.com/croissance-t2-2026-08/"
+    }
+   ],
+   "resume": "Le produit intérieur brut réel a augmenté de 0,8 % au deuxième trimestre de 2026, soit 3,3 % en rythme annualisé, une progression que Statistique Canada attribue surtout à la hausse des exportations, des dépenses des ménages et des dépenses en immobilisations des entreprises ; le PIB par industrie a pour sa part gagné 0,3 % en juin, grâce aux industries productrices de services.\n\nL'agence a aussi révisé son estimation du premier trimestre, où elle mesurait en mai une légère contraction qui avait fait craindre une récession : elle y voit désormais une faible croissance.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "permalien": "le-pib-canadien-progresse-de-0-8-au-deuxieme-trimestre-porte-8abc13",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "le-pib-canadien-progresse-de-0-8-au-deuxieme-trimestre-porte-8abc13"
+  },
+  {
+   "titre": "Centres de données : un canton ontarien suspend les projets, un rapport chiffre la facture albertaine",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Le Devoir, The Globe and Mail",
+   "url": "https://www.ledevoir.com/economie/1004828/autre-municipalite-ontarienne-suspend-projets-centres-donnees",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1004828/autre-municipalite-ontarienne-suspend-projets-centres-donnees"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-alberta-data-centre-could-cause-power-bills-to-spike-report/"
+    }
+   ],
+   "resume": "Le canton de Centre Wellington, en Ontario, suspend l'examen des projets de centres de données : aucune demande d'aménagement n'y avait encore été déposée, mais des résidents s'étaient inquiétés d'un projet évoqué à Fergus, dont le promoteur SPUR est venu répondre aux questions du conseil le 24 août.\n\nEn Alberta, l'Institut Pembina, un groupe de réflexion sur l'énergie, calcule qu'un centre de données en construction au nord d'Edmonton pourrait alourdir la facture d'électricité des ménages albertains de 270 $ à 460 $ par année, les règles provinciales permettant à ces installations de se brancher au réseau avant la mise en service de leurs propres unités de production.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "permalien": "centres-de-donnees-un-canton-ontarien-suspend-les-projets-un-af721b",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "centres-de-donnees-un-canton-ontarien-suspend-les-projets-un-af721b"
+  },
+  {
+   "titre": "Les transactions visant la Banque Laurentienne obtiennent l'approbation finale des autorités",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/les-transactions-visant-la-banque-laurentienne-recoivent-lapprobation-finale-des-principales-autorites-de-reglementation/",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/les-transactions-visant-la-banque-laurentienne-recoivent-lapprobation-finale-des-principales-autorites-de-reglementation/"
+    }
+   ],
+   "resume": "Les principales autorités de réglementation ont donné leur approbation finale aux transactions visant la Banque Laurentienne, dernière condition annoncée avant la clôture.\n\nDans l'hypothèse d'une clôture le 1er novembre 2026, les produits et services aux particuliers et aux petites et moyennes entreprises de la Banque Laurentienne migreraient vers la Banque Nationale d'ici la fin de 2026 — un calendrier que les parties présentent elles-mêmes comme un énoncé prospectif, donc sujet à révision.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Banque_Laurentienne_building_%40_Ville-Marie_%40_Montreal_%2829782167343%29.jpg/1280px-Banque_Laurentienne_building_%40_Ville-Marie_%40_Montreal_%2829782167343%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Guilhem Vellut from Paris, France",
+   "photo_licence": "CC BY 2.0",
+   "legende": "L'édifice de la Banque Laurentienne, à Montréal.",
+   "permalien": "les-transactions-visant-la-banque-laurentienne-obtiennent-l-5e9a8b",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "les-transactions-visant-la-banque-laurentienne-obtiennent-l-5e9a8b"
+  },
+  {
+   "titre": "Deux Premières Nations du Nouveau-Brunswick étudient un petit réacteur nucléaire près de Belledune",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Nouveau-Brunswick",
+   "medias": "CBC/Radio-Canada",
+   "url": "https://www.cbc.ca/news/canada/new-brunswick/nuclear-power-smr-pabineau-9.7317385",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/new-brunswick/nuclear-power-smr-pabineau-9.7317385"
+    }
+   ],
+   "resume": "Les dirigeants des Premières Nations de Pabineau (Oinpegitjoig) et d'Eel River Bar (Ugpi'ganjig) disent examiner une proposition d'accueillir un petit réacteur modulaire sur leur territoire traditionnel, près de la centrale de Belledune, qui doit cesser de brûler du charbon d'ici 2030.\n\nAucune décision n'a été annoncée : les deux communautés en sont à l'étape de l'évaluation de la proposition.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Belledune_Generating_Station.jpg/1280px-Belledune_Generating_Station.jpg",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC BY 4.0",
+   "legende": "La centrale de Belledune, au Nouveau-Brunswick, qui doit cesser de brûler du charbon d'ici 2030.",
+   "permalien": "deux-premieres-nations-du-nouveau-brunswick-etudient-un-peti-e58b75",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "deux-premieres-nations-du-nouveau-brunswick-etudient-un-peti-e58b75"
+  },
+  {
+   "titre": "Avions-citernes : l'usine albertaine ne pourra pas tenir la cadence promise, avertit un spécialiste de l'aviation",
+   "cahier": "canada",
+   "rubrique": "idees",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-08-31/le-canada-promet-des-avions-citernes-qu-il-ne-peut-pas-construire.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-08-31/le-canada-promet-des-avions-citernes-qu-il-ne-peut-pas-construire.php"
+    }
+   ],
+   "resume": "John Gradek, chargé de cours en gestion de l'aviation à l'Université McGill, soutient que les 38 commandes de DHC-515 détenues par De Havilland — 14 canadiennes, 24 européennes — dépassent ce que l'usine en construction au nord de Calgary pourra livrer : le constructeur lui-même table sur une dizaine d'appareils par année, la chaîne des quelque 50 000 pièces montées à la main s'étant évaporée après l'arrêt de la production par Bombardier en 2015.\n\nPour atteindre 30 avions par année, il faudrait selon lui réoutiller des fournisseurs, embaucher et former environ 2 000 personnes pour le seul assemblage et ouvrir deux lignes de production supplémentaires ; il en tire un plaidoyer non pas contre l'achat, mais pour une stratégie industrielle fédérale de long terme, rappelant qu'Airbus peine déjà à monter la cadence de l'A220 à Mirabel.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "permalien": "avions-citernes-l-usine-albertaine-ne-pourra-pas-tenir-la-ca-8050f4",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "avions-citernes-l-usine-albertaine-ne-pourra-pas-tenir-la-ca-8050f4"
+  },
+  {
+   "titre": "Bruxelles range ChatGPT parmi les très grands moteurs de recherche du règlement européen sur les services numériques",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Union européenne",
+   "medias": "franceinfo, Clubic, Mac4Ever",
+   "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/diffusion-de-contenus-illicites-effets-negatifs-sur-les-mineurs-bien-etre-des-utilisateurs-chatgpt-roblox-et-reddit-vont-etre-soumis-a-des-regles-renforcees-dans-",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/diffusion-de-contenus-illicites-effets-negatifs-sur-les-mineurs-bien-etre-des-utilisateurs-chatgpt-roblox-et-reddit-vont-etre-soumis-a-des-regles-renforcees-dans-"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627484-chatgpt-reddit-et-roblox-rejoignent-officiellement-le-club-des-geants-surveilles-par-l-europe.html"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/ia/197776-chatgpt-devient-un-moteur-de-recherche-aux-yeux-de-l-europe-qu-est-ce-que-cela-change"
+    }
+   ],
+   "resume": "La Commission européenne a classé le service d'OpenAI parmi les très grands moteurs de recherche en ligne au sens du règlement sur les services numériques, une première pour un agent conversationnel, et a désigné Roblox et Reddit dans la même vague.\n\nLes trois services, qui déclarent 159 millions, 57,2 millions et environ 48 millions d'utilisateurs mensuels dans l'Union, ont quatre mois pour se plier aux obligations du régime : évaluer et atténuer les risques systémiques de leurs algorithmes, notamment la diffusion de contenus illicites et les effets sur les mineurs.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bruxelles_-_Commission_Europ%C3%A9enne_Berlaymont.jpg/1280px-Bruxelles_-_Commission_Europ%C3%A9enne_Berlaymont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Fred Romero from Paris, France",
+   "photo_licence": "CC BY 2.0",
+   "legende": "Le Berlaymont, siège de la Commission européenne, à Bruxelles.",
+   "permalien": "bruxelles-range-chatgpt-parmi-les-tres-grands-moteurs-de-rec-cf1c95",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "bruxelles-range-chatgpt-parmi-les-tres-grands-moteurs-de-rec-cf1c95"
+  },
+  {
+   "titre": "Le microbiote intestinal soupçonné de jouer un rôle dans la maladie de Parkinson",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "International",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/sante/actualites/parkinson-si-microbiote-intestinal-jouait-role-cle-maladie-parkinson-w2t8-137069/",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sante/actualites/parkinson-si-microbiote-intestinal-jouait-role-cle-maladie-parkinson-w2t8-137069/"
+    }
+   ],
+   "resume": "Des chercheurs de l'université de Nagoya attribuent au microbiote intestinal un rôle dans le développement de la maladie de Parkinson.\n\nIls avancent qu'une supplémentation en vitamines B pourrait aider certains patients, une piste thérapeutique nouvelle pour une maladie dont les traitements actuels visent surtout à ralentir la progression et à soulager les symptômes.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "permalien": "le-microbiote-intestinal-soupconne-de-jouer-un-role-dans-la-d53605",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "le-microbiote-intestinal-soupconne-de-jouer-un-role-dans-la-d53605"
+  },
+  {
+   "titre": "Mort de Jean-François Leroy, fondateur du festival de photojournalisme Visa pour l'image",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "France 24, RFI, franceinfo, GEO",
+   "url": "https://www.france24.com/fr/info-en-continu/20260831-d%C3%A9fenseur-du-photojournalisme-et-fondateur-de-visa-pour-l-image-jean-fran%C3%A7ois-leroy-est-mort",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-d%C3%A9fenseur-du-photojournalisme-et-fondateur-de-visa-pour-l-image-jean-fran%C3%A7ois-leroy-est-mort"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/culture/20260831-visa-pour-l-image-mort-de-jean-fran%C3%A7ois-leroy-fondateur-du-festival-de-photojournalisme"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/arts-expos/photographie/jean-francois-leroy-fondateur-et-directeur-historique-du-festival-de-photojournalisme-visa-pour-l-image-est-mort-a-l-age-de-69-ans_8170448.html"
+    },
+    {
+     "media": "GEO",
+     "url": "https://www.geo.fr/geopolitique/mort-de-jean-francois-leroy-figure-du-photojournalisme-et-fondateur-de-visa-pour-limage-233431"
+    }
+   ],
+   "resume": "Jean-François Leroy, fondateur et directeur historique du festival international du photojournalisme Visa pour l'image, est mort lundi matin à 69 ans des suites d'un cancer, a annoncé l'organisation du festival.\n\nCet ancien photographe de l'agence Sipa Presse manquait pour la première fois en près de quarante ans l'inauguration de la manifestation, qui se tient chaque année à Perpignan et dont la 38e édition est en cours.",
+   "horodate": "2026-08-31T08:53-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Couvent_des_minimes_Visa_pour_l%27image_30e.jpg/1280px-Couvent_des_minimes_Visa_pour_l%27image_30e.jpg",
+   "photo_auteur": "Minimes66",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Le couvent des Minimes, à Perpignan, l'un des lieux d'exposition de Visa pour l'image.",
+   "permalien": "mort-de-jean-francois-leroy-fondateur-du-festival-de-photojo-d758a9",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "mort-de-jean-francois-leroy-fondateur-du-festival-de-photojo-d758a9"
+  },
   {
    "titre": "La Belgique persiste à refuser de céder les avoirs russes gelés à l'Ukraine",
    "cahier": "international",
@@ -61,12 +438,12 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Ukraine",
-   "medias": "Euromaidan Press, The Kyiv Independent, Ukrinform",
+   "medias": "Euromaidan Press, The Kyiv Independent, Ukrinform, UNITED24 Media, The Washington Post",
    "url": "https://euromaidanpress.com/2026/08/30/ukraine-is-testing-four-new-drone-interceptors/",
-   "resume": "Kyiv teste quatre nouveaux modèles d'intercepteurs pour abattre les drones Geran à propulsion à réaction, de plus en plus rapides et nombreux, selon Euromaidan Press et The Kyiv Independent. Selon l'agence ukrainienne Ukrinform, la Russie est passée d'environ 1500 tirs de Shahed à réaction en juillet à 2500 en août.",
+   "resume": "Kyiv teste quatre nouveaux modèles d'intercepteurs pour abattre les drones Geran à propulsion à réaction, de plus en plus rapides et nombreux, selon Euromaidan Press et The Kyiv Independent. Selon l'agence ukrainienne Ukrinform, la Russie est passée d'environ 1500 tirs de Shahed à réaction en juillet à 2500 en août.\n\n**Mise à jour, 8 h 55** — Volodymyr Zelensky a affirmé dans son allocution du 30 août que la Russie avait lancé près de 1 500 drones de divers types en quatre jours, dont environ 800 à propulsion par réaction. Les frappes se poursuivaient lundi pour une cinquième journée consécutive sur Kyiv et sa région, laissant des rayons de supermarchés vides après des attaques répétées sur des entrepôts.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T05:05-04:00",
+   "horodate": "2026-08-31T08:53-04:00",
    "sources": [
     {
      "media": "Euromaidan Press",
@@ -79,6 +456,14 @@
     {
      "media": "Ukrinform",
      "url": "https://www.ukrinform.net/rubric-ato/4159097-flash-russia-launches-1500-jetpowered-shaheds-at-ukraine-in-july-2500-in-august.html"
+    },
+    {
+     "media": "UNITED24 Media",
+     "url": "https://united24media.com/war-in-ukraine/russia-attacks-ukraine-with-nearly-1500-drones-in-four-days-including-800-jet-powered-uavs-22070"
+    },
+    {
+     "media": "The Washington Post",
+     "url": "https://www.washingtonpost.com/world/2026/08/31/russia-ukraine-war-jet-drones-supermarkets/2291155e-a522-11f1-9e38-f705d048bd5a_story.html"
     }
    ],
    "permalien": "l-ukraine-teste-de-nouveaux-intercepteurs-face-a-l-intensifi-542c59",
@@ -435,12 +820,12 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "Suisse",
-   "medias": "Le Journal de Montréal, France 24",
+   "medias": "Le Journal de Montréal, France 24, franceinfo",
    "url": "https://www.journaldemontreal.com/2026/08/30/tirs-mortels-lors-dune-rave-party-en-suisse--une-chasse-a-lhomme-en-cours",
-   "resume": "La police suisse recherchait dimanche le ou les auteurs de tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche en marge d'une rave organisée à Aarau, selon Le Journal de Montréal et France 24. Les circonstances exactes de la fusillade restaient à préciser.",
+   "resume": "La police suisse recherchait dimanche le ou les auteurs de tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche en marge d'une rave organisée à Aarau, selon Le Journal de Montréal et France 24. Les circonstances exactes de la fusillade restaient à préciser.\n\n**Mise à jour, 8 h 55** — Un Suisse de 43 ans a été arrêté lundi dans l'enquête sur les tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche à Aarau, près de Zurich. La police dit privilégier l'hypothèse d'un auteur ayant agi seul.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T05:05-04:00",
+   "horodate": "2026-08-31T08:53-04:00",
    "sources": [
     {
      "media": "Le Journal de Montréal",
@@ -449,6 +834,14 @@
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/vid%C3%A9o/20260830-suisse-fusillade-lors-d-un-festival-techno-1-mort-et-5-bless%C3%A9s"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/faits-divers/un-homme-soupconne-d-etre-a-l-origine-des-tirs-mortels-en-marge-d-une-rave-party-en-suisse-a-ete-arrete_8170664.html"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/europe/20260831-fusillade-rave-party-suisse-police-annonce-arrestation-suspect-fusillade"
     }
    ],
    "permalien": "suisse-une-fusillade-fait-un-mort-et-cinq-blesses-en-marge-d-2b4a6f",
@@ -541,12 +934,12 @@
    "cahier": "international",
    "rubrique": "environnement",
    "territoire": "Népal, Chine",
-   "medias": "TV5MONDE, France 24",
+   "medias": "TV5MONDE, France 24, franceinfo, GEO, Le Parisien",
    "url": "https://information.tv5monde.com/international/crue-dans-lhimalaya-deja-900-morts-les-secours-la-recherche-de-milliers-de-disparus-2835555",
-   "resume": "Les autorités népalaises ne sont toujours pas parvenues lundi à entrer en contact avec une centaine d'ouvriers qu'elles croient prisonniers d'un tunnel en chantier, alors que le bilan des crues qui ont frappé l'Himalaya cette semaine dépasse déjà 900 morts, selon TV5Monde. Selon France 24, le Népal procède à des enterrements de masse pour des centaines de victimes dont les corps, trop dégradés, restent impossibles à identifier.",
+   "resume": "Les autorités népalaises ne sont toujours pas parvenues lundi à entrer en contact avec une centaine d'ouvriers qu'elles croient prisonniers d'un tunnel en chantier, alors que le bilan des crues qui ont frappé l'Himalaya cette semaine dépasse déjà 900 morts, selon TV5Monde. Selon France 24, le Népal procède à des enterrements de masse pour des centaines de victimes dont les corps, trop dégradés, restent impossibles à identifier.\n\n**Mise à jour, 8 h 55** — Le nouveau bilan des crues au Népal et au Tibet s'établit à au moins 903 morts et 4 247 disparus. Les autorités népalaises restent sans nouvelles de 592 ressortissants étrangers et de 933 employés de centrales hydroélectriques ou ouvriers de chantiers de barrages, dont une centaine bloqués dans un tunnel ; trois corps ont été retrouvés dans deux autres tunnels du secteur, et une fillette de 6 ans a été secourue 60 heures après la crue.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T05:05-04:00",
+   "horodate": "2026-08-31T08:53-04:00",
    "sources": [
     {
      "media": "TV5MONDE",
@@ -555,6 +948,18 @@
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/asie-pacifique/20260831-apr%C3%A8s-la-crue-d%C3%A9vastatrice-le-n%C3%A9pal-enterre-ses-morts"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/les-crues-meurtrieres-au-nepal-et-au-tibet-ont-fait-au-moins-903-morts-et-4-247-disparus-selon-un-nouveau-bilan_8170592.html"
+    },
+    {
+     "media": "GEO",
+     "url": "https://www.geo.fr/environnement/crue-au-nepal-toujours-pas-de-nouvelles-d-une-centaine-d-ouvriers-bloques-dans-un-tunnel-233425"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/seule-sa-tete-emergeait-une-fillette-de-6-ans-miraculeusement-secourue-au-nepal-60-heures-apres-la-crue-31-08-2026-TE6WRDGTU5G4RE5QOM46HT56YI.php"
     }
    ],
    "permalien": "crues-dans-l-himalaya-deja-900-morts-les-secours-a-la-recher-486091",
@@ -1177,16 +1582,20 @@
    "cahier": "quebec",
    "rubrique": "justice",
    "territoire": "Shawinigan",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, CBC/Radio-Canada",
    "url": "https://ici.radio-canada.ca/nouvelle/2279110/vandalisme-bornes-shawinigan-electricite-cables",
-   "resume": "Des câbles de recharge électrique ont de nouveau été volés à Shawinigan, où le Centre entrepreneurial Alphonse-Desjardins devra débourser environ 50 000 $ pour réparer et déplacer ses bornes vers un endroit plus sécuritaire, tandis que des bornes rapides ont aussi été dépouillées à Berthierville. Le PDG de Mobilité électrique Canada, Daniel Breton, qualifie ce sabotage d'infrastructure de crime grave même si le cuivre volé ne vaut que huit à dix dollars, rapporte Radio-Canada.",
+   "resume": "Des câbles de recharge électrique ont de nouveau été volés à Shawinigan, où le Centre entrepreneurial Alphonse-Desjardins devra débourser environ 50 000 $ pour réparer et déplacer ses bornes vers un endroit plus sécuritaire, tandis que des bornes rapides ont aussi été dépouillées à Berthierville. Le PDG de Mobilité électrique Canada, Daniel Breton, qualifie ce sabotage d'infrastructure de crime grave même si le cuivre volé ne vaut que huit à dix dollars, rapporte Radio-Canada.\n\n**Mise à jour, 8 h 55** — Le vol de câbles de bornes de recharge est en hausse ailleurs au pays, sur fond de cours du cuivre à un sommet historique. BC Hydro dit mal s'expliquer le phénomène : le cuivre contenu dans un câble vaut « à peine quelques dizaines de dollars », pour un geste qui expose les voleurs à un équipement dangereux.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T07:30-04:00",
+   "horodate": "2026-08-31T08:53-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2279110/vandalisme-bornes-shawinigan-electricite-cables"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/british-columbia/ev-charger-thefts-rise-9.7323039"
     }
    ],
    "permalien": "des-bornes-de-recharge-vandalisees-a-repetition-a-shawinigan-9938de",
@@ -1375,9 +1784,9 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Ontario",
-   "medias": "Radio-Canada, Global News",
+   "medias": "Radio-Canada, Global News, Le Guide de l'auto, CBC/Radio-Canada",
    "url": "https://ici.radio-canada.ca/nouvelle/2279105/general-motors-lentente-de-principe-ratifiee",
-   "resume": "Les membres d'Unifor chez General Motors ont ratifié à forte majorité — 80,5 % à Oshawa, Woodstock et St. Catharines, 96,5 % à Ingersoll — les conventions collectives provisoires conclues le 22 août, qui portent le salaire horaire de la production à taux plein à 50,20 $ et prévoient plus d'un milliard de dollars d'investissements dans les usines canadiennes. Le syndicat dit continuer de faire pression pour la reprise de la production à l'usine CAMI d'Ingersoll, à l'arrêt, dont les employés bénéficient d'une prolongation des indemnités de chômage partiel.",
+   "resume": "Les membres d'Unifor chez General Motors ont ratifié à forte majorité — 80,5 % à Oshawa, Woodstock et St. Catharines, 96,5 % à Ingersoll — les conventions collectives provisoires conclues le 22 août, qui portent le salaire horaire de la production à taux plein à 50,20 $ et prévoient plus d'un milliard de dollars d'investissements dans les usines canadiennes. Le syndicat dit continuer de faire pression pour la reprise de la production à l'usine CAMI d'Ingersoll, à l'arrêt, dont les employés bénéficient d'une prolongation des indemnités de chômage partiel.\n\n**Mise à jour, 8 h 55** — L'usine d'Oshawa, qui assemble déjà des Chevrolet Silverado 1500 et Silverado HD, recevra 144 millions de dollars additionnels pour construire la prochaine génération du GMC Sierra HD, portant l'investissement à près d'un demi-milliard. Les conventions de trois ans portent le salaire des membres de production au taux plein à 50,20 $ l'heure et celui des métiers spécialisés à 62,71 $, des négociations menées alors que l'usine CAMI d'Ingersoll est à l'arrêt et que la majorité de ses membres sont en mise à pied indéterminée.",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -1386,11 +1795,19 @@
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12041163/unifor-gm-voting-agreement/"
+    },
+    {
+     "media": "Le Guide de l'auto",
+     "url": "https://www.guideautoweb.com/articles/83193/des-gmc-sierra-hd-seront-fabriques-a-oshawa/"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/windsor/oshawa-plant-adds-truck-as-unionized-canadian-gm-members-ratify-new-deals-9.7326309"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T05:55-04:00",
+   "horodate": "2026-08-31T08:53-04:00",
    "permalien": "les-employes-syndiques-de-gm-ratifient-leurs-nouvelles-conve-b67ecb",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-08-31.json",
@@ -1965,9 +2382,9 @@
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Canada",
-   "medias": "Le Devoir, Le Canada Français",
+   "medias": "Le Devoir, Le Canada Français, La Presse",
    "url": "https://www.ledevoir.com/politique/canada/1005095/liberaux-carney-quete-nouveaux-gains-elections-partielles",
-   "resume": "Trois élections partielles fédérales se tiennent lundi, dont une dans Chicoutimi–Le Fjord au Saguenay où le libéral Daniel Gobeil et la bloquiste Caroline Dubé sont donnés au coude-à-coude par l'agrégateur 338Canada, tandis que Beaches–East York (Toronto) et North Vancouver–Capilano (Colombie-Britannique) penchent nettement pour les candidats libéraux. Un gain complet permettrait aux libéraux de Mark Carney de consolider leur majorité, dans un contexte de guerre commerciale avec les États-Unis.",
+   "resume": "Trois élections partielles fédérales se tiennent lundi, dont une dans Chicoutimi–Le Fjord au Saguenay où le libéral Daniel Gobeil et la bloquiste Caroline Dubé sont donnés au coude-à-coude par l'agrégateur 338Canada, tandis que Beaches–East York (Toronto) et North Vancouver–Capilano (Colombie-Britannique) penchent nettement pour les candidats libéraux. Un gain complet permettrait aux libéraux de Mark Carney de consolider leur majorité, dans un contexte de guerre commerciale avec les États-Unis.\n\n**Mise à jour, 8 h 55** — Les électeurs de Chicoutimi–Le Fjord votent lundi pour désigner le successeur de Richard Martel à la Chambre des communes. La course s'annonce serrée entre la bloquiste Caroline Dubé, le libéral Daniel Gobeil et le conservateur Régis Gaudreault.",
    "sources": [
     {
      "media": "Le Devoir",
@@ -1976,11 +2393,15 @@
     {
      "media": "Le Canada Français",
      "url": "https://www.canadafrancais.com/nouvelles-nationales/les-electeurs-se-rendront-aux-urnes-lundi-dans-trois-circonscriptions-federales/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-08-31/election-federale-partielle/des-resultats-serres-attendus-dans-chicoutimi-le-fjord.php"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-30T15:30-04:00",
+   "horodate": "2026-08-31T08:53-04:00",
    "permalien": "trois-elections-partielles-federales-lundi-dont-une-au-sague-80ad1e",
    "_fichier": "revue-report-2026-08-31.json",
    "_volet": "report",
@@ -2129,9 +2550,9 @@
    "cahier": "savoirs",
    "rubrique": "sciences",
    "territoire": "International",
-   "medias": "Science, Nature, Québecor",
+   "medias": "Science, Nature, Québecor, Futura",
    "url": "https://doi.org/10.1126/science.ady2660",
-   "resume": "Une reconstitution sur 1000 ans des températures du Pacifique à partir de coraux des Galápagos, publiée dans Science par la paléoclimatologue Julia Cole (Université du Michigan) et relayée par Nature, confirme que les épisodes forts d'El Niño sont devenus plus fréquents depuis l'ère industrielle, un signal attribué au réchauffement climatique d'origine humaine.\n\nL'épisode en cours, qui s'annonce déjà exceptionnel, pourrait faire de 2026 et 2027 les années les plus chaudes jamais enregistrées, selon Patrick Grenier, professeur au Département des sciences de l'atmosphère de l'UQAM.",
+   "resume": "Une reconstitution sur 1000 ans des températures du Pacifique à partir de coraux des Galápagos, publiée dans Science par la paléoclimatologue Julia Cole (Université du Michigan) et relayée par Nature, confirme que les épisodes forts d'El Niño sont devenus plus fréquents depuis l'ère industrielle, un signal attribué au réchauffement climatique d'origine humaine.\n\nL'épisode en cours, qui s'annonce déjà exceptionnel, pourrait faire de 2026 et 2027 les années les plus chaudes jamais enregistrées, selon Patrick Grenier, professeur au Département des sciences de l'atmosphère de l'UQAM.\n\n**Mise à jour, 8 h 55** — Une étude parue le 27 août dans Science, fondée sur une reconstruction de mille ans de climat, conclut que les épisodes El Niño des quatre dernières décennies ont été près de 40 % plus intenses que ceux de l'ère préindustrielle. Les prévisions annoncent par ailleurs une anomalie de température exceptionnelle dans le Pacifique équatorial, dont les premiers effets sont déjà visibles depuis l'espace.",
    "sources": [
     {
      "media": "Science",
@@ -2144,11 +2565,15 @@
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/08/29/el-nino-record--les-annees-2026-et-2027-pourraient-etre-les-plus-chaudes-de-lhistoire"
+    },
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/planete/actualites/changement-climatique-el-nino-devient-il-incontrolable-plongee-mille-ans-climat-livre-resultat-saisissant-13742"
     }
    ],
    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/El_Ni%C3%B1o_Is_Underway_%281228049%29.jpg",
    "legende": "Les anomalies de température de surface du Pacifique équatorial pendant un épisode El Niño, vues par satellite.",
-   "horodate": "2026-08-31T02:36-04:00",
+   "horodate": "2026-08-31T08:53-04:00",
    "photo_auteur": "NASA Earth Observatory/Lauren Dauphin",
    "photo_licence": "Public domain",
    "permalien": "el-nino-pourrait-faire-de-2026-et-2027-les-annees-les-plus-c-409020",
@@ -2485,14 +2910,14 @@
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Ontario",
-   "medias": "Québecor, Le Devoir, La Presse, APTN News, Global News, CBC, The Globe and Mail, Le Journal de Montréal, Radio-Canada, National Post, Canada's National Observer, Coops de l'information, France 24, Les Echos, BFMTV, Le Temps, Acadie Nouvelle, Noovo Info, Ouest-France",
+   "medias": "Québecor, Le Devoir, La Presse, APTN News, Global News, CBC, The Globe and Mail, Le Journal de Montréal, Radio-Canada, National Post, Canada's National Observer, Coops de l'information, France 24, Les Echos, BFMTV, Le Temps, Acadie Nouvelle, Noovo Info, Ouest-France, Euronews, next.ink",
    "url": "https://www.journaldemontreal.com/2026/08/27/lac-amerique-donald-trump-signe-un-decret-pour-changer-le-nom-du-lac-ontario",
-   "resume": "Un décret signé jeudi par Donald Trump rebaptise le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, et Google Maps affiche depuis dimanche ce nom à ses utilisateurs situés aux États-Unis — les internautes canadiens continuant de voir « lac Ontario » et les autres, les deux noms — un changement dont la Maison-Blanche s'est félicitée. La décision n'a aucune portée légale au Canada : Mark Carney a répondu que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario, le grand chef de la Nation huronne-wendat a exprimé son indignation, et Doug Ford a fait installer sur les rives une affiche portant « Lac Ontario, aujourd'hui et pour toujours ».\n\n**Mise à jour, 5 h 55** — Des services ontariens qui puisent leurs données cartographiques chez Google, dont la carte des pannes d'Hydro One et le localisateur de succursales de la Régie des alcools de l'Ontario, ont brièvement affiché « lac d'Amérique » avant qu'Hydro One ne dise travailler à corriger l'erreur avec son fournisseur; le ministre ontarien Stephen Crawford affirme qu'une vérification est en cours pour s'assurer que les sites du gouvernement provincial continuent de désigner le lac Ontario par son nom.",
+   "resume": "Un décret signé jeudi par Donald Trump rebaptise le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, et Google Maps affiche depuis dimanche ce nom à ses utilisateurs situés aux États-Unis — les internautes canadiens continuant de voir « lac Ontario » et les autres, les deux noms — un changement dont la Maison-Blanche s'est félicitée. La décision n'a aucune portée légale au Canada : Mark Carney a répondu que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario, le grand chef de la Nation huronne-wendat a exprimé son indignation, et Doug Ford a fait installer sur les rives une affiche portant « Lac Ontario, aujourd'hui et pour toujours ».\n\n**Mise à jour, 5 h 55** — Des services ontariens qui puisent leurs données cartographiques chez Google, dont la carte des pannes d'Hydro One et le localisateur de succursales de la Régie des alcools de l'Ontario, ont brièvement affiché « lac d'Amérique » avant qu'Hydro One ne dise travailler à corriger l'erreur avec son fournisseur; le ministre ontarien Stephen Crawford affirme qu'une vérification est en cours pour s'assurer que les sites du gouvernement provincial continuent de désigner le lac Ontario par son nom.\n\n**Mise à jour, 8 h 55** — Google a appliqué le changement : depuis lundi, Google Maps affiche « Lake America » aux utilisateurs situés aux États-Unis, tout en conservant « lac Ontario » au Canada et dans le reste du monde. Le premier ministre de l'Ontario, Doug Ford, a qualifié la décision de « complètement à l'envers », alors que Washington doit porter au 1er janvier 2027 de 25 % à 50 % le tarif sur la part non américaine des véhicules assemblés au Canada, après l'échec des négociations du 21 août.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lake_Ontario_Shoreline.jpg",
    "legende": "Le littoral du lac Ontario.",
    "photo_auteur": "SAF1999",
    "photo_licence": "CC0",
-   "horodate": "2026-08-31T05:55-04:00",
+   "horodate": "2026-08-31T08:53-04:00",
    "permalien": "trump-rebaptise-le-lac-ontario-lac-d-amerique-carney-hausse-09b1fe",
    "sources": [
     {
@@ -2566,6 +2991,18 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2278963/lac-decret-trump-signature-ford"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10748409/google-se-conforme-au-decret-trump-sur-lac-amerique"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/next/2026/08/31/lac-ontario-ou-lac-america-google-maps-varie-au-canada-aux-etats-unis-et-dans-le-monde"
+    },
+    {
+     "media": "next.ink",
+     "url": "https://next.ink/253677/google-maps-renomme-le-lac-ontario-en-lac-damerique-pour-les-etats-unis/"
     }
    ],
    "_fichier": "revue-report-2026-08-31.json",
