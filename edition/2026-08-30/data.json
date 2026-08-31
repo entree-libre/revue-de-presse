@@ -200,13 +200,17 @@
    "cahier": "canada",
    "rubrique": "transport",
    "territoire": "Nouvelle-Écosse",
-   "medias": "Global News",
+   "medias": "Global News, Acadie Nouvelle, La Presse canadienne",
    "url": "https://globalnews.ca/news/12041050/cn-rail-train-derailment-nova-scotia/",
    "resume": "Quatorze wagons d'un convoi du Canadien National ont déraillé samedi vers 17 h 30 à Truro, dans le centre de la Nouvelle-Écosse, sans se renverser. Le transporteur affirme que la sécurité du public n'est pas menacée ; la cause du déraillement fait l'objet d'une enquête.",
    "sources": [
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12041050/cn-rail-train-derailment-nova-scotia/"
+    },
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/atlantique/2026/08/30/un-train-du-cn-a-deraille-a-truro-aucune-menace-pour-la-securite-publique/"
     }
    ],
    "photo": "",
@@ -296,22 +300,30 @@
    "_slug": "un-sexagenaire-porte-disparu-sur-le-lac-stukley-en-estrie-c6df87"
   },
   {
-   "titre": "Trois blessés dans une sortie de route avec tonneaux à Maskinongé",
+   "titre": "Un mort et deux blessés graves dans une sortie de route à Maskinongé",
    "cahier": "quebec",
    "rubrique": "justice",
    "territoire": "Maskinongé",
-   "medias": "Coops de l'information",
+   "medias": "Coops de l'information, La Presse, Québecor",
    "url": "https://www.lenouvelliste.ca/actualites/2026/08/30/accident-avec-tonneaux-trois-blesses-et-entrave-sur-le-boulevard-maskinonge-ouest-GF4S3UEALBHHFJYWRADOMOW63M/",
-   "resume": "Trois personnes ont été blessées dimanche dans une sortie de route sur le boulevard Maskinongé Ouest, où le conducteur aurait perdu la maîtrise de son véhicule pour une raison qui demeure inconnue. Des pinces de désincarcération ont été nécessaires pour dégager les occupants et la circulation a été entravée sur les lieux.",
+   "resume": "Trois personnes ont été blessées dimanche dans une sortie de route sur le boulevard Maskinongé Ouest, où le conducteur aurait perdu la maîtrise de son véhicule pour une raison qui demeure inconnue. Des pinces de désincarcération ont été nécessaires pour dégager les occupants et la circulation a été entravée sur les lieux.\n\n**Mise à jour, 21 h 40** — Un homme dans la trentaine a succombé à ses blessures, portant à un le nombre de morts dans cette sortie de route de Maskinongé. Deux autres occupants ont été transportés à l'hôpital pour des blessures jugées critiques.",
    "sources": [
     {
      "media": "Coops de l'information",
      "url": "https://www.lenouvelliste.ca/actualites/2026/08/30/accident-avec-tonneaux-trois-blesses-et-entrave-sur-le-boulevard-maskinonge-ouest-GF4S3UEALBHHFJYWRADOMOW63M/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-30/mauricie/un-homme-meurt-apres-une-sortie-de-route.php"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/08/30/sortie-de-route-en-mauricie-trois-hommes-transportes-en-centre-hospitalier"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-30T15:30-04:00",
+   "horodate": "2026-08-30T21:40-04:00",
    "permalien": "trois-blesses-dans-une-sortie-de-route-avec-tonneaux-a-maski-9c0ed7",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-08-30.json",
@@ -324,7 +336,7 @@
    "territoire": "États-Unis",
    "medias": "Radio-Canada, Québecor, The Verge, TV5Monde",
    "url": "https://ici.radio-canada.ca/nouvelle/2279011/nasa-lancement-telescope-roman-espace",
-   "resume": "Le télescope de la NASA s'est envolé samedi matin de Cap Canaveral, en Floride, entamant un trajet de trois mois et de quelque 1,6 million de kilomètres vers le point de Lagrange L2, au-delà de la Lune. Développé pendant plus d'une décennie pour un coût dépassant les 4 milliards de dollars, il doit cartographier le cosmos, étudier la matière et l'énergie sombres et détecter de nouvelles exoplanètes.",
+   "resume": "Le télescope de la NASA s'est envolé dimanche matin de Cap Canaveral, en Floride, entamant un trajet de trois mois et de quelque 1,6 million de kilomètres vers le point de Lagrange L2, au-delà de la Lune. Développé pendant plus d'une décennie pour un coût dépassant les 4 milliards de dollars, il doit cartographier le cosmos, étudier la matière et l'énergie sombres et détecter de nouvelles exoplanètes.",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -422,6 +434,414 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-08-30.json",
    "_slug": "rene-goscinny-aurait-eu-100-ans-et-ses-heros-de-bd-restent-p-84663d"
+  },
+  {
+   "titre": "Les États-Unis frappent l'île iranienne de Larak, premières frappes en un mois",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran",
+   "medias": "Le Devoir, Radio-Canada, France 24, RFI, TF1 Info, BFMTV, La Libre.be, AFP",
+   "url": "https://www.ledevoir.com/monde/moyen-orient/1005167/etats-unis-ont-mene-nouvelles-frappes-iran-premieres-mois",
+   "resume": "Les forces américaines ont détruit dimanche deux lanceurs de roquettes sur l'île iranienne de Larak, dans le détroit d'Ormuz, où des unités du Corps des gardiens de la révolution islamique se préparaient à tirer des roquettes chargées de mines marines, selon le porte-parole du Commandement militaire américain pour le Moyen-Orient, Tim Hawkins. Il s'agit de la première opération américaine visant le territoire iranien depuis un mois, l'administration Trump ayant jusqu'ici privilégié les sanctions économiques ; les Gardiens de la révolution ont appelé à « une punition » en représailles.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1005167/etats-unis-ont-mene-nouvelles-frappes-iran-premieres-mois"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279046/etats-unis-nouvelles-frappes-iran"
+    },
+    {
+     "media": "TF1 Info",
+     "url": "https://www.tf1info.fr/international/iran-les-etats-unis-menent-de-nouvelles-frappes-les-premieres-depuis-un-mois-2461329.html"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-les-etats-unis-ont-mene-de-nouvelles-frappes-en-iran-les-premieres-depuis-un-mois_VN-202608300456.html"
+    },
+    {
+     "media": "La Libre.be",
+     "url": "https://www.lalibre.be/international/amerique/2026/08/30/les-etats-unis-ont-mene-de-nouvelles-frappes-en-iran-les-premieres-en-un-mois-65NNVHSRPNCYTLZQMPBVNKJXEU/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "les-etats-unis-frappent-l-ile-iranienne-de-larak-premieres-f-490c67",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "les-etats-unis-frappent-l-ile-iranienne-de-larak-premieres-f-490c67"
+  },
+  {
+   "titre": "Plus de vingt personnes recherchées après une crue soudaine au Grand Canyon",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "États-Unis",
+   "medias": "France 24, La Presse, Ouest-France, TF1 Info, AFP",
+   "url": "https://www.france24.com/fr/am%C3%A9riques/20260830-crue-soudaine-frappe-grand-canyon-etats-unis-plus-20-personnes-recherchees-parc-national-arizona",
+   "resume": "Le Service des parcs nationaux américains sollicite l'aide du public pour retrouver plus de vingt personnes portées disparues ou dont on est sans nouvelles après une crue subite survenue samedi vers 14 h 30 dans le parc national du Grand Canyon, en Arizona. Les bilans diffusés au cours de la journée de dimanche variaient d'une quinzaine à plus de vingt personnes recherchées.",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260830-crue-soudaine-frappe-grand-canyon-etats-unis-plus-20-personnes-recherchees-parc-national-arizona"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-08-30/grand-canyon/environ-15-personnes-recherchees-apres-une-crue-soudaine.php"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/etats-unis/plus-de-20-personnes-recherchees-apres-une-crue-soudaine-dans-le-grand-canyon-352c9534-a4bf-11f1-94d9-ff4da0548a19"
+    },
+    {
+     "media": "TF1 Info",
+     "url": "https://www.tf1info.fr/international/etats-unis-une-vingtaine-de-personnes-recherchees-apres-une-crue-soudaine-dans-le-grand-canyon-2461330.html"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "plus-de-vingt-personnes-recherchees-apres-une-crue-soudaine-a859a1",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "plus-de-vingt-personnes-recherchees-apres-une-crue-soudaine-a859a1"
+  },
+  {
+   "titre": "Trump invite les entreprises canadiennes à s'installer aux États-Unis pour échapper aux droits de douane",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Le Devoir, Radio-Canada, La Presse, Noovo Info, Québecor, La Presse canadienne",
+   "url": "https://www.ledevoir.com/economie/1005176/trump-invite-entreprises-canadiennes-demenager-etats-unis-eviter-tarifs-douaniers",
+   "resume": "Donald Trump a publié dimanche sur Truth Social un message invitant les entreprises canadiennes à déménager aux États-Unis, assurant qu'« il n'y aura pas de droits de douane » pour celles qui s'y installeront et attribuant leur départ passé à « la stupidité des dirigeants américains ». L'appel survient après l'imposition en fin de semaine dernière de droits de douane américains de 50 % sur environ 28 milliards de dollars de produits canadiens, auxquels Ottawa a riposté par des tarifs portant sur un montant équivalent de produits américains.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005176/trump-invite-entreprises-canadiennes-demenager-etats-unis-eviter-tarifs-douaniers"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279030/trump-invitation-entreprises-canadiennes-demenager-etats-unis"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-08-30/pour-eviter-les-droits-de-douane/donald-trump-incite-les-entreprises-canadiennes-a-demenager-aux-etats-unis.php"
+    },
+    {
+     "media": "Noovo Info",
+     "url": "https://www.noovo.info/nouvelles/international/article/donald-trump-invite-les-entreprises-canadiennes-a-demenager-aux-etats-unis-pour-eviter-les-tarifs/"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/30/trump-invite-les-entreprises-canadiennes-a-sinstaller-aux-etats-unis"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "trump-invite-les-entreprises-canadiennes-a-s-installer-aux-e-c8a302",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "trump-invite-les-entreprises-canadiennes-a-s-installer-aux-e-c8a302"
+  },
+  {
+   "titre": "Naufrage d'un ferry au large de Chypre du Nord : au moins huit morts, dix-sept disparus",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Chypre",
+   "medias": "TV5Monde, Québecor, AFP",
+   "url": "https://information.tv5monde.com/international/au-moins-sept-morts-dans-un-naufrage-au-large-de-chypre-du-nord-2835504",
+   "resume": "Au moins huit personnes ont péri et dix-sept étaient portées disparues dimanche soir après le naufrage d'un ferry bondé au large de la République turque de Chypre du Nord, entité autoproclamée que seule la Turquie reconnaît. Le navire s'est couché sur le flanc avant de sombrer complètement, et son capitaine a été placé en garde à vue.",
+   "sources": [
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/au-moins-sept-morts-dans-un-naufrage-au-large-de-chypre-du-nord-2835504"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/30/au-moins-six-morts-dans-un-naufrage-au-large-de-chypre-du-nord"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "naufrage-d-un-ferry-au-large-de-chypre-du-nord-au-moins-huit-ce2b39",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "naufrage-d-un-ferry-au-large-de-chypre-du-nord-au-moins-huit-ce2b39"
+  },
+  {
+   "titre": "Olivier Faure se porte candidat à la primaire de la gauche française",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "France",
+   "medias": "franceinfo, TV5Monde, Nice-Matin, Blick, Le Télégramme, AFP",
+   "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html",
+   "resume": "Le premier secrétaire du Parti socialiste Olivier Faure a confirmé dimanche sa candidature à la primaire de son camp en vue de la présidentielle française de 2027, disant vouloir « tout rebâtir » pour une France « plus juste » et se battre, selon ses termes, contre la droite et l'extrême droite. Crédité de 3,5 % des intentions de vote dans un sondage Elabe publié durant le week-end, il a rappelé que François Hollande, surnommé « Monsieur 3 % », avait fini par conquérir l'Élysée.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/olivier-faure-candidat-la-primaire-de-la-gauche-2835477"
+    },
+    {
+     "media": "Nice-Matin",
+     "url": "https://www.nicematin.com/societe/politique/olivier-faure-confirme-etre-candidat-a-la-presidentielle-pour-une-france-plus-juste-et-pour-combattre-l-extreme-droite-10714769"
+    },
+    {
+     "media": "Blick",
+     "url": "https://www.blick.ch/fr/monde/france/pour-une-france-plus-juste-olivier-faure-est-candidat-a-la-primaire-de-la-gauche-pour-combattre-lextreme-droite-id22222113.html"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "olivier-faure-se-porte-candidat-a-la-primaire-de-la-gauche-f-96d17d",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "olivier-faure-se-porte-candidat-a-la-primaire-de-la-gauche-f-96d17d"
+  },
+  {
+   "titre": "La Chine pèse sur l'ouverture du sommet des dirigeants du Pacifique",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Palaos",
+   "medias": "France 24, TV5Monde, AFP",
+   "url": "https://www.france24.com/fr/info-en-continu/20260830-la-chine-omnipr%C3%A9sente-%C3%A0-l-ouverture-du-sommet-des-dirigeants-du-pacifique",
+   "resume": "Le Forum des îles du Pacifique, qui compte dix-huit membres, s'est ouvert aux Palaos, l'un des trois derniers États de la région à entretenir des relations diplomatiques avec Taipei plutôt qu'avec Pékin. La Chine a réagi à l'arrivée sur place du ministre taïwanais des Affaires étrangères Lin Chia-lung en déclarant l'archipel « dangereux » pour ses voyageurs.",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260830-la-chine-omnipr%C3%A9sente-%C3%A0-l-ouverture-du-sommet-des-dirigeants-du-pacifique"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/la-chine-omnipresente-louverture-du-sommet-des-dirigeants-du-pacifique-2835548"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "la-chine-pese-sur-l-ouverture-du-sommet-des-dirigeants-du-pa-046021",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "la-chine-pese-sur-l-ouverture-du-sommet-des-dirigeants-du-pa-046021"
+  },
+  {
+   "titre": "G20 des finances aux États-Unis : Washington vise l'Iran et écarte des journalistes",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "France 24, The Globe and Mail, Le Parisien, Orange Actualités, AFP",
+   "url": "https://www.france24.com/fr/info-en-continu/20260831-les-ministres-des-finances-du-g20-aux-etats-unis-washington-veut-isoler-davantage-t%C3%A9h%C3%A9ran",
+   "resume": "Les ministres des Finances du G20 se réunissent aux États-Unis, où le secrétaire au Trésor Scott Bessent est chargé de mener à coups de sanctions une offensive économique destinée à isoler davantage Téhéran, sur fond de guerre commerciale relancée avec le Canada, membre du G20 et du G7. Le département du Trésor a refusé l'accès de la rencontre à certains journalistes, dont ceux du New York Times, qui dénonce « une tentative flagrante d'échapper au regard du public ».",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-les-ministres-des-finances-du-g20-aux-etats-unis-washington-veut-isoler-davantage-t%C3%A9h%C3%A9ran"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/world/article-us-treasury-blocks-certain-journalists-from-g20-finance-minister/"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/une-tentative-flagrante-dechapper-au-regard-du-public-les-etats-unis-excluent-certains-journalistes-au-g20-finance-31-08-2026-EOC4ZH5BWFGLTBL3KKMYRIBDY4.php"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "g20-des-finances-aux-etats-unis-washington-vise-l-iran-et-ec-c6329a",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "g20-des-finances-aux-etats-unis-washington-vise-l-iran-et-ec-c6329a"
+  },
+  {
+   "titre": "Leylah Annie Fernandez et Denis Shapovalov franchissent le premier tour à New York",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "Radio-Canada, La Presse, Le Devoir, Québecor",
+   "url": "https://ici.radio-canada.ca/sports/2279021/leylah-annie-fernandez-passe-au-2e-tour-des-internationaux-des-etats-unis",
+   "resume": "La Lavalloise de 23 ans a écarté dimanche la Chinoise Zhang Shuai au premier tour des Internationaux des États-Unis, remportant 77 % des points sur son premier service et réussissant trois bris en sept occasions, tandis que Denis Shapovalov éliminait le Serbe Miomir Kecmanovic. Finaliste à New York en 2021 à 19 ans, Fernandez affrontera au deuxième tour la gagnante du duel entre la Hongroise Panna Udvardy et la Thaïlandaise Mananchaya Sawangkaew, prévu lundi.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/sports/2279021/leylah-annie-fernandez-passe-au-2e-tour-des-internationaux-des-etats-unis"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/sports/tennis/2026-08-30/internationaux-des-etats-unis/leylah-annie-fernandez-et-denis-shapovalov-passent-au-tour-suivant.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/sports/1005182/leylah-annie-fernandez-denis-shapovalov-passent-tour-suivant-new-york"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/30/internationaux-des-etats-unis-leylah-fernandez-passe-au-deuxieme-tour"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "leylah-annie-fernandez-et-denis-shapovalov-franchissent-le-p-273622",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "leylah-annie-fernandez-et-denis-shapovalov-franchissent-le-p-273622"
+  },
+  {
+   "titre": "Les avocats de l'aide juridique en grève dans quatre régions du Québec",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2026/08/30/laide-juridique-en-greve-dans-plusieurs-regions-du-quebec-7FVNMDGNFFFJ3HB6XX5CTTJDSM/",
+   "resume": "Les avocats de l'aide juridique des régions de Québec, de l'Outaouais, de l'Estrie et de la Côte-Nord sont en grève pour une semaine, jusqu'à vendredi. Leur syndicat reproche au Conseil du trésor de refuser le principe de parité entre eux et les procureurs du Directeur des poursuites criminelles et pénales.",
+   "sources": [
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2026/08/30/laide-juridique-en-greve-dans-plusieurs-regions-du-quebec-7FVNMDGNFFFJ3HB6XX5CTTJDSM/"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/justice-et-faits-divers/2026/08/30/laide-juridique-en-greve-dans-plusieurs-regions-du-quebec-7FVNMDGNFFFJ3HB6XX5CTTJDSM/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "les-avocats-de-l-aide-juridique-en-greve-dans-quatre-regions-61ac68",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "les-avocats-de-l-aide-juridique-en-greve-dans-quatre-regions-61ac68"
+  },
+  {
+   "titre": "Noyade d'un septuagénaire à Saint-Nazaire-de-Dorchester",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Chaudière-Appalaches",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-30/chaudiere-appalaches/noyade-d-un-septuagenaire-dans-le-secteur-de-bellechasse.php",
+   "resume": "La Sûreté du Québec a été appelée dimanche pour une possible noyade à Saint-Nazaire-de-Dorchester, dans Bellechasse, où un homme dans la soixantaine avancée a perdu la vie. Les circonstances de l'événement n'avaient pas été précisées en soirée.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-30/chaudiere-appalaches/noyade-d-un-septuagenaire-dans-le-secteur-de-bellechasse.php"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "noyade-d-un-septuagenaire-a-saint-nazaire-de-dorchester-824fc1",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "noyade-d-un-septuagenaire-a-saint-nazaire-de-dorchester-824fc1"
+  },
+  {
+   "titre": "« L'intimidation du Canada par Trump est un échec », soutient David Frum",
+   "cahier": "canada",
+   "rubrique": "idees",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/chroniques/2026-08-30/donald-trump-est-il-en-train-de-perdre-la-guerre.php",
+   "resume": "L'essayiste canado-américain David Frum, ancien rédacteur de discours de George W. Bush et l'une des voix conservatrices hostiles à Donald Trump, soutient dans The Atlantic que le président américain perd ses guerres commerciales parce qu'il tient pour acquis que « le plus gros intimidateur gagne toujours ». Il fait valoir que l'aluminium se vend 5000 $ US la tonne aux États-Unis contre 3000 $ US ailleurs, à cause des droits imposés au premier fournisseur du pays, et cite le Yale Budget Lab, selon lequel les mesures tarifaires coûtent en moyenne 1100 $ US par année à chaque ménage américain.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/chroniques/2026-08-30/donald-trump-est-il-en-train-de-perdre-la-guerre.php"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "l-intimidation-du-canada-par-trump-est-un-echec-soutient-dav-102f64",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "l-intimidation-du-canada-par-trump-est-un-echec-soutient-dav-102f64"
+  },
+  {
+   "titre": "Michel Platini réclame le départ de Gianni Infantino de la FIFA",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Monde",
+   "medias": "franceinfo, France 24, AFP",
+   "url": "https://www.franceinfo.fr/sports/foot/michel-platini/fifa-michel-platini-estime-que-gianni-infantino-doit-partir-car-il-n-a-pas-respecte-les-regles-du-football_8169863.html",
+   "resume": "L'ancien président de l'UEFA Michel Platini a déclaré à l'émission Canal Football Club que le président de la FIFA Gianni Infantino « doit partir » parce qu'il n'a pas respecté les règles du football dont il est le garant. Le triple Ballon d'Or visait l'annulation, pendant le Mondial, de la suspension de l'attaquant américain Folarin Balogun après une intervention de Donald Trump.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sports/foot/michel-platini/fifa-michel-platini-estime-que-gianni-infantino-doit-partir-car-il-n-a-pas-respecte-les-regles-du-football_8169863.html"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260830-fifa-platini-estime-qu-infantino-doit-partir-car-il-n-a-pas-respect%C3%A9-les-r%C3%A8gles-du-football"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "michel-platini-reclame-le-depart-de-gianni-infantino-de-la-f-d71083",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "michel-platini-reclame-le-depart-de-gianni-infantino-de-la-f-d71083"
+  },
+  {
+   "titre": "Scottie Scheffler remporte le Championnat du circuit de la PGA",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada, Coops de l'information",
+   "url": "https://ici.radio-canada.ca/sports/2279065/scottie-scheffler-championnat-circuit-pga",
+   "resume": "Scottie Scheffler a effacé un retard de trois coups dimanche pour enlever le Championnat du circuit de la PGA et décrocher un deuxième titre de la Coupe FedEx en trois ans. La victoire prend des allures de revanche pour le golfeur américain, battu en prolongation à l'édition précédente du tournoi.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/sports/2279065/scottie-scheffler-championnat-circuit-pga"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/sports/2026/08/30/alerte-scottie-scheffler-gagne-le-championnat-du-circuit-de-la-pga-5FR72E5SBFCALK6AV3PZ353HHM/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "scottie-scheffler-remporte-le-championnat-du-circuit-de-la-p-b1ddb3",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "scottie-scheffler-remporte-le-championnat-du-circuit-de-la-p-b1ddb3"
+  },
+  {
+   "titre": "Max Scherzer blanchit les Mariners, les Blue Jays l'emportent 7-0",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "Radio-Canada, Le Devoir, Québecor",
+   "url": "https://ici.radio-canada.ca/sports/2279045/blue-jays-mariners-max-scherzer",
+   "resume": "Max Scherzer a retiré dix frappeurs sur des prises en sept manches de travail dimanche après-midi, portant les Blue Jays de Toronto vers un blanchissage de 7-0 contre les Mariners de Seattle. Le vétéran, dont la fiche s'établit à 2-7 dans ce qui est sans doute sa saison la plus difficile, a effectué 97 lancers, deux sommets personnels cette année.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/sports/2279045/blue-jays-mariners-max-scherzer"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/sports/1005179/max-scherzer-illustre-blue-jays-blanchissent-mariners"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-30T21:40-04:00",
+   "permalien": "max-scherzer-blanchit-les-mariners-les-blue-jays-l-emportent-3cab16",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-30.json",
+   "_slug": "max-scherzer-blanchit-les-mariners-les-blue-jays-l-emportent-3cab16"
   },
   {
    "titre": "Northvolt : Fitzgibbon juge « invraisemblable » la mise en garde qu’aurait faite le candidat péquiste Stéphane Paquet",
