@@ -318,10 +318,22 @@
     {
      "media": "Mac4Ever",
      "url": "https://www.mac4ever.com/ia/197776-chatgpt-devient-un-moteur-de-recherche-aux-yeux-de-l-europe-qu-est-ce-que-cela-change"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/technologies/20260831-chatgpt-va-%C3%AAtre-la-premi%C3%A8re-ia-soumise-aux-r%C3%A8gles-renforc%C3%A9es-de-protection-des-utilisateurs-de-l-ue"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/techno-et-ia/chatgpt-va-etre-la-premiere-ia-soumise-a-des-regles-renforcees-de-lue/"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
     }
    ],
-   "resume": "La Commission européenne a classé le service d'OpenAI parmi les très grands moteurs de recherche en ligne au sens du règlement sur les services numériques, une première pour un agent conversationnel, et a désigné Roblox et Reddit dans la même vague.\n\nLes trois services, qui déclarent 159 millions, 57,2 millions et environ 48 millions d'utilisateurs mensuels dans l'Union, ont quatre mois pour se plier aux obligations du régime : évaluer et atténuer les risques systémiques de leurs algorithmes, notamment la diffusion de contenus illicites et les effets sur les mineurs.",
-   "horodate": "2026-08-31T08:53-04:00",
+   "resume": "La Commission européenne a classé le service d'OpenAI parmi les très grands moteurs de recherche en ligne au sens du règlement sur les services numériques, une première pour un agent conversationnel, et a désigné Roblox et Reddit dans la même vague.\n\nLes trois services, qui déclarent 159 millions, 57,2 millions et environ 48 millions d'utilisateurs mensuels dans l'Union, ont quatre mois pour se plier aux obligations du régime : évaluer et atténuer les risques systémiques de leurs algorithmes, notamment la diffusion de contenus illicites et les effets sur les mineurs.\n\n**Mise à jour, 15 h 30** — Bruxelles a aussi ajouté lundi la plateforme de jeu Roblox et le réseau social Reddit à la liste des très grandes plateformes soumises au règlement européen sur les services numériques. Les trois ont franchi le seuil des 45 millions d'utilisateurs dans l'Union européenne.",
+   "horodate": "2026-08-31T15:52-04:00",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bruxelles_-_Commission_Europ%C3%A9enne_Berlaymont.jpg/1280px-Bruxelles_-_Commission_Europ%C3%A9enne_Berlaymont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "photo_auteur": "Fred Romero from Paris, France",
    "photo_licence": "CC BY 2.0",
@@ -386,6 +398,406 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-08-31.json",
    "_slug": "mort-de-jean-francois-leroy-fondateur-du-festival-de-photojo-d758a9"
+  },
+  {
+   "titre": "Lionel Messi annonce sa retraite internationale avec l'Argentine",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Argentine",
+   "medias": "Radio-Canada, Le Devoir, La Presse, Québecor, Coops de l'information, France 24, RFI, franceinfo, Euronews",
+   "url": "https://ici.radio-canada.ca/en-bref/90-17102/lionel-messi-retraite-internationale-argentine-soccer-foot",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/90-17102/lionel-messi-retraite-internationale-argentine-soccer-foot"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-%C3%A9ternel-lionel-messi-dit-adieu-%C3%A0-la-s%C3%A9lection-argentine"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sports/foot/lionel-messi/je-prends-ma-retraite-de-l-equipe-nationale-lionel-messi-ne-portera-plus-le-maillot-de-la-selection-argentine_8170973.html"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/sports/20260831-foot-lionel-messi-annonce-sa-retraite-internationale-avec-l-argentine"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/08/31/lionel-messi-annonce-sa-retraite-internationale-avec-largentine"
+    }
+   ],
+   "resume": "L'octuple Ballon d'or a annoncé lundi sur Instagram qu'il ne portera plus le maillot de la sélection argentine, refermant une carrière internationale de 207 sélections et 125 buts. Il précise avoir écrit ce message le 21 juillet, deux jours après la finale du Mondial, et l'avoir gardé jusqu'à lundi.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "lionel-messi-annonce-sa-retraite-internationale-avec-l-argen-025f45",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "lionel-messi-annonce-sa-retraite-internationale-avec-l-argen-025f45"
+  },
+  {
+   "titre": "L'épidémie d'Ebola dépasse les 6 000 cas confirmés en République démocratique du Congo",
+   "cahier": "international",
+   "rubrique": "sante",
+   "territoire": "République démocratique du Congo",
+   "medias": "Le Devoir, La Presse, franceinfo",
+   "url": "https://www.ledevoir.com/monde/afrique/1005305/epidemie-ebola-depasse-6000-cas-confirmes-republique-democratique-congo",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/afrique/1005305/epidemie-ebola-depasse-6000-cas-confirmes-republique-democratique-congo"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/afrique/2026-08-31/republique-democratique-du-congo/l-epidemie-d-ebola-depasse-les-6000-cas-confirmes.php"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-6-000-cas-confirmes_8170892.html"
+    }
+   ],
+   "resume": "Les autorités sanitaires congolaises ont recensé lundi 6 041 cas confirmés, 2 911 décès et 1 366 guérisons depuis le début de la flambée, la plus meurtrière qu'ait connue le pays. L'Organisation mondiale de la santé décrit une progression exponentielle de l'épidémie.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "l-epidemie-d-ebola-depasse-les-6-000-cas-confirmes-en-republ-0771c0",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "l-epidemie-d-ebola-depasse-les-6-000-cas-confirmes-en-republ-0771c0"
+  },
+  {
+   "titre": "Mort d'Édouard Balladur, premier ministre français de 1993 à 1995, à 97 ans",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "France",
+   "medias": "France 24, RFI, franceinfo, CNEWS",
+   "url": "https://www.rfi.fr/fr/france/20260831-france-l-ancien-premier-ministre-%C3%A9douard-balladur-est-mort",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/france/20260831-france-l-ancien-premier-ministre-%C3%A9douard-balladur-est-mort"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-%C3%A9douard-balladur-premier-ministre-devenu-le-rival-honni-de-jacques-chirac"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/politique/edouard-balladur-premier-ministre-de-1993-a-1995-est-mort-a-l-age-de-97-ans_5931758.html"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-08-31/mort-dedouard-balladur-la-classe-politique-reagit-la-disparition-de-lancien"
+    }
+   ],
+   "resume": "L'ancien premier ministre est mort lundi à Paris à 97 ans, après avoir dirigé le gouvernement de 1993 à 1995 sous la présidence de François Mitterrand. Sa candidature à l'élection présidentielle de 1995, contre Jacques Chirac dont il avait longtemps été un proche, avait laissé une fracture durable à droite.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "mort-d-edouard-balladur-premier-ministre-francais-de-1993-a-325ec4",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "mort-d-edouard-balladur-premier-ministre-francais-de-1993-a-325ec4"
+  },
+  {
+   "titre": "Le cardinal Marc Ouellet remporte son procès en diffamation",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Radio-Canada, Coops de l'information",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279237/proces-diffamation-cardinal-marc-ouellet-remporte-cause",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279237/proces-diffamation-cardinal-marc-ouellet-remporte-cause"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/justice-et-faits-divers/2026/08/31/le-cardinal-ouellet-gagne-sa-cause-en-diffamation-3SY3ZCYI6VEOJFQONDSUC2MJAQ/"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2026/08/31/le-cardinal-ouellet-gagne-sa-cause-en-diffamation-3SY3ZCYI6VEOJFQONDSUC2MJAQ/"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/justice-et-faits-divers/2026/08/31/le-cardinal-ouellet-gagne-sa-cause-en-diffamation-3SY3ZCYI6VEOJFQONDSUC2MJAQ/"
+    }
+   ],
+   "resume": "Le juge Castonguay a donné raison lundi au cardinal Marc Ouellet dans sa poursuite en diffamation, qualifiant de « téméraires » et même « malicieuses » les allégations de Paméla Groleau. Celle-ci soutenait avoir été agressée sexuellement par le cardinal alors qu'elle était stagiaire au diocèse de Québec, entre 2008 et 2010.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "le-cardinal-marc-ouellet-remporte-son-proces-en-diffamation-62f82f",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "le-cardinal-marc-ouellet-remporte-son-proces-en-diffamation-62f82f"
+  },
+  {
+   "titre": "Fraude fiscale : 2,15 millions d'amendes et trois ans de prison pour une agence de placement",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Le Devoir, La Presse, Les Affaires, Le Canada Français",
+   "url": "https://www.ledevoir.com/actualites/justice/1005266/lourdes-peines-imposees-agence-placement-personnel-fraude-fiscale",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/justice/1005266/lourdes-peines-imposees-agence-placement-personnel-fraude-fiscale"
+    }
+   ],
+   "resume": "La Cour du Québec a condamné l'agence de placement de personnel Alpha et Omega Multiservices et son administratrice, Maria Del Carmen Jimenez Serrano, à plus de 2,15 millions de dollars d'amendes pour fraude fiscale. La juge Geneviève Claude Parayre a en outre imposé trois ans d'emprisonnement à Mme Serrano.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "fraude-fiscale-2-15-millions-d-amendes-et-trois-ans-de-priso-96e2d6",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "fraude-fiscale-2-15-millions-d-amendes-et-trois-ans-de-priso-96e2d6"
+  },
+  {
+   "titre": "Shein entre mardi à la Bourse de Hong Kong, avec une valorisation divisée par quatre en quatre ans",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Chine",
+   "medias": "Le Devoir, La Presse, Les Affaires, Québecor, France 24",
+   "url": "https://www.ledevoir.com/economie/1005326/shein-apprete-entrer-bourse-valorisation-divisee-4-4-ans",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005326/shein-apprete-entrer-bourse-valorisation-divisee-4-4-ans"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-08-31/entree-a-la-bourse-de-hong-kong-mardi/shein-compte-lever-l-equivalent-de-2-4-milliards-de-dollars-canadiens.php"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/31/shein-compte-lever-15-milliard-deuros-en-bourse-valorisation-a-226-milliards"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-shein-s-appr%C3%AAte-%C3%A0-entrer-en-bourse-pour-une-valorisation-%C3%A0-22-6-milliards-d-euros"
+    }
+   ],
+   "resume": "La plateforme de mode en ligne, fondée en Chine en 2012 et établie à Singapour, compte lever près de 1,5 milliard d'euros à la veille de son entrée à la Bourse de Hong Kong. L'opération la valoriserait à 22,6 milliards d'euros, soit quatre fois moins qu'il y a quatre ans.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "shein-entre-mardi-a-la-bourse-de-hong-kong-avec-une-valorisa-a6a4c5",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "shein-entre-mardi-a-la-bourse-de-hong-kong-avec-une-valorisa-a6a4c5"
+  },
+  {
+   "titre": "Rattrapé par ses propos antisémites, John Galliano renonce à son exposition au Met",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "États-Unis",
+   "medias": "La Presse, Québecor, franceinfo, Le Parisien, France 24",
+   "url": "https://www.franceinfo.fr/culture/mode/le-couturier-john-galliano-annonce-renoncer-a-une-exposition-qui-devait-honorer-l-ensemble-de-sa-carriere-en-mai-2027-a-new-york_8170988.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/mode/le-couturier-john-galliano-annonce-renoncer-a-une-exposition-qui-devait-honorer-l-ensemble-de-sa-carriere-en-mai-2027-a-new-york_8170988.html"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/rattrape-par-ses-propos-antisemites-le-styliste-john-galliano-renonce-a-une-exposition-en-son-honneur-a-new-york-31-08-2026-D7OHBIET3ZGE7MKZC3O6GALHEU.php"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-rattrap%C3%A9-par-ses-propos-antis%C3%A9mites-galliano-renonce-%C3%A0-une-exposition-%C3%A0-new-york"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/propos-antisemites-lexposition-du-styliste-john-galliano-au-met-de-new-york-annulee"
+    }
+   ],
+   "resume": "Le Metropolitan Museum of Art a annoncé lundi l'annulation de la rétrospective qui devait honorer la carrière du couturier en mai 2027, dans le cadre de l'exposition printanière du Costume Institute. Galliano a dit avoir conclu, après discussions avec le musée, qu'il valait mieux que l'exposition n'ait pas lieu pour le moment.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "rattrape-par-ses-propos-antisemites-john-galliano-renonce-a-867791",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "rattrape-par-ses-propos-antisemites-john-galliano-renonce-a-867791"
+  },
+  {
+   "titre": "La Canadienne accusée d'espionnage contre l'OTAN restera détenue en Belgique",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Belgique",
+   "medias": "La Presse, Coops de l'information",
+   "url": "https://www.lapresse.ca/international/europe/2026-08-31/belgique/la-canadienne-accusee-d-espionnage-contre-l-otan-restera-detenue.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/europe/2026-08-31/belgique/la-canadienne-accusee-d-espionnage-contre-l-otan-restera-detenue.php"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/politique/2026/08/31/la-canadienne-accusee-d-espionnage-contre-l-otan-restera-en-detention-en-belgique-3RSZBTTIHJD2HCI5YU2DQNW2S4/"
+    }
+   ],
+   "resume": "La Chambre d'accusation belge a rejeté lundi l'appel de la Canadienne visée par une enquête pour espionnage au détriment de l'OTAN et a prolongé d'un mois sa détention provisoire. La décision de juillet ordonnant son maintien en détention est donc confirmée.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "la-canadienne-accusee-d-espionnage-contre-l-otan-restera-det-d3616f",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "la-canadienne-accusee-d-espionnage-contre-l-otan-restera-det-d3616f"
+  },
+  {
+   "titre": "Les six derniers bélugas de Marineland quittent le Canada pour des aquariums américains",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Ontario",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/environnement/2026-08-31/dernieres-baleines-en-captivite-au-canada/six-belugas-de-marineland-en-route-vers-les-etats-unis.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-08-31/dernieres-baleines-en-captivite-au-canada/six-belugas-de-marineland-en-route-vers-les-etats-unis.php"
+    }
+   ],
+   "resume": "Les six bélugas de Marineland, dernières baleines en captivité au pays, devaient prendre la route lundi vers deux aquariums des États-Unis. Leur départ met fin à la présence de cétacés captifs au Canada.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "les-six-derniers-belugas-de-marineland-quittent-le-canada-po-134d95",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "les-six-derniers-belugas-de-marineland-quittent-le-canada-po-134d95"
+  },
+  {
+   "titre": "Saint-Jérôme entreprend sa première politique municipale en itinérance",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Laurentides",
+   "medias": "Ville de Saint-Jérôme",
+   "url": "https://www.vsj.ca/actualites/vers-une-premiere-politique-municipale-en-matiere-ditinerance/",
+   "sources": [
+    {
+     "media": "Ville de Saint-Jérôme",
+     "url": "https://www.vsj.ca/actualites/vers-une-premiere-politique-municipale-en-matiere-ditinerance/"
+    }
+   ],
+   "resume": "La Ville de Saint-Jérôme a lancé une démarche de consultation qui doit mener à sa première politique municipale en matière d'itinérance, assortie d'un plan d'action. La Ville présente l'exercice comme une occasion de rassembler les points de vue et de bâtir une vision commune sur la question.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "saint-jerome-entreprend-sa-premiere-politique-municipale-en-bd8ec7",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "saint-jerome-entreprend-sa-premiere-politique-municipale-en-bd8ec7"
+  },
+  {
+   "titre": "Ville de Montréal : 26 cadres en disponibilité, pour 3,6 millions de rémunération annuelle",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Montréal",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-31/ville-de-montreal/le-nombre-de-cadres-mis-en-disponibilite-en-hausse.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-31/ville-de-montreal/le-nombre-de-cadres-mis-en-disponibilite-en-hausse.php"
+    }
+   ],
+   "resume": "La liste des cadres municipaux mis en disponibilité — ceux qui conservent leur salaire en attendant un poste correspondant à leur statut d'emploi — comptait 26 personnes au 15 juin, pour une rémunération annuelle totalisant 3,6 millions de dollars. Ce nombre est en hausse.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "ville-de-montreal-26-cadres-en-disponibilite-pour-3-6-millio-725936",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "ville-de-montreal-26-cadres-en-disponibilite-pour-3-6-millio-725936"
+  },
+  {
+   "titre": "Les droits de douane freinent la croissance de l'industriel québécois Durabac",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lenouvelliste.ca/actualites/le-fil-des-coops/2026/08/31/les-droits-de-douane-freinent-la-croissance-de-lindustriel-durabac-Q3SN3HP5CNCRXJOPDFYN4V3FYA/",
+   "sources": [
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/le-fil-des-coops/2026/08/31/les-droits-de-douane-freinent-la-croissance-de-lindustriel-durabac-Q3SN3HP5CNCRXJOPDFYN4V3FYA/"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/le-fil-des-coops/2026/08/31/les-droits-de-douane-freinent-la-croissance-de-lindustriel-durabac-Q3SN3HP5CNCRXJOPDFYN4V3FYA/"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/le-fil-des-coops/2026/08/31/les-droits-de-douane-freinent-la-croissance-de-lindustriel-durabac-Q3SN3HP5CNCRXJOPDFYN4V3FYA/"
+    }
+   ],
+   "resume": "Le président et fondateur de Durabac, Patrick Charbonneau, affirme que son entreprise n'est plus concurrentielle sur le marché américain sous le régime tarifaire actuel. Il dit placer son seul espoir dans la riposte canadienne annoncée pour le 8 septembre, avec des droits de rétorsion.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "les-droits-de-douane-freinent-la-croissance-de-l-industriel-c6760c",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "les-droits-de-douane-freinent-la-croissance-de-l-industriel-c6760c"
+  },
+  {
+   "titre": "Tim Cook quitte la direction d'Apple, John Ternus lui succède",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "MacGeneration, The Verge, Mac4Ever",
+   "url": "https://www.macg.co/aapl/2026/08/pour-son-dernier-jour-en-tant-que-ceo-tim-cook-remercie-ses-employes-et-la-communaute-apple-310751",
+   "sources": [
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/aapl/2026/08/pour-son-dernier-jour-en-tant-que-ceo-tim-cook-remercie-ses-employes-et-la-communaute-apple-310751"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197783-tim-cook-fait-ses-adieux-aux-salaries-d-apple-avant-de-passer-la-main-a-john-ternus"
+    }
+   ],
+   "resume": "Lundi était le dernier jour de Tim Cook comme chef de la direction d'Apple, poste qu'il occupait depuis 2011; dans un message aux employés, il a écrit que son titre changeait le lendemain, mais pas son attachement à la communauté Apple. John Ternus prend la relève.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "tim-cook-quitte-la-direction-d-apple-john-ternus-lui-succede-b78fb9",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "tim-cook-quitte-la-direction-d-apple-john-ternus-lui-succede-b78fb9"
+  },
+  {
+   "titre": "Brésil : le programme de Flávio Bolsonaro adoucit son vocabulaire sans changer de cap, jugent ses critiques",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Brésil",
+   "medias": "À l'encontre",
+   "url": "https://alencontre.org/ameriques/amelat/bresil/le-programme-de-flavio-bolsonaro-le-mirage-de-la-moderation-textuelle.html",
+   "sources": [
+    {
+     "media": "À l'encontre",
+     "url": "https://alencontre.org/ameriques/amelat/bresil/le-programme-de-flavio-bolsonaro-le-mirage-de-la-moderation-textuelle.html"
+    }
+   ],
+   "resume": "Le programme de Flávio Bolsonaro abandonne une partie du lexique de guerre culturelle qui caractérisait le discours de son camp, une inflexion que ses adversaires de gauche jugent purement textuelle. Ceux-ci estiment que son volet sécuritaire, transposé à 213 millions d'habitants sur un territoire aux dimensions continentales, relève du fantasme plutôt que de la politique publique.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "bresil-le-programme-de-flavio-bolsonaro-adoucit-son-vocabula-645c90",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-08-31.json",
+   "_slug": "bresil-le-programme-de-flavio-bolsonaro-adoucit-son-vocabula-645c90"
   },
   {
    "titre": "Projection Qc125 au 30 août : le PQ à 48 sièges, la CAQ dans une fourchette de 9 à 48",
@@ -1574,10 +1986,10 @@
    "territoire": "Kirghizstan, Iran",
    "medias": "RFI, TV5MONDE",
    "url": "https://www.rfi.fr/fr/asie-pacifique/20260831-sommet-de-l-ocs-le-dossier-iranien-s-annonce-au-c%C5%93ur-des-discussions-entre-xi-poutine-modi-et-pezeshkian",
-   "resume": "L'Organisation de coopération de Shanghai, qui célèbre son 25e anniversaire, réunit au Kirghizstan les dirigeants chinois, russe, indien et iranien alors que le dossier des sanctions contre Téhéran s'annonce au cœur des discussions, selon RFI. Selon TV5Monde, ce forum de dix États, conçu à l'origine pour faire contrepoids à l'influence occidentale, sert désormais de tribune à la Russie et à l'Iran face à leur isolement diplomatique.",
+   "resume": "L'Organisation de coopération de Shanghai, qui célèbre son 25e anniversaire, réunit au Kirghizstan les dirigeants chinois, russe, indien et iranien alors que le dossier des sanctions contre Téhéran s'annonce au cœur des discussions, selon RFI. Selon TV5Monde, ce forum de dix États, conçu à l'origine pour faire contrepoids à l'influence occidentale, sert désormais de tribune à la Russie et à l'Iran face à leur isolement diplomatique.\n\n**Mise à jour, 15 h 30** — Le sommet de l'Organisation de coopération de Shanghai s'est ouvert lundi à Bichkek, au Kirghizistan, avec des dizaines de dirigeants. Narendra Modi y a pressé Vladimir Poutine de mettre fin à la guerre en Ukraine, tandis que le président russe et Xi Jinping ont vanté un « modèle de relations interétatiques ».",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T05:05-04:00",
+   "horodate": "2026-08-31T15:52-04:00",
    "sources": [
     {
      "media": "RFI",
@@ -1796,10 +2208,10 @@
    "territoire": "Suisse",
    "medias": "Le Journal de Montréal, France 24, franceinfo",
    "url": "https://www.journaldemontreal.com/2026/08/30/tirs-mortels-lors-dune-rave-party-en-suisse--une-chasse-a-lhomme-en-cours",
-   "resume": "La police suisse recherchait dimanche le ou les auteurs de tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche en marge d'une rave organisée à Aarau, selon Le Journal de Montréal et France 24. Les circonstances exactes de la fusillade restaient à préciser.\n\n**Mise à jour, 8 h 55** — Un Suisse de 43 ans a été arrêté lundi dans l'enquête sur les tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche à Aarau, près de Zurich. La police dit privilégier l'hypothèse d'un auteur ayant agi seul.",
+   "resume": "La police suisse recherchait dimanche le ou les auteurs de tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche en marge d'une rave organisée à Aarau, selon Le Journal de Montréal et France 24. Les circonstances exactes de la fusillade restaient à préciser.\n\n**Mise à jour, 8 h 55** — Un Suisse de 43 ans a été arrêté lundi dans l'enquête sur les tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche à Aarau, près de Zurich. La police dit privilégier l'hypothèse d'un auteur ayant agi seul.\n\n**Mise à jour, 15 h 30** — Un Suisse de 43 ans a été arrêté lundi, « fortement suspecté » d'avoir tiré sur les participants d'une rave party à Aarau dans la nuit de samedi à dimanche. La personne tuée était une jeune Italienne.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T08:53-04:00",
+   "horodate": "2026-08-31T15:52-04:00",
    "sources": [
     {
      "media": "Le Journal de Montréal",
@@ -1816,6 +2228,14 @@
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/europe/20260831-fusillade-rave-party-suisse-police-annonce-arrestation-suspect-fusillade"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/video/suisse-un-suspect-arrete-apres-la-fusillade-daarau-2835645"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/un-mort-et-cinq-blesses-dans-une-fusillade-lors-dun-rave-en-suisse-un-suspect-arrete"
     }
    ],
    "permalien": "suisse-une-fusillade-fait-un-mort-et-cinq-blesses-en-marge-d-2b4a6f",
@@ -1910,10 +2330,10 @@
    "territoire": "Népal, Chine",
    "medias": "TV5MONDE, France 24, franceinfo, GEO, Le Parisien",
    "url": "https://information.tv5monde.com/international/crue-dans-lhimalaya-deja-900-morts-les-secours-la-recherche-de-milliers-de-disparus-2835555",
-   "resume": "Les autorités népalaises ne sont toujours pas parvenues lundi à entrer en contact avec une centaine d'ouvriers qu'elles croient prisonniers d'un tunnel en chantier, alors que le bilan des crues qui ont frappé l'Himalaya cette semaine dépasse déjà 900 morts, selon TV5Monde. Selon France 24, le Népal procède à des enterrements de masse pour des centaines de victimes dont les corps, trop dégradés, restent impossibles à identifier.\n\n**Mise à jour, 8 h 55** — Le nouveau bilan des crues au Népal et au Tibet s'établit à au moins 903 morts et 4 247 disparus. Les autorités népalaises restent sans nouvelles de 592 ressortissants étrangers et de 933 employés de centrales hydroélectriques ou ouvriers de chantiers de barrages, dont une centaine bloqués dans un tunnel ; trois corps ont été retrouvés dans deux autres tunnels du secteur, et une fillette de 6 ans a été secourue 60 heures après la crue.",
+   "resume": "Les autorités népalaises ne sont toujours pas parvenues lundi à entrer en contact avec une centaine d'ouvriers qu'elles croient prisonniers d'un tunnel en chantier, alors que le bilan des crues qui ont frappé l'Himalaya cette semaine dépasse déjà 900 morts, selon TV5Monde. Selon France 24, le Népal procède à des enterrements de masse pour des centaines de victimes dont les corps, trop dégradés, restent impossibles à identifier.\n\n**Mise à jour, 8 h 55** — Le nouveau bilan des crues au Népal et au Tibet s'établit à au moins 903 morts et 4 247 disparus. Les autorités népalaises restent sans nouvelles de 592 ressortissants étrangers et de 933 employés de centrales hydroélectriques ou ouvriers de chantiers de barrages, dont une centaine bloqués dans un tunnel ; trois corps ont été retrouvés dans deux autres tunnels du secteur, et une fillette de 6 ans a été secourue 60 heures après la crue.\n\n**Mise à jour, 15 h 30** — Cinq jours après la catastrophe, le bilan de la crue qui a dévasté le Népal et le Tibet chinois s'est encore alourdi lundi, à plus de 950 morts et près de 4 500 disparus. Les secours progressaient lentement dans les zones sinistrées.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T08:53-04:00",
+   "horodate": "2026-08-31T15:52-04:00",
    "sources": [
     {
      "media": "TV5MONDE",
@@ -1934,6 +2354,18 @@
     {
      "media": "Le Parisien",
      "url": "https://www.leparisien.fr/international/seule-sa-tete-emergeait-une-fillette-de-6-ans-miraculeusement-secourue-au-nepal-60-heures-apres-la-crue-31-08-2026-TE6WRDGTU5G4RE5QOM46HT56YI.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/asie/1005239/bilan-effondrement-glacier-himalaya-passe-barre-900-morts"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279147/crue-eclair-nepal-tibet-bilan-morts-disparus-secours"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/31/le-bilan-de-la-crue-au-nepal-saggrave-a-903-morts-et-4247-disparus"
     }
    ],
    "permalien": "crues-dans-l-himalaya-deja-900-morts-les-secours-a-la-recher-486091",
@@ -3362,7 +3794,7 @@
    "territoire": "Canada",
    "medias": "Le Devoir, Le Canada Français, La Presse",
    "url": "https://www.ledevoir.com/politique/canada/1005095/liberaux-carney-quete-nouveaux-gains-elections-partielles",
-   "resume": "Trois élections partielles fédérales se tiennent lundi, dont une dans Chicoutimi–Le Fjord au Saguenay où le libéral Daniel Gobeil et la bloquiste Caroline Dubé sont donnés au coude-à-coude par l'agrégateur 338Canada, tandis que Beaches–East York (Toronto) et North Vancouver–Capilano (Colombie-Britannique) penchent nettement pour les candidats libéraux. Un gain complet permettrait aux libéraux de Mark Carney de consolider leur majorité, dans un contexte de guerre commerciale avec les États-Unis.\n\n**Mise à jour, 8 h 55** — Les électeurs de Chicoutimi–Le Fjord votent lundi pour désigner le successeur de Richard Martel à la Chambre des communes. La course s'annonce serrée entre la bloquiste Caroline Dubé, le libéral Daniel Gobeil et le conservateur Régis Gaudreault.",
+   "resume": "Trois élections partielles fédérales se tiennent lundi, dont une dans Chicoutimi–Le Fjord au Saguenay où le libéral Daniel Gobeil et la bloquiste Caroline Dubé sont donnés au coude-à-coude par l'agrégateur 338Canada, tandis que Beaches–East York (Toronto) et North Vancouver–Capilano (Colombie-Britannique) penchent nettement pour les candidats libéraux. Un gain complet permettrait aux libéraux de Mark Carney de consolider leur majorité, dans un contexte de guerre commerciale avec les États-Unis.\n\n**Mise à jour, 8 h 55** — Les électeurs de Chicoutimi–Le Fjord votent lundi pour désigner le successeur de Richard Martel à la Chambre des communes. La course s'annonce serrée entre la bloquiste Caroline Dubé, le libéral Daniel Gobeil et le conservateur Régis Gaudreault.\n\n**Mise à jour, 15 h 30** — Les électeurs de Chicoutimi–Le Fjord votaient lundi, dans un scrutin qu'un politologue présente comme un baromètre de l'appui à la décision de Mark Carney de rompre les négociations commerciales avec les États-Unis. Le candidat libéral y est l'ancien président des Producteurs de lait du Québec.",
    "sources": [
     {
      "media": "Le Devoir",
@@ -3375,11 +3807,23 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/actualites/politique/2026-08-31/election-federale-partielle/des-resultats-serres-attendus-dans-chicoutimi-le-fjord.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/canada/1005311/chicoutimi-fjord-election-partielle-sous-signe-guerre-commerciale"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279229/trois-circonscriptions-federales-elections-partielles"
+    },
+    {
+     "media": "24 heures",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/election-partielle-jour-de-vote-dans-la-circonscription-federale-chicoutimile-fjord"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T08:53-04:00",
+   "horodate": "2026-08-31T15:52-04:00",
    "permalien": "trois-elections-partielles-federales-lundi-dont-une-au-sague-80ad1e",
    "_fichier": "revue-report-2026-08-31.json",
    "_volet": "report",
@@ -3750,12 +4194,16 @@
     {
      "media": "The New York Times",
      "url": "https://www.nytimes.com/2026/08/30/world/europe/germany-afd-saxony-anhalt.html"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.fr/article/economie/international/16667727099833/allemagne-lafd-et-son-leader-ulrich-siegmund-aux-portes-du-pouvoir-en-saxe-anhalt"
     }
    ],
-   "resume": "À une semaine des élections régionales du 6 septembre en Saxe-Anhalt, où l'extrême droite pourrait pour la première fois depuis la guerre diriger un Land allemand, l'AfD prépare une politique culturelle fondée sur le slogan « penser allemand » qui vise notamment le site Bauhaus de Dessau, classé à l'Unesco, rapporte RFI. Quelque 150 institutions culturelles de la région se sont mobilisées contre ce projet, que le directeur du théâtre de Magdebourg compare à une « normalisation d'un discours néo-fasciste ».\n\n**Mise à jour, 15 h 30** — Le chancelier Friedrich Merz a estimé dimanche qu'une victoire de l'AfD causerait des « dommages considérables » au Land et menacerait sa « gouvernabilité », promettant que son parti emploierait la dernière semaine de campagne à empêcher la formation d'un gouvernement AfD. Des responsables fédéraux et régionaux envisagent par ailleurs de restreindre le partage de renseignements sensibles avec le parti s'il accédait au pouvoir.",
+   "resume": "À une semaine des élections régionales du 6 septembre en Saxe-Anhalt, où l'extrême droite pourrait pour la première fois depuis la guerre diriger un Land allemand, l'AfD prépare une politique culturelle fondée sur le slogan « penser allemand » qui vise notamment le site Bauhaus de Dessau, classé à l'Unesco, rapporte RFI. Quelque 150 institutions culturelles de la région se sont mobilisées contre ce projet, que le directeur du théâtre de Magdebourg compare à une « normalisation d'un discours néo-fasciste ».\n\n**Mise à jour, 15 h 30** — Le chancelier Friedrich Merz a estimé dimanche qu'une victoire de l'AfD causerait des « dommages considérables » au Land et menacerait sa « gouvernabilité », promettant que son parti emploierait la dernière semaine de campagne à empêcher la formation d'un gouvernement AfD. Des responsables fédéraux et régionaux envisagent par ailleurs de restreindre le partage de renseignements sensibles avec le parti s'il accédait au pouvoir.\n\n**Mise à jour, 15 h 30** — La tête de liste de l'AfD en Saxe-Anhalt, Ulrich Siegmund, a exposé ses objectifs lors d'un débat télévisé sur la chaîne MDR, à quelques jours du scrutin régional de dimanche. Le professeur de politique européenne Johannes Varwick, de l'Université de Halle, observe « un très grand engouement » autour de lui.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Au%C3%9Fenansichten_des_Bauhaus-Geb%C3%A4udes_in_Dessau_01.jpg/1280px-Au%C3%9Fenansichten_des_Bauhaus-Geb%C3%A4udes_in_Dessau_01.jpg",
    "legende": "Le bâtiment du Bauhaus à Dessau, en Saxe-Anhalt, classé au patrimoine mondial de l'Unesco.",
-   "horodate": "2026-08-30T15:30-04:00",
+   "horodate": "2026-08-31T15:52-04:00",
    "photo_auteur": "JensKunstfreund",
    "photo_licence": "CC BY-SA 4.0",
    "permalien": "allemagne-a-une-semaine-des-elections-en-saxe-anhalt-l-afd-a-2b38b9",
@@ -3890,12 +4338,12 @@
    "territoire": "Ontario",
    "medias": "Québecor, Le Devoir, La Presse, APTN News, Global News, CBC, The Globe and Mail, Le Journal de Montréal, Radio-Canada, National Post, Canada's National Observer, Coops de l'information, France 24, Les Echos, BFMTV, Le Temps, Acadie Nouvelle, Noovo Info, Ouest-France, Euronews, next.ink",
    "url": "https://www.journaldemontreal.com/2026/08/27/lac-amerique-donald-trump-signe-un-decret-pour-changer-le-nom-du-lac-ontario",
-   "resume": "Un décret signé jeudi par Donald Trump rebaptise le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, et Google Maps affiche depuis dimanche ce nom à ses utilisateurs situés aux États-Unis — les internautes canadiens continuant de voir « lac Ontario » et les autres, les deux noms — un changement dont la Maison-Blanche s'est félicitée. La décision n'a aucune portée légale au Canada : Mark Carney a répondu que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario, le grand chef de la Nation huronne-wendat a exprimé son indignation, et Doug Ford a fait installer sur les rives une affiche portant « Lac Ontario, aujourd'hui et pour toujours ».\n\n**Mise à jour, 5 h 55** — Des services ontariens qui puisent leurs données cartographiques chez Google, dont la carte des pannes d'Hydro One et le localisateur de succursales de la Régie des alcools de l'Ontario, ont brièvement affiché « lac d'Amérique » avant qu'Hydro One ne dise travailler à corriger l'erreur avec son fournisseur; le ministre ontarien Stephen Crawford affirme qu'une vérification est en cours pour s'assurer que les sites du gouvernement provincial continuent de désigner le lac Ontario par son nom.\n\n**Mise à jour, 8 h 55** — Google a appliqué le changement : depuis lundi, Google Maps affiche « Lake America » aux utilisateurs situés aux États-Unis, tout en conservant « lac Ontario » au Canada et dans le reste du monde. Le premier ministre de l'Ontario, Doug Ford, a qualifié la décision de « complètement à l'envers », alors que Washington doit porter au 1er janvier 2027 de 25 % à 50 % le tarif sur la part non américaine des véhicules assemblés au Canada, après l'échec des négociations du 21 août.",
+   "resume": "Un décret signé jeudi par Donald Trump rebaptise le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, et Google Maps affiche depuis dimanche ce nom à ses utilisateurs situés aux États-Unis — les internautes canadiens continuant de voir « lac Ontario » et les autres, les deux noms — un changement dont la Maison-Blanche s'est félicitée. La décision n'a aucune portée légale au Canada : Mark Carney a répondu que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario, le grand chef de la Nation huronne-wendat a exprimé son indignation, et Doug Ford a fait installer sur les rives une affiche portant « Lac Ontario, aujourd'hui et pour toujours ».\n\n**Mise à jour, 5 h 55** — Des services ontariens qui puisent leurs données cartographiques chez Google, dont la carte des pannes d'Hydro One et le localisateur de succursales de la Régie des alcools de l'Ontario, ont brièvement affiché « lac d'Amérique » avant qu'Hydro One ne dise travailler à corriger l'erreur avec son fournisseur; le ministre ontarien Stephen Crawford affirme qu'une vérification est en cours pour s'assurer que les sites du gouvernement provincial continuent de désigner le lac Ontario par son nom.\n\n**Mise à jour, 8 h 55** — Google a appliqué le changement : depuis lundi, Google Maps affiche « Lake America » aux utilisateurs situés aux États-Unis, tout en conservant « lac Ontario » au Canada et dans le reste du monde. Le premier ministre de l'Ontario, Doug Ford, a qualifié la décision de « complètement à l'envers », alors que Washington doit porter au 1er janvier 2027 de 25 % à 50 % le tarif sur la part non américaine des véhicules assemblés au Canada, après l'échec des négociations du 21 août.\n\n**Mise à jour, 15 h 30** — Donald Trump aurait communiqué avec Apple pour que le lac Ontario apparaisse sous le nom de « lac d'Amérique » dans ses cartes, après le décret qu'il a signé la semaine dernière. Mark Carney avait répliqué que les Canadiens connaîtront le lac sous son nom d'origine « hier, aujourd'hui et pour toujours ».",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lake_Ontario_Shoreline.jpg",
    "legende": "Le littoral du lac Ontario.",
    "photo_auteur": "SAF1999",
    "photo_licence": "CC0",
-   "horodate": "2026-08-31T08:53-04:00",
+   "horodate": "2026-08-31T15:52-04:00",
    "permalien": "trump-rebaptise-le-lac-ontario-lac-d-amerique-carney-hausse-09b1fe",
    "sources": [
     {
@@ -3981,6 +4429,14 @@
     {
      "media": "next.ink",
      "url": "https://next.ink/253677/google-maps-renomme-le-lac-ontario-en-lac-damerique-pour-les-etats-unis/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-08-31/trump-aurait-contacte-apple-pour-renommer-le-lac-ontario-lac-amerique.php"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279243/donald-trump-lac-ontario-amerique-apple-google"
     }
    ],
    "_fichier": "revue-report-2026-08-31.json",
@@ -4474,7 +4930,7 @@
    "territoire": "Iran",
    "medias": "Le Devoir, Radio-Canada, France 24, RFI, TF1 Info, BFMTV, La Libre.be, AFP, Le Télégramme, l'Opinion, Paris Match, RTBF, Libération, i24NEWS",
    "url": "https://www.ledevoir.com/monde/moyen-orient/1005167/etats-unis-ont-mene-nouvelles-frappes-iran-premieres-mois",
-   "resume": "Les forces américaines ont détruit dimanche deux lanceurs de roquettes sur l'île iranienne de Larak, dans le détroit d'Ormuz, où des unités du Corps des gardiens de la révolution islamique se préparaient à tirer des roquettes chargées de mines marines, selon le porte-parole du Commandement militaire américain pour le Moyen-Orient, Tim Hawkins. Il s'agit de la première opération américaine visant le territoire iranien depuis un mois, l'administration Trump ayant jusqu'ici privilégié les sanctions économiques ; les Gardiens de la révolution ont appelé à « une punition » en représailles.\n\n**Mise à jour, 31 août** — Téhéran affirme avoir répliqué par des tirs contre des cibles militaires américaines dans le détroit d'Ormuz, tandis que des chefs militaires américains ont averti le secrétaire à la Défense que le coût d'une campagne prolongée contre l'Iran serait « insoutenable », selon La Libre Belgique et i24NEWS.",
+   "resume": "Les forces américaines ont détruit dimanche deux lanceurs de roquettes sur l'île iranienne de Larak, dans le détroit d'Ormuz, où des unités du Corps des gardiens de la révolution islamique se préparaient à tirer des roquettes chargées de mines marines, selon le porte-parole du Commandement militaire américain pour le Moyen-Orient, Tim Hawkins. Il s'agit de la première opération américaine visant le territoire iranien depuis un mois, l'administration Trump ayant jusqu'ici privilégié les sanctions économiques ; les Gardiens de la révolution ont appelé à « une punition » en représailles.\n\n**Mise à jour, 31 août** — Téhéran affirme avoir répliqué par des tirs contre des cibles militaires américaines dans le détroit d'Ormuz, tandis que des chefs militaires américains ont averti le secrétaire à la Défense que le coût d'une campagne prolongée contre l'Iran serait « insoutenable », selon La Libre Belgique et i24NEWS.\n\n**Mise à jour, 15 h 30** — L'Iran a affirmé lundi avoir riposté « en légitime défense » en visant des cibles militaires américaines en Jordanie et aux Émirats arabes unis, premier échange de frappes après un mois d'accalmie. Donald Trump a menacé de bombarder « fort » l'Iran en réponse.",
    "sources": [
     {
      "media": "Le Devoir",
@@ -4519,11 +4975,19 @@
     {
      "media": "i24NEWS",
      "url": "https://www.i24news.tv/fr/actu/international/ameriques/artc-des-responsables-militaires-americains-alertent-sur-le-cout-d-une-campagne-prolongee-contre-l-iran"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1005215/premier-echange-frappes-entre-etats-unis-iran-depuis-mois"
+    },
+    {
+     "media": "20 minutes",
+     "url": "https://www.20minutes.fr/monde/etats-unis/4241741-20260831-guerre-moyen-orient-etats-unis-reprennent-frappes-contre-iran-teheran-riposte"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T05:05-04:00",
+   "horodate": "2026-08-31T15:52-04:00",
    "permalien": "les-etats-unis-frappent-l-ile-iranienne-de-larak-premieres-f-490c67",
    "_fichier": "revue-report-2026-08-31.json",
    "_volet": "report",
@@ -4534,9 +4998,9 @@
    "cahier": "international",
    "rubrique": "environnement",
    "territoire": "États-Unis",
-   "medias": "France 24, La Presse, Ouest-France, TF1 Info, AFP",
+   "medias": "franceinfo, Libération, 20 Minutes, La Presse, Radio-Canada, Le Devoir, Québecor",
    "url": "https://www.france24.com/fr/am%C3%A9riques/20260830-crue-soudaine-frappe-grand-canyon-etats-unis-plus-20-personnes-recherchees-parc-national-arizona",
-   "resume": "Le Service des parcs nationaux américains sollicite l'aide du public pour retrouver plus de vingt personnes portées disparues ou dont on est sans nouvelles après une crue subite survenue samedi vers 14 h 30 dans le parc national du Grand Canyon, en Arizona. Les bilans diffusés au cours de la journée de dimanche variaient d'une quinzaine à plus de vingt personnes recherchées.",
+   "resume": "Le Service des parcs nationaux américains sollicite l'aide du public pour retrouver plus de vingt personnes portées disparues ou dont on est sans nouvelles après une crue subite survenue samedi vers 14 h 30 dans le parc national du Grand Canyon, en Arizona. Les bilans diffusés au cours de la journée de dimanche variaient d'une quinzaine à plus de vingt personnes recherchées.\n\n**Mise à jour, 15 h 30** — Le bilan de la crue éclair s'établit à deux morts, et le Service des parcs nationaux américains recherchait toujours lundi une quinzaine de personnes portées disparues ou dont on est sans nouvelles. L'agence a demandé au public de lui transmettre toute information à leur sujet.",
    "sources": [
     {
      "media": "France 24",
@@ -4553,11 +5017,19 @@
     {
      "media": "TF1 Info",
      "url": "https://www.tf1info.fr/international/etats-unis-une-vingtaine-de-personnes-recherchees-apres-une-crue-soudaine-dans-le-grand-canyon-2461330.html"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/grand-canyon-des-crues-soudaines-font-deux-morts-et-une-quinzaine-de-disparus_8171195.html"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/etats-unis-environ-15-personnes-recherchees-apres-une-crue-soudaine-dans-le-grand-canyon-20260831_S7OERN5WBJHE3N7WMVH24ACJ24/"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-30T21:40-04:00",
+   "horodate": "2026-08-31T15:52-04:00",
    "permalien": "plus-de-vingt-personnes-recherchees-apres-une-crue-soudaine-a859a1",
    "_fichier": "revue-report-2026-08-31.json",
    "_volet": "report",
@@ -4708,7 +5180,7 @@
    "territoire": "États-Unis",
    "medias": "France 24, The Globe and Mail, Le Parisien, Orange Actualités, AFP",
    "url": "https://www.france24.com/fr/info-en-continu/20260831-les-ministres-des-finances-du-g20-aux-etats-unis-washington-veut-isoler-davantage-t%C3%A9h%C3%A9ran",
-   "resume": "Les ministres des Finances du G20 se réunissent aux États-Unis, où le secrétaire au Trésor Scott Bessent est chargé de mener à coups de sanctions une offensive économique destinée à isoler davantage Téhéran, sur fond de guerre commerciale relancée avec le Canada, membre du G20 et du G7. Le département du Trésor a refusé l'accès de la rencontre à certains journalistes, dont ceux du New York Times, qui dénonce « une tentative flagrante d'échapper au regard du public ».",
+   "resume": "Les ministres des Finances du G20 se réunissent aux États-Unis, où le secrétaire au Trésor Scott Bessent est chargé de mener à coups de sanctions une offensive économique destinée à isoler davantage Téhéran, sur fond de guerre commerciale relancée avec le Canada, membre du G20 et du G7. Le département du Trésor a refusé l'accès de la rencontre à certains journalistes, dont ceux du New York Times, qui dénonce « une tentative flagrante d'échapper au regard du public ».\n\n**Mise à jour, 15 h 30** — Les ministres des Finances du G20 ont entamé lundi aux États-Unis une série de réunions où Washington cherche à les rallier à sa guerre économique contre l'Iran. Le secrétaire américain au Trésor, Scott Bessent, et le président de la Réserve fédérale, Kevin Warsh, y participaient.",
    "sources": [
     {
      "media": "France 24",
@@ -4725,7 +5197,7 @@
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-30T21:40-04:00",
+   "horodate": "2026-08-31T15:52-04:00",
    "permalien": "g20-des-finances-aux-etats-unis-washington-vise-l-iran-et-ec-c6329a",
    "_fichier": "revue-report-2026-08-31.json",
    "_volet": "report",
