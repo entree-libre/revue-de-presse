@@ -2,6 +2,7 @@
  "date": "2026-08-31",
  "volets": [
   "continu",
+  "economie-opinions",
   "elections",
   "hors-rss",
   "monde",
@@ -236,12 +237,24 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Les Affaires",
+   "medias": "Les Affaires, The Globe and Mail, La Presse, Finance et Investissement",
    "url": "https://www.lesaffaires.com/communique-de-presse/les-transactions-visant-la-banque-laurentienne-recoivent-lapprobation-finale-des-principales-autorites-de-reglementation/",
    "sources": [
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/communique-de-presse/les-transactions-visant-la-banque-laurentienne-recoivent-lapprobation-finale-des-principales-autorites-de-reglementation/"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-laurentian-bank-deal-with-fairstone-national-bank-approved/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-08-31/les-principales-autorites-de-reglementation-ont-approuve-la-vente-de-la-banque-laurentienne.php"
+    },
+    {
+     "media": "Finance et Investissement",
+     "url": "https://www.finance-investissement.com/feu-vert-au-demantelement-de-la-banque-laurentienne/"
     }
    ],
    "resume": "Les principales autorités de réglementation ont donné leur approbation finale aux transactions visant la Banque Laurentienne, dernière condition annoncée avant la clôture.\n\nDans l'hypothèse d'une clôture le 1er novembre 2026, les produits et services aux particuliers et aux petites et moyennes entreprises de la Banque Laurentienne migreraient vers la Banque Nationale d'ici la fin de 2026 — un calendrier que les parties présentent elles-mêmes comme un énoncé prospectif, donc sujet à révision.",
@@ -260,15 +273,19 @@
    "cahier": "canada",
    "rubrique": "environnement",
    "territoire": "Nouveau-Brunswick",
-   "medias": "CBC/Radio-Canada",
+   "medias": "CBC/Radio-Canada, Radio-Canada",
    "url": "https://www.cbc.ca/news/canada/new-brunswick/nuclear-power-smr-pabineau-9.7317385",
    "sources": [
     {
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/new-brunswick/nuclear-power-smr-pabineau-9.7317385"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2279241/nb-projet-reacteur-modulaire-smr-prodigy-autochtones"
     }
    ],
-   "resume": "Les dirigeants des Premières Nations de Pabineau (Oinpegitjoig) et d'Eel River Bar (Ugpi'ganjig) disent examiner une proposition d'accueillir un petit réacteur modulaire sur leur territoire traditionnel, près de la centrale de Belledune, qui doit cesser de brûler du charbon d'ici 2030.\n\nAucune décision n'a été annoncée : les deux communautés en sont à l'étape de l'évaluation de la proposition.",
+   "resume": "Les dirigeants des Premières Nations de Pabineau (Oinpegitjoig) et d'Eel River Bar (Ugpi'ganjig) disent examiner une proposition d'accueillir un petit réacteur modulaire sur leur territoire traditionnel, près de la centrale de Belledune, qui doit cesser de brûler du charbon d'ici 2030.\n\nAucune décision n'a été annoncée ; la première phase du projet fournirait assez d'électricité de base pour alimenter jusqu'à 40 000 foyers, et le chef de Pabineau juge astronomique la quantité de CO₂ rejetée par la centrale actuelle.",
    "horodate": "2026-08-31T08:53-04:00",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Belledune_Generating_Station.jpg/1280px-Belledune_Generating_Station.jpg",
    "photo_auteur": "Quintin Soloviev",
@@ -798,6 +815,370 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-08-31.json",
    "_slug": "bresil-le-programme-de-flavio-bolsonaro-adoucit-son-vocabula-645c90"
+  },
+  {
+   "titre": "La Banque du Canada tranche mercredi, avec une guerre commerciale de plus dans l'équation",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Les Affaires, La Presse, The Globe and Mail, Banque du Canada",
+   "url": "https://www.lesaffaires.com/bourse/economie/guerre-commerciale-lincertitude-plane-quant-a-la-decision-de-la-banque-du-canada/",
+   "resume": "Avant que les négociations commerciales entre Ottawa et Washington ne capotent au début du mois, économistes et marchés financiers tablaient largement sur un taux directeur inchangé jusqu'à la fin de 2027 ; l'escalade tarifaire rouvre le calcul à deux jours de l'annonce. La Banque du Canada rendra sa décision mercredi et le gouverneur Tiff Macklem donnera sa conférence de presse avec la première sous-gouverneure Carolyn Rogers vers 10 h 30, selon le calendrier publié par l'institution.",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/economie/guerre-commerciale-lincertitude-plane-quant-a-la-decision-de-la-banque-du-canada/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-08-31/taux-d-interet/les-tensions-commerciales-devraient-peser-sur-la-decision-de-la-banque-du-canada.php"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-bank-of-canada-expected-to-hold-rates-steady-as-trade-war-escalates/"
+    },
+    {
+     "media": "Banque du Canada",
+     "url": "https://www.banqueducanada.ca/medias/discours/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/The_Bank%27s_Head_Office_Si%C3%A8ge_de_la_Banque_du_Canada_%2846847690635%29.jpg/1280px-The_Bank%27s_Head_Office_Si%C3%A8ge_de_la_Banque_du_Canada_%2846847690635%29.jpg",
+   "legende": "Le siège de la Banque du Canada, à Ottawa.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Bank of Canada - Banque du Canada from Canada",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "la-banque-du-canada-tranche-mercredi-avec-une-guerre-commerc-8dcebd",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "la-banque-du-canada-tranche-mercredi-avec-une-guerre-commerc-8dcebd"
+  },
+  {
+   "titre": "Investir au Canada perd sa PDG à quelques semaines de son sommet sur l'investissement étranger",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Finance et Investissement, Les Affaires, La Presse",
+   "url": "https://www.finance-investissement.com/investir-au-canada-perd-sa-pdg-avant-un-sommet-cle/",
+   "resume": "Laurel Broten, ancienne ministre du gouvernement ontarien de Dalton McGuinty, quitte le 1er septembre la présidence d'Investir au Canada, l'agence fédérale chargée d'attirer les capitaux étrangers. Dominic LeBlanc, le ministre responsable de l'agence, a annoncé lundi accepter sa démission, à quelques semaines d'un sommet consacré précisément à cet objectif.",
+   "sources": [
+    {
+     "media": "Finance et Investissement",
+     "url": "https://www.finance-investissement.com/investir-au-canada-perd-sa-pdg-avant-un-sommet-cle/"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/la-pdg-dlnvestir-au-canada-demissionne-juste-avant-un-sommet-sur-linvestissement/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-08-31/a-l-approche-du-sommet-sur-l-investissement/la-pdg-d-investir-au-canada-demissionne.php"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "investir-au-canada-perd-sa-pdg-a-quelques-semaines-de-son-so-afc7ca",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "investir-au-canada-perd-sa-pdg-a-quelques-semaines-de-son-so-afc7ca"
+  },
+  {
+   "titre": "Sept PME sur dix ne voient encore rien venir du commerce interprovincial vanté comme réponse aux tarifs",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/affaires/2026-08-31/forum-des-affaires/commerce-interprovincial-une-option-moins-simple-qu-il-n-y-parait-face-a-trump.php",
+   "resume": "Le bulletin 2026 de la Fédération canadienne de l'entreprise indépendante accorde de bonnes notes à la plupart des provinces et à Ottawa pour l'adoption de lois de reconnaissance mutuelle, mais sept PME sur dix disent n'avoir constaté aucune amélioration concrète de leurs activités depuis un an. L'écart entre les textes adoptés et le quotidien des entreprises est l'argument central de ceux qui jugent le commerce intérieur surestimé comme réponse aux droits de douane américains.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-08-31/forum-des-affaires/commerce-interprovincial-une-option-moins-simple-qu-il-n-y-parait-face-a-trump.php"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "sept-pme-sur-dix-ne-voient-encore-rien-venir-du-commerce-int-1e48dd",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "sept-pme-sur-dix-ne-voient-encore-rien-venir-du-commerce-int-1e48dd"
+  },
+  {
+   "titre": "John Ternus prend mardi la direction d'Apple après quinze ans de Tim Cook",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "La Presse, Le Devoir",
+   "url": "https://www.lapresse.ca/affaires/entreprises/2026-08-31/une-nouvelle-ere-s-ouvre-chez-apple-avec-l-arrivee-de-john-ternus.php",
+   "resume": "John Ternus succède mardi à Tim Cook à la tête d'Apple, une transition préparée de longue date qui tombe au moment du lancement de nouveaux produits et de tensions géopolitiques sur les chaînes d'approvisionnement. Le marché attend d'abord de lui des progrès en intelligence artificielle, où le groupe accuse depuis plusieurs années un retard sur ses concurrents.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-08-31/une-nouvelle-ere-s-ouvre-chez-apple-avec-l-arrivee-de-john-ternus.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005236/nouvelle-ere-ouvre-apple-intronisation-john-ternus"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/John_Ternus_at_the_Apple_50th_Anniversary_Kickoff_%28cropped%29.jpg",
+   "legende": "John Ternus, nouveau chef de la direction d'Apple.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Tessa Bury",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "john-ternus-prend-mardi-la-direction-d-apple-apres-quinze-an-a9f52e",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "john-ternus-prend-mardi-la-direction-d-apple-apres-quinze-an-a9f52e"
+  },
+  {
+   "titre": "Trafic aérien : record mondial en juillet, 5,9 millions de passagers contrôlés dans les grands aéroports canadiens",
+   "cahier": "canada",
+   "rubrique": "transport",
+   "territoire": "Canada",
+   "medias": "La Presse, Québecor, Statistique Canada",
+   "url": "https://www.lapresse.ca/affaires/2026-08-31/le-record-de-trafic-aerien-mondial-battu-pour-un-mois-de-juillet.php",
+   "resume": "La demande aérienne mondiale, mesurée en passagers-kilomètres payants, a progressé de 0,2 % en juillet par rapport à juillet 2025, qui était déjà un record pour ce mois, malgré le prix des billets et la guerre au Moyen-Orient ; les transporteurs nord-américains et du Moyen-Orient reculent pourtant sur un an. Statistique Canada a de son côté compté 5,9 millions de passagers soumis au contrôle de sûreté dans les huit plus grands aéroports du pays en juillet, une hausse de 1,4 % sur un an.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-08-31/le-record-de-trafic-aerien-mondial-battu-pour-un-mois-de-juillet.php"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/voyages-en-avion-vers-un-ete-record-malgre-les-prix-eleves-des-billets"
+    },
+    {
+     "media": "Statistique Canada",
+     "url": "https://www150.statcan.gc.ca/daily-quotidien/260828/dq260828c-fra.htm"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Terminal_1%2C_Toronto_Pearson_International_Airport%2C_angled_view.jpg/1280px-Terminal_1%2C_Toronto_Pearson_International_Airport%2C_angled_view.jpg",
+   "legende": "L'aérogare 1 de l'aéroport international Pearson de Toronto.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Daniel Case",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "trafic-aerien-record-mondial-en-juillet-5-9-millions-de-pass-287cbf",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "trafic-aerien-record-mondial-en-juillet-5-9-millions-de-pass-287cbf"
+  },
+  {
+   "titre": "Le PIB du Québec recule de 0,1 % en mai pendant que celui du Canada progresse",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Institut de la statistique du Québec, Statistique Canada",
+   "url": "https://statistique.quebec.ca/fr/institut/salle-de-presse/communiques",
+   "resume": "Le produit intérieur brut réel du Québec a reculé de 0,1 % en mai 2026, et de 0,1 % également pour le cumul des cinq premiers mois de l'année, selon l'Institut de la statistique du Québec. Statistique Canada mesure pour sa part une progression de 0,8 % du PIB réel canadien au deuxième trimestre et de 0,3 % en juin, attribuée surtout aux exportations, aux dépenses des ménages et aux investissements des entreprises.",
+   "sources": [
+    {
+     "media": "Institut de la statistique du Québec",
+     "url": "https://statistique.quebec.ca/fr/institut/salle-de-presse/communiques"
+    },
+    {
+     "media": "Statistique Canada",
+     "url": "https://www150.statcan.gc.ca/daily-quotidien/260828/dq260828a-fra.htm"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "le-pib-du-quebec-recule-de-0-1-en-mai-pendant-que-celui-du-c-8bb126",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "le-pib-du-quebec-recule-de-0-1-en-mai-pendant-que-celui-du-c-8bb126"
+  },
+  {
+   "titre": "L'IRIS conteste avec ses chiffres l'idée que les syndicats pèsent trop lourd sur l'économie québécoise",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Institut de recherche et d'informations socioéconomiques",
+   "url": "https://iris-recherche.qc.ca/publications/syndicalisme-mythes-realites/",
+   "resume": "L'IRIS, qui défend une intervention publique accrue, soutient dans une brochure parue le 26 août que le reproche fait aux syndicats de freiner la vitalité économique du Québec par leurs grèves ne résiste pas aux données. La brochure retrace comment ce discours, d'abord porté par des représentants patronaux, a été relayé par la Coalition avenir Québec durant ses huit années au pouvoir, puis traduit dans des lois visant l'activité syndicale.",
+   "sources": [
+    {
+     "media": "Institut de recherche et d'informations socioéconomiques",
+     "url": "https://iris-recherche.qc.ca/publications/syndicalisme-mythes-realites/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "l-iris-conteste-avec-ses-chiffres-l-idee-que-les-syndicats-p-c4e93b",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "l-iris-conteste-avec-ses-chiffres-l-idee-que-les-syndicats-p-c4e93b"
+  },
+  {
+   "titre": "L'ordre des comptables n'enquêtera pas sur l'usage d'IA par Deloitte dans un rapport de 1,6 million payé par Terre-Neuve",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Terre-Neuve-et-Labrador",
+   "medias": "Ricochet",
+   "url": "https://ricochet.media/politics/provinces/atlantic/deloitte-used-ai-in-1-6m-government-report-but-watchdog-says-it-cant-investigate/",
+   "resume": "Chartered Professional Accountants NL, l'organisme qui surveille les cabinets comptables à Terre-Neuve-et-Labrador, ne donnera pas suite à la plainte visant l'usage apparent d'intelligence artificielle par Deloitte dans un rapport sur les ressources humaines de 1,6 million de dollars commandé l'an dernier par le ministère provincial de la Santé. Le plaignant, Chris Bruce, de la vallée de Codroy, soutenait que la firme avait agi de mauvaise foi ; l'organisme avait pourtant ouvert une enquête en mars.",
+   "sources": [
+    {
+     "media": "Ricochet",
+     "url": "https://ricochet.media/politics/provinces/atlantic/deloitte-used-ai-in-1-6m-government-report-but-watchdog-says-it-cant-investigate/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "l-ordre-des-comptables-n-enquetera-pas-sur-l-usage-d-ia-par-cb5839",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "l-ordre-des-comptables-n-enquetera-pas-sur-l-usage-d-ia-par-cb5839"
+  },
+  {
+   "titre": "Sony Music et Warner Music poursuivent Anthropic pour l'usage de leurs chansons dans l'entraînement de ses modèles",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/international-business/us-business/article-sony-warner-music-sue-anthropic-over-songs-used-in-ai-training/",
+   "resume": "Les branches d'édition musicale de Sony Music et de Warner Music ont déposé une poursuite devant un tribunal fédéral de Californie, alléguant qu'Anthropic a utilisé leurs compositions protégées par le droit d'auteur pour entraîner ses modèles Claude. Aucune réponse de l'entreprise visée n'a été rapportée.",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/international-business/us-business/article-sony-warner-music-sue-anthropic-over-songs-used-in-ai-training/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Warner_Music_Group%2C_Burbank.jpg/1280px-Warner_Music_Group%2C_Burbank.jpg",
+   "legende": "Le siège de Warner Music Group, à Burbank, en Californie.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Downtowngal",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "sony-music-et-warner-music-poursuivent-anthropic-pour-l-usag-cb0872",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "sony-music-et-warner-music-poursuivent-anthropic-pour-l-usag-cb0872"
+  },
+  {
+   "titre": "La FTC et plus de vingt États américains poursuivent Amazon pour la vente de publicités sur sa place de marché",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-amazon-ftc-lawsuit-us-states/",
+   "resume": "La Federal Trade Commission a poursuivi Amazon lundi, rejointe par plus d'une vingtaine d'États américains, en alléguant que l'entreprise a manipulé les prix des publicités vendues sur sa plateforme de commerce en ligne et trompé les annonceurs. Le titre d'Amazon reculait de 2,44 % en séance au moment du dépôt.",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-amazon-ftc-lawsuit-us-states/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Amazon_Fulfillment_Center%2C_Ocala.jpg/1280px-Amazon_Fulfillment_Center%2C_Ocala.jpg",
+   "legende": "Un centre de distribution d'Amazon à Ocala, en Floride.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Michael Rivera",
+   "photo_licence": "CC0",
+   "permalien": "la-ftc-et-plus-de-vingt-etats-americains-poursuivent-amazon-07c679",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "la-ftc-et-plus-de-vingt-etats-americains-poursuivent-amazon-07c679"
+  },
+  {
+   "titre": "À Obock, une économie clandestine s'est organisée autour des migrants éthiopiens en route vers l'Arabie saoudite",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Djibouti",
+   "medias": "Pivot",
+   "url": "https://pivot.quebec/2026/08/26/route-de-la-mort-djibouti-economie-clandestine-exil-ethiopien/",
+   "resume": "À Obock, dernière étape avant la traversée du détroit de Bab el-Mandeb vers le Yémen, passeurs et certains agents des autorités djiboutiennes tirent profit du passage de migrants éthiopiens partis chercher du travail en Arabie saoudite. Les récits recueillis sur place font état d'arrestations et de sévices à la frontière saoudienne, dont les cicatrices d'un jeune homme de 19 ans refoulé trois mois plus tôt.",
+   "sources": [
+    {
+     "media": "Pivot",
+     "url": "https://pivot.quebec/2026/08/26/route-de-la-mort-djibouti-economie-clandestine-exil-ethiopien/"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Obock%2C_Djibouti.jpg",
+   "legende": "Obock, sur la côte djiboutienne du golfe d'Aden.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Luc Michel",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "a-obock-une-economie-clandestine-s-est-organisee-autour-des-81fad1",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "a-obock-une-economie-clandestine-s-est-organisee-autour-des-81fad1"
+  },
+  {
+   "titre": "Un fabricant de piscines de Québec paiera lui-même une part des droits de douane de 50 % sur ses exportations",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/08/31/un-exportateur-dici-absorbera-une-partie-des-tarifs-de-50-qui-frappent-ses-piscines",
+   "resume": "Le fabricant québécois Fibro absorbera une partie des droits de douane de 50 % appliqués depuis dix jours sur les piscines qu'il exporte aux États-Unis, quitte à réduire ses marges ou à vendre à perte pendant un temps. Son distributeur américain ne peut prendre à sa charge la totalité de la surtaxe.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/31/un-exportateur-dici-absorbera-une-partie-des-tarifs-de-50-qui-frappent-ses-piscines"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "un-fabricant-de-piscines-de-quebec-paiera-lui-meme-une-part-e5855a",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "un-fabricant-de-piscines-de-quebec-paiera-lui-meme-une-part-e5855a"
+  },
+  {
+   "titre": "La Banque du Canada dévoilera jeudi son nouveau billet de 20 dollars, de format vertical",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Banque du Canada",
+   "url": "https://www.banqueducanada.ca/multimedia/devoilement-du-nouveau-billet-canadien-de-20-discours-diffusions/",
+   "resume": "Le gouverneur Tiff Macklem dévoilera le 3 septembre, avec des invités, le nouveau billet canadien de 20 dollars, présenté en format vertical. La Banque du Canada indique concevoir cette coupure à l'effigie du roi Charles III.",
+   "sources": [
+    {
+     "media": "Banque du Canada",
+     "url": "https://www.banqueducanada.ca/multimedia/devoilement-du-nouveau-billet-canadien-de-20-discours-diffusions/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Examples_of_every_bank_note_produced_by_the_Bank_of_Canada._Exemples_de_tous_les_billets_de_banque_produits_par_la_Banque_du_Canada._%2852305667951%29.jpg/1280px-Examples_of_every_bank_note_produced_by_the_Bank_of_Canada._Exemples_de_tous_les_billets_de_banque_produits_par_la_Banque_du_Canada._%2852305667951%29.jpg",
+   "legende": "Des billets de banque produits par la Banque du Canada.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Bank of Canada - Banque du Canada from Canada",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "la-banque-du-canada-devoilera-jeudi-son-nouveau-billet-de-20-7fb05e",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "la-banque-du-canada-devoilera-jeudi-son-nouveau-billet-de-20-7fb05e"
+  },
+  {
+   "titre": "Un ancien négociateur de l'ALENA juge l'industrie automobile canadienne condamnée, au moment où Unifor ouvre ses négociations chez Stellantis",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "The Globe and Mail, Les Affaires",
+   "url": "https://www.theglobeandmail.com/business/commentary/article-canada-auto-sector-us-trade-trump-tariffs/",
+   "resume": "Tom MacDonald, ancien directeur de la politique automobile au ministère de l'Industrie et membre de l'équipe canadienne de négociation de l'ALENA, soutient que le marché automobile nord-américain intégré ne peut pas survivre à la menace d'un droit de douane de 50 % sur les véhicules annoncée par Donald Trump pour janvier, le président ayant répété dimanche ne vouloir ni voitures ni pièces canadiennes.\n\nAu même moment, Unifor entame mardi ses négociations collectives avec Stellantis, après avoir ratifié de nouvelles conventions chez General Motors et chez Ford.",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/commentary/article-canada-auto-sector-us-trade-trump-tariffs/"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/manufacturier/unifor-se-concentre-sur-stellantis-apres-avoir-conclu-des-accords-avec-gm-et-ford/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Windsor_Assembly_Plant_1.jpg/1280px-Windsor_Assembly_Plant_1.jpg",
+   "legende": "L'usine d'assemblage de Windsor, en Ontario, exploitée par Stellantis.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Decimal10",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "un-ancien-negociateur-de-l-alena-juge-l-industrie-automobile-6413d5",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-08-31.json",
+   "_slug": "un-ancien-negociateur-de-l-alena-juge-l-industrie-automobile-6413d5"
   },
   {
    "titre": "Projection Qc125 au 30 août : le PQ à 48 sièges, la CAQ dans une fourchette de 9 à 48",
@@ -3190,9 +3571,9 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Ontario",
-   "medias": "Radio-Canada, Global News, Le Guide de l'auto, CBC/Radio-Canada",
+   "medias": "Radio-Canada, Global News, Le Guide de l'auto, CBC/Radio-Canada, Les Affaires",
    "url": "https://ici.radio-canada.ca/nouvelle/2279105/general-motors-lentente-de-principe-ratifiee",
-   "resume": "Les membres d'Unifor chez General Motors ont ratifié à forte majorité — 80,5 % à Oshawa, Woodstock et St. Catharines, 96,5 % à Ingersoll — les conventions collectives provisoires conclues le 22 août, qui portent le salaire horaire de la production à taux plein à 50,20 $ et prévoient plus d'un milliard de dollars d'investissements dans les usines canadiennes. Le syndicat dit continuer de faire pression pour la reprise de la production à l'usine CAMI d'Ingersoll, à l'arrêt, dont les employés bénéficient d'une prolongation des indemnités de chômage partiel.\n\n**Mise à jour, 8 h 55** — L'usine d'Oshawa, qui assemble déjà des Chevrolet Silverado 1500 et Silverado HD, recevra 144 millions de dollars additionnels pour construire la prochaine génération du GMC Sierra HD, portant l'investissement à près d'un demi-milliard. Les conventions de trois ans portent le salaire des membres de production au taux plein à 50,20 $ l'heure et celui des métiers spécialisés à 62,71 $, des négociations menées alors que l'usine CAMI d'Ingersoll est à l'arrêt et que la majorité de ses membres sont en mise à pied indéterminée.",
+   "resume": "Les membres d'Unifor chez General Motors ont ratifié à forte majorité — 80,5 % à Oshawa, Woodstock et St. Catharines, 96,5 % à Ingersoll — les conventions collectives provisoires conclues le 22 août, qui portent le salaire horaire de la production à taux plein à 50,20 $ et prévoient plus d'un milliard de dollars d'investissements dans les usines canadiennes. Le syndicat dit continuer de faire pression pour la reprise de la production à l'usine CAMI d'Ingersoll, à l'arrêt, dont les employés bénéficient d'une prolongation des indemnités de chômage partiel.\n\n**Mise à jour, 8 h 55** — L'usine d'Oshawa, qui assemble déjà des Chevrolet Silverado 1500 et Silverado HD, recevra 144 millions de dollars additionnels pour construire la prochaine génération du GMC Sierra HD, portant l'investissement à près d'un demi-milliard. Les conventions de trois ans portent le salaire des membres de production au taux plein à 50,20 $ l'heure et celui des métiers spécialisés à 62,71 $, des négociations menées alors que l'usine CAMI d'Ingersoll est à l'arrêt et que la majorité de ses membres sont en mise à pied indéterminée.\n\n**Mise à jour, 16 h 19** — Unifor entame mardi ses négociations collectives avec Stellantis, dernier des trois constructeurs de Detroit après les ententes ratifiées chez General Motors et chez Ford.",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -3209,11 +3590,15 @@
     {
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/windsor/oshawa-plant-adds-truck-as-unionized-canadian-gm-members-ratify-new-deals-9.7326309"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/manufacturier/unifor-se-concentre-sur-stellantis-apres-avoir-conclu-des-accords-avec-gm-et-ford/"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T08:53-04:00",
+   "horodate": "2026-08-31T16:19-04:00",
    "permalien": "les-employes-syndiques-de-gm-ratifient-leurs-nouvelles-conve-b67ecb",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-08-31.json",
@@ -3736,9 +4121,9 @@
    "cahier": "montreal",
    "rubrique": "economie",
    "territoire": "Montréal",
-   "medias": "Le Devoir, Québecor",
+   "medias": "Le Devoir, Québecor, Radio-Canada",
    "url": "https://www.ledevoir.com/economie/1005101/litre-essence-franchit-nouveau-barre-2-grande-region-montreal",
-   "resume": "De nombreuses stations-service de la grande région de Montréal affichaient dimanche 200,9 cents le litre, franchissant de nouveau la barre des 2 $ et prenant de court les automobilistes. Le seuil avait été atteint pour la première fois depuis 2022 le 2 avril dernier, dans la foulée de la guerre au Moyen-Orient.",
+   "resume": "De nombreuses stations-service de la grande région de Montréal affichaient dimanche 200,9 cents le litre, franchissant de nouveau la barre des 2 $ et prenant de court les automobilistes. Le seuil avait été atteint pour la première fois depuis 2022 le 2 avril dernier, dans la foulée de la guerre au Moyen-Orient.\n\n**Mise à jour, 16 h 19** — La taxe d'accise fédérale sur l'essence, suspendue depuis le 20 avril, doit reprendre à la fête du Travail : le prix du litre pourrait bondir d'une dizaine de cents le 7 septembre.",
    "sources": [
     {
      "media": "Le Devoir",
@@ -3747,11 +4132,15 @@
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/08/30/le-prix-de-lessence-franchit-les-2-le-litre-dans-le-grand-montreal"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/1-10749033/7-septembre-prix-essence-pourrait-bondir-10-cents"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-30T15:30-04:00",
+   "horodate": "2026-08-31T16:19-04:00",
    "permalien": "le-litre-d-essence-repasse-au-dessus-de-2-dans-le-grand-mont-f8c5b9",
    "_fichier": "revue-report-2026-08-31.json",
    "_volet": "report",
