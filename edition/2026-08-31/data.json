@@ -2,6 +2,7 @@
  "date": "2026-08-31",
  "volets": [
   "continu",
+  "elections",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -384,6 +385,110 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-08-31.json",
    "_slug": "mort-de-jean-francois-leroy-fondateur-du-festival-de-photojo-d758a9"
+  },
+  {
+   "titre": "Projection Qc125 au 30 août : le PQ à 48 sièges, la CAQ dans une fourchette de 9 à 48",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "",
+   "url": "https://qc125.com/",
+   "resume": "Le modèle Qc125 de Philippe J. Fournier, qui agrège des sondages sans en produire lui-même, place dans sa mise à jour du 30 août le Parti québécois à 29 % des voix et 48 sièges (fourchette de 30 à 69), devant le Parti libéral du Québec à 21 % et 31 sièges, la Coalition avenir Québec à 25 % et 28 sièges (9 à 48), le Parti conservateur du Québec à 15 % et 11 sièges et Québec solidaire à 10 % et 9 sièges. Le modèle attribue au PQ 80 % de probabilité de remporter le plus de sièges mais 9 % seulement d'obtenir la majorité, fixée à 64 sièges sur 125, et repose sur les deux sondages les plus récents qu'il a intégrés, Synopsis du 25 août et Léger du 23 août.",
+   "sources": [
+    {
+     "media": "Qc125",
+     "url": "https://qc125.com/"
+    }
+   ],
+   "horodate": "2026-08-31T09:22-04:00",
+   "permalien": "projection-qc125-au-30-aout-le-pq-a-48-sieges-la-caq-dans-un-5ac466",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "projection-qc125-au-30-aout-le-pq-a-48-sieges-la-caq-dans-un-5ac466"
+  },
+  {
+   "titre": "Assemblée de Longueuil : la CAQ a fait sélectionner les participants par une firme",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Montérégie (Longueuil)",
+   "medias": "Montreal Gazette, CTV News Montréal",
+   "url": "https://montrealgazette.com/quebec-elections/christine-frechette-caq-town-hall-longueuil-quebec-election/",
+   "resume": "L'assemblée publique tenue dimanche à Longueuil par Christine Fréchette, présentée aux journalistes comme ouverte à des électeurs de toutes allégeances, s'est déroulée devant une salle acquise à la cheffe caquiste — ovation debout à son entrée, une participante la saluant comme future première ministre, une autre se disant militante de longue date — et La Presse a rapporté que le parti avait embauché une firme pour choisir les personnes présentes, ce dont son candidat dans Chambly, Jean-François Roberge, a dit n'avoir pas été informé. Devant un conseiller pédagogique qui réclamait un sommet sur l'éducation, elle a dit douter que ce soit la meilleure solution et jugé décevants les états généraux de 1995 auxquels elle avait pris part, alors que la Centrale des syndicats du Québec réclame un tel forum et que le Parti libéral du Québec s'engage à le convoquer s'il forme le gouvernement.",
+   "sources": [
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/quebec-elections/christine-frechette-caq-town-hall-longueuil-quebec-election/"
+    },
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/quebec-election-2026/article/is-that-the-best-solution-frechette-hesitates-to-review-struggling-education-system-follow-for-live-updates/"
+    }
+   ],
+   "horodate": "2026-08-31T09:22-04:00",
+   "permalien": "assemblee-de-longueuil-la-caq-a-fait-selectionner-les-partic-eb5577",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "assemblee-de-longueuil-la-caq-a-fait-selectionner-les-partic-eb5577"
+  },
+  {
+   "titre": "Ce que la loi laisse dépenser : 0,88 $ par électeur pour un parti, 0,95 $ pour un candidat",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "",
+   "url": "https://www.electionsquebec.qc.ca/financement-depenses-et-contributions/limites-des-depenses-electorales/",
+   "resume": "Pour la période du 1er avril 2026 au 31 mars 2027, qui couvre le scrutin du 5 octobre, le directeur général des élections fixe la limite de dépenses électorales d'un parti à 0,88 $ par électrice et électeur inscrit et celle d'un candidat à 0,95 $ dans sa circonscription, portée à 1,20 $ dans les circonscriptions désignées et à 2,14 $ aux Îles-de-la-Madeleine : le plafond de chacun se calcule en multipliant ces montants par le nombre d'électeurs inscrits là où il se présente. Élections Québec rappelle par ailleurs, dans un texte mis en ligne le 30 août, qu'une électrice ou un électeur ne peut verser plus de 200 $ à une même entité politique dans une année où se tient une élection, et que le vote lui-même finance indirectement les partis par les allocations annuelles et le remboursement des dépenses électorales.",
+   "sources": [
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/financement-depenses-et-contributions/limites-des-depenses-electorales/"
+    },
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/actualites/largent-et-les-elections/"
+    }
+   ],
+   "horodate": "2026-08-31T09:22-04:00",
+   "permalien": "ce-que-la-loi-laisse-depenser-0-88-par-electeur-pour-un-part-0bae28",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "ce-que-la-loi-laisse-depenser-0-88-par-electeur-pour-un-part-0bae28"
+  },
+  {
+   "titre": "Au jour 5, un seul des cinq partis offre une plateforme électorale complète",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "",
+   "url": "https://conservateur.quebec/documents-officiels/",
+   "resume": "Au matin du 31 août, le Parti conservateur du Québec est le seul des cinq partis représentés à l'Assemblée nationale à mettre en téléchargement une plateforme électorale 2026 complète, accompagnée de documents sectoriels sur le gaz naturel, la forêt et la fiscalité des sociétés, alors que la Coalition avenir Québec a déposé la veille un cadre financier de campagne en PDF sans plateforme d'ensemble. Le Parti québécois renvoie à son « Livre bleu » mis en ligne en juillet, le Parti libéral du Québec s'en tient à cinq priorités sans document téléchargeable, et la page de plateforme de Québec solidaire affiche « À venir ».",
+   "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/documents-officiels/"
+    },
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/wp-content/uploads/2026/08/cadre-financier-v8-30-aout.pdf"
+    },
+    {
+     "media": "Parti québécois",
+     "url": "https://pq.org/wp-content/uploads/2026/07/PQ_Livre-bleu-pages.pdf"
+    },
+    {
+     "media": "Parti libéral du Québec",
+     "url": "https://plq.org/plateforme/"
+    },
+    {
+     "media": "Québec solidaire",
+     "url": "https://quebecsolidaire.net/"
+    }
+   ],
+   "horodate": "2026-08-31T09:22-04:00",
+   "permalien": "au-jour-5-un-seul-des-cinq-partis-offre-une-plateforme-elect-48f52d",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "au-jour-5-un-seul-des-cinq-partis-offre-une-plateforme-elect-48f52d"
   },
   {
    "titre": "La Belgique persiste à refuser de céder les avoirs russes gelés à l'Ukraine",
@@ -2020,7 +2125,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Laval (Chomedey)",
-   "medias": "Courrier Laval, Québecor",
+   "medias": "Courrier Laval, Québecor, Montreal Gazette",
    "url": "https://courrierlaval.com/faux-depart-deputee-lakhoyan-olivier-candidate",
    "resume": "Exclue du caucus libéral en décembre 2025 puis bannie du parti au printemps, la députée sortante de Chomedey Sona Lakhoyan Olivier a confirmé par courriel au Courrier Laval qu’elle sollicitera un second mandat à titre d’indépendante le 5 octobre, mais la porte-parole du Directeur général des élections, Julie St-Arnaud-Drolet, indique qu’elle ne détient pas l’autorisation exigée de tout candidat indépendant. La Loi électorale prévoit une amende minimale de 5000 $ pour quiconque sollicite des contributions ou engage des dépenses sans cette autorisation ; la députée n’a pas donné suite aux demandes de réaction et n’avait toujours pas annoncé sa candidature à ses quelque 2500 abonnés Facebook dimanche matin.\n\n**Mise à jour, 14 h** — Le Parti libéral du Québec a mis en demeure son ex-députée le 28 août de retirer ses pancartes, qui reprennent selon lui le « L » stylisé et l'identité visuelle du parti au risque de laisser croire qu'elle est de nouveau sa candidate, en lui donnant 24 heures avant de porter la cause devant les tribunaux ; le délai écoulé, le parti n'avait pas dit dimanche s'il irait de l'avant. Le PLQ a aussi écrit au Directeur général des élections pour déposer une plainte et demander une enquête urgente sur la question de savoir si cette publicité électorale constitue la diffusion d'une information que la candidate sait fausse.",
    "photo": "",
@@ -2034,6 +2139,10 @@
     {
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/08/30/pancartes-electorales--le-plq-met-en-demeure-son-ex-deputee-sona-lakhoyan-olivier"
+    },
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/quebec-elections/quebec-liberals-sona-lakhoyan-olivier-election-posters-cease-desist/"
     }
    ],
    "permalien": "candidate-independante-dans-chomedey-sona-lakhoyan-olivier-n-2bef43",
@@ -3038,16 +3147,16 @@
    "_slug": "violence-conjugale-la-caq-promet-huit-maisons-d-hebergement-236d66"
   },
   {
-   "titre": "Élections Québec a accepté 178 candidatures, dans 101 circonscriptions sur 125",
+   "titre": "Élections Québec a accepté 179 candidatures, dans 101 circonscriptions sur 125",
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
    "medias": "",
    "url": "https://www.electionsquebec.qc.ca/voter/candidatures/",
-   "resume": "Le directeur général des élections avait accepté 178 candidatures au 30 août à 16 h 54, réparties dans 101 des 125 circonscriptions entre onze partis et quatre candidatures indépendantes : le Parti québécois en compte 58, la Coalition avenir Québec 29, Québec solidaire 23, le Parti conservateur du Québec 22 et le Parti libéral du Québec 11. La liste ne se fige que le 17 septembre à 14 h et une candidature n'y paraît qu'une fois acceptée : l'écart entre les partis mesure le rythme des dépôts à ce jour, pas la taille finale des équipes.",
+   "resume": "Le directeur général des élections avait accepté 178 candidatures au 30 août à 16 h 54, réparties dans 101 des 125 circonscriptions entre onze partis et quatre candidatures indépendantes : le Parti québécois en compte 58, la Coalition avenir Québec 29, Québec solidaire 23, le Parti conservateur du Québec 22 et le Parti libéral du Québec 11. La liste ne se fige que le 17 septembre à 14 h et une candidature n'y paraît qu'une fois acceptée : l'écart entre les partis mesure le rythme des dépôts à ce jour, pas la taille finale des équipes.\n\n**Mise à jour, 9 h** — Le directeur général des élections a porté la liste à 179 candidatures acceptées au 31 août à 9 h 01, toujours réparties dans 101 des 125 circonscriptions : la seule acceptation nouvelle est celle de Mathieu Lévesque, de la Coalition avenir Québec, dans Chapleau, qui porte le parti à 30. Seize des candidatures acceptées à ce jour sont celles de députés sortants.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-30T17:55-04:00",
+   "horodate": "2026-08-31T09:22-04:00",
    "sources": [
     {
      "media": "Élections Québec",
@@ -3279,6 +3388,10 @@
    "legende": "",
    "horodate": "2026-08-30T18:48-04:00",
    "sources": [
+    {
+     "media": "Coalition avenir Québec — cadre financier (PDF)",
+     "url": "https://coalitionavenirquebec.org/wp-content/uploads/2026/08/cadre-financier-v8-30-aout.pdf"
+    },
     {
      "media": "Coalition avenir Québec",
      "url": "https://coalitionavenirquebec.org/fr/blog/2026/08/30/lequipe-christine-frechette-presente-un-cadre-financier-responsable-pour-faire-avancer-le-quebec/"
