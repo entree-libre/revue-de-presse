@@ -4,6 +4,7 @@
  --accent:#ffd400; --accent-fg:#111114; --accent-txt:#8a6f00;
  --link:#16161a; --card:#ffffff; --ombre:rgba(0,0,0,.06);
  --measure:84rem; --wide:100rem;
+ --h-barre:2.7rem;
  --font:"Newsreader",Georgia,"Iowan Old Style","Charter","Times New Roman",serif;
  --titre:var(--font);
  --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
@@ -28,7 +29,10 @@ html[data-theme="contraste"]{--bg:#000000;--fg:#ffffff;--muted:#e8e8e8;--rule:#f
 html[data-theme="contraste"] a{text-decoration:underline;
  text-decoration-thickness:.16em}
 html[data-theme="contraste"] .man-cta{color:#000;text-decoration:none}
-html[data-theme="contraste"] article.vu{opacity:.75}
+/* Contraste : l'effacement reste tres leger — un sujet lu doit rester
+   parfaitement lisible pour qui a besoin de ce theme. */
+html[data-theme="contraste"] article.apercu{opacity:.92}
+html[data-theme="contraste"] article.lu{opacity:.78}
 /* Contraste (refait le 30 août 2026) : aussi le modèle pour les daltoniens.
    Couleurs de cahier remplacées par la palette Okabe-Ito, lisible pour les
    deutéranopes, protanopes et tritanopes — plus d'axe rouge/vert. */
@@ -59,6 +63,7 @@ img{max-width:100%}
 /* ------------------------------------------------------ barres de navigation */
 .toolbar{position:sticky;top:0;z-index:30;background:var(--bg);
  border-bottom:1px solid var(--rule);padding:.45rem 0;display:flex;gap:.35rem;
+ min-height:var(--h-barre);
  flex-wrap:wrap;align-items:center;font-family:var(--ui);font-size:.74rem}
 .toolbar button{font-family:inherit;font-size:.74rem;background:transparent;
  color:var(--muted);border:0;border-radius:.2rem;padding:.3rem .5rem;cursor:pointer;
@@ -66,15 +71,38 @@ img{max-width:100%}
 .toolbar button:hover{color:var(--accent-txt);background:var(--rule)}
 .toolbar .sp{flex:1}
 .toolbar a{font-family:var(--ui);text-decoration:none;font-weight:600}
-nav.cahiers{position:sticky;top:2.35rem;z-index:29;background:var(--bg);
- border-bottom:2px solid var(--rule-fort);padding:0;display:flex;
- gap:.6rem;flex-wrap:wrap;font-family:var(--ui);
+/* « La une » est le seul bouton de la barre qui ramene au contenu — les
+   autres ne font que regler l'affichage. Ecrit au feutre comme le titre du
+   journal et pose en pastille jaune, il ne se confond plus avec eux. */
+.toolbar .btn-une{font-family:"Permanent Marker","Comic Sans MS",cursive;
+ font-size:1.05rem;font-weight:400;letter-spacing:.015em;line-height:1.4;
+ background:var(--accent);color:var(--accent-fg);
+ padding:.1rem .85rem;border-radius:.3rem;text-decoration:none;
+ box-shadow:0 2px 8px var(--ombre)}
+.toolbar .btn-une:hover{background:var(--fg);color:var(--bg)}
+html[data-theme="contraste"] .toolbar .btn-une{text-decoration:none;color:#000}
+/* Le menu se colle SOUS la barre : meme jeton des deux cotes, sinon un
+   filet de page passe entre les deux des que la barre change de hauteur
+   (ce qui est arrive en grossissant « La une »). */
+nav.cahiers{position:sticky;top:var(--h-barre);z-index:29;background:var(--bg);
+ border-bottom:2px solid var(--rule-fort);padding:0 0 .4rem;display:flex;
+ gap:.4rem;flex-wrap:wrap;font-family:var(--ui);
  font-size:.8rem;font-weight:700;letter-spacing:.03em;text-transform:uppercase}
-nav.cahiers a{flex:1 1 0;min-width:10rem;text-align:center;
- text-decoration:none;padding:.6rem .4rem;color:var(--fg);
- border-bottom:3px solid transparent;margin-bottom:-2px}
+/* Chaque onglet est une pastille : un rectangle a coins arrondis, detache de
+   ses voisins par un mince intervalle. Plus de soulignement qui fusionne avec
+   le filet du bas — l'onglet ouvert se signale par son fond, pas en se
+   fondant dans la page.
+   Le libelle est enferme dans un `.lbl` : c'est lui l'unique element du flex,
+   ce qui laisse le nom du cahier et son compte se replier ensemble sur deux
+   lignes, et centre verticalement celui qui tient sur une seule — sans quoi
+   « Canada 4 » resterait colle en haut d'un onglet aussi haut que ses
+   voisins a deux lignes. */
+nav.cahiers a{flex:1 1 0;min-width:10rem;min-height:2.9rem;
+ display:flex;align-items:center;justify-content:center;
+ text-align:center;text-decoration:none;padding:.45rem .5rem;color:var(--fg);
+ border:1px solid var(--rule);border-radius:.4rem}
 nav.cahiers a:hover{color:var(--accent-txt)}
-nav.cahiers a.on{color:var(--accent-txt);border-bottom-color:var(--accent-txt)}
+nav.cahiers a.on{color:var(--accent-txt)}
 nav.cahiers .n{color:var(--muted);font-weight:400}
 
 /* ---------------------------------------------------------------- en-tête */
@@ -313,6 +341,13 @@ figcaption{font-family:var(--ui);font-size:.72rem;color:var(--muted);
 .lie-terr{display:block;font-family:var(--ui);font-size:.65rem;
  letter-spacing:.1em;text-transform:uppercase;color:var(--accent-txt);font-weight:700}
 .lie-titre{display:block;font-weight:700;line-height:1.3;margin:.1rem 0}
+/* Le trait sous les mots communs : c'est lui qui dit DE QUEL sujet il s'agit.
+   Même geste que le soulignement des liens du journal, en jaune franc pour
+   qu'on le distingue d'une simple emphase. `skip-ink:none` garde le trait
+   continu sous les jambages — un trait qui saute se lit comme un défaut. */
+.lie-clef{text-decoration:underline;text-decoration-color:var(--accent);
+ text-decoration-thickness:.15em;text-underline-offset:.14em;
+ text-decoration-skip-ink:none}
 .lie-src{display:block;font-family:var(--ui);font-size:.72rem;color:var(--muted)}
 .voisins{display:flex;gap:1.5rem;justify-content:space-between;margin-top:2.4rem;
  border-top:1px solid var(--rule);padding-top:1.2rem;font-size:.95rem}
@@ -346,6 +381,16 @@ html[data-theme="dark"] [data-cahier="canada"]{--ca:#d9b36a}
 html[data-theme="dark"] [data-cahier="international"]{--ca:#84c4a4}
 html[data-theme="dark"] [data-cahier="savoirs"]{--ca:#b6a4e0}
 html[data-theme="dark"] [data-cahier="elections"]{--ca:#e893b8}
+/* Gris est le seul theme a fond moyen (#8e8e94) : la palette claire des
+   cahiers, faite pour du blanc, s'y noie. Les memes teintes assombries, pour
+   qu'elles tiennent sur ce fond. (Ajoute le 31 aout 2026 — le manque ne se
+   voyait pas tant que la couleur ne servait qu'a un filet de 4 px.) */
+html[data-theme="gris"] [data-cahier="quebec"]{--ca:#7a2a1a}
+html[data-theme="gris"] [data-cahier="montreal"]{--ca:#14496b}
+html[data-theme="gris"] [data-cahier="canada"]{--ca:#6a4a10}
+html[data-theme="gris"] [data-cahier="international"]{--ca:#1f5039}
+html[data-theme="gris"] [data-cahier="savoirs"]{--ca:#453473}
+html[data-theme="gris"] [data-cahier="elections"]{--ca:#6d2247}
 .masthead{text-align:center;border-bottom:4px double var(--fg);
  padding:1.6rem 0 1rem;margin:.6rem 0 1.6rem}
 .masthead .titre-rangee{display:flex;align-items:center;
@@ -360,12 +405,31 @@ html[data-theme="dark"] [data-cahier="elections"]{--ca:#e893b8}
  letter-spacing:-.015em}
 .masthead h1.marque{font-family:"Permanent Marker","Comic Sans MS",cursive;
  font-weight:400;font-size:3.4rem;letter-spacing:.015em}
-.souligne-main{position:relative;z-index:0;color:var(--accent-fg);
- padding:0 .12em}
+/* Le surligneur va par paire : le trait et le texte qu'il porte se decident
+   ensemble, jamais l'un sans l'autre. Un surligneur est plus CLAIR que son
+   texte — c'est ce qui le distingue d'une barre de censure — donc le trait
+   reste vif et le texte au-dessus reste sombre, dans les cinq themes. Les
+   deux variables sont posees cote a cote pour qu'on ne puisse plus toucher
+   a l'une en oubliant l'autre.
+   Le trait est un MASQUE, pas une image de fond. Une image SVG en data:URL
+   est un document a part : ni `currentColor` ni les variables CSS n'y
+   entrent, et la couleur y retombe sur le noir — ce qui donnait un trait
+   noir dans les cinq themes, et « Libre » illisible en sombre et en
+   contraste (corrige le 31 aout 2026). Le masque porte la forme,
+   `background-color` porte la couleur, et celle-la une variable peut la
+   dire. Sans support du masque, le trait ne s'affiche pas du tout : le mot
+   reste lisible, ce qu'un rectangle plein n'aurait pas permis. */
+.souligne-main{--marqueur:#ffd400;--marqueur-fg:#111114;
+ position:relative;z-index:0;color:var(--marqueur-fg);padding:0 .12em}
+html[data-theme="beige"] .souligne-main{--marqueur:#f7c800;--marqueur-fg:#2b2015}
+html[data-theme="contraste"] .souligne-main{--marqueur:#ffd400;--marqueur-fg:#000000}
 .souligne-main::before{content:"";position:absolute;z-index:-1;
- left:-.14em;right:-.18em;top:.14em;bottom:-.06em;
- transform:rotate(-1.8deg);
- background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 80' preserveAspectRatio='none'%3E%3Cpath d='M6 46 C60 26 132 54 192 38 C232 27 274 36 295 44 L291 61 C238 73 168 53 108 67 C66 76 22 68 9 57 Z' fill='%23ffd400' opacity='.9'/%3E%3C/svg%3E") no-repeat center/100% 100%}
+ left:-.15em;right:-.19em;top:-.02em;bottom:-.09em;
+ transform:rotate(-1.8deg)}
+@supports ((-webkit-mask-image:url("")) or (mask-image:url(""))){
+ .souligne-main::before{background-color:var(--marqueur);opacity:.92;
+  -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 80' preserveAspectRatio='none'%3E%3Cpath d='M5 18 C58 5 130 28 190 13 C231 3 273 11 296 19 L294 64 C240 78 170 57 107 71 C65 79 20 71 6 60 Z' fill='%23fff'/%3E%3C/svg%3E") no-repeat center/100% 100%;
+  mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 80' preserveAspectRatio='none'%3E%3Cpath d='M5 18 C58 5 130 28 190 13 C231 3 273 11 296 19 L294 64 C240 78 170 57 107 71 C65 79 20 71 6 60 Z' fill='%23fff'/%3E%3C/svg%3E") no-repeat center/100% 100%}}
 .masthead .sous-titre{font-family:var(--titre);font-style:italic;
  font-size:1.1rem;color:var(--muted);margin:0 0 .6rem}
 .masthead .date{font-size:.9rem;color:var(--muted);letter-spacing:.06em;
@@ -373,7 +437,38 @@ html[data-theme="dark"] [data-cahier="elections"]{--ca:#e893b8}
 .masthead .stats{display:flex;gap:1.6rem;justify-content:center;flex-wrap:wrap;
  margin-top:.9rem;font-size:.85rem;color:var(--muted)}
 .masthead .stats b{display:block;font-size:1.5rem;color:var(--fg);line-height:1.2}
-nav.cahiers a{border-left:4px solid var(--ca,var(--rule));border-radius:.35rem}
+/* La barre des cahiers s'etire sur toute la largeur de la page : un aplat de
+   couleur sur l'onglet ouvert devient une bande de plusieurs centaines de
+   pixels, et six traits pleins cote a cote font une barre qui crie plus fort
+   que la manchette. Chaque onglet porte donc sa couleur en voile ; le seul
+   trait franc de la barre est celui du cahier ouvert.
+   `color-mix` n'est pas connu de tous les navigateurs : les regles qui en
+   dependent sont posees a part, et celui qui les ignore retombe sur les
+   aplats definis plus haut — degrade, jamais casse. */
+nav.cahiers a{border-left:4px solid var(--ca,var(--rule));
+ transition:background-color .14s ease}
+nav.cahiers a{border-left-color:color-mix(in srgb,var(--ca,var(--rule)) 38%,transparent)}
+nav.cahiers a:hover{background:color-mix(in srgb,var(--ca,var(--fg)) 7%,transparent)}
+/* L'onglet ouvert : sa couleur en fond voile, son contour releve et son trait
+   de gauche rendu plein. Le texte garde `--accent-txt`, verifie dans les cinq
+   themes — `--ca` n'est pas redefini en gris et y passerait mal. */
+nav.cahiers a.on{border-color:color-mix(in srgb,var(--ca,var(--rule)) 42%,transparent);
+ border-left-color:var(--ca,var(--rule));
+ background:color-mix(in srgb,var(--ca,var(--accent)) 15%,transparent)}
+/* Gris : sur un fond moyen, un voile a 15 % ne se detache pas. Memes regles,
+   dosage releve — c'est le fond qui change, pas l'intention. */
+html[data-theme="gris"] nav.cahiers a{
+ border-left-color:color-mix(in srgb,var(--ca,var(--rule)) 58%,transparent)}
+html[data-theme="gris"] nav.cahiers a.on{
+ background:color-mix(in srgb,var(--ca,var(--accent)) 24%,transparent)}
+/* Contraste : aucun voile. Ce theme existe pour que rien ne soit dilue — les
+   traits restent pleins et le soulignement franc, comme avant. Ces regles
+   viennent apres celles ci-dessus, sinon le `color-mix` les emporterait. */
+html[data-theme="contraste"] nav.cahiers a{border-left-width:6px;
+ border-left-color:var(--ca,var(--rule));background:transparent}
+html[data-theme="contraste"] nav.cahiers a.on{background:transparent;
+ border-color:var(--accent-txt);border-left-color:var(--ca,var(--rule));
+ border-width:2px;border-left-width:6px}
 h2.cahier{color:var(--ca,var(--accent-txt));border-top-color:var(--ca,var(--accent))}
 article.carte{border-top:3px solid var(--ca,var(--rule));
  transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease}
@@ -387,15 +482,50 @@ article.carte:hover{transform:translateY(-3px);box-shadow:0 6px 16px var(--ombre
 .manchette img{aspect-ratio:21/9;object-fit:cover}
 .secondaires article.carte{border-top-width:3px}
 @media (max-width:34rem){.masthead h1{font-size:2.1rem}.manchette h2{font-size:1.7rem}}
-@media print{.toolbar,nav.cahiers,.retour,.filtre,details.index{display:none}
+@media print{.toolbar,nav.cahiers,.retour,.filtre,.legende,details.index{display:none}
  body{background:#fff;color:#000}article.carte{break-inside:avoid}
+ article.apercu,article.lu{opacity:1}.badge-vu{display:none}
  a{color:#000;text-decoration:none}}
 
-/* ---- deja consulte / mis a jour (memoire locale du navigateur) ---- */
-article.vu{opacity:.5}
-article.vu:hover,article.vu:focus-within{opacity:1}
+/* ---- aucun titre ne se justifie ----
+   `body` est en `justify` pour la prose suivie ; herite tel quel, un titre de
+   deux lignes etire sa premiere ligne jusqu'aux deux bords et se lit comme une
+   grille de mots croises. La justification a besoin de lignes nombreuses pour
+   absorber ses blancs — un titre n'en a jamais assez. Meme raison pour les
+   etiquettes courtes (territoire, credit, legende de photo) : trop breves pour
+   se justifier sans trous. Le bandeau garde son centrage, `.masthead h1` etant
+   plus specifique. */
+h1,h2,h3,h4,h5,h6,.d-titre,.lie-titre,nav.sommaire a,.voisins a,
+.terr,.dateline,.credit,figcaption,.src-nom,.badge-vu{text-align:left}
+.masthead h1{text-align:center}
+
+/* ---- les trois etats de lecture (memoire locale du navigateur) ----
+   neuf   : jamais rencontre — pleine intensite, pastille d'accent
+   apercu : passe sous les yeux en liste, jamais ouvert — legerement efface
+   lu     : la page du sujet a ete ouverte — nettement efface
+   maj    : lu, mais des articles s'y sont ajoutes depuis — se re-signale
+   Le survol rend toujours sa pleine intensite : un sujet efface reste
+   lisible pour qui veut y revenir. */
+article.apercu{opacity:.78}
+article.lu{opacity:.45}
+article.apercu:hover,article.apercu:focus-within,
+article.lu:hover,article.lu:focus-within{opacity:1}
+article.neuf{border-top-color:var(--ca,var(--accent))}
+article.lu h4.titre{font-weight:400}
 .badge-vu{display:inline-block;font:600 .68rem/1 var(--ui);letter-spacing:.07em;
  text-transform:uppercase;margin:0 0 .4rem;padding:.2rem .5rem;
  border-radius:.2rem;user-select:none}
-.b-vu{color:var(--muted);border:1px solid var(--rule)}
+.b-neuf{color:var(--accent-txt);border:1px solid var(--accent-txt);font-weight:800}
+.b-apercu{color:var(--muted);border:1px dashed var(--rule-fort)}
+.b-lu{color:var(--muted);border:1px solid var(--rule)}
 .b-maj{background:var(--accent);color:var(--accent-fg);border:0}
+
+/* Legende des pastilles, sous le filtre. */
+.legende{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;
+ font-family:var(--ui);font-size:.7rem;color:var(--muted);margin:.2rem 0 1rem}
+.legende .badge-vu{margin:0}
+.legende .quoi{margin-right:.5rem}
+.legende button{font-family:var(--ui);font-size:.7rem;background:transparent;
+ color:var(--muted);border:1px solid var(--rule);border-radius:.2rem;
+ padding:.2rem .55rem;cursor:pointer}
+.legende button:hover{color:var(--accent-txt);border-color:var(--accent-txt)}

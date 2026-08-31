@@ -20,7 +20,7 @@
 
 </head><body><div class="wrap">
 <div class="toolbar">
- <a href="../index.html">La une</a>
+ <a class="btn-une" href="https://entreelibre.ca/">La une</a>
  <span class="sp"></span>
  <span id="etat" style="color:var(--muted)"></span>
  <button id="bth" onclick="th()" title="Changer de style — clic : style suivant">Thème</button>
@@ -30,7 +30,7 @@
  <button onclick="sz(-.1)">A&minus;</button>
 </div>
 
-<nav class="cahiers"><a data-cahier="elections" href="../elections.html">Élections Québec 2026 <span class='n'>31</span></a><a data-cahier="quebec" href="../quebec.html">Québec et ses régions <span class='n'>35</span></a><a data-cahier="montreal" href="../montreal.html">Montréal et sa région <span class='n'>16</span></a><a data-cahier="canada" href="../canada.html">Canada <span class='n'>20</span></a><a data-cahier="international" href="../international.html">International <span class='n'>50</span></a><a class='on' data-cahier="savoirs" href="../savoirs.html">Savoirs <span class='n'>38</span></a></nav>
+<nav class="cahiers"><a data-cahier="elections" href="../elections.html"><span class="lbl">Élections Québec 2026 <span class='n'>35</span></span></a><a data-cahier="quebec" href="../quebec.html"><span class="lbl">Québec et ses régions <span class='n'>35</span></span></a><a data-cahier="montreal" href="../montreal.html"><span class="lbl">Montréal et sa région <span class='n'>16</span></span></a><a data-cahier="canada" href="../canada.html"><span class="lbl">Canada <span class='n'>20</span></span></a><a data-cahier="international" href="../international.html"><span class="lbl">International <span class='n'>50</span></span></a><a class='on' data-cahier="savoirs" href="../savoirs.html"><span class="lbl">Savoirs <span class='n'>38</span></span></a></nav>
 <div class="sujet">
 <div class="col-texte">
 <div class="fil"><a href="../index.html">La une</a> › <a href="../savoirs.html">Savoirs</a> › Technologies et numérique</div>
@@ -60,7 +60,7 @@
 <script>window.VU={slug:"un-robot-humanoide-chinois-bat-les-records-du-100-m-et-du-40-795fb0",emp:"e460395786"};</script>
 <footer class="pied">
 <h5>Contrôle</h5>
-<p>190 sujets. Médiane de 2.0 phrases par résumé.
+<p>194 sujets. Médiane de 2.0 phrases par résumé.
 52 % des sujets reposent sur deux médias ou plus.
 Dépouillement : édition en continu, elections, chasse hors RSS, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
 <h5>Sources</h5><p>135 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
@@ -73,18 +73,52 @@ retrait d'un contenu dont vous êtes l'ayant droit :
 <a href="mailto:contact@entreelibre.ca">contact@entreelibre.ca</a>. Les demandes
 de retrait sont traitées en priorité.</p>
 </footer>
-<a class="retour" href="../index.html#">↑ La une</a></div><script>
+<a class="retour" href="#">↑ Haut</a></div><script>
+/* ---- le magasin : un navigateur aujourd'hui, un compte demain ----
+   Tout ce dont le journal se souvient passe par ici — les preferences
+   d'affichage (`revue-prefs`) et la memoire de lecture (`revue-vus`). Le jour
+   ou ces reglages suivront un compte plutot qu'un navigateur, c'est ce seul
+   objet qui change ; le reste du fichier ne connait que lire / ecrire /
+   oublier / fusionner.
+   Deux choses sont deja posees pour ce jour-la :
+   - chaque entree de lecture porte son horodate `t`, seule base fiable pour
+     departager deux appareils qui ont parcouru la meme edition ;
+   - `fusionner` tranche, et c'est l'etat le plus avance qui gagne :
+     lu > vu > inconnu. Un sujet lu sur le telephone reste lu sur le portable ;
+     l'inverse effacerait une lecture, ce qu'aucune synchronisation ne doit
+     jamais faire.
+   Ce qui reste a faire ce jour-la, et que ce decoupage ne resout pas : ces
+   quatre methodes sont synchrones, un compte distant ne l'est pas. Les points
+   d'appel devront attendre une promesse, et les ecritures etre groupees —
+   telles quelles, elles partiraient une par carte defilee. */
+var MAGASIN={
+ lire:function(cle){try{return JSON.parse(localStorage.getItem(cle)||'{}');}
+  catch(e){return {};}},
+ ecrire:function(cle,v){try{localStorage.setItem(cle,JSON.stringify(v));}catch(e){}},
+ oublier:function(cle){try{localStorage.removeItem(cle);}catch(e){}},
+ fusionner:function(a,b){
+  var out={},vues={};
+  Object.keys(a).concat(Object.keys(b)).forEach(function(s){
+   if(vues[s])return; vues[s]=1;
+   var x=a[s],y=b[s];
+   if(!x||!y){out[s]=x||y;return;}
+   var lx=estLu(x),ly=estLu(y);
+   /* l'etat le plus avance gagne ; a etat egal, le plus recent */
+   out[s]=(lx!==ly)?(lx?x:y):(((y.t||0)>(x.t||0))?y:x);});
+  return out;}
+};
+
 var H=document.documentElement;
-try{var st=JSON.parse(localStorage.getItem('revue-prefs')||'{}');
- if(st.theme)H.dataset.theme=st.theme; if(st.font)H.dataset.font=st.font;
- if(st.cols)H.dataset.cols=st.cols;
- if(st.scale)H.style.setProperty('--scale',st.scale);}catch(e){}
+var st=MAGASIN.lire('revue-prefs');
+if(st.theme)H.dataset.theme=st.theme; if(st.font)H.dataset.font=st.font;
+if(st.cols)H.dataset.cols=st.cols;
+if(st.scale)H.style.setProperty('--scale',st.scale);
 // Newsreader est le nouveau réglage par défaut (28 août 2026) : une
 // préférence 'newsreader' enregistrée avant ce changement redevient ''.
 if(H.dataset.font==='newsreader')H.dataset.font='';
-function save(){try{localStorage.setItem('revue-prefs',JSON.stringify(
+function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
-  scale:getComputedStyle(H).getPropertyValue('--scale').trim()}));}catch(e){}}
+  scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
 function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
  H.dataset.theme=o[(i+1)%5];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
@@ -140,16 +174,38 @@ function partager(btn){
    setTimeout(function(){txt.textContent=s;},1800);});}
 }
 
-/* ---- memoire du deja-vu : un sujet consulte se grise ; il se re-signale
-   si des articles s'y ajoutent (l'empreinte data-emp change) ---- */
-function vusLire(){try{return JSON.parse(localStorage.getItem('revue-vus')||'{}');}catch(e){return {};}}
-function vusEcrire(v){try{
+/* ---- les trois etats de lecture (memoire locale du navigateur) ----
+   Une entree de `revue-vus` par sujet : {e: empreinte, t: horodate, l: lu}
+     aucune entree          -> neuf   : jamais rencontre
+     l=0, empreinte egale   -> apercu : passe sous les yeux, jamais ouvert
+     l=1, empreinte egale   -> lu     : la page du sujet a ete ouverte
+     l=1, empreinte changee -> maj    : lu, mais des articles s'y sont ajoutes
+     l=0, empreinte changee -> neuf   : a peine entrevu, et le sujet a grossi
+   Les entrees ecrites avant le 31 aout 2026 n'ont pas de champ `l` : elles
+   venaient toutes de l'ouverture d'une page de sujet, donc `lu`.
+   L'etat ne bascule jamais sous les yeux du lecteur : il s'enregistre au
+   passage et ne s'affiche qu'au chargement suivant — une carte qui palit
+   pendant qu'on lit son titre serait insupportable. */
+function vusLire(){return MAGASIN.lire('revue-vus');}
+/* Le plafond de 800 entrees est une contrainte de navigateur, pas une regle du
+   journal : il tombera le jour du compte, ou il faudra le repousser. Tel quel,
+   l'oubli de la plus ancienne entree fait reapparaitre un vieux sujet en
+   « Nouveau » — sans consequence sur l'edition du jour, genant sur un
+   historique de plusieurs mois. */
+function vusEcrire(v){
  var k=Object.keys(v);
  if(k.length>800){k.sort(function(a,b){return (v[a].t||0)-(v[b].t||0);});
   k.slice(0,k.length-800).forEach(function(s){delete v[s];});}
- localStorage.setItem('revue-vus',JSON.stringify(v));}catch(e){}}
+ MAGASIN.ecrire('revue-vus',v);}
+function estLu(m){return m?(m.l===undefined?true:!!m.l):false;}
+/* Lu : la page du sujet a ete ouverte, ou le sujet deplie entierement parcouru. */
 function vuMarquer(slug,emp){if(!slug)return;
- var v=vusLire();v[slug]={e:emp,t:Date.now()};vusEcrire(v);}
+ var v=vusLire();v[slug]={e:emp,t:Date.now(),l:1};vusEcrire(v);}
+/* Vu : la carte est restee sous les yeux. Ne promeut qu'un sujet inconnu — un
+   sujet deja lu, ou deja signale comme mis a jour, n'est jamais retrograde. */
+function apercuMarquer(slug,emp){if(!slug)return;
+ var v=vusLire();if(v[slug])return;
+ v[slug]={e:emp,t:Date.now(),l:0};vusEcrire(v);}
 function vuBadge(el,txt,cls){
  var b=el.querySelector('.badge-vu');
  if(!b){b=document.createElement('span');
@@ -159,26 +215,62 @@ function vuBadge(el,txt,cls){
 function vusAppliquer(){
  var v=vusLire();
  document.querySelectorAll('article[data-slug]').forEach(function(el){
-  var m=v[el.dataset.slug];
-  el.classList.remove('vu','maj');
-  if(!m)return;
-  if(m.e===el.dataset.emp){el.classList.add('vu');vuBadge(el,'✓ Déjà consulté','b-vu');}
-  else{el.classList.add('maj');vuBadge(el,'● Nouveaux articles','b-maj');}
+  var m=v[el.dataset.slug],emp=el.dataset.emp;
+  el.classList.remove('neuf','apercu','lu','maj');
+  if(!m){el.classList.add('neuf');vuBadge(el,'● Nouveau','b-neuf');return;}
+  if(estLu(m)){
+   if(m.e===emp){el.classList.add('lu');vuBadge(el,'✓ Lu','b-lu');}
+   else{el.classList.add('maj');vuBadge(el,'● Nouveaux articles','b-maj');}
+  }else{
+   if(m.e===emp){el.classList.add('apercu');vuBadge(el,'◔ Vu, non lu','b-apercu');}
+   else{el.classList.add('neuf');vuBadge(el,'● Nouveau','b-neuf');}
+  }
  });}
+/* Oublier l'historique de lecture : tout redevient neuf, ici et maintenant. */
+function vusOublier(){MAGASIN.oublier('revue-vus');vusAppliquer();}
+
+/* Une carte compte comme « vue » apres une pause d'environ 1,2 s dans la
+   moitie centrale de l'ecran : un defilement rapide d'un bout a l'autre de
+   l'edition ne doit pas marquer tous les sujets au passage. La bande centrale
+   (rootMargin) vaut mieux qu'un seuil de visibilite : elle marche aussi bien
+   pour une carte plus haute que l'ecran, en gros caracteres. */
+function observerLecture(){
+ if(!('IntersectionObserver' in window))return;
+ var minut={};
+ var cartes=document.querySelectorAll('article.carte[data-slug]');
+ if(cartes.length){
+  var ioc=new IntersectionObserver(function(ens){
+   ens.forEach(function(en){
+    var el=en.target,s=el.dataset.slug;
+    if(en.isIntersecting){
+     if(minut[s])return;
+     minut[s]=setTimeout(function(){delete minut[s];
+      apercuMarquer(s,el.dataset.emp);ioc.unobserve(el);},1200);
+    }else if(minut[s]){clearTimeout(minut[s]);delete minut[s];}});
+  },{rootMargin:'-25% 0px -25% 0px',threshold:0});
+  cartes.forEach(function(el){ioc.observe(el);});
+ }
+ /* apercu autonome : un sujet deplie est « vu » des qu'il s'attarde a
+    l'ecran, et « lu » une fois qu'on l'a fait defiler jusqu'au bout. */
+ var dep=document.querySelectorAll('article.deplie[data-slug]');
+ if(dep.length){
+  var iod=new IntersectionObserver(function(ens){
+   ens.forEach(function(en){
+    var el=en.target,s=el.dataset.slug,d='d'+s;
+    if(en.isIntersecting){
+     if(!minut[d])minut[d]=setTimeout(function(){delete minut[d];
+      apercuMarquer(s,el.dataset.emp);},1200);
+    }else{
+     if(minut[d]){clearTimeout(minut[d]);delete minut[d];}
+     if(en.boundingClientRect.bottom<0){
+      vuMarquer(s,el.dataset.emp);iod.unobserve(el);}}});
+  },{threshold:0});
+  dep.forEach(function(el){iod.observe(el);});
+ }
+}
 document.addEventListener('DOMContentLoaded',function(){
  if(window.VU)vuMarquer(VU.slug,VU.emp);
  vusAppliquer();
- /* apercu autonome : un sujet deplie est consulte une fois qu'on l'a fait
-    defiler jusqu'au bout */
- var dep=document.querySelectorAll('article.deplie[data-slug]');
- if(dep.length&&('IntersectionObserver' in window)){
-  var io=new IntersectionObserver(function(ens){
-   ens.forEach(function(en){
-    if(!en.isIntersecting&&en.boundingClientRect.bottom<0){
-     vuMarquer(en.target.dataset.slug,en.target.dataset.emp);
-     io.unobserve(en.target);}});
-  },{threshold:0});
-  dep.forEach(function(el){io.observe(el);});
- }
+ observerLecture();
 });
 </script></body></html>

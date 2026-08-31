@@ -496,7 +496,7 @@
    "cahier": "elections",
    "rubrique": "environnement",
    "territoire": "Centre-du-Québec (Arthabaska-L'Érable)",
-   "medias": "Radio-Canada, Le Devoir, La Presse",
+   "medias": "Radio-Canada, Le Devoir, La Presse, Les Affaires",
    "url": "https://ici.radio-canada.ca/nouvelle/2279138/gaz-schiste-eric-duhaime-elections",
    "resume": "Éric Duhaime a promis lundi, à Villeroy dans Arthabaska-L'Érable, de rouvrir l'exploitation du schiste d'Utica, une filière que le Parti conservateur du Québec chiffre à 9,4 milliards de dollars sur dix ans et 6 000 emplois, à trois conditions qu'il énonce lui-même : risques assumés par le privé, acceptabilité sociale dans la région visée et normes environnementales « les plus élevées au monde ». S'il détient la balance du pouvoir, il exigera au minimum des projets pilotes de puits dans la vallée du Saint-Laurent, une sortie à laquelle Ruba Ghazal a répliqué qu'« il n'y a rien à faire dans le gaz de schiste », pendant que Christine Fréchette se dit neutre et Charles Milliard juge que « ce n'est pas la priorité » — la loi de 2022 mettant fin à la production d'hydrocarbures vaut par ailleurs au gouvernement une poursuite de 18 milliards de dollars en Cour supérieure.",
    "photo": "",
@@ -514,6 +514,10 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/s-il-detient-la-balance-du-pouvoir-duhaime-exigera-des-puits-de-gaz-de-schiste.php"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/le-pcq-veut-exploiter-le-gaz-dutica-pour-generer-94g-de-revenus/"
     }
    ],
    "permalien": "duhaime-veut-relancer-le-gaz-de-schiste-et-en-fera-une-exige-7a6f46",
@@ -650,6 +654,114 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-08-31.json",
    "_slug": "interdiction-du-cellulaire-a-l-ecole-une-etude-du-nber-n-y-t-54c57f"
+  },
+  {
+   "titre": "Propos passés de François Gariépy à Radio X : St-Pierre Plamondon dénonce une « chasse à l'homme »",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Capitale-Nationale (Charlevoix–Côte-de-Beaupré)",
+   "medias": "Le Devoir, Québecor",
+   "url": "https://www.ledevoir.com/politique/quebec/1005275/francois-gariepy-est-tellement-bon-gars-dit-pspp",
+   "resume": "Paul St-Pierre Plamondon a défendu de nouveau lundi son candidat dans Charlevoix–Côte-de-Beaupré, l'ex-animateur de Radio X François Gariépy, visé pour des propos de juin dans lesquels il jugeait que les artistes en situation de précarité n'avaient « pas une vraie job », et pour une séquence de 2022 où il employait le terme « squaws » pour désigner des femmes autochtones. Le chef péquiste a reproché à la CAQ de consacrer « beaucoup d'efforts et d'employés » à réécouter six années d'antenne et a fait valoir que le candidat libéral de la circonscription, Michel Bureau, avait publiquement fait l'éloge de M. Gariépy en entrevue radiophonique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T12:25-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005275/francois-gariepy-est-tellement-bon-gars-dit-pspp"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/08/31/artistes-en-difficulte-financiere--pas-une-vraie-job-selon-le-candidat-pequiste-francois-gariepy"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/31/le-festival-des-candidats-farfelus"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/08/30/je-suis-un-liberal-pequiste-un-candidat-du-plq-affiche-sa-proximite-avec-le-pq"
+    }
+   ],
+   "permalien": "propos-passes-de-francois-gariepy-a-radio-x-st-pierre-plamon-d74912",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "propos-passes-de-francois-gariepy-a-radio-x-st-pierre-plamon-d74912"
+  },
+  {
+   "titre": "Charles Milliard promet 100 000 logements par année et une « corvée » du préfabriqué",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Montérégie (Borduas)",
+   "medias": "La Presse, Le Devoir, Les Affaires",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/etat-des-finances-publiques/les-quebecois-ne-vivent-pas-dans-un-monde-de-licornes-croit-milliard.php",
+   "resume": "Le chef libéral s'est engagé lundi, aux Industries Bonneville de Belœil, à ajouter 100 000 logements par année au cours d'un premier mandat en misant sur le préfabriqué : une cible de 50 % pour les logements financés par la Société d'habitation du Québec, des prêts sans intérêt d'Investissement Québec pour moderniser les lignes de production et un report de l'impôt sur les gains en capital pour les investisseurs qui réinvestissent dans la construction. Charles Milliard a lié l'annonce à un cadre financier qu'il promet « réaliste » compte tenu du trou de près de 5 milliards de dollars à combler pour atteindre l'équilibre budgétaire en 2028-2029, et il a qualifié de « totale déconnexion » les propos de Christine Fréchette selon lesquels la crise du logement serait du passé dans certaines régions.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T12:25-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/etat-des-finances-publiques/les-quebecois-ne-vivent-pas-dans-un-monde-de-licornes-croit-milliard.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005260/plq-engage-regler-penurie-logements"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-5-le-plq-veut-miser-sur-le-prefabrique-pour-la-crise-du-logement/"
+    }
+   ],
+   "permalien": "charles-milliard-promet-100-000-logements-par-annee-et-une-c-13384a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "charles-milliard-promet-100-000-logements-par-annee-et-une-c-13384a"
+  },
+  {
+   "titre": "Dans Taschereau, le PQ en est à son troisième candidat et le solidaire Étienne Grandmont dénonce un parachutage",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Taschereau)",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/08/31/etienne-grandmont-fin-pret-pour-reconquerir-taschereau",
+   "resume": "Après le retrait de la péquiste Jeanne Robin il y a deux semaines, le Parti québécois a présenté dans Taschereau le Montréalais Vincent Marissal, ex-solidaire devenu indépendant, qui s'est à son tour désisté au profit de Christian Savard. Le député sortant de Québec solidaire, Étienne Grandmont, dit n'avoir pas compris le « rationnel » derrière une candidature venue de Montréal, affirme que des citoyens lui ont exprimé leur colère et met en avant son travail sur les transports dans la région pour conserver le siège.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T12:25-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/08/31/etienne-grandmont-fin-pret-pour-reconquerir-taschereau"
+    }
+   ],
+   "permalien": "dans-taschereau-le-pq-en-est-a-son-troisieme-candidat-et-le-8c7cf6",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "dans-taschereau-le-pq-en-est-a-son-troisieme-candidat-et-le-8c7cf6"
+  },
+  {
+   "titre": "Les cégeps de région demandent aux partis de reconnaître leur poids économique",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279184/sylvain-gaudreault-role-cegeps-campagne-provinciale",
+   "resume": "Le Regroupement des cégeps de régions, qui réunit douze établissements de l'Abitibi-Témiscamingue, du Bas-Saint-Laurent, de la Côte-Nord, de la Gaspésie–Îles-de-la-Madeleine et du Saguenay–Lac-Saint-Jean, interpelle les candidats dans une lettre ouverte pour faire reconnaître l'enseignement collégial comme pilier du développement des régions. Son président, l'ancien député péquiste de Jonquière Sylvain Gaudreault, avance que la recherche menée dans ces cégeps y a attiré 20,6 millions de dollars d'investissements privés en 2023-2024 et fait valoir l'apport des étudiants internationaux, dont une partie reste travailler en région après les études.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T12:25-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279184/sylvain-gaudreault-role-cegeps-campagne-provinciale"
+    }
+   ],
+   "permalien": "les-cegeps-de-region-demandent-aux-partis-de-reconnaitre-leu-8be1fc",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "les-cegeps-de-region-demandent-aux-partis-de-reconnaitre-leu-8be1fc"
   },
   {
    "titre": "Un restaurant de la rue Jean-Talon incendié deux nuits de suite à Saint-Michel",
