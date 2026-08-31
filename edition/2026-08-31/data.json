@@ -1,10 +1,773 @@
 {
  "date": "2026-08-31",
  "volets": [
+  "monde",
   "report",
   "savoirs"
  ],
  "articles": [
+  {
+   "titre": "La Belgique persiste à refuser de céder les avoirs russes gelés à l'Ukraine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Belgique, Ukraine",
+   "medias": "Kyiv Post",
+   "url": "https://www.kyivpost.com/post/83379",
+   "resume": "La Belgique campe sur son refus de mobiliser les avoirs de la banque centrale russe gelés en Europe — la plupart logés chez Euroclear, à Bruxelles — pour financer l'effort de guerre ukrainien, selon le Kyiv Post. La Suède, la Pologne, les Pays-Bas et l'Espagne ont demandé cette semaine à la Commission européenne de relancer ce mécanisme, resté bloqué par les réticences juridiques et financières belges.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/83379"
+    }
+   ],
+   "permalien": "la-belgique-persiste-a-refuser-de-ceder-les-avoirs-russes-ge-713a14",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "la-belgique-persiste-a-refuser-de-ceder-les-avoirs-russes-ge-713a14"
+  },
+  {
+   "titre": "Les États-Unis entraînent des forces spéciales polonaises aux leçons du champ de bataille ukrainien",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Pologne, États-Unis",
+   "medias": "AP News, ABC News",
+   "url": "https://apnews.com/article/special-forces-exercise-drones-nato-russia-ukraine-b4707399e915d8124e7d134564290836",
+   "resume": "Des instructeurs militaires américains ont dirigé un exercice axé sur les drones auprès de forces spéciales polonaises, intégrant les enseignements tirés de la guerre en Ukraine contre la Russie, selon l'Associated Press. L'entraînement illustre l'adaptation de l'OTAN aux nouvelles tactiques de guerre par drones observées sur le front est-européen.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "AP News",
+     "url": "https://apnews.com/article/special-forces-exercise-drones-nato-russia-ukraine-b4707399e915d8124e7d134564290836"
+    },
+    {
+     "media": "ABC News",
+     "url": "https://abcnews.com/International/wireStory/exclusive-us-coaches-polish-forces-drone-focused-drill-136071164"
+    }
+   ],
+   "permalien": "les-etats-unis-entrainent-des-forces-speciales-polonaises-au-29feb0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "les-etats-unis-entrainent-des-forces-speciales-polonaises-au-29feb0"
+  },
+  {
+   "titre": "L'Ukraine teste de nouveaux intercepteurs face à l'intensification des attaques de drones russes",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Euromaidan Press, The Kyiv Independent, Ukrinform",
+   "url": "https://euromaidanpress.com/2026/08/30/ukraine-is-testing-four-new-drone-interceptors/",
+   "resume": "Kyiv teste quatre nouveaux modèles d'intercepteurs pour abattre les drones Geran à propulsion à réaction, de plus en plus rapides et nombreux, selon Euromaidan Press et The Kyiv Independent. Selon l'agence ukrainienne Ukrinform, la Russie est passée d'environ 1500 tirs de Shahed à réaction en juillet à 2500 en août.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/08/30/ukraine-is-testing-four-new-drone-interceptors/"
+    },
+    {
+     "media": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-tests-interceptors-to-down-russian-jet-powered-shaheds/"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4159097-flash-russia-launches-1500-jetpowered-shaheds-at-ukraine-in-july-2500-in-august.html"
+    }
+   ],
+   "permalien": "l-ukraine-teste-de-nouveaux-intercepteurs-face-a-l-intensifi-542c59",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "l-ukraine-teste-de-nouveaux-intercepteurs-face-a-l-intensifi-542c59"
+  },
+  {
+   "titre": "Une frappe russe endommage une usine PepsiCo dans le sud de l'Ukraine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "TVP World, Ukrinform",
+   "url": "https://tvpworld.com/95132324/-russian-strike-damages-pepsico-production-plant-in-ukraines-mykolaiv-region",
+   "resume": "Une installation de production du géant américain PepsiCo dans la région de Mykolaïv, dans le sud de l'Ukraine, a été endommagée par une frappe russe, a annoncé l'entreprise, selon Ukrinform et TVP World. PepsiCo exploite trois usines en Ukraine, dont deux sont toujours en activité.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "TVP World",
+     "url": "https://tvpworld.com/95132324/-russian-strike-damages-pepsico-production-plant-in-ukraines-mykolaiv-region"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4159193-pepsico-ukraine-reports-damage-to-its-production-facilities-in-mykolaiv-region.html"
+    }
+   ],
+   "permalien": "une-frappe-russe-endommage-une-usine-pepsico-dans-le-sud-de-5fc85d",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "une-frappe-russe-endommage-une-usine-pepsico-dans-le-sud-de-5fc85d"
+  },
+  {
+   "titre": "Des frappes russes détruisent des millions de livres ukrainiens à l'approche de la rentrée scolaire",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "BBC, Euromaidan Press",
+   "url": "https://www.bbc.com/news/articles/cly5v8qmy64o",
+   "resume": "Une nouvelle frappe russe a détruit des dizaines de milliers de livres près de Kyiv, portant à plusieurs millions le nombre d'exemplaires perdus cet été dans des attaques ayant aussi endommagé entrepôts et imprimeries, selon Euromaidan Press. Selon la BBC, à la laure des Grottes de Kyiv, site patrimonial classé, les dômes dorés de la cathédrale de la Dormition ont aussi été touchés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "BBC",
+     "url": "https://www.bbc.com/news/articles/cly5v8qmy64o"
+    },
+    {
+     "media": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/08/30/russia-has-burned-millions-of-ukrainian-books/"
+    }
+   ],
+   "permalien": "des-frappes-russes-detruisent-des-millions-de-livres-ukraini-5270b9",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "des-frappes-russes-detruisent-des-millions-de-livres-ukraini-5270b9"
+  },
+  {
+   "titre": "Un sénateur américain presse le Congrès d'adopter un projet de loi de sanctions contre la Russie",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "États-Unis, Russie",
+   "medias": "Ukrinform",
+   "url": "https://www.ukrinform.net/rubric-polytics/4159237-senator-blumenthal-urges-house-to-pass-russia-sanctions-bill.html",
+   "resume": "Le sénateur démocrate Richard Blumenthal a exhorté la Chambre des représentants à adopter sans délai un projet de loi de sanctions contre la Russie, actuellement bloqué au Congrès américain, selon Ukrinform. Le texte vise à accroître la pression économique sur Moscou pendant que les combats se poursuivent en Ukraine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4159237-senator-blumenthal-urges-house-to-pass-russia-sanctions-bill.html"
+    }
+   ],
+   "permalien": "un-senateur-americain-presse-le-congres-d-adopter-un-projet-5de54c",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "un-senateur-americain-presse-le-congres-d-adopter-un-projet-5de54c"
+  },
+  {
+   "titre": "La Turquie convoque l'ambassadeur d'Ukraine après des frappes de drones sur deux navires turcs",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Turquie, Ukraine",
+   "medias": "Hürriyet Daily News",
+   "url": "https://www.hurriyetdailynews.com/ankara-summons-ukraine-envoy-after-black-sea-attacks-226241",
+   "resume": "Ankara a convoqué l'ambassadeur d'Ukraine après que deux navires commerciaux battant pavillon turc ont été endommagés séparément par des attaques de drones en mer Noire, près du port russe de Touapsé, selon le Hürriyet Daily News. La Turquie, qui entretient des relations avec Kyiv comme avec Moscou, exige des explications sur ces frappes visant des bâtiments civils.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Hürriyet Daily News",
+     "url": "https://www.hurriyetdailynews.com/ankara-summons-ukraine-envoy-after-black-sea-attacks-226241"
+    }
+   ],
+   "permalien": "la-turquie-convoque-l-ambassadeur-d-ukraine-apres-des-frappe-cfdef1",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "la-turquie-convoque-l-ambassadeur-d-ukraine-apres-des-frappe-cfdef1"
+  },
+  {
+   "titre": "L'ex-chef de la défense ukrainien sollicite des investissements américains pour un fonds de technologies militaires",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, États-Unis",
+   "medias": "Reuters, U.S. News & World Report",
+   "url": "https://www.reuters.com/business/aerospace-defense/ukraines-former-defence-chief-seeks-us-investment",
+   "resume": "L'ancien ministre ukrainien de la Défense sollicite des investissements américains pour un fonds destiné à développer les technologies de défense du pays, selon Reuters, qui cite le Financial Times. L'initiative vise à attirer des capitaux privés pour soutenir l'industrie militaire ukrainienne au-delà de l'aide gouvernementale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Reuters",
+     "url": "https://www.reuters.com/business/aerospace-defense/ukraines-former-defence-chief-seeks-us-investment"
+    },
+    {
+     "media": "U.S. News & World Report",
+     "url": "https://www.usnews.com/news/world/articles/2026-08-30/ukraines-former-defence-chief-seeks-us-investment-for-defence-tech-fund-ft-reports"
+    }
+   ],
+   "permalien": "l-ex-chef-de-la-defense-ukrainien-sollicite-des-investisseme-349cec",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "l-ex-chef-de-la-defense-ukrainien-sollicite-des-investisseme-349cec"
+  },
+  {
+   "titre": "Sommet de l'OCS : le dossier iranien au cœur des discussions entre Xi, Poutine, Modi et Pezeshkian",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Kirghizstan, Iran",
+   "medias": "RFI, TV5MONDE",
+   "url": "https://www.rfi.fr/fr/asie-pacifique/20260831-sommet-de-l-ocs-le-dossier-iranien-s-annonce-au-c%C5%93ur-des-discussions-entre-xi-poutine-modi-et-pezeshkian",
+   "resume": "L'Organisation de coopération de Shanghai, qui célèbre son 25e anniversaire, réunit au Kirghizstan les dirigeants chinois, russe, indien et iranien alors que le dossier des sanctions contre Téhéran s'annonce au cœur des discussions, selon RFI. Selon TV5Monde, ce forum de dix États, conçu à l'origine pour faire contrepoids à l'influence occidentale, sert désormais de tribune à la Russie et à l'Iran face à leur isolement diplomatique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20260831-sommet-de-l-ocs-le-dossier-iranien-s-annonce-au-c%C5%93ur-des-discussions-entre-xi-poutine-modi-et-pezeshkian"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/xi-au-kirghizstan-poutine-et-pezeshkian-attendus-2835546"
+    }
+   ],
+   "permalien": "sommet-de-l-ocs-le-dossier-iranien-au-cur-des-discussions-en-479384",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "sommet-de-l-ocs-le-dossier-iranien-au-cur-des-discussions-en-479384"
+  },
+  {
+   "titre": "Ce que l'on sait de l'accord pétrolier signé entre Washington et le nouveau pouvoir vénézuélien",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Venezuela, États-Unis",
+   "medias": "Euronews, franceinfo",
+   "url": "https://fr.euronews.com/2026/08/31/ce-que-lon-sait-de-laccord-de-trump-ouvrant-le-petrole-venezuelien-aux-etats-unis",
+   "resume": "Donald Trump affirme que l'accord conclu vendredi donne aux États-Unis une participation dans les vastes réserves pétrolières du Venezuela, une étape vers son objectif d'en exploiter l'énergie, selon Euronews. La présidente par intérim Delcy Rodriguez assure de son côté que le pays conserve « propriété et souveraineté » de son pétrole, sept mois après la chute de Nicolas Maduro, selon franceinfo.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/08/31/ce-que-lon-sait-de-laccord-de-trump-ouvrant-le-petrole-venezuelien-aux-etats-unis"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/venezuela/le-venezuela-conserve-propriete-et-souverainete-de-son-petrole-assure-la-presidente-delcy-rodriguez-apres-l-accord-conclu-avec-les-etats-unis_8169308.html"
+    }
+   ],
+   "permalien": "ce-que-l-on-sait-de-l-accord-petrolier-signe-entre-washingto-35eaba",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "ce-que-l-on-sait-de-l-accord-petrolier-signe-entre-washingto-35eaba"
+  },
+  {
+   "titre": "Un ministre israélien se félicite de la dégradation des conditions de détention des Palestiniens",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Israël, Territoires palestiniens",
+   "medias": "Le Journal de Montréal, Libération",
+   "url": "https://www.journaldemontreal.com/2026/08/30/un-ministre-israelien-vante-la-degradation-des-conditions-de-detention-des-palestiniens",
+   "resume": "Le ministre israélien de la Sécurité nationale Itamar Ben Gvir a publié une vidéo où une détenue palestinienne, visage flouté, décrit des conditions de détention « extrêmement mauvaises », et s'en est félicité publiquement, selon Le Journal de Montréal et Libération. Habitué des sorties hostiles aux Palestiniens, le ministre a réitéré son intention de durcir encore le régime carcéral qui leur est appliqué.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/30/un-ministre-israelien-vante-la-degradation-des-conditions-de-detention-des-palestiniens"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/le-ministre-israelien-dextreme-droite-itamar-ben-gvir-se-rejouit-de-la-degradation-des-conditions-de-detention-des-palestiniens-20260830_OGSL6XMTXJAM5BHF5M5P22F5SI/"
+    }
+   ],
+   "permalien": "un-ministre-israelien-se-felicite-de-la-degradation-des-cond-af5b4d",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "un-ministre-israelien-se-felicite-de-la-degradation-des-cond-af5b4d"
+  },
+  {
+   "titre": "Netanyahou condamne une attaque de colons contre un village palestinien de Cisjordanie",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Territoires palestiniens",
+   "medias": "TV5MONDE",
+   "url": "https://information.tv5monde.com/international/attaque-de-colons-en-cisjordanie-la-rare-condamnation-de-benjamin-netanyahu-face-lescalade-des-violences-2835494",
+   "resume": "Des dizaines de colons israéliens ont attaqué samedi le village palestinien de Qusra, dans le nord de la Cisjordanie occupée, selon l'armée israélienne et un habitant cités par TV5Monde. Face à l'escalade des violences, Benjamin Netanyahou a formulé une rare condamnation publique de colons israéliens.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/attaque-de-colons-en-cisjordanie-la-rare-condamnation-de-benjamin-netanyahu-face-lescalade-des-violences-2835494"
+    }
+   ],
+   "permalien": "netanyahou-condamne-une-attaque-de-colons-contre-un-village-a549d0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "netanyahou-condamne-une-attaque-de-colons-contre-un-village-a549d0"
+  },
+  {
+   "titre": "En Cisjordanie, la détresse des mères d'enfants et d'adolescents palestiniens tués",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Territoires palestiniens",
+   "medias": "TV5MONDE",
+   "url": "https://information.tv5monde.com/international/en-cisjordanie-la-detresse-de-meres-denfants-et-adolescents-palestiniens-tues-par-israel-2835470",
+   "resume": "Alia al-Hallaq n'arrive « toujours pas à accepter » la mort de son fils de neuf ans, tué par un soldat israélien en Cisjordanie occupée en octobre, témoigne-t-elle auprès de TV5Monde. Son récit s'ajoute à celui d'autres mères de la région qui racontent le deuil de leurs enfants et adolescents tués dans le conflit.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/en-cisjordanie-la-detresse-de-meres-denfants-et-adolescents-palestiniens-tues-par-israel-2835470"
+    }
+   ],
+   "permalien": "en-cisjordanie-la-detresse-des-meres-d-enfants-et-d-adolesce-a7653d",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "en-cisjordanie-la-detresse-des-meres-d-enfants-et-d-adolesce-a7653d"
+  },
+  {
+   "titre": "« Une menace trop importante » : un fils Netanyahou exfiltré des États-Unis par le Shin Bet",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Israël, États-Unis",
+   "medias": "Le Parisien",
+   "url": "https://www.leparisien.fr/international/israel/une-menace-trop-importante-un-fils-netanyahou-exfiltre-des-etats-unis-par-les-services-secrets-israeliens-31-08-2026-SNJYJ5SA3RENBCJV3HVUYOPCOY.php",
+   "resume": "Le service de sécurité intérieure israélien Shin Bet a confirmé, dans un communiqué diffusé samedi soir, l'existence d'« une menace trop importante » visant l'intégrité de Yaïr Netanyahou, fils de Benjamin Netanyahou, selon Le Parisien. Il a en conséquence été exfiltré des États-Unis par les services secrets israéliens.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/israel/une-menace-trop-importante-un-fils-netanyahou-exfiltre-des-etats-unis-par-les-services-secrets-israeliens-31-08-2026-SNJYJ5SA3RENBCJV3HVUYOPCOY.php"
+    }
+   ],
+   "permalien": "une-menace-trop-importante-un-fils-netanyahou-exfiltre-des-e-afb1a0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "une-menace-trop-importante-un-fils-netanyahou-exfiltre-des-e-afb1a0"
+  },
+  {
+   "titre": "Macron en Suède pour signer la vente de quatre frégates françaises, à 4,3 milliards d'euros",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Suède, France",
+   "medias": "Libération, CNEWS",
+   "url": "https://www.liberation.fr/international/europe/emmanuel-macron-en-suede-pour-signer-la-vente-de-fregates-francaises-a-hauteur-de-43-milliards-deuros-20260831_A7YOZGIXVRFSXHAZBX5BTSKLWM/",
+   "resume": "Emmanuel Macron se rend en Suède ce lundi pour sceller la vente à l'armée suédoise de quatre frégates de défense et d'intervention fabriquées par Naval Group, pour 4,3 milliards d'euros, selon Libération et CNEWS. Face à la menace russe perçue par Stockholm, ces navires doivent être livrés à partir de 2030, dans un contrat qui renforce aussi la coopération militaro-industrielle entre les deux pays.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/emmanuel-macron-en-suede-pour-signer-la-vente-de-fregates-francaises-a-hauteur-de-43-milliards-deuros-20260831_A7YOZGIXVRFSXHAZBX5BTSKLWM/"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-08-30/pourquoi-emmanuel-macron-se-rend-il-en-suede-ce-lundi-1911575"
+    }
+   ],
+   "permalien": "macron-en-suede-pour-signer-la-vente-de-quatre-fregates-fran-b4dd5b",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "macron-en-suede-pour-signer-la-vente-de-quatre-fregates-fran-b4dd5b"
+  },
+  {
+   "titre": "Référendum en Islande : le « non » l'emporte sur la reprise des négociations d'adhésion à l'UE",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Islande",
+   "medias": "TV5MONDE, Le Parisien",
+   "url": "https://information.tv5monde.com/international/referendum-en-islande-le-non-lemporte-sur-la-reprise-des-negociations-dadhesion-avec-lue-avec-525-des-voix-2835486",
+   "resume": "Les Islandais ont rejeté à 52,8 % la reprise des négociations d'adhésion à l'Union européenne lors d'un référendum, selon des résultats de la chaîne publique RUV cités par TV5Monde. Le vote, scruté de près par Bruxelles, survient alors que l'économie islandaise, redevenue florissante, réduit pour plusieurs électeurs l'intérêt perçu d'un rapprochement avec l'UE, selon Le Parisien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/referendum-en-islande-le-non-lemporte-sur-la-reprise-des-negociations-dadhesion-avec-lue-avec-525-des-voix-2835486"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/referendum-sur-lue-lislande-dit-non-a-une-reprise-des-negociations-dadhesion-30-08-2026-OZDJS4Z4XBFHXO5XAE2FWP2FHU.php"
+    }
+   ],
+   "permalien": "referendum-en-islande-le-non-l-emporte-sur-la-reprise-des-ne-35f43a",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "referendum-en-islande-le-non-l-emporte-sur-la-reprise-des-ne-35f43a"
+  },
+  {
+   "titre": "Norvège : les funérailles du roi Harald V fixées au 9 septembre",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Norvège",
+   "medias": "CNEWS, TV5MONDE",
+   "url": "https://www.cnews.fr/monde/2026-08-30/norvege-quand-les-funerailles-du-roi-harald-v-auront-elles-lieu-1911614",
+   "resume": "Deux jours après la mort du roi Harald V à 89 ans, son fils et successeur Haakon a annoncé que la cérémonie funéraire se tiendrait le 9 septembre à la cathédrale d'Oslo, selon CNEWS et TV5Monde. Le Palais royal a précisé les modalités du transfert du cercueil pour cette cérémonie d'État.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-08-30/norvege-quand-les-funerailles-du-roi-harald-v-auront-elles-lieu-1911614"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/norvege-les-funerailles-du-roi-harald-fixees-au-9-septembre-2835493"
+    }
+   ],
+   "permalien": "norvege-les-funerailles-du-roi-harald-v-fixees-au-9-septembr-7720a1",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "norvege-les-funerailles-du-roi-harald-v-fixees-au-9-septembr-7720a1"
+  },
+  {
+   "titre": "Suisse : une fusillade fait un mort et cinq blessés en marge d'un festival techno, chasse à l'homme en cours",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Suisse",
+   "medias": "Le Journal de Montréal, France 24",
+   "url": "https://www.journaldemontreal.com/2026/08/30/tirs-mortels-lors-dune-rave-party-en-suisse--une-chasse-a-lhomme-en-cours",
+   "resume": "La police suisse recherchait dimanche le ou les auteurs de tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche en marge d'une rave organisée à Aarau, selon Le Journal de Montréal et France 24. Les circonstances exactes de la fusillade restaient à préciser.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/30/tirs-mortels-lors-dune-rave-party-en-suisse--une-chasse-a-lhomme-en-cours"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260830-suisse-fusillade-lors-d-un-festival-techno-1-mort-et-5-bless%C3%A9s"
+    }
+   ],
+   "permalien": "suisse-une-fusillade-fait-un-mort-et-cinq-blesses-en-marge-d-2b4a6f",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "suisse-une-fusillade-fait-un-mort-et-cinq-blesses-en-marge-d-2b4a6f"
+  },
+  {
+   "titre": "Le RN propose de sanctionner le port du voile, Valérie Pécresse dénonce une mesure « démagogique »",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "France",
+   "medias": "CNEWS, franceinfo",
+   "url": "https://www.cnews.fr/france/2026-08-31/presidentielle-2027-le-rn-veut-sanctionner-le-port-du-voile-par-une-amende",
+   "resume": "Le député du Rassemblement national Jean-Philippe Tanguy a précisé que son parti, s'il accède au pouvoir en 2027, sanctionnerait d'une amende le port du voile, au même titre que l'absence de ceinture de sécurité, selon CNEWS. Invitée de franceinfo, la présidente de la région Île-de-France Valérie Pécresse a dénoncé une mesure « démagogique et impraticable », rappelant qu'une femme adulte est libre de croire ou non.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Val%C3%A9rie_P%C3%A9cresse_%26_Raffaele_Fitto_-_2025.jpg/1280px-Val%C3%A9rie_P%C3%A9cresse_%26_Raffaele_Fitto_-_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Valérie Pécresse, présidente de la région Île-de-France, qui dénonce la proposition du RN.",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-08-31/presidentielle-2027-le-rn-veut-sanctionner-le-port-du-voile-par-une-amende"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/religion/le-rn-propose-de-sanctionner-le-port-du-voile-valerie-pecresse-denonce-une-mesure-demagogique-et-impraticable_8170352.html"
+    }
+   ],
+   "photo_auteur": "Nicolas Kovarik / European Union, 2025 / EC - Audiovisual Service",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "le-rn-propose-de-sanctionner-le-port-du-voile-valerie-pecres-123ac3",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "le-rn-propose-de-sanctionner-le-port-du-voile-valerie-pecres-123ac3"
+  },
+  {
+   "titre": "Guinée-Bissau : référendum contesté pour renforcer les pouvoirs du président",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Guinée-Bissau",
+   "medias": "RFI, Euronews",
+   "url": "https://www.rfi.fr/fr/afrique/20260830-guin%C3%A9e-bissau-participation-timide-%C3%A0-la-mi-journ%C3%A9e-lors-du-vote-du-r%C3%A9f%C3%A9rendum-constitutionnel",
+   "resume": "Le dépouillement a commencé dimanche en Guinée-Bissau après un référendum constitutionnel voulu par la junte au pouvoir depuis novembre, visant à renforcer les pouvoirs présidentiels, selon RFI. Euronews précise que le scrutin, déjà approuvé et publié au Journal officiel avant même la tenue du vote, est contesté par l'opposition dans un climat d'instabilité politique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/afrique/20260830-guin%C3%A9e-bissau-participation-timide-%C3%A0-la-mi-journ%C3%A9e-lors-du-vote-du-r%C3%A9f%C3%A9rendum-constitutionnel"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/08/30/guinee-bissau-un-referendum-pour-renforcer-les-pouvoirs-du-president"
+    }
+   ],
+   "permalien": "guinee-bissau-referendum-conteste-pour-renforcer-les-pouvoir-4b1540",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "guinee-bissau-referendum-conteste-pour-renforcer-les-pouvoir-4b1540"
+  },
+  {
+   "titre": "Algérie : le président Tebboune veut rétablir la peine de mort contre les pyromanes",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Algérie",
+   "medias": "France 24, CNEWS",
+   "url": "https://www.france24.com/fr/afrique/20260831-alg%C3%A9rie-tebboune-peine-de-mort-pyromanes-incendie",
+   "resume": "Le président algérien Abdelmadjid Tebboune a annoncé dimanche vouloir rétablir l'application de la peine de mort contre les auteurs d'incendies volontaires, après des feux qui ont fait au moins douze morts dans l'est et le nord du pays, selon France 24 et CNEWS. L'annonce survient alors que l'Algérie peine à circonscrire plusieurs incendies meurtriers.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/afrique/20260831-alg%C3%A9rie-tebboune-peine-de-mort-pyromanes-incendie"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-08-31/il-y-aura-execution-le-president-algerien-abdelmadjid-tebboune-veut-reinstaurer-la"
+    }
+   ],
+   "permalien": "algerie-le-president-tebboune-veut-retablir-la-peine-de-mort-666498",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "algerie-le-president-tebboune-veut-retablir-la-peine-de-mort-666498"
+  },
+  {
+   "titre": "Crues dans l'Himalaya : déjà 900 morts, les secours à la recherche de milliers de disparus",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Népal, Chine",
+   "medias": "TV5MONDE, France 24",
+   "url": "https://information.tv5monde.com/international/crue-dans-lhimalaya-deja-900-morts-les-secours-la-recherche-de-milliers-de-disparus-2835555",
+   "resume": "Les autorités népalaises ne sont toujours pas parvenues lundi à entrer en contact avec une centaine d'ouvriers qu'elles croient prisonniers d'un tunnel en chantier, alors que le bilan des crues qui ont frappé l'Himalaya cette semaine dépasse déjà 900 morts, selon TV5Monde. Selon France 24, le Népal procède à des enterrements de masse pour des centaines de victimes dont les corps, trop dégradés, restent impossibles à identifier.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/crue-dans-lhimalaya-deja-900-morts-les-secours-la-recherche-de-milliers-de-disparus-2835555"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/asie-pacifique/20260831-apr%C3%A8s-la-crue-d%C3%A9vastatrice-le-n%C3%A9pal-enterre-ses-morts"
+    }
+   ],
+   "permalien": "crues-dans-l-himalaya-deja-900-morts-les-secours-a-la-recher-486091",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "crues-dans-l-himalaya-deja-900-morts-les-secours-a-la-recher-486091"
+  },
+  {
+   "titre": "Selon la Corée du Nord, la politique des États-Unis reste hostile",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Corée du Nord, États-Unis",
+   "medias": "Boursorama, Le Figaro, L'Orient-Le Jour",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/selon-la-coree-du-nord-la-politique-des-etats-unis-reste-hostile-fb2a19f00024b3e4679c700ec0910bc1",
+   "resume": "Un porte-parole du ministère nord-coréen des Affaires étrangères a accusé Washington de maintenir une posture de confrontation, dans un communiqué relayé par l'agence officielle KCNA et cité par Boursorama. Selon Le Figaro et L'Orient-Le Jour, Pyongyang qualifie aussi les exercices militaires prévus par les États-Unis et leurs alliés de « menace » pour la Corée du Nord.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Boursorama",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/selon-la-coree-du-nord-la-politique-des-etats-unis-reste-hostile-fb2a19f00024b3e4679c700ec0910bc1"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/coree-du-nord-les-exercices-militaires-des-etats-unis"
+    },
+    {
+     "media": "L'Orient-Le Jour",
+     "url": "https://www.lorientlejour.com/article/1546086/les-exercices-militaires-prevus-par-les-etats-unis-et-leurs-allies-sont-une-menace-pour-la-coree-du-nord.html"
+    }
+   ],
+   "permalien": "selon-la-coree-du-nord-la-politique-des-etats-unis-reste-hos-512a88",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "selon-la-coree-du-nord-la-politique-des-etats-unis-reste-hos-512a88"
+  },
+  {
+   "titre": "Corée du Sud : la cheffe de la secte Moon condamnée à deux ans de prison pour corruption",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Corée du Sud",
+   "medias": "TV5MONDE, France 24",
+   "url": "https://information.tv5monde.com/international/coree-du-sud-la-cheffe-de-la-secte-moon-condamnee-deux-ans-de-prison-pour-corruption-2835575",
+   "resume": "La justice sud-coréenne a condamné lundi la dirigeante de l'Église de l'Unification, aussi connue comme la secte Moon, à deux ans d'emprisonnement pour corruption impliquant notamment une ex-première dame, selon TV5Monde. Un porte-parole de l'Église a confirmé la peine à l'AFP, précisée à deux ans par un tribunal de Séoul, selon France 24.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/coree-du-sud-la-cheffe-de-la-secte-moon-condamnee-deux-ans-de-prison-pour-corruption-2835575"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-cor%C3%A9e-du-sud-la-cheffe-de-la-secte-moon-condamn%C3%A9e-%C3%A0-deux-ans-de-prison-pour-corruption"
+    }
+   ],
+   "permalien": "coree-du-sud-la-cheffe-de-la-secte-moon-condamnee-a-deux-ans-56fedf",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "coree-du-sud-la-cheffe-de-la-secte-moon-condamnee-a-deux-ans-56fedf"
+  },
+  {
+   "titre": "Sur les hauts plateaux du Vietnam, le lucratif durian remplace le café",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Vietnam",
+   "medias": "TV5MONDE, France 24",
+   "url": "https://information.tv5monde.com/international/sur-les-hauts-plateaux-du-vietnam-le-lucratif-durian-remplace-le-cafe-2835480",
+   "resume": "Les hauts plateaux du centre du Vietnam, qui produisent environ un sixième du café mondial, voient de plus en plus d'agriculteurs se tourner vers le durian face à la demande chinoise croissante, selon TV5Monde. Selon France 24, la superficie consacrée au fruit a plus que quintuplé en dix ans, pour atteindre 200 000 hectares à l'échelle du pays, d'après le ministère vietnamien de l'Agriculture.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/sur-les-hauts-plateaux-du-vietnam-le-lucratif-durian-remplace-le-cafe-2835480"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260830-sur-les-hauts-plateaux-du-vietnam-le-lucratif-durian-remplace-le-caf%C3%A9"
+    }
+   ],
+   "permalien": "sur-les-hauts-plateaux-du-vietnam-le-lucratif-durian-remplac-f5d86a",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "sur-les-hauts-plateaux-du-vietnam-le-lucratif-durian-remplac-f5d86a"
+  },
+  {
+   "titre": "La principale dissidence des ex-FARC revendique la capture d'un caporal de la Légion étrangère française",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Colombie, France",
+   "medias": "France 24, Libération",
+   "url": "https://www.france24.com/fr/info-en-continu/20260831-la-principale-dissidence-des-ex-farc-revendique-la-capture-d-un-colombien-de-la-l%C3%A9gion-%C3%A9trang%C3%A8re-fran%C3%A7aise",
+   "resume": "La guérilla colombienne EMC, principale dissidence des ex-FARC, a revendiqué dimanche la capture du caporal José Olger Melo Charry, un Colombien membre de la Légion étrangère française pris en otage le 6 août, selon France 24 et Libération. Le groupe armé affirme que le prisonnier est « en parfaite santé ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-la-principale-dissidence-des-ex-farc-revendique-la-capture-d-un-colombien-de-la-l%C3%A9gion-%C3%A9trang%C3%A8re-fran%C3%A7aise"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/prisonnier-de-guerre-la-capture-dun-soldat-de-la-legion-etrangere-francaise-en-colombie-revendiquee-par-la-dissidence-des-ex-farc-20260831_QEK4LQGG5NH7PAFOLDE6KAKQHQ/"
+    }
+   ],
+   "permalien": "la-principale-dissidence-des-ex-farc-revendique-la-capture-d-e5b0f1",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "la-principale-dissidence-des-ex-farc-revendique-la-capture-d-e5b0f1"
+  },
+  {
+   "titre": "Pourquoi Airbus envisage de vendre ses activités spatiales aux États-Unis",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "France, États-Unis",
+   "medias": "Capital.fr",
+   "url": "https://www.capital.fr/entreprises-marches/pourquoi-airbus-envisage-de-vendre-ses-activites-spatiales-aux-etats-unis-1529683",
+   "resume": "Airbus songerait à céder son activité spatiale à un acteur américain afin de privilégier la création d'un leader paneuropéen des satellites par une fusion tripartite, selon des informations rapportées par Capital.fr. L'opération s'inscrit dans une restructuration plus large du secteur spatial européen face à la concurrence internationale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Capital.fr",
+     "url": "https://www.capital.fr/entreprises-marches/pourquoi-airbus-envisage-de-vendre-ses-activites-spatiales-aux-etats-unis-1529683"
+    }
+   ],
+   "permalien": "pourquoi-airbus-envisage-de-vendre-ses-activites-spatiales-a-caaa27",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "pourquoi-airbus-envisage-de-vendre-ses-activites-spatiales-a-caaa27"
+  },
+  {
+   "titre": "Le pétrole grimpe avec les tensions États-Unis-Iran, le patron de la Fed plaide pour une hausse des taux",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis, Iran",
+   "medias": "Euronews",
+   "url": "https://fr.euronews.com/2026/08/31/le-petrole-grimpe-avec-les-tensions-etats-unis-iran-warsh-plaide-pour-des-hausses-de-taux",
+   "resume": "Les actions asiatiques ont reculé lundi après des propos fermes du patron de la Réserve fédérale américaine, Kevin Warsh, qui ont renforcé les paris des investisseurs sur une hausse des taux directeurs, selon Euronews. Les prix du pétrole ont grimpé en parallèle, portés par les tensions croissantes entre Washington et Téhéran.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/08/31/le-petrole-grimpe-avec-les-tensions-etats-unis-iran-warsh-plaide-pour-des-hausses-de-taux"
+    }
+   ],
+   "permalien": "le-petrole-grimpe-avec-les-tensions-etats-unis-iran-le-patro-4caec3",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "le-petrole-grimpe-avec-les-tensions-etats-unis-iran-le-patro-4caec3"
+  },
+  {
+   "titre": "Le guide suprême iranien Mojtaba Khamenei appelle à l'unité des pays musulmans contre les États-Unis et Israël",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran",
+   "medias": "BFMTV, Noovo Info",
+   "url": "https://www.bfmtv.com/international/moyen-orient/iran/il-estime-que-les-etats-unis-et-israel-sont-leurs-ennemis-communs-le-guide-supreme-iranien-mojtaba-khamenei-appelle-a-l-unite-entre-pays-musulmans_AD-202608300163.html",
+   "resume": "Le guide suprême iranien Mojtaba Khamenei a appelé les pays musulmans à s'unir contre les États-Unis et Israël, qu'il juge être leurs ennemis communs, dans un message écrit diffusé dimanche, selon BFMTV. L'appel survient six mois après le début de la guerre au Moyen-Orient, selon Noovo Info.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ayatollah_Sayyid_Mojtaba_Khamenei%2C_10_April_2026_%28cropped%29.jpg/1280px-Ayatollah_Sayyid_Mojtaba_Khamenei%2C_10_April_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le guide suprême iranien Mojtaba Khamenei.",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/international/moyen-orient/iran/il-estime-que-les-etats-unis-et-israel-sont-leurs-ennemis-communs-le-guide-supreme-iranien-mojtaba-khamenei-appelle-a-l-unite-entre-pays-musulmans_AD-202608300163.html"
+    },
+    {
+     "media": "Noovo Info",
+     "url": "https://www.noovo.info/nouvelles/international/conflit-moyen-orient/article/liran-invite-les-pays-musulmans-a-sunir-contre-israel-et-les-etats-unis/"
+    }
+   ],
+   "photo_auteur": "khamenei.ir",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "le-guide-supreme-iranien-mojtaba-khamenei-appelle-a-l-unite-af2559",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "le-guide-supreme-iranien-mojtaba-khamenei-appelle-a-l-unite-af2559"
+  },
+  {
+   "titre": "Novak Djokovic éliminé dès le premier tour de l'US Open, une première en Grand Chelem depuis 2006",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis, Serbie",
+   "medias": "CNEWS, franceinfo",
+   "url": "https://www.cnews.fr/sport/2026-08-31/novak-djokovic-elimine-des-le-1er-tour-de-lus-open-une-premiere-en-grand-chelem",
+   "resume": "Au terme d'un combat de quatre heures et trente-six minutes, Novak Djokovic, physiquement à l'agonie, a été éliminé au premier tour de l'US Open par l'Argentin Mariano Navone, 49e mondial, sur le score de 7-6, selon CNEWS et franceinfo. Il s'agit de sa première élimination d'entrée en tournoi du Grand Chelem depuis vingt ans.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Novak_Djokovic_%2834775891004%29.jpg/1280px-Novak_Djokovic_%2834775891004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Novak Djokovic, éliminé dès le premier tour de l'US Open.",
+   "horodate": "2026-08-31T05:05-04:00",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/sport/2026-08-31/novak-djokovic-elimine-des-le-1er-tour-de-lus-open-une-premiere-en-grand-chelem"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sports/tennis/novak-djokovic/novak-djokovic-elimine-d-entree-de-l-us-open-de-tennis-une-premiere-en-grand-chelem-depuis-20-ans_8170190.html"
+    }
+   ],
+   "photo_auteur": "Andrew Campbell",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "novak-djokovic-elimine-des-le-premier-tour-de-l-us-open-une-9b9618",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-08-31.json",
+   "_slug": "novak-djokovic-elimine-des-le-premier-tour-de-l-us-open-une-9b9618"
+  },
   {
    "titre": "Candidate indépendante dans Chomedey, Sona Lakhoyan Olivier n’a pas l’autorisation du DGEQ",
    "cahier": "elections",
@@ -194,7 +957,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Ukraine",
-   "medias": "Québecor, Ouest-France, 20 Minutes",
+   "medias": "Québecor, Ouest-France, 20 Minutes, La Presse, Le Parisien",
    "url": "https://www.tvanouvelles.ca/2026/08/30/la-russie-dit-preparer-des-frappes-massives-contre-le-secteur-energetique-de-lukraine",
    "resume": "Le ministère russe de la Défense a fait savoir dimanche sur Telegram avoir « entamé la préparation de frappes massives » contre les installations du secteur énergétique ukrainien, qu'il présente comme une riposte aux attaques visant les infrastructures civiles et le complexe pétrolier et gazier russes. L'annonce suit la campagne de drones ukrainiens menée contre ce même secteur pétrolier et gazier, dont Kyiv soutient qu'il finance et alimente l'invasion.",
    "sources": [
@@ -209,6 +972,14 @@
     {
      "media": "20 Minutes",
      "url": "https://www.20minutes.fr/monde/ukraine/4241712-20260830-guerre-ukraine-russie-promet-frappes-massives-kiev-debat-depots-munitions-pleine-ville"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/europe/2026-08-30/guerre-en-ukraine/la-russie-prepare-des-frappes-massives-contre-le-secteur-energetique.php"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-frappes-massives-en-vue-sur-le-secteur-energetique-mais-que-prepare-la-russie-30-08-2026"
     }
    ],
    "photo": "",
@@ -224,7 +995,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Corée du Nord",
-   "medias": "Québecor, RFI",
+   "medias": "Québecor, RFI, CNEWS",
    "url": "https://www.tvanouvelles.ca/2026/08/29/coree-du-nord-le-ministre-de-la-defense-limoge",
    "resume": "Pyongyang a annoncé la destitution de son ministre de la Défense, No Kwang Chol, dans un remaniement de l'état-major militaire nord-coréen — le jour même où Séoul annonçait de son côté un changement à la tête de son propre ministère. Les lectures divergent entre modernisation des armées et sanction politique, alors que l'ampleur de l'engagement militaire américain dans la péninsule demeure incertaine.",
    "sources": [
@@ -235,6 +1006,10 @@
     {
      "media": "RFI",
      "url": "https://www.rfi.fr/fr/asie-pacifique/20260830-changement-des-ministres-de-la-d%C3%A9fense-des-deux-cor%C3%A9es-en-plein-doute-sur-l-engagement-am%C3%A9ricain"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-08-30/coree-du-nord-kim-jong-un-remanie-son-etat-major-le-ministre-de-la-defense-limoge"
     }
    ],
    "photo": "",
@@ -1424,9 +2199,9 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Iran",
-   "medias": "Le Devoir, Radio-Canada, France 24, RFI, TF1 Info, BFMTV, La Libre.be, AFP",
+   "medias": "Le Devoir, Radio-Canada, France 24, RFI, TF1 Info, BFMTV, La Libre.be, AFP, Le Télégramme, l'Opinion, Paris Match, RTBF, Libération, i24NEWS",
    "url": "https://www.ledevoir.com/monde/moyen-orient/1005167/etats-unis-ont-mene-nouvelles-frappes-iran-premieres-mois",
-   "resume": "Les forces américaines ont détruit dimanche deux lanceurs de roquettes sur l'île iranienne de Larak, dans le détroit d'Ormuz, où des unités du Corps des gardiens de la révolution islamique se préparaient à tirer des roquettes chargées de mines marines, selon le porte-parole du Commandement militaire américain pour le Moyen-Orient, Tim Hawkins. Il s'agit de la première opération américaine visant le territoire iranien depuis un mois, l'administration Trump ayant jusqu'ici privilégié les sanctions économiques ; les Gardiens de la révolution ont appelé à « une punition » en représailles.",
+   "resume": "Les forces américaines ont détruit dimanche deux lanceurs de roquettes sur l'île iranienne de Larak, dans le détroit d'Ormuz, où des unités du Corps des gardiens de la révolution islamique se préparaient à tirer des roquettes chargées de mines marines, selon le porte-parole du Commandement militaire américain pour le Moyen-Orient, Tim Hawkins. Il s'agit de la première opération américaine visant le territoire iranien depuis un mois, l'administration Trump ayant jusqu'ici privilégié les sanctions économiques ; les Gardiens de la révolution ont appelé à « une punition » en représailles.\n\n**Mise à jour, 31 août** — Téhéran affirme avoir répliqué par des tirs contre des cibles militaires américaines dans le détroit d'Ormuz, tandis que des chefs militaires américains ont averti le secrétaire à la Défense que le coût d'une campagne prolongée contre l'Iran serait « insoutenable », selon La Libre Belgique et i24NEWS.",
    "sources": [
     {
      "media": "Le Devoir",
@@ -1447,11 +2222,35 @@
     {
      "media": "La Libre.be",
      "url": "https://www.lalibre.be/international/amerique/2026/08/30/les-etats-unis-ont-mene-de-nouvelles-frappes-en-iran-les-premieres-en-un-mois-65NNVHSRPNCYTLZQMPBVNKJXEU/"
+    },
+    {
+     "media": "Le Télégramme",
+     "url": "https://www.letelegramme.fr/monde/premiers-echanges-de-frappes-entre-les-etats-unis-et-liran-depuis-un-mois-7107676.php"
+    },
+    {
+     "media": "l'Opinion",
+     "url": "https://www.lopinion.fr/international/le-petrole-grimpe-apres-des-echanges-de-frappes-entre-les-etats-unis-et-liran"
+    },
+    {
+     "media": "Paris Match",
+     "url": "https://www.parismatch.com/actu/international/les-etats-unis-ont-mene-des-frappes-en-iran-une-premiere-depuis-un-mois-274898"
+    },
+    {
+     "media": "RTBF",
+     "url": "https://www.rtbf.be/article/guerre-au-moyen-orient-echange-de-frappes-entre-les-etats-unis-et-l-iran-une-premiere-en-un-mois-11777630"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/moyen-orient-premier-echange-de-frappes-entre-les-etats-unis-et-liran-en-un-mois-20260831_SDUFN2OH55AKXJMTHHPW3O6LFA/"
+    },
+    {
+     "media": "i24NEWS",
+     "url": "https://www.i24news.tv/fr/actu/international/ameriques/artc-des-responsables-militaires-americains-alertent-sur-le-cout-d-une-campagne-prolongee-contre-l-iran"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-30T21:40-04:00",
+   "horodate": "2026-08-31T05:05-04:00",
    "permalien": "les-etats-unis-frappent-l-ile-iranienne-de-larak-premieres-f-490c67",
    "_fichier": "revue-report-2026-08-31.json",
    "_volet": "report",
@@ -1534,7 +2333,7 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "Chypre",
-   "medias": "TV5Monde, Québecor, AFP",
+   "medias": "TV5Monde, Québecor, AFP, France 24, RFI, Radio-Canada",
    "url": "https://information.tv5monde.com/international/au-moins-sept-morts-dans-un-naufrage-au-large-de-chypre-du-nord-2835504",
    "resume": "Au moins huit personnes ont péri et dix-sept étaient portées disparues dimanche soir après le naufrage d'un ferry bondé au large de la République turque de Chypre du Nord, entité autoproclamée que seule la Turquie reconnaît. Le navire s'est couché sur le flanc avant de sombrer complètement, et son capitaine a été placé en garde à vue.",
    "sources": [
@@ -1545,13 +2344,27 @@
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/08/30/au-moins-six-morts-dans-un-naufrage-au-large-de-chypre-du-nord"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260830-au-moins-sept-morts-dans-un-naufrage-au-large-de-chypre-du-nord"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260830-plusieurs-morts-lors-du-naufrage-d-un-ferry-au-large-des-c%C3%B4tes-de-chypre"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278939/naufrage-chypre-nord-morts-large-"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Coast_with_Dome_Hotel%2C_Kyrenia%2C_Northern_Cyprus_03.jpg/1280px-Coast_with_Dome_Hotel%2C_Kyrenia%2C_Northern_Cyprus_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La côte de Kyrénia, dans le nord de Chypre, au large de laquelle le ferry a sombré.",
    "horodate": "2026-08-30T21:40-04:00",
    "permalien": "naufrage-d-un-ferry-au-large-de-chypre-du-nord-au-moins-huit-ce2b39",
    "_fichier": "revue-report-2026-08-31.json",
+   "photo_auteur": "Michal Klajban",
+   "photo_licence": "CC BY-SA 4.0",
    "_volet": "report",
    "_slug": "naufrage-d-un-ferry-au-large-de-chypre-du-nord-au-moins-huit-ce2b39"
   },
