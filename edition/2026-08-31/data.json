@@ -1,7 +1,8 @@
 {
  "date": "2026-08-31",
  "volets": [
-  "report"
+  "report",
+  "savoirs"
  ],
  "articles": [
   {
@@ -433,7 +434,7 @@
    "cahier": "savoirs",
    "rubrique": "espace",
    "territoire": "États-Unis",
-   "medias": "Radio-Canada, Québecor, The Verge, TV5Monde",
+   "medias": "Radio-Canada, Québecor, The Verge, TV5Monde, NASA, France Info, Sciences et Avenir, Ciel et Espace, Nature",
    "url": "https://ici.radio-canada.ca/nouvelle/2279011/nasa-lancement-telescope-roman-espace",
    "resume": "Le télescope de la NASA s'est envolé dimanche matin de Cap Canaveral, en Floride, entamant un trajet de trois mois et de quelque 1,6 million de kilomètres vers le point de Lagrange L2, au-delà de la Lune. Développé pendant plus d'une décennie pour un coût dépassant les 4 milliards de dollars, il doit cartographier le cosmos, étudier la matière et l'énergie sombres et détecter de nouvelles exoplanètes.",
    "sources": [
@@ -452,6 +453,26 @@
     {
      "media": "TV5Monde",
      "url": "https://information.tv5monde.com/international/lancement-de-roman-le-telescope-de-la-nasa-qui-realisera-un-nouvel-atlas-de-lunivers-2835440"
+    },
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+    },
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/sciences/espace/nous-sommes-peut-etre-le-jour-d-apres-einstein-le-telescope-spatial-nancy-grace-roman-va-tenter-de-percer-le-mystere-de-l-energie-sombre_8168552.html"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/espace/exploration/telescope-roman-la-nasa-lance-son-nouvel-observatoire-pour-etudier-l-energie-noire-et-les-exoplanetes_194489"
+    },
+    {
+     "media": "Ciel et Espace",
+     "url": "https://www.cieletespace.fr/article/comment-la-france-contribue-a-la-mission-du-telescope-spatial-nancy-grace-roman-lance-ce-30-aout"
+    },
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02727-7"
     }
    ],
    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Nancy_Grace_Roman_2015.jpg",
@@ -469,13 +490,17 @@
    "cahier": "savoirs",
    "rubrique": "technologies",
    "territoire": "International",
-   "medias": "The Verge",
+   "medias": "The Verge, Clubic",
    "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
    "resume": "Plus de 12 téraoctets de données contenant les versions de développement de tous les jeux téléversés sur la plateforme Steam entre 2003 et 2013 ont fuité, un volume tel que l'inventaire n'en est pas encore fait. On y a déjà exhumé des éléments du Half-Life 2: Episode 3 abandonné, du contenu retiré de Portal 2 et une version du jeu F-Stop, ainsi que d'anciennes moutures de Call of Duty, Resident Evil, Mirror's Edge, Batman: Arkham Asylum et Dragon Age: Origins.",
    "sources": [
     {
      "media": "The Verge",
      "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627346-une-fuite-de-12-to-laisse-echapper-des-annees-de-jeux-valve-oublies-et-des-secrets-de-half-life.html"
     }
    ],
    "photo": "",
@@ -491,10 +516,18 @@
    "cahier": "savoirs",
    "rubrique": "sciences",
    "territoire": "International",
-   "medias": "Québecor",
-   "url": "https://www.journaldemontreal.com/2026/08/29/el-nino-record--les-annees-2026-et-2027-pourraient-etre-les-plus-chaudes-de-lhistoire",
-   "resume": "Sous l'effet de l'El Niño en formation, 2026 pourrait s'imposer comme l'année la plus chaude jamais mesurée sur la planète, et 2027 plus probablement encore, avance Patrick Grenier, professeur au Département des sciences de l'atmosphère de l'Université du Québec à Montréal. « Les paris sont ouverts cette année », nuance-t-il, le phénomène n'étant pas encore pleinement installé.",
+   "medias": "Science, Nature, Québecor",
+   "url": "https://doi.org/10.1126/science.ady2660",
+   "resume": "Une reconstitution sur 1000 ans des températures du Pacifique à partir de coraux des Galápagos, publiée dans Science par la paléoclimatologue Julia Cole (Université du Michigan) et relayée par Nature, confirme que les épisodes forts d'El Niño sont devenus plus fréquents depuis l'ère industrielle, un signal attribué au réchauffement climatique d'origine humaine.\n\nL'épisode en cours, qui s'annonce déjà exceptionnel, pourrait faire de 2026 et 2027 les années les plus chaudes jamais enregistrées, selon Patrick Grenier, professeur au Département des sciences de l'atmosphère de l'UQAM.",
    "sources": [
+    {
+     "media": "Science",
+     "url": "https://doi.org/10.1126/science.ady2660"
+    },
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02717-9"
+    },
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/08/29/el-nino-record--les-annees-2026-et-2027-pourraient-etre-les-plus-chaudes-de-lhistoire"
@@ -502,7 +535,7 @@
    ],
    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/El_Ni%C3%B1o_Is_Underway_%281228049%29.jpg",
    "legende": "Les anomalies de température de surface du Pacifique équatorial pendant un épisode El Niño, vues par satellite.",
-   "horodate": "2026-08-30T15:30-04:00",
+   "horodate": "2026-08-31T02:36-04:00",
    "photo_auteur": "NASA Earth Observatory/Lauren Dauphin",
    "photo_licence": "Public domain",
    "permalien": "el-nino-pourrait-faire-de-2026-et-2027-les-annees-les-plus-c-409020",
@@ -515,13 +548,17 @@
    "cahier": "savoirs",
    "rubrique": "cinema",
    "territoire": "France",
-   "medias": "Québecor",
+   "medias": "Québecor, Géo",
    "url": "https://www.journaldemontreal.com/2026/08/29/rene-goscinny-fete-ses-100-ans-et-ses-heros-de-bd-restent-plus-populaires-que-jamais",
    "resume": "Le scénariste d'Astérix, d'Iznogoud et du Petit Nicolas, dont on marque le centenaire de la naissance, compte parmi les auteurs français les plus lus au monde : son œuvre s'est écoulée à quelque 500 millions d'exemplaires, selon les estimations. Revenu en France après des années passées à l'étranger, il avait donné vie à Astérix avec Albert Uderzo et formé avec Jean-Jacques Sempé le tandem du Petit Nicolas.",
    "sources": [
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/08/29/rene-goscinny-fete-ses-100-ans-et-ses-heros-de-bd-restent-plus-populaires-que-jamais"
+    },
+    {
+     "media": "Géo",
+     "url": "https://www.geo.fr/histoire/a-paris-la-rencontre-entre-goscinny-et-uderzo-qui-va-changer-la-bd-233330"
     }
    ],
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Goscinny_Exhibition_at_the_Jewish_Museum_London_%2841301216264%29.jpg/1280px-Goscinny_Exhibition_at_the_Jewish_Museum_London_%2841301216264%29.jpg",
@@ -1789,6 +1826,888 @@
    "_fichier": "revue-report-2026-08-31.json",
    "_volet": "report",
    "_slug": "max-scherzer-blanchit-les-mariners-les-blue-jays-l-emportent-3cab16"
+  },
+  {
+   "titre": "Sophie Adenot effectuera une troisième sortie dans l'espace le 1er septembre",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "International",
+   "medias": "France Info, ESA, NASA",
+   "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/sophie-adenot-effectuera-une-troisieme-sortie-dans-l-espace-le-1er-septembre-prochain_8163812.html",
+   "resume": "L'astronaute française Sophie Adenot a réussi mardi sa deuxième sortie dans l'espace, aux côtés de l'Américain Anil Menon, pour remplacer une antenne défectueuse de la Station spatiale internationale.\n\nLa NASA a annoncé qu'elle en effectuera une troisième le 1er septembre avec Jessica Meir, cette fois pour installer un réflecteur facilitant l'amarrage des vaisseaux et entretenir plusieurs équipements de la station.",
+   "sources": [
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/sophie-adenot-effectuera-une-troisieme-sortie-dans-l-espace-le-1er-septembre-prochain_8163812.html"
+    },
+    {
+     "media": "ESA",
+     "url": "https://www.esa.int/Space_in_Member_States/France/Deuxieme_sortie_extravehiculaire_reussie_pour_Sophie_Adenot"
+    },
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/La_Lcl_Sophie_Adenot_d%C3%A9cor%C3%A9e_de_l%27ONM.jpg/1280px-La_Lcl_Sophie_Adenot_d%C3%A9cor%C3%A9e_de_l%27ONM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'astronaute française Sophie Adenot, décorée de l'Ordre national du Mérite.",
+   "horodate": "2026-08-31T02:31-04:00",
+   "photo_auteur": "Marsouinduteich",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "sophie-adenot-effectuera-une-troisieme-sortie-dans-l-espace-5d0bf2",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "sophie-adenot-effectuera-une-troisieme-sortie-dans-l-espace-5d0bf2"
+  },
+  {
+   "titre": "Une éclipse lunaire partielle visible du Québec dans la nuit de jeudi à vendredi",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "Québec",
+   "medias": "Futura, La Presse, France Info",
+   "url": "https://www.futura-sciences.com/sciences/actualites/eclipse-lune-elle-presque-disparu-ciel-voici-images-plus-fascinantes-eclipse-lune-28-aout-137384/",
+   "resume": "Une éclipse lunaire partielle, visible notamment du Québec, s'est produite dans la nuit du 27 au 28 août, la Lune plongeant presque entièrement dans l'ombre de la Terre.\n\nLe phénomène a offert aux astronomes amateurs une série d'images de l'astre presque disparu dans le ciel nocturne.",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sciences/actualites/eclipse-lune-elle-presque-disparu-ciel-voici-images-plus-fascinantes-eclipse-lune-28-aout-137384/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/sciences/2026-08-27/visible-au-quebec/une-eclipse-lunaire-presque-complete-dans-la-nuit-de-jeudi-a-vendredi.php"
+    },
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/sciences/astronomie/tout-ce-qu-il-faut-savoir-pour-observer-l-eclipse-partielle-de-lune-dans-la-nuit-de-jeudi-a-vendredi_8159522.html"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "une-eclipse-lunaire-partielle-visible-du-quebec-dans-la-nuit-c32581",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "une-eclipse-lunaire-partielle-visible-du-quebec-dans-la-nuit-c32581"
+  },
+  {
+   "titre": "Le rover Perseverance capte le transit de Phobos et une occultation inédite de la Terre",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "International",
+   "medias": "NASA, Futura",
+   "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/",
+   "resume": "Le rover Perseverance de la NASA a capté depuis Mars, le 12 août, le transit de Phobos devant le Soleil — le jour même où les Européens observaient une éclipse solaire totale sur Terre — ainsi que l'occultation de la Terre par cette petite lune martienne.\n\nCes clichés offrent un point de vue inédit sur notre planète, réduite à un point de lumière disparaissant derrière le satellite irrégulier de Mars.",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/"
+    },
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sciences/actualites/mars-rover-nasa-vu-terre-disparaitre-ciel-mars-premiere-histoire-137299/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "le-rover-perseverance-capte-le-transit-de-phobos-et-une-occu-265418",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "le-rover-perseverance-capte-le-transit-de-phobos-et-une-occu-265418"
+  },
+  {
+   "titre": "SpaceX veut construire une base spatiale de plus de 100 milliards $ US en Louisiane",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada, Futura, Sciences et Avenir",
+   "url": "https://ici.radio-canada.ca/nouvelle/2277850/spacex-base-spatiale-construction-louisiane",
+   "resume": "SpaceX a annoncé vouloir construire en Louisiane une base spatiale de plus de 100 milliards de dollars américains, dont la construction doit débuter en 2027.\n\nL'entreprise d'Elon Musk vise une cadence de plusieurs milliers de lancements par an et de nouveaux pas de tir, alors qu'elle cherche depuis plusieurs années d'autres sites de lancement possibles.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2277850/spacex-base-spatiale-construction-louisiane"
+    },
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sciences/actualites/spacex-milliers-lancements-an-elon-musk-devoile-base-spatiale-dimensions-presque-irreelles-137336/"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/espace/exploration/spacex-imagine-une-base-spatiale-geante-capable-de-lancer-30-starship-par-jour_194444"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "spacex-veut-construire-une-base-spatiale-de-plus-de-100-mill-81cd66",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "spacex-veut-construire-une-base-spatiale-de-plus-de-100-mill-81cd66"
+  },
+  {
+   "titre": "La NASA inaugure une nouvelle antenne à son complexe de Goldstone",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "NASA",
+   "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+   "resume": "La NASA a inauguré une nouvelle antenne de 34 mètres à son complexe de Goldstone, en Californie, qui vient renforcer le Deep Space Network, le réseau qui assure la communication avec les sondes lointaines.\n\nCette antenne de nouvelle génération ajoute de la capacité à un réseau vieillissant dont dépendent toutes les missions interplanétaires en cours.",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/NASA_Deep_Space_Network%E2%80%99s_New_Goldstone_Antenna_Goes_Online_%28PIA26778%29.jpg/1280px-NASA_Deep_Space_Network%E2%80%99s_New_Goldstone_Antenna_Goes_Online_%28PIA26778%29.jpg",
+   "legende": "La nouvelle antenne du Deep Space Network au complexe de Goldstone, en Californie.",
+   "horodate": "2026-08-31T02:31-04:00",
+   "photo_auteur": "NASA/JPL-Caltech",
+   "photo_licence": "Public domain",
+   "permalien": "la-nasa-inaugure-une-nouvelle-antenne-a-son-complexe-de-gold-687e9a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "la-nasa-inaugure-une-nouvelle-antenne-a-son-complexe-de-gold-687e9a"
+  },
+  {
+   "titre": "Alzheimer : des ondes cérébrales de l'éveil comme biomarqueur précoce",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "France",
+   "medias": "Inserm, Futura",
+   "url": "https://www.inserm.fr/actualite/alzheimer-des-ondes-cerebrales-comme-biomarqueur-precoce-de-la-maladie/",
+   "resume": "Une équipe Inserm de l'Institut du cerveau, à Paris, a établi un lien entre l'amplitude d'ondes cérébrales lentes mesurées pendant l'éveil et l'accumulation de dépôts amyloïdes associés à la maladie d'Alzheimer, chez des personnes de 70 à 85 ans suivies pendant deux ans dans la cohorte INSIGHT-preAD.\n\nLes chercheurs, qui publient leurs résultats dans Alzheimer's & Dementia, précisent que la piste doit encore être validée avant de servir au dépistage : rien n'indique pour l'instant si ces ondes signalent la progression de la maladie ou un mécanisme de protection.",
+   "sources": [
+    {
+     "media": "Inserm",
+     "url": "https://www.inserm.fr/actualite/alzheimer-des-ondes-cerebrales-comme-biomarqueur-precoce-de-la-maladie/"
+    },
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ces-ondes-cerebrales-pourraient-trahir-maladie-bien-avant-premiers-symptomes-137372/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "alzheimer-des-ondes-cerebrales-de-l-eveil-comme-biomarqueur-d30bc7",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "alzheimer-des-ondes-cerebrales-de-l-eveil-comme-biomarqueur-d30bc7"
+  },
+  {
+   "titre": "Le satellite météo européen MTG-I2 lancé pour compléter la constellation MTG",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "International",
+   "medias": "ESA, France Info",
+   "url": "https://www.esa.int/Newsroom/Press_Releases/MTG-I2_vient_completer_le_plus_recent_trio_de_satellites_meteorologiques_europeens",
+   "resume": "L'Agence spatiale européenne a lancé jeudi depuis la Guyane française, à bord d'une fusée Ariane 6, le satellite météorologique MTG-I2, qui complète une constellation de trois satellites au-dessus de l'Europe et de l'Afrique du Nord.\n\nÉquipé d'un imageur à balayage rapide et d'un détecteur d'éclairs, il fournira de nouvelles observations toutes les 2,5 minutes pour améliorer les prévisions météo et le suivi des feux de forêt et de la pollution atmosphérique.",
+   "sources": [
+    {
+     "media": "ESA",
+     "url": "https://www.esa.int/Newsroom/Press_Releases/MTG-I2_vient_completer_le_plus_recent_trio_de_satellites_meteorologiques_europeens"
+    },
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/environnement/meteo/le-nouveau-satellite-meteo-europeen_8164952.html"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MTG-I2_Launches_From_French_Guiana_%28CIRA_2026-08-27%29.png/1280px-MTG-I2_Launches_From_French_Guiana_%28CIRA_2026-08-27%29.png",
+   "legende": "Le lancement du satellite météorologique européen MTG-I2 depuis la Guyane française, vu par imagerie satellite.",
+   "horodate": "2026-08-31T02:31-04:00",
+   "photo_auteur": "GOES imagery: CSU/CIRA & NOAA",
+   "photo_licence": "Public domain",
+   "permalien": "le-satellite-meteo-europeen-mtg-i2-lance-pour-completer-la-c-79701d",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "le-satellite-meteo-europeen-mtg-i2-lance-pour-completer-la-c-79701d"
+  },
+  {
+   "titre": "Après la tornade de Pomas, ce que la science sait (et ignore) sur le lien avec le climat",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "France",
+   "medias": "The Conversation",
+   "url": "https://theconversation.com/les-tornades-sont-elles-plus-frequentes-quavant-peut-on-les-prevoir-290474",
+   "resume": "Après la tornade qui a blessé plusieurs personnes et touché des centaines d'habitations à Pomas, dans l'Aude, le 24 août, le chercheur Flavio Pons (Laboratoire des sciences du climat et de l'environnement) explique que le réchauffement record de la mer Méditerranée cet été accroît l'énergie disponible pour les orages violents.\n\nIl précise toutefois qu'il reste impossible d'affirmer que le changement climatique augmente le nombre de tornades en Europe, faute d'un réseau d'observation assez dense pour documenter ce phénomène rare.",
+   "sources": [
+    {
+     "media": "The Conversation",
+     "url": "https://theconversation.com/les-tornades-sont-elles-plus-frequentes-quavant-peut-on-les-prevoir-290474"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "apres-la-tornade-de-pomas-ce-que-la-science-sait-et-ignore-s-f57698",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "apres-la-tornade-de-pomas-ce-que-la-science-sait-et-ignore-s-f57698"
+  },
+  {
+   "titre": "Comment des amateurs avaient révélé les paysages de Titan avant les scientifiques",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "International",
+   "medias": "Pour la Science",
+   "url": "https://www.pourlascience.fr/sr/retour-sur-image/comment-des-amateurs-ont-revele-les-paysages-de-titan-avant-les-scientifiques-29502.php",
+   "resume": "Lors de l'atterrissage de la sonde européenne Huygens sur Titan, la plus grande lune de Saturne, en 2005, un réseau mondial d'amateurs d'imagerie spatiale avait reconstitué, à partir des données brutes publiées par l'ESA, des paysages de Titan en couleur et en trois dimensions — en moins de huit heures, avant même les résultats officiels de l'agence.\n\nLes responsables de la mission Cassini-Huygens s'étaient dits impressionnés par la qualité de ces images, au point de chercher à recruter certains de leurs auteurs.",
+   "sources": [
+    {
+     "media": "Pour la Science",
+     "url": "https://www.pourlascience.fr/sr/retour-sur-image/comment-des-amateurs-ont-revele-les-paysages-de-titan-avant-les-scientifiques-29502.php"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "comment-des-amateurs-avaient-revele-les-paysages-de-titan-av-b23bb6",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "comment-des-amateurs-avaient-revele-les-paysages-de-titan-av-b23bb6"
+  },
+  {
+   "titre": "Peptides injectables : le Détecteur de rumeurs rappelle l'absence de preuves solides",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "International",
+   "medias": "Agence Science-Presse",
+   "url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/detecteur-rumeurs/2026/08/26/peptides-injectables-faut-savoir",
+   "resume": "Le Détecteur de rumeurs de l'Agence Science-Presse constate que l'efficacité et la sécurité de la plupart des peptides injectables vendus en ligne comme produits « anti-âge » ou pour la performance sportive — dont le populaire BPC-157 — ne reposent sur aucun essai clinique solide chez l'humain, contrairement à des peptides approuvés comme l'insuline ou les médicaments à base de GLP-1.\n\nSanté Canada, qui a mis en garde en avril contre ces produits non homologués, recense des risques de déséquilibres hormonaux, d'atteintes au foie ou aux reins et de croissance tumorale.",
+   "sources": [
+    {
+     "media": "Agence Science-Presse",
+     "url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/detecteur-rumeurs/2026/08/26/peptides-injectables-faut-savoir"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "peptides-injectables-le-detecteur-de-rumeurs-rappelle-l-abse-452f5b",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "peptides-injectables-le-detecteur-de-rumeurs-rappelle-l-abse-452f5b"
+  },
+  {
+   "titre": "Un robot humanoïde chinois bat les records du 100 m et du 400 m d'Usain Bolt",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Chine",
+   "medias": "La Presse (AFP), Futura, France Info, Sciences et Avenir, The Verge, Nature",
+   "url": "https://www.lapresse.ca/actualites/sciences/2026-08-24/world-robot-games/des-humanoides-battent-des-records-sportifs-humains.php",
+   "resume": "L'humanoïde chinois Tiangong Ultra, de la marque Honor, a couvert le 100 mètres en 9,39 secondes et le 400 mètres en 38,15 secondes lors des World Robot Games disputés le week-end dernier sur la patinoire olympique de Pékin, battant les records humains d'Usain Bolt, selon l'Agence France-Presse.\n\nDes dizaines d'humanoïdes ont aussi disputé des épreuves de boxe, de football et d'arts martiaux avec des résultats inégaux, une compétition qu'une spectatrice a résumée comme une simple course de vitesse plutôt qu'un test d'intelligence.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/sciences/2026-08-24/world-robot-games/des-humanoides-battent-des-records-sportifs-humains.php"
+    },
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/tech/actualites/robot-humanoide-ils-courent-boxent-sautent-ecrasent-meilleur-jeux-mondiaux-robots-137267/"
+    },
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/monde/chine/la-chine-montre-ses-avancees-technologiques-lors-de-championnats-du-monde-pour-robots-humanoides_8160380.html"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race"
+    },
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02713-z"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "un-robot-humanoide-chinois-bat-les-records-du-100-m-et-du-40-795fb0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "un-robot-humanoide-chinois-bat-les-records-du-100-m-et-du-40-795fb0"
+  },
+  {
+   "titre": "Nvidia rachèterait Hugging Face pour 12,9 milliards $, selon la presse",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "ZDNet, Korben, Clubic, MacGeneration, Mac4Ever",
+   "url": "https://www.zdnet.fr/actualites/nvidia-rachete-hugging-face-pour-129-milliards-de-dollars-un-seisme-pour-lecosysteme-de-lia-open-source-500737.htm",
+   "resume": "Selon des informations de The Information relayées mercredi, Nvidia aurait accepté de payer 12,9 milliards de dollars pour racheter Hugging Face, la plateforme d'hébergement de modèles d'intelligence artificielle ouverte fondée à New York par les Français Clément Delangue, Julien Chaumond et Thomas Wolf — ni l'une ni l'autre entreprise ne l'a confirmé, et Business Insider rapporte que rien n'est signé.\n\nCette valorisation représenterait un quasi-triplement en trois ans pour la jeune pousse, qui avait décliné en janvier une offre d'investissement de Nvidia sur la base de 7 milliards de dollars.",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/nvidia-rachete-hugging-face-pour-129-milliards-de-dollars-un-seisme-pour-lecosysteme-de-lia-open-source-500737.htm"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-626947-milliards-de-dollars-nvidia-s-offrirait-hugging-face-vitrine-de-l-ia-ouverte.html"
+    },
+    {
+     "media": "Korben",
+     "url": "https://korben.info/nvidia-soffrirait-hugging-face-pour-129-milliards.html"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/intelligence-artificielle/2026/08/nvidia-veut-racheter-hugging-face-pour-129-milliards-de-dollars"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "nvidia-racheterait-hugging-face-pour-12-9-milliards-selon-la-d09ab7",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "nvidia-racheterait-hugging-face-pour-12-9-milliards-selon-la-d09ab7"
+  },
+  {
+   "titre": "Meta conclut avec 47 États américains une entente pouvant atteindre 17,1 milliards $",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada, The Verge, Clubic, MacGeneration, Nature",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10745585/dependance-aux-reseaux-sociaux-meta-devra-verser-plus-16-milliards-$us",
+   "resume": "Meta a conclu avec 47 États américains une entente pouvant atteindre 17,1 milliards de dollars US sur la sécurité des adolescents en ligne, dont au moins 12 milliards garantis, l'entreprise s'engageant aussi à faire pression sur Snap, TikTok et YouTube pour qu'ils adoptent des mesures de protection similaires.\n\nNi Snap, ni TikTok, ni YouTube ne s'étaient prononcés publiquement sur l'accord au moment de sa conclusion.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10745585/dependance-aux-reseaux-sociaux-meta-devra-verser-plus-16-milliards-$us"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-626929-c-est-historique-meta-se-resout-a-payer-18-milliards-de-dollars-pour-avoir-rendu-les-ados-accros-a-instagram.html"
+    },
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02733-9"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "meta-conclut-avec-47-etats-americains-une-entente-pouvant-at-42d243",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "meta-conclut-avec-47-etats-americains-une-entente-pouvant-at-42d243"
+  },
+  {
+   "titre": "Apple dévoile les puces M5 Max et M5 Ultra du nouveau Mac Studio",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "MacGeneration",
+   "url": "https://www.macg.co/mac/2026/08/mac-studio-m5-quelles-differences-face-aux-m4-max-et-m3-ultra-310705",
+   "resume": "Apple a mis à jour son Mac Studio avec deux nouvelles puces, la M5 Max et la M5 Ultra, cette dernière portant la bande passante mémoire à 1,2 To/s et le GPU jusqu'à 80 cœurs, un lancement retardé de plusieurs mois par la pénurie mondiale de mémoire.\n\nLe Mac Studio M5 Ultra démarre à 6599 euros et devient, depuis l'abandon du Mac Pro, le sommet du catalogue Mac.",
+   "sources": [
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/mac/2026/08/mac-studio-m5-quelles-differences-face-aux-m4-max-et-m3-ultra-310705"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mac_Studio_%282022%29_front.jpg/1280px-Mac_Studio_%282022%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le Mac Studio, dont le boîtier n'a pas changé depuis 2022.",
+   "horodate": "2026-08-31T02:31-04:00",
+   "photo_auteur": "Yasu (talk)",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "apple-devoile-les-puces-m5-max-et-m5-ultra-du-nouveau-mac-st-fd17e3",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "apple-devoile-les-puces-m5-max-et-m5-ultra-du-nouveau-mac-st-fd17e3"
+  },
+  {
+   "titre": "Waymo lance ses premiers robotaxis en Europe, à Munich",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Allemagne",
+   "medias": "Presse-citron, MacGeneration, ZDNet, Mac4Ever",
+   "url": "https://www.presse-citron.net/les-taxis-autonomes-sont-aux-portes-de-la-france-waymo-arrive-en-allemagne/",
+   "resume": "Waymo a lancé ses premiers robotaxis en Europe à Munich, en Allemagne, sa première implantation dans l'Union européenne.\n\nL'entreprise, filiale d'Alphabet, n'a pas précisé quand elle pourrait étendre le service à la France, qui n'en fait pas encore partie.",
+   "sources": [
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/les-taxis-autonomes-sont-aux-portes-de-la-france-waymo-arrive-en-allemagne/"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/mobilites/2026/08/robotaxi-waymo-prepare-son-entree-munich-sa-premiere-ville-dans-lunion-europeenne-310611"
+    },
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/waymo-lance-ses-robotaxis-en-europe-avec-munich-comme-tete-de-pont-500600.htm"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "waymo-lance-ses-premiers-robotaxis-en-europe-a-munich-0bb381",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "waymo-lance-ses-premiers-robotaxis-en-europe-a-munich-0bb381"
+  },
+  {
+   "titre": "Fuite massive de données chez Zéro Logement Vacant, un service de l'État français",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "Korben, Clubic, MacGeneration",
+   "url": "https://korben.info/la-plateforme-zero-logement-vacant-a-ete-piratee.html",
+   "resume": "Un pirate se faisant appeler ZeroBytes affirme avoir dérobé près de 149 millions de lignes de données de Zéro Logement Vacant, un service de l'État français, touchant environ 48 millions de personnes avec identités, dates de naissance et adresses issues du cadastre et de la DGFiP.\n\nLe site Cyberattaque.org, qui a examiné des échantillons, y a aussi trouvé des courriels, des numéros de téléphone et des comptes d'agents publics visiblement encore actifs, ce qui expose les propriétaires concernés à un risque accru d'hameçonnage ciblé.",
+   "sources": [
+    {
+     "media": "Korben",
+     "url": "https://korben.info/la-plateforme-zero-logement-vacant-a-ete-piratee.html"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627343-zero-logement-vacant-pirate-148-9-millions-de-lignes-de-donnees-revendiquees-par-zerobytes.html"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/ailleurs/2026/08/prend-les-memes-et-recommence-zerobytes-annonce-avoir-pirate-le-service-zero-logement-vacant-310719"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "fuite-massive-de-donnees-chez-zero-logement-vacant-un-servic-b1b1d5",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "fuite-massive-de-donnees-chez-zero-logement-vacant-un-servic-b1b1d5"
+  },
+  {
+   "titre": "Une juge fédérale juge illégale la mise sur liste noire d'Anthropic par le Pentagone",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Québecor, Clubic, The Verge",
+   "url": "https://www.tvanouvelles.ca/2026/08/27/un-tribunal-juge-illegal-le-bannissement-danthropic-decide-par-ladministration-trump",
+   "resume": "Une juge fédérale de Californie, Rita Lin, a jugé illégale la mise sur liste noire d'Anthropic par le Pentagone, qualifiant la décision du secrétaire à la Défense Pete Hegseth de représailles inconstitutionnelles contraires au premier amendement.\n\nLe litige remonte au refus d'Anthropic d'autoriser l'usage de son IA pour la surveillance de masse ou des armes autonomes létales, après que l'administration Trump eut voulu renégocier les contrats militaires des fabricants de modèles d'IA.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/27/un-tribunal-juge-illegal-le-bannissement-danthropic-decide-par-ladministration-trump"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627283-le-blacklistage-d-anthropic-par-le-pentagone-annule-par-un-juge-americain.html"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "une-juge-federale-juge-illegale-la-mise-sur-liste-noire-d-an-ae7016",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "une-juge-federale-juge-illegale-la-mise-sur-liste-noire-d-an-ae7016"
+  },
+  {
+   "titre": "Apple TV+ grimpe à 14,99 $ US par mois, la France épargnée pour l'instant",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Mac4Ever, The Verge, iGen",
+   "url": "https://www.mac4ever.com/tv/197756-apple-tv-grimpe-a-15-dollars-par-mois-aux-etats-unis-la-france-epargnee-pour-l-instant",
+   "resume": "Apple a fait passer l'abonnement mensuel à Apple TV+ à 14,99 dollars américains, une quatrième hausse de prix pour le service depuis son lancement.\n\nLa France n'est pour l'instant pas touchée par cette augmentation, qui ne s'applique qu'aux États-Unis.",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/tv/197756-apple-tv-grimpe-a-15-dollars-par-mois-aux-etats-unis-la-france-epargnee-pour-l-instant"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike"
+    },
+    {
+     "media": "iGen",
+     "url": "https://www.igen.fr/services/2026/08/apple-tv-passe-15-par-mois-aux-etats-unis-157705"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "apple-tv-grimpe-a-14-99-us-par-mois-la-france-epargnee-pour-6ae027",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "apple-tv-grimpe-a-14-99-us-par-mois-la-france-epargnee-pour-6ae027"
+  },
+  {
+   "titre": "Apple Maps affiche désormais de la publicité aux États-Unis",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "The Verge, iGen, Mac4Ever",
+   "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
+   "resume": "Apple a commencé à afficher de la publicité dans son application Plans, sous forme de résultats sponsorisés lors de recherches de commerces à proximité.\n\nLa nouveauté a d'abord été repérée aux États-Unis, sans qu'une date d'extension à d'autres marchés soit précisée.",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "apple-maps-affiche-desormais-de-la-publicite-aux-etats-unis-d5068f",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "apple-maps-affiche-desormais-de-la-publicite-aux-etats-unis-d5068f"
+  },
+  {
+   "titre": "Pénurie de RAM : Google va pénaliser les applications Android trop gourmandes",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "Mac4Ever, Clubic, iGen, The Verge",
+   "url": "https://www.mac4ever.com/iphone/197757-penurie-de-ram-google-va-punir-les-applications-android-trop-gourmandes-en-memoire",
+   "resume": "Face à la pénurie mondiale de mémoire vive, Google a annoncé qu'il pénalisera dans le Play Store les applications Android jugées trop gourmandes en RAM, une politique surnommée « RAMpocalypse » par la presse spécialisée.\n\nLa mesure vise à inciter les développeurs à optimiser leurs applications, alors que la demande en mémoire, tirée notamment par l'intelligence artificielle, fait grimper le prix des composants.",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/iphone/197757-penurie-de-ram-google-va-punir-les-applications-android-trop-gourmandes-en-memoire"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627139-android-google-veut-lutter-contre-les-apps-un-peu-trop-gourmandes-en-ram.html"
+    },
+    {
+     "media": "iGen",
+     "url": "https://www.igen.fr/android/2026/08/rampocalypse-google-siffle-la-fin-de-la-recreation-et-annonce-des-sanctions-pour-les-apps-trop-gourmandes-en-memoire-157695"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "penurie-de-ram-google-va-penaliser-les-applications-android-b31f83",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "penurie-de-ram-google-va-penaliser-les-applications-android-b31f83"
+  },
+  {
+   "titre": "GTA VI : Rockstar dévoile un extrait de 27 minutes, sortie confirmée le 19 novembre",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "The Verge, MacGeneration, Mac4Ever, Clubic, Radio-Canada, Québecor, Fnac",
+   "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+   "resume": "Rockstar a diffusé un extrait de près de 27 minutes de Grand Theft Auto VI, d'abord en exclusivité sur Netflix puis sur YouTube, présentant l'atmosphère du jeu et ses deux protagonistes, Jason Duval et Lucia Caminos, plutôt que ses mécaniques de jeu.\n\nLe studio, qui avait dû réagir la semaine précédente à une déferlante de fuites en la qualifiant de situation « déchirante », confirme une sortie le 19 novembre à partir de 79,99 $ US.",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278288/grand-theft-auto-vi-apercu-playstation-xbox-netflix"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.pesesurstart.com/2026/08/27/gta-6--voyez-la-nouvelle-bande-annonce-26-minutes"
+    },
+    {
+     "media": "Fnac",
+     "url": "https://leclaireur.fnac.com/article/cp72021-gta-vi-tous-les-details-de-la-presentation-netflix-et-des-premieres-previews/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "gta-vi-rockstar-devoile-un-extrait-de-27-minutes-sortie-conf-1dd3ba",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "gta-vi-rockstar-devoile-un-extrait-de-27-minutes-sortie-conf-1dd3ba"
+  },
+  {
+   "titre": "L'artiste japonaise Yayoi Kusama, figure de l'avant-garde, est morte à 97 ans",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Japon",
+   "medias": "Québecor, Slate, Radio-Canada, La Presse",
+   "url": "https://www.journaldemontreal.com/2026/08/27/lartiste-avant-gardiste-japonaise-yayoi-kusama-est-morte-a-97-ans",
+   "resume": "L'artiste japonaise Yayoi Kusama, figure de l'avant-garde connue pour ses motifs de pois et ses installations immersives, est morte à 97 ans.\n\nInstallée à New York dans les années 1960 avant de retourner au Japon, elle avait fait des salles immersives couvertes de citrouilles à pois sa signature reconnue dans le monde entier.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/27/lartiste-avant-gardiste-japonaise-yayoi-kusama-est-morte-a-97-ans"
+    },
+    {
+     "media": "Slate",
+     "url": "https://www.slate.fr/culture/yayoi-kusama-reine-pois-japon-art-deces"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2277993/mort-artiste-japonaise-yayoi-kusama"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/arts-visuels/2026-08-26/l-artiste-avant-gardiste-japonaise-yayoi-kusama-n-est-plus.php"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kusama_Yayoi_The_Spirits_of_the_Pumpkins_Descended_into_the_Heavens.jpg/1280px-Kusama_Yayoi_The_Spirits_of_the_Pumpkins_Descended_into_the_Heavens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Une installation de citrouilles à pois de Yayoi Kusama, sa signature artistique.",
+   "horodate": "2026-08-31T02:31-04:00",
+   "photo_auteur": "Ncysea",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "l-artiste-japonaise-yayoi-kusama-figure-de-l-avant-garde-est-10b504",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "l-artiste-japonaise-yayoi-kusama-figure-de-l-avant-garde-est-10b504"
+  },
+  {
+   "titre": "Le producteur René Malo, bâtisseur du cinéma québécois, est mort à 84 ans",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Québec",
+   "medias": "Québecor, Le Devoir, Radio-Canada, La Presse",
+   "url": "https://www.journaldemontreal.com/2026/08/24/le-declin-de-lempire-americain-le-producteur-rene-malo-seteint-a-84-ans",
+   "resume": "Le producteur et distributeur québécois René Malo, qui a notamment produit Le Déclin de l'empire américain de Denys Arcand, est mort à 84 ans.\n\nIl avait fondé sa propre maison de distribution et contribué pendant plusieurs décennies à faire rayonner le cinéma québécois.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/24/le-declin-de-lempire-americain-le-producteur-rene-malo-seteint-a-84-ans"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/cinema/1003628/rene-malo-producteur-batisseur-cinema-quebecois-est-plus"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2255598/producteur-cinema-quebec-rene-malo-mort"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-08-24/le-producteur-rene-malo-s-est-eteint.php"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/REn%C3%A9_Malo02.jpg/1280px-REn%C3%A9_Malo02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le producteur québécois René Malo.",
+   "horodate": "2026-08-31T02:31-04:00",
+   "photo_auteur": "Simon Villeneuve",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "le-producteur-rene-malo-batisseur-du-cinema-quebecois-est-mo-324b11",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "le-producteur-rene-malo-batisseur-du-cinema-quebecois-est-mo-324b11"
+  },
+  {
+   "titre": "La chanteuse Dolly Parton est morte à 80 ans, ses écoutes explosent de 2000 %",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada, Québecor, La Presse, Fnac, Nature",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10744621/legende-country-dolly-parton-s-eteint-a-age-80-ans",
+   "resume": "La chanteuse country Dolly Parton est morte à 80 ans, une nouvelle qui a déclenché un vif mouvement d'hommages, de Nashville à Hollywood.\n\nLes écoutes en continu de ses chansons ont explosé de 2000 % dans les jours suivant son décès.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10744621/legende-country-dolly-parton-s-eteint-a-age-80-ans"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/28/le-nombre-decoutes-des-chansons-de-dolly-parton-explose-de-2000-apres-son-deces"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/musique/2026-08-28/les-ecoutes-en-diffusion-en-continu-de-dolly-parton-ont-explose-apres-sa-mort.php"
+    },
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02676-1"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dolly_Parton_-_RCA_Press_Photo_%281970%29.jpg/1280px-Dolly_Parton_-_RCA_Press_Photo_%281970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La chanteuse Dolly Parton, en photo de presse des studios RCA.",
+   "horodate": "2026-08-31T02:31-04:00",
+   "photo_auteur": "RCA Records",
+   "photo_licence": "Public domain",
+   "permalien": "la-chanteuse-dolly-parton-est-morte-a-80-ans-ses-ecoutes-exp-bd0294",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "la-chanteuse-dolly-parton-est-morte-a-80-ans-ses-ecoutes-exp-bd0294"
+  },
+  {
+   "titre": "Céline Dion arrive en France avant sa série de concerts à Paris",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "Québecor, Radio-Canada, La Presse",
+   "url": "https://www.journaldemontreal.com/2026/08/28/celine-dion-est-arrivee-en-france-deux-semaines-avant-ses-concerts",
+   "resume": "Céline Dion est arrivée en France deux semaines avant le début de sa série de concerts à Paris, marquant son retour sur scène.\n\n« Je suis prête et un peu énervée », a-t-elle confié à son arrivée, selon des propos rapportés par plusieurs médias.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/28/celine-dion-est-arrivee-en-france-deux-semaines-avant-ses-concerts"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278454/celine-dion-france-serie-concerts-retour-sur-scene"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/musique/2026-08-28/celine-dion-est-arrivee-en-france-deux-semaines-avant-ses-concerts.php"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/C%C3%A9line_Dion_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "La chanteuse Céline Dion, en 2012.",
+   "horodate": "2026-08-31T02:31-04:00",
+   "photo_auteur": "Georges Biard",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "celine-dion-arrive-en-france-avant-sa-serie-de-concerts-a-pa-84bbf3",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "celine-dion-arrive-en-france-avant-sa-serie-de-concerts-a-pa-84bbf3"
+  },
+  {
+   "titre": "Le film québécois Nina Roza représentera le Canada aux Oscars",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Québec",
+   "medias": "Radio-Canada, Québecor, La Presse",
+   "url": "https://ici.radio-canada.ca/nouvelle/2277654/nina-roza-canada-oscar-meilleur-film-international",
+   "resume": "Le film québécois Nina Roza représentera le Canada dans la course au meilleur film international aux prochains Oscars.\n\nLe long métrage devra maintenant figurer sur la liste restreinte de l'Académie pour espérer une nomination officielle au printemps.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2277654/nina-roza-canada-oscar-meilleur-film-international"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/25/le-film-quebecois-nina-roza-representera-le-canada-aux-oscars"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "le-film-quebecois-nina-roza-representera-le-canada-aux-oscar-ea63f0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "le-film-quebecois-nina-roza-representera-le-canada-aux-oscar-ea63f0"
+  },
+  {
+   "titre": "L'acteur Tim Curry, vedette de The Rocky Horror Picture Show, est mort à 80 ans",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "International",
+   "medias": "Québecor, La Presse",
+   "url": "https://www.journaldemontreal.com/2026/08/26/tim-curry-decede-a-lage-de-80-ans",
+   "resume": "L'acteur britannique Tim Curry, vedette du film culte The Rocky Horror Picture Show, est mort à 80 ans.\n\nSa carrière s'étendait sur plusieurs décennies de théâtre, de cinéma et de doublage, marquée par des rôles excentriques devenus cultes.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/26/tim-curry-decede-a-lage-de-80-ans"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-08-26/vedette-de-the-rocky-horror-picture-show/tim-curry-s-eteint-a-l-age-de-80-ans.php"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "l-acteur-tim-curry-vedette-de-the-rocky-horror-picture-show-f15852",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "l-acteur-tim-curry-vedette-de-the-rocky-horror-picture-show-f15852"
+  },
+  {
+   "titre": "IA et langage : Mazarine Pingeot et Catherine Malabou en désaccord",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "Philosophie magazine",
+   "url": "https://www.philomag.com/articles/prendre-langue-avec-lia-mazarine-m-pingeot-debat-avec-catherine-malabou",
+   "resume": "Dans son nouveau numéro, Philosophie magazine fait dialoguer les philosophes Mazarine Pingeot et Catherine Malabou sur l'usage de l'intelligence artificielle dans l'écriture et la lecture : Pingeot appelle à garder ses distances avec des outils comme ChatGPT ou Claude, quand Malabou invite au contraire à « faire le saut ».\n\nLes deux penseuses s'interrogent sur le risque de dépossession du langage à mesure que ces machines transforment notre rapport à l'écrit.",
+   "sources": [
+    {
+     "media": "Philosophie magazine",
+     "url": "https://www.philomag.com/articles/prendre-langue-avec-lia-mazarine-m-pingeot-debat-avec-catherine-malabou"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "ia-et-langage-mazarine-pingeot-et-catherine-malabou-en-desac-c7eda4",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "ia-et-langage-mazarine-pingeot-et-catherine-malabou-en-desac-c7eda4"
+  },
+  {
+   "titre": "Qui était Raoul Vaneigem, philosophe situationniste mort le 28 juillet",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Belgique",
+   "medias": "Philosophie magazine",
+   "url": "https://www.philomag.com/articles/qui-etait-raoul-vaneigem-philosophe-et-ecrivain-subversif-recemment-disparu",
+   "resume": "Le philosophe et écrivain belge Raoul Vaneigem, né en 1934, figure de l'Internationale situationniste et auteur du Traité de savoir-vivre à l'usage des jeunes générations (1967), est mort le 28 juillet.\n\nDéfenseur d'une « subjectivité radicale » opposée à la société de consommation, il avait rompu avec l'Internationale situationniste peu après Mai 68 tout en restant, jusqu'à la fin, une référence pour les mouvements libertaires.",
+   "sources": [
+    {
+     "media": "Philosophie magazine",
+     "url": "https://www.philomag.com/articles/qui-etait-raoul-vaneigem-philosophe-et-ecrivain-subversif-recemment-disparu"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/4/46/Raoul_Vaneigem-2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Le philosophe Raoul Vaneigem, en 2005.",
+   "horodate": "2026-08-31T02:31-04:00",
+   "photo_auteur": "DESPATIN & GOBELI",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "qui-etait-raoul-vaneigem-philosophe-situationniste-mort-le-2-e909b4",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "qui-etait-raoul-vaneigem-philosophe-situationniste-mort-le-2-e909b4"
+  },
+  {
+   "titre": "Edgar Morin et la Californie : le voyage de 1969 qui a formé sa pensée complexe",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "International",
+   "medias": "Philosophie magazine",
+   "url": "https://www.philomag.com/articles/les-aventures-conceptuelles-dedgar-morin-aux-etats-unis",
+   "resume": "Le nouveau numéro de Philosophie magazine revient sur l'année 1969 et le séjour en Californie d'Edgar Morin, mort en mai dernier à 104 ans, un voyage dont le sociologue et philosophe avait tiré l'essentiel de sa pensée de la « complexité ».\n\nCe séjour aurait été, pour lui, un tournant existentiel autant qu'intellectuel.",
+   "sources": [
+    {
+     "media": "Philosophie magazine",
+     "url": "https://www.philomag.com/articles/les-aventures-conceptuelles-dedgar-morin-aux-etats-unis"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Edgar_Morin_IMG_0558-b.jpg/1280px-Edgar_Morin_IMG_0558-b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le sociologue et philosophe Edgar Morin.",
+   "horodate": "2026-08-31T02:31-04:00",
+   "photo_auteur": "David.Monniaux",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "edgar-morin-et-la-californie-le-voyage-de-1969-qui-a-forme-s-d5b27c",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "edgar-morin-et-la-californie-le-voyage-de-1969-qui-a-forme-s-d5b27c"
+  },
+  {
+   "titre": "À l'UdeM, une découverte qui pourrait changer la lecture de l'imagerie cérébrale",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Québec",
+   "medias": "Université de Montréal",
+   "url": "https://nouvelles.umontreal.ca/article/2026/08/28/quand-le-cerveau-s-active-le-sang-ne-suit-pas-toujours",
+   "resume": "Une équipe de l'Université de Montréal dirigée par Ravi Rungta, titulaire de la Chaire de recherche du Canada sur les interactions neurovasculaires, a découvert que deux activités cérébrales presque identiques peuvent produire des réponses sanguines radicalement différentes : chez la souris, la douleur génère un flux sanguin plus de 50 % plus faible que le toucher, malgré une activité neuronale comparable dans le cortex.\n\nPubliée dans Science, la découverte s'explique par des réseaux distincts de vaisseaux sanguins dans le cortex et pourrait améliorer l'interprétation de l'imagerie par résonance magnétique fonctionnelle, qui mesure le flux sanguin plutôt que l'activité neuronale elle-même.",
+   "sources": [
+    {
+     "media": "Université de Montréal",
+     "url": "https://nouvelles.umontreal.ca/article/2026/08/28/quand-le-cerveau-s-active-le-sang-ne-suit-pas-toujours"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T02:31-04:00",
+   "permalien": "a-l-udem-une-decouverte-qui-pourrait-changer-la-lecture-de-l-02fcbb",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-08-31.json",
+   "_slug": "a-l-udem-une-decouverte-qui-pourrait-changer-la-lecture-de-l-02fcbb"
   }
  ]
 }
