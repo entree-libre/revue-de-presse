@@ -3,6 +3,7 @@
  "volets": [
   "continu",
   "elections",
+  "hors-rss",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -489,6 +490,442 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-08-31.json",
    "_slug": "au-jour-5-un-seul-des-cinq-partis-offre-une-plateforme-elect-48f52d"
+  },
+  {
+   "titre": "Duhaime veut relancer le gaz de schiste et en fera une exigence s'il détient la balance du pouvoir",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Centre-du-Québec (Arthabaska-L'Érable)",
+   "medias": "Radio-Canada, Le Devoir, La Presse",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279138/gaz-schiste-eric-duhaime-elections",
+   "resume": "Éric Duhaime a promis lundi, à Villeroy dans Arthabaska-L'Érable, de rouvrir l'exploitation du schiste d'Utica, une filière que le Parti conservateur du Québec chiffre à 9,4 milliards de dollars sur dix ans et 6 000 emplois, à trois conditions qu'il énonce lui-même : risques assumés par le privé, acceptabilité sociale dans la région visée et normes environnementales « les plus élevées au monde ». S'il détient la balance du pouvoir, il exigera au minimum des projets pilotes de puits dans la vallée du Saint-Laurent, une sortie à laquelle Ruba Ghazal a répliqué qu'« il n'y a rien à faire dans le gaz de schiste », pendant que Christine Fréchette se dit neutre et Charles Milliard juge que « ce n'est pas la priorité » — la loi de 2022 mettant fin à la production d'hydrocarbures vaut par ailleurs au gouvernement une poursuite de 18 milliards de dollars en Cour supérieure.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:29-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279138/gaz-schiste-eric-duhaime-elections"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005242/conservateurs-duhaime-convoitent-gaz-schiste-quebecois"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/s-il-detient-la-balance-du-pouvoir-duhaime-exigera-des-puits-de-gaz-de-schiste.php"
+    }
+   ],
+   "permalien": "duhaime-veut-relancer-le-gaz-de-schiste-et-en-fera-une-exige-7a6f46",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "duhaime-veut-relancer-le-gaz-de-schiste-et-en-fera-une-exige-7a6f46"
+  },
+  {
+   "titre": "La CAQ ouvre la porte à une pratique mixte des médecins et veut accélérer le renvoi vers le privé",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Les Affaires, La Presse, Le Devoir, Radio-Canada",
+   "url": "https://www.lesaffaires.com/secteurs/politique/jour-5-la-caq-ouvre-la-porte-a-une-pratique-mixte-des-medecins-au-prive-et-au-public/",
+   "resume": "En point de presse à Saint-Colomban, Christine Fréchette a proposé d'ouvrir la discussion avec les médecins pour leur permettre de travailler au privé et au public sans se désaffilier de la Régie de l'assurance maladie, à condition qu'ils maintiennent « une présence minimale au public », et de raccourcir de trois mois le délai avant qu'un patient en attente d'une chirurgie soit dirigé vers une autre région ou vers le privé sans avoir à payer. La CAQ veut aussi regrouper les listes d'attente, au motif que « notre code postal ne devrait jamais déterminer combien de temps on attend pour être soigné » ; l'orientation s'écarte de celle défendue jusqu'ici par Christian Dubé et Santé Québec, et le parti dit qu'elle sera discutée avec les médecins en vue des prochaines négociations.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:29-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-5-la-caq-ouvre-la-porte-a-une-pratique-mixte-des-medecins-au-prive-et-au-public/"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005254/frechette-contre-courant-dube-sante-quebec"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/la-caq-change-de-cap-concernant-le-prive-en-sante.php"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/en-direct/1014226/elections-quebec-jour-5-campagne"
+    }
+   ],
+   "permalien": "la-caq-ouvre-la-porte-a-une-pratique-mixte-des-medecins-et-v-8f3970",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "la-caq-ouvre-la-porte-a-une-pratique-mixte-des-medecins-et-v-8f3970"
+  },
+  {
+   "titre": "Fitzgibbon juge « invraisemblable » la mise en garde qu'aurait faite sur Northvolt le candidat péquiste Stéphane Paquet",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10748408/pierre-fitzgibbon-dement-avoir-ete-mis-en-garde-contre-projet-northvolt-par-stephane-paquet",
+   "resume": "L'ancien ministre de l'Économie Pierre Fitzgibbon s'est invité dans la campagne pour démentir avoir été mis en garde contre le projet Northvolt par Stéphane Paquet, aujourd'hui candidat du Parti québécois, à l'époque où celui-ci dirigeait Montréal International ; il qualifie cette mise en garde d'« invraisemblable ». Le démenti relance un dossier déjà présent dans la campagne, où Christine Fréchette a pris ses distances avec les investissements de l'ère Legault dans Northvolt et Lion Électrique et où Paul St-Pierre Plamondon l'accuse de mentir.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:29-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10748408/pierre-fitzgibbon-dement-avoir-ete-mis-en-garde-contre-projet-northvolt-par-stephane-paquet"
+    }
+   ],
+   "permalien": "fitzgibbon-juge-invraisemblable-la-mise-en-garde-qu-aurait-f-e526d2",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "fitzgibbon-juge-invraisemblable-la-mise-en-garde-qu-aurait-f-e526d2"
+  },
+  {
+   "titre": "Le PLQ promet d'inscrire le contournement de l'autoroute 20 au plan des infrastructures",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Montérégie (Vaudreuil et Soulanges)",
+   "medias": "Journal Saint-François",
+   "url": "https://journalsaint-francois.ca/liberaux-promettent-autoroute-20-vaudreuil-dorion/",
+   "resume": "Les candidats libéraux James Hughes, dans Vaudreuil, et Olivier Bertin-Mahieux, dans Soulanges, se sont engagés dimanche à Vaudreuil-Dorion à inscrire le parachèvement de l'autoroute 20 au Plan québécois des infrastructures dès l'élection d'un gouvernement libéral, ce qui obligerait à réaliser le projet de contournement dans les dix années suivantes. Le candidat soulangeois fait valoir que les terrains sont déjà expropriés et que les études ont été reportées puis annulées, sur une promesse qui, selon lui, dure depuis cinquante ans : « on n'en peut plus du trafic sur Harwood ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:29-04:00",
+   "sources": [
+    {
+     "media": "Journal Saint-François",
+     "url": "https://journalsaint-francois.ca/liberaux-promettent-autoroute-20-vaudreuil-dorion/"
+    },
+    {
+     "media": "InfoDaffaires",
+     "url": "https://infodaffaires.com/liberaux-promettent-autoroute-20-vaudreuil-dorion/"
+    }
+   ],
+   "permalien": "le-plq-promet-d-inscrire-le-contournement-de-l-autoroute-20-ea26da",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "le-plq-promet-d-inscrire-le-contournement-de-l-autoroute-20-ea26da"
+  },
+  {
+   "titre": "Québec solidaire promet 340 millions pour l'école publique et vise à réduire de moitié le décrochage",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Les Affaires, La Presse",
+   "url": "https://www.lesaffaires.com/communique-de-presse/elections-2026-quebec-solidaire-sengage-a-reduire-le-decrochage-scolaire-de-moitie-dans-un-premier-mandat/",
+   "resume": "Québec solidaire s'engage à réduire de moitié le décrochage scolaire en un premier mandat au moyen de trois mesures chiffrées à 340 millions de dollars : embaucher 1 500 employés de soutien et 500 professionnels, protéger les budgets des écoles par un « bouclier anti-austérité », et créer un Réseau scolaire commun qui financerait à 100 % les écoles privées renonçant à la sélection par les notes et aux frais de scolarité, le financement des autres étant retiré progressivement. Ruba Ghazal dit vouloir « mettre fin à l'école à trois vitesses », et la députée et candidate de Verdun Alejandra Zaga Mendez avance que le décrochage coûte 14 milliards de dollars par année à l'État.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:29-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires (communiqué de Québec solidaire)",
+     "url": "https://www.lesaffaires.com/communique-de-presse/elections-2026-quebec-solidaire-sengage-a-reduire-le-decrochage-scolaire-de-moitie-dans-un-premier-mandat/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/le-fil-electoral/quebec-solidaire-veut-s-attaquer-au-decrochage-scolaire.php"
+    }
+   ],
+   "permalien": "quebec-solidaire-promet-340-millions-pour-l-ecole-publique-e-9fbaf4",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "quebec-solidaire-promet-340-millions-pour-l-ecole-publique-e-9fbaf4"
+  },
+  {
+   "titre": "Interdiction du cellulaire à l'école : une étude du NBER n'y trouve aucun effet mesurable",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/opinions/cellulaire-a-l-ecole-le-coup-d-eclat-de-drainville-desavoue-par-la-science/",
+   "resume": "Une étude du National Bureau of Economic Research ne relève aucun effet significatif des pochettes verrouillables sur le cyberharcèlement perçu par les élèves, ni sur l'assiduité scolaire, ni sur l'attention autodéclarée en classe, l'intimidation se déplaçant hors des heures de cours ou vers les ordinateurs fournis par l'école. Ces résultats sont opposés à l'argumentaire qui avait accompagné l'interdiction imposée par Bernard Drainville lorsqu'il était ministre de l'Éducation, laquelle présentait le téléphone comme le déclencheur des moqueries et des conflits entre élèves.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:29-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/opinions/cellulaire-a-l-ecole-le-coup-d-eclat-de-drainville-desavoue-par-la-science/"
+    }
+   ],
+   "permalien": "interdiction-du-cellulaire-a-l-ecole-une-etude-du-nber-n-y-t-54c57f",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "interdiction-du-cellulaire-a-l-ecole-une-etude-du-nber-n-y-t-54c57f"
+  },
+  {
+   "titre": "Un restaurant de la rue Jean-Talon incendié deux nuits de suite à Saint-Michel",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Montréal (Villeray–Saint-Michel–Parc-Extension)",
+   "medias": "CityNews Montréal, CTV News Montréal",
+   "url": "https://montreal.citynews.ca/2026/08/31/saint-michel-restaurant-arson-twice-two-days/",
+   "sources": [
+    {
+     "media": "CityNews Montréal",
+     "url": "https://montreal.citynews.ca/2026/08/31/saint-michel-restaurant-arson-twice-two-days/"
+    },
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/on-patrol/article/montreal-restaurant-set-on-fire-for-second-time/"
+    }
+   ],
+   "resume": "Un suspect s'est introduit vers 5 h 10 lundi dans un restaurant de la rue Jean-Talon, près de la 22e Avenue, et y a allumé un feu que des passants éteignaient déjà à l'arrivée des policiers ; la veille vers 3 h, le même commerce avait été visé par un individu qui avait fracassé une vitrine et laissé du matériel incendiaire sur place. Les deux enquêtes ont été confiées à la section des incendies criminels du Service de police de la Ville de Montréal, qui n'a procédé à aucune arrestation et cherche des images de caméras de surveillance ; les dommages sont mineurs dans les deux cas.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:18-04:00",
+   "permalien": "un-restaurant-de-la-rue-jean-talon-incendie-deux-nuits-de-su-4b0895",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "un-restaurant-de-la-rue-jean-talon-incendie-deux-nuits-de-su-4b0895"
+  },
+  {
+   "titre": "Un homme de 49 ans blessé par un objet tranchant près de Jean-Talon et Pie-IX",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Montréal (Villeray–Saint-Michel–Parc-Extension)",
+   "medias": "CityNews Montréal",
+   "url": "https://montreal.citynews.ca/2026/08/31/49-year-old-man-injured-after-assault-in-saint-michel/",
+   "sources": [
+    {
+     "media": "CityNews Montréal",
+     "url": "https://montreal.citynews.ca/2026/08/31/49-year-old-man-injured-after-assault-in-saint-michel/"
+    }
+   ],
+   "resume": "Les policiers ont été appelés vers 19 h 30 dimanche près de l'intersection de la rue Jean-Talon Est et du boulevard Pie-IX, où ils ont trouvé un homme de 49 ans conscient, blessé au bas du corps par un objet tranchant à l'issue d'une querelle. Selon la porte-parole du Service de police de la Ville de Montréal Caroline Chèvrefils, les deux personnes en cause se connaissent, les blessures ne mettent pas la vie de la victime en danger et personne n'a encore été arrêté.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:18-04:00",
+   "permalien": "un-homme-de-49-ans-blesse-par-un-objet-tranchant-pres-de-jea-03ee34",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "un-homme-de-49-ans-blesse-par-un-objet-tranchant-pres-de-jea-03ee34"
+  },
+  {
+   "titre": "Le CN s'explique devant les résidents de Repentigny, deux mois après le déraillement du Gardeur",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Repentigny (Lanaudière)",
+   "medias": "CityNews Montréal",
+   "url": "https://montreal.citynews.ca/2026/08/31/cn-officials-repentigny-townhall-train-derailment/",
+   "sources": [
+    {
+     "media": "CityNews Montréal",
+     "url": "https://montreal.citynews.ca/2026/08/31/cn-officials-repentigny-townhall-train-derailment/"
+    }
+   ],
+   "resume": "Des représentants du Canadien National doivent présenter lundi aux résidents leurs conclusions sur le déraillement du 5 juillet, qui a couché 46 wagons d'un convoi de 172 dans un quartier résidentiel du secteur Le Gardeur sans faire de blessé ni de fuite de matières dangereuses, selon le maire Nicholas Dufour. Le Bureau de la sécurité des transports du Canada a relevé le 16 juillet des ancrages de rails manquants ou déplacés sur des segments clés de la voie, tandis que le CN attribue plutôt l'accident à une mauvaise application de ses propres normes d'ingénierie lors de travaux au passage à niveau au printemps 2026.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CN_8015%2C_5690_and_5517_Hinton_-_Jasper.jpg/1280px-CN_8015%2C_5690_and_5517_Hinton_-_Jasper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Un train de marchandises du Canadien National.",
+   "horodate": "2026-08-31T11:18-04:00",
+   "photo_auteur": "Kabelleger / David Gubler",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "le-cn-s-explique-devant-les-residents-de-repentigny-deux-moi-9386d7",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "le-cn-s-explique-devant-les-residents-de-repentigny-deux-moi-9386d7"
+  },
+  {
+   "titre": "Anjou et le SPVM distribuent des languettes réfléchissantes aux écoliers et aux aînés",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Montréal (Anjou)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/actualites/une-vignette-reflechissante-pour-des-deplacements-plus-securitaires-119536",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/une-vignette-reflechissante-pour-des-deplacements-plus-securitaires-119536"
+    }
+   ],
+   "resume": "L'arrondissement d'Anjou et les policiers du poste de quartier 46 du Service de police de la Ville de Montréal remettent des bandelettes réfléchissantes aux élèves des écoles primaires du quartier, une distribution amorcée le 27 août à la fête de la rentrée de l'école des Roseraies et qui se poursuivra auprès des aînés avec les organismes du milieu. L'arrondissement présente la mesure comme un moyen de rendre les piétons repérables des automobilistes à la tombée du jour et par mauvais temps ; aucune donnée sur les collisions survenues à Anjou n'accompagne l'annonce.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Anjou_%28exo%29_train_station.jpg/1280px-Anjou_%28exo%29_train_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La gare d'Anjou, dans l'arrondissement d'Anjou, à Montréal.",
+   "horodate": "2026-08-31T11:18-04:00",
+   "photo_auteur": "Ed7789",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "anjou-et-le-spvm-distribuent-des-languettes-reflechissantes-16fb8f",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "anjou-et-le-spvm-distribuent-des-languettes-reflechissantes-16fb8f"
+  },
+  {
+   "titre": "Côte-Saint-Luc conteste l'arrêt que Hampstead a posé sur Fleet Road",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Côte-Saint-Luc et Hampstead",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/city_news/csl-does-not-like-hampsteads-new-stop-sign-but-its-temporary/article_30e9eb9c-3387-4864-a290-7b0394acb3b1.html",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/city_news/csl-does-not-like-hampsteads-new-stop-sign-but-its-temporary/article_30e9eb9c-3387-4864-a290-7b0394acb3b1.html"
+    }
+   ],
+   "resume": "Le maire de Côte-Saint-Luc, David Tordjman, s'est engagé le 17 août à appeler son homologue de Hampstead, Jeremy Levi, au sujet du nouvel arrêt installé sur Fleet Road en direction ouest, à l'angle de Minden : il freine selon lui une artère qui gagnerait à mieux s'écouler, et ce sont surtout des résidents de Côte-Saint-Luc qui doivent s'y immobiliser. Levi répond que l'arrêt est une mesure temporaire, recommandée par une étude sur les vibrations que subissent les propriétaires de la rue Fallbrook voisine, en attendant la réfection de Fleet ; installer un feu à cette intersection coûterait de 300 000 à 400 000 $, selon Tordjman.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:18-04:00",
+   "permalien": "cote-saint-luc-conteste-l-arret-que-hampstead-a-pose-sur-fle-93bc4a",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "cote-saint-luc-conteste-l-arret-que-hampstead-a-pose-sur-fle-93bc4a"
+  },
+  {
+   "titre": "Westmount rend Argyle à sens unique malgré la contestation des résidents",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Westmount",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/city_news/westmount-residents-up-in-arms-over-argyle-avenue-reconfiguration/article_8b4fabab-2143-4301-897d-8d64a1395883.html",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/city_news/westmount-residents-up-in-arms-over-argyle-avenue-reconfiguration/article_8b4fabab-2143-4301-897d-8d64a1395883.html"
+    }
+   ],
+   "resume": "Des portions des avenues Argyle, Metcalfe et Kensington sont passées à sens unique samedi dernier au nom du programme Trajets scolaires sécuritaires, en préparation depuis 2022 ; un résident d'Argyle, l'avocat François Janson, a déposé au conseil d'août une mise en demeure soutenant que la Ville agit illégalement. La résidente Sophie Dynbort a opposé au conseil des travaux concluant qu'une rue à sens unique près d'une école accroît plutôt le risque de collision avec un enfant piéton, ce à quoi le maire Michael Stern a répondu que la mesure serait suivie pendant l'année scolaire et qu'elle reste réversible.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2023-04-06%2C_Westmount_Street_Light_02.jpg/1280px-2023-04-06%2C_Westmount_Street_Light_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'intersection du chemin de la Côte-Saint-Antoine et de la rue Claremont, à Westmount.",
+   "horodate": "2026-08-31T11:18-04:00",
+   "photo_auteur": "Thomas1313",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "westmount-rend-argyle-a-sens-unique-malgre-la-contestation-d-a7d999",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "westmount-rend-argyle-a-sens-unique-malgre-la-contestation-d-a7d999"
+  },
+  {
+   "titre": "Le centre de services scolaire Marguerite-Bourgeoys compte 1500 élèves de moins qu'à pareille date l'an dernier",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Lachine, LaSalle, Verdun et Le Sud-Ouest",
+   "medias": "Nouvelles d'Ici",
+   "url": "https://nouvellesdici.com/gens-d-ici/education/actu-des-ecoles-ici/ca-du-cssmb-25-aout-1500-eleves-en-moins-des-ecoles-fraichement-renovees-et-une-cinquantaine-de-postes-denseignants-a-combler/",
+   "sources": [
+    {
+     "media": "Nouvelles d'Ici",
+     "url": "https://nouvellesdici.com/gens-d-ici/education/actu-des-ecoles-ici/ca-du-cssmb-25-aout-1500-eleves-en-moins-des-ecoles-fraichement-renovees-et-une-cinquantaine-de-postes-denseignants-a-combler/"
+    }
+   ],
+   "resume": "Devant six personnes du public, le 25 août, le directeur général du Centre de services scolaire Marguerite-Bourgeoys, Dominic Bertrand, a chiffré à environ 1500 la baisse d'élèves par rapport à la même date l'an dernier — quelque 1300 au primaire et 200 au secondaire —, un décompte provisoire jusqu'à la prise de clientèle du 30 septembre. Le centre cherche encore une cinquantaine d'enseignants sur un corps de 5500 à 6000, une quinzaine de professionnels et 55 employés de soutien, un manque que Bertrand juge moins lourd que les années passées, la baisse de clientèle réduisant d'autant les besoins.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/CSMB.jpg/1280px-CSMB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le siège social du Centre de services scolaire Marguerite-Bourgeoys, boulevard de la Côte-Vertu, à Saint-Laurent.",
+   "horodate": "2026-08-31T11:18-04:00",
+   "photo_auteur": "P199",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "le-centre-de-services-scolaire-marguerite-bourgeoys-compte-1-a57266",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "le-centre-de-services-scolaire-marguerite-bourgeoys-compte-1-a57266"
+  },
+  {
+   "titre": "Le Club des personnes handicapées du Lac Saint-Louis fête ses 50 ans à Lachine",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Lachine (Montréal)",
+   "medias": "Nouvelles d'Ici",
+   "url": "https://nouvellesdici.com/actu/le-club-des-personnes-handicapees-du-lac-saint-louis-brise-lisolement-de-ses-membres-depuis-50-ans/",
+   "sources": [
+    {
+     "media": "Nouvelles d'Ici",
+     "url": "https://nouvellesdici.com/actu/le-club-des-personnes-handicapees-du-lac-saint-louis-brise-lisolement-de-ses-membres-depuis-50-ans/"
+    }
+   ],
+   "resume": "Fondé en 1976 par Gabrielle et Hubert Chauret, dont l'enfant handicapé vivait isolé, le club réunit chaque semaine une cinquantaine de personnes ayant des limitations fonctionnelles rue Remembrance, à Lachine, pour une adhésion de 20 $ par année ; ses habitués ont de 23 à 98 ans et viennent à 60 % de Lachine et à 20 % de Dorval et de LaSalle, selon son directeur général Vincent Martin. L'organisme marquera son cinquantenaire le 9 septembre à la bibliothèque Saul-Bellow par un panel sur le capacitisme avec Daphné Doré-Hamel et Floyd Lapierre-Poupart ; sa présidente, Lise Poulin, membre depuis l'âge de cinq ans, était devenue en 2009 la première élue municipale québécoise en situation de handicap.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:18-04:00",
+   "permalien": "le-club-des-personnes-handicapees-du-lac-saint-louis-fete-se-42f539",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "le-club-des-personnes-handicapees-du-lac-saint-louis-fete-se-42f539"
+  },
+  {
+   "titre": "Saint-Roch-de-l'Achigan réclame une intervention d'urgence de Québec sur la route 339",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Saint-Roch-de-l'Achigan (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/route-nids-poule-reparation-requetes/",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/route-nids-poule-reparation-requetes/"
+    }
+   ],
+   "resume": "Le conseil municipal de Saint-Roch-de-l'Achigan a adopté le 17 août une résolution demandant au ministère des Transports et de la Mobilité durable, qui a la charge de la route 339, une intervention d'urgence sur cette chaussée, et il invite les citoyens à signaler eux-mêmes les défauts en composant le 511. Le maire Sébastien Marcil décrit une route dont les nids-de-poule s'accumulent et qu'il juge « à l'image de beaucoup de routes en piteux état partout au Québec ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:18-04:00",
+   "permalien": "saint-roch-de-l-achigan-reclame-une-intervention-d-urgence-d-f2e752",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "saint-roch-de-l-achigan-reclame-une-intervention-d-urgence-d-f2e752"
+  },
+  {
+   "titre": "Ottawa et Québec consacrent 50 millions sur deux ans au logement des femmes victimes de violence",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "CityNews Montréal",
+   "url": "https://montreal.citynews.ca/2026/08/30/quebec-organizations-receive-50-million-federal-funding-gender-based-violence/",
+   "sources": [
+    {
+     "media": "CityNews Montréal",
+     "url": "https://montreal.citynews.ca/2026/08/30/quebec-organizations-receive-50-million-federal-funding-gender-based-violence/"
+    }
+   ],
+   "resume": "Les deux gouvernements ont conclu, dans le cadre de l'Entente Canada-Québec sur le logement, une entente de 50 millions de dollars sur deux ans destinée à aider les personnes ayant subi de la violence familiale ou conjugale à accéder au marché locatif privé et à s'y maintenir, notamment par une aide directe versée aux ménages admissibles par le Programme de supplément au loyer. La directrice générale de Chez Doris, Diane Pilote, et la directrice des communications du Chaînon, Elizabeth Liston, y voient un moyen de stabiliser rapidement le logement des femmes qui quittent un agresseur, alors que le Québec a enregistré 14 féminicides présumés depuis le début de l'année, dont trois en deux semaines.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:18-04:00",
+   "permalien": "ottawa-et-quebec-consacrent-50-millions-sur-deux-ans-au-loge-1769a3",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "ottawa-et-quebec-consacrent-50-millions-sur-deux-ans-au-loge-1769a3"
+  },
+  {
+   "titre": "Lévis officiellement candidate à la finale des Jeux du Québec d'hiver de 2030",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Lévis",
+   "medias": "Le Journal de Lévis",
+   "url": "https://www.journaldelevis.com/jdl/29/Politique.html?id=46380",
+   "sources": [
+    {
+     "media": "Le Journal de Lévis",
+     "url": "https://www.journaldelevis.com/jdl/29/Politique.html?id=46380"
+    }
+   ],
+   "resume": "Lévis a été confirmée comme candidate à l'accueil de la 64e finale des Jeux du Québec d'hiver, en 2030, une promesse que le maire Steven Blaney portait depuis la campagne municipale de l'automne dernier et pour laquelle le conseil a débloqué 300 000 $ en juin, à même les excédents de fonctionnement. Seule en lice pour l'instant, la ville doit franchir le dépôt technique d'octobre et connaîtra la décision au printemps 2027 ; une étude d'impact commandée à SportsQuébec évalue à environ 20 millions de dollars les retombées de l'événement pour Lévis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:18-04:00",
+   "permalien": "levis-officiellement-candidate-a-la-finale-des-jeux-du-quebe-9a0296",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "levis-officiellement-candidate-a-la-finale-des-jeux-du-quebe-9a0296"
+  },
+  {
+   "titre": "Le centre de services scolaire des Navigateurs accueille 355 élèves de plus et ajoute seize classes modulaires",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Lévis et Lotbinière",
+   "medias": "Le Journal de Lévis",
+   "url": "https://www.journaldelevis.com/jdl/4/Actualit%C3%A9s.html?id=46378",
+   "sources": [
+    {
+     "media": "Le Journal de Lévis",
+     "url": "https://www.journaldelevis.com/jdl/4/Actualit%C3%A9s.html?id=46378"
+    }
+   ],
+   "resume": "Le Centre de services scolaire des Navigateurs compte cette rentrée 240 élèves de plus au primaire et 115 de plus au secondaire, sur une clientèle d'environ 32 400 personnes réparties dans 75 écoles et centres, des chiffres provisoires jusqu'à la prise de clientèle du 30 septembre. La moitié de ses écoles primaires étant à pleine capacité, dix classes modulaires ont été ajoutées à l'école Sainte-Marie, dans le secteur Lauzon, et six à l'école de la Chanterelle, à Saint-Étienne-de-Lauzon, ce qui porte à une soixantaine le nombre de modulaires du parc immobilier.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T11:18-04:00",
+   "permalien": "le-centre-de-services-scolaire-des-navigateurs-accueille-355-957f9e",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-08-31.json",
+   "_slug": "le-centre-de-services-scolaire-des-navigateurs-accueille-355-957f9e"
   },
   {
    "titre": "La Belgique persiste à refuser de céder les avoirs russes gelés à l'Ukraine",
@@ -3381,12 +3818,12 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "La Presse, Le Devoir, Coops de l'information, Québecor, Radio-Canada",
+   "medias": "La Presse, Le Devoir, Coops de l'information, Québecor, Radio-Canada, Les Affaires",
    "url": "https://coalitionavenirquebec.org/fr/blog/2026/08/30/lequipe-christine-frechette-presente-un-cadre-financier-responsable-pour-faire-avancer-le-quebec/",
-   "resume": "La Coalition avenir Québec chiffre à 9,7 milliards de dollars, service de la dette compris, l'ensemble des promesses que Christine Fréchette entend annoncer d'ici le 5 octobre — dont huit milliards ne sont pas encore dévoilés — et son cadre financier de quatre pages, présenté à Trois-Rivières au jour 4 de la campagne, maintient un retour à l'équilibre budgétaire en 2029-2030 après des déficits de 7,7 milliards cette année, de 5,7 milliards en 2027-2028 et de 1,5 milliard en 2028-2029. Pour y arriver, le document laisse un « écart à résorber » de près de six milliards dont le parti ne dit pas comment il le comblera, sa seule mesure d'économies annoncée — des compressions dans les contrats de services professionnels — devant rapporter 308 millions en cinq ans, alors que le plan mise aussi sur 4,3 milliards de transferts fédéraux supplémentaires dont près de la moitié n'est pas garantie.\n\n**Mise à jour, 13 h** — Christine Fréchette précise qu'« il n'y aura aucun allégement pour les particuliers avant le retour à l'équilibre budgétaire », jugeant le contexte financier trop serré pour promettre une baisse d'impôt. Elle dit avoir dévoilé son cadre financier dès le jour 4 pour cette raison et s'engage plutôt à s'attaquer au coût de la vie « de manière diversifiée », en compagnie du ministre des Finances sortant Eric Girard.\n\n**Mise à jour, 14 h** — Le cadre financier prévoit une croissance moyenne des dépenses de 2,4 % sur cinq ans, mais d'environ 1 % en 2028-2029 et en 2029-2030 ; Christine Fréchette assure qu'« on n'entrera pas en période d'austérité parce qu'on ne compte pas réduire les services aux citoyens », tout en convenant d'un contexte financier serré. Le plan puise cinq milliards dans les provisions pour éventualités et compte sur 495 millions de plus des sociétés d'État, et la cheffe caquiste met au défi le Parti québécois de chiffrer le coût d'un référendum et la première année d'un Québec souverain, et le Parti conservateur d'expliquer comment il couperait 47 milliards sans toucher aux services.\n\n**Mise à jour, 18 h 45** — Le cadre financier réserve 304 millions de dollars aux régions sans préciser la répartition de l'enveloppe, et 241 millions à la construction de plus de 2 000 logements abordables pour les aînés. La bonification du soutien à domicile, elle, atteint un milliard de dollars sur quatre ans.",
+   "resume": "La Coalition avenir Québec chiffre à 9,7 milliards de dollars, service de la dette compris, les promesses que Christine Fréchette entend annoncer d'ici le 5 octobre — dont plus de huit milliards ne sont pas encore dévoilés —, avec un retour à l'équilibre en 2029-2030, un « écart à résorber » de près de six milliards que le parti ne dit pas comment combler, cinq milliards puisés dans la provision pour éventualités et 4,4 milliards de transferts fédéraux sur cinq ans ; la cheffe caquiste assure qu'« il n'y aura aucun allégement pour les particuliers avant le retour à l'équilibre budgétaire » et qu'« on n'entrera pas en période d'austérité ». Vérification faite par Radio-Canada, ces transferts reposent sur des ententes fédérales non renouvelées dont la réponse n'est attendue qu'en octobre, le Vérificateur général avait jugé les prévisions de croissance plausibles cinq jours avant l'entrée en vigueur des droits de douane américains de 50 % — dont il écrit qu'ils auraient un effet à la baisse sur le PIB québécois, chaque point de PIB nominal valant 1,2 milliard de revenus —, et le fiscaliste Luc Godbout relève le paradoxe d'entamer le coussin de prévoyance dans une campagne qui se joue sur l'incertitude.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-30T18:48-04:00",
+   "horodate": "2026-08-31T11:29-04:00",
    "sources": [
     {
      "media": "Coalition avenir Québec — cadre financier (PDF)",
@@ -3443,6 +3880,18 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1005170/chefs-ne-ralentissent-pas-rythme-annonces-attaques"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279071/verif-cadre-financier-caq-quebec-frechette"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-4-la-caq-devoile-son-cadre-financier/"
+    },
+    {
+     "media": "Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/jour-4-cadre-financier-de-la-caq-langue-defense-des-aines-et-secteur-forestier/"
     }
    ],
    "permalien": "cadre-financier-de-la-caq-9-7-milliards-de-promesses-et-un-e-8c215f",
