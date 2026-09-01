@@ -206,6 +206,10 @@
      "url": "https://pallas-data.ca/fr/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/"
     },
     {
+     "media": "Pallas Data (rapport)",
+     "url": "https://qc125.com/proj/2026-08-29-pallas.pdf"
+    },
+    {
      "media": "Qc125",
      "url": "https://www.qc125.ca/p/sondage-pallas-data-le-pq-toujours"
     },
@@ -410,13 +414,17 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Québecor, Le Devoir",
+   "medias": "Léger, Québecor, Le Devoir",
    "url": "https://www.journaldequebec.com/2026/09/01/sondage-leger-le-journal-tva--leffet-des-tarifs-sessouffle-pour-christine-frechette",
    "resume": "Le sondage Léger mené pour Le Journal de Québec, Le Journal de Montréal et TVA Nouvelles du 28 au 31 août, en ligne auprès de 1008 personnes de 18 ans et plus ayant le droit de vote au Québec, place le PQ à 29 %, la CAQ à 24 %, le PLQ à 22 %, le PCQ à 15 % et Québec solidaire à 10 % ; l'échantillon provenant d'un panel web, aucune marge d'erreur ne s'y applique, la maison indiquant qu'un échantillon probabiliste de cette taille en aurait une d'au plus ± 3,09 %, 19 fois sur 20. Jean-Marc Léger estime que la remontée caquiste portée par la crise tarifaire s'essouffle et que la progression de la CAQ se situe désormais dans la marge d'erreur, tandis que le PCQ devance le PQ dans la région de Québec avec 30 % d'appuis et que 42 % des électeurs ayant exprimé une intention de vote disent que leur choix n'est pas définitif.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-01T12:50-04:00",
    "sources": [
+    {
+     "media": "Léger (rapport)",
+     "url": "https://qc125.com/proj/2026-08-30-leger.pdf"
+    },
     {
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/01/sondage-leger-le-journal-tva--leffet-des-tarifs-sessouffle-pour-christine-frechette"
@@ -444,7 +452,7 @@
    "cahier": "elections",
    "rubrique": "education",
    "territoire": "Québec",
-   "medias": "Le Devoir, La Presse",
+   "medias": "Le Devoir, La Presse, CTV Montreal",
    "url": "https://www.ledevoir.com/politique/quebec/1005494/ecole-trois-vitesses-existe-pas-selon-frechette",
    "resume": "La cheffe de la CAQ soutient qu'il n'existe « pas vraiment » de système scolaire à trois vitesses au Québec, alors qu'elle jugeait en début d'année qu'une « réflexion » s'imposait pour le réviser, estimant que les investissements consentis depuis 2018 n'avaient pas donné les résultats escomptés. Son propos survient au lendemain d'une étude de la Direction régionale de santé publique de Montréal sur les effets de ce réseau à trois vitesses sur la santé des jeunes, notamment l'exposition à la violence, la consommation de malbouffe et l'activité physique.",
    "photo": "",
@@ -458,6 +466,10 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-01/systeme-d-education/il-n-y-a-pas-vraiment-d-ecole-a-trois-vitesses-dit-frechette.php"
+    },
+    {
+     "media": "CTV Montreal",
+     "url": "https://www.ctvnews.ca/montreal/quebec-election-2026/article/is-that-the-best-solution-frechette-hesitates-to-review-struggling-education-system-follow-for-live-updates/"
     }
    ],
    "permalien": "christine-frechette-affirme-qu-il-n-y-a-pas-vraiment-d-ecole-fe72a6",
@@ -496,9 +508,9 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Mauricie (Trois-Rivières)",
-   "medias": "Les Affaires, Le Devoir",
+   "medias": "Les Affaires, Le Devoir, Parti conservateur du Québec, Montreal Gazette",
    "url": "https://www.lesaffaires.com/secteurs/politique/jour-6-le-pq-propose-de-detaxer-les-biens-usages/",
-   "resume": "Paul St-Pierre Plamondon s'engage, dès le premier jour d'un gouvernement péquiste, à retirer la taxe de vente du Québec sur les biens et les véhicules usagés, une mesure que le Parti québécois chiffre à 700 millions par année et qui ferait économiser 2800 $ à l'acheteur d'une voiture usagée de 28 000 $. Le Parti conservateur du Québec avait annoncé la même mesure dimanche ; le chef péquiste se défend de copier et y voit d'abord « une bonne politique » qui aide les ménages et évite de jeter des biens inutilement.",
+   "resume": "Paul St-Pierre Plamondon s'engage, dès le premier jour d'un gouvernement péquiste, à retirer la taxe de vente du Québec sur les biens et les véhicules usagés, une mesure que le Parti québécois chiffre à 700 millions par année et qui ferait économiser 2800 $ à l'acheteur d'une voiture usagée de 28 000 $. Le Parti conservateur du Québec, qui a mis son propre document en ligne le 30 août, et Québec solidaire portent le même engagement depuis des années — une mesure que 77 % des répondants appuyaient dans le sondage Léger de la fin de semaine, le plus haut score des 29 propositions testées ; le chef péquiste se défend de copier et y voit d'abord « une bonne politique » qui aide les ménages et évite de jeter des biens inutilement.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-01T12:50-04:00",
@@ -510,6 +522,14 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1005572/pq-engage-lui-aussi-detaxer-achat-produits-usages"
+    },
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/wp-content/uploads/2026/08/Eliminer-TVQ-sur-biens-usages.pdf"
+    },
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/quebec-elections/pq-conservatives-qs-promise-to-drop-sales-tax-on-used-goods/"
     }
    ],
    "permalien": "le-pq-promet-a-son-tour-d-abolir-la-tvq-sur-les-biens-et-les-8b53c2",
@@ -522,16 +542,28 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "CBC",
-   "url": "https://www.cbc.ca/news/canada/montreal/elections-quebec-information-french-only-9.7327799",
-   "resume": "Pour la première fois lors d'une élection générale, les documents d'information envoyés par la poste aux électeurs québécois seront rédigés uniquement en français, a annoncé Élections Québec par communiqué mardi. L'organisme invoque les modifications apportées à la législation linguistique québécoise pour expliquer ce changement.",
+   "medias": "Élections Québec, CBC, CTV Montreal, Montreal Gazette",
+   "url": "https://www.electionsquebec.qc.ca/communiques/elections-provinciales-de-2026-les-documents-dinformation-envoyes-seront-en-francais-seulement/",
+   "resume": "Pour la première fois lors d'une élection générale, les trois documents qu'Élections Québec poste aux électeurs — le guide de l'élection, l'avis d'inscription et la carte de rappel — seront rédigés uniquement en français et porteront un code QR menant à la version anglaise du site ; l'institution invoque les modifications que la Loi sur la langue officielle et commune du Québec, le français a apportées à la Charte de la langue française. Le guide et l'avis d'inscription arriveront au plus tard dans la semaine du 14 septembre et la carte de rappel dans celle du 28 septembre ; seules les personnes déclarées admissibles à l'enseignement en anglais et les Autochtones pourront obtenir de l'information en anglais en communiquant avec l'institution.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-01T12:50-04:00",
    "sources": [
     {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/communiques/elections-provinciales-de-2026-les-documents-dinformation-envoyes-seront-en-francais-seulement/"
+    },
+    {
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/montreal/elections-quebec-information-french-only-9.7327799"
+    },
+    {
+     "media": "CTV Montreal",
+     "url": "https://www.ctvnews.ca/montreal/quebec-election-2026/article/quebec-election-documents-to-be-sent-only-in-french-to-comply-with-language-laws/"
+    },
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/news/provincial-news/provincial-politics/voting-information-mailings-french-only-elections-quebec/"
     }
    ],
    "permalien": "elections-quebec-postera-ses-documents-d-information-aux-ele-6dfca3",
@@ -650,6 +682,174 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-01.json",
    "_slug": "le-quebec-est-present-dans-19-pays-et-non-34-comme-l-a-dit-c-9be886"
+  },
+  {
+   "titre": "Dans le cadre financier de la CAQ, 8 des 9,2 milliards d'engagements restent à annoncer",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Coalition avenir Québec, Montreal Gazette",
+   "url": "https://coalitionavenirquebec.org/wp-content/uploads/2026/08/cadre-financier-v8-30-aout.pdf",
+   "resume": "Le cadre financier publié le 30 août par l'Équipe Christine Fréchette - Coalition avenir Québec chiffre à 9,2 milliards l'impact budgétaire de ses engagements électoraux de 2026-2027 à 2030-2031, dont 8,0 milliards inscrits à une ligne « engagements à venir » : des mesures que le parti a provisionnées sans les avoir annoncées. Signé par le ministre des Finances sortant et candidat dans Groulx, Eric Girard, le document dit financer ces engagements par 4,4 milliards de transferts fédéraux de plus que le rapport préélectoral et par 5 milliards puisés dans la provision pour éventualités, et prévoit un retour à l'équilibre en 2029-2030 avec un « écart à résorber » non détaillé de 1,85 milliard en 2028-2029, puis de 2 milliards par année.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T13:21-04:00",
+   "sources": [
+    {
+     "media": "Coalition avenir Québec (cadre financier)",
+     "url": "https://coalitionavenirquebec.org/wp-content/uploads/2026/08/cadre-financier-v8-30-aout.pdf"
+    },
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/08/30/lequipe-christine-frechette-presente-un-cadre-financier-responsable-pour-fair/"
+    },
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/quebec-elections/caq-financial-plan-quebec-election/"
+    }
+   ],
+   "permalien": "dans-le-cadre-financier-de-la-caq-8-des-9-2-milliards-d-enga-da5b05",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "dans-le-cadre-financier-de-la-caq-8-des-9-2-milliards-d-enga-da5b05"
+  },
+  {
+   "titre": "Au registre d'Élections Québec, 204 candidatures acceptées dans 104 des 127 circonscriptions",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Élections Québec, Le Québec vote",
+   "url": "https://donnees.electionsquebec.qc.ca/production/provincial/candidatures/candidatures.json",
+   "resume": "Seize jours avant la clôture des mises en candidature, fixée au 17 septembre à 14 h, le fichier public d'Élections Québec recense 204 candidatures acceptées dans 104 des 127 circonscriptions : 61 pour le Parti québécois, 41 pour l'Équipe Christine Fréchette - Coalition avenir Québec, 23 chacun pour le Parti conservateur du Québec et Québec solidaire, 17 pour le Parti libéral du Québec. L'écart avec les candidatures annoncées est considérable — le tableau de bord de Le Québec vote en comptait 494 sur 635 possibles pour les cinq principaux partis au 28 août — parce que le registre n'inscrit une candidature qu'une fois acceptée par la directrice ou le directeur du scrutin, et non le jour où un parti l'annonce ; 27 députés sortants y figurent déjà.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T13:21-04:00",
+   "sources": [
+    {
+     "media": "Élections Québec (données ouvertes)",
+     "url": "https://donnees.electionsquebec.qc.ca/production/provincial/candidatures/candidatures.json"
+    },
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/voter/candidatures/"
+    },
+    {
+     "media": "Le Québec vote",
+     "url": "https://lequebecvote.ca/"
+    }
+   ],
+   "permalien": "au-registre-d-elections-quebec-204-candidatures-acceptees-da-973cf0",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "au-registre-d-elections-quebec-204-candidatures-acceptees-da-973cf0"
+  },
+  {
+   "titre": "Les plafonds de dépenses de la campagne : 0,88 $ par électeur pour un parti, 0,95 $ pour un candidat",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Élections Québec",
+   "url": "https://www.electionsquebec.qc.ca/financement-depenses-et-contributions/limites-des-depenses-electorales/",
+   "resume": "Pour l'exercice du 1er avril 2026 au 31 mars 2027, Élections Québec fixe la dépense électorale maximale à 0,88 $ par électeur pour un parti politique et à 0,95 $ par électeur pour une candidate ou un candidat, contre 0,86 $ et 0,93 $ l'exercice précédent. Neuf circonscriptions à faible densité — Abitibi-Est, Abitibi-Ouest, Bonaventure, Duplessis, Gaspé, Laviolette–Saint-Maurice, René-Lévesque, Rouyn-Noranda–Témiscamingue et Ungava — donnent droit à 1,20 $ par électeur, et les Îles-de-la-Madeleine à 2,14 $, le plafond le plus élevé du Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T13:21-04:00",
+   "sources": [
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/financement-depenses-et-contributions/limites-des-depenses-electorales/"
+    }
+   ],
+   "permalien": "les-plafonds-de-depenses-de-la-campagne-0-88-par-electeur-po-0bae28",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "les-plafonds-de-depenses-de-la-campagne-0-88-par-electeur-po-0bae28"
+  },
+  {
+   "titre": "Au sixième jour, ce que les cinq sites de partis rendent public de leurs plateformes",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Coalition avenir Québec, Parti conservateur du Québec, Parti québécois, Parti libéral du Québec, Québec solidaire",
+   "url": "https://coalitionavenirquebec.org/",
+   "resume": "Au 1er septembre, seul le site de l'Équipe Christine Fréchette - Coalition avenir Québec porte un cadre financier chiffré, mis en ligne le 30 août, tandis que le Parti conservateur du Québec publie une plateforme électorale complète datée du 19 août accompagnée de sept documents techniques — dépenses publiques, impôt des sociétés, forêt, sortie du gaz naturel, TVQ sur les biens usagés — et que le Parti québécois renvoie à son « Livre bleu » de juillet. La page « Documents officiels » du Parti libéral du Québec ne contient que sa constitution, son règlement général, ses règles de course à la direction et une politique de prévention, et le site de Québec solidaire, organisé par thèmes et sans salle de presse, ne rend son programme accessible que par un fichier hébergé sur Google Drive.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T13:21-04:00",
+   "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/"
+    },
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/documents-officiels/"
+    },
+    {
+     "media": "Parti québécois",
+     "url": "https://pq.org/wp-content/uploads/2026/07/PQ_Livre-bleu-pages.pdf"
+    },
+    {
+     "media": "Parti libéral du Québec",
+     "url": "https://plq.org/documents-officiels/"
+    },
+    {
+     "media": "Québec solidaire",
+     "url": "https://quebecsolidaire.net/"
+    }
+   ],
+   "permalien": "au-sixieme-jour-ce-que-les-cinq-sites-de-partis-rendent-publ-e93609",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "au-sixieme-jour-ce-que-les-cinq-sites-de-partis-rendent-publ-e93609"
+  },
+  {
+   "titre": "Hors des cinq grands partis, 39 candidatures acceptées dont quatre indépendants",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Élections Québec",
+   "url": "https://donnees.electionsquebec.qc.ca/production/provincial/repaq/partis-politiques/pp_autorises.json",
+   "resume": "Le Québec compte 20 partis provinciaux autorisés, et huit d'entre eux, hors des cinq principaux, ont déjà fait accepter des candidatures : Présence Québec en présente 10, le Parti vert du Québec 9, le Parti communiste du Québec 6, le Parti accès propriété et équité – Équipe Québec debout 4, le Parti canadien du Québec 3, Climat Québec – Équipe Martine Ouellet 2 et le Parti marxiste-léniniste du Québec 1. Quatre candidatures indépendantes s'y ajoutent, dans Argenteuil, Maskinongé, Nicolet-Bécancour et Viau, alors que le plus récent parti autorisé, le Parti populaire du Québec, reconnu le 9 janvier 2026, n'a encore aucune candidature au registre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T13:21-04:00",
+   "sources": [
+    {
+     "media": "Élections Québec (données ouvertes)",
+     "url": "https://donnees.electionsquebec.qc.ca/production/provincial/repaq/partis-politiques/pp_autorises.json"
+    },
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/partis-et-autres-entites-politiques/partis-politiques/"
+    }
+   ],
+   "permalien": "hors-des-cinq-grands-partis-39-candidatures-acceptees-dont-q-b25cd2",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "hors-des-cinq-grands-partis-39-candidatures-acceptees-dont-q-b25cd2"
+  },
+  {
+   "titre": "Québec rappelle que menacer un candidat peut mener à dix ans de prison",
+   "cahier": "elections",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Gouvernement du Québec",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/menacer-elus-ou-candidats-a-lelection-pourrait-vous-conduire-en-prison",
+   "resume": "Le gouvernement du Québec a mis à jour le 1er septembre un avis prévenant que la liberté d'opinion et d'expression en période électorale ne soustrait pas au droit criminel les menaces, le harcèlement et l'intimidation visant des élus ou des candidats, infractions passibles d'une peine maximale de dix ans d'emprisonnement et d'un casier judiciaire. L'avertissement, illustré d'exemples fictifs de publications, vise autant les médias sociaux que les courriels, les messages vocaux et les conversations privées.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T13:21-04:00",
+   "sources": [
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/menacer-elus-ou-candidats-a-lelection-pourrait-vous-conduire-en-prison"
+    }
+   ],
+   "permalien": "quebec-rappelle-que-menacer-un-candidat-peut-mener-a-dix-ans-1b1fd2",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "quebec-rappelle-que-menacer-un-candidat-peut-mener-a-dix-ans-1b1fd2"
   },
   {
    "titre": "Sommet de l'OCS : le premier ministre indien Narendra Modi presse Vladimir Poutine de mettre fin à la guerre en Ukraine",
@@ -3659,13 +3859,21 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Québecor",
+   "medias": "Élections Québec, Québecor",
    "url": "https://www.24heures.ca/2026/08/31/equipe-christine-frechette-pourquoi-la-caq-ne-figure-t-elle-pas-sur-les-pancartes",
-   "resume": "Les affiches caquistes portent la mention « Équipe Christine Fréchette » plutôt que le nom du parti, un choix qui visait sans doute à relancer la marque de la Coalition avenir Québec en la rapprochant de celle de la cheffe et à faire « table rase » de l'héritage de François Legault, avance le professeur de science politique de l'Université Laval Thierry Giasson. Depuis son accession à la direction du parti en avril, Christine Fréchette multiplie les gestes de distanciation à l'égard de son prédécesseur, qui avait démissionné en raison de son impopularité.",
+   "resume": "Les affiches caquistes portent la mention « Équipe Christine Fréchette » plutôt que le nom du parti, un choix qui visait sans doute à relancer la marque de la Coalition avenir Québec en la rapprochant de celle de la cheffe et à faire « table rase » de l'héritage de François Legault, avance le professeur de science politique de l'Université Laval Thierry Giasson. Le registre des entités politiques autorisées d'Élections Québec montre que le nom légal du parti est bien « Équipe Christine Fréchette - Coalition avenir Québec », celui qui paraîtra sur le bulletin de vote du 5 octobre : la formule n'est pas neuve, mais l'ordre l'est, puisqu'en 2018 et en 2022 le parti était inscrit comme « Coalition avenir Québec – L'équipe François Legault ».",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg",
    "legende": "Christine Fréchette, cheffe de la Coalition avenir Québec.",
    "horodate": "2026-08-31T20:39-04:00",
    "sources": [
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/partis-et-autres-entites-politiques/partis-politiques/"
+    },
+    {
+     "media": "Élections Québec (résultats)",
+     "url": "https://www.electionsquebec.qc.ca/resultats-et-statistiques/"
+    },
     {
      "media": "Le 24 heures",
      "url": "https://www.24heures.ca/2026/08/31/equipe-christine-frechette-pourquoi-la-caq-ne-figure-t-elle-pas-sur-les-pancartes"
