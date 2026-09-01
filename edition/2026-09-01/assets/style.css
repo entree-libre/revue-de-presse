@@ -3,7 +3,7 @@
  --bg:#ffffff; --fg:#16161a; --muted:#6b6b72; --rule:#e2e2e5; --rule-fort:#16161a;
  --accent:#ffd400; --accent-fg:#111114; --accent-txt:#8a6f00;
  --link:#16161a; --card:#ffffff; --ombre:rgba(0,0,0,.06);
- --measure:84rem; --wide:100rem;
+ --measure:84rem; --wide:100rem; --carte-min:21rem;
  --h-barre:2.7rem; --h-entete:7rem;
  --font:"Newsreader",Georgia,"Iowan Old Style","Charter","Times New Roman",serif;
  --titre:var(--font);
@@ -55,8 +55,18 @@ html[data-font="inter"]{--font:"Inter",var(--ui);--titre:var(--font);}
 html{font-size:calc(112% * var(--scale));scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--font);
  line-height:1.65;text-align:justify;-webkit-font-smoothing:antialiased}
-.wrap{max-width:var(--measure);margin:0 auto;padding:0 1rem 6rem}
-.wrap.large{max-width:var(--wide)}
+/* Toute la largeur de l'ecran, quelle que soit la police (1er sept. 2026).
+   L'ancien plafond a 84/100 rem laissait des marges vides sur un grand ecran
+   et, pire, empechait d'ajouter des colonnes quand le lecteur rapetissait la
+   police : la page se retrecissait AVEC les caracteres. Le nombre de colonnes
+   se deduit maintenant de la place disponible et d'une largeur minimale de
+   carte en rem (`--carte-min`) — rapetisser la police fait entrer plus de
+   colonnes, l'agrandir en retire, l'ecran est toujours plein.
+   Les pages de prose (sujet, sources) gardent leur mesure de lecture par
+   `.col-texte` : une ligne de 200 caracteres ne se lit pas, quel que soit
+   l'ecran. */
+.wrap{max-width:none;margin:0;padding:0 clamp(1rem,2vw,3rem) 6rem}
+.wrap.large{max-width:none}
 a{color:var(--link);text-decoration-color:var(--accent-txt);text-decoration-thickness:.13em;text-underline-offset:.16em}
 img{max-width:100%}
 
@@ -144,11 +154,11 @@ h1{font-family:var(--titre);font-size:3rem;line-height:1.05;margin:.35rem 0 .7re
 @media (max-width:56rem){.man-grille{grid-template-columns:1fr;gap:1.1rem}
  .manchette{padding:1.1rem 1rem 1.3rem}
  .man-photo{order:-1}}
-.secondaires{display:grid;grid-template-columns:repeat(3,1fr);gap:0;
+.secondaires{display:grid;gap:0;
+ grid-template-columns:repeat(auto-fill,minmax(min(var(--carte-min),100%),1fr));
  margin:1.8rem 0 0;border-top:1px solid var(--rule);padding-top:1.2rem}
 .secondaires article.carte{border:0;padding:0 1.3rem;border-left:1px solid var(--rule)}
 .secondaires article.carte:first-child{border-left:0;padding-left:0}
-@media (min-width:100rem){.secondaires{grid-template-columns:repeat(4,1fr)}}
 @media (max-width:56rem){.secondaires{grid-template-columns:1fr}
  .secondaires article.carte{border-left:0;padding:1rem 0;
   border-top:1px solid var(--rule)}
@@ -168,13 +178,14 @@ h3.rubrique{font-family:var(--ui);font-size:.74rem;margin:1.8rem 0 .2rem;
 h3.rubrique .cnt{color:var(--muted);font-weight:400}
 
 /* ------------------------------------------------------------------ cartes */
-.grille{display:grid;grid-template-columns:repeat(2,1fr);gap:0 2.2rem}
-@media (min-width:78rem){.grille{grid-template-columns:repeat(3,1fr)}}
-@media (min-width:100rem){.grille{grid-template-columns:repeat(4,1fr)}}
-@media (max-width:62rem){.grille{grid-template-columns:1fr;gap:0}}
+/* `min(var(--carte-min),100%)` : sur un ecran plus etroit qu'une carte, la
+   colonne unique ne deborde jamais. */
+.grille{display:grid;gap:0 2.2rem;
+ grid-template-columns:repeat(auto-fill,minmax(min(var(--carte-min),100%),1fr))}
+@media (max-width:62rem){.grille{gap:0}}
 html[data-cols="1"] .grille{grid-template-columns:1fr;gap:0}
 html[data-cols="1"] .secondaires{grid-template-columns:1fr}
-html[data-cols="1"] .wrap.large{max-width:var(--measure)}
+html[data-cols="1"] .wrap{max-width:var(--measure);margin:0 auto}
 .accueil{display:grid;grid-template-columns:1fr 18rem;gap:0 2.4rem;align-items:start}
 .accueil-principal{grid-column:1;grid-row:1}
 .derniers{grid-column:2;grid-row:1}

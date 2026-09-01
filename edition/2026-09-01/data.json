@@ -895,13 +895,17 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Les Affaires, Le Devoir, Coops de l'information",
+   "medias": "Parti conservateur du Québec, Les Affaires, Le Devoir, Coops de l'information",
    "url": "https://www.lesaffaires.com/secteurs/politique/jour-6-le-pcq-veut-alleger-la-paperasse-pour-les-entreprises/",
    "resume": "Éric Duhaime s'engage à retrancher 30 % des exigences réglementaires imposées aux entreprises, un fardeau que le Parti conservateur du Québec chiffre à près de 150 000 exigences au Québec contre 67 094 en Alberta, province dont il dit vouloir s'inspirer et qui a réduit le sien de 35 % depuis 2019. Le parti promet un inventaire public des exigences, le retrait d'une règle existante pour chaque nouvelle règle, des réformes prioritaires en construction, en agriculture, en environnement, en fiscalité et dans les ressources naturelles, et invoque une estimation de la Fédération canadienne de l'entreprise indépendante selon laquelle la réglementation coûte 10,9 milliards par année aux PME québécoises.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-01T12:50-04:00",
    "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/fini-la-paperasse-le-pcq-veut-redonner-32-jours-par-annee-aux-entrepreneurs/"
+    },
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-6-le-pcq-veut-alleger-la-paperasse-pour-les-entreprises/"
@@ -1563,12 +1567,12 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "La Presse, Noovo Info, Radio-Canada",
+   "medias": "La Presse, Noovo Info, Radio-Canada, Le Devoir",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-01/victoire-de-carney-dans-chicoutimi/la-defaite-du-bloc-n-inquiete-pas-paul-st-pierre-plamondon.php",
-   "resume": "Au lendemain de la victoire du libéral Daniel Gobeil dans Chicoutimi–Le Fjord, où le Bloc québécois a été nettement devancé dans une région réputée souverainiste, Paul St-Pierre Plamondon dit ne voir aucun lien entre ce résultat fédéral et la campagne provinciale, pendant que des analystes se demandent si la popularité de Mark Carney pourra peser le 5 octobre.",
+   "resume": "Au lendemain de la victoire du libéral Daniel Gobeil dans Chicoutimi–Le Fjord, où le Bloc québécois a été nettement devancé dans une région réputée souverainiste, Paul St-Pierre Plamondon dit ne voir aucun lien entre ce résultat fédéral et la campagne provinciale, pendant que des analystes se demandent si la popularité de Mark Carney pourra peser le 5 octobre.\n\n**Mise à jour, 19 h** — Le chef du PCQ, Éric Duhaime, a vu dans les résultats un signe d'appétit pour les politiques conservatrices, pendant que le chef libéral Charles Milliard s'est présenté comme un allié du premier ministre canadien Mark Carney.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-01T14:25-04:00",
+   "horodate": "2026-09-01T19:28-04:00",
    "sources": [
     {
      "media": "La Presse",
@@ -1581,6 +1585,10 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/info/videos/1-10749865/un-effet-carney-5-octobre"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/1005623/election-partielle-federale-incruste-generale-quebecoise"
     }
    ],
    "permalien": "apres-la-partielle-de-chicoutimile-fjord-st-pierre-plamondon-54e8b6",
@@ -1725,7 +1733,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec (Ungava)",
-   "medias": "La Presse, La Sentinelle",
+   "medias": "La Presse, La Sentinelle, Montreal Gazette",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-01/propos-controverses/frechette-annonce-le-retrait-du-candidat-caquiste-dans-ungava.php",
    "resume": "Le candidat caquiste dans Ungava, Paul Dadie, a retiré sa candidature après que le Centre de femmes Les Elles du Nord, à Chibougamau, a dénoncé avoir vécu un « climat de confrontation » lors d'une visite où il aurait remis en question la non-mixité de l'organisme, ce que Christine Fréchette a qualifié de comportement n'ayant « pas sa place » dans son équipe.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Christine_Fr%C3%A9chette.jpg",
@@ -1741,6 +1749,10 @@
     {
      "media": "La Sentinelle",
      "url": "https://lasentinelle.ca/paul-dadie-ne-sera-finalement-pas-candidat-dans-ungava/"
+    },
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/quebec-elections/caq-candidate-paul-dadie-dropped-ungava/"
     }
    ],
    "permalien": "le-candidat-caquiste-paul-dadie-se-retire-dans-ungava-apres-36d54b",
@@ -1753,7 +1765,7 @@
    "cahier": "elections",
    "rubrique": "transport",
    "territoire": "Québec (Duplessis)",
-   "medias": "Le Nord-Côtier, Le Haute Côte-Nord, Le Manic",
+   "medias": "Le Nord-Côtier, Le Haute Côte-Nord, Le Manic, Radio-Canada",
    "url": "https://lenord-cotier.com/2026/09/01/le-pont-sur-le-saguenay-rallie-les-candidats-de-duplessis/",
    "resume": "À Sept-Îles, les candidats caquiste, péquiste et conservateur dans Duplessis — Kateri Champagne Jourdain, Meggie Richard et Roberto Stéa — ont tous appuyé la construction d'un pont sur le Saguenay réclamée depuis des années par la Coalition Union 138, qui a dévoilé une « boussole électorale » pour comparer les engagements des partis, alors que la députée sortante affirme avoir inscrit le projet au Plan québécois des infrastructures durant son mandat.",
    "photo": "",
@@ -1771,12 +1783,170 @@
     {
      "media": "Le Manic",
      "url": "https://www.lemanic.ca/2026/09/01/le-pont-sur-le-saguenay-rallie-les-candidats-de-duplessis-2/"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279791/boussole-electorale-pont-saguenay-union-138"
     }
    ],
    "permalien": "dans-duplessis-les-candidats-des-trois-principaux-partis-app-4126d4",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-01.json",
    "_slug": "dans-duplessis-les-candidats-des-trois-principaux-partis-app-4126d4"
+  },
+  {
+   "titre": "Selon le modèle Qc125, le PQ mène avec 29 % des intentions et une projection de 49 sièges sur 127",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Qc125",
+   "url": "https://qc125.com/",
+   "resume": "Le modèle d'agrégation Qc125, conçu par Philippe J. Fournier, projette au 1er septembre le Parti québécois en tête avec 29 % des intentions de vote et 49 des 127 sièges, devant le Parti libéral (21 %, 31 sièges), la Coalition avenir Québec (25 %, 28 sièges), le Parti conservateur (15 %, 11 sièges) et Québec solidaire (10 %, 8 sièges). Le modèle donne 82 % de probabilité au PQ de terminer en tête, mais seulement 10 % d'obtenir la majorité des 64 sièges requis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T18:02-04:00",
+   "sources": [
+    {
+     "media": "Qc125 (Philippe J. Fournier)",
+     "url": "https://qc125.com/"
+    }
+   ],
+   "permalien": "selon-le-modele-qc125-le-pq-mene-avec-29-des-intentions-et-u-5ac466",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "selon-le-modele-qc125-le-pq-mene-avec-29-des-intentions-et-u-5ac466"
+  },
+  {
+   "titre": "La CAQ présente Jean Lacroix, ex-président de Cintech agroalimentaire, comme candidat dans Sanguinet",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Sanguinet",
+   "medias": "Coalition avenir Québec",
+   "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/01/christine-frechette-presente-jean-lacroix-le-candidat-de-la-coalition-avenir-quebec-dans-sanguinet/",
+   "resume": "Christine Fréchette a présenté la candidature de Jean Lacroix, pendant plus de vingt ans administrateur, président ou fondateur dans le secteur des énergies et de l'environnement et jusqu'à récemment à la tête de Cintech agroalimentaire, dans Sanguinet pour la Coalition avenir Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T18:02-04:00",
+   "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/01/christine-frechette-presente-jean-lacroix-le-candidat-de-la-coalition-avenir-quebec-dans-sanguinet/"
+    }
+   ],
+   "permalien": "la-caq-presente-jean-lacroix-ex-president-de-cintech-agroali-cf0db4",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "la-caq-presente-jean-lacroix-ex-president-de-cintech-agroali-cf0db4"
+  },
+  {
+   "titre": "Le PLQ présente René-Paul Coly, fonctionnaire et bénévole de Beauport, comme candidat dans Montmorency",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Montmorency",
+   "medias": "Parti libéral du Québec",
+   "url": "https://plq.org/communique/rene-paul-coly-candidat-officiel-du-parti-liberal-du-quebec-dans-montmorency/",
+   "resume": "Le Parti libéral du Québec a annoncé la candidature de René-Paul Coly, employé du gouvernement du Québec et bénévole de longue date dans l'est de Québec, notamment à la Société de Saint-Vincent-de-Paul et au Club Lions des Rivières, dans la circonscription de Montmorency.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T18:02-04:00",
+   "sources": [
+    {
+     "media": "Parti libéral du Québec",
+     "url": "https://plq.org/communique/rene-paul-coly-candidat-officiel-du-parti-liberal-du-quebec-dans-montmorency/"
+    }
+   ],
+   "permalien": "le-plq-presente-rene-paul-coly-fonctionnaire-et-benevole-de-ae7042",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "le-plq-presente-rene-paul-coly-fonctionnaire-et-benevole-de-ae7042"
+  },
+  {
+   "titre": "Depuis le début de la campagne, la « guerre des citations » entre partis attire l'attention des politologues",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2466257/campagnes-electorales-qui-deraillent",
+   "resume": "Depuis le début de la campagne, plusieurs partis se dénoncent mutuellement pour des propos tenus par des candidats adverses, une tendance qu'analyse le politologue Thierry Giasson, de l'Université Laval, au micro de Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T19:28-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2466257/campagnes-electorales-qui-deraillent"
+    }
+   ],
+   "permalien": "depuis-le-debut-de-la-campagne-la-guerre-des-citations-entre-6a9636",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "depuis-le-debut-de-la-campagne-la-guerre-des-citations-entre-6a9636"
+  },
+  {
+   "titre": "Élections québécoises 2026 : la Ville de Terrebonne réclame des engagements pour ses priorités",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Terrebonne)",
+   "medias": "Ville de Terrebonne",
+   "url": "https://terrebonne.ca/nouvelle/26/09/01/elections-quebecoises-2026-la-ville-de-terrebonne-reclame-des-engagements-pour-ses-priorites/",
+   "resume": "En conférence de presse le 31 août, la Ville de Terrebonne a demandé aux partis de s'engager sur le financement du Quartier universitaire de l'UQTR, un soutien récurrent au transport collectif dans la Couronne Nord et le droit de se doter d'une charte constitutive.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T19:28-04:00",
+   "sources": [
+    {
+     "media": "Ville de Terrebonne",
+     "url": "https://terrebonne.ca/nouvelle/26/09/01/elections-quebecoises-2026-la-ville-de-terrebonne-reclame-des-engagements-pour-ses-priorites/"
+    }
+   ],
+   "permalien": "elections-quebecoises-2026-la-ville-de-terrebonne-reclame-de-54173a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "elections-quebecoises-2026-la-ville-de-terrebonne-reclame-de-54173a"
+  },
+  {
+   "titre": "Le PCQ s'engage à refuser toute taxe sur l'essence de la Communauté métropolitaine de Québec",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Québec (Saint-Augustin-de-Desmaures)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279790/congestion-saint-augustin-promesses-conservateurs-duhaime",
+   "resume": "À la sortie d'une rencontre avec le maire de Saint-Augustin-de-Desmaures, le chef du PCQ Éric Duhaime s'est engagé à refuser toute demande de taxe sur l'essence de la Communauté métropolitaine de Québec et à permettre aux villes de se retirer d'une société de transport collectif.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T19:28-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279790/congestion-saint-augustin-promesses-conservateurs-duhaime"
+    }
+   ],
+   "permalien": "le-pcq-s-engage-a-refuser-toute-taxe-sur-l-essence-de-la-com-6fc9b8",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "le-pcq-s-engage-a-refuser-toute-taxe-sur-l-essence-de-la-com-6fc9b8"
+  },
+  {
+   "titre": "Fréchette promet aux médecins une mobilité public-privé que son gouvernement avait interdite en 2025",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/chroniques/2026-09-01/le-moment-frechette-et-l-effet-carney.php",
+   "resume": "Une chronique de La Presse signée Michel C. Auger relève que la cheffe de la CAQ promet de permettre aux médecins de passer librement entre les régimes public et privé, une pratique que son propre gouvernement avait interdite en avril 2025.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T19:28-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/chroniques/2026-09-01/le-moment-frechette-et-l-effet-carney.php"
+    }
+   ],
+   "permalien": "frechette-promet-aux-medecins-une-mobilite-public-prive-que-eacab4",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "frechette-promet-aux-medecins-une-mobilite-public-prive-que-eacab4"
   },
   {
    "titre": "La MRC de Beauce-Sartigan mettra fin à son service de transport collectif",
