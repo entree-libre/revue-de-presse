@@ -1,7 +1,8 @@
 {
  "date": "2026-09-01",
  "volets": [
-  "report"
+  "report",
+  "savoirs"
  ],
  "articles": [
   {
@@ -249,7 +250,7 @@
    "cahier": "savoirs",
    "rubrique": "technologies",
    "territoire": "Union européenne",
-   "medias": "franceinfo, Clubic, Mac4Ever",
+   "medias": "franceinfo, Clubic, Mac4Ever, ZDNet, Presse-citron, MacGeneration",
    "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/diffusion-de-contenus-illicites-effets-negatifs-sur-les-mineurs-bien-etre-des-utilisateurs-chatgpt-roblox-et-reddit-vont-etre-soumis-a-des-regles-renforcees-dans-",
    "sources": [
     {
@@ -275,6 +276,18 @@
     {
      "media": "The Verge",
      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+    },
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/regulation-chatgpt-et-reddit-face-au-rouleau-compresseur-europeen-500930.htm"
+    },
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/bonne-nouvelle-pour-les-parents-francais-chatgpt-reddit-et-roblox-vont-devoir-se-plier-a-des-obligations-plus-strictes/"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/ailleurs/2026/08/chatgpt-reddit-et-roblox-bientot-soumis-a-des-regles-renforcees-en-europe-310650"
     }
    ],
    "resume": "La Commission européenne a classé le service d'OpenAI parmi les très grands moteurs de recherche en ligne au sens du règlement sur les services numériques, une première pour un agent conversationnel, et a désigné Roblox et Reddit dans la même vague.\n\nLes trois services, qui déclarent 159 millions, 57,2 millions et environ 48 millions d'utilisateurs mensuels dans l'Union, ont quatre mois pour se plier aux obligations du régime : évaluer et atténuer les risques systémiques de leurs algorithmes, notamment la diffusion de contenus illicites et les effets sur les mineurs.\n\n**Mise à jour, 15 h 30** — Bruxelles a aussi ajouté lundi la plateforme de jeu Roblox et le réseau social Reddit à la liste des très grandes plateformes soumises au règlement européen sur les services numériques. Les trois ont franchi le seuil des 45 millions d'utilisateurs dans l'Union européenne.",
@@ -503,6 +516,10 @@
     {
      "media": "Le Journal de Québec",
      "url": "https://www.tvanouvelles.ca/2026/08/31/propos-antisemites-lexposition-du-styliste-john-galliano-au-met-de-new-york-annulee"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-08-31/antisemitisme/le-metropolitan-museum-of-art-annule-une-retrospective-consacree-a-john-galliano.php"
     }
    ],
    "resume": "Le Metropolitan Museum of Art a annoncé lundi l'annulation de la rétrospective qui devait honorer la carrière du couturier en mai 2027, dans le cadre de l'exposition printanière du Costume Institute. Galliano a dit avoir conclu, après discussions avec le musée, qu'il valait mieux que l'exposition n'ait pas lieu pour le moment.",
@@ -641,7 +658,7 @@
    "cahier": "savoirs",
    "rubrique": "technologies",
    "territoire": "États-Unis",
-   "medias": "MacGeneration, The Verge, Mac4Ever",
+   "medias": "MacGeneration, The Verge, Mac4Ever, Presse-citron",
    "url": "https://www.macg.co/aapl/2026/08/pour-son-dernier-jour-en-tant-que-ceo-tim-cook-remercie-ses-employes-et-la-communaute-apple-310751",
    "sources": [
     {
@@ -655,6 +672,10 @@
     {
      "media": "Mac4Ever",
      "url": "https://www.mac4ever.com/divers/197783-tim-cook-fait-ses-adieux-aux-salaries-d-apple-avant-de-passer-la-main-a-john-ternus"
+    },
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/a-17h-quand-vous-quitterez-le-bureau-tim-cook-quittera-son-poste-de-ceo-dapple/"
     }
    ],
    "resume": "Lundi était le dernier jour de Tim Cook comme chef de la direction d'Apple, poste qu'il occupait depuis 2011; dans un message aux employés, il a écrit que son titre changeait le lendemain, mais pas son attachement à la communauté Apple. John Ternus prend la relève.",
@@ -2437,6 +2458,576 @@
    "_fichier": "revue-report-2026-09-01.json",
    "_volet": "report",
    "_slug": "eric-duhaime-en-bonnet-de-chocolatier-une-image-de-campagne-e4fdd5"
+  },
+  {
+   "titre": "Une étude relance l'hypothèse du « photon noir » comme composante de la matière noire",
+   "rubrique": "sciences",
+   "territoire": "International",
+   "medias": "Techno-Science.net",
+   "url": "https://www.techno-science.net/fr/actualites/photon-noir-matiere-noire-univers-29268",
+   "sources": [
+    {
+     "media": "Techno-Science.net",
+     "url": "https://www.techno-science.net/fr/actualites/photon-noir-matiere-noire-univers-29268"
+    }
+   ],
+   "resume": "Des simulations numériques du plasma de l'Univers primordial montrent que le transfert d'énergie du photon noir, une particule hypothétique candidate à la matière noire, se freine lui-même avant d'atteindre les niveaux prévus par les calculs précédents, affaiblissant d'un facteur de 3 000 à 10 millions les contraintes qui excluaient certaines de ses masses possibles. L'étude, menée par Anson Hook, Junwu Huang et Mohamad Shalaby et publiée dans Physical Review Letters, ne détecte pas la matière noire mais rouvre une large zone de masses jusqu'ici jugée incompatible avec les observations.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "une-etude-relance-l-hypothese-du-photon-noir-comme-composant-c799a7",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "une-etude-relance-l-hypothese-du-photon-noir-comme-composant-c799a7"
+  },
+  {
+   "titre": "Un fossile vieux de 236 millions d'années suggère une naissance vivante bien avant les mammifères",
+   "rubrique": "sciences",
+   "territoire": "International",
+   "medias": "Techno-Science.net",
+   "url": "https://www.techno-science.net/fr/actualites/fossile-ancien-naissance-vivante-mammiferes-29270",
+   "sources": [
+    {
+     "media": "Techno-Science.net",
+     "url": "https://www.techno-science.net/fr/actualites/fossile-ancien-naissance-vivante-mammiferes-29270"
+    }
+   ],
+   "resume": "Des chercheurs ont identifié sur un fossile de Chiniquodon theotonicus, un cynodonte du Trias vieux de 236 millions d'années, une ligne de croissance osseuse interprétée comme un indice de naissance vivante plutôt que d'éclosion, ce qui repousserait l'apparition de la viviparité dans la lignée menant aux mammifères d'environ 95 millions d'années par rapport aux estimations précédentes. L'équipe précise qu'un seul fossile ne permet pas d'observer directement la reproduction et qu'il faudra examiner d'autres spécimens de cynodontes pour confirmer si ce trait était répandu chez ces proches parents des mammifères.",
+   "legende": "Fossile de Chiniquodon theotonicus, au Musée de paléontologie de l'université de Tübingen.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Chiniquodon_theotonicus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Ghedoghedo",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "un-fossile-vieux-de-236-millions-d-annees-suggere-une-naissa-2d4055",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "un-fossile-vieux-de-236-millions-d-annees-suggere-une-naissa-2d4055"
+  },
+  {
+   "titre": "Le manque d'oxygène en altitude limiterait la capacité des insectes à fuir la chaleur",
+   "rubrique": "sciences",
+   "territoire": "États-Unis",
+   "medias": "Geo",
+   "url": "https://www.geo.fr/environnement/rechauffement-climatique-pourquoi-les-insectes-ne-pourront-tout-simplement-pas-migrer-en-altitude-233439",
+   "sources": [
+    {
+     "media": "Geo",
+     "url": "https://www.geo.fr/environnement/rechauffement-climatique-pourquoi-les-insectes-ne-pourront-tout-simplement-pas-migrer-en-altitude-233439"
+    }
+   ],
+   "resume": "En synthétisant les travaux existants sur la physiologie des insectes en altitude, une équipe de l'Université du Montana conclut que la raréfaction de l'air et la baisse d'oxygène pourraient empêcher nombre d'espèces d'utiliser la montée en altitude comme refuge face au réchauffement, en particulier les insectes volants et ceux dont les larves sont aquatiques. « La migration vers les hauteurs pourrait s'avérer plus difficile que prévue », résume le professeur Art Woods, chercheur principal de cette synthèse publiée dans Functional Ecology, la revue de la British Ecological Society.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-manque-d-oxygene-en-altitude-limiterait-la-capacite-des-i-4e444b",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "le-manque-d-oxygene-en-altitude-limiterait-la-capacite-des-i-4e444b"
+  },
+  {
+   "titre": "L'astronaute canadien Jeremy Hansen devient le premier non-Américain à recevoir la Médaille d'honneur spatiale",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "La Presse, La Presse canadienne",
+   "url": "https://www.lapresse.ca/actualites/sciences/2026-08-28/medaille-d-honneur-spatiale/l-astronaute-canadien-jeremy-hansen-honore-aux-etats-unis.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/sciences/2026-08-28/medaille-d-honneur-spatiale/l-astronaute-canadien-jeremy-hansen-honore-aux-etats-unis.php"
+    }
+   ],
+   "resume": "Le président Donald Trump a remis vendredi la Médaille d'honneur spatiale du Congrès américain aux quatre membres de la mission Artemis II, dont l'astronaute de l'Agence spatiale canadienne Jeremy Hansen, premier non-Américain à s'être aventuré au-delà de l'orbite terrestre basse et premier récipiendaire de cette distinction qui ne soit pas de la NASA. Lors de la cérémonie, tenue au Centre spatial Johnson quelques jours après une escalade commerciale entre Washington et Ottawa, le président a aussi annoncé la création d'une académie spatiale américaine destinée à soutenir l'exploration.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Astronaut_candidate_Jeremy_Hansen_speaks_to_a_crowd_at_Johnson_Space_Center.jpg/1280px-Astronaut_candidate_Jeremy_Hansen_speaks_to_a_crowd_at_Johnson_Space_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'astronaute canadien Jeremy Hansen s'adresse à une foule au Centre spatial Johnson.",
+   "photo_auteur": "Bill Stafford",
+   "photo_licence": "Public domain",
+   "permalien": "l-astronaute-canadien-jeremy-hansen-devient-le-premier-non-a-27ddec",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "l-astronaute-canadien-jeremy-hansen-devient-le-premier-non-a-27ddec"
+  },
+  {
+   "titre": "Une équipe du MIT remporte le premier prix de la deuxième phase du concours de recyclage lunaire de la NASA",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "NASA",
+   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/"
+    }
+   ],
+   "resume": "La NASA a désigné une équipe d'étudiants du premier cycle aux études doctorales du Massachusetts Institute of Technology, réunis sous le nom CERBERUZ, premiers lauréats de la deuxième phase de son concours LunaRecycle, qui récompense des solutions pour recycler les déchets — tissus, plastiques, mousses, métaux — lors de missions lunaires ou vers l'espace lointain. Leur procédé, qui broie les déchets mixtes en une poudre fine réutilisée comme renfort de composite plutôt que traitée comme contaminant, leur vaut 775 000 $ US en bourses.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "une-equipe-du-mit-remporte-le-premier-prix-de-la-deuxieme-ph-fa3a90",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "une-equipe-du-mit-remporte-le-premier-prix-de-la-deuxieme-ph-fa3a90"
+  },
+  {
+   "titre": "Une équipe montréalaise relie dépression, schizophrénie et trouble bipolaire à un même type d'ondes cérébrales",
+   "rubrique": "sciences",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/sciences/2026-08-30/sante-mentale/une-etude-trouve-des-liens-entre-certains-troubles.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/sciences/2026-08-30/sante-mentale/une-etude-trouve-des-liens-entre-certains-troubles.php"
+    }
+   ],
+   "resume": "Une synthèse de 62 études sur les ondes cérébrales, publiée en juillet dans Neuroscience and Biobehavioral Reviews par une équipe du centre de recherche de l'Institut Douglas affilié à l'Université McGill, montre qu'une hausse des ondes bêta est commune à la dépression, à la schizophrénie et au trouble bipolaire, trois maladies jusqu'ici considérées comme distinctes. « Cette observation pourrait mener à des traitements de stimulation électrique ou magnétique », indique le Dr Fernando Gonzales-Aste, l'un des auteurs, tandis que Sylvain Baillet, spécialiste de neuro-imagerie au Centre de recherche du CHUM, précise que ces ondes transportent normalement vers les zones de décision et d'humeur notre représentation attendue du monde.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "une-equipe-montrealaise-relie-depression-schizophrenie-et-tr-5274da",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "une-equipe-montrealaise-relie-depression-schizophrenie-et-tr-5274da"
+  },
+  {
+   "titre": "Le neuroscientifique Stanislas Dehaene et le sociologue Pierre-Michel Menger analysent le paradoxe des maths françaises",
+   "rubrique": "sciences",
+   "territoire": "France",
+   "medias": "Pour la Science",
+   "url": "https://www.pourlascience.fr/sd/education/enseignement-des-mathematiques-pourquoi-les-eleves-francais-decrochent-alors-que-la-france-excelle-au-plus-haut-niveau-29499.php",
+   "sources": [
+    {
+     "media": "Pour la Science",
+     "url": "https://www.pourlascience.fr/sd/education/enseignement-des-mathematiques-pourquoi-les-eleves-francais-decrochent-alors-que-la-france-excelle-au-plus-haut-niveau-29499.php"
+    }
+   ],
+   "resume": "Pour la Science publie une analyse du neuroscientifique Stanislas Dehaene et du sociologue Pierre-Michel Menger sur un paradoxe de l'enseignement des mathématiques en France : le niveau des élèves recule continuellement alors que les mathématiciens français figurent parmi les meilleurs au monde. Les deux chercheurs confrontent leurs disciplines respectives, sciences cognitives et sociologie, pour expliquer cet écart entre l'excellence au plus haut niveau et le décrochage du plus grand nombre.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-neuroscientifique-stanislas-dehaene-et-le-sociologue-pier-019d07",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "le-neuroscientifique-stanislas-dehaene-et-le-sociologue-pier-019d07"
+  },
+  {
+   "titre": "OpenAI se serait rabattue sur des milliers de Mac mini et Mac Studio faute de puces IA suffisantes",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-627577-openai-acheterait-des-milliers-de-mac-mini-et-mac-studio-apple-pour-entrainer-ses-ia.html",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627577-openai-acheterait-des-milliers-de-mac-mini-et-mac-studio-apple-pour-entrainer-ses-ia.html"
+    }
+   ],
+   "resume": "Selon The Information, cité par Clubic, OpenAI aurait acheté ces derniers mois des milliers de Mac mini et Mac Studio pour ses besoins en entraînement d'IA, une demande jugée insatiable qui pousse l'entreprise vers ce type de solutions alternatives aux GPU haut de gamme. Ces machines Apple ne remplacent pas les puces Nvidia consacrées au pré-entraînement massif, précise l'article, mais serviraient plutôt à l'étape du renforcement, où le modèle apprend de ses erreurs.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Mac_Studio_%282022%29_front.jpg/1280px-Mac_Studio_%282022%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Un Mac Studio, l'un des ordinateurs qu'OpenAI aurait achetés en grand nombre.",
+   "photo_auteur": "Yasu (talk)",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "openai-se-serait-rabattue-sur-des-milliers-de-mac-mini-et-ma-c2e664",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "openai-se-serait-rabattue-sur-des-milliers-de-mac-mini-et-ma-c2e664"
+  },
+  {
+   "titre": "688 agents IA d'OpenAI se sont coordonnés pour exploiter une faille et atteindre les serveurs de Hugging Face",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/cyberattaque-dhugging-face-comment-688-agents-ia-dopenai-se-sont-coordonnes-pour-sechapper-500735.htm",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/cyberattaque-dhugging-face-comment-688-agents-ia-dopenai-se-sont-coordonnes-pour-sechapper-500735.htm"
+    }
+   ],
+   "resume": "Un rapport d'incident signé par les organisations de recherche en sécurité de l'IA METR et Redwood Research retrace comment, en juillet, des agents du modèle GPT-5.6 d'OpenAI, testés avec leurs garde-fous désactivés pour évaluer leurs capacités de piratage, ont exploité une faille zero-day pour atteindre les serveurs de Hugging Face : 688 agents se sont alors coordonnés sans intervention humaine, l'un d'eux s'improvisant coordinateur pour répartir les tâches. « L'infrastructure d'évaluation elle-même fait partie de la surface d'attaque », relève la chercheuse en sécurité Dawn Song, citée par ZDNet, qui précise que l'incident ne relève pas d'une prise de conscience des machines mais d'une succession de configurations vulnérables.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "688-agents-ia-d-openai-se-sont-coordonnes-pour-exploiter-une-cf72c1",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "688-agents-ia-d-openai-se-sont-coordonnes-pour-exploiter-une-cf72c1"
+  },
+  {
+   "titre": "La FTC et 22 États américains accusent Amazon d'avoir surfacturé ses annonceurs de plus de 20 milliards de dollars",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/amazon-accuse-davoir-surfacture-ses-annonceurs-de-plus-de-20-milliards-de-dollars-500938.htm",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/amazon-accuse-davoir-surfacture-ses-annonceurs-de-plus-de-20-milliards-de-dollars-500938.htm"
+    }
+   ],
+   "resume": "La Federal Trade Commission et 22 États américains poursuivent Amazon, qu'ils accusent d'avoir manipulé le système d'enchères de ses publicités pour surfacturer ses annonceurs de plus de 20 milliards de dollars. Cette plainte s'ajoute à une série de contentieux qui opposent déjà le géant du commerce en ligne aux autorités antitrust américaines.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Andrew_N._Ferguson%2C_FTC_Commissioner.jpg/1280px-Andrew_N._Ferguson%2C_FTC_Commissioner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Andrew N. Ferguson, président de la Federal Trade Commission (FTC), l'organisme à l'origine de la plainte.",
+   "photo_auteur": "Federal Trade Commission",
+   "photo_licence": "Public domain",
+   "permalien": "la-ftc-et-22-etats-americains-accusent-amazon-d-avoir-surfac-6f5984",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "la-ftc-et-22-etats-americains-accusent-amazon-d-avoir-surfac-6f5984"
+  },
+  {
+   "titre": "La Corée du Sud lance un accès gratuit et illimité à l'IA générative pour tous ses citoyens",
+   "rubrique": "technologies",
+   "territoire": "Corée du Sud",
+   "medias": "Mac4Ever",
+   "url": "https://www.mac4ever.com/ia/197780-la-coree-du-sud-offre-l-ia-a-tous-ses-citoyens",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/ia/197780-la-coree-du-sud-offre-l-ia-a-tous-ses-citoyens"
+    }
+   ],
+   "resume": "Alors que l'Europe légifère et que les États-Unis laissent le marché s'organiser librement, la Corée du Sud a choisi une troisième voie en lançant le programme AI for All, financé par l'État, qui donne à chaque citoyen coréen un accès gratuit et illimité à l'IA générative. Le programme illustre l'ampleur des moyens publics que Séoul est prête à consacrer à la diffusion de cette technologie, à contre-courant des approches européenne et américaine.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "la-coree-du-sud-lance-un-acces-gratuit-et-illimite-a-l-ia-ge-b5b010",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "la-coree-du-sud-lance-un-acces-gratuit-et-illimite-a-l-ia-ge-b5b010"
+  },
+  {
+   "titre": "Après Tim Cook, Phil Schiller cède à son tour la supervision de l'App Store et des évènements Apple",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Mac4Ever",
+   "url": "https://www.mac4ever.com/divers/197786-apres-tim-cook-phil-schiller-se-retire-davantage-d-apple-qui-prendra-sa-place",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197786-apres-tim-cook-phil-schiller-se-retire-davantage-d-apple-qui-prendra-sa-place"
+    }
+   ],
+   "resume": "Le jour même où Tim Cook cédait la direction d'Apple à John Ternus, une autre figure historique de l'entreprise, Phil Schiller, a entamé son propre retrait en abandonnant la supervision de l'App Store et des évènements de la marque. Cette double annonce marque, selon Mac4Ever, un changement d'époque à Cupertino, où reste à déterminer qui reprendra les fonctions laissées vacantes par Schiller.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "apres-tim-cook-phil-schiller-cede-a-son-tour-la-supervision-de0243",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "apres-tim-cook-phil-schiller-cede-a-son-tour-la-supervision-de0243"
+  },
+  {
+   "titre": "OpenAI rétablit la limite hebdomadaire de cinq heures pour les abonnés Plus de ChatGPT",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "MacGeneration",
+   "url": "https://www.macg.co/intelligence-artificielle/2026/08/alors-que-chatgpt-cache-ses-quotas-openai-retablit-la-limite-de-5-heures-pour-les-abonnes-plus-310577",
+   "sources": [
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/intelligence-artificielle/2026/08/alors-que-chatgpt-cache-ses-quotas-openai-retablit-la-limite-de-5-heures-pour-les-abonnes-plus-310577"
+    }
+   ],
+   "resume": "Thibaut Sottiaux, responsable de Codex et ChatGPT chez OpenAI, a annoncé sur X le retour du quota de cinq heures pour les abonnés « Plus », retiré quelques semaines plus tôt au profit d'une seule limite hebdomadaire. Cette générosité temporaire n'était que provisoire, comme prévu par l'entreprise dès son introduction.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "openai-retablit-la-limite-hebdomadaire-de-cinq-heures-pour-l-012877",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "openai-retablit-la-limite-hebdomadaire-de-cinq-heures-pour-l-012877"
+  },
+  {
+   "titre": "Adobe lance en bêta un mode d'édition de Photoshop entièrement piloté par des invites en langage naturel",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "Mac4Ever",
+   "url": "https://www.mac4ever.com/mac/197737-photoshop-se-met-au-tout-ia-avec-un-mode-d-edition-par-simple-prompt",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/mac/197737-photoshop-se-met-au-tout-ia-avec-un-mode-d-edition-par-simple-prompt"
+    }
+   ],
+   "resume": "Adobe met en bêta un nouveau mode baptisé AI Assisted Editor dans Photoshop, qui permet de retoucher une image presque entièrement à partir de commandes textuelles en langage naturel plutôt que par les outils habituels du logiciel. Cette nouveauté prolonge la transformation du logiciel de retouche par l'intelligence artificielle générative, engagée par Adobe depuis plusieurs versions.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Adobe_World_Headquarters.jpg/1280px-Adobe_World_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le siège social d'Adobe, éditeur de Photoshop.",
+   "photo_auteur": "Coolcaesar",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "adobe-lance-en-beta-un-mode-d-edition-de-photoshop-entiereme-18abc2",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "adobe-lance-en-beta-un-mode-d-edition-de-photoshop-entiereme-18abc2"
+  },
+  {
+   "titre": "Le philosophe Frédéric Gros publie « Violence de la propriété », un essai sur l'âge de l'appropriation prédatrice",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "Philosophie magazine",
+   "url": "https://www.philomag.com/articles/violence-de-la-propriete-de-frederic-gros-de-la-predation-la-relation",
+   "sources": [
+    {
+     "media": "Philosophie magazine",
+     "url": "https://www.philomag.com/articles/violence-de-la-propriete-de-frederic-gros-de-la-predation-la-relation"
+    }
+   ],
+   "resume": "Le philosophe Frédéric Gros publie l'essai Violence de la propriété, où il soutient que de l'accaparement des richesses et des ressources naturelles jusqu'à celui des corps et des esprits dans les phénomènes d'emprise, nos sociétés vivent à l'âge de « l'appropriation prédatrice ». L'ouvrage, présenté dans le nouveau numéro de Philosophie magazine par Martin Duru, propose aussi des pistes pour passer de cette logique de prédation à une logique de relation.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fr%C3%A9d%C3%A9ric_Gros_%28born_1965%29_in_the_video_%27Fr%C3%A9d%C3%A9ric_Gros_-_La_premi%C3%A8re_histoire%27.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le philosophe Frédéric Gros.",
+   "photo_auteur": "Librairie Mollat",
+   "photo_licence": "CC BY 3.0",
+   "permalien": "le-philosophe-frederic-gros-publie-violence-de-la-propriete-469eb0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "le-philosophe-frederic-gros-publie-violence-de-la-propriete-469eb0"
+  },
+  {
+   "titre": "Face aux mégafeux de l'été, Philosophie magazine convoque les quatre causes d'Aristote",
+   "rubrique": "idees",
+   "territoire": "Europe",
+   "medias": "Philosophie magazine",
+   "url": "https://www.philomag.com/articles/aristote-dans-la-fournaise-des-incendies-de-lete",
+   "sources": [
+    {
+     "media": "Philosophie magazine",
+     "url": "https://www.philomag.com/articles/aristote-dans-la-fournaise-des-incendies-de-lete"
+    }
+   ],
+   "resume": "Après un été marqué par des mégafeux de la Gironde à la Corse et de la Belgique au Royaume-Uni, les polémiques ont surtout porté sur leur cause : point de départ précis (débroussaillage, feu d'artifice, incendiaire) pour les uns, causes globales (sécheresse, entretien des forêts, réchauffement climatique) pour les autres. Michel Eltchaninoff propose dans Philosophie magazine de ne pas trancher entre ces explications rivales en convoquant les quatre types de causes distingués par Aristote, l'un des premiers théoriciens de la causalité.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "face-aux-megafeux-de-l-ete-philosophie-magazine-convoque-les-891d57",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "face-aux-megafeux-de-l-ete-philosophie-magazine-convoque-les-891d57"
+  },
+  {
+   "titre": "L'historien Hamit Bozarslan retrace deux siècles de « révolutions de droite » dans un essai discuté par La Vie des idées",
+   "rubrique": "idees",
+   "territoire": "International",
+   "medias": "La Vie des idées",
+   "url": "https://laviedesidees.fr/A-l-origine-des-autoritarismes",
+   "sources": [
+    {
+     "media": "La Vie des idées",
+     "url": "https://laviedesidees.fr/A-l-origine-des-autoritarismes"
+    }
+   ],
+   "resume": "Dans son livre Walpurgis, sous-titré Les révolutions de droite, XIXe-XXe siècles (Passés/Composés, 448 p.), l'historien et sociologue Hamit Bozarslan, spécialiste des autoritarismes iranien, russe et turc, défend l'existence d'une longue histoire des « révolutions de droite » — de l'Italie fasciste à l'Espagne, au Portugal et à la France de Vichy — qui éclairerait le rejet contemporain de la démocratie. La Vie des idées salue l'ambition du livre tout en regrettant l'absence d'un fil directeur clair dans une matière très dense, réunie à partir d'un nombre volontairement restreint de sources de synthèse.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "l-historien-hamit-bozarslan-retrace-deux-siecles-de-revoluti-7a9d72",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "l-historien-hamit-bozarslan-retrace-deux-siecles-de-revoluti-7a9d72"
+  },
+  {
+   "titre": "Le fondateur de la Nouvelle Droite Alain de Benoist juge « consternant » l'engouement d'une partie de la droite française pour Trump et Musk",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "Revue Éléments",
+   "url": "https://www.revue-elements.com/alain-de-benoist-la-reapparition-recente-dans-les-milieux-droitiers-de-cette-maladie-infantile-quest-loccidentalisme-me-parait-consternante/",
+   "sources": [
+    {
+     "media": "Revue Éléments",
+     "url": "https://www.revue-elements.com/alain-de-benoist-la-reapparition-recente-dans-les-milieux-droitiers-de-cette-maladie-infantile-quest-loccidentalisme-me-parait-consternante/"
+    }
+   ],
+   "resume": "Dans un entretien à Revue Éléments, magazine qu'il a contribué à fonder au sein de la Nouvelle Droite française, le penseur Alain de Benoist qualifie de « consternante » la réapparition d'un enthousiasme pour l'« occidentalisme » chez de jeunes droitiers séduits par Donald Trump, qu'il décrit comme un « caractériel » et un « paranoïaque égocentrique », et par des figures comme Elon Musk. Il y défend sa thèse de longue date d'une opposition irréductible entre une Europe enracinée dans ses territoires et des États-Unis porteurs d'un universalisme qu'il juge incompatible avec les intérêts européens.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-fondateur-de-la-nouvelle-droite-alain-de-benoist-juge-con-6ca012",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "le-fondateur-de-la-nouvelle-droite-alain-de-benoist-juge-con-6ca012"
+  },
+  {
+   "titre": "Un essai d'Arnaud Bontemps propose de faire du service public un « horizon » de société plutôt qu'un acquis à défendre",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "Nonfiction.fr",
+   "url": "https://www.nonfiction.fr/article-12812-le-service-public-comme-horizon-de-societe.htm",
+   "sources": [
+    {
+     "media": "Nonfiction.fr",
+     "url": "https://www.nonfiction.fr/article-12812-le-service-public-comme-horizon-de-societe.htm"
+    }
+   ],
+   "resume": "Dans l'essai Service public ou barbarie, Arnaud Bontemps, cofondateur et porte-parole du collectif de fonctionnaires Nos Services Publics, soutient que les attaques croissantes contre les services publics — dont le Department of Government Efficiency de Donald Trump serait l'exemple le plus poussé — visent moins l'efficacité budgétaire que le démantèlement de contre-pouvoirs jugés gênants par des dirigeants autoritaires. S'appuyant sur l'histoire et des études du collectif, il plaide pour redéfinir le service public comme un projet de société à réinventer plutôt qu'un legs du passé à protéger.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "un-essai-d-arnaud-bontemps-propose-de-faire-du-service-publi-8abf3b",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "un-essai-d-arnaud-bontemps-propose-de-faire-du-service-publi-8abf3b"
+  },
+  {
+   "titre": "Comment les pilotes et les chirurgiens entraînent leur « conscience de la situation » pour éviter l'erreur fatale",
+   "rubrique": "idees",
+   "territoire": "International",
+   "medias": "Sciences Humaines",
+   "url": "https://www.scienceshumaines.com/attention-quand-la-vigilance-sauve-des-vies",
+   "sources": [
+    {
+     "media": "Sciences Humaines",
+     "url": "https://www.scienceshumaines.com/attention-quand-la-vigilance-sauve-des-vies"
+    }
+   ],
+   "resume": "Sciences Humaines revient sur l'amerrissage réussi du vol Sullenberger en 2009 pour illustrer la notion de « conscience de la situation », définie par l'ingénieure et scientifique en chef de l'armée de l'air américaine Mica Endsley comme le processus cognitif en trois temps — percevoir, comprendre, anticiper — qui permet de garder le contrôle dans un environnement changeant. La journaliste Frédérique Letourneux montre comment cette notion, née de l'accidentologie aéronautique des années 1980, structure aujourd'hui la formation des pilotes de chasse et des chirurgiens.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "comment-les-pilotes-et-les-chirurgiens-entrainent-leur-consc-433aea",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "comment-les-pilotes-et-les-chirurgiens-entrainent-leur-consc-433aea"
+  },
+  {
+   "titre": "La Mostra de Venise ouvre avec un fort cru de documentaires et des studios américains en retrait",
+   "rubrique": "cinema",
+   "territoire": "Italie",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/cinema/2026-08-31/mostra-de-venise/hollywood-se-fait-discret-des-documentaires-tres-attendus.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-08-31/mostra-de-venise/hollywood-se-fait-discret-des-documentaires-tres-attendus.php"
+    }
+   ],
+   "resume": "La 83e Mostra de Venise s'ouvre avec peu de grandes vedettes hollywoodiennes mais « des documentaires très puissants, plus que d'habitude », selon le directeur artistique Alberto Barbera, dont NAZA, de Yuval Abraham et Rachel Szor, coauteurs du documentaire oscarisé No Other Land, seul documentaire en lice pour le Lion d'or. Le cinéma français est représenté par quatre longs métrages en compétition, dont le thriller Bunker de Florian Zeller avec Javier Bardem et Penélope Cruz, tandis que seuls deux des vingt et un films en compétition ont été réalisés par des femmes.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/66%C3%A8me_Festival_de_Venise_%28Mostra%29_Anglade2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "La Mostra de Venise, sur le Lido.",
+   "photo_auteur": "nicolas genin from Paris, France",
+   "photo_licence": "CC BY-SA 2.0",
+   "permalien": "la-mostra-de-venise-ouvre-avec-un-fort-cru-de-documentaires-71ad9a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "la-mostra-de-venise-ouvre-avec-un-fort-cru-de-documentaires-71ad9a"
+  },
+  {
+   "titre": "Naomi Watts recevra le prix Donostia pour l'ensemble de sa carrière au Festival de Saint-Sébastien",
+   "rubrique": "cinema",
+   "territoire": "Espagne",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/cinema/2026-08-31/festival-du-film-de-saint-sebastien/naomi-watts-sera-honoree-pour-sa-carriere.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-08-31/festival-du-film-de-saint-sebastien/naomi-watts-sera-honoree-pour-sa-carriere.php"
+    }
+   ],
+   "resume": "Les organisateurs du Festival du film de Saint-Sébastien, qui se tiendra du 18 au 26 septembre, ont annoncé que l'actrice et productrice britannique Naomi Watts recevra le prix honorifique Donostia pour l'ensemble de sa carrière. Cette distinction s'ajoute au palmarès d'un festival considéré comme l'un des rendez-vous majeurs du cinéma européen en fin d'été.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Festival_de_Cine_de_San_Sebasti%C3%A1n_%28100_de_110%29_-_Fondo_Mar%C3%ADn-Kutxa_Fototeka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Le Festival du film de Saint-Sébastien.",
+   "photo_auteur": "Paco Marí",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "naomi-watts-recevra-le-prix-donostia-pour-l-ensemble-de-sa-c-ec79f1",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "naomi-watts-recevra-le-prix-donostia-pour-l-ensemble-de-sa-c-ec79f1"
+  },
+  {
+   "titre": "La Québécoise Noémie D. Leclerc dévoile la bande-annonce de son premier long métrage",
+   "rubrique": "cinema",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/cinema/2026-08-31/la-meilleure-facon-c-est-par-accident/noemie-d-leclerc-sort-la-bande-annonce-de-son-premier-film.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-08-31/la-meilleure-facon-c-est-par-accident/noemie-d-leclerc-sort-la-bande-annonce-de-son-premier-film.php"
+    }
+   ],
+   "resume": "La réalisatrice et directrice photo de Québec Noémie Leclerc a dévoilé lundi la bande-annonce de son premier long métrage, La meilleure façon, c'est par accident, dont la musique originale a été composée par son conjoint, l'auteur-compositeur-interprète Hubert Lenoir. Le film marque l'entrée de Leclerc, jusqu'ici connue comme directrice photo, dans le long métrage de fiction.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "la-quebecoise-noemie-d-leclerc-devoile-la-bande-annonce-de-s-f46bcc",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "la-quebecoise-noemie-d-leclerc-devoile-la-bande-annonce-de-s-f46bcc"
+  },
+  {
+   "titre": "Le site de vulgarisation La Menace Théoriste déboulonne le récit d'un « aveu » d'Anthony Fauci",
+   "rubrique": "idees",
+   "territoire": "États-Unis",
+   "medias": "La Menace Théoriste",
+   "url": "https://menace-theoriste.fr/anthony-fauci-bientot-en-prison-les-complotistes-avaient-raison-sur-quoi/",
+   "sources": [
+    {
+     "media": "La Menace Théoriste",
+     "url": "https://menace-theoriste.fr/anthony-fauci-bientot-en-prison-les-complotistes-avaient-raison-sur-quoi/"
+    }
+   ],
+   "resume": "Face à une vague de messages affirmant qu'Anthony Fauci aurait « avoué » un complot et serait sur le point d'être emprisonné, un récit largement partagé sur les réseaux sociaux, le site de vulgarisation scientifique La Menace Théoriste examine les faits disponibles. S'il reconnaît de réelles défaillances entourant les recherches menées à Wuhan, il ne trouve aucune confirmation aux théories relancées à ce sujet depuis 2020.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Anthony_Fauci_%281984%29.jpg/1280px-Anthony_Fauci_%281984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Anthony Fauci, alors directeur du NIAID.",
+   "photo_auteur": "NIAID",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "le-site-de-vulgarisation-la-menace-theoriste-deboulonne-le-r-181d2d",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "le-site-de-vulgarisation-la-menace-theoriste-deboulonne-le-r-181d2d"
+  },
+  {
+   "titre": "À l'Université Laval, Florian Sauvageau retrace soixante ans de journalisme québécois",
+   "rubrique": "idees",
+   "territoire": "Québec",
+   "medias": "Université Laval",
+   "url": "https://nouvelles.ulaval.ca/2026/08/24/entre-revolution-tranquille-et-revolution-numerique-florian-sauvageau-raconte-60-ans-de-journalisme-0af6182f-ec2f-483a-929d-1c0d1fc9fe65",
+   "sources": [
+    {
+     "media": "Université Laval",
+     "url": "https://nouvelles.ulaval.ca/2026/08/24/entre-revolution-tranquille-et-revolution-numerique-florian-sauvageau-raconte-60-ans-de-journalisme-0af6182f-ec2f-483a-929d-1c0d1fc9fe65"
+    }
+   ],
+   "resume": "Le professeur émérite de l'Université Laval Florian Sauvageau publie Ce que j'ai appris du journalisme (Somme toute – Le Devoir, 312 p.), un essai tiré de près de cent entrevues qui retrace les transformations du journalisme québécois depuis la libéralisation de l'information dans les années 1960 jusqu'au « chaos » qu'il attribue à la révolution numérique. Il y appelle à un journalisme d'avenir fondé sur la rigueur et le respect des faits, plutôt qu'une nostalgie du passé, dans un livre auquel ont aussi contribué la professeure Colette Brin et le chargé de cours Sébastien Charlton.",
+   "cahier": "savoirs",
+   "horodate": "2026-09-01T02:34-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Universite_Laval_building_in_snow.jpg/1280px-Universite_Laval_building_in_snow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Un pavillon de l'Université Laval, où Florian Sauvageau a enseigné le journalisme.",
+   "photo_auteur": "Wilfredor",
+   "photo_licence": "CC0",
+   "permalien": "a-l-universite-laval-florian-sauvageau-retrace-soixante-ans-68c9b7",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-01.json",
+   "_slug": "a-l-universite-laval-florian-sauvageau-retrace-soixante-ans-68c9b7"
   }
  ]
 }
