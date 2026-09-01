@@ -136,8 +136,8 @@
   },
   {
    "titre": "Accusé de violences sexuelles, Patrick Bruel annule sa tournée",
-   "cahier": "savoirs",
-   "rubrique": "culture",
+   "cahier": "international",
+   "rubrique": "justice",
    "territoire": "France",
    "medias": "Radio-Canada, Le Devoir, Le Journal de Québec",
    "url": "https://ici.radio-canada.ca/nouvelle/2279689/patrick-bruel-annulation-tournee-accusations-agressions-sexuelles",
@@ -615,10 +615,10 @@
    "territoire": "Lévis (Chutes-de-la-Chaudière)",
    "medias": "Le Devoir, La Presse",
    "url": "https://www.ledevoir.com/actualites/1005398/mongols-nunuche-esti-voleur-candidat-conservateur-mitraillait-insultes-x",
-   "resume": "Dominique Dumas, ancien animateur de Radio X devenu candidat du Parti conservateur du Québec dans Chutes-de-la-Chaudière, a comparé par le passé des souverainistes à des « mongols », des partisans de la gestion de l'offre à des « esti de voleurs » et une chroniqueuse à une « nunuche », en plus de dénoncer en 2019 « la fraude de l'équité salariale » et de suggérer sur un ton sarcastique, en 2009, que l'admission des femmes à l'université soit contingentée au nom de la parité. Le candidat impute ses débordements à « la nature des réseaux sociaux », et l'épisode s'ajoute aux controverses qui agitent le parti d'Éric Duhaime depuis le début de la campagne.\n\n**Mise à jour, 12 h 50** — Éric Duhaime a défendu son candidat mardi et accusé Christine Fréchette de commander une « armée d'attachés politiques qui passent leur temps à fouiller dans les poubelles ». Dominique Dumas a effacé son compte X au moment de se porter candidat, disant ne pas vouloir que ses propos soient « sortis de leur contexte ».",
+   "resume": "Dominique Dumas, ancien animateur de Radio X devenu candidat du Parti conservateur du Québec dans Chutes-de-la-Chaudière, a comparé par le passé des souverainistes à des « mongols », des partisans de la gestion de l'offre à des « esti de voleurs » et une chroniqueuse à une « nunuche », en plus de dénoncer en 2019 « la fraude de l'équité salariale » et de suggérer sur un ton sarcastique, en 2009, que l'admission des femmes à l'université soit contingentée au nom de la parité. Le candidat impute ses débordements à « la nature des réseaux sociaux », et l'épisode s'ajoute aux controverses qui agitent le parti d'Éric Duhaime depuis le début de la campagne.\n\n**Mise à jour, 12 h 50** — Éric Duhaime a défendu son candidat mardi et accusé Christine Fréchette de commander une « armée d'attachés politiques qui passent leur temps à fouiller dans les poubelles ». Dominique Dumas a effacé son compte X au moment de se porter candidat, disant ne pas vouloir que ses propos soient « sortis de leur contexte ».\n\n**Mise à jour, 17 h** — La candidate caquiste adverse dans la circonscription, Martine Biron, juge les propos « préoccupants » et demande à Éric Duhaime si cela correspond aux standards qu'il fixe pour son parti; le chef conservateur accuse de son côté la CAQ de « fouiller dans les poubelles ».",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-01T12:50-04:00",
+   "horodate": "2026-09-01T17:24-04:00",
    "sources": [
     {
      "media": "Le Devoir",
@@ -627,6 +627,10 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-01/un-autre-candidat-du-pcq-dans-l-eau-chaude/duhaime-accuse-la-caq-de-fouiller-dans-les-poubelles.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005476/duhaime-veut-trancher-reglementation-passer-paperasse-tordeur"
     }
    ],
    "permalien": "un-candidat-conservateur-dans-chutes-de-la-chaudiere-rattrap-6c456f",
@@ -943,10 +947,10 @@
    "territoire": "Québec",
    "medias": "Coops de l'information, Le Devoir",
    "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/01/avec-moins-de-30-de-candidates-duhaime-ne-sattarde-pas-a-la-parite-YTYHTGSKA5ASXLNRHYIDUA6WJY/",
-   "resume": "Selon une compilation du Soleil, 27 % des 119 candidats du Parti conservateur du Québec sont des femmes, soit dix points de moins qu'en 2022 et bien en deçà de la zone paritaire généralement située entre 40 et 60 %. Éric Duhaime répond qu'il ne s'y « attarde » pas, dit ne pas avoir vérifié combien de femmes ou de personnes issues de la diversité comptait son équipe, et fait valoir qu'il aurait pu imposer jusqu'à 25 candidatures de son choix mais a laissé décider les associations de circonscription.",
+   "resume": "Selon une compilation du Soleil, 27 % des 119 candidats du Parti conservateur du Québec sont des femmes, soit dix points de moins qu'en 2022 et bien en deçà de la zone paritaire généralement située entre 40 et 60 %. Éric Duhaime répond qu'il ne s'y « attarde » pas, dit ne pas avoir vérifié combien de femmes ou de personnes issues de la diversité comptait son équipe, et fait valoir qu'il aurait pu imposer jusqu'à 25 candidatures de son choix mais a laissé décider les associations de circonscription.\n\n**Mise à jour, 17 h** — Le Devoir chiffre la proportion de candidates dans les autres formations : 46 % au Parti québécois, 43 % au Parti libéral, 54 % à la CAQ et 66 % à Québec solidaire, chacune en hausse par rapport à 2022 contrairement au PCQ.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-01T12:50-04:00",
+   "horodate": "2026-09-01T17:24-04:00",
    "sources": [
     {
      "media": "Le Soleil",
@@ -1097,12 +1101,12 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "La Presse, Le Devoir",
+   "medias": "La Presse, Le Devoir, Radio-Canada",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-01/parti-liberal-du-quebec/les-federalistes-devraient-revenir-a-la-maison-presse-milliard.php",
-   "resume": "À Sherbrooke, Charles Milliard a répliqué à l'appel au vote stratégique lancé par Christine Fréchette, qui invite les libéraux déçus à se tourner vers la CAQ pour faire barrage au Parti québécois et à son projet de référendum, en soutenant que « les fédéralistes devraient revenir à la maison ». Le chef libéral reproche à la cheffe caquiste son ambiguïté devant l'indépendance, celle-ci se bornant à répéter qu'il s'agirait du « pire moment de l'histoire » pour tenir un référendum.",
+   "resume": "À Sherbrooke, Charles Milliard a répliqué à l'appel au vote stratégique lancé par Christine Fréchette, qui invite les libéraux déçus à se tourner vers la CAQ pour faire barrage au Parti québécois et à son projet de référendum, en soutenant que « les fédéralistes devraient revenir à la maison ». Le chef libéral reproche à la cheffe caquiste son ambiguïté devant l'indépendance, celle-ci se bornant à répéter qu'il s'agirait du « pire moment de l'histoire » pour tenir un référendum.\n\n**Mise à jour, 17 h** — Le chef péquiste Paul St-Pierre Plamondon a lui aussi réagi à l'appel de Christine Fréchette, rappelant que 82 % des Québécois se disent prêts à ne pas « faire 12 ans avec la CAQ » et invitant les électeurs à se tourner vers le Parti québécois.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-01T12:50-04:00",
+   "horodate": "2026-09-01T17:24-04:00",
    "sources": [
     {
      "media": "La Presse",
@@ -1111,6 +1115,10 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1005518/milliard-attaque-frechette-ambiguite-face-independance"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279755/elections-vote-strategique-quebec-frechette-milliard"
     }
    ],
    "permalien": "milliard-presse-les-federalistes-de-rentrer-au-plq-et-attaqu-925204",
@@ -1711,6 +1719,64 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-01.json",
    "_slug": "le-scfp-avertit-que-la-course-aux-compressions-fragilise-l-e-ead182"
+  },
+  {
+   "titre": "Le candidat caquiste Paul Dadie se retire dans Ungava après des propos jugés inacceptables envers un centre de femmes",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Ungava)",
+   "medias": "La Presse, La Sentinelle",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-01/propos-controverses/frechette-annonce-le-retrait-du-candidat-caquiste-dans-ungava.php",
+   "resume": "Le candidat caquiste dans Ungava, Paul Dadie, a retiré sa candidature après que le Centre de femmes Les Elles du Nord, à Chibougamau, a dénoncé avoir vécu un « climat de confrontation » lors d'une visite où il aurait remis en question la non-mixité de l'organisme, ce que Christine Fréchette a qualifié de comportement n'ayant « pas sa place » dans son équipe.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Christine_Fr%C3%A9chette.jpg",
+   "legende": "Christine Fréchette, cheffe de la Coalition avenir Québec et première ministre sortante.",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC0",
+   "horodate": "2026-09-01T17:24-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-01/propos-controverses/frechette-annonce-le-retrait-du-candidat-caquiste-dans-ungava.php"
+    },
+    {
+     "media": "La Sentinelle",
+     "url": "https://lasentinelle.ca/paul-dadie-ne-sera-finalement-pas-candidat-dans-ungava/"
+    }
+   ],
+   "permalien": "le-candidat-caquiste-paul-dadie-se-retire-dans-ungava-apres-36d54b",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "le-candidat-caquiste-paul-dadie-se-retire-dans-ungava-apres-36d54b"
+  },
+  {
+   "titre": "Dans Duplessis, les candidats des trois principaux partis appuient un pont sur le Saguenay",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Québec (Duplessis)",
+   "medias": "Le Nord-Côtier, Le Haute Côte-Nord, Le Manic",
+   "url": "https://lenord-cotier.com/2026/09/01/le-pont-sur-le-saguenay-rallie-les-candidats-de-duplessis/",
+   "resume": "À Sept-Îles, les candidats caquiste, péquiste et conservateur dans Duplessis — Kateri Champagne Jourdain, Meggie Richard et Roberto Stéa — ont tous appuyé la construction d'un pont sur le Saguenay réclamée depuis des années par la Coalition Union 138, qui a dévoilé une « boussole électorale » pour comparer les engagements des partis, alors que la députée sortante affirme avoir inscrit le projet au Plan québécois des infrastructures durant son mandat.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T17:24-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/01/le-pont-sur-le-saguenay-rallie-les-candidats-de-duplessis/"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/01/le-pont-sur-le-saguenay-rallie-les-candidats-de-duplessis-2/"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/01/le-pont-sur-le-saguenay-rallie-les-candidats-de-duplessis-2/"
+    }
+   ],
+   "permalien": "dans-duplessis-les-candidats-des-trois-principaux-partis-app-4126d4",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "dans-duplessis-les-candidats-des-trois-principaux-partis-app-4126d4"
   },
   {
    "titre": "La MRC de Beauce-Sartigan mettra fin à son service de transport collectif",

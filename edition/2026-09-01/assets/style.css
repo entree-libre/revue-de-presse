@@ -215,8 +215,16 @@ html[data-cols="1"] .derniers ul{overflow:visible;padding-right:0}
 .derniers li:first-child{border-top:0;padding-top:0}
 .derniers li a{display:block;text-decoration:none;color:var(--fg)}
 .derniers li a:hover .d-titre{color:var(--accent-txt)}
-.d-cahier{display:block;font-family:var(--ui);font-size:.65rem;letter-spacing:.1em;
- text-transform:uppercase;color:var(--accent-txt);font-weight:700;margin-bottom:.15rem}
+/* Ligne de tête d'une entrée : le cahier à gauche, l'heure d'arrivée à
+   droite. `tabular-nums` aligne les chiffres d'une ligne à l'autre — sans
+   quoi une colonne d'heures se lit de travers. */
+.d-tete{display:flex;align-items:baseline;justify-content:space-between;
+ gap:.5rem;margin-bottom:.15rem}
+.d-cahier{font-family:var(--ui);font-size:.65rem;letter-spacing:.1em;
+ text-transform:uppercase;color:var(--accent-txt);font-weight:700;min-width:0}
+.d-heure{font-family:var(--ui);font-size:.65rem;color:var(--muted);
+ font-weight:600;letter-spacing:.03em;white-space:nowrap;
+ font-variant-numeric:tabular-nums;flex:0 0 auto}
 .d-titre{display:block;font-family:var(--titre);font-weight:700;line-height:1.32;
  font-size:1rem}
 .d-src{display:block;font-family:var(--ui);font-size:.7rem;color:var(--muted);margin-top:.25rem}
@@ -361,6 +369,17 @@ figcaption{font-family:var(--ui);font-size:.72rem;color:var(--muted);
 .src-nom{font-weight:700;font-size:.95rem}
 .src-action{font-size:.78rem;color:var(--accent-txt);font-weight:600;
  white-space:nowrap;font-family:var(--ui)}
+/* L'heure de l'article d'origine, quand le volet la fournit — troisième
+   colonne du bouton, entre le média et l'invitation à lire. */
+.src-heure{font-family:var(--ui);font-size:.74rem;color:var(--muted);
+ font-variant-numeric:tabular-nums;white-space:nowrap;flex:0 0 auto}
+.src-btn:hover .src-heure{color:var(--accent-fg)}
+/* À défaut : l'heure d'arrivée du SUJET, dite une fois et nommée pour ce
+   qu'elle est. Le titre du bloc est en capitales espacées ; cette ligne ne
+   l'est pas, sinon elle se lirait comme un second titre. */
+.src-quand{display:block;font-family:var(--ui);font-size:.7rem;
+ color:var(--muted);text-transform:none;letter-spacing:.01em;
+ font-weight:500;margin-top:.3rem}
 .src-note{font-size:.8rem;color:var(--muted);margin:.7rem 0 0;
  line-height:1.5}
 .lies{border-top:1px solid var(--rule);padding-top:1rem;margin-top:1.8rem;
