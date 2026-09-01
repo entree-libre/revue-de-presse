@@ -1,10 +1,187 @@
 {
  "date": "2026-09-01",
  "volets": [
+  "elections",
   "report",
   "savoirs"
  ],
  "articles": [
+  {
+   "titre": "Un candidat conservateur dans Chutes-de-la-Chaudière rattrapé par ses propos passés sur X",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Lévis (Chutes-de-la-Chaudière)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/1005398/mongols-nunuche-esti-voleur-candidat-conservateur-mitraillait-insultes-x",
+   "resume": "Dominique Dumas, ancien animateur de Radio X devenu candidat du Parti conservateur du Québec dans Chutes-de-la-Chaudière, a comparé par le passé des souverainistes à des « mongols », des partisans de la gestion de l'offre à des « esti de voleurs » et une chroniqueuse à une « nunuche », en plus de dénoncer en 2019 « la fraude de l'équité salariale » et de suggérer sur un ton sarcastique, en 2009, que l'admission des femmes à l'université soit contingentée au nom de la parité. Le candidat impute ses débordements à « la nature des réseaux sociaux », et l'épisode s'ajoute aux controverses qui agitent le parti d'Éric Duhaime depuis le début de la campagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T03:14-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/1005398/mongols-nunuche-esti-voleur-candidat-conservateur-mitraillait-insultes-x"
+    }
+   ],
+   "permalien": "un-candidat-conservateur-dans-chutes-de-la-chaudiere-rattrap-6c456f",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "un-candidat-conservateur-dans-chutes-de-la-chaudiere-rattrap-6c456f"
+  },
+  {
+   "titre": "Dans Verdun, le fils de Jean Charest vise un siège solidaire gagné par moins de 500 voix",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Montréal (Verdun)",
+   "medias": "Québecor",
+   "url": "https://www.tvanouvelles.ca/2026/08/31/elections-provinciales-une-chaude-lutte-liberale-solidaire-a-venir-dans-verdun",
+   "resume": "Antoine Dionne Charest, fils de l'ancien premier ministre Jean Charest, porte les couleurs du Parti libéral du Québec dans Verdun, où il dit avoir « un défi, d'aller convaincre les électeurs de nous faire confiance de nouveau ». La solidaire sortante Alejandra Zaga Mendez, qui avait arraché la circonscription du sud-ouest de Montréal par une avance de moins de 500 voix en 2022, se dit confiante et rappelle qu'elle est allée chercher ses appuis « électeur par électeur ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T03:14-04:00",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/elections-provinciales-une-chaude-lutte-liberale-solidaire-a-venir-dans-verdun"
+    }
+   ],
+   "permalien": "dans-verdun-le-fils-de-jean-charest-vise-un-siege-solidaire-9bd768",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "dans-verdun-le-fils-de-jean-charest-vise-un-siege-solidaire-9bd768"
+  },
+  {
+   "titre": "Le chemin vers le déficit zéro : des dépenses à 25,7 % du PIB et des revenus à 24,9 %",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/interactif/2026-08-27/scenarios-deficit-zero/index.html",
+   "resume": "Les dépenses du gouvernement du Québec représentent aujourd'hui 25,7 % du produit intérieur brut, contre 24,4 % avant la pandémie, tandis que ses revenus sont retombés à 24,9 % du PIB, contre 26,1 % ; pour respecter la Loi sur l'équilibre budgétaire, le dernier budget de la CAQ prévoyait atteindre le déficit zéro d'ici 2030 non pas en haussant les revenus, mais en limitant la croissance des dépenses de portefeuilles à 1,9 % par année en moyenne, et à 1 % les deux dernières années de la décennie. Chaque engagement de campagne pèse sur cette trajectoire, qu'il s'agisse d'abolir la taxe sur l'essence, de hausser l'impôt des plus riches ou simplement de maintenir la croissance des dépenses en santé plutôt que de la ralentir comme prévu.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T03:14-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/interactif/2026-08-27/scenarios-deficit-zero/index.html"
+    }
+   ],
+   "permalien": "le-chemin-vers-le-deficit-zero-des-depenses-a-25-7-du-pib-et-6a3be5",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "le-chemin-vers-le-deficit-zero-des-depenses-a-25-7-du-pib-et-6a3be5"
+  },
+  {
+   "titre": "L'éducation reléguée derrière la santé, le coût de la vie et le logement dans les priorités des électeurs",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/education/1005395/crise-education-preoccupe-bien-peu-electeurs",
+   "resume": "Deux sondages de la firme Synopsis menés pour La Presse au début et à la fin d'août auprès de quelque 1000 Québécois — dont la marge d'erreur n'est pas précisée — placent l'éducation loin derrière trois « grands défis » qui accaparent l'attention des électeurs : le système de santé, l'inflation et le coût de la vie, puis l'habitation, suivis de l'instabilité créée par la guerre commerciale de Donald Trump. « Notre crainte, c'est vraiment qu'on ne parle pas du tout d'éducation pendant cette campagne », dit le porte-parole du Regroupement des comités de parents autonomes du Québec, Sylvain Martel, tandis que la politologue Evelyne Brie, de l'Université de Montréal, observe que quelques dossiers « vont tout écraser » lorsqu'on demande aux électeurs de trier leurs priorités.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T03:14-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/education/1005395/crise-education-preoccupe-bien-peu-electeurs"
+    }
+   ],
+   "permalien": "l-education-releguee-derriere-la-sante-le-cout-de-la-vie-et-c28c73",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "l-education-releguee-derriere-la-sante-le-cout-de-la-vie-et-c28c73"
+  },
+  {
+   "titre": "Une économiste de la CMM chiffre à 9200 $ par an le coût de l'auto et pousse le transport collectif dans la campagne",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Montréal",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/transports-urbanisme/1005380/transport-collectif-est-plus-avantageux-economie-automobile-selon-etude",
+   "resume": "Les Québécois ont dépensé en moyenne 9200 $ par année pour se déplacer en voiture au cours des quinze dernières années, selon Statistique Canada, un poste dont la réduction devrait préoccuper les candidats dans un contexte de hausse du coût de la vie, estime Brigitte Milord, économiste à la Communauté métropolitaine de Montréal. Son analyse attribue au transport en commun des avantages économiques pour les ménages comme pour la collectivité, au-delà de ses vertus environnementales, alors que des maires et des mairesses espèrent lui voir prendre une place parmi les enjeux du scrutin.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T03:14-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/transports-urbanisme/1005380/transport-collectif-est-plus-avantageux-economie-automobile-selon-etude"
+    }
+   ],
+   "permalien": "une-economiste-de-la-cmm-chiffre-a-9200-par-an-le-cout-de-l-8ab6d2",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "une-economiste-de-la-cmm-chiffre-a-9200-par-an-le-cout-de-l-8ab6d2"
+  },
+  {
+   "titre": "FCEI : 51 % des dirigeants de PME interrogés déconseillent de démarrer une entreprise au Québec",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "RIMQ",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/economie/68/1215871/51-des-dirigeants-de-pme-ne-recommandent-pas-de-demarrer-une-entreprise-au-quebec.html",
+   "resume": "Dans les résultats préliminaires de son sondage Votre Voix, mené en ligne du 19 au 25 août auprès de 227 de ses membres — un échantillon non probabiliste auquel aucune marge d'erreur ne s'applique —, la Fédération canadienne de l'entreprise indépendante avance que 51 % des propriétaires de PME ne recommandent pas de démarrer une entreprise au Québec en ce moment, contre 22 % qui le recommandent et 27 % qui ne se prononcent pas. Ceux qui déconseillent invoquent d'abord une économie jugée trop incertaine (83 %), des coûts d'exploitation élevés (77 %) et la lourdeur réglementaire (70 %), et la fédération, qui publie un manifeste électoral de dix chantiers, invite les partis à présenter leurs plans pour les PME.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T03:14-04:00",
+   "sources": [
+    {
+     "media": "RIMQ",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/economie/68/1215871/51-des-dirigeants-de-pme-ne-recommandent-pas-de-demarrer-une-entreprise-au-quebec.html"
+    }
+   ],
+   "permalien": "fcei-51-des-dirigeants-de-pme-interroges-deconseillent-de-de-bf9c1d",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "fcei-51-des-dirigeants-de-pme-interroges-deconseillent-de-de-bf9c1d"
+  },
+  {
+   "titre": "La montée de l'insécurité économique avancée comme cause du recul des idées progressistes",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/idees/1005410/insecurite-economique-est-mauvaise-nouvelle-gauche",
+   "resume": "La faiblesse actuelle des idées progressistes, au Québec comme ailleurs, tiendrait pour une part à la hausse de l'insécurité économique, une cause rarement évoquée, avance un chercheur qui signe ce constat avec Tim Vlandas, de l'Université d'Oxford, et David Weisstanner, de l'Université de Lucerne. Leurs travaux concluent que les personnes qui perçoivent une dégradation de leur situation financière réclament davantage de baisses d'impôts et de dépenses publiques, et que les électeurs sanctionnent les gouvernements qui imposent des mesures d'austérité au moment où leurs revenus augmentent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T03:14-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/opinion/idees/1005410/insecurite-economique-est-mauvaise-nouvelle-gauche"
+    }
+   ],
+   "permalien": "la-montee-de-l-insecurite-economique-avancee-comme-cause-du-dab140",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "la-montee-de-l-insecurite-economique-avancee-comme-cause-du-dab140"
+  },
+  {
+   "titre": "Un appel aux partis : tenir des états généraux sur l'environnement au début du prochain mandat",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/idees/1005401/etats-generaux-environnement-faits-ne-votent-pas",
+   "resume": "Les partis québécois devraient s'engager à tenir, dès le début du prochain mandat, des états généraux sur l'environnement — non pour ajouter une consultation, mais pour mesurer le cumul des risques, en évaluer les coûts, entendre les régions et fixer des priorités communes. Canicules qui surchargent les urgences, fumée de forêt, routes qui cèdent et égouts qui refoulent relèvent du réel et ne se votent pas à l'Assemblée nationale, plaide cet appel, qui rappelle que le Québec dispose déjà du Plan pour une économie verte, de la Stratégie québécoise de l'eau, du Plan nature et du Plan d'agriculture durable.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T03:14-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/opinion/idees/1005401/etats-generaux-environnement-faits-ne-votent-pas"
+    }
+   ],
+   "permalien": "un-appel-aux-partis-tenir-des-etats-generaux-sur-l-environne-1ede73",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "un-appel-aux-partis-tenir-des-etats-generaux-sur-l-environne-1ede73"
+  },
   {
    "titre": "Virage numérique en santé : près de 500 millions en trois ans pour maintenir des systèmes désuets",
    "cahier": "elections",
@@ -228,16 +405,20 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Le Devoir",
+   "medias": "Le Devoir, La Presse",
    "url": "https://www.ledevoir.com/opinion/chroniques/1003145/avant-debats-sortez-chiffres",
-   "resume": "Rodolphe Husny, ancien conseiller politique du gouvernement Harper devenu chroniqueur, demande aux partis de publier un cadre financier complet et chiffré — revenus, dépenses, déficit et dette sur les quatre années du mandat — avant le premier débat des chefs du 15 septembre, rappelant qu'à la campagne fédérale de 2025 les plateformes chiffrées ne sont sorties qu'après le débat en français, et après l'ouverture du vote par anticipation dans le cas des conservateurs. Il fait valoir qu'un chiffre isolé ne se juge pas — les 47 milliards de compressions sur cinq ans annoncés par Éric Duhaime représentent 9,4 milliards par année, à comparer au déficit de l'ordre de 7,2 milliards de l'exercice en cours — et propose de créer à Québec un poste de directeur parlementaire du budget.",
+   "resume": "Rodolphe Husny, ancien conseiller politique du gouvernement Harper devenu chroniqueur, demande aux partis de publier un cadre financier complet et chiffré — revenus, dépenses, déficit et dette sur les quatre années du mandat — avant le premier débat des chefs du 15 septembre, rappelant qu'à la campagne fédérale de 2025 les plateformes chiffrées ne sont sorties qu'après le débat en français, et après l'ouverture du vote par anticipation dans le cas des conservateurs. Il fait valoir qu'un chiffre isolé ne se juge pas — les 47 milliards de compressions sur cinq ans annoncés par Éric Duhaime représentent 9,4 milliards par année, à comparer au déficit de l'ordre de 7,2 milliards de l'exercice en cours — et propose de créer à Québec un poste de directeur parlementaire du budget.\n\n**Mise à jour, 3 h** — Une deuxième voix reprend la demande : au huitième jour de campagne, une chronique de La Presse réclame que le cadre financier complet de chaque parti soit rendu public au moins 24 heures avant le premier débat officiel des chefs, en relevant que la CAQ a dévoilé le sien dès le quatrième jour alors que l'essentiel de ses engagements restait à présenter. Elle rappelle que le Québec exige déjà, depuis 2015, un rapport préélectoral du ministre des Finances accompagné d'un avis de la vérificatrice générale sur la plausibilité des prévisions, précisément pour que les partis promettent à partir d'un portrait commun des finances publiques.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T15:24-04:00",
+   "horodate": "2026-09-01T03:14-04:00",
    "sources": [
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/opinion/chroniques/1003145/avant-debats-sortez-chiffres"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-01/le-droit-de-savoir-avant-de-voter.php"
     }
    ],
    "permalien": "sortez-les-chiffres-un-chroniqueur-reclame-les-cadres-financ-704b1c",
