@@ -30,7 +30,7 @@
  <button onclick="sz(-.1)">A&minus;</button>
 </div>
 
-<nav class="cahiers"><a class='on' data-cahier="elections" href="../elections.html"><span class="lbl">Élections Québec 2026 <span class='n'>55</span></span></a><a data-cahier="quebec" href="../quebec.html"><span class="lbl">Québec et ses régions <span class='n'>41</span></span></a><a data-cahier="montreal" href="../montreal.html"><span class="lbl">Montréal et sa région <span class='n'>6</span></span></a><a data-cahier="canada" href="../canada.html"><span class="lbl">Canada <span class='n'>20</span></span></a><a data-cahier="international" href="../international.html"><span class="lbl">International <span class='n'>46</span></span></a><a data-cahier="savoirs" href="../savoirs.html"><span class="lbl">Savoirs <span class='n'>31</span></span></a></nav>
+<nav class="cahiers"><a class='on' data-cahier="elections" href="../elections.html"><span class="lbl">Élections Québec 2026 <span class='n'>64</span></span></a><a data-cahier="quebec" href="../quebec.html"><span class="lbl">Québec et ses régions <span class='n'>41</span></span></a><a data-cahier="montreal" href="../montreal.html"><span class="lbl">Montréal et sa région <span class='n'>6</span></span></a><a data-cahier="canada" href="../canada.html"><span class="lbl">Canada <span class='n'>20</span></span></a><a data-cahier="international" href="../international.html"><span class="lbl">International <span class='n'>46</span></span></a><a data-cahier="savoirs" href="../savoirs.html"><span class="lbl">Savoirs <span class='n'>31</span></span></a></nav>
 <div class="sujet">
 <div class="col-texte">
 <div class="fil"><a href="../index.html">La une</a> › <a href="../elections.html">Élections Québec 2026</a> › Politique et vie municipale</div>
@@ -60,10 +60,10 @@
 <script>window.VU={slug:"placer-trump-au-centre-de-la-campagne-la-recette-que-la-caq-b15f67",emp:"b7de8eadd0"};</script>
 <footer class="pied">
 <h5>Contrôle</h5>
-<p>199 sujets. Médiane de 2 phrases par résumé.
-41 % des sujets reposent sur deux médias ou plus.
+<p>208 sujets. Médiane de 2.0 phrases par résumé.
+39 % des sujets reposent sur deux médias ou plus.
 Dépouillement : elections, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>135 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
+<h5>Sources</h5><p>138 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>43 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -228,7 +228,7 @@ function vusAppliquer(){
  });}
 /* Oublier l'historique de lecture : tout redevient neuf, ici et maintenant. */
 function vusOublier(){MAGASIN.oublier('revue-vus');MAGASIN.oublier('revue-sources');
- vusAppliquer();srcAppliquer();}
+ MAGASIN.oublier('revue-position');vusAppliquer();srcAppliquer();}
 
 /* ---- les vrais articles, chez les vrais journaux : ouverts ou non ----
    Le journal réécrit ; les articles d'origine vivent chez les médias, et un
@@ -304,10 +304,80 @@ function observerLecture(){
   dep.forEach(function(el){iod.observe(el);});
  }
 }
+/* ---- garder sa place dans la liste ----
+   Le lecteur descend loin dans la une, ouvre un sujet, revient — et se
+   retrouve en haut, à refaire tout le défilement. Le navigateur sait
+   restaurer la position sur un retour arrière, mais pas quand on revient par
+   le bouton « La une » : celui-ci mène à la racine du site, c'est une
+   navigation neuve, il n'y a rien à restaurer. On prend donc la restauration
+   en main pour que les deux chemins se comportent pareil.
+   Trois précautions :
+   - seulement sur les pages de liste (celles qui portent des cartes) ;
+   - jamais quand l'adresse porte une ancre, qui dit déjà où aller ;
+   - et rien au-delà de quelques heures : passé ce délai l'édition a changé
+     sous nos pieds, et un ancien décalage ne mène plus où l'on croit. */
+var POS_DUREE=4*3600*1000, posCle=location.pathname;
+var posOK=(function(){try{localStorage.setItem('revue-t','1');
+ localStorage.removeItem('revue-t');return true;}catch(e){return false;}})();
+/* On ne coupe la restauration native que si la nôtre peut prendre le relais :
+   sans stockage, mieux vaut le comportement du navigateur que rien. */
+if(posOK&&'scrollRestoration' in history)history.scrollRestoration='manual';
+function posListe(){return !!document.querySelector('article.carte');}
+var posEnCours=false;
+function posEcrire(){
+ /* Notre propre restauration provoque un evenement `scroll`. Sans ce
+    garde-fou, elle reecrirait la position par la valeur qu'elle vient
+    d'atteindre — bornee si la page n'a pas fini de grandir — et la memoire
+    se degraderait d'un retour a l'autre. */
+ if(!posOK||!posListe()||posEnCours)return;
+ var v=MAGASIN.lire('revue-position');
+ v[posCle]={y:Math.round(window.scrollY||window.pageYOffset||0),t:Date.now()};
+ var k=Object.keys(v);
+ if(k.length>40){k.sort(function(a,b){return (v[a].t||0)-(v[b].t||0);});
+  k.slice(0,k.length-40).forEach(function(s){delete v[s];});}
+ MAGASIN.ecrire('revue-position',v);}
+/* Toute intention du lecteur annule la restauration : mieux vaut le laisser
+   où il vient d'aller que le ramener de force à sa place d'avant. */
+var posTouche=false;
+['wheel','touchstart','keydown'].forEach(function(ev){
+ window.addEventListener(ev,function(){posTouche=true;},{passive:true});});
+function posRestaurer(){
+ if(!posOK||!posListe()||location.hash)return;
+ var m=MAGASIN.lire('revue-position')[posCle];
+ if(!m||!m.y||Date.now()-(m.t||0)>POS_DUREE)return;
+ var but=m.y, essais=0;
+ posEnCours=true;
+ function viser(){
+  if(posTouche){posEnCours=false;return;}
+  /* `scroll-behavior:smooth` ferait défiler toute la page sous les yeux du
+     lecteur : on remet la position d'un coup, comme le ferait le navigateur. */
+  var h=document.documentElement, avant=h.style.scrollBehavior;
+  h.style.scrollBehavior='auto';
+  window.scrollTo(0,but);
+  h.style.scrollBehavior=avant;
+  /* La page grandit encore après le premier essai — images, police du
+     bandeau, pastilles d'état — et le navigateur borne le défilement à la
+     hauteur qu'elle a à cet instant : 195 px au lieu de 2400, au premier
+     coup. On revise tant que la cible n'est pas atteinte, sans s'acharner. */
+  if(Math.abs((window.scrollY||0)-but)>4&&essais++<12)setTimeout(viser,120);
+  else setTimeout(function(){posEnCours=false;},200);}
+ viser();
+ window.addEventListener('load',viser,{once:true});}
+var posMinut=0;
+window.addEventListener('scroll',function(){
+ if(posMinut)return;
+ posMinut=setTimeout(function(){posMinut=0;posEcrire();},1000);},{passive:true});
+window.addEventListener('pagehide',posEcrire);
+document.addEventListener('visibilitychange',function(){
+ if(document.visibilityState==='hidden')posEcrire();});
+
 document.addEventListener('DOMContentLoaded',function(){
  if(window.VU)vuMarquer(VU.slug,VU.emp);
  vusAppliquer();
  srcAppliquer();
  observerLecture();
+ /* En dernier : les pastilles d'état viennent d'être posées et ont changé la
+    hauteur des cartes. Restaurer avant elles viserait à côté. */
+ posRestaurer();
 });
 </script></body></html>
