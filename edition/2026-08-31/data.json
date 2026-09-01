@@ -1739,12 +1739,12 @@
    "cahier": "elections",
    "rubrique": "sante",
    "territoire": "Québec",
-   "medias": "Les Affaires, La Presse, Le Devoir, Radio-Canada, CBC",
+   "medias": "Les Affaires, La Presse, Le Devoir, Radio-Canada, CBC, Le Canada français, Global News",
    "url": "https://www.lesaffaires.com/secteurs/politique/jour-5-la-caq-ouvre-la-porte-a-une-pratique-mixte-des-medecins-au-prive-et-au-public/",
-   "resume": "En point de presse à Saint-Colomban, Christine Fréchette a proposé d'ouvrir la discussion avec les médecins pour leur permettre de travailler au privé et au public sans se désaffilier de la Régie de l'assurance maladie, à condition qu'ils maintiennent « une présence minimale au public », et de raccourcir de trois mois le délai avant qu'un patient en attente d'une chirurgie soit dirigé vers une autre région ou vers le privé sans avoir à payer. La CAQ veut aussi regrouper les listes d'attente, au motif que « notre code postal ne devrait jamais déterminer combien de temps on attend pour être soigné » ; l'orientation s'écarte de celle défendue jusqu'ici par Christian Dubé et Santé Québec, et le parti dit qu'elle sera discutée avec les médecins en vue des prochaines négociations.\n\n**Mise à jour, 15 h** — La Fédération des médecins spécialistes du Québec accueille favorablement la proposition, qui « prévient les départs définitifs » selon elle, et demande aux autres partis de s'y engager, tandis que la présidente de la CSN, Caroline Senneville, la juge « épouvantable » et que Médecins québécois pour un régime public et l'APTS y voient un déplacement du temps médical vers les activités les plus rentables. La CAQ précise qu'un plancher d'heures au public serait fixé, que les omnipraticiens resteraient exclus du va-et-vient et que l'obligation de cinq ans au public pour les nouveaux médecins serait maintenue ; en juillet, Santé Québec avait accordé 121 autorisations de désaffiliation temporaire à 71 spécialistes distincts, et 821 médecins, dont 271 spécialistes, étaient non participants au régime public au 14 juillet selon la Régie de l'assurance maladie du Québec.",
+   "resume": "En point de presse à Saint-Colomban, Christine Fréchette a proposé d'ouvrir la discussion avec les médecins pour leur permettre de travailler au privé et au public sans se désaffilier de la Régie de l'assurance maladie, à condition qu'ils maintiennent « une présence minimale au public », et de raccourcir de trois mois le délai avant qu'un patient en attente d'une chirurgie soit dirigé vers une autre région ou vers le privé sans avoir à payer. La CAQ veut aussi regrouper les listes d'attente, au motif que « notre code postal ne devrait jamais déterminer combien de temps on attend pour être soigné » ; l'orientation s'écarte de celle défendue jusqu'ici par Christian Dubé et Santé Québec, et le parti dit qu'elle sera discutée avec les médecins en vue des prochaines négociations.\n\n**Mise à jour, 15 h** — La Fédération des médecins spécialistes du Québec accueille favorablement la proposition, qui « prévient les départs définitifs » selon elle, et demande aux autres partis de s'y engager, tandis que la présidente de la CSN, Caroline Senneville, la juge « épouvantable » et que Médecins québécois pour un régime public et l'APTS y voient un déplacement du temps médical vers les activités les plus rentables. La CAQ précise qu'un plancher d'heures au public serait fixé, que les omnipraticiens resteraient exclus du va-et-vient et que l'obligation de cinq ans au public pour les nouveaux médecins serait maintenue ; en juillet, Santé Québec avait accordé 121 autorisations de désaffiliation temporaire à 71 spécialistes distincts, et 821 médecins, dont 271 spécialistes, étaient non participants au régime public au 14 juillet selon la Régie de l'assurance maladie du Québec.\n\n**Mise à jour, 23 h** — Charles Milliard accuse Christine Fréchette de jeter « M. Dubé sous l’autobus » en défaisant ce que son ancien collègue avait mis en place, tandis que Ruba Ghazal juge que la cheffe caquiste « fait fausse route » et qualifie la double pratique des médecins de « fléau » coûteux. Christine Fréchette a refusé de qualifier d’erreur la loi de 2025, se bornant à dire que son parti « fait différemment pour la suite des choses », et la CAQ ajoute vouloir recourir davantage au privé pour l’imagerie médicale et former plus de médecins en région grâce au réseau des Universités du Québec.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T15:24-04:00",
+   "horodate": "2026-08-31T23:14-04:00",
    "sources": [
     {
      "media": "Les Affaires",
@@ -1773,6 +1773,14 @@
     {
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-campaign-day-5-9.7326714"
+    },
+    {
+     "media": "Le Canada français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/jour-5-une-volte-face-de-la-caq-en-matiere-de-sante-vivement-critiquee/"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12042600/quebec-election-day-5/"
     }
    ],
    "permalien": "la-caq-ouvre-la-porte-a-une-pratique-mixte-des-medecins-et-v-8f3970",
@@ -2551,12 +2559,12 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Le Devoir, Les Affaires",
+   "medias": "Le Devoir, Les Affaires, InfoBref, Global News",
    "url": "https://www.ledevoir.com/politique/quebec/1005386/partis-misent-efficacite-seduire-electeurs",
-   "resume": "Lundi, la CAQ a proposé d'ouvrir la discussion sur la pratique mixte des médecins, le Parti québécois a promis un « grand ménage dans la bureaucratie » et le Parti libéral du Québec la création de « délais maximaux » pour accélérer la mise en chantier de logements. Christine Fréchette a confirmé avoir voté en faveur de la loi d'avril 2025 qui limitait les allers-retours des médecins entre le public et le privé, mais dit avoir changé d'avis après avoir examiné divers modèles de santé.",
+   "resume": "Lundi, la CAQ a proposé d'ouvrir la discussion sur la pratique mixte des médecins, le Parti québécois a promis un « grand ménage dans la bureaucratie » et le Parti libéral du Québec la création de « délais maximaux » pour accélérer la mise en chantier de logements. Christine Fréchette a confirmé avoir voté en faveur de la loi d'avril 2025 qui limitait les allers-retours des médecins entre le public et le privé, mais dit avoir changé d'avis après avoir examiné divers modèles de santé.\n\n**Mise à jour, 23 h** — Paul St-Pierre Plamondon a redit vouloir abolir Santé Québec et créer un secrétariat à l’efficacité gouvernementale, chiffrant à 1,6 milliard de dollars par année les économies attendues de la réduction du secteur public. La Coalition avenir Québec promet de son côté de retrancher un milliard de dollars aux dépenses administratives de Santé Québec, une agence que Christine Fréchette défend en soutenant que l’accès aux services s’est amélioré depuis sa création.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T20:39-04:00",
+   "horodate": "2026-08-31T23:14-04:00",
    "sources": [
     {
      "media": "Le Devoir",
@@ -2565,6 +2573,14 @@
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/elections-quebec-2026-la-caq-critiquee-pour-son-engagement-en-matieres-de-sante/"
+    },
+    {
+     "media": "InfoBref",
+     "url": "https://infobref.com/campagne-electorale-jour5-2026-09/"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12042600/quebec-election-day-5/"
     }
    ],
    "permalien": "au-cinquieme-jour-les-trois-principaux-partis-convergent-sur-60e118",
@@ -2613,6 +2629,28 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-08-31.json",
    "_slug": "la-carte-du-5-octobre-compte-127-circonscriptions-etablie-pa-93f830"
+  },
+  {
+   "titre": "Éric Duhaime en bonnet de chocolatier, une image de campagne qui en rappelle une autre",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.tvanouvelles.ca/2026/08/31/eric-duhaime-maitre-chocolatier-nos-politiciens-dans-leurs-meilleurs-jours-rigole-mathieu-bock-cote",
+   "resume": "Éric Duhaime a passé quelques minutes derrière le comptoir d’une chocolaterie lundi, coiffé du bonnet blanc du métier, lors d’un des arrêts impromptus qui ponctuent la tournée des chefs. Mathieu Bock-Côté y voit « nos politiciens dans leurs meilleurs jours » et y retrouve l’écho de Gilles Duceppe, apparu avec la même coiffe pendant la campagne fédérale de 1997 et abondamment croqué ainsi par les caricaturistes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T23:14-04:00",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/eric-duhaime-maitre-chocolatier-nos-politiciens-dans-leurs-meilleurs-jours-rigole-mathieu-bock-cote"
+    }
+   ],
+   "permalien": "eric-duhaime-en-bonnet-de-chocolatier-une-image-de-campagne-e4fdd5",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-08-31.json",
+   "_slug": "eric-duhaime-en-bonnet-de-chocolatier-une-image-de-campagne-e4fdd5"
   },
   {
    "titre": "Un restaurant de la rue Jean-Talon incendié deux nuits de suite à Saint-Michel",
