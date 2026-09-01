@@ -1,0 +1,325 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
+<title>Savoirs — 1 septembre 2026</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%20role%3D%22img%22%20aria-label%3D%22Entr%C3%A9e-Libre%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20rx%3D%2213%22%20fill%3D%22%23ffd400%22/%3E%3Cpath%20d%3D%22M27%2012h23v40H27%22%20fill%3D%22none%22%20stroke%3D%22%23111114%22%20stroke-width%3D%225%22/%3E%3Cpath%20d%3D%22M27%2012l13%207v32l-13-5z%22%20fill%3D%22%23111114%22/%3E%3Cpath%20d%3D%22M7%2032h15%22%20stroke%3D%22%23111114%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22/%3E%3Cpath%20d%3D%22M16%2024l9%208-9%208%22%20fill%3D%22none%22%20stroke%3D%22%23111114%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22/%3E%3C/svg%3E">
+<meta name="description" content="6 sujets — Savoirs, revue de presse du 1 septembre 2026.">
+<link rel="canonical" href="https://entreelibre.ca/edition/2026-09-01/savoirs.html">
+<meta property="og:site_name" content="Entrée-Libre — Revue de presse">
+<meta property="og:title" content="Savoirs — 1 septembre 2026">
+<meta property="og:description" content="6 sujets — Savoirs, revue de presse du 1 septembre 2026.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://entreelibre.ca/edition/2026-09-01/savoirs.html">
+<meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" title="Entrée-Libre — Revue de presse" href="flux.xml">
+<link rel="alternate" type="application/feed+json" title="Entrée-Libre — Revue de presse" href="flux.json">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/newsreader/400.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/newsreader/700.css">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/permanent-marker@5.2.5/400.css">
+
+</head><body><div class="wrap large">
+<div class="toolbar">
+ <a class="btn-une" href="https://entreelibre.ca/">La une</a>
+ <span class="sp"></span>
+ <span id="etat" style="color:var(--muted)"></span>
+ <button id="bth" onclick="th()" title="Changer de style — clic : style suivant">Thème</button>
+ <button onclick="fo()">Police</button>
+ <button onclick="co()">Colonnes</button>
+ <button onclick="sz(.1)">A+</button>
+ <button onclick="sz(-.1)">A&minus;</button>
+</div>
+
+<nav class="cahiers"><a data-cahier="elections" href="elections.html"><span class="lbl">Élections Québec 2026 <span class='n'>26</span></span></a><a data-cahier="quebec" href="quebec.html"><span class="lbl">Québec et ses régions <span class='n'>10</span></span></a><a data-cahier="montreal" href="montreal.html"><span class="lbl">Montréal et sa région <span class='n'>2</span></span></a><a data-cahier="canada" href="canada.html"><span class="lbl">Canada <span class='n'>16</span></span></a><a data-cahier="international" href="international.html"><span class="lbl">International <span class='n'>21</span></span></a><a class='on' data-cahier="savoirs" href="savoirs.html"><span class="lbl">Savoirs <span class='n'>6</span></span></a></nav>
+<header class="top">
+ <div class="dateline">Entrée-Libre — 1 septembre 2026</div>
+ <h1>Savoirs</h1>
+ <div class="chapeau"><p>6 sujets, répartis en 4 rubriques.</p></div>
+</header>
+<details class="index"><summary>Index des lieux — 4 territoires</summary><div class="liste"><a href="#" onclick="return ftr('États-Unis')">États-Unis <span class="n">2</span></a><a href="#" onclick="return ftr('International')">International <span class="n">2</span></a><a href="#" onclick="return ftr('Québec')">Québec <span class="n">1</span></a><a href="#" onclick="return ftr('Union européenne')">Union européenne <span class="n">1</span></a></div></details>
+<div class="filtre">
+ <input id="q" type="search" placeholder="Filtrer par titre, lieu ou média…"
+        oninput="filtrer()" autocomplete="off">
+ <span class="res" id="res"></span>
+</div>
+<p class="legende">
+ <span class="badge-vu b-neuf">● Nouveau</span><span class="quoi">jamais vu</span>
+ <span class="badge-vu b-apercu">◔ Vu, non lu</span><span class="quoi">passé sous vos yeux</span>
+ <span class="badge-vu b-lu">✓ Lu</span><span class="quoi">sujet ouvert</span>
+ <span class="badge-vu b-maj">● Nouveaux articles</span><span class="quoi">relancé depuis votre lecture</span>
+ <button type="button" onclick="vusOublier()" title="Effacer la mémoire de lecture de ce navigateur">Tout oublier</button>
+</p>
+<p class="vide" id="vide" style="display:none">Aucun sujet ne correspond.</p>
+<div data-bloc><h3 class="rubrique" id="r-technologies">Technologies et numérique <span class="cnt">— 3</span></h3><div class="grille">
+<article class="carte vign" data-cle="bruxelles range chatgpt parmi les tres grands moteurs de recherche du reglement europeen sur les services numeriques union europeenne franceinfo, clubic, mac4ever technologies et numerique savoirs" data-cahier="savoirs" data-slug="bruxelles-range-chatgpt-parmi-les-tres-grands-moteurs-de-rec-cf1c95" data-emp="eeb878ffed">
+<a href="a/bruxelles-range-chatgpt-parmi-les-tres-grands-moteurs-de-rec-cf1c95.html"><img class="vi" loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bruxelles_-_Commission_Europ%C3%A9enne_Berlaymont.jpg/1280px-Bruxelles_-_Commission_Europ%C3%A9enne_Berlaymont.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" onerror="this.closest('article').classList.remove('vign');this.remove()"></a>
+<div>
+<div class="terr">Union européenne</div>
+<h4 class="titre"><a href="a/bruxelles-range-chatgpt-parmi-les-tres-grands-moteurs-de-rec-cf1c95.html">Bruxelles range ChatGPT parmi les très grands moteurs de recherche du règlement européen sur les services numériques</a></h4>
+<div class="credit">franceinfo, Clubic, Mac4Ever</div>
+<div class="extrait">La Commission européenne a classé le service d&#x27;OpenAI parmi les très grands moteurs de recherche en ligne au sens du règlement sur les services numériques, une première pour un agent conversationnel, et a désigné Roblox et Reddit dans la même vague. Les trois services, qui déclarent 159 millions, 57,2 millions et environ 48 millions d&#x27;utilisateurs mensuels dans l&#x27;Union, ont quatre mois pour se plier aux obligations du régime : évaluer et atténuer les risques systémiques de leurs algorithmes, notamment la diffusion de contenus illicites et les effets sur les mineurs. …</div>
+<div class="plus"><a href="a/bruxelles-range-chatgpt-parmi-les-tres-grands-moteurs-de-rec-cf1c95.html">Lire le sujet →</a></div>
+</div></article>
+<article class="carte" data-cle="tim cook quitte la direction d&#x27;apple, john ternus lui succede etats-unis macgeneration, the verge, mac4ever technologies et numerique savoirs" data-cahier="savoirs" data-slug="tim-cook-quitte-la-direction-d-apple-john-ternus-lui-succede-b78fb9" data-emp="ef24f7ef6d">
+<div>
+<div class="terr">États-Unis</div>
+<h4 class="titre"><a href="a/tim-cook-quitte-la-direction-d-apple-john-ternus-lui-succede-b78fb9.html">Tim Cook quitte la direction d&#x27;Apple, John Ternus lui succède</a></h4>
+<div class="credit">MacGeneration, The Verge, Mac4Ever</div>
+<div class="extrait">Lundi était le dernier jour de Tim Cook comme chef de la direction d&#x27;Apple, poste qu&#x27;il occupait depuis 2011; dans un message aux employés, il a écrit que son titre changeait le lendemain, mais pas son attachement à la communauté Apple. John Ternus prend la relève.</div>
+<div class="plus"><a href="a/tim-cook-quitte-la-direction-d-apple-john-ternus-lui-succede-b78fb9.html">Lire le sujet →</a></div>
+</div></article>
+<article class="carte" data-cle="panne d&#x27;outlook et d&#x27;exchange online : des millions d&#x27;utilisateurs prives de courriel international clubic technologies et numerique savoirs" data-cahier="savoirs" data-slug="panne-d-outlook-et-d-exchange-online-des-millions-d-utilisat-3ecaa1" data-emp="abd269e386">
+<div>
+<div class="terr">International</div>
+<h4 class="titre"><a href="a/panne-d-outlook-et-d-exchange-online-des-millions-d-utilisat-3ecaa1.html">Panne d&#x27;Outlook et d&#x27;Exchange Online : des millions d&#x27;utilisateurs privés de courriel</a></h4>
+<div class="credit">Clubic</div>
+<div class="extrait">Microsoft Exchange Online et Outlook sont tombés en panne lundi après-midi, empêchant de nombreux utilisateurs d&#x27;envoyer et de recevoir leurs messages. Microsoft dit avoir isolé la cause du problème et tester un correctif.</div>
+<div class="plus"><a href="a/panne-d-outlook-et-d-exchange-online-des-millions-d-utilisat-3ecaa1.html">Lire le sujet →</a></div>
+</div></article>
+</div></div>
+<div data-bloc><h3 class="rubrique" id="r-espace">Espace et astronomie <span class="cnt">— 1</span></h3><div class="grille">
+<article class="carte" data-cle="la turkiye devient le plus recent pays signataire des accords artemis international nasa espace et astronomie savoirs" data-cahier="savoirs" data-slug="la-turkiye-devient-le-plus-recent-pays-signataire-des-accord-8cd5a4" data-emp="f6fb5a516e">
+<div>
+<div class="terr">International</div>
+<h4 class="titre"><a href="a/la-turkiye-devient-le-plus-recent-pays-signataire-des-accord-8cd5a4.html">La Türkiye devient le plus récent pays signataire des accords Artemis</a></h4>
+<div class="credit">NASA</div>
+<div class="extrait">La République de Türkiye a signé lundi les accords Artemis lors d&#x27;une cérémonie tenue au siège de la NASA à Washington et présidée par l&#x27;administrateur de l&#x27;agence, Jared Isaacman. Elle rejoint la coalition de pays qui s&#x27;engagent sur des principes communs d&#x27;exploration spatiale pacifique et transparente, dans le cadre du retour américain annoncé vers la surface lunaire.</div>
+<div class="plus"><a href="a/la-turkiye-devient-le-plus-recent-pays-signataire-des-accord-8cd5a4.html">Lire le sujet →</a></div>
+</div></article>
+</div></div>
+<div data-bloc><h3 class="rubrique" id="r-idees">Idées, philosophie et histoire <span class="cnt">— 1</span></h3><div class="grille">
+<article class="carte" data-cle="rattrape par ses propos antisemites, john galliano renonce a son exposition au met etats-unis la presse, quebecor, franceinfo, le parisien, france 24 idees, philosophie et histoire savoirs" data-cahier="savoirs" data-slug="rattrape-par-ses-propos-antisemites-john-galliano-renonce-a-867791" data-emp="2dbc513cdc">
+<div>
+<div class="terr">États-Unis</div>
+<h4 class="titre"><a href="a/rattrape-par-ses-propos-antisemites-john-galliano-renonce-a-867791.html">Rattrapé par ses propos antisémites, John Galliano renonce à son exposition au Met</a></h4>
+<div class="credit">La Presse, Québecor, franceinfo, Le Parisien, France 24</div>
+<div class="extrait">Le Metropolitan Museum of Art a annoncé lundi l&#x27;annulation de la rétrospective qui devait honorer la carrière du couturier en mai 2027, dans le cadre de l&#x27;exposition printanière du Costume Institute. Galliano a dit avoir conclu, après discussions avec le musée, qu&#x27;il valait mieux que l&#x27;exposition n&#x27;ait pas lieu pour le moment.</div>
+<div class="plus"><a href="a/rattrape-par-ses-propos-antisemites-john-galliano-renonce-a-867791.html">Lire le sujet →</a></div>
+</div></article>
+</div></div>
+<div data-bloc><h3 class="rubrique" id="r-cinema">Cinéma et culture <span class="cnt">— 1</span></h3><div class="grille">
+<article class="carte" data-cle="rentree tele : antigang, stat et dumas de retour a ici tele en septembre quebec coops de l&#x27;information cinema et culture savoirs" data-cahier="savoirs" data-slug="rentree-tele-antigang-stat-et-dumas-de-retour-a-ici-tele-en-9419f8" data-emp="6710d6a2a8">
+<div>
+<div class="terr">Québec</div>
+<h4 class="titre"><a href="a/rentree-tele-antigang-stat-et-dumas-de-retour-a-ici-tele-en-9419f8.html">Rentrée télé : Antigang, STAT et Dumas de retour à ICI Télé en septembre</a></h4>
+<div class="credit">Coops de l&#x27;information</div>
+<div class="extrait">Antigang ouvre la rentrée des fictions québécoises le lundi 7 septembre à 19 h, avant le retour des autres séries. La première saison de Dumas, forte de douze épisodes, prend l&#x27;antenne le lundi 14 septembre à 21 h sur ICI Télé.</div>
+<div class="plus"><a href="a/rentree-tele-antigang-stat-et-dumas-de-retour-a-ici-tele-en-9419f8.html">Lire le sujet →</a></div>
+</div></article>
+</div></div>
+<footer class="pied">
+<h5>Contrôle</h5>
+<p>81 sujets. Médiane de 2 phrases par résumé.
+51 % des sujets reposent sur deux médias ou plus.
+Dépouillement : suite de la veille.</p>
+<h5>Sources</h5><p>68 médias dépouillés pour cette édition — <a href="sources.html">la liste complète et la démarche</a>.</p>
+<h5>Images</h5><p>17 illustrations issues de Wikimedia Commons ou
+d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
+lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
+la photographie publiée par le média cité.</p>
+<h5>Contact</h5><p>Une erreur factuelle, un crédit manquant, ou une demande de
+retrait d'un contenu dont vous êtes l'ayant droit :
+<a href="mailto:contact@entreelibre.ca">contact@entreelibre.ca</a>. Les demandes
+de retrait sont traitées en priorité.</p>
+</footer>
+<a class="retour" href="#">↑ Haut</a></div><script>
+/* ---- le magasin : un navigateur aujourd'hui, un compte demain ----
+   Tout ce dont le journal se souvient passe par ici — les preferences
+   d'affichage (`revue-prefs`) et la memoire de lecture (`revue-vus`). Le jour
+   ou ces reglages suivront un compte plutot qu'un navigateur, c'est ce seul
+   objet qui change ; le reste du fichier ne connait que lire / ecrire /
+   oublier / fusionner.
+   Deux choses sont deja posees pour ce jour-la :
+   - chaque entree de lecture porte son horodate `t`, seule base fiable pour
+     departager deux appareils qui ont parcouru la meme edition ;
+   - `fusionner` tranche, et c'est l'etat le plus avance qui gagne :
+     lu > vu > inconnu. Un sujet lu sur le telephone reste lu sur le portable ;
+     l'inverse effacerait une lecture, ce qu'aucune synchronisation ne doit
+     jamais faire.
+   Ce qui reste a faire ce jour-la, et que ce decoupage ne resout pas : ces
+   quatre methodes sont synchrones, un compte distant ne l'est pas. Les points
+   d'appel devront attendre une promesse, et les ecritures etre groupees —
+   telles quelles, elles partiraient une par carte defilee. */
+var MAGASIN={
+ lire:function(cle){try{return JSON.parse(localStorage.getItem(cle)||'{}');}
+  catch(e){return {};}},
+ ecrire:function(cle,v){try{localStorage.setItem(cle,JSON.stringify(v));}catch(e){}},
+ oublier:function(cle){try{localStorage.removeItem(cle);}catch(e){}},
+ fusionner:function(a,b){
+  var out={},vues={};
+  Object.keys(a).concat(Object.keys(b)).forEach(function(s){
+   if(vues[s])return; vues[s]=1;
+   var x=a[s],y=b[s];
+   if(!x||!y){out[s]=x||y;return;}
+   var lx=estLu(x),ly=estLu(y);
+   /* l'etat le plus avance gagne ; a etat egal, le plus recent */
+   out[s]=(lx!==ly)?(lx?x:y):(((y.t||0)>(x.t||0))?y:x);});
+  return out;}
+};
+
+var H=document.documentElement;
+var st=MAGASIN.lire('revue-prefs');
+if(st.theme)H.dataset.theme=st.theme; if(st.font)H.dataset.font=st.font;
+if(st.cols)H.dataset.cols=st.cols;
+if(st.scale)H.style.setProperty('--scale',st.scale);
+// Newsreader est le nouveau réglage par défaut (28 août 2026) : une
+// préférence 'newsreader' enregistrée avant ce changement redevient ''.
+if(H.dataset.font==='newsreader')H.dataset.font='';
+function save(){MAGASIN.ecrire('revue-prefs',
+ {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
+  scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
+function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%5];save();etat();}
+function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
+ H.dataset.font=o[(i+1)%5];fontload();save();etat();}
+function fontload(){if(H.dataset.font==='dys')dysload();
+ if(H.dataset.font==='inter')cdnfont('inter','inf');}
+function cdnfont(nom,pref){if(document.getElementById(pref))return;
+ [400,700].forEach(function(w){var l=document.createElement('link');
+  l.rel='stylesheet';l.id=w===400?pref:pref+'7';
+  l.href='https://cdn.jsdelivr.net/npm/@fontsource/'+nom+'/'+w+'.css';
+  document.head.appendChild(l);});}
+function dysload(){cdnfont('opendyslexic','dysf');}
+fontload();
+function co(){H.dataset.cols=H.dataset.cols==='1'?'':'1';save();etat();}
+function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))||1;
+ v=Math.min(2.4,Math.max(.7,v+d));H.style.setProperty('--scale',v);save();etat();}
+function etat(){
+ var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
+  'inter':'Inter'}[H.dataset.font||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
+  'contraste':'Contraste'}[H.dataset.theme||''];
+ var bt=document.getElementById('bth');if(bt)bt.textContent=t;
+ var e=document.getElementById('etat');if(!e)return;
+ e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
+document.addEventListener('DOMContentLoaded',etat);
+
+/* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
+function norm(s){return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
+function filtrer(){
+ var q=norm((document.getElementById('q')||{}).value),
+     c=(document.getElementById('fc')||{}).value||'',
+     n=0, cartes=document.querySelectorAll('article.carte[data-cle]');
+ cartes.forEach(function(el){
+   var ok=(!q||el.dataset.cle.indexOf(q)>-1)&&(!c||el.dataset.cahier===c);
+   el.style.display=ok?'':'none'; if(ok)n++;});
+ document.querySelectorAll('[data-bloc]').forEach(function(b){
+   var v=b.querySelectorAll('article.carte:not([style*="none"])').length;
+   b.style.display=v?'':'none';});
+ var r=document.getElementById('res');
+ if(r)r.textContent=(q||c)?n+' sujet'+(n>1?'s':''):'';
+ var vd=document.getElementById('vide');
+ if(vd)vd.style.display=((q||c)&&n===0)?'':'none';
+}
+function ftr(t){var i=document.getElementById('q');if(!i)return;
+ i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+
+/* ---- partager : lien permanent de l'article ---- */
+function partager(btn){
+ var u=btn.dataset.url,t=btn.dataset.titre,txt=btn.querySelector('.txt');
+ if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});return;}
+ if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){
+   var s=txt.textContent;txt.textContent='Lien copié ✓';
+   setTimeout(function(){txt.textContent=s;},1800);});}
+}
+
+/* ---- les trois etats de lecture (memoire locale du navigateur) ----
+   Une entree de `revue-vus` par sujet : {e: empreinte, t: horodate, l: lu}
+     aucune entree          -> neuf   : jamais rencontre
+     l=0, empreinte egale   -> apercu : passe sous les yeux, jamais ouvert
+     l=1, empreinte egale   -> lu     : la page du sujet a ete ouverte
+     l=1, empreinte changee -> maj    : lu, mais des articles s'y sont ajoutes
+     l=0, empreinte changee -> neuf   : a peine entrevu, et le sujet a grossi
+   Les entrees ecrites avant le 31 aout 2026 n'ont pas de champ `l` : elles
+   venaient toutes de l'ouverture d'une page de sujet, donc `lu`.
+   L'etat ne bascule jamais sous les yeux du lecteur : il s'enregistre au
+   passage et ne s'affiche qu'au chargement suivant — une carte qui palit
+   pendant qu'on lit son titre serait insupportable. */
+function vusLire(){return MAGASIN.lire('revue-vus');}
+/* Le plafond de 800 entrees est une contrainte de navigateur, pas une regle du
+   journal : il tombera le jour du compte, ou il faudra le repousser. Tel quel,
+   l'oubli de la plus ancienne entree fait reapparaitre un vieux sujet en
+   « Nouveau » — sans consequence sur l'edition du jour, genant sur un
+   historique de plusieurs mois. */
+function vusEcrire(v){
+ var k=Object.keys(v);
+ if(k.length>800){k.sort(function(a,b){return (v[a].t||0)-(v[b].t||0);});
+  k.slice(0,k.length-800).forEach(function(s){delete v[s];});}
+ MAGASIN.ecrire('revue-vus',v);}
+function estLu(m){return m?(m.l===undefined?true:!!m.l):false;}
+/* Lu : la page du sujet a ete ouverte, ou le sujet deplie entierement parcouru. */
+function vuMarquer(slug,emp){if(!slug)return;
+ var v=vusLire();v[slug]={e:emp,t:Date.now(),l:1};vusEcrire(v);}
+/* Vu : la carte est restee sous les yeux. Ne promeut qu'un sujet inconnu — un
+   sujet deja lu, ou deja signale comme mis a jour, n'est jamais retrograde. */
+function apercuMarquer(slug,emp){if(!slug)return;
+ var v=vusLire();if(v[slug])return;
+ v[slug]={e:emp,t:Date.now(),l:0};vusEcrire(v);}
+function vuBadge(el,txt,cls){
+ var b=el.querySelector('.badge-vu');
+ if(!b){b=document.createElement('span');
+  var c=el.querySelector('.terr, h4.titre, h2.dtitre');
+  if(c)c.parentNode.insertBefore(b,c);else el.insertBefore(b,el.firstChild);}
+ b.textContent=txt;b.className='badge-vu '+cls;}
+function vusAppliquer(){
+ var v=vusLire();
+ document.querySelectorAll('article[data-slug]').forEach(function(el){
+  var m=v[el.dataset.slug],emp=el.dataset.emp;
+  el.classList.remove('neuf','apercu','lu','maj');
+  if(!m){el.classList.add('neuf');vuBadge(el,'● Nouveau','b-neuf');return;}
+  if(estLu(m)){
+   if(m.e===emp){el.classList.add('lu');vuBadge(el,'✓ Lu','b-lu');}
+   else{el.classList.add('maj');vuBadge(el,'● Nouveaux articles','b-maj');}
+  }else{
+   if(m.e===emp){el.classList.add('apercu');vuBadge(el,'◔ Vu, non lu','b-apercu');}
+   else{el.classList.add('neuf');vuBadge(el,'● Nouveau','b-neuf');}
+  }
+ });}
+/* Oublier l'historique de lecture : tout redevient neuf, ici et maintenant. */
+function vusOublier(){MAGASIN.oublier('revue-vus');vusAppliquer();}
+
+/* Une carte compte comme « vue » apres une pause d'environ 1,2 s dans la
+   moitie centrale de l'ecran : un defilement rapide d'un bout a l'autre de
+   l'edition ne doit pas marquer tous les sujets au passage. La bande centrale
+   (rootMargin) vaut mieux qu'un seuil de visibilite : elle marche aussi bien
+   pour une carte plus haute que l'ecran, en gros caracteres. */
+function observerLecture(){
+ if(!('IntersectionObserver' in window))return;
+ var minut={};
+ var cartes=document.querySelectorAll('article.carte[data-slug]');
+ if(cartes.length){
+  var ioc=new IntersectionObserver(function(ens){
+   ens.forEach(function(en){
+    var el=en.target,s=el.dataset.slug;
+    if(en.isIntersecting){
+     if(minut[s])return;
+     minut[s]=setTimeout(function(){delete minut[s];
+      apercuMarquer(s,el.dataset.emp);ioc.unobserve(el);},1200);
+    }else if(minut[s]){clearTimeout(minut[s]);delete minut[s];}});
+  },{rootMargin:'-25% 0px -25% 0px',threshold:0});
+  cartes.forEach(function(el){ioc.observe(el);});
+ }
+ /* apercu autonome : un sujet deplie est « vu » des qu'il s'attarde a
+    l'ecran, et « lu » une fois qu'on l'a fait defiler jusqu'au bout. */
+ var dep=document.querySelectorAll('article.deplie[data-slug]');
+ if(dep.length){
+  var iod=new IntersectionObserver(function(ens){
+   ens.forEach(function(en){
+    var el=en.target,s=el.dataset.slug,d='d'+s;
+    if(en.isIntersecting){
+     if(!minut[d])minut[d]=setTimeout(function(){delete minut[d];
+      apercuMarquer(s,el.dataset.emp);},1200);
+    }else{
+     if(minut[d]){clearTimeout(minut[d]);delete minut[d];}
+     if(en.boundingClientRect.bottom<0){
+      vuMarquer(s,el.dataset.emp);iod.unobserve(el);}}});
+  },{threshold:0});
+  dep.forEach(function(el){iod.observe(el);});
+ }
+}
+document.addEventListener('DOMContentLoaded',function(){
+ if(window.VU)vuMarquer(VU.slug,VU.emp);
+ vusAppliquer();
+ observerLecture();
+});
+</script></body></html>

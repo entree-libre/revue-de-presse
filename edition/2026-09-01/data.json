@@ -1,0 +1,2442 @@
+{
+ "date": "2026-09-01",
+ "volets": [
+  "report"
+ ],
+ "articles": [
+  {
+   "titre": "Virage numérique en santé : près de 500 millions en trois ans pour maintenir des systèmes désuets",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Québecor, Les Affaires",
+   "url": "https://www.journaldequebec.com/2026/08/31/bordel-informatique-frechette--fachee--par-les-depassements-de-couts-en-sante",
+   "resume": "Selon une compilation du Bureau parlementaire de Québecor, Québec a accordé depuis 2023 plus de 465 millions de dollars en contrats pour garder en fonction les systèmes vieillissants de gestion des ressources humaines du réseau de la santé, dont le remplacement est sur la glace, pendant que le volet finances et approvisionnement — 41 systèmes à remplacer — passe de l'enveloppe de 202 millions consentie en 2022 à 329,4 millions. Christine Fréchette se dit « fâchée » par des « écarts trop importants entre ce qui est payé et ce qui avait été convenu », assure avoir imposé des suivis mensuels et exclut d'annuler les contrats, tandis que Paul St-Pierre Plamondon parle de « la même improvisation », Éric Duhaime d'une « technocrate gaspilleuse et dépensière », Ruba Ghazal d'« un deuxième fiasco SAAQclic » et Charles Milliard d'une crédibilité perdue.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:24-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/08/31/bordel-informatique-frechette--fachee--par-les-depassements-de-couts-en-sante"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/frechette-fachee-la-transformation-numerique-en-sante-engloutit-pres-de-500m-en-3-ans/"
+    }
+   ],
+   "permalien": "virage-numerique-en-sante-pres-de-500-millions-en-trois-ans-823cc8",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "virage-numerique-en-sante-pres-de-500-millions-en-trois-ans-823cc8"
+  },
+  {
+   "titre": "« Lake America » sur les sites de Québec 511, de la SAAQ et de la SQDC : Fréchette demande une correction",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/08/31/lake-america--sur-les-sites-de-plusieurs-societes-detat--une-erreur--dit-frechette",
+   "resume": "Les outils cartographiques intégrés aux sites de Québec 511, de la SAAQ et de la SQDC affichaient encore lundi matin « Lake America » à la place du lac Ontario, parce qu'ils reposent sur la base de données américaine de Google Maps, mise à jour après le décret du 27 août par lequel Donald Trump a rebaptisé le plan d'eau. « Ce lac s'appelle le lac Ontario et il va continuer de s'appeler le lac Ontario », a répliqué Christine Fréchette, qui invite les sociétés d'État visées à lui présenter des mesures correctrices — il suffirait de basculer sur la base de données canadienne, selon l'expert en technologies numériques Jean-Luc Sanscartier.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:24-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/08/31/lake-america--sur-les-sites-de-plusieurs-societes-detat--une-erreur--dit-frechette"
+    }
+   ],
+   "permalien": "lake-america-sur-les-sites-de-quebec-511-de-la-saaq-et-de-la-612861",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "lake-america-sur-les-sites-de-quebec-511-de-la-saaq-et-de-la-612861"
+  },
+  {
+   "titre": "La Côte-Nord chiffre à près d'un milliard par année l'écart entre ce qu'elle verse à l'État et ce qu'elle reçoit",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Côte-Nord",
+   "medias": "Radio-Canada, Le Manic",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279244/declin-demographique-etude-assemblee-mrc",
+   "resume": "L'assemblée des MRC de la Côte-Nord et la Nation innue ont dévoilé une étude socioéconomique selon laquelle les entreprises de la région génèrent 1,7 milliard de dollars en revenus fiscaux directs et indirects, alors que les municipalités et les MRC en recevraient entre 742 et 811 millions — un manque à gagner que l'étude évalue entre 930 et 998 millions par année. Les six préfets y voient la cause du déclin démographique — une population en baisse de 7,4 % en vingt ans et un bassin de travailleurs de 25 à 55 ans en recul de 33 % entre 2000 et 2024 — et demandent aux partis de prioriser la région dans l'attribution des blocs d'énergie et d'adapter les politiques d'immigration aux réalités régionales.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:24-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279244/declin-demographique-etude-assemblee-mrc"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/08/31/la-cote-nord-verse-un-milliard-par-annee-en-surplus-au-provincial/"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/08/31/la-cote-nord-verse-un-milliard-par-annee-en-surplus-au-provincial/"
+    },
+    {
+     "media": "Journal Haute-Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/08/31/la-cote-nord-verse-un-milliard-par-annee-en-surplus-au-provincial/"
+    }
+   ],
+   "permalien": "la-cote-nord-chiffre-a-pres-d-un-milliard-par-annee-l-ecart-44af1c",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "la-cote-nord-chiffre-a-pres-d-un-milliard-par-annee-l-ecart-44af1c"
+  },
+  {
+   "titre": "L'Université Laval demande aux partis de s'engager à réinvestir dans les universités",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Capitale-Nationale (Québec)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279235/universite-laval-reinvestir-elections",
+   "resume": "À la conférence de presse de rentrée lundi, la rectrice de l'Université Laval, Sophie D'Amour, a pressé les partis de se positionner rapidement sur le financement des universités québécoises, qu'elle estime sous-financées par rapport à celles des autres provinces canadiennes. Elle lie l'enjeu à la capacité d'innovation du Québec et formule cette demande à neuf mois de la fin de son mandat.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:24-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279235/universite-laval-reinvestir-elections"
+    }
+   ],
+   "permalien": "l-universite-laval-demande-aux-partis-de-s-engager-a-reinves-d564da",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "l-universite-laval-demande-aux-partis-de-s-engager-a-reinves-d564da"
+  },
+  {
+   "titre": "Les centres d'assistance aux plaintes demandent aux partis treize engagements sur les droits des usagers",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Mauricie–Centre-du-Québec",
+   "medias": "L'Express",
+   "url": "https://www.journalexpress.ca/regional-et-national/proteger-les-aines-ecouter-les-usagers-et-ameliorer-les-soins/",
+   "resume": "Le Centre d'assistance et d'accompagnement aux plaintes Mauricie–Centre-du-Québec et sa fédération, la FCAAP, demandent aux cinq chefs de s'engager publiquement sur treize recommandations regroupées en trois priorités : protéger les droits des personnes aînées, transformer l'expérience des usagers en changements durables et faire de la perte d'autonomie une responsabilité collective plutôt qu'un risque financier individuel. Sa directrice générale, Janik Ouimet, réclame notamment un régime d'examen des plaintes « indépendant, soutenu et respecté » et des services d'hébergement et de maintien à domicile équitables.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:24-04:00",
+   "sources": [
+    {
+     "media": "L'Express",
+     "url": "https://www.journalexpress.ca/regional-et-national/proteger-les-aines-ecouter-les-usagers-et-ameliorer-les-soins/"
+    }
+   ],
+   "permalien": "les-centres-d-assistance-aux-plaintes-demandent-aux-partis-t-11a135",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "les-centres-d-assistance-aux-plaintes-demandent-aux-partis-t-11a135"
+  },
+  {
+   "titre": "Dans René-Lévesque, la péquiste Odette Lavigne fait de la dévitalisation son enjeu central",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Côte-Nord (René-Lévesque)",
+   "medias": "Le Manic",
+   "url": "https://www.lemanic.ca/2026/08/31/elections-2026-la-candidate-du-pq-dans-rene-levesque-mise-sur-les-services-et-les-familles/",
+   "resume": "Odette Lavigne, candidate du Parti québécois dans René-Lévesque, place l'attraction et la rétention de la population au cœur de sa campagne, estimant que la Côte-Nord « se dévitalise » et perd des habitants année après année. Elle mise sur les services de proximité — garderies, soins de santé, infrastructures sportives et culturelles — et sur les perspectives offertes aux jeunes pour renverser la tendance.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:24-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/08/31/elections-2026-la-candidate-du-pq-dans-rene-levesque-mise-sur-les-services-et-les-familles/"
+    },
+    {
+     "media": "Journal Haute-Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/08/31/elections-2026-la-candidate-du-pq-dans-rene-levesque-mise-sur-les-services-et-les-familles/"
+    }
+   ],
+   "permalien": "dans-rene-levesque-la-pequiste-odette-lavigne-fait-de-la-dev-0e13ad",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "dans-rene-levesque-la-pequiste-odette-lavigne-fait-de-la-dev-0e13ad"
+  },
+  {
+   "titre": "Le Parti conservateur du Québec complète son équipe en Estrie avec Orford, Saint-François et Sherbrooke",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Estrie",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279190/nouveaux-candidats-parti-conservateur-quebec-estrie",
+   "resume": "Le Parti conservateur du Québec présente Benoît Robitaille dans Orford, diplômé en sciences de la gestion de l'UQAM et ancien du secteur de la sécurité publique, Esteban Mendez-Hord dans Saint-François, déjà candidat conservateur au fédéral en 2025, et Jonathan Brault dans Sherbrooke. Dans Orford, M. Robitaille affrontera la caquiste Allison Turner, le chef libéral Charles Milliard, la solidaire Eve-Lyne Clusiault et le péquiste Jocelyn Caron ; dans Saint-François, M. Mendez-Hord fait face à la députée caquiste sortante Geneviève Hébert, à la libérale Jacqueline Belleau, à la solidaire Mia Fréchette et à la péquiste Sylvie Tanguay.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:24-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279190/nouveaux-candidats-parti-conservateur-quebec-estrie"
+    }
+   ],
+   "permalien": "le-parti-conservateur-du-quebec-complete-son-equipe-en-estri-b730e1",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "le-parti-conservateur-du-quebec-complete-son-equipe-en-estri-b730e1"
+  },
+  {
+   "titre": "Placer Trump au centre de la campagne : la recette que la CAQ emprunte à Ford et à Carney",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "L'actualité",
+   "url": "https://lactualite.com/politique/limponderable-trump/",
+   "resume": "L'analyste politique Karl Bélanger, ancien directeur national du NPD, lit dans le déclenchement du 27 août la volonté de Christine Fréchette de faire de Donald Trump l'adversaire de la campagne, en reprenant la stratégie qui a servi à Doug Ford en Ontario et à Mark Carney au fédéral. Il rappelle que la CAQ s'était effondrée dans les intentions de vote au printemps, avant le départ de François Legault, et estime qu'un troisième mandat consécutif suppose en outre que le Parti québécois continue de plafonner.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:24-04:00",
+   "sources": [
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/politique/limponderable-trump/"
+    }
+   ],
+   "permalien": "placer-trump-au-centre-de-la-campagne-la-recette-que-la-caq-b15f67",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "placer-trump-au-centre-de-la-campagne-la-recette-que-la-caq-b15f67"
+  },
+  {
+   "titre": "Au Saguenay–Lac-Saint-Jean, le PQ avait ses candidats dès juillet, le PLQ et QS complètent encore",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Saguenay–Lac-Saint-Jean",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/1222072/lundi-31-aout-2026",
+   "resume": "Au Saguenay–Lac-Saint-Jean, le Parti québécois avait désigné l'ensemble de ses candidats dès le 8 juillet, et la Coalition avenir Québec comme le Parti conservateur du Québec ont fini par compléter leur équipe régionale, plus tardivement. Le recrutement se poursuit du côté du Parti libéral du Québec et de Québec solidaire, un écart qu'analyse Pierre-Luc Bouchard, qui enseigne la science politique au Collège d'Alma.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:24-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/1222072/lundi-31-aout-2026"
+    }
+   ],
+   "permalien": "au-saguenaylac-saint-jean-le-pq-avait-ses-candidats-des-juil-05a9d9",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "au-saguenaylac-saint-jean-le-pq-avait-ses-candidats-des-juil-05a9d9"
+  },
+  {
+   "titre": "« Sortez les chiffres » : un chroniqueur réclame les cadres financiers avant le premier débat",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/chroniques/1003145/avant-debats-sortez-chiffres",
+   "resume": "Rodolphe Husny, ancien conseiller politique du gouvernement Harper devenu chroniqueur, demande aux partis de publier un cadre financier complet et chiffré — revenus, dépenses, déficit et dette sur les quatre années du mandat — avant le premier débat des chefs du 15 septembre, rappelant qu'à la campagne fédérale de 2025 les plateformes chiffrées ne sont sorties qu'après le débat en français, et après l'ouverture du vote par anticipation dans le cas des conservateurs. Il fait valoir qu'un chiffre isolé ne se juge pas — les 47 milliards de compressions sur cinq ans annoncés par Éric Duhaime représentent 9,4 milliards par année, à comparer au déficit de l'ordre de 7,2 milliards de l'exercice en cours — et propose de créer à Québec un poste de directeur parlementaire du budget.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:24-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/opinion/chroniques/1003145/avant-debats-sortez-chiffres"
+    }
+   ],
+   "permalien": "sortez-les-chiffres-un-chroniqueur-reclame-les-cadres-financ-704b1c",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "sortez-les-chiffres-un-chroniqueur-reclame-les-cadres-financ-704b1c"
+  },
+  {
+   "titre": "Bruxelles range ChatGPT parmi les très grands moteurs de recherche du règlement européen sur les services numériques",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Union européenne",
+   "medias": "franceinfo, Clubic, Mac4Ever",
+   "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/diffusion-de-contenus-illicites-effets-negatifs-sur-les-mineurs-bien-etre-des-utilisateurs-chatgpt-roblox-et-reddit-vont-etre-soumis-a-des-regles-renforcees-dans-",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/diffusion-de-contenus-illicites-effets-negatifs-sur-les-mineurs-bien-etre-des-utilisateurs-chatgpt-roblox-et-reddit-vont-etre-soumis-a-des-regles-renforcees-dans-"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627484-chatgpt-reddit-et-roblox-rejoignent-officiellement-le-club-des-geants-surveilles-par-l-europe.html"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/ia/197776-chatgpt-devient-un-moteur-de-recherche-aux-yeux-de-l-europe-qu-est-ce-que-cela-change"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/technologies/20260831-chatgpt-va-%C3%AAtre-la-premi%C3%A8re-ia-soumise-aux-r%C3%A8gles-renforc%C3%A9es-de-protection-des-utilisateurs-de-l-ue"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/techno-et-ia/chatgpt-va-etre-la-premiere-ia-soumise-a-des-regles-renforcees-de-lue/"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+    }
+   ],
+   "resume": "La Commission européenne a classé le service d'OpenAI parmi les très grands moteurs de recherche en ligne au sens du règlement sur les services numériques, une première pour un agent conversationnel, et a désigné Roblox et Reddit dans la même vague.\n\nLes trois services, qui déclarent 159 millions, 57,2 millions et environ 48 millions d'utilisateurs mensuels dans l'Union, ont quatre mois pour se plier aux obligations du régime : évaluer et atténuer les risques systémiques de leurs algorithmes, notamment la diffusion de contenus illicites et les effets sur les mineurs.\n\n**Mise à jour, 15 h 30** — Bruxelles a aussi ajouté lundi la plateforme de jeu Roblox et le réseau social Reddit à la liste des très grandes plateformes soumises au règlement européen sur les services numériques. Les trois ont franchi le seuil des 45 millions d'utilisateurs dans l'Union européenne.",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bruxelles_-_Commission_Europ%C3%A9enne_Berlaymont.jpg/1280px-Bruxelles_-_Commission_Europ%C3%A9enne_Berlaymont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Fred Romero from Paris, France",
+   "photo_licence": "CC BY 2.0",
+   "legende": "Le Berlaymont, siège de la Commission européenne, à Bruxelles.",
+   "permalien": "bruxelles-range-chatgpt-parmi-les-tres-grands-moteurs-de-rec-cf1c95",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "bruxelles-range-chatgpt-parmi-les-tres-grands-moteurs-de-rec-cf1c95"
+  },
+  {
+   "titre": "Lionel Messi annonce sa retraite internationale avec l'Argentine",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Argentine",
+   "medias": "Radio-Canada, Le Devoir, La Presse, Québecor, Coops de l'information, France 24, RFI, franceinfo, Euronews",
+   "url": "https://ici.radio-canada.ca/en-bref/90-17102/lionel-messi-retraite-internationale-argentine-soccer-foot",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/90-17102/lionel-messi-retraite-internationale-argentine-soccer-foot"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-%C3%A9ternel-lionel-messi-dit-adieu-%C3%A0-la-s%C3%A9lection-argentine"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sports/foot/lionel-messi/je-prends-ma-retraite-de-l-equipe-nationale-lionel-messi-ne-portera-plus-le-maillot-de-la-selection-argentine_8170973.html"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/sports/20260831-foot-lionel-messi-annonce-sa-retraite-internationale-avec-l-argentine"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/08/31/lionel-messi-annonce-sa-retraite-internationale-avec-largentine"
+    }
+   ],
+   "resume": "L'octuple Ballon d'or a annoncé lundi sur Instagram qu'il ne portera plus le maillot de la sélection argentine, refermant une carrière internationale de 207 sélections et 125 buts. Il précise avoir écrit ce message le 21 juillet, deux jours après la finale du Mondial, et l'avoir gardé jusqu'à lundi.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "lionel-messi-annonce-sa-retraite-internationale-avec-l-argen-025f45",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "lionel-messi-annonce-sa-retraite-internationale-avec-l-argen-025f45"
+  },
+  {
+   "titre": "L'épidémie d'Ebola dépasse les 6 000 cas confirmés en République démocratique du Congo",
+   "cahier": "international",
+   "rubrique": "sante",
+   "territoire": "République démocratique du Congo",
+   "medias": "Le Devoir, La Presse, franceinfo",
+   "url": "https://www.ledevoir.com/monde/afrique/1005305/epidemie-ebola-depasse-6000-cas-confirmes-republique-democratique-congo",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/afrique/1005305/epidemie-ebola-depasse-6000-cas-confirmes-republique-democratique-congo"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/afrique/2026-08-31/republique-democratique-du-congo/l-epidemie-d-ebola-depasse-les-6000-cas-confirmes.php"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-depasse-les-6-000-cas-confirmes_8170892.html"
+    }
+   ],
+   "resume": "Les autorités sanitaires congolaises ont recensé lundi 6 041 cas confirmés, 2 911 décès et 1 366 guérisons depuis le début de la flambée, la plus meurtrière qu'ait connue le pays. L'Organisation mondiale de la santé décrit une progression exponentielle de l'épidémie.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "l-epidemie-d-ebola-depasse-les-6-000-cas-confirmes-en-republ-0771c0",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "l-epidemie-d-ebola-depasse-les-6-000-cas-confirmes-en-republ-0771c0"
+  },
+  {
+   "titre": "Mort d'Édouard Balladur, premier ministre français de 1993 à 1995, à 97 ans",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "France",
+   "medias": "France 24, RFI, franceinfo, CNEWS",
+   "url": "https://www.rfi.fr/fr/france/20260831-france-l-ancien-premier-ministre-%C3%A9douard-balladur-est-mort",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/france/20260831-france-l-ancien-premier-ministre-%C3%A9douard-balladur-est-mort"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-%C3%A9douard-balladur-premier-ministre-devenu-le-rival-honni-de-jacques-chirac"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/politique/edouard-balladur-premier-ministre-de-1993-a-1995-est-mort-a-l-age-de-97-ans_5931758.html"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-08-31/mort-dedouard-balladur-la-classe-politique-reagit-la-disparition-de-lancien"
+    }
+   ],
+   "resume": "L'ancien premier ministre est mort lundi à Paris à 97 ans, après avoir dirigé le gouvernement de 1993 à 1995 sous la présidence de François Mitterrand. Sa candidature à l'élection présidentielle de 1995, contre Jacques Chirac dont il avait longtemps été un proche, avait laissé une fracture durable à droite.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "mort-d-edouard-balladur-premier-ministre-francais-de-1993-a-325ec4",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "mort-d-edouard-balladur-premier-ministre-francais-de-1993-a-325ec4"
+  },
+  {
+   "titre": "Le cardinal Marc Ouellet remporte son procès en diffamation",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Radio-Canada, Coops de l'information",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279237/proces-diffamation-cardinal-marc-ouellet-remporte-cause",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279237/proces-diffamation-cardinal-marc-ouellet-remporte-cause"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/justice-et-faits-divers/2026/08/31/le-cardinal-ouellet-gagne-sa-cause-en-diffamation-3SY3ZCYI6VEOJFQONDSUC2MJAQ/"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2026/08/31/le-cardinal-ouellet-gagne-sa-cause-en-diffamation-3SY3ZCYI6VEOJFQONDSUC2MJAQ/"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/justice-et-faits-divers/2026/08/31/le-cardinal-ouellet-gagne-sa-cause-en-diffamation-3SY3ZCYI6VEOJFQONDSUC2MJAQ/"
+    }
+   ],
+   "resume": "Le juge Castonguay a donné raison lundi au cardinal Marc Ouellet dans sa poursuite en diffamation, qualifiant de « téméraires » et même « malicieuses » les allégations de Paméla Groleau. Celle-ci soutenait avoir été agressée sexuellement par le cardinal alors qu'elle était stagiaire au diocèse de Québec, entre 2008 et 2010.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "le-cardinal-marc-ouellet-remporte-son-proces-en-diffamation-62f82f",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "le-cardinal-marc-ouellet-remporte-son-proces-en-diffamation-62f82f"
+  },
+  {
+   "titre": "Fraude fiscale : 2,15 millions d'amendes et trois ans de prison pour une agence de placement",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Le Devoir, La Presse, Les Affaires, Le Canada Français",
+   "url": "https://www.ledevoir.com/actualites/justice/1005266/lourdes-peines-imposees-agence-placement-personnel-fraude-fiscale",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/justice/1005266/lourdes-peines-imposees-agence-placement-personnel-fraude-fiscale"
+    }
+   ],
+   "resume": "La Cour du Québec a condamné l'agence de placement de personnel Alpha et Omega Multiservices et son administratrice, Maria Del Carmen Jimenez Serrano, à plus de 2,15 millions de dollars d'amendes pour fraude fiscale. La juge Geneviève Claude Parayre a en outre imposé trois ans d'emprisonnement à Mme Serrano.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "fraude-fiscale-2-15-millions-d-amendes-et-trois-ans-de-priso-96e2d6",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "fraude-fiscale-2-15-millions-d-amendes-et-trois-ans-de-priso-96e2d6"
+  },
+  {
+   "titre": "Shein entre mardi à la Bourse de Hong Kong, avec une valorisation divisée par quatre en quatre ans",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Chine",
+   "medias": "Le Devoir, La Presse, Les Affaires, Québecor, France 24",
+   "url": "https://www.ledevoir.com/economie/1005326/shein-apprete-entrer-bourse-valorisation-divisee-4-4-ans",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005326/shein-apprete-entrer-bourse-valorisation-divisee-4-4-ans"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-08-31/entree-a-la-bourse-de-hong-kong-mardi/shein-compte-lever-l-equivalent-de-2-4-milliards-de-dollars-canadiens.php"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/31/shein-compte-lever-15-milliard-deuros-en-bourse-valorisation-a-226-milliards"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-shein-s-appr%C3%AAte-%C3%A0-entrer-en-bourse-pour-une-valorisation-%C3%A0-22-6-milliards-d-euros"
+    }
+   ],
+   "resume": "La plateforme de mode en ligne, fondée en Chine en 2012 et établie à Singapour, compte lever près de 1,5 milliard d'euros à la veille de son entrée à la Bourse de Hong Kong. L'opération la valoriserait à 22,6 milliards d'euros, soit quatre fois moins qu'il y a quatre ans.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "shein-entre-mardi-a-la-bourse-de-hong-kong-avec-une-valorisa-a6a4c5",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "shein-entre-mardi-a-la-bourse-de-hong-kong-avec-une-valorisa-a6a4c5"
+  },
+  {
+   "titre": "Rattrapé par ses propos antisémites, John Galliano renonce à son exposition au Met",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "États-Unis",
+   "medias": "La Presse, Québecor, franceinfo, Le Parisien, France 24",
+   "url": "https://www.franceinfo.fr/culture/mode/le-couturier-john-galliano-annonce-renoncer-a-une-exposition-qui-devait-honorer-l-ensemble-de-sa-carriere-en-mai-2027-a-new-york_8170988.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/mode/le-couturier-john-galliano-annonce-renoncer-a-une-exposition-qui-devait-honorer-l-ensemble-de-sa-carriere-en-mai-2027-a-new-york_8170988.html"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/rattrape-par-ses-propos-antisemites-le-styliste-john-galliano-renonce-a-une-exposition-en-son-honneur-a-new-york-31-08-2026-D7OHBIET3ZGE7MKZC3O6GALHEU.php"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-rattrap%C3%A9-par-ses-propos-antis%C3%A9mites-galliano-renonce-%C3%A0-une-exposition-%C3%A0-new-york"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/propos-antisemites-lexposition-du-styliste-john-galliano-au-met-de-new-york-annulee"
+    }
+   ],
+   "resume": "Le Metropolitan Museum of Art a annoncé lundi l'annulation de la rétrospective qui devait honorer la carrière du couturier en mai 2027, dans le cadre de l'exposition printanière du Costume Institute. Galliano a dit avoir conclu, après discussions avec le musée, qu'il valait mieux que l'exposition n'ait pas lieu pour le moment.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "rattrape-par-ses-propos-antisemites-john-galliano-renonce-a-867791",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "rattrape-par-ses-propos-antisemites-john-galliano-renonce-a-867791"
+  },
+  {
+   "titre": "La Canadienne accusée d'espionnage contre l'OTAN restera détenue en Belgique",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Belgique",
+   "medias": "La Presse, Coops de l'information",
+   "url": "https://www.lapresse.ca/international/europe/2026-08-31/belgique/la-canadienne-accusee-d-espionnage-contre-l-otan-restera-detenue.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/europe/2026-08-31/belgique/la-canadienne-accusee-d-espionnage-contre-l-otan-restera-detenue.php"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/politique/2026/08/31/la-canadienne-accusee-d-espionnage-contre-l-otan-restera-en-detention-en-belgique-3RSZBTTIHJD2HCI5YU2DQNW2S4/"
+    }
+   ],
+   "resume": "La Chambre d'accusation belge a rejeté lundi l'appel de la Canadienne visée par une enquête pour espionnage au détriment de l'OTAN et a prolongé d'un mois sa détention provisoire. La décision de juillet ordonnant son maintien en détention est donc confirmée.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "la-canadienne-accusee-d-espionnage-contre-l-otan-restera-det-d3616f",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "la-canadienne-accusee-d-espionnage-contre-l-otan-restera-det-d3616f"
+  },
+  {
+   "titre": "Les six derniers bélugas de Marineland quittent le Canada pour des aquariums américains",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Ontario",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/environnement/2026-08-31/dernieres-baleines-en-captivite-au-canada/six-belugas-de-marineland-en-route-vers-les-etats-unis.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-08-31/dernieres-baleines-en-captivite-au-canada/six-belugas-de-marineland-en-route-vers-les-etats-unis.php"
+    }
+   ],
+   "resume": "Les six bélugas de Marineland, dernières baleines en captivité au pays, devaient prendre la route lundi vers deux aquariums des États-Unis. Leur départ met fin à la présence de cétacés captifs au Canada.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "les-six-derniers-belugas-de-marineland-quittent-le-canada-po-134d95",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "les-six-derniers-belugas-de-marineland-quittent-le-canada-po-134d95"
+  },
+  {
+   "titre": "Saint-Jérôme entreprend sa première politique municipale en itinérance",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Laurentides",
+   "medias": "Ville de Saint-Jérôme",
+   "url": "https://www.vsj.ca/actualites/vers-une-premiere-politique-municipale-en-matiere-ditinerance/",
+   "sources": [
+    {
+     "media": "Ville de Saint-Jérôme",
+     "url": "https://www.vsj.ca/actualites/vers-une-premiere-politique-municipale-en-matiere-ditinerance/"
+    }
+   ],
+   "resume": "La Ville de Saint-Jérôme a lancé une démarche de consultation qui doit mener à sa première politique municipale en matière d'itinérance, assortie d'un plan d'action. La Ville présente l'exercice comme une occasion de rassembler les points de vue et de bâtir une vision commune sur la question.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "saint-jerome-entreprend-sa-premiere-politique-municipale-en-bd8ec7",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "saint-jerome-entreprend-sa-premiere-politique-municipale-en-bd8ec7"
+  },
+  {
+   "titre": "Ville de Montréal : 26 cadres en disponibilité, pour 3,6 millions de rémunération annuelle",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Montréal",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-31/ville-de-montreal/le-nombre-de-cadres-mis-en-disponibilite-en-hausse.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-08-31/ville-de-montreal/le-nombre-de-cadres-mis-en-disponibilite-en-hausse.php"
+    }
+   ],
+   "resume": "La liste des cadres municipaux mis en disponibilité — ceux qui conservent leur salaire en attendant un poste correspondant à leur statut d'emploi — comptait 26 personnes au 15 juin, pour une rémunération annuelle totalisant 3,6 millions de dollars. Ce nombre est en hausse.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "ville-de-montreal-26-cadres-en-disponibilite-pour-3-6-millio-725936",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "ville-de-montreal-26-cadres-en-disponibilite-pour-3-6-millio-725936"
+  },
+  {
+   "titre": "Les droits de douane freinent la croissance de l'industriel québécois Durabac",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lenouvelliste.ca/actualites/le-fil-des-coops/2026/08/31/les-droits-de-douane-freinent-la-croissance-de-lindustriel-durabac-Q3SN3HP5CNCRXJOPDFYN4V3FYA/",
+   "sources": [
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/le-fil-des-coops/2026/08/31/les-droits-de-douane-freinent-la-croissance-de-lindustriel-durabac-Q3SN3HP5CNCRXJOPDFYN4V3FYA/"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/le-fil-des-coops/2026/08/31/les-droits-de-douane-freinent-la-croissance-de-lindustriel-durabac-Q3SN3HP5CNCRXJOPDFYN4V3FYA/"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/le-fil-des-coops/2026/08/31/les-droits-de-douane-freinent-la-croissance-de-lindustriel-durabac-Q3SN3HP5CNCRXJOPDFYN4V3FYA/"
+    }
+   ],
+   "resume": "Le président et fondateur de Durabac, Patrick Charbonneau, affirme que son entreprise n'est plus concurrentielle sur le marché américain sous le régime tarifaire actuel. Il dit placer son seul espoir dans la riposte canadienne annoncée pour le 8 septembre, avec des droits de rétorsion.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "les-droits-de-douane-freinent-la-croissance-de-l-industriel-c6760c",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "les-droits-de-douane-freinent-la-croissance-de-l-industriel-c6760c"
+  },
+  {
+   "titre": "Tim Cook quitte la direction d'Apple, John Ternus lui succède",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "MacGeneration, The Verge, Mac4Ever",
+   "url": "https://www.macg.co/aapl/2026/08/pour-son-dernier-jour-en-tant-que-ceo-tim-cook-remercie-ses-employes-et-la-communaute-apple-310751",
+   "sources": [
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/aapl/2026/08/pour-son-dernier-jour-en-tant-que-ceo-tim-cook-remercie-ses-employes-et-la-communaute-apple-310751"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197783-tim-cook-fait-ses-adieux-aux-salaries-d-apple-avant-de-passer-la-main-a-john-ternus"
+    }
+   ],
+   "resume": "Lundi était le dernier jour de Tim Cook comme chef de la direction d'Apple, poste qu'il occupait depuis 2011; dans un message aux employés, il a écrit que son titre changeait le lendemain, mais pas son attachement à la communauté Apple. John Ternus prend la relève.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "tim-cook-quitte-la-direction-d-apple-john-ternus-lui-succede-b78fb9",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "tim-cook-quitte-la-direction-d-apple-john-ternus-lui-succede-b78fb9"
+  },
+  {
+   "titre": "Brésil : le programme de Flávio Bolsonaro adoucit son vocabulaire sans changer de cap, jugent ses critiques",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Brésil",
+   "medias": "À l'encontre",
+   "url": "https://alencontre.org/ameriques/amelat/bresil/le-programme-de-flavio-bolsonaro-le-mirage-de-la-moderation-textuelle.html",
+   "sources": [
+    {
+     "media": "À l'encontre",
+     "url": "https://alencontre.org/ameriques/amelat/bresil/le-programme-de-flavio-bolsonaro-le-mirage-de-la-moderation-textuelle.html"
+    }
+   ],
+   "resume": "Le programme de Flávio Bolsonaro abandonne une partie du lexique de guerre culturelle qui caractérisait le discours de son camp, une inflexion que ses adversaires de gauche jugent purement textuelle. Ceux-ci estiment que son volet sécuritaire, transposé à 213 millions d'habitants sur un territoire aux dimensions continentales, relève du fantasme plutôt que de la politique publique.",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "photo": "",
+   "permalien": "bresil-le-programme-de-flavio-bolsonaro-adoucit-son-vocabula-645c90",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "bresil-le-programme-de-flavio-bolsonaro-adoucit-son-vocabula-645c90"
+  },
+  {
+   "titre": "Sommet de l'OCS : le dossier iranien au cœur des discussions entre Xi, Poutine, Modi et Pezeshkian",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Kirghizstan, Iran",
+   "medias": "RFI, TV5MONDE",
+   "url": "https://www.rfi.fr/fr/asie-pacifique/20260831-sommet-de-l-ocs-le-dossier-iranien-s-annonce-au-c%C5%93ur-des-discussions-entre-xi-poutine-modi-et-pezeshkian",
+   "resume": "L'Organisation de coopération de Shanghai, qui célèbre son 25e anniversaire, réunit au Kirghizstan les dirigeants chinois, russe, indien et iranien alors que le dossier des sanctions contre Téhéran s'annonce au cœur des discussions, selon RFI. Selon TV5Monde, ce forum de dix États, conçu à l'origine pour faire contrepoids à l'influence occidentale, sert désormais de tribune à la Russie et à l'Iran face à leur isolement diplomatique.\n\n**Mise à jour, 15 h 30** — Le sommet de l'Organisation de coopération de Shanghai s'est ouvert lundi à Bichkek, au Kirghizistan, avec des dizaines de dirigeants. Narendra Modi y a pressé Vladimir Poutine de mettre fin à la guerre en Ukraine, tandis que le président russe et Xi Jinping ont vanté un « modèle de relations interétatiques ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20260831-sommet-de-l-ocs-le-dossier-iranien-s-annonce-au-c%C5%93ur-des-discussions-entre-xi-poutine-modi-et-pezeshkian"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/xi-au-kirghizstan-poutine-et-pezeshkian-attendus-2835546"
+    }
+   ],
+   "permalien": "sommet-de-l-ocs-le-dossier-iranien-au-cur-des-discussions-en-479384",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "sommet-de-l-ocs-le-dossier-iranien-au-cur-des-discussions-en-479384"
+  },
+  {
+   "titre": "Suisse : une fusillade fait un mort et cinq blessés en marge d'un festival techno, chasse à l'homme en cours",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Suisse",
+   "medias": "Le Journal de Montréal, France 24, franceinfo",
+   "url": "https://www.journaldemontreal.com/2026/08/30/tirs-mortels-lors-dune-rave-party-en-suisse--une-chasse-a-lhomme-en-cours",
+   "resume": "La police suisse recherchait dimanche le ou les auteurs de tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche en marge d'une rave organisée à Aarau, selon Le Journal de Montréal et France 24. Les circonstances exactes de la fusillade restaient à préciser.\n\n**Mise à jour, 8 h 55** — Un Suisse de 43 ans a été arrêté lundi dans l'enquête sur les tirs qui ont fait un mort et cinq blessés dans la nuit de samedi à dimanche à Aarau, près de Zurich. La police dit privilégier l'hypothèse d'un auteur ayant agi seul.\n\n**Mise à jour, 15 h 30** — Un Suisse de 43 ans a été arrêté lundi, « fortement suspecté » d'avoir tiré sur les participants d'une rave party à Aarau dans la nuit de samedi à dimanche. La personne tuée était une jeune Italienne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/30/tirs-mortels-lors-dune-rave-party-en-suisse--une-chasse-a-lhomme-en-cours"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260830-suisse-fusillade-lors-d-un-festival-techno-1-mort-et-5-bless%C3%A9s"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/faits-divers/un-homme-soupconne-d-etre-a-l-origine-des-tirs-mortels-en-marge-d-une-rave-party-en-suisse-a-ete-arrete_8170664.html"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/europe/20260831-fusillade-rave-party-suisse-police-annonce-arrestation-suspect-fusillade"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/video/suisse-un-suspect-arrete-apres-la-fusillade-daarau-2835645"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/un-mort-et-cinq-blesses-dans-une-fusillade-lors-dun-rave-en-suisse-un-suspect-arrete"
+    }
+   ],
+   "permalien": "suisse-une-fusillade-fait-un-mort-et-cinq-blesses-en-marge-d-2b4a6f",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "suisse-une-fusillade-fait-un-mort-et-cinq-blesses-en-marge-d-2b4a6f"
+  },
+  {
+   "titre": "Trois élections partielles fédérales lundi, dont une au Saguenay–Lac-Saint-Jean",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Canada",
+   "medias": "Le Devoir, Le Canada Français, La Presse",
+   "url": "https://www.ledevoir.com/politique/canada/1005095/liberaux-carney-quete-nouveaux-gains-elections-partielles",
+   "resume": "Trois élections partielles fédérales se tiennent lundi, dont une dans Chicoutimi–Le Fjord au Saguenay où le libéral Daniel Gobeil et la bloquiste Caroline Dubé sont donnés au coude-à-coude par l'agrégateur 338Canada, tandis que Beaches–East York (Toronto) et North Vancouver–Capilano (Colombie-Britannique) penchent nettement pour les candidats libéraux. Un gain complet permettrait aux libéraux de Mark Carney de consolider leur majorité, dans un contexte de guerre commerciale avec les États-Unis.\n\n**Mise à jour, 8 h 55** — Les électeurs de Chicoutimi–Le Fjord votent lundi pour désigner le successeur de Richard Martel à la Chambre des communes. La course s'annonce serrée entre la bloquiste Caroline Dubé, le libéral Daniel Gobeil et le conservateur Régis Gaudreault.\n\n**Mise à jour, 15 h 30** — Les électeurs de Chicoutimi–Le Fjord votaient lundi, dans un scrutin qu'un politologue présente comme un baromètre de l'appui à la décision de Mark Carney de rompre les négociations commerciales avec les États-Unis. Le candidat libéral y est l'ancien président des Producteurs de lait du Québec.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/canada/1005095/liberaux-carney-quete-nouveaux-gains-elections-partielles"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/les-electeurs-se-rendront-aux-urnes-lundi-dans-trois-circonscriptions-federales/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-08-31/election-federale-partielle/des-resultats-serres-attendus-dans-chicoutimi-le-fjord.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/canada/1005311/chicoutimi-fjord-election-partielle-sous-signe-guerre-commerciale"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279229/trois-circonscriptions-federales-elections-partielles"
+    },
+    {
+     "media": "24 heures",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/election-partielle-jour-de-vote-dans-la-circonscription-federale-chicoutimile-fjord"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "permalien": "trois-elections-partielles-federales-lundi-dont-une-au-sague-80ad1e",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "trois-elections-partielles-federales-lundi-dont-une-au-sague-80ad1e"
+  },
+  {
+   "titre": "Trump rebaptise le lac Ontario « lac d'Amérique », Carney hausse les épaules",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Ontario",
+   "medias": "Québecor, Le Devoir, La Presse, APTN News, Global News, CBC, The Globe and Mail, Le Journal de Montréal, Radio-Canada, National Post, Canada's National Observer, Coops de l'information, France 24, Les Echos, BFMTV, Le Temps, Acadie Nouvelle, Noovo Info, Ouest-France, Euronews, next.ink",
+   "url": "https://www.journaldemontreal.com/2026/08/27/lac-amerique-donald-trump-signe-un-decret-pour-changer-le-nom-du-lac-ontario",
+   "resume": "Un décret signé jeudi par Donald Trump rebaptise le lac Ontario « lac d'Amérique » sur les cartes et documents fédéraux américains, et Google Maps affiche depuis dimanche ce nom à ses utilisateurs situés aux États-Unis — les internautes canadiens continuant de voir « lac Ontario » et les autres, les deux noms — un changement dont la Maison-Blanche s'est félicitée. La décision n'a aucune portée légale au Canada : Mark Carney a répondu que le plan d'eau « sera, a toujours été et sera toujours » le lac Ontario, le grand chef de la Nation huronne-wendat a exprimé son indignation, et Doug Ford a fait installer sur les rives une affiche portant « Lac Ontario, aujourd'hui et pour toujours ».\n\n**Mise à jour, 5 h 55** — Des services ontariens qui puisent leurs données cartographiques chez Google, dont la carte des pannes d'Hydro One et le localisateur de succursales de la Régie des alcools de l'Ontario, ont brièvement affiché « lac d'Amérique » avant qu'Hydro One ne dise travailler à corriger l'erreur avec son fournisseur; le ministre ontarien Stephen Crawford affirme qu'une vérification est en cours pour s'assurer que les sites du gouvernement provincial continuent de désigner le lac Ontario par son nom.\n\n**Mise à jour, 8 h 55** — Google a appliqué le changement : depuis lundi, Google Maps affiche « Lake America » aux utilisateurs situés aux États-Unis, tout en conservant « lac Ontario » au Canada et dans le reste du monde. Le premier ministre de l'Ontario, Doug Ford, a qualifié la décision de « complètement à l'envers », alors que Washington doit porter au 1er janvier 2027 de 25 % à 50 % le tarif sur la part non américaine des véhicules assemblés au Canada, après l'échec des négociations du 21 août.\n\n**Mise à jour, 15 h 30** — Donald Trump aurait communiqué avec Apple pour que le lac Ontario apparaisse sous le nom de « lac d'Amérique » dans ses cartes, après le décret qu'il a signé la semaine dernière. Mark Carney avait répliqué que les Canadiens connaîtront le lac sous son nom d'origine « hier, aujourd'hui et pour toujours ».",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lake_Ontario_Shoreline.jpg",
+   "legende": "Le littoral du lac Ontario.",
+   "photo_auteur": "SAF1999",
+   "photo_licence": "CC0",
+   "horodate": "2026-08-31T15:52-04:00",
+   "permalien": "trump-rebaptise-le-lac-ontario-lac-d-amerique-carney-hausse-09b1fe",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/27/lac-amerique-donald-trump-signe-un-decret-pour-changer-le-nom-du-lac-ontario"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/canada/1004984/dirigeants-autochtones-condamnent-decision-trump-renommer-lac-ontario"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/national/2026-08-28/les-dirigeants-autochtones-condamnent-la-decision-de-trump-de-renommer-le-lac-ontario.php"
+    },
+    {
+     "media": "APTN News",
+     "url": "https://www.aptnnews.ca/national-news/indigenous-leaders-condemn-trumps-move-to-rename-lake-ontario/"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12039775/indigenous-leaders-condemn-trump-lake-ontario/"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/toronto/ford-unveils-lake-ontario-sign-winona-u-s-trade-war-9.7325528"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/article-doug-ford-lake-ontario-sign/"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/08/29/aujourdhui-et-pour-toujours-doug-ford-appose-une-affiche-geante-sur-les-rives-du-lac-ontario"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/canada/1005077/doug-ford-devoile-panneau-lac-ontario-riposte-donald-trump"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/national/2026-08-29/doug-ford-devoile-un-panneau-au-lac-ontario-en-riposte-a-donald-trump.php"
+    },
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/actualites/2026/08/29/doug-ford-devoile-un-panneau-au-lac-ontario-en-riposte-a-donald-trump/"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/30/le-lac-ontario-devient-le-lac-amerique-sur-google-maps-aux-etats-unis"
+    },
+    {
+     "media": "Noovo Info",
+     "url": "https://www.noovo.info/nouvelles/societe/article/google-maps-change-lac-ontario-par-lac-amerique-aux-etats-unis/"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12040981/lake-ontario-lake-america-google-maps/"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/google-updates-maps-lake-ontario-9.7325922"
+    },
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/google-maps-lake-america-lake-ontario-u-s"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/etats-unis/le-lac-ontario-devient-le-lac-damerique-sur-le-google-maps-des-etats-unis-2ba9c918-a48e-11f1-94d9-ff4da0548a19"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278963/lac-decret-trump-signature-ford"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10748409/google-se-conforme-au-decret-trump-sur-lac-amerique"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/next/2026/08/31/lac-ontario-ou-lac-america-google-maps-varie-au-canada-aux-etats-unis-et-dans-le-monde"
+    },
+    {
+     "media": "next.ink",
+     "url": "https://next.ink/253677/google-maps-renomme-le-lac-ontario-en-lac-damerique-pour-les-etats-unis/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-08-31/trump-aurait-contacte-apple-pour-renommer-le-lac-ontario-lac-amerique.php"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279243/donald-trump-lac-ontario-amerique-apple-google"
+    }
+   ],
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "trump-rebaptise-le-lac-ontario-lac-d-amerique-carney-hausse-09b1fe"
+  },
+  {
+   "titre": "Les États-Unis frappent l'île iranienne de Larak, premières frappes en un mois",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran",
+   "medias": "Le Devoir, Radio-Canada, France 24, RFI, TF1 Info, BFMTV, La Libre.be, AFP, Le Télégramme, l'Opinion, Paris Match, RTBF, Libération, i24NEWS",
+   "url": "https://www.ledevoir.com/monde/moyen-orient/1005167/etats-unis-ont-mene-nouvelles-frappes-iran-premieres-mois",
+   "resume": "Les forces américaines ont détruit dimanche deux lanceurs de roquettes sur l'île iranienne de Larak, dans le détroit d'Ormuz, où des unités du Corps des gardiens de la révolution islamique se préparaient à tirer des roquettes chargées de mines marines, selon le porte-parole du Commandement militaire américain pour le Moyen-Orient, Tim Hawkins. Il s'agit de la première opération américaine visant le territoire iranien depuis un mois, l'administration Trump ayant jusqu'ici privilégié les sanctions économiques ; les Gardiens de la révolution ont appelé à « une punition » en représailles.\n\n**Mise à jour, 31 août** — Téhéran affirme avoir répliqué par des tirs contre des cibles militaires américaines dans le détroit d'Ormuz, tandis que des chefs militaires américains ont averti le secrétaire à la Défense que le coût d'une campagne prolongée contre l'Iran serait « insoutenable », selon La Libre Belgique et i24NEWS.\n\n**Mise à jour, 15 h 30** — L'Iran a affirmé lundi avoir riposté « en légitime défense » en visant des cibles militaires américaines en Jordanie et aux Émirats arabes unis, premier échange de frappes après un mois d'accalmie. Donald Trump a menacé de bombarder « fort » l'Iran en réponse.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1005167/etats-unis-ont-mene-nouvelles-frappes-iran-premieres-mois"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279046/etats-unis-nouvelles-frappes-iran"
+    },
+    {
+     "media": "TF1 Info",
+     "url": "https://www.tf1info.fr/international/iran-les-etats-unis-menent-de-nouvelles-frappes-les-premieres-depuis-un-mois-2461329.html"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-les-etats-unis-ont-mene-de-nouvelles-frappes-en-iran-les-premieres-depuis-un-mois_VN-202608300456.html"
+    },
+    {
+     "media": "La Libre.be",
+     "url": "https://www.lalibre.be/international/amerique/2026/08/30/les-etats-unis-ont-mene-de-nouvelles-frappes-en-iran-les-premieres-en-un-mois-65NNVHSRPNCYTLZQMPBVNKJXEU/"
+    },
+    {
+     "media": "Le Télégramme",
+     "url": "https://www.letelegramme.fr/monde/premiers-echanges-de-frappes-entre-les-etats-unis-et-liran-depuis-un-mois-7107676.php"
+    },
+    {
+     "media": "l'Opinion",
+     "url": "https://www.lopinion.fr/international/le-petrole-grimpe-apres-des-echanges-de-frappes-entre-les-etats-unis-et-liran"
+    },
+    {
+     "media": "Paris Match",
+     "url": "https://www.parismatch.com/actu/international/les-etats-unis-ont-mene-des-frappes-en-iran-une-premiere-depuis-un-mois-274898"
+    },
+    {
+     "media": "RTBF",
+     "url": "https://www.rtbf.be/article/guerre-au-moyen-orient-echange-de-frappes-entre-les-etats-unis-et-l-iran-une-premiere-en-un-mois-11777630"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/moyen-orient-premier-echange-de-frappes-entre-les-etats-unis-et-liran-en-un-mois-20260831_SDUFN2OH55AKXJMTHHPW3O6LFA/"
+    },
+    {
+     "media": "i24NEWS",
+     "url": "https://www.i24news.tv/fr/actu/international/ameriques/artc-des-responsables-militaires-americains-alertent-sur-le-cout-d-une-campagne-prolongee-contre-l-iran"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1005215/premier-echange-frappes-entre-etats-unis-iran-depuis-mois"
+    },
+    {
+     "media": "20 minutes",
+     "url": "https://www.20minutes.fr/monde/etats-unis/4241741-20260831-guerre-moyen-orient-etats-unis-reprennent-frappes-contre-iran-teheran-riposte"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T15:52-04:00",
+   "permalien": "les-etats-unis-frappent-l-ile-iranienne-de-larak-premieres-f-490c67",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "les-etats-unis-frappent-l-ile-iranienne-de-larak-premieres-f-490c67"
+  },
+  {
+   "titre": "La Banque du Canada tranche mercredi, avec une guerre commerciale de plus dans l'équation",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Les Affaires, La Presse, The Globe and Mail, Banque du Canada",
+   "url": "https://www.lesaffaires.com/bourse/economie/guerre-commerciale-lincertitude-plane-quant-a-la-decision-de-la-banque-du-canada/",
+   "resume": "Avant que les négociations commerciales entre Ottawa et Washington ne capotent au début du mois, économistes et marchés financiers tablaient largement sur un taux directeur inchangé jusqu'à la fin de 2027 ; l'escalade tarifaire rouvre le calcul à deux jours de l'annonce. La Banque du Canada rendra sa décision mercredi et le gouverneur Tiff Macklem donnera sa conférence de presse avec la première sous-gouverneure Carolyn Rogers vers 10 h 30, selon le calendrier publié par l'institution.",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/economie/guerre-commerciale-lincertitude-plane-quant-a-la-decision-de-la-banque-du-canada/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-08-31/taux-d-interet/les-tensions-commerciales-devraient-peser-sur-la-decision-de-la-banque-du-canada.php"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-bank-of-canada-expected-to-hold-rates-steady-as-trade-war-escalates/"
+    },
+    {
+     "media": "Banque du Canada",
+     "url": "https://www.banqueducanada.ca/medias/discours/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/The_Bank%27s_Head_Office_Si%C3%A8ge_de_la_Banque_du_Canada_%2846847690635%29.jpg/1280px-The_Bank%27s_Head_Office_Si%C3%A8ge_de_la_Banque_du_Canada_%2846847690635%29.jpg",
+   "legende": "Le siège de la Banque du Canada, à Ottawa.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Bank of Canada - Banque du Canada from Canada",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "la-banque-du-canada-tranche-mercredi-avec-une-guerre-commerc-8dcebd",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "la-banque-du-canada-tranche-mercredi-avec-une-guerre-commerc-8dcebd"
+  },
+  {
+   "titre": "Investir au Canada perd sa PDG à quelques semaines de son sommet sur l'investissement étranger",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Finance et Investissement, Les Affaires, La Presse",
+   "url": "https://www.finance-investissement.com/investir-au-canada-perd-sa-pdg-avant-un-sommet-cle/",
+   "resume": "Laurel Broten, ancienne ministre du gouvernement ontarien de Dalton McGuinty, quitte le 1er septembre la présidence d'Investir au Canada, l'agence fédérale chargée d'attirer les capitaux étrangers. Dominic LeBlanc, le ministre responsable de l'agence, a annoncé lundi accepter sa démission, à quelques semaines d'un sommet consacré précisément à cet objectif.",
+   "sources": [
+    {
+     "media": "Finance et Investissement",
+     "url": "https://www.finance-investissement.com/investir-au-canada-perd-sa-pdg-avant-un-sommet-cle/"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/la-pdg-dlnvestir-au-canada-demissionne-juste-avant-un-sommet-sur-linvestissement/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-08-31/a-l-approche-du-sommet-sur-l-investissement/la-pdg-d-investir-au-canada-demissionne.php"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "investir-au-canada-perd-sa-pdg-a-quelques-semaines-de-son-so-afc7ca",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "investir-au-canada-perd-sa-pdg-a-quelques-semaines-de-son-so-afc7ca"
+  },
+  {
+   "titre": "Sept PME sur dix ne voient encore rien venir du commerce interprovincial vanté comme réponse aux tarifs",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/affaires/2026-08-31/forum-des-affaires/commerce-interprovincial-une-option-moins-simple-qu-il-n-y-parait-face-a-trump.php",
+   "resume": "Le bulletin 2026 de la Fédération canadienne de l'entreprise indépendante accorde de bonnes notes à la plupart des provinces et à Ottawa pour l'adoption de lois de reconnaissance mutuelle, mais sept PME sur dix disent n'avoir constaté aucune amélioration concrète de leurs activités depuis un an. L'écart entre les textes adoptés et le quotidien des entreprises est l'argument central de ceux qui jugent le commerce intérieur surestimé comme réponse aux droits de douane américains.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-08-31/forum-des-affaires/commerce-interprovincial-une-option-moins-simple-qu-il-n-y-parait-face-a-trump.php"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "sept-pme-sur-dix-ne-voient-encore-rien-venir-du-commerce-int-1e48dd",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "sept-pme-sur-dix-ne-voient-encore-rien-venir-du-commerce-int-1e48dd"
+  },
+  {
+   "titre": "John Ternus prend mardi la direction d'Apple après quinze ans de Tim Cook",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "La Presse, Le Devoir",
+   "url": "https://www.lapresse.ca/affaires/entreprises/2026-08-31/une-nouvelle-ere-s-ouvre-chez-apple-avec-l-arrivee-de-john-ternus.php",
+   "resume": "John Ternus succède mardi à Tim Cook à la tête d'Apple, une transition préparée de longue date qui tombe au moment du lancement de nouveaux produits et de tensions géopolitiques sur les chaînes d'approvisionnement. Le marché attend d'abord de lui des progrès en intelligence artificielle, où le groupe accuse depuis plusieurs années un retard sur ses concurrents.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-08-31/une-nouvelle-ere-s-ouvre-chez-apple-avec-l-arrivee-de-john-ternus.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005236/nouvelle-ere-ouvre-apple-intronisation-john-ternus"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/John_Ternus_at_the_Apple_50th_Anniversary_Kickoff_%28cropped%29.jpg",
+   "legende": "John Ternus, nouveau chef de la direction d'Apple.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Tessa Bury",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "john-ternus-prend-mardi-la-direction-d-apple-apres-quinze-an-a9f52e",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "john-ternus-prend-mardi-la-direction-d-apple-apres-quinze-an-a9f52e"
+  },
+  {
+   "titre": "Trafic aérien : record mondial en juillet, 5,9 millions de passagers contrôlés dans les grands aéroports canadiens",
+   "cahier": "canada",
+   "rubrique": "transport",
+   "territoire": "Canada",
+   "medias": "La Presse, Québecor, Statistique Canada",
+   "url": "https://www.lapresse.ca/affaires/2026-08-31/le-record-de-trafic-aerien-mondial-battu-pour-un-mois-de-juillet.php",
+   "resume": "La demande aérienne mondiale, mesurée en passagers-kilomètres payants, a progressé de 0,2 % en juillet par rapport à juillet 2025, qui était déjà un record pour ce mois, malgré le prix des billets et la guerre au Moyen-Orient ; les transporteurs nord-américains et du Moyen-Orient reculent pourtant sur un an. Statistique Canada a de son côté compté 5,9 millions de passagers soumis au contrôle de sûreté dans les huit plus grands aéroports du pays en juillet, une hausse de 1,4 % sur un an.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-08-31/le-record-de-trafic-aerien-mondial-battu-pour-un-mois-de-juillet.php"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/voyages-en-avion-vers-un-ete-record-malgre-les-prix-eleves-des-billets"
+    },
+    {
+     "media": "Statistique Canada",
+     "url": "https://www150.statcan.gc.ca/daily-quotidien/260828/dq260828c-fra.htm"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Terminal_1%2C_Toronto_Pearson_International_Airport%2C_angled_view.jpg/1280px-Terminal_1%2C_Toronto_Pearson_International_Airport%2C_angled_view.jpg",
+   "legende": "L'aérogare 1 de l'aéroport international Pearson de Toronto.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Daniel Case",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "trafic-aerien-record-mondial-en-juillet-5-9-millions-de-pass-287cbf",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "trafic-aerien-record-mondial-en-juillet-5-9-millions-de-pass-287cbf"
+  },
+  {
+   "titre": "Le PIB du Québec recule de 0,1 % en mai pendant que celui du Canada progresse",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Institut de la statistique du Québec, Statistique Canada",
+   "url": "https://statistique.quebec.ca/fr/institut/salle-de-presse/communiques",
+   "resume": "Le produit intérieur brut réel du Québec a reculé de 0,1 % en mai 2026, et de 0,1 % également pour le cumul des cinq premiers mois de l'année, selon l'Institut de la statistique du Québec. Statistique Canada mesure pour sa part une progression de 0,8 % du PIB réel canadien au deuxième trimestre et de 0,3 % en juin, attribuée surtout aux exportations, aux dépenses des ménages et aux investissements des entreprises.",
+   "sources": [
+    {
+     "media": "Institut de la statistique du Québec",
+     "url": "https://statistique.quebec.ca/fr/institut/salle-de-presse/communiques"
+    },
+    {
+     "media": "Statistique Canada",
+     "url": "https://www150.statcan.gc.ca/daily-quotidien/260828/dq260828a-fra.htm"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "le-pib-du-quebec-recule-de-0-1-en-mai-pendant-que-celui-du-c-8bb126",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "le-pib-du-quebec-recule-de-0-1-en-mai-pendant-que-celui-du-c-8bb126"
+  },
+  {
+   "titre": "L'IRIS conteste avec ses chiffres l'idée que les syndicats pèsent trop lourd sur l'économie québécoise",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Institut de recherche et d'informations socioéconomiques",
+   "url": "https://iris-recherche.qc.ca/publications/syndicalisme-mythes-realites/",
+   "resume": "L'IRIS, qui défend une intervention publique accrue, soutient dans une brochure parue le 26 août que le reproche fait aux syndicats de freiner la vitalité économique du Québec par leurs grèves ne résiste pas aux données. La brochure retrace comment ce discours, d'abord porté par des représentants patronaux, a été relayé par la Coalition avenir Québec durant ses huit années au pouvoir, puis traduit dans des lois visant l'activité syndicale.",
+   "sources": [
+    {
+     "media": "Institut de recherche et d'informations socioéconomiques",
+     "url": "https://iris-recherche.qc.ca/publications/syndicalisme-mythes-realites/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "l-iris-conteste-avec-ses-chiffres-l-idee-que-les-syndicats-p-c4e93b",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "l-iris-conteste-avec-ses-chiffres-l-idee-que-les-syndicats-p-c4e93b"
+  },
+  {
+   "titre": "L'ordre des comptables n'enquêtera pas sur l'usage d'IA par Deloitte dans un rapport de 1,6 million payé par Terre-Neuve",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Terre-Neuve-et-Labrador",
+   "medias": "Ricochet",
+   "url": "https://ricochet.media/politics/provinces/atlantic/deloitte-used-ai-in-1-6m-government-report-but-watchdog-says-it-cant-investigate/",
+   "resume": "Chartered Professional Accountants NL, l'organisme qui surveille les cabinets comptables à Terre-Neuve-et-Labrador, ne donnera pas suite à la plainte visant l'usage apparent d'intelligence artificielle par Deloitte dans un rapport sur les ressources humaines de 1,6 million de dollars commandé l'an dernier par le ministère provincial de la Santé. Le plaignant, Chris Bruce, de la vallée de Codroy, soutenait que la firme avait agi de mauvaise foi ; l'organisme avait pourtant ouvert une enquête en mars.",
+   "sources": [
+    {
+     "media": "Ricochet",
+     "url": "https://ricochet.media/politics/provinces/atlantic/deloitte-used-ai-in-1-6m-government-report-but-watchdog-says-it-cant-investigate/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "l-ordre-des-comptables-n-enquetera-pas-sur-l-usage-d-ia-par-cb5839",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "l-ordre-des-comptables-n-enquetera-pas-sur-l-usage-d-ia-par-cb5839"
+  },
+  {
+   "titre": "Sony Music et Warner Music poursuivent Anthropic pour l'usage de leurs chansons dans l'entraînement de ses modèles",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/international-business/us-business/article-sony-warner-music-sue-anthropic-over-songs-used-in-ai-training/",
+   "resume": "Les branches d'édition musicale de Sony Music et de Warner Music ont déposé une poursuite devant un tribunal fédéral de Californie, alléguant qu'Anthropic a utilisé leurs compositions protégées par le droit d'auteur pour entraîner ses modèles Claude. Aucune réponse de l'entreprise visée n'a été rapportée.",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/international-business/us-business/article-sony-warner-music-sue-anthropic-over-songs-used-in-ai-training/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Warner_Music_Group%2C_Burbank.jpg/1280px-Warner_Music_Group%2C_Burbank.jpg",
+   "legende": "Le siège de Warner Music Group, à Burbank, en Californie.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Downtowngal",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "sony-music-et-warner-music-poursuivent-anthropic-pour-l-usag-cb0872",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "sony-music-et-warner-music-poursuivent-anthropic-pour-l-usag-cb0872"
+  },
+  {
+   "titre": "La FTC et plus de vingt États américains poursuivent Amazon pour la vente de publicités sur sa place de marché",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-amazon-ftc-lawsuit-us-states/",
+   "resume": "La Federal Trade Commission a poursuivi Amazon lundi, rejointe par plus d'une vingtaine d'États américains, en alléguant que l'entreprise a manipulé les prix des publicités vendues sur sa plateforme de commerce en ligne et trompé les annonceurs. Le titre d'Amazon reculait de 2,44 % en séance au moment du dépôt.",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-amazon-ftc-lawsuit-us-states/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Amazon_Fulfillment_Center%2C_Ocala.jpg/1280px-Amazon_Fulfillment_Center%2C_Ocala.jpg",
+   "legende": "Un centre de distribution d'Amazon à Ocala, en Floride.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Michael Rivera",
+   "photo_licence": "CC0",
+   "permalien": "la-ftc-et-plus-de-vingt-etats-americains-poursuivent-amazon-07c679",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "la-ftc-et-plus-de-vingt-etats-americains-poursuivent-amazon-07c679"
+  },
+  {
+   "titre": "À Obock, une économie clandestine s'est organisée autour des migrants éthiopiens en route vers l'Arabie saoudite",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Djibouti",
+   "medias": "Pivot",
+   "url": "https://pivot.quebec/2026/08/26/route-de-la-mort-djibouti-economie-clandestine-exil-ethiopien/",
+   "resume": "À Obock, dernière étape avant la traversée du détroit de Bab el-Mandeb vers le Yémen, passeurs et certains agents des autorités djiboutiennes tirent profit du passage de migrants éthiopiens partis chercher du travail en Arabie saoudite. Les récits recueillis sur place font état d'arrestations et de sévices à la frontière saoudienne, dont les cicatrices d'un jeune homme de 19 ans refoulé trois mois plus tôt.",
+   "sources": [
+    {
+     "media": "Pivot",
+     "url": "https://pivot.quebec/2026/08/26/route-de-la-mort-djibouti-economie-clandestine-exil-ethiopien/"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Obock%2C_Djibouti.jpg",
+   "legende": "Obock, sur la côte djiboutienne du golfe d'Aden.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Luc Michel",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "a-obock-une-economie-clandestine-s-est-organisee-autour-des-81fad1",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "a-obock-une-economie-clandestine-s-est-organisee-autour-des-81fad1"
+  },
+  {
+   "titre": "Un fabricant de piscines de Québec paiera lui-même une part des droits de douane de 50 % sur ses exportations",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/08/31/un-exportateur-dici-absorbera-une-partie-des-tarifs-de-50-qui-frappent-ses-piscines",
+   "resume": "Le fabricant québécois Fibro absorbera une partie des droits de douane de 50 % appliqués depuis dix jours sur les piscines qu'il exporte aux États-Unis, quitte à réduire ses marges ou à vendre à perte pendant un temps. Son distributeur américain ne peut prendre à sa charge la totalité de la surtaxe.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/31/un-exportateur-dici-absorbera-une-partie-des-tarifs-de-50-qui-frappent-ses-piscines"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:18-04:00",
+   "permalien": "un-fabricant-de-piscines-de-quebec-paiera-lui-meme-une-part-e5855a",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "un-fabricant-de-piscines-de-quebec-paiera-lui-meme-une-part-e5855a"
+  },
+  {
+   "titre": "La Banque du Canada dévoilera jeudi son nouveau billet de 20 dollars, de format vertical",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Banque du Canada",
+   "url": "https://www.banqueducanada.ca/multimedia/devoilement-du-nouveau-billet-canadien-de-20-discours-diffusions/",
+   "resume": "Le gouverneur Tiff Macklem dévoilera le 3 septembre, avec des invités, le nouveau billet canadien de 20 dollars, présenté en format vertical. La Banque du Canada indique concevoir cette coupure à l'effigie du roi Charles III.",
+   "sources": [
+    {
+     "media": "Banque du Canada",
+     "url": "https://www.banqueducanada.ca/multimedia/devoilement-du-nouveau-billet-canadien-de-20-discours-diffusions/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Examples_of_every_bank_note_produced_by_the_Bank_of_Canada._Exemples_de_tous_les_billets_de_banque_produits_par_la_Banque_du_Canada._%2852305667951%29.jpg/1280px-Examples_of_every_bank_note_produced_by_the_Bank_of_Canada._Exemples_de_tous_les_billets_de_banque_produits_par_la_Banque_du_Canada._%2852305667951%29.jpg",
+   "legende": "Des billets de banque produits par la Banque du Canada.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Bank of Canada - Banque du Canada from Canada",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "la-banque-du-canada-devoilera-jeudi-son-nouveau-billet-de-20-7fb05e",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "la-banque-du-canada-devoilera-jeudi-son-nouveau-billet-de-20-7fb05e"
+  },
+  {
+   "titre": "Un ancien négociateur de l'ALENA juge l'industrie automobile canadienne condamnée, au moment où Unifor ouvre ses négociations chez Stellantis",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "The Globe and Mail, Les Affaires",
+   "url": "https://www.theglobeandmail.com/business/commentary/article-canada-auto-sector-us-trade-trump-tariffs/",
+   "resume": "Tom MacDonald, ancien directeur de la politique automobile au ministère de l'Industrie et membre de l'équipe canadienne de négociation de l'ALENA, soutient que le marché automobile nord-américain intégré ne peut pas survivre à la menace d'un droit de douane de 50 % sur les véhicules annoncée par Donald Trump pour janvier, le président ayant répété dimanche ne vouloir ni voitures ni pièces canadiennes.\n\nAu même moment, Unifor entame mardi ses négociations collectives avec Stellantis, après avoir ratifié de nouvelles conventions chez General Motors et chez Ford.",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/commentary/article-canada-auto-sector-us-trade-trump-tariffs/"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/manufacturier/unifor-se-concentre-sur-stellantis-apres-avoir-conclu-des-accords-avec-gm-et-ford/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Windsor_Assembly_Plant_1.jpg/1280px-Windsor_Assembly_Plant_1.jpg",
+   "legende": "L'usine d'assemblage de Windsor, en Ontario, exploitée par Stellantis.",
+   "horodate": "2026-08-31T16:18-04:00",
+   "photo_auteur": "Decimal10",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "un-ancien-negociateur-de-l-alena-juge-l-industrie-automobile-6413d5",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "un-ancien-negociateur-de-l-alena-juge-l-industrie-automobile-6413d5"
+  },
+  {
+   "titre": "Les employés syndiqués de GM ratifient leurs nouvelles conventions collectives",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Ontario",
+   "medias": "Radio-Canada, Global News, Le Guide de l'auto, CBC/Radio-Canada, Les Affaires",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279105/general-motors-lentente-de-principe-ratifiee",
+   "resume": "Les membres d'Unifor chez General Motors ont ratifié à forte majorité — 80,5 % à Oshawa, Woodstock et St. Catharines, 96,5 % à Ingersoll — les conventions collectives provisoires conclues le 22 août, qui portent le salaire horaire de la production à taux plein à 50,20 $ et prévoient plus d'un milliard de dollars d'investissements dans les usines canadiennes. Le syndicat dit continuer de faire pression pour la reprise de la production à l'usine CAMI d'Ingersoll, à l'arrêt, dont les employés bénéficient d'une prolongation des indemnités de chômage partiel.\n\n**Mise à jour, 8 h 55** — L'usine d'Oshawa, qui assemble déjà des Chevrolet Silverado 1500 et Silverado HD, recevra 144 millions de dollars additionnels pour construire la prochaine génération du GMC Sierra HD, portant l'investissement à près d'un demi-milliard. Les conventions de trois ans portent le salaire des membres de production au taux plein à 50,20 $ l'heure et celui des métiers spécialisés à 62,71 $, des négociations menées alors que l'usine CAMI d'Ingersoll est à l'arrêt et que la majorité de ses membres sont en mise à pied indéterminée.\n\n**Mise à jour, 16 h 19** — Unifor entame mardi ses négociations collectives avec Stellantis, dernier des trois constructeurs de Detroit après les ententes ratifiées chez General Motors et chez Ford.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279105/general-motors-lentente-de-principe-ratifiee"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12041163/unifor-gm-voting-agreement/"
+    },
+    {
+     "media": "Le Guide de l'auto",
+     "url": "https://www.guideautoweb.com/articles/83193/des-gmc-sierra-hd-seront-fabriques-a-oshawa/"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/windsor/oshawa-plant-adds-truck-as-unionized-canadian-gm-members-ratify-new-deals-9.7326309"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/manufacturier/unifor-se-concentre-sur-stellantis-apres-avoir-conclu-des-accords-avec-gm-et-ford/"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:19-04:00",
+   "permalien": "les-employes-syndiques-de-gm-ratifient-leurs-nouvelles-conve-b67ecb",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "les-employes-syndiques-de-gm-ratifient-leurs-nouvelles-conve-b67ecb"
+  },
+  {
+   "titre": "Le litre d'essence repasse au-dessus de 2 $ dans le Grand Montréal",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Le Devoir, Québecor, Radio-Canada",
+   "url": "https://www.ledevoir.com/economie/1005101/litre-essence-franchit-nouveau-barre-2-grande-region-montreal",
+   "resume": "De nombreuses stations-service de la grande région de Montréal affichaient dimanche 200,9 cents le litre, franchissant de nouveau la barre des 2 $ et prenant de court les automobilistes. Le seuil avait été atteint pour la première fois depuis 2022 le 2 avril dernier, dans la foulée de la guerre au Moyen-Orient.\n\n**Mise à jour, 16 h 19** — La taxe d'accise fédérale sur l'essence, suspendue depuis le 20 avril, doit reprendre à la fête du Travail : le prix du litre pourrait bondir d'une dizaine de cents le 7 septembre.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005101/litre-essence-franchit-nouveau-barre-2-grande-region-montreal"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/08/30/le-prix-de-lessence-franchit-les-2-le-litre-dans-le-grand-montreal"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/1-10749033/7-septembre-prix-essence-pourrait-bondir-10-cents"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T16:19-04:00",
+   "permalien": "le-litre-d-essence-repasse-au-dessus-de-2-dans-le-grand-mont-f8c5b9",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "le-litre-d-essence-repasse-au-dessus-de-2-dans-le-grand-mont-f8c5b9"
+  },
+  {
+   "titre": "Charles Milliard promet 100 000 logements par année et une « corvée » du préfabriqué",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Montérégie (Borduas)",
+   "medias": "La Presse, Le Devoir, Les Affaires, Métro, CBC, Radio-Canada",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/etat-des-finances-publiques/les-quebecois-ne-vivent-pas-dans-un-monde-de-licornes-croit-milliard.php",
+   "resume": "Le chef libéral s'est engagé lundi, aux Industries Bonneville de Belœil, à ajouter 100 000 logements par année au cours d'un premier mandat en misant sur le préfabriqué : une cible de 50 % pour les logements financés par la Société d'habitation du Québec, des prêts sans intérêt d'Investissement Québec pour moderniser les lignes de production et un report de l'impôt sur les gains en capital pour les investisseurs qui réinvestissent dans la construction. Charles Milliard a lié l'annonce à un cadre financier qu'il promet « réaliste » compte tenu du trou de près de 5 milliards de dollars à combler pour atteindre l'équilibre budgétaire en 2028-2029, et il a qualifié de « totale déconnexion » les propos de Christine Fréchette selon lesquels la crise du logement serait du passé dans certaines régions.\n\n**Mise à jour, 20 h** — La cible de 100 000 logements par année dépasse la capacité de construction du Québec, selon la Société canadienne d'hypothèques et de logement, qui juge l'objectif peu réaliste. L'engagement libéral se heurte ainsi au volume de mises en chantier que la province est en mesure d'absorber.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/etat-des-finances-publiques/les-quebecois-ne-vivent-pas-dans-un-monde-de-licornes-croit-milliard.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005260/plq-engage-regler-penurie-logements"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-5-le-plq-veut-miser-sur-le-prefabrique-pour-la-crise-du-logement/"
+    },
+    {
+     "media": "Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226036/le-parti-liberal-veut-construire-100-000-logements-par-annee/"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-campaign-day-5-9.7326714"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279285/verif-logements-habitation-milliard-plq-schl-"
+    }
+   ],
+   "permalien": "charles-milliard-promet-100-000-logements-par-annee-et-une-c-13384a",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "charles-milliard-promet-100-000-logements-par-annee-et-une-c-13384a"
+  },
+  {
+   "titre": "Le PQ promet un « grand ménage » dans la bureaucratie : 2,5 % de moins en rémunération publique sur trois ans",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Coops de l'information, La Presse, Les Affaires, Radio-Canada",
+   "url": "https://www.ledevoir.com/politique/quebec/1005353/pspp-promet-grand-menage-bureaucratie-abolir-poste",
+   "resume": "Depuis Sherbrooke, Paul St-Pierre Plamondon s'est engagé à réduire de 2,5 % sur trois ans les coûts de rémunération de l'ensemble du secteur public, une compression que le Parti québécois chiffre à 1,6 milliard de dollars par année et à 4,7 milliards sur un premier mandat, obtenue par l'attrition et des incitatifs de départ plutôt que par des licenciements forcés. Le chef péquiste, qui accuse la CAQ d'avoir « perdu le contrôle » de la bureaucratie, est resté flou sur l'abolition de postes et promet de devancer le retour à l'équilibre budgétaire, un plan dont plusieurs éléments recoupent celui présenté quelques semaines plus tôt par le Parti conservateur du Québec.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paul_St-Pierre_Plamondon_%28crop%29.jpg/1280px-Paul_St-Pierre_Plamondon_%28crop%29.jpg",
+   "legende": "Paul St-Pierre Plamondon, chef du Parti québécois.",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005353/pspp-promet-grand-menage-bureaucratie-abolir-poste"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/reduction-de-la-taille-de-l-etat/le-pq-promet-de-devancer-le-retour-a-l-equilibre-budgetaire.php"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279379/coupes-emplois-efficacite-etat-pspp-duhaime"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/08/31/pspp-compte-sattaquer-a-la-bureaucratie-WZTOYQ2AQRH25JHFSWFBRHE5QU/"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-5-le-pq-veut-reduire-les-couts-de-remuneration-dans-le-secteur-public/"
+    }
+   ],
+   "permalien": "le-pq-promet-un-grand-menage-dans-la-bureaucratie-2-5-de-moi-f5c8f4",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "le-pq-promet-un-grand-menage-dans-la-bureaucratie-2-5-de-moi-f5c8f4"
+  },
+  {
+   "titre": "Le PQ promet de rétablir le logement social géré par le public et de réactiver Accès-Logis",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Estrie",
+   "medias": "Coops de l'information",
+   "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/08/31/paul-st-pierre-plamondon-veut-reduire-litinerance-de-moitie-ZG52FGAZ4RG7VEAPI66VJZDQUY/",
+   "resume": "De passage à Shefford, Paul St-Pierre Plamondon a reproché à la CAQ d'avoir aboli Accès-Logis et déplacé la discussion vers le « logement abordable », une notion qu'il juge vidée de sens lorsque des unités ainsi désignées se louent plus de 2 000 $ par mois alors que l'abordabilité ne devrait pas dépasser 30 % du revenu, et il s'engage à ramener un logement social géré par le public. Interrogé sur la mise en pause d'un service de halte-répit pour personnes itinérantes à Granby, il a répondu qu'« on ne peut pas laisser tomber le filet social » et a réitéré son intention d'abolir Santé Québec au profit d'une décentralisation avec reddition de comptes dans chaque région.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/08/31/paul-st-pierre-plamondon-veut-reduire-litinerance-de-moitie-ZG52FGAZ4RG7VEAPI66VJZDQUY/"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/08/31/paul-st-pierre-plamondon-veut-reduire-litinerance-de-moitie-ZG52FGAZ4RG7VEAPI66VJZDQUY/"
+    }
+   ],
+   "permalien": "le-pq-promet-de-retablir-le-logement-social-gere-par-le-publ-c00ef2",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "le-pq-promet-de-retablir-le-logement-social-gere-par-le-publ-c00ef2"
+  },
+  {
+   "titre": "À Lévis, des pancartes de deux candidates vandalisées dans les premiers jours de la campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Chaudière-Appalaches (Lévis)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279304/levis-elections-provinciales-candidats-vandalisme",
+   "resume": "Deux pancartes de la candidate du Parti libéral du Québec dans Lévis, Brittany Blais, ont été vandalisées dimanche, et la candidate du Parti conservateur du Québec Karine Laflamme a elle aussi dû remplacer des affiches. « Derrière chacune des pancartes, il y a des candidats qui font le choix de débattre d'idées », a réagi Mme Blais, qui dit déplorer l'intimidation, l'humiliation et la sexualisation.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279304/levis-elections-provinciales-candidats-vandalisme"
+    }
+   ],
+   "permalien": "a-levis-des-pancartes-de-deux-candidates-vandalisees-dans-le-51c084",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "a-levis-des-pancartes-de-deux-candidates-vandalisees-dans-le-51c084"
+  },
+  {
+   "titre": "« Équipe Christine Fréchette » : le nom de la CAQ s'efface des pancartes caquistes",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.24heures.ca/2026/08/31/equipe-christine-frechette-pourquoi-la-caq-ne-figure-t-elle-pas-sur-les-pancartes",
+   "resume": "Les affiches caquistes portent la mention « Équipe Christine Fréchette » plutôt que le nom du parti, un choix qui visait sans doute à relancer la marque de la Coalition avenir Québec en la rapprochant de celle de la cheffe et à faire « table rase » de l'héritage de François Legault, avance le professeur de science politique de l'Université Laval Thierry Giasson. Depuis son accession à la direction du parti en avril, Christine Fréchette multiplie les gestes de distanciation à l'égard de son prédécesseur, qui avait démissionné en raison de son impopularité.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg",
+   "legende": "Christine Fréchette, cheffe de la Coalition avenir Québec.",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "Le 24 heures",
+     "url": "https://www.24heures.ca/2026/08/31/equipe-christine-frechette-pourquoi-la-caq-ne-figure-t-elle-pas-sur-les-pancartes"
+    }
+   ],
+   "permalien": "equipe-christine-frechette-le-nom-de-la-caq-s-efface-des-pan-89b9c2",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "equipe-christine-frechette-le-nom-de-la-caq-s-efface-des-pan-89b9c2"
+  },
+  {
+   "titre": "Charles Milliard prône un « changement de ton » avec les syndicats et n'exclut pas de revoir les lois de Jean Boulet",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1005338/charles-milliard-prone-changement-ton-syndicats",
+   "resume": "Le chef du Parti libéral du Québec dit vouloir un « changement de ton » du gouvernement avec les syndicats et n'écarte pas de modifier certaines des lois adoptées par le ministre du Travail sortant, Jean Boulet. La députée Madwa-Nika Cadet, qui l'accompagnait, a rappelé que les libéraux avaient voté contre le projet de loi 3, auquel ils reprochaient de faire de « l'ingérence » dans les affaires internes des syndicats.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Charles_Milliard_Ao%C3%BBt_2024.jpg/1280px-Charles_Milliard_Ao%C3%BBt_2024.jpg",
+   "legende": "Charles Milliard, chef du Parti libéral du Québec.",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005338/charles-milliard-prone-changement-ton-syndicats"
+    }
+   ],
+   "permalien": "charles-milliard-prone-un-changement-de-ton-avec-les-syndica-0f4d6a",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "charles-milliard-prone-un-changement-de-ton-avec-les-syndica-0f4d6a"
+  },
+  {
+   "titre": "En Outaouais, des organismes réclament des engagements sur l'itinérance et le logement",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Outaouais",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279383/logement-itinerance-campagne-electorale-outaouais",
+   "resume": "Des organismes communautaires de l'Outaouais, l'une des régions du Québec les plus touchées par la crise de l'itinérance et du logement, demandent aux candidats de prendre des engagements concrets d'ici le scrutin. « Le financement, c'est toujours le nerf de la guerre », résume la directrice générale de Suicide Détour, Carole St-Amour.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279383/logement-itinerance-campagne-electorale-outaouais"
+    }
+   ],
+   "permalien": "en-outaouais-des-organismes-reclament-des-engagements-sur-l-3dfffa",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "en-outaouais-des-organismes-reclament-des-engagements-sur-l-3dfffa"
+  },
+  {
+   "titre": "La CAQ et Québec solidaire lancent leur campagne en Outaouais",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Outaouais",
+   "medias": "Coops de l'information",
+   "url": "https://www.ledroit.com/elections-provinciales-2026/2026/08/31/la-caq-souhaite-mener-a-bien-les-projets-entames-en-outaouais-DQXNVNYFQ5EUFPBMFP23I5IS3I/",
+   "resume": "Les candidats caquistes de Pontiac, Hull, Chapleau, Gatineau et Papineau ont lancé simultanément leur campagne lundi matin, en promettant de mener à bien les projets déjà entamés dans la région. Ruba Ghazal s'est de son côté engagée à ce que l'Outaouais cesse d'être « l'oubliée » de Québec, notamment en santé et en transport.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/08/31/la-caq-souhaite-mener-a-bien-les-projets-entames-en-outaouais-DQXNVNYFQ5EUFPBMFP23I5IS3I/"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/08/31/les-citoyens-de-loutaouais-pas-de-seconde-zone-dit-qs-3OUFMEBNHNGIHBZYR3UY57FGIQ/"
+    }
+   ],
+   "permalien": "la-caq-et-quebec-solidaire-lancent-leur-campagne-en-outaouai-e768de",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "la-caq-et-quebec-solidaire-lancent-leur-campagne-en-outaouai-e768de"
+  },
+  {
+   "titre": "Trois-Rivières : la Fondation Santé et la communauté médicale pressent les candidats sur l'aile D du CHAUR",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Mauricie (Trois-Rivières)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/08/31/agrandissement-de-laile-d-du-chaur-reclame-quen-pensent-les-candidats-2CMB5N66YFEUPJEJBCNFLYIAZU/",
+   "resume": "La Fondation Santé Trois-Rivières et la communauté médicale ont interpellé lundi les candidats de Trois-Rivières pour qu'ils s'engagent clairement en faveur du réaménagement et de l'agrandissement de l'aile D du Centre hospitalier affilié universitaire régional. Cette aile abrite la pharmacie de l'hôpital, l'obstétrique et la psychiatrie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/08/31/agrandissement-de-laile-d-du-chaur-reclame-quen-pensent-les-candidats-2CMB5N66YFEUPJEJBCNFLYIAZU/"
+    }
+   ],
+   "permalien": "trois-rivieres-la-fondation-sante-et-la-communaute-medicale-86a750",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "trois-rivieres-la-fondation-sante-et-la-communaute-medicale-86a750"
+  },
+  {
+   "titre": "À Sept-Îles, la députée sortante reçoit le comité « Non aux féminicides »",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Côte-Nord",
+   "medias": "Le Nord-Côtier",
+   "url": "https://lenord-cotier.com/2026/08/31/mobilisation-non-aux-feminicides-la-deputee-sortante-accepte-de-rencontrer-les-militantes/",
+   "resume": "Après trois mobilisations, dont deux devant ses bureaux, les membres du comité « Non aux féminicides — Côte-Nord » et des groupes de femmes de Sept-Rivières ont été reçus lundi après-midi par la députée sortante Kateri Champagne Jourdain pour lui présenter leurs revendications. Le comité, qui se rassemble chaque lundi suivant un féminicide depuis le début de juillet, dit avoir vu passer de 12 à 17 le nombre de victimes qu'il recense.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/08/31/mobilisation-non-aux-feminicides-la-deputee-sortante-accepte-de-rencontrer-les-militantes/"
+    }
+   ],
+   "permalien": "a-sept-iles-la-deputee-sortante-recoit-le-comite-non-aux-fem-3a7aea",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "a-sept-iles-la-deputee-sortante-recoit-le-comite-non-aux-fem-3a7aea"
+  },
+  {
+   "titre": "Dans Jean-Lesage, le péquiste Claude Villeneuve vise une circonscription perdue depuis 1994",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Jean-Lesage)",
+   "medias": "Mon Limoilou",
+   "url": "https://monlimoilou.com/2026/claude-villeneuve-veut-tout-faire-pour-gagner-jean-lesage/",
+   "resume": "Après un passage remarqué sur la scène municipale à Québec et quelques mois comme directeur des communications de l'aile parlementaire du Parti québécois, Claude Villeneuve se présente dans Jean-Lesage, que son parti n'a pas remportée depuis 1994. Il dit avoir appris la semaine précédente seulement qu'il servirait comme candidat, son emploi à l'Assemblée nationale ayant pris fin avec la législature.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "Mon Limoilou",
+     "url": "https://monlimoilou.com/2026/claude-villeneuve-veut-tout-faire-pour-gagner-jean-lesage/"
+    }
+   ],
+   "permalien": "dans-jean-lesage-le-pequiste-claude-villeneuve-vise-une-circ-bec29f",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "dans-jean-lesage-le-pequiste-claude-villeneuve-vise-une-circ-bec29f"
+  },
+  {
+   "titre": "Dans Côte-du-Sud, la libérale Nancy St-Pierre mise sur son expérience municipale",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Chaudière-Appalaches (Côte-du-Sud)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279366/campagne-electorale-cote-du-sud-parti-liberal",
+   "resume": "La candidate du Parti libéral du Québec dans Côte-du-Sud, Nancy St-Pierre, a lancé sa campagne en misant sur son expérience municipale et sur sa volonté d'être une députée « de proximité ». Elle dit ne pas vouloir attendre les moments critiques pour aller à la rencontre des citoyens.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T20:39-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279366/campagne-electorale-cote-du-sud-parti-liberal"
+    }
+   ],
+   "permalien": "dans-cote-du-sud-la-liberale-nancy-st-pierre-mise-sur-son-ex-2aa4f6",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "dans-cote-du-sud-la-liberale-nancy-st-pierre-mise-sur-son-ex-2aa4f6"
+  },
+  {
+   "titre": "La carte du 5 octobre compte 127 circonscriptions, établie par une loi et non par la Commission",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Élections Québec, Coops de l'information, Radio-Canada",
+   "url": "https://www.electionsquebec.qc.ca/communiques/reaction-au-depot-dune-loi-pour-etablir-la-carte-electorale/",
+   "resume": "Le scrutin du 5 octobre se tiendra dans 127 circonscriptions plutôt que 125 : la loi déposée le 7 mai par le ministre Jean-François Roberge sauvegarde Bonaventure et Anjou–Louis-Riel et crée Bellefeuille, dans les Laurentides, ainsi que Marie-Lacoste-Gérin-Lajoie, et tous les partis reconnus l'ont appuyée, à l'exception du député indépendant Youri Chassin. La Commission de la représentation électorale y voit la première élection depuis cinquante ans tenue sur une carte qui n'a pas été établie par un processus indépendant — la Cour suprême avait jugé le 22 avril que les élus avaient interrompu à tort sa révision —, et le directeur général des élections avait prévenu qu'un changement à moins de quatre mois du scrutin mettrait « une pression supplémentaire » sur l'institution.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T20:50-04:00",
+   "sources": [
+    {
+     "media": "Élections Québec — réaction au dépôt de la loi (7 mai 2026)",
+     "url": "https://www.electionsquebec.qc.ca/communiques/reaction-au-depot-dune-loi-pour-etablir-la-carte-electorale/"
+    },
+    {
+     "media": "Élections Québec — déclenchement du scrutin (27 août 2026)",
+     "url": "https://www.electionsquebec.qc.ca/communiques/elections-provinciales-de-2026-un-scrutin-aura-lieu-le-5-octobre/"
+    },
+    {
+     "media": "Élections Québec — la nouvelle carte électorale provinciale",
+     "url": "https://www.electionsquebec.qc.ca/actualites/decouvrez-la-nouvelle-carte-electorale-provinciale/"
+    },
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/une-nouvelle-carte-electorale-plus-representative-67975"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/politique/2026/05/07/un-vote-jeudi-pour-sauvegarder-deux-circonscriptions-en-gaspesie-et-a-montreal-WWP7QXF72JERBPYSEVQ6LHLZRI/"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2252153/redecoupage-carte-electorale-quebec-2026"
+    }
+   ],
+   "permalien": "la-carte-du-5-octobre-compte-127-circonscriptions-etablie-pa-93f830",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "la-carte-du-5-octobre-compte-127-circonscriptions-etablie-pa-93f830"
+  },
+  {
+   "titre": "Reprise des frappes entre les États-Unis et l'Iran : Trump menace de frapper fort",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran",
+   "medias": "franceinfo, BFMTV",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-menace-de-bombarder-fort-l-iran-apres-la-reprise-des-hostilites-entre-les-deux-pays_8171336.html"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/international/moyen-orient/direct-guerre-au-moyen-orient-premier-echange-de-frappes-depuis-un-mois-entre-les-etats-unis-et-l-iran-en-un-mois-un-navire-en-feu-dans-le-detroit-d-ormuz_LN-202608310080.html"
+    }
+   ],
+   "resume": "Les États-Unis ont mené lundi leurs premières frappes sur l'Iran depuis plus d'un mois et Téhéran a riposté par des missiles et des drones contre des cibles américaines en Jordanie et aux Émirats arabes unis, mettant fin à un mois d'accalmie. Donald Trump a menacé de frapper fort le camp adverse, alors que le président iranien Massoud Pezeshkian affirme ne pas vouloir la poursuite de la guerre ; le prix du pétrole est reparti à la hausse et un navire a pris feu dans le détroit d'Ormuz.",
+   "legende": "",
+   "photo": "",
+   "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-menace-de-bombarder-fort-l-iran-apres-la-reprise-des-hostilites-entre-les-deux-pays_8171336.html",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "reprise-des-frappes-entre-les-etats-unis-et-l-iran-trump-men-86260f",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "reprise-des-frappes-entre-les-etats-unis-et-l-iran-trump-men-86260f"
+  },
+  {
+   "titre": "La Cour suprême laisse Donald Trump poursuivre les travaux de sa salle de bal à la Maison-Blanche",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "France 24, 20 Minutes, Le Devoir",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260901-etats-unis-cour-supreme-autoriseconstruction-salle-de-bal-donald-trump-maison-blanche"
+    },
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/etats-unis/4242055-20260901-etats-unis-cour-supreme-autorise-definitivement-construction-salle-bal-trump"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/etats-unis/1005416/cour-supreme-autorise-construction-salle-bal-trump-ma"
+    }
+   ],
+   "resume": "La Cour suprême des États-Unis a autorisé lundi la poursuite des travaux de la salle de bal monumentale voulue par Donald Trump à la Maison-Blanche, en attendant que l'affaire soit jugée au fond. Le président a salué sur son réseau Truth Social une décision qui lève selon lui la dernière menace pesant sur le projet.",
+   "legende": "Donald Trump, en 2017.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Donald_Trump_III_170119-A-DR853-615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "url": "https://www.france24.com/fr/am%C3%A9riques/20260901-etats-unis-cour-supreme-autoriseconstruction-salle-de-bal-donald-trump-maison-blanche",
+   "horodate": "2026-08-31T21:47-04:00",
+   "photo_auteur": "Rachel Larue",
+   "photo_licence": "Public domain",
+   "permalien": "la-cour-supreme-laisse-donald-trump-poursuivre-les-travaux-d-ebf37d",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "la-cour-supreme-laisse-donald-trump-poursuivre-les-travaux-d-ebf37d"
+  },
+  {
+   "titre": "Meurtre de Tupac Shakur : Duane « Keffe D » Davis reconnu coupable trente ans après",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "Global News, Coops de l'information",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12042618/duane-keffe-d-davis-convicted-1996-killing-tupac-shakur/"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/arts/musique/2026/08/31/un-ancien-membre-de-gang-reconnu-coupable-du-meurtre-de-tupac-shakur-VMBJEWZIBRDPXLSCKEDGKYM2ZQ/"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/arts/musique/2026/08/31/un-ancien-membre-de-gang-reconnu-coupable-du-meurtre-de-tupac-shakur-VMBJEWZIBRDPXLSCKEDGKYM2ZQ/"
+    }
+   ],
+   "resume": "Un jury a reconnu Duane « Keffe D » Davis coupable d'avoir orchestré le meurtre du rappeur Tupac Shakur en 1996, première condamnation dans une affaire restée sans réponse pendant près de trente ans. Le procureur adjoint en chef Binu Palal avait soutenu en plaidoirie que Davis s'était procuré une arme et était parti à la recherche de Shakur et du cofondateur de Death Row Records, Marion « Suge » Knight, après que ceux-ci eurent battu son neveu plus tôt dans la soirée.",
+   "legende": "",
+   "photo": "",
+   "url": "https://globalnews.ca/news/12042618/duane-keffe-d-davis-convicted-1996-killing-tupac-shakur/",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "meurtre-de-tupac-shakur-duane-keffe-d-davis-reconnu-coupable-4f35b2",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "meurtre-de-tupac-shakur-duane-keffe-d-davis-reconnu-coupable-4f35b2"
+  },
+  {
+   "titre": "Le secrétaire américain à l'Armée, Dan Driscoll, quitte ses fonctions après 18 mois",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Coops de l'information",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/monde/2026/09/01/le-secretaire-americain-a-l-armee-dan-driscoll-quitte-ses-fonctions-apres-18-mois-DWOS3EAU4ZHJZC54LL5M6I3B7E/"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/monde/2026/09/01/le-secretaire-americain-a-l-armee-dan-driscoll-quitte-ses-fonctions-apres-18-mois-DWOS3EAU4ZHJZC54LL5M6I3B7E/"
+    }
+   ],
+   "resume": "Dan Driscoll a quitté son poste de secrétaire à l'Armée des États-Unis après dix-huit mois en fonction, un départ que l'administration a accompagné d'un hommage à son travail auprès du commandant en chef. Proche du vice-président JD Vance, il était en tension ouverte avec le secrétaire à la Défense, Pete Hegseth.",
+   "legende": "Dan Driscoll lors de son assermentation comme secrétaire à l'Armée des États-Unis.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Dan_Driscoll_Swearing-In.jpg/1280px-Dan_Driscoll_Swearing-In.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://www.lesoleil.com/monde/2026/09/01/le-secretaire-americain-a-l-armee-dan-driscoll-quitte-ses-fonctions-apres-18-mois-DWOS3EAU4ZHJZC54LL5M6I3B7E/",
+   "horodate": "2026-08-31T21:47-04:00",
+   "photo_auteur": "@VP",
+   "photo_licence": "Public domain",
+   "permalien": "le-secretaire-americain-a-l-armee-dan-driscoll-quitte-ses-fo-cea83e",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "le-secretaire-americain-a-l-armee-dan-driscoll-quitte-ses-fo-cea83e"
+  },
+  {
+   "titre": "L'Union européenne suspend jeudi ses importations de viande brésilienne",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Union européenne",
+   "medias": "franceinfo, France 24",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/l-union-europeenne-suspend-ses-importations-de-viande-bresilienne-a-partir-de-jeudi_8171315.html"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20260901-union-europeenne-va-suspendre-importations-viande-bresil-sante-regles-sanitaires-antibiotiques-antimicrobiens"
+    }
+   ],
+   "resume": "La Commission européenne suspendra à compter de jeudi les importations de viande en provenance du Brésil. Elle reproche à Brasília de ne pas avoir fourni de garanties suffisantes sur la conformité de ses produits aux règles européennes encadrant l'usage abusif des antibiotiques en élevage.",
+   "legende": "",
+   "photo": "",
+   "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/l-union-europeenne-suspend-ses-importations-de-viande-bresilienne-a-partir-de-jeudi_8171315.html",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "l-union-europeenne-suspend-jeudi-ses-importations-de-viande-9a2d8e",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "l-union-europeenne-suspend-jeudi-ses-importations-de-viande-9a2d8e"
+  },
+  {
+   "titre": "Steven Guilbeault quitte officiellement son siège de député de Laurier—Sainte-Marie",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Canada",
+   "medias": "Coops de l'information, La Presse",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/politique/2026/08/31/steven-guilbeault-demissionne-officiellement-de-son-siege-de-depute-FJ3FXXZJGBD3LBUPAGTIHAV27U/"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/politique/2026/08/31/steven-guilbeault-demissionne-officiellement-de-son-siege-de-depute-FJ3FXXZJGBD3LBUPAGTIHAV27U/"
+    }
+   ],
+   "resume": "Le député libéral Steven Guilbeault a officiellement démissionné de son siège de Laurier—Sainte-Marie, à Montréal, selon le site de la Chambre des communes. Son départ ouvre la voie à une élection partielle dans cette circonscription du centre de l'île.",
+   "legende": "Steven Guilbeault.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Steven_Guilbeault01.JPG/1280px-Steven_Guilbeault01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://www.lesoleil.com/actualites/politique/2026/08/31/steven-guilbeault-demissionne-officiellement-de-son-siege-de-depute-FJ3FXXZJGBD3LBUPAGTIHAV27U/",
+   "horodate": "2026-08-31T21:47-04:00",
+   "photo_auteur": "Khayman",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "steven-guilbeault-quitte-officiellement-son-siege-de-depute-369b9d",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "steven-guilbeault-quitte-officiellement-son-siege-de-depute-369b9d"
+  },
+  {
+   "titre": "Ottawa remanie Invest in Canada : Gurinder Grewal à la direction, Dominic Barton à la présidence",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "The Globe and Mail, National Post, CBC",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-ottawa-appoints-invest-in-canada-ceo-names-dominic-barton-board-chair/"
+    },
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/canada/carney-appoints-former-envoy-to-china-dominic-barton-to-lead-investment-promotion-agency"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/politics/mark-carney-names-dominic-barton-ceo-invest-in-canada-replaces-laurel-broten-9.7327283?cmp=rss"
+    }
+   ],
+   "resume": "Mark Carney a annoncé lundi la nomination du dirigeant de capital-investissement Gurinder Grewal à la tête d'Invest in Canada et de l'ancien ambassadeur du Canada en Chine Dominic Barton à la présidence du conseil de l'agence. Ottawa dit vouloir confier un rôle plus offensif à cet organisme créé en 2018 pour attirer et promouvoir l'investissement étranger direct.",
+   "legende": "",
+   "photo": "",
+   "url": "https://www.theglobeandmail.com/business/article-ottawa-appoints-invest-in-canada-ceo-names-dominic-barton-board-chair/",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "ottawa-remanie-invest-in-canada-gurinder-grewal-a-la-directi-bf599e",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "ottawa-remanie-invest-in-canada-gurinder-grewal-a-la-directi-bf599e"
+  },
+  {
+   "titre": "Ottawa demande le rejet de la poursuite climatique visant ses cibles de réduction des GES",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Canada",
+   "medias": "Radio-Canada, Le Devoir, Le Canada Français",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279359/ottawa-demande-rejet-action-justice-cibles-climatiques"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/environnement/1005359/ottawa-essaie-faire-rejeter-poursuite-atteinte-cibles-climatiques"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/ottawa-demande-au-tribunal-de-rejeter-une-action-en-justice-relative-aux-ges/"
+    }
+   ],
+   "resume": "Les avocats du gouvernement fédéral plaident dans des mémoires déposés récemment que la Cour fédérale n'a pas le pouvoir d'ordonner à Ottawa de respecter les cibles de réduction des gaz à effet de serre fixées par la loi. La poursuite avait été déposée en juin par un groupe de défenseurs du climat qui soutient que les changements de politique des dernières années ont écarté le Canada de cette trajectoire.",
+   "legende": "",
+   "photo": "",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279359/ottawa-demande-rejet-action-justice-cibles-climatiques",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "ottawa-demande-le-rejet-de-la-poursuite-climatique-visant-se-a5ce35",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "ottawa-demande-le-rejet-de-la-poursuite-climatique-visant-se-a5ce35"
+  },
+  {
+   "titre": "Les employeurs canadiens prévoient des hausses salariales de 3,2 % en 2027",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-08-31/canada/vers-une-hausse-des-salaires-de-3-2-en-2027.php"
+    }
+   ],
+   "resume": "L'enquête annuelle de Mercer Canada situe à 3,2 % la hausse salariale moyenne que les employeurs canadiens comptent accorder en 2027. Les biens de consommation et l'énergie figurent parmi les secteurs où les augmentations projetées sont les plus élevées.",
+   "legende": "",
+   "photo": "",
+   "url": "https://www.lapresse.ca/affaires/2026-08-31/canada/vers-une-hausse-des-salaires-de-3-2-en-2027.php",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "les-employeurs-canadiens-prevoient-des-hausses-salariales-de-6fee99",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "les-employeurs-canadiens-prevoient-des-hausses-salariales-de-6fee99"
+  },
+  {
+   "titre": "Une ex-avocate de la défense subit son procès pour entrave après un homicide de 2019",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-31/accusee-d-entrave-apres-un-homicide-en-2019/une-ex-avocate-de-la-defense-au-banc-des-accuses.php"
+    }
+   ],
+   "resume": "Noémi Tellier, ancienne avocate de la défense, subit son procès pour entrave à la justice en lien avec un homicide commis en 2019. Un témoin clé a raconté que son conjoint, auteur du meurtre, avait promis de l'argent à un complice pour acheter son silence, quelques heures après une rencontre dans un stationnement de Charlemagne ; un troisième homme, James Patrice Mardy, a écopé de 33 mois de prison pour complicité.",
+   "legende": "",
+   "photo": "",
+   "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-31/accusee-d-entrave-apres-un-homicide-en-2019/une-ex-avocate-de-la-defense-au-banc-des-accuses.php",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "une-ex-avocate-de-la-defense-subit-son-proces-pour-entrave-a-bb8ad3",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "une-ex-avocate-de-la-defense-subit-son-proces-pour-entrave-a-bb8ad3"
+  },
+  {
+   "titre": "Rentrée télé : Antigang, STAT et Dumas de retour à ICI Télé en septembre",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "sources": [
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/arts/richard-therrien/2026/08/31/retours-de-istati-iantigangi-idumasi-enfin-2NPNET77FBBJJHD5OMYLXLYJEQ/"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/arts/richard-therrien/2026/08/31/retours-de-istati-iantigangi-idumasi-enfin-2NPNET77FBBJJHD5OMYLXLYJEQ/"
+    }
+   ],
+   "resume": "Antigang ouvre la rentrée des fictions québécoises le lundi 7 septembre à 19 h, avant le retour des autres séries. La première saison de Dumas, forte de douze épisodes, prend l'antenne le lundi 14 septembre à 21 h sur ICI Télé.",
+   "legende": "",
+   "photo": "",
+   "url": "https://www.lenouvelliste.ca/arts/richard-therrien/2026/08/31/retours-de-istati-iantigangi-idumasi-enfin-2NPNET77FBBJJHD5OMYLXLYJEQ/",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "rentree-tele-antigang-stat-et-dumas-de-retour-a-ici-tele-en-9419f8",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "rentree-tele-antigang-stat-et-dumas-de-retour-a-ici-tele-en-9419f8"
+  },
+  {
+   "titre": "Les Québécois surestiment l'inflation, constate l'Institut du Québec",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "InfoBref",
+   "sources": [
+    {
+     "media": "InfoBref",
+     "url": "https://infobref.com/perception-inflation-idq-2026-09/"
+    }
+   ],
+   "resume": "Une étude de l'Institut du Québec établit que 78 % des Québécois jugent que le coût de la vie représente pour eux un grand ou un très grand risque, alors que l'inflation a fortement ralenti depuis 2022. L'organisme explique en partie cet écart de perception par des prix qui demeurent nettement plus élevés qu'avant la poussée inflationniste.",
+   "legende": "",
+   "photo": "",
+   "url": "https://infobref.com/perception-inflation-idq-2026-09/",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "les-quebecois-surestiment-l-inflation-constate-l-institut-du-cac7ec",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "les-quebecois-surestiment-l-inflation-constate-l-institut-du-cac7ec"
+  },
+  {
+   "titre": "Panne d'Outlook et d'Exchange Online : des millions d'utilisateurs privés de courriel",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "Clubic",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627598-outlook-est-en-panne-et-des-millions-d-utilisateurs-ne-peuvent-plus-envoyer-leurs-mails.html"
+    }
+   ],
+   "resume": "Microsoft Exchange Online et Outlook sont tombés en panne lundi après-midi, empêchant de nombreux utilisateurs d'envoyer et de recevoir leurs messages. Microsoft dit avoir isolé la cause du problème et tester un correctif.",
+   "legende": "",
+   "photo": "",
+   "url": "https://www.clubic.com/actualite-627598-outlook-est-en-panne-et-des-millions-d-utilisateurs-ne-peuvent-plus-envoyer-leurs-mails.html",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "panne-d-outlook-et-d-exchange-online-des-millions-d-utilisat-3ecaa1",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "panne-d-outlook-et-d-exchange-online-des-millions-d-utilisat-3ecaa1"
+  },
+  {
+   "titre": "La Türkiye devient le plus récent pays signataire des accords Artemis",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "International",
+   "medias": "NASA",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/"
+    }
+   ],
+   "resume": "La République de Türkiye a signé lundi les accords Artemis lors d'une cérémonie tenue au siège de la NASA à Washington et présidée par l'administrateur de l'agence, Jared Isaacman. Elle rejoint la coalition de pays qui s'engagent sur des principes communs d'exploration spatiale pacifique et transparente, dans le cadre du retour américain annoncé vers la surface lunaire.",
+   "legende": "",
+   "photo": "",
+   "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "la-turkiye-devient-le-plus-recent-pays-signataire-des-accord-8cd5a4",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "la-turkiye-devient-le-plus-recent-pays-signataire-des-accord-8cd5a4"
+  },
+  {
+   "titre": "Musée national de l'histoire du Québec : toujours pas de date d'ouverture",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/chroniques/2026-08-31/musee-national-de-l-histoire-du-quebec/toujours-pas-de-date-d-ouverture.php"
+    }
+   ],
+   "resume": "L'ouverture du Musée national de l'histoire du Québec demeure sans date, une période d'attente de deux mois devant permettre de vérifier la stabilité des conditions muséales, soit l'humidité et la température. L'équipe doit aussi composer avec l'ouverture de l'Espace Riopelle, prévue du 22 au 25 octobre.",
+   "legende": "",
+   "photo": "",
+   "url": "https://www.lapresse.ca/arts/chroniques/2026-08-31/musee-national-de-l-histoire-du-quebec/toujours-pas-de-date-d-ouverture.php",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "musee-national-de-l-histoire-du-quebec-toujours-pas-de-date-40f4dd",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "musee-national-de-l-histoire-du-quebec-toujours-pas-de-date-40f4dd"
+  },
+  {
+   "titre": "Crues dans l'Himalaya : déjà 900 morts, les secours à la recherche de milliers de disparus",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Népal, Chine",
+   "medias": "TV5MONDE, France 24, franceinfo, GEO, Le Parisien, Radio-Canada",
+   "url": "https://information.tv5monde.com/international/crue-dans-lhimalaya-deja-900-morts-les-secours-la-recherche-de-milliers-de-disparus-2835555",
+   "resume": "Les autorités népalaises ne sont toujours pas parvenues lundi à entrer en contact avec une centaine d'ouvriers qu'elles croient prisonniers d'un tunnel en chantier, alors que le bilan des crues qui ont frappé l'Himalaya cette semaine dépasse déjà 900 morts, selon TV5Monde. Selon France 24, le Népal procède à des enterrements de masse pour des centaines de victimes dont les corps, trop dégradés, restent impossibles à identifier.\n\n**Mise à jour, 8 h 55** — Le nouveau bilan des crues au Népal et au Tibet s'établit à au moins 903 morts et 4 247 disparus. Les autorités népalaises restent sans nouvelles de 592 ressortissants étrangers et de 933 employés de centrales hydroélectriques ou ouvriers de chantiers de barrages, dont une centaine bloqués dans un tunnel ; trois corps ont été retrouvés dans deux autres tunnels du secteur, et une fillette de 6 ans a été secourue 60 heures après la crue.\n\n**Mise à jour, 15 h 30** — Cinq jours après la catastrophe, le bilan de la crue qui a dévasté le Népal et le Tibet chinois s'est encore alourdi lundi, à plus de 950 morts et près de 4 500 disparus. Les secours progressaient lentement dans les zones sinistrées.\n\n**Mise à jour, 21 h 30** — Ottawa a dépêché dix représentants au Népal pour aider à localiser les Canadiens portés disparus. Des agents consulaires travaillent à Katmandou avec le Centre de surveillance et d'intervention d'urgence et maintiennent un contact direct avec les familles touchées par l'intermédiaire de points de contact désignés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T21:47-04:00",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/crue-dans-lhimalaya-deja-900-morts-les-secours-la-recherche-de-milliers-de-disparus-2835555"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/asie-pacifique/20260831-apr%C3%A8s-la-crue-d%C3%A9vastatrice-le-n%C3%A9pal-enterre-ses-morts"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/les-crues-meurtrieres-au-nepal-et-au-tibet-ont-fait-au-moins-903-morts-et-4-247-disparus-selon-un-nouveau-bilan_8170592.html"
+    },
+    {
+     "media": "GEO",
+     "url": "https://www.geo.fr/environnement/crue-au-nepal-toujours-pas-de-nouvelles-d-une-centaine-d-ouvriers-bloques-dans-un-tunnel-233425"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/seule-sa-tete-emergeait-une-fillette-de-6-ans-miraculeusement-secourue-au-nepal-60-heures-apres-la-crue-31-08-2026-TE6WRDGTU5G4RE5QOM46HT56YI.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/asie/1005239/bilan-effondrement-glacier-himalaya-passe-barre-900-morts"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279147/crue-eclair-nepal-tibet-bilan-morts-disparus-secours"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/31/le-bilan-de-la-crue-au-nepal-saggrave-a-903-morts-et-4247-disparus"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279436/canada-nepal-representants-canadiens-disparus"
+    }
+   ],
+   "permalien": "crues-dans-l-himalaya-deja-900-morts-les-secours-a-la-recher-486091",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "crues-dans-l-himalaya-deja-900-morts-les-secours-a-la-recher-486091"
+  },
+  {
+   "titre": "Allemagne : à une semaine des élections en Saxe-Anhalt, l'AfD annonce une offensive culturelle en cas de victoire",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Allemagne",
+   "medias": "RFI, Le Télégramme, The New York Times, BFMTV",
+   "url": "https://www.rfi.fr/fr/podcasts/reportage-culture/20260829-%C3%A0-la-veille-de-l-%C3%A9lection-en-saxe-anhalt-l-afd-cible-la-culture-et-le-bauhaus",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/podcasts/reportage-culture/20260829-%C3%A0-la-veille-de-l-%C3%A9lection-en-saxe-anhalt-l-afd-cible-la-culture-et-le-bauhaus"
+    },
+    {
+     "media": "Le Télégramme",
+     "url": "https://www.letelegramme.fr/monde/elections-regionales-en-ex-rda-le-chancelier-allemand-merz-predit-des-dommages-considerables-en-cas-de-victoire-de-lextreme-droite-7107642.php"
+    },
+    {
+     "media": "The New York Times",
+     "url": "https://www.nytimes.com/2026/08/30/world/europe/germany-afd-saxony-anhalt.html"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.fr/article/economie/international/16667727099833/allemagne-lafd-et-son-leader-ulrich-siegmund-aux-portes-du-pouvoir-en-saxe-anhalt"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/economie/aucun-land-allemand-n-a-ete-gouverne-par-un-parti-d-extreme-droite-depuis-1945-friedrich-merz-redoute-une-perte-d-investissements-etrangers-en-cas-de-victoire-de-l-af-d-en-saxe-anhalt_AV-202608310326.html"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260831-allemagne-les-milieux-d-affaires-et-le-parti-d-extr%C3%AAme-droite-afd-en-saxe-anhalt-entre-soutien-et-hostilit%C3%A9"
+    }
+   ],
+   "resume": "À une semaine des élections régionales du 6 septembre en Saxe-Anhalt, où l'extrême droite pourrait pour la première fois depuis la guerre diriger un Land allemand, l'AfD prépare une politique culturelle fondée sur le slogan « penser allemand » qui vise notamment le site Bauhaus de Dessau, classé à l'Unesco, rapporte RFI. Quelque 150 institutions culturelles de la région se sont mobilisées contre ce projet, que le directeur du théâtre de Magdebourg compare à une « normalisation d'un discours néo-fasciste ».\n\n**Mise à jour, 15 h 30** — Le chancelier Friedrich Merz a estimé dimanche qu'une victoire de l'AfD causerait des « dommages considérables » au Land et menacerait sa « gouvernabilité », promettant que son parti emploierait la dernière semaine de campagne à empêcher la formation d'un gouvernement AfD. Des responsables fédéraux et régionaux envisagent par ailleurs de restreindre le partage de renseignements sensibles avec le parti s'il accédait au pouvoir.\n\n**Mise à jour, 15 h 30** — La tête de liste de l'AfD en Saxe-Anhalt, Ulrich Siegmund, a exposé ses objectifs lors d'un débat télévisé sur la chaîne MDR, à quelques jours du scrutin régional de dimanche. Le professeur de politique européenne Johannes Varwick, de l'Université de Halle, observe « un très grand engouement » autour de lui.\n\n**Mise à jour, 21 h 30** — À une semaine du scrutin du 6 septembre, l'AfD est créditée d'environ 40 % des voix et frôlerait la majorité des sièges au parlement régional. Le chancelier Friedrich Merz, rappelant qu'aucun Land n'a été gouverné par un parti d'extrême droite depuis 1945, redoute une perte d'investissements étrangers en cas de victoire.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Au%C3%9Fenansichten_des_Bauhaus-Geb%C3%A4udes_in_Dessau_01.jpg/1280px-Au%C3%9Fenansichten_des_Bauhaus-Geb%C3%A4udes_in_Dessau_01.jpg",
+   "legende": "Le bâtiment du Bauhaus à Dessau, en Saxe-Anhalt, classé au patrimoine mondial de l'Unesco.",
+   "horodate": "2026-08-31T21:47-04:00",
+   "photo_auteur": "JensKunstfreund",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "allemagne-a-une-semaine-des-elections-en-saxe-anhalt-l-afd-a-2b38b9",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "allemagne-a-une-semaine-des-elections-en-saxe-anhalt-l-afd-a-2b38b9"
+  },
+  {
+   "titre": "Plus de vingt personnes recherchées après une crue soudaine au Grand Canyon",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "États-Unis",
+   "medias": "franceinfo, Libération, 20 Minutes, La Presse, Radio-Canada, Le Devoir, Québecor, Yahoo Actualités",
+   "url": "https://www.france24.com/fr/am%C3%A9riques/20260830-crue-soudaine-frappe-grand-canyon-etats-unis-plus-20-personnes-recherchees-parc-national-arizona",
+   "resume": "Le Service des parcs nationaux américains sollicite l'aide du public pour retrouver plus de vingt personnes portées disparues ou dont on est sans nouvelles après une crue subite survenue samedi vers 14 h 30 dans le parc national du Grand Canyon, en Arizona. Les bilans diffusés au cours de la journée de dimanche variaient d'une quinzaine à plus de vingt personnes recherchées.\n\n**Mise à jour, 15 h 30** — Le bilan de la crue éclair s'établit à deux morts, et le Service des parcs nationaux américains recherchait toujours lundi une quinzaine de personnes portées disparues ou dont on est sans nouvelles. L'agence a demandé au public de lui transmettre toute information à leur sujet.\n\n**Mise à jour, 21 h 30** — Deux corps ont été retrouvés et une quinzaine de personnes pourraient toujours être portées disparues, selon les autorités du parc national. Les recherches se poursuivaient lundi dans le secteur de Bright Angel Creek, frappé samedi par des pluies torrentielles.",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260830-crue-soudaine-frappe-grand-canyon-etats-unis-plus-20-personnes-recherchees-parc-national-arizona"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-08-30/grand-canyon/environ-15-personnes-recherchees-apres-une-crue-soudaine.php"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/etats-unis/plus-de-20-personnes-recherchees-apres-une-crue-soudaine-dans-le-grand-canyon-352c9534-a4bf-11f1-94d9-ff4da0548a19"
+    },
+    {
+     "media": "TF1 Info",
+     "url": "https://www.tf1info.fr/international/etats-unis-une-vingtaine-de-personnes-recherchees-apres-une-crue-soudaine-dans-le-grand-canyon-2461330.html"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/grand-canyon-des-crues-soudaines-font-deux-morts-et-une-quinzaine-de-disparus_8171195.html"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/etats-unis-environ-15-personnes-recherchees-apres-une-crue-soudaine-dans-le-grand-canyon-20260831_S7OERN5WBJHE3N7WMVH24ACJ24/"
+    },
+    {
+     "media": "Yahoo Actualités",
+     "url": "https://fr.news.yahoo.com/sport/etats-unis-deux-morts-encore-175203849.html"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "plus-de-vingt-personnes-recherchees-apres-une-crue-soudaine-a859a1",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "plus-de-vingt-personnes-recherchees-apres-une-crue-soudaine-a859a1"
+  },
+  {
+   "titre": "G20 des finances aux États-Unis : Washington vise l'Iran et écarte des journalistes",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "France 24, The Globe and Mail, Le Parisien, Orange Actualités, AFP, Atlasinfo",
+   "url": "https://www.france24.com/fr/info-en-continu/20260831-les-ministres-des-finances-du-g20-aux-etats-unis-washington-veut-isoler-davantage-t%C3%A9h%C3%A9ran",
+   "resume": "Les ministres des Finances du G20 se réunissent aux États-Unis, où le secrétaire au Trésor Scott Bessent est chargé de mener à coups de sanctions une offensive économique destinée à isoler davantage Téhéran, sur fond de guerre commerciale relancée avec le Canada, membre du G20 et du G7. Le département du Trésor a refusé l'accès de la rencontre à certains journalistes, dont ceux du New York Times, qui dénonce « une tentative flagrante d'échapper au regard du public ».\n\n**Mise à jour, 15 h 30** — Les ministres des Finances du G20 ont entamé lundi aux États-Unis une série de réunions où Washington cherche à les rallier à sa guerre économique contre l'Iran. Le secrétaire américain au Trésor, Scott Bessent, et le président de la Réserve fédérale, Kevin Warsh, y participaient.\n\n**Mise à jour, 21 h 30** — En marge du sommet d'Asheville, en Caroline du Nord, le secrétaire au Trésor Scott Bessent a signifié au ministre russe des Finances Anton Siluanov que les États-Unis n'accorderaient aucune aide économique à la Russie tant que la guerre en Ukraine ne serait pas terminée. La présence russe à la table du G20, à l'invitation de Washington, a par ailleurs irrité plusieurs ministres des finances présents.",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-les-ministres-des-finances-du-g20-aux-etats-unis-washington-veut-isoler-davantage-t%C3%A9h%C3%A9ran"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/world/article-us-treasury-blocks-certain-journalists-from-g20-finance-minister/"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/une-tentative-flagrante-dechapper-au-regard-du-public-les-etats-unis-excluent-certains-journalistes-au-g20-finance-31-08-2026-EOC4ZH5BWFGLTBL3KKMYRIBDY4.php"
+    },
+    {
+     "media": "Atlasinfo",
+     "url": "https://atlasinfo.fr/g20-finance-2026-washington-exclut-toute-aide-economique-a-la-russie-avant-la-fin-du-conflit-en-ukraine.html"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T21:47-04:00",
+   "permalien": "g20-des-finances-aux-etats-unis-washington-vise-l-iran-et-ec-c6329a",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "g20-des-finances-aux-etats-unis-washington-vise-l-iran-et-ec-c6329a"
+  },
+  {
+   "titre": "La CAQ ouvre la porte à une pratique mixte des médecins et veut accélérer le renvoi vers le privé",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Les Affaires, La Presse, Le Devoir, Radio-Canada, CBC, Le Canada français, Global News",
+   "url": "https://www.lesaffaires.com/secteurs/politique/jour-5-la-caq-ouvre-la-porte-a-une-pratique-mixte-des-medecins-au-prive-et-au-public/",
+   "resume": "En point de presse à Saint-Colomban, Christine Fréchette a proposé d'ouvrir la discussion avec les médecins pour leur permettre de travailler au privé et au public sans se désaffilier de la Régie de l'assurance maladie, à condition qu'ils maintiennent « une présence minimale au public », et de raccourcir de trois mois le délai avant qu'un patient en attente d'une chirurgie soit dirigé vers une autre région ou vers le privé sans avoir à payer. La CAQ veut aussi regrouper les listes d'attente, au motif que « notre code postal ne devrait jamais déterminer combien de temps on attend pour être soigné » ; l'orientation s'écarte de celle défendue jusqu'ici par Christian Dubé et Santé Québec, et le parti dit qu'elle sera discutée avec les médecins en vue des prochaines négociations.\n\n**Mise à jour, 15 h** — La Fédération des médecins spécialistes du Québec accueille favorablement la proposition, qui « prévient les départs définitifs » selon elle, et demande aux autres partis de s'y engager, tandis que la présidente de la CSN, Caroline Senneville, la juge « épouvantable » et que Médecins québécois pour un régime public et l'APTS y voient un déplacement du temps médical vers les activités les plus rentables. La CAQ précise qu'un plancher d'heures au public serait fixé, que les omnipraticiens resteraient exclus du va-et-vient et que l'obligation de cinq ans au public pour les nouveaux médecins serait maintenue ; en juillet, Santé Québec avait accordé 121 autorisations de désaffiliation temporaire à 71 spécialistes distincts, et 821 médecins, dont 271 spécialistes, étaient non participants au régime public au 14 juillet selon la Régie de l'assurance maladie du Québec.\n\n**Mise à jour, 23 h** — Charles Milliard accuse Christine Fréchette de jeter « M. Dubé sous l’autobus » en défaisant ce que son ancien collègue avait mis en place, tandis que Ruba Ghazal juge que la cheffe caquiste « fait fausse route » et qualifie la double pratique des médecins de « fléau » coûteux. Christine Fréchette a refusé de qualifier d’erreur la loi de 2025, se bornant à dire que son parti « fait différemment pour la suite des choses », et la CAQ ajoute vouloir recourir davantage au privé pour l’imagerie médicale et former plus de médecins en région grâce au réseau des Universités du Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T23:14-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-5-la-caq-ouvre-la-porte-a-une-pratique-mixte-des-medecins-au-prive-et-au-public/"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005254/frechette-contre-courant-dube-sante-quebec"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/la-caq-change-de-cap-concernant-le-prive-en-sante.php"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/en-direct/1014226/elections-quebec-jour-5-campagne"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-08-31/proposition-de-la-caq/medecins-au-public-et-prive-la-fmsq-pour-la-csn-contre.php"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279258/chirurgies-attente-medecin-prive-sante"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-campaign-day-5-9.7326714"
+    },
+    {
+     "media": "Le Canada français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/jour-5-une-volte-face-de-la-caq-en-matiere-de-sante-vivement-critiquee/"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12042600/quebec-election-day-5/"
+    }
+   ],
+   "permalien": "la-caq-ouvre-la-porte-a-une-pratique-mixte-des-medecins-et-v-8f3970",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "la-caq-ouvre-la-porte-a-une-pratique-mixte-des-medecins-et-v-8f3970"
+  },
+  {
+   "titre": "Au cinquième jour, les trois principaux partis convergent sur l'« efficacité » de l'État",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Les Affaires, InfoBref, Global News",
+   "url": "https://www.ledevoir.com/politique/quebec/1005386/partis-misent-efficacite-seduire-electeurs",
+   "resume": "Lundi, la CAQ a proposé d'ouvrir la discussion sur la pratique mixte des médecins, le Parti québécois a promis un « grand ménage dans la bureaucratie » et le Parti libéral du Québec la création de « délais maximaux » pour accélérer la mise en chantier de logements. Christine Fréchette a confirmé avoir voté en faveur de la loi d'avril 2025 qui limitait les allers-retours des médecins entre le public et le privé, mais dit avoir changé d'avis après avoir examiné divers modèles de santé.\n\n**Mise à jour, 23 h** — Paul St-Pierre Plamondon a redit vouloir abolir Santé Québec et créer un secrétariat à l’efficacité gouvernementale, chiffrant à 1,6 milliard de dollars par année les économies attendues de la réduction du secteur public. La Coalition avenir Québec promet de son côté de retrancher un milliard de dollars aux dépenses administratives de Santé Québec, une agence que Christine Fréchette défend en soutenant que l’accès aux services s’est amélioré depuis sa création.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T23:14-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005386/partis-misent-efficacite-seduire-electeurs"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/elections-quebec-2026-la-caq-critiquee-pour-son-engagement-en-matieres-de-sante/"
+    },
+    {
+     "media": "InfoBref",
+     "url": "https://infobref.com/campagne-electorale-jour5-2026-09/"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12042600/quebec-election-day-5/"
+    }
+   ],
+   "permalien": "au-cinquieme-jour-les-trois-principaux-partis-convergent-sur-60e118",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "au-cinquieme-jour-les-trois-principaux-partis-convergent-sur-60e118"
+  },
+  {
+   "titre": "Éric Duhaime en bonnet de chocolatier, une image de campagne qui en rappelle une autre",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.tvanouvelles.ca/2026/08/31/eric-duhaime-maitre-chocolatier-nos-politiciens-dans-leurs-meilleurs-jours-rigole-mathieu-bock-cote",
+   "resume": "Éric Duhaime a passé quelques minutes derrière le comptoir d’une chocolaterie lundi, coiffé du bonnet blanc du métier, lors d’un des arrêts impromptus qui ponctuent la tournée des chefs. Mathieu Bock-Côté y voit « nos politiciens dans leurs meilleurs jours » et y retrouve l’écho de Gilles Duceppe, apparu avec la même coiffe pendant la campagne fédérale de 1997 et abondamment croqué ainsi par les caricaturistes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-08-31T23:14-04:00",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/08/31/eric-duhaime-maitre-chocolatier-nos-politiciens-dans-leurs-meilleurs-jours-rigole-mathieu-bock-cote"
+    }
+   ],
+   "permalien": "eric-duhaime-en-bonnet-de-chocolatier-une-image-de-campagne-e4fdd5",
+   "_fichier": "revue-report-2026-09-01.json",
+   "_volet": "report",
+   "_slug": "eric-duhaime-en-bonnet-de-chocolatier-une-image-de-campagne-e4fdd5"
+  }
+ ]
+}
