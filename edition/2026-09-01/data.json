@@ -1,6 +1,7 @@
 {
  "date": "2026-09-01",
  "volets": [
+  "continu",
   "elections",
   "hors-rss",
   "monde",
@@ -10,6 +11,350 @@
   "savoirs"
  ],
  "articles": [
+  {
+   "titre": "L'Allemagne ferme la « Maison russe » de Berlin après l'affaire du drone de Leipzig",
+   "cahier": "international",
+   "rubrique": "diplomatie",
+   "territoire": "Allemagne",
+   "medias": "Le Parisien",
+   "url": "https://www.leparisien.fr/international/allemagne/un-centre-despionnage-cest-quoi-la-maison-russe-de-berlin-que-lallemagne-a-decide-de-fermer-apres-laffaire-du-drone-de-leipzig-01-09-2026-W245KNM2ZNBDVI3VBRUMI2LGYE.php",
+   "resume": "L'Allemagne a annoncé la fermeture de la Maison russe de Berlin, présentée comme un centre d'influence lié aux services russes, après avoir attribué à Moscou le survol par drone d'un site à Leipzig, selon Le Parisien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/allemagne/un-centre-despionnage-cest-quoi-la-maison-russe-de-berlin-que-lallemagne-a-decide-de-fermer-apres-laffaire-du-drone-de-leipzig-01-09-2026-W245KNM2ZNBDVI3VBRUMI2LGYE.php"
+    }
+   ],
+   "permalien": "l-allemagne-ferme-la-maison-russe-de-berlin-apres-l-affaire-579d1c",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "l-allemagne-ferme-la-maison-russe-de-berlin-apres-l-affaire-579d1c"
+  },
+  {
+   "titre": "Le président iranien appelle Washington à revenir à la table des négociations",
+   "cahier": "international",
+   "rubrique": "diplomatie",
+   "territoire": "Iran / États-Unis",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279629/president-iranien-appel-washington-retour-table-negociations",
+   "resume": "Le président iranien Massoud Pezeshkian a appelé Washington à revenir à la table des négociations, estimant qu'une politique de pressions et de menaces risque de faire dérailler la voie diplomatique, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279629/president-iranien-appel-washington-retour-table-negociations"
+    }
+   ],
+   "permalien": "le-president-iranien-appelle-washington-a-revenir-a-la-table-69e28c",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "le-president-iranien-appelle-washington-a-revenir-a-la-table-69e28c"
+  },
+  {
+   "titre": "Un ex-entraîneur reconnu coupable d'exploitation sexuelle réclame une peine de fin de semaine",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-01/exploitation-sexuelle-de-deux-adolescentes/un-coach-predateur-reclame-de-purger-sa-peine-de-prison-la-fin-de-semaine.php",
+   "resume": "Un ex-entraîneur de hockey qui a exploité sexuellement deux adolescentes a réclamé mardi de purger sa peine de prison seulement la fin de semaine, sans manifester ni remords ni empathie envers ses victimes, selon La Presse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-01/exploitation-sexuelle-de-deux-adolescentes/un-coach-predateur-reclame-de-purger-sa-peine-de-prison-la-fin-de-semaine.php"
+    }
+   ],
+   "permalien": "un-ex-entraineur-reconnu-coupable-d-exploitation-sexuelle-re-a9e3a2",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "un-ex-entraineur-reconnu-coupable-d-exploitation-sexuelle-re-a9e3a2"
+  },
+  {
+   "titre": "Les Alouettes prolongent les contrats de Jason Maas et Danny Maciocia",
+   "cahier": "montreal",
+   "rubrique": "sport",
+   "territoire": "Montréal",
+   "medias": "Le Devoir, Radio-Canada, La Presse",
+   "url": "https://www.ledevoir.com/sports/1005515/alouettes-prolongent-deux-ans-contrats-jason-maas-danny-maciocia",
+   "resume": "Les Alouettes de Montréal ont prolongé de deux ans les contrats de l'entraîneur-chef Jason Maas et du directeur général Danny Maciocia.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/sports/1005515/alouettes-prolongent-deux-ans-contrats-jason-maas-danny-maciocia"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/sports/2279605/football-alouettes-prolongations-contrat-maas-maciocia"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/sports/football/2026-09-01/alouettes-de-montreal/les-contrats-de-danny-maciocia-et-jason-maas-prolonges.php"
+    }
+   ],
+   "permalien": "les-alouettes-prolongent-les-contrats-de-jason-maas-et-danny-03b546",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "les-alouettes-prolongent-les-contrats-de-jason-maas-et-danny-03b546"
+  },
+  {
+   "titre": "Un homme arrêté à Blainville après avoir drogué le café de ses collègues",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Blainville",
+   "medias": "La Presse, Le Journal de Montréal",
+   "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-01/blainville/un-homme-a-drogue-le-cafe-de-ses-collegues.php",
+   "resume": "À Blainville, un homme a été arrêté après avoir versé de la MDMA dans le café de collègues sur leur lieu de travail; il a été intercepté avec 15 000 comprimés de méthamphétamine en sa possession, selon La Presse et Le Journal de Montréal.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-01/blainville/un-homme-a-drogue-le-cafe-de-ses-collegues.php"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/01/il-samuse-a-droguer-ses-collegues-en-plein-jour-et-se-fait-pincer-avec-15-000-comprimes-de-methamphetamine"
+    }
+   ],
+   "permalien": "un-homme-arrete-a-blainville-apres-avoir-drogue-le-cafe-de-s-c2e076",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "un-homme-arrete-a-blainville-apres-avoir-drogue-le-cafe-de-s-c2e076"
+  },
+  {
+   "titre": "Accusé de violences sexuelles, Patrick Bruel annule sa tournée",
+   "cahier": "savoirs",
+   "rubrique": "culture",
+   "territoire": "France",
+   "medias": "Radio-Canada, Le Devoir, Le Journal de Québec",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279689/patrick-bruel-annulation-tournee-accusations-agressions-sexuelles",
+   "resume": "Le chanteur français Patrick Bruel a annulé le reste de sa tournée après avoir été inculpé dans quatre dossiers de violences sexuelles et visé par plusieurs autres plaintes, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279689/patrick-bruel-annulation-tournee-accusations-agressions-sexuelles"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/musique/1005590/patrick-bruel-annule-reste-tournee-suite-inculpations-viols"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/01/patrick-bruel-arrete-pour-violences-sexuelles-annule-sa-tournee"
+    }
+   ],
+   "permalien": "accuse-de-violences-sexuelles-patrick-bruel-annule-sa-tourne-65b9a4",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "accuse-de-violences-sexuelles-patrick-bruel-annule-sa-tourne-65b9a4"
+  },
+  {
+   "titre": "Unifor entame ses négociations collectives avec Stellantis",
+   "cahier": "canada",
+   "rubrique": "économie",
+   "territoire": "Canada",
+   "medias": "La Presse, Radio-Canada, Global News",
+   "url": "https://www.lapresse.ca/affaires/2026-09-01/industrie-automobile/stellantis-et-unifor-entament-les-negociations-collectives.php",
+   "resume": "Le syndicat Unifor a entamé mardi ses négociations collectives avec Stellantis, dernière étape de ses pourparlers avec les trois grands constructeurs automobiles de Detroit, selon La Presse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-09-01/industrie-automobile/stellantis-et-unifor-entament-les-negociations-collectives.php"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279717/negociations-stellantis-unifor-automobile-tarifs"
+    }
+   ],
+   "permalien": "unifor-entame-ses-negociations-collectives-avec-stellantis-aca331",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "unifor-entame-ses-negociations-collectives-avec-stellantis-aca331"
+  },
+  {
+   "titre": "Le congé de taxe d'accise sur l'essence ne devrait pas être prolongé, selon un expert",
+   "cahier": "canada",
+   "rubrique": "économie",
+   "territoire": "Canada",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.qub.ca/2026/09/01/pas-une-bonne-idee-de-prolonger-le-conge-de-taxe-daccise-sur-lessence-dit-un-expert",
+   "resume": "Un expert cité par Le Journal de Montréal estime qu'Ottawa ne peut pas se permettre de prolonger au-delà de lundi prochain le congé de taxe d'accise sur l'essence.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.qub.ca/2026/09/01/pas-une-bonne-idee-de-prolonger-le-conge-de-taxe-daccise-sur-lessence-dit-un-expert"
+    }
+   ],
+   "permalien": "le-conge-de-taxe-d-accise-sur-l-essence-ne-devrait-pas-etre-78d9e8",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "le-conge-de-taxe-d-accise-sur-l-essence-ne-devrait-pas-etre-78d9e8"
+  },
+  {
+   "titre": "La CSN conteste à son tour la loi sur la gouvernance syndicale",
+   "cahier": "quebec",
+   "rubrique": "travail",
+   "territoire": "Québec",
+   "medias": "Le Canada Français, Coops de l'information",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/gouvernance-syndicale-au-tour-de-la-csn-de-contester-la-loi/",
+   "resume": "La CSN conteste à son tour devant la Cour supérieure la loi sur la gouvernance et la transparence syndicales, rejoignant plusieurs autres organisations syndicales qui ont déjà déposé une requête contre cette loi, selon Le Canada Français.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/gouvernance-syndicale-au-tour-de-la-csn-de-contester-la-loi/"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/affaires/2026/09/01/gouvernance-syndicale-au-tour-de-la-csn-de-contester-la-loi-EXTJEABPBRH57I45ZGZWH6RCEU/"
+    }
+   ],
+   "permalien": "la-csn-conteste-a-son-tour-la-loi-sur-la-gouvernance-syndica-ca6316",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "la-csn-conteste-a-son-tour-la-loi-sur-la-gouvernance-syndica-ca6316"
+  },
+  {
+   "titre": "Féminicides : ce que proposent les partis politiques québécois",
+   "cahier": "quebec",
+   "rubrique": "société",
+   "territoire": "Québec",
+   "medias": "Pivot",
+   "url": "https://pivot.quebec/2026/09/01/feminicides-partis-politiques/",
+   "resume": "Le média Pivot examine les engagements électoraux des partis provinciaux en matière de lutte contre les féminicides, alors que plusieurs cas ont été recensés au Québec depuis la mi-août.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "Pivot",
+     "url": "https://pivot.quebec/2026/09/01/feminicides-partis-politiques/"
+    }
+   ],
+   "permalien": "feminicides-ce-que-proposent-les-partis-politiques-quebecois-5f2786",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "feminicides-ce-que-proposent-les-partis-politiques-quebecois-5f2786"
+  },
+  {
+   "titre": "Le télescope James-Webb repère une paire de « petits points rouges »",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Futura-Sciences",
+   "url": "https://www.futura-sciences.com/sciences/actualites/little-red-dots-telescope-james-webb-detecte-petits-points-rouges-deux-vers-collision-trous-noirs-geants-137443/",
+   "resume": "Le télescope spatial James-Webb a détecté une paire de « petits points rouges », des objets pouvant signaler la fusion prochaine de deux trous noirs supermassifs, selon Futura-Sciences.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "Futura-Sciences",
+     "url": "https://www.futura-sciences.com/sciences/actualites/little-red-dots-telescope-james-webb-detecte-petits-points-rouges-deux-vers-collision-trous-noirs-geants-137443/"
+    }
+   ],
+   "permalien": "le-telescope-james-webb-repere-une-paire-de-petits-points-ro-ada106",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "le-telescope-james-webb-repere-une-paire-de-petits-points-ro-ada106"
+  },
+  {
+   "titre": "Dyson dévoile une brosse à dents intelligente avec caméra intégrée",
+   "cahier": "savoirs",
+   "rubrique": "techno",
+   "territoire": "",
+   "medias": "Le Journal de Montréal, Presse-citron",
+   "url": "https://www.lesacdechips.com/2026/09/01/dyson-a-mis-au-point-une-brosse-a-dents-intelligente-equipee-dune-camera-et-dun-lance-rince-bouche",
+   "resume": "Dyson a développé une brosse à dents intelligente équipée d'une caméra et d'un jet de rince-bouche intégré, selon Le Journal de Montréal.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.lesacdechips.com/2026/09/01/dyson-a-mis-au-point-une-brosse-a-dents-intelligente-equipee-dune-camera-et-dun-lance-rince-bouche"
+    },
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/cette-brosse-a-dents-dyson-possede-une-camera-embarquee-et-son-utilite-va-vous-surprendre/"
+    }
+   ],
+   "permalien": "dyson-devoile-une-brosse-a-dents-intelligente-avec-camera-in-ac3225",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "dyson-devoile-une-brosse-a-dents-intelligente-avec-camera-in-ac3225"
+  },
+  {
+   "titre": "Montréal facilite l'accueil de tournages de cinéma et de télévision",
+   "cahier": "montreal",
+   "rubrique": "municipal",
+   "territoire": "Montréal",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/communiques-de-presse/ladministration-martinez-ferrada-ouvre-la-voie-davantage-de-productions-de-cinema-et-de-television",
+   "resume": "L'administration Martinez Ferrada a annoncé de nouvelles mesures pour simplifier et améliorer l'expérience de tournage sur le territoire montréalais, afin de faciliter l'accueil de productions de cinéma et de télévision.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/communiques-de-presse/ladministration-martinez-ferrada-ouvre-la-voie-davantage-de-productions-de-cinema-et-de-television"
+    }
+   ],
+   "permalien": "montreal-facilite-l-accueil-de-tournages-de-cinema-et-de-tel-2d9dc1",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "montreal-facilite-l-accueil-de-tournages-de-cinema-et-de-tel-2d9dc1"
+  },
+  {
+   "titre": "Céline Dion multiplie les gestes envers ses admirateurs à Paris",
+   "cahier": "savoirs",
+   "rubrique": "culture",
+   "territoire": "France",
+   "medias": "La Presse, Le Journal de Montréal",
+   "url": "https://www.lapresse.ca/arts/musique/2026-09-01/paris/celine-dion-chante-devant-son-hotel.php",
+   "resume": "Céline Dion, de passage à Paris depuis le 28 août, prend le temps de saluer et remercier les admirateurs rassemblés devant son hôtel avant son retour sur scène, selon La Presse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:03-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/musique/2026-09-01/paris/celine-dion-chante-devant-son-hotel.php"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/01/celine-dion-affiche-une-totale-determination-avant-son-retour-sur-scene-selon-sa-biographe"
+    }
+   ],
+   "permalien": "celine-dion-multiplie-les-gestes-envers-ses-admirateurs-a-pa-6f74c6",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "celine-dion-multiplie-les-gestes-envers-ses-admirateurs-a-pa-6f74c6"
+  },
   {
    "titre": "Un candidat conservateur dans Chutes-de-la-Chaudière rattrapé par ses propos passés sur X",
    "cahier": "elections",
@@ -3270,9 +3615,9 @@
      "url": "https://www.france24.com/fr/info-en-continu/20260831-shein-s-appr%C3%AAte-%C3%A0-entrer-en-bourse-pour-une-valorisation-%C3%A0-22-6-milliards-d-euros"
     }
    ],
-   "resume": "La plateforme de mode en ligne, fondée en Chine en 2012 et établie à Singapour, compte lever près de 1,5 milliard d'euros à la veille de son entrée à la Bourse de Hong Kong. L'opération la valoriserait à 22,6 milliards d'euros, soit quatre fois moins qu'il y a quatre ans.",
+   "resume": "La plateforme de mode en ligne, fondée en Chine en 2012 et établie à Singapour, compte lever près de 1,5 milliard d'euros à la veille de son entrée à la Bourse de Hong Kong. L'opération la valoriserait à 22,6 milliards d'euros, soit quatre fois moins qu'il y a quatre ans.\n\n**Mise à jour, 16 h 03** — Après un plongeon de 10 % à l'ouverture, l'action a resserré ses pertes lors de son premier jour de cotation à la Bourse de Hong Kong, selon La Presse.",
    "legende": "",
-   "horodate": "2026-08-31T15:52-04:00",
+   "horodate": "2026-09-01T16:03-04:00",
    "photo": "",
    "permalien": "shein-entre-mardi-a-la-bourse-de-hong-kong-avec-une-valorisa-a6a4c5",
    "_fichier": "revue-report-2026-09-01.json",
@@ -4594,7 +4939,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Iran",
-   "medias": "franceinfo, BFMTV",
+   "medias": "franceinfo, BFMTV, RFI",
    "sources": [
     {
      "media": "franceinfo",
@@ -4603,13 +4948,17 @@
     {
      "media": "BFMTV",
      "url": "https://www.bfmtv.com/international/moyen-orient/direct-guerre-au-moyen-orient-premier-echange-de-frappes-depuis-un-mois-entre-les-etats-unis-et-l-iran-en-un-mois-un-navire-en-feu-dans-le-detroit-d-ormuz_LN-202608310080.html"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20260901-les-%C3%A9tats-unis-lancent-de-nouvelles-frappes-contre-l-iran-t%C3%A9h%C3%A9ran-promet-un-ch%C3%A2timent-s%C3%A9v%C3%A8re"
     }
    ],
-   "resume": "Les États-Unis ont mené lundi leurs premières frappes sur l'Iran depuis plus d'un mois et Téhéran a riposté par des missiles et des drones contre des cibles américaines en Jordanie et aux Émirats arabes unis, mettant fin à un mois d'accalmie. Donald Trump a menacé de frapper fort le camp adverse, alors que le président iranien Massoud Pezeshkian affirme ne pas vouloir la poursuite de la guerre ; le prix du pétrole est reparti à la hausse et un navire a pris feu dans le détroit d'Ormuz.",
+   "resume": "Les États-Unis ont mené lundi leurs premières frappes sur l'Iran depuis plus d'un mois et Téhéran a riposté par des missiles et des drones contre des cibles américaines en Jordanie et aux Émirats arabes unis, mettant fin à un mois d'accalmie. Donald Trump a menacé de frapper fort le camp adverse, alors que le président iranien Massoud Pezeshkian affirme ne pas vouloir la poursuite de la guerre ; le prix du pétrole est reparti à la hausse et un navire a pris feu dans le détroit d'Ormuz.\n\n**Mise à jour, 16 h 03** — L'armée américaine a mené mardi de nouvelles frappes contre des cibles des Gardiens de la révolution iraniens près du détroit d'Ormuz, et Téhéran a promis un « châtiment sévère », selon RFI.",
    "legende": "",
    "photo": "",
    "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-menace-de-bombarder-fort-l-iran-apres-la-reprise-des-hostilites-entre-les-deux-pays_8171336.html",
-   "horodate": "2026-08-31T21:47-04:00",
+   "horodate": "2026-09-01T16:03-04:00",
    "permalien": "reprise-des-frappes-entre-les-etats-unis-et-l-iran-trump-men-86260f",
    "_fichier": "revue-report-2026-09-01.json",
    "_volet": "report",
