@@ -4,7 +4,7 @@
  --accent:#ffd400; --accent-fg:#111114; --accent-txt:#8a6f00;
  --link:#16161a; --card:#ffffff; --ombre:rgba(0,0,0,.06);
  --measure:84rem; --wide:100rem;
- --h-barre:2.7rem;
+ --h-barre:2.7rem; --h-entete:7rem;
  --font:"Newsreader",Georgia,"Iowan Old Style","Charter","Times New Roman",serif;
  --titre:var(--font);
  --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
@@ -180,14 +180,37 @@ html[data-cols="1"] .wrap.large{max-width:var(--measure)}
 .derniers{grid-column:2;grid-row:1}
 @media (max-width:62rem){.accueil{display:block}}
 html[data-cols="1"] .accueil{display:block}
-.derniers{position:sticky;top:3.5rem;border-left:1px solid var(--rule);padding-left:1.4rem}
+/* « Derniers ajouts » défile pour lui-même. Il mesurait 1339 px pour 777 px
+   d'écran disponible : collé, il ne remontait jamais, et ses dernières entrées
+   étaient tout simplement inatteignables. Il se borne maintenant à la place
+   qui reste sous les deux barres, et c'est la LISTE qui défile — le titre du
+   panneau, lui, ne bouge pas.
+   `--h-entete` est mesuré en JS : la hauteur des barres n'est pas connue
+   d'avance, le menu des cahiers se repliant sur deux rangées en fenêtre
+   étroite ou en gros caractères. L'ancien 3,5 rem codé en dur était d'ailleurs
+   faux — le panneau glissait sous le menu. */
+.derniers{position:sticky;top:calc(var(--h-entete) + .5rem);
+ max-height:calc(100vh - var(--h-entete) - 1.5rem);
+ display:flex;flex-direction:column;
+ border-left:1px solid var(--rule);padding-left:1.4rem}
+.derniers h2{flex:0 0 auto}
 @media (max-width:62rem){.derniers{position:static;border-left:0;padding-left:0;
- border-top:2px solid var(--rule-fort);margin-top:2.4rem;padding-top:1.4rem}}
+ border-top:2px solid var(--rule-fort);margin-top:2.4rem;padding-top:1.4rem;
+ max-height:none;display:block}
+ .derniers ul{overflow:visible;padding-right:0}}
 html[data-cols="1"] .derniers{position:static;border-left:0;padding-left:0;
- border-top:2px solid var(--rule-fort);margin-top:2.4rem;padding-top:1.4rem}
+ border-top:2px solid var(--rule-fort);margin-top:2.4rem;padding-top:1.4rem;
+ max-height:none;display:block}
+html[data-cols="1"] .derniers ul{overflow:visible;padding-right:0}
 .derniers h2{font-family:var(--ui);font-size:.78rem;text-transform:uppercase;
  letter-spacing:.13em;color:var(--accent-txt);margin:0 0 1rem;font-weight:800}
-.derniers ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:1rem}
+.derniers ul{list-style:none;margin:0;padding:0 .6rem 0 0;display:flex;
+ flex-direction:column;gap:1rem;overflow-y:auto;overscroll-behavior:contain;
+ flex:1 1 auto;min-height:0;
+ scrollbar-width:thin;scrollbar-color:var(--rule) transparent}
+.derniers ul::-webkit-scrollbar{width:8px}
+.derniers ul::-webkit-scrollbar-thumb{background:var(--rule);border-radius:4px}
+.derniers ul::-webkit-scrollbar-track{background:transparent}
 .derniers li{border-top:1px solid var(--rule);padding-top:.8rem}
 .derniers li:first-child{border-top:0;padding-top:0}
 .derniers li a{display:block;text-decoration:none;color:var(--fg)}

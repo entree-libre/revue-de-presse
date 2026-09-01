@@ -30,7 +30,7 @@
  <button onclick="sz(-.1)">A&minus;</button>
 </div>
 
-<nav class="cahiers"><a data-cahier="elections" href="../elections.html"><span class="lbl">Élections Québec 2026 <span class='n'>64</span></span></a><a data-cahier="quebec" href="../quebec.html"><span class="lbl">Québec et ses régions <span class='n'>41</span></span></a><a data-cahier="montreal" href="../montreal.html"><span class="lbl">Montréal et sa région <span class='n'>6</span></span></a><a data-cahier="canada" href="../canada.html"><span class="lbl">Canada <span class='n'>20</span></span></a><a class='on' data-cahier="international" href="../international.html"><span class="lbl">International <span class='n'>46</span></span></a><a data-cahier="savoirs" href="../savoirs.html"><span class="lbl">Savoirs <span class='n'>31</span></span></a></nav>
+<nav class="cahiers"><a data-cahier="elections" href="../elections.html"><span class="lbl">Élections Québec 2026 <span class='n'>64</span></span></a><a data-cahier="quebec" href="../quebec.html"><span class="lbl">Québec et ses régions <span class='n'>49</span></span></a><a data-cahier="montreal" href="../montreal.html"><span class="lbl">Montréal et sa région <span class='n'>9</span></span></a><a data-cahier="canada" href="../canada.html"><span class="lbl">Canada <span class='n'>20</span></span></a><a class='on' data-cahier="international" href="../international.html"><span class="lbl">International <span class='n'>46</span></span></a><a data-cahier="savoirs" href="../savoirs.html"><span class="lbl">Savoirs <span class='n'>31</span></span></a></nav>
 <div class="sujet">
 <div class="col-texte">
 <div class="fil"><a href="../index.html">La une</a> › <a href="../international.html">International</a> › Économie et travail</div>
@@ -60,10 +60,10 @@
 <script>window.VU={slug:"l-union-europeenne-suspend-jeudi-ses-importations-de-viande-9a2d8e",emp:"fab30e78c2"};</script>
 <footer class="pied">
 <h5>Contrôle</h5>
-<p>208 sujets. Médiane de 2.0 phrases par résumé.
-39 % des sujets reposent sur deux médias ou plus.
-Dépouillement : elections, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>138 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
+<p>219 sujets. Médiane de 2 phrases par résumé.
+37 % des sujets reposent sur deux médias ou plus.
+Dépouillement : elections, chasse hors RSS, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
+<h5>Sources</h5><p>144 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>43 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -371,7 +371,24 @@ window.addEventListener('pagehide',posEcrire);
 document.addEventListener('visibilitychange',function(){
  if(document.visibilityState==='hidden')posEcrire();});
 
+/* La hauteur des deux barres collantes n'est pas connue d'avance : le menu des
+   cahiers se replie sur deux rangées en fenêtre étroite ou en gros caractères,
+   et la barre d'outils suit la taille de police choisie. On la mesure et on la
+   publie en variable CSS ; « Derniers ajouts » s'y accroche et se borne à ce
+   qui reste de l'écran. Un nombre codé en dur ne pouvait pas suivre. */
+function hauteurEntete(){
+ var t=document.querySelector('.toolbar'), n=document.querySelector('nav.cahiers');
+ if(!t&&!n)return;
+ var h=(t?t.getBoundingClientRect().height:0)+(n?n.getBoundingClientRect().height:0);
+ H.style.setProperty('--h-entete',Math.round(h)+'px');}
+window.addEventListener('resize',hauteurEntete);
+
 document.addEventListener('DOMContentLoaded',function(){
+ hauteurEntete();
+ if('ResizeObserver' in window){
+  var ro=new ResizeObserver(hauteurEntete);
+  ['.toolbar','nav.cahiers'].forEach(function(s){
+   var e=document.querySelector(s);if(e)ro.observe(e);});}
  if(window.VU)vuMarquer(VU.slug,VU.emp);
  vusAppliquer();
  srcAppliquer();

@@ -2,6 +2,7 @@
  "date": "2026-09-01",
  "volets": [
   "elections",
+  "hors-rss",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -1112,6 +1113,248 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-01.json",
    "_slug": "le-scfp-avertit-que-la-course-aux-compressions-fragilise-l-e-ead182"
+  },
+  {
+   "titre": "La MRC de Beauce-Sartigan mettra fin à son service de transport collectif",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "MRC de Beauce-Sartigan (Chaudière-Appalaches)",
+   "medias": "Beauce Média",
+   "url": "https://www.beaucemedia.ca/actualites/les-taxis-collectifs-trop-onereux/",
+   "resume": "La MRC de Beauce-Sartigan cessera son service de taxis collectifs au dernier trimestre de 2026, possiblement vers la mi-octobre, après avoir puisé 92 626 $ dans ses surplus pour le maintenir cette année et anticipé un déficit d'environ 189 000 $ en 2027 sous les modalités du Programme d'aide au développement du transport collectif adoptées en novembre 2025. La MRC des Etchemins dit tenir jusqu'au 31 décembre mais analyse ses options pour 2027, et celle de Bellechasse juge son financement insuffisant pour desservir un vaste territoire sans ville-centre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "la-mrc-de-beauce-sartigan-mettra-fin-a-son-service-de-transp-814969",
+   "sources": [
+    {
+     "media": "Beauce Média",
+     "url": "https://www.beaucemedia.ca/actualites/les-taxis-collectifs-trop-onereux/"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "la-mrc-de-beauce-sartigan-mettra-fin-a-son-service-de-transp-814969"
+  },
+  {
+   "titre": "Une quarantaine de résidents réclament un référendum sur le projet éolien de Saint-Isidore",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "MRC de La Nouvelle-Beauce (Saint-Isidore et Saint-Lambert-de-Lauzon)",
+   "medias": "Beauce Média",
+   "url": "https://www.beaucemedia.ca/actualites/eoliennes-avec-le-vent-les-tourments/",
+   "resume": "Près de 40 résidents sont venus demander un référendum et un moratoire sur le projet éolien envisagé à Saint-Isidore et Saint-Lambert-de-Lauzon devant le conseil des maires de la MRC de La Nouvelle-Beauce, le 25 août, invoquant la baisse de valeur des résidences, la nappe phréatique et la perte de terres agricoles. La directrice générale de la MRC, Nancy Labbé, soutient que le contrat de communication contesté sert uniquement à préparer des consultations publiques et que « la décision » n'est pas prise ; le préfet Olivier Dumais annonce ces consultations pour cet automne et une réglementation plus sévère que celle de 2006.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "une-quarantaine-de-residents-reclament-un-referendum-sur-le-ff98c9",
+   "sources": [
+    {
+     "media": "Beauce Média",
+     "url": "https://www.beaucemedia.ca/actualites/eoliennes-avec-le-vent-les-tourments/"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "une-quarantaine-de-residents-reclament-un-referendum-sur-le-ff98c9"
+  },
+  {
+   "titre": "Saint-Malachie transforme son terrain de balle en patinoire permanente",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Saint-Malachie (Bellechasse)",
+   "medias": "La Voix du Sud",
+   "url": "https://www.lavoixdusud.com/actualites/saint-malachie-rafraichira-ses-plateaux-sportifs/",
+   "resume": "Saint-Malachie a commencé le 27 août à démonter son terrain de balle molle pour y aménager une patinoire permanente doublée d'une surface de DEK hockey, un investissement d'environ 100 000 $ que le maire Bryan Dionne présente comme la première phase d'un plan de loisirs sur trois ans. Des jeux d'eau, un nouveau terrain de balle et le remplacement du chalet des loisirs suivraient selon les enveloppes gouvernementales disponibles.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "saint-malachie-transforme-son-terrain-de-balle-en-patinoire-b0398c",
+   "sources": [
+    {
+     "media": "La Voix du Sud",
+     "url": "https://www.lavoixdusud.com/actualites/saint-malachie-rafraichira-ses-plateaux-sportifs/"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "saint-malachie-transforme-son-terrain-de-balle-en-patinoire-b0398c"
+  },
+  {
+   "titre": "Une femme blessée dans une sortie de route sur la route 277, à Saint-Anselme",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Saint-Anselme (Bellechasse)",
+   "medias": "La Voix du Sud",
+   "url": "https://www.lavoixdusud.com/faits-divers/sortie-de-route-a-saint-anselme-6/",
+   "resume": "Une femme dans la trentaine a été blessée lundi peu après 16 h dans une sortie de route survenue sur la route 277, à Saint-Anselme.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "une-femme-blessee-dans-une-sortie-de-route-sur-la-route-277-44391d",
+   "sources": [
+    {
+     "media": "La Voix du Sud",
+     "url": "https://www.lavoixdusud.com/faits-divers/sortie-de-route-a-saint-anselme-6/"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "une-femme-blessee-dans-une-sortie-de-route-sur-la-route-277-44391d"
+  },
+  {
+   "titre": "À l'île d'Orléans, on partage les équipements plutôt que de fusionner",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "MRC de L'Île-d'Orléans",
+   "medias": "Autour de l'île",
+   "url": "https://autourdelile.com/2026/09/les-ententes-intermunicipales-tout-le-monde-y-gagne/",
+   "resume": "Une compilation des directions générales des municipalités et de la MRC de L'Île-d'Orléans recense des ententes intermunicipales en inspection, matières résiduelles, entraide incendie, transport collectif et adapté et services animaliers, certaines antérieures à la création des MRC en 1979 : l'unité de pompage des boues de Saint-Jean sert aussi à Sainte-Famille, et Saint-Pierre et Saint-Laurent entretiennent ensemble la piste de ski de fond. Aucune fusion n'est envisagée, indique la directrice générale de la MRC, Chantale Cormier.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "a-l-ile-d-orleans-on-partage-les-equipements-plutot-que-de-f-3ff538",
+   "sources": [
+    {
+     "media": "Autour de l'île",
+     "url": "https://autourdelile.com/2026/09/les-ententes-intermunicipales-tout-le-monde-y-gagne/"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "a-l-ile-d-orleans-on-partage-les-equipements-plutot-que-de-f-3ff538"
+  },
+  {
+   "titre": "Des gicleurs à 1,3 million pour la résidence pour aînés de Sainte-Famille",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Sainte-Famille (île d'Orléans)",
+   "medias": "Autour de l'île",
+   "url": "https://autourdelile.com/2026/08/la-residence-sainte-famille-renforce-la-securite-de-ses-residents-grace-a-un-systeme-de-gicleurs/",
+   "resume": "La résidence privée pour aînés de Sainte-Famille, qui héberge 28 personnes, a mis en service un système de gicleurs évalué à près de 1,3 million de dollars après un an de travaux ; le réservoir d'eau requis était si volumineux que son transport a nécessité la fermeture temporaire du pont de l'Île-d'Orléans, rapporte le propriétaire Steve Allard.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "des-gicleurs-a-1-3-million-pour-la-residence-pour-aines-de-s-508c48",
+   "sources": [
+    {
+     "media": "Autour de l'île",
+     "url": "https://autourdelile.com/2026/08/la-residence-sainte-famille-renforce-la-securite-de-ses-residents-grace-a-un-systeme-de-gicleurs/"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "des-gicleurs-a-1-3-million-pour-la-residence-pour-aines-de-s-508c48"
+  },
+  {
+   "titre": "La première clinique d'infirmières praticiennes de Chaudière-Appalaches voit plus de 400 patients par semaine",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Lévis (Saint-Romuald)",
+   "medias": "Journal de Lévis",
+   "url": "https://www.journaldelevis.com/jdl/25/Sant%C3%A9.html?id=46379",
+   "resume": "Ouverte en avril sur le boulevard Guillaume-Couture à Saint-Romuald, la clinique d'infirmières praticiennes spécialisées réunit huit IPS de première ligne, deux en santé mentale, trois infirmières cliniciennes et une physiothérapeute, et réserve des plages aux patients réorientés de l'urgence classés P4 et P5. Chaque IPS suit environ 250 patients la première année, une capacité qui pourrait grimper à 800 ou 1 000, selon le chef de service Andy Pelletier-Laliberté.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "la-premiere-clinique-d-infirmieres-praticiennes-de-chaudiere-9cf927",
+   "sources": [
+    {
+     "media": "Journal de Lévis",
+     "url": "https://www.journaldelevis.com/jdl/25/Sant%C3%A9.html?id=46379"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "la-premiere-clinique-d-infirmieres-praticiennes-de-chaudiere-9cf927"
+  },
+  {
+   "titre": "Onze écoles de plus servent des repas à prix modulé en Chaudière-Appalaches",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Chaudière-Appalaches",
+   "medias": "La Voix du Sud",
+   "url": "https://www.lavoixdusud.com/actualites/plus-deleves-exclus-de-linsecurite-alimentaire/",
+   "resume": "Le programme La Cantine dans les écoles, de l'organisme La Cantine pour tous, passe de 18 à 29 écoles primaires de Chaudière-Appalaches pour la rentrée 2026-2027, ajoutant 1 678 élèves de la maternelle à la sixième année à Thetford Mines, Adstock, East Broughton, Courcelles, Saint-Frédéric, Saint-Gervais, La Durantaye, Saint-Lazare et Lévis. Les parents choisissent le montant qu'ils paient et la différence est versée par Québec au titre du Programme national d'alimentation scolaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "onze-ecoles-de-plus-servent-des-repas-a-prix-module-en-chaud-6b95a8",
+   "sources": [
+    {
+     "media": "La Voix du Sud",
+     "url": "https://www.lavoixdusud.com/actualites/plus-deleves-exclus-de-linsecurite-alimentaire/"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "onze-ecoles-de-plus-servent-des-repas-a-prix-module-en-chaud-6b95a8"
+  },
+  {
+   "titre": "Le REM convertit 323 places payantes en places gratuites dans l'Ouest-de-l'Île",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Pierrefonds-Roxboro (Montréal)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/actualites/rem-plus-de-stationnements-gratuits-sunnybrooke-et-pierrefonds-roxboro-119273",
+   "resume": "L'arrondissement de Pierrefonds-Roxboro annonce l'ajout de 120 places de stationnement gratuites à la station Sunnybrooke depuis le 21 août et de 203 à la station Pierrefonds-Roxboro depuis le 27 août, une conversion de places payantes que CDPQ Infra attribue à l'utilisation observée et aux besoins exprimés par les usagers. Une offre payante subsiste pour qui veut s'assurer un emplacement, et la révision touche plusieurs autres stations du réseau.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "le-rem-convertit-323-places-payantes-en-places-gratuites-dan-d6730b",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/rem-plus-de-stationnements-gratuits-sunnybrooke-et-pierrefonds-roxboro-119273"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "le-rem-convertit-323-places-payantes-en-places-gratuites-dan-d6730b"
+  },
+  {
+   "titre": "Saint-Roch-de-l'Achigan légalise le jeu libre dans ses rues résidentielles",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Saint-Roch-de-l'Achigan (MRC de Montcalm)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/sports-rues-residentielles-sebastien-marcil/",
+   "resume": "Le règlement 585-2026, adopté le 17 août, autorise le hockey-balle et les autres jeux dans les rues résidentielles de la municipalité, un interdit dont des voisins se servaient pour faire intervenir la police, selon le maire Sébastien Marcil. Un appel à projets attendu ce printemps permettra de faire désigner des zones de jeu spéciales avec marquage au sol, stationnement interdit et vitesse réduite ; Terrebonne compte déjà 48 rues à son programme et Mascouche 380.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "saint-roch-de-l-achigan-legalise-le-jeu-libre-dans-ses-rues-d75e0e",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/sports-rues-residentielles-sebastien-marcil/"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "saint-roch-de-l-achigan-legalise-le-jeu-libre-dans-ses-rues-d75e0e"
+  },
+  {
+   "titre": "Le Cégep de Lanaudière accueille près de 7 600 étudiants, 10 % de plus qu'à l'automne 2025",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Terrebonne (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/10-detudiants-supplementaire-au-cegep-de-lanaudiere/",
+   "resume": "Les données préliminaires d'inscription à la formation régulière du Cégep de Lanaudière montrent une hausse de près de 10 % pour l'automne 2026, à près de 7 600 étudiants, une croissance que l'établissement rattache à l'augmentation de la population régionale. Le collège constituant de Terrebonne ouvre dès cette session un pavillon D voisin du bâtiment principal, avec des salles de classe additionnelles et 70 places de stationnement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T14:56-04:00",
+   "permalien": "le-cegep-de-lanaudiere-accueille-pres-de-7-600-etudiants-10-c28be5",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/10-detudiants-supplementaire-au-cegep-de-lanaudiere/"
+    }
+   ],
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-01.json",
+   "_slug": "le-cegep-de-lanaudiere-accueille-pres-de-7-600-etudiants-10-c28be5"
   },
   {
    "titre": "Sommet de l'OCS : le premier ministre indien Narendra Modi presse Vladimir Poutine de mettre fin à la guerre en Ukraine",
