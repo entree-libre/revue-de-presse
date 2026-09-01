@@ -2,6 +2,7 @@
  "date": "2026-09-01",
  "volets": [
   "continu",
+  "economie-opinions",
   "elections",
   "hors-rss",
   "monde",
@@ -190,23 +191,29 @@
    "_slug": "unifor-entame-ses-negociations-collectives-avec-stellantis-aca331"
   },
   {
-   "titre": "Le congé de taxe d'accise sur l'essence ne devrait pas être prolongé, selon un expert",
+   "titre": "Taxe d'accise sur l'essence : faut-il laisser le congé prendre fin le 8 septembre?",
    "cahier": "canada",
-   "rubrique": "économie",
+   "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Le Journal de Montréal",
+   "medias": "QUB radio, Le Journal de Montréal",
    "url": "https://www.qub.ca/2026/09/01/pas-une-bonne-idee-de-prolonger-le-conge-de-taxe-daccise-sur-lessence-dit-un-expert",
-   "resume": "Un expert cité par Le Journal de Montréal estime qu'Ottawa ne peut pas se permettre de prolonger au-delà de lundi prochain le congé de taxe d'accise sur l'essence.",
-   "photo": "",
-   "legende": "",
+   "resume": "L'économiste Pierre-Olivier Pineau, de HEC Montréal, juge qu'Ottawa ne devrait pas prolonger au-delà du 8 septembre le congé de 10 ¢ sur la taxe d'accise fédérale sur l'essence, décrété en avril : une baisse temporaire, prévient-il, finit par devenir permanente et prive l'État de revenus, comme cela s'est produit en Ontario.\n\nLe chroniqueur du Journal de Montréal Francis Gosselin plaide le contraire : la conjoncture énergétique s'est détériorée depuis avril — détroit d'Ormuz toujours fermé, réserve stratégique américaine tombée à 289 millions de barils contre 727 millions en 2010, tarifs américains qui ont renchéri de plus de 3 G$ le coût de l'aluminium et des pièces automobiles —, ce qui rend le retour de la taxe intenable, selon lui.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Petro-Canada_station_at_night%2C_Quebec_City.jpg/1280px-Petro-Canada_station_at_night%2C_Quebec_City.jpg",
+   "legende": "Une station-service à Québec.",
    "horodate": "2026-09-01T16:03-04:00",
    "sources": [
     {
-     "media": "Le Journal de Montréal",
+     "media": "QUB radio",
      "url": "https://www.qub.ca/2026/09/01/pas-une-bonne-idee-de-prolonger-le-conge-de-taxe-daccise-sur-lessence-dit-un-expert"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/01/carney-doit-maintenir-la-baisse-de-taxe-sur-lessence"
     }
    ],
    "permalien": "le-conge-de-taxe-d-accise-sur-l-essence-ne-devrait-pas-etre-78d9e8",
+   "photo_auteur": "Wilfredor",
+   "photo_licence": "CC BY-SA 4.0",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-01.json",
    "_slug": "le-conge-de-taxe-d-accise-sur-l-essence-ne-devrait-pas-etre-78d9e8"
@@ -354,6 +361,252 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-01.json",
    "_slug": "celine-dion-multiplie-les-gestes-envers-ses-admirateurs-a-pa-6f74c6"
+  },
+  {
+   "titre": "Téléphérique entre Québec et Lévis : frivolité ou piste sérieuse pour un troisième lien?",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Québec / Lévis",
+   "medias": "Le Journal de Montréal, La Presse",
+   "url": "https://www.journaldemontreal.com/2026/09/01/un-telepherique-entre-quebec-et-levis-sans-blague",
+   "resume": "La chroniqueuse du Journal de Montréal Karine Gagnon juge « farfelue » l'idée d'un téléphérique entre Québec et Lévis, évoquée par le maire de Lévis Steven Blaney — deux contrats de gré à gré de 25 000 $ ont été accordés pour l'étudier, selon Le Soleil —, alors que la ville fait face à une crise de ses infrastructures d'eaux usées et à des poursuites de promoteurs totalisant 31 M$.\n\nDans La Presse, Germain Lamonde, fondateur d'EXFO, plaide au contraire pour étudier sérieusement un troisième lien consacré au transport collectif — téléphérique ou tunnel, sur le modèle du lien Montréal-Longueuil —, qu'il chiffre à plus de 90 % moins cher et 80 % plus rapide à réaliser qu'un lien routier classique.",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/01/un-telepherique-entre-quebec-et-levis-sans-blague"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-08-31/et-si-le-troisieme-lien-n-etait-pas-un-pont.php"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Levis_viewed_from_Quebec_City_2.jpg/1280px-Levis_viewed_from_Quebec_City_2.jpg",
+   "legende": "Lévis, vue depuis Québec, de l'autre côté du fleuve Saint-Laurent.",
+   "horodate": "2026-09-01T16:30-04:00",
+   "photo_auteur": "Wilfredor",
+   "photo_licence": "CC0",
+   "permalien": "telepherique-entre-quebec-et-levis-frivolite-ou-piste-serieu-d73caf",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-01.json",
+   "_slug": "telepherique-entre-quebec-et-levis-frivolite-ou-piste-serieu-d73caf"
+  },
+  {
+   "titre": "La vente de la Banque Laurentienne à Fairstone franchit son dernier obstacle réglementaire",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Conseiller (La Presse Canadienne)",
+   "url": "https://conseiller.ca/nouvelles/la-vente-de-la-banque-laurentienne-franchit-le-dernier-obstacle/",
+   "resume": "L'Organisme canadien de réglementation des investissements et les autorités en valeurs mobilières ont donné leur feu vert à la scission et à la vente de la Banque Laurentienne, selon La Presse Canadienne : la Banque Fairstone acquerra l'institution montréalaise pour 1,9 G$, clôture prévue le 1er novembre, tandis que les activités de détail — et les 700 employés qui s'y consacrent — passeront à la Banque Nationale.",
+   "sources": [
+    {
+     "media": "Conseiller",
+     "url": "https://conseiller.ca/nouvelles/la-vente-de-la-banque-laurentienne-franchit-le-dernier-obstacle/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Banque_Laurentienne_building_%40_Ville-Marie_%40_Montreal_%2829782167343%29.jpg/1280px-Banque_Laurentienne_building_%40_Ville-Marie_%40_Montreal_%2829782167343%29.jpg",
+   "legende": "Le siège social de la Banque Laurentienne, à Montréal.",
+   "horodate": "2026-09-01T16:30-04:00",
+   "photo_auteur": "Guilhem Vellut",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "la-vente-de-la-banque-laurentienne-a-fairstone-franchit-son-f15f71",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-01.json",
+   "_slug": "la-vente-de-la-banque-laurentienne-a-fairstone-franchit-son-f15f71"
+  },
+  {
+   "titre": "Le forage pétrolier de Greenland Energy au Groenland reporté d'un an",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Groenland",
+   "medias": "La Presse, Le Devoir",
+   "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-01/groenland/l-exploration-petroliere-de-greenland-energy-repoussee-d-un-an.php",
+   "resume": "Le gouvernement groenlandais a demandé plus de temps pour examiner le projet de forage de l'américaine Greenland Energy dans le bassin de la Terre de Jameson, reportant l'opération à l'automne 2027, selon La Presse Canadienne ; le directeur général Robert Price affirme que l'entreprise reste engagée au Groenland malgré ce contretemps qu'il juge surmontable.\n\nLa compagnie maritime québécoise Desgagnés, pressentie pour le transport, précise n'avoir chargé ni prévu de charger aucune cargaison vers le Groenland dans le cadre de ce projet.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-01/groenland/l-exploration-petroliere-de-greenland-energy-repoussee-d-un-an.php"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005455/firme-americaine-greenland-energy-repousse-projet-exploration-petroliere-groenland"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/South_of_Ittoqqortoormiit%2C_Greenland%2C_September_2007.jpg/1280px-South_of_Ittoqqortoormiit%2C_Greenland%2C_September_2007.jpg",
+   "legende": "La côte est du Groenland, près d'Ittoqqortoormiit, à proximité du bassin visé par le forage.",
+   "horodate": "2026-09-01T16:30-04:00",
+   "photo_auteur": "Amy Balkin",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "le-forage-petrolier-de-greenland-energy-au-groenland-reporte-1d0a86",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-01.json",
+   "_slug": "le-forage-petrolier-de-greenland-energy-au-groenland-reporte-1d0a86"
+  },
+  {
+   "titre": "Guerre commerciale : Schwartz's remplace son soda américain par une marque québécoise",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Le Devoir (La Presse Canadienne)",
+   "url": "https://www.ledevoir.com/economie/1005575/deli-schwartz-remplace-boisson-gazeuse-americaine-alternative-locale",
+   "resume": "Le fabricant Refresco ayant cessé de produire au Canada le soda à la cerise noire Cott — notamment à cause des droits de douane américains sur l'aluminium, selon le directeur général de Schwartz's Frank Silva —, l'emblématique charcuterie montréalaise est passée à la marque Fleischer's, produite à Saint-Hyacinthe, selon La Presse Canadienne.\n\nLe professeur Saibal Ray, de l'Université McGill, explique que les canettes, en bonne partie fabriquées aux États-Unis à partir d'aluminium canadien, subissent deux droits de douane distincts, ce qui évince du marché des produits de niche à faibles marges comme ce soda.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005575/deli-schwartz-remplace-boisson-gazeuse-americaine-alternative-locale"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Schwartz%27s_Deli%2C_February_23%2C_2024.jpg/1280px-Schwartz%27s_Deli%2C_February_23%2C_2024.jpg",
+   "legende": "Le restaurant Schwartz's, sur le boulevard Saint-Laurent à Montréal.",
+   "horodate": "2026-09-01T16:30-04:00",
+   "photo_auteur": "D. Benjamin Miller",
+   "photo_licence": "CC0",
+   "permalien": "guerre-commerciale-schwartz-s-remplace-son-soda-americain-pa-62c656",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-01.json",
+   "_slug": "guerre-commerciale-schwartz-s-remplace-son-soda-americain-pa-62c656"
+  },
+  {
+   "titre": "Les dépenses en immobilisations de l'industrie pétrolière et gazière ont bondi de 7,2 % au deuxième trimestre",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Statistique Canada",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260901/dq260901a-fra.htm",
+   "resume": "Les dépenses en immobilisations des industries de l'extraction de pétrole et de gaz ont atteint 11,0 G$ au deuxième trimestre de 2026, en hausse de 7,2 % par rapport au trimestre précédent, selon des données désaisonnalisées de Statistique Canada.",
+   "sources": [
+    {
+     "media": "Statistique Canada",
+     "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260901/dq260901a-fra.htm"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/31_Pumpjack_in_oil_well_-_oil_industry_in_Alberta%2C_Canada.jpg/1280px-31_Pumpjack_in_oil_well_-_oil_industry_in_Alberta%2C_Canada.jpg",
+   "legende": "Un puits de pétrole en Alberta.",
+   "horodate": "2026-09-01T16:30-04:00",
+   "photo_auteur": "Marek Ślusarczyk (Tupungato)",
+   "photo_licence": "CC BY 3.0",
+   "permalien": "les-depenses-en-immobilisations-de-l-industrie-petroliere-et-c9f0b5",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-01.json",
+   "_slug": "les-depenses-en-immobilisations-de-l-industrie-petroliere-et-c9f0b5"
+  },
+  {
+   "titre": "L'IRIS retrace 30 ans de dérive vers le marché dans la politique du logement au Québec",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "IRIS",
+   "url": "https://iris-recherche.qc.ca/blogue/logement/serie-neoliberalisme-logement/",
+   "resume": "Dans une analyse publiée mardi, le chercheur Louis Gaudreau, de l'IRIS — qui plaide pour une intervention publique accrue en habitation —, montre que le gouvernement du Québec a remplacé en 2023 le logement social subventionné par un programme de « logement abordable » financé par prêts, dont près de la moitié des unités se louent jusqu'à 150 % du loyer médian du marché ; à Montréal, un cinq et demie à 1975 $ par mois répond à ce critère.",
+   "sources": [
+    {
+     "media": "IRIS",
+     "url": "https://iris-recherche.qc.ca/blogue/logement/serie-neoliberalisme-logement/"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Le_V%2C_Montreal%2C_Quebec_%2829774299680%29.jpg/1280px-Le_V%2C_Montreal%2C_Quebec_%2829774299680%29.jpg",
+   "legende": "Un immeuble résidentiel à Montréal.",
+   "horodate": "2026-09-01T16:30-04:00",
+   "photo_auteur": "Ken Lund",
+   "photo_licence": "CC BY-SA 2.0",
+   "permalien": "l-iris-retrace-30-ans-de-derive-vers-le-marche-dans-la-polit-a595d8",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-01.json",
+   "_slug": "l-iris-retrace-30-ans-de-derive-vers-le-marche-dans-la-polit-a595d8"
+  },
+  {
+   "titre": "Le Canada a commandé des avions-citernes qu'il ne peut pas encore construire, prévient un expert en aviation",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-08-31/le-canada-promet-des-avions-citernes-qu-il-ne-peut-pas-construire.php",
+   "resume": "Le chargé de cours en gestion de l'aviation à l'Université McGill John Gradek souligne que De Havilland détient 38 commandes pour son nouvel avion-citerne DHC-515 — dont 14 canadiennes —, mais que son usine en construction au nord de Calgary ne pourra produire qu'une dizaine d'appareils par an, la chaîne de quelque 50 000 pièces montées à la main s'étant dissoute depuis l'arrêt de la production par Bombardier en 2015 ; à ce rythme, une commande signée aujourd'hui ne serait livrée que vers 2031.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-08-31/le-canada-promet-des-avions-citernes-qu-il-ne-peut-pas-construire.php"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/CL-415_Water_Bomber_at_CFB_Goose_Bay.jpg/1280px-CL-415_Water_Bomber_at_CFB_Goose_Bay.jpg",
+   "legende": "Un avion-citerne CL-415, le modèle que le DHC-515 doit remplacer.",
+   "horodate": "2026-09-01T16:30-04:00",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "le-canada-a-commande-des-avions-citernes-qu-il-ne-peut-pas-e-8050f4",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-01.json",
+   "_slug": "le-canada-a-commande-des-avions-citernes-qu-il-ne-peut-pas-e-8050f4"
+  },
+  {
+   "titre": "Une experte en neurosciences s'inquiète d'une « dette cognitive » chez les ados avec ChatGPT for Teens",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-01/openai-n-est-pas-le-ministere-de-l-education.php",
+   "resume": "Alors qu'OpenAI déployait le 18 août ChatGPT for Teens pour les 13 à 17 ans, l'experte en neurosciences et cyberpsychologie Mélissa Canseliet souligne qu'une étude de l'Académie des sciences américaine, menée auprès de plus de 1000 élèves du secondaire, montre qu'une fois l'outil d'IA retiré, ceux qui l'avaient utilisé performent moins bien que ceux qui n'y avaient jamais touché.\n\nAu Québec, précise-t-elle, près de 7 jeunes adultes sur 10 se sont déjà tournés vers l'IA pour des raisons de santé mentale, alors qu'à peine un enseignant sur six a été formé à en encadrer l'usage.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-01/openai-n-est-pas-le-ministere-de-l-education.php"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T16:30-04:00",
+   "permalien": "une-experte-en-neurosciences-s-inquiete-d-une-dette-cognitiv-5f4f1f",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-01.json",
+   "_slug": "une-experte-en-neurosciences-s-inquiete-d-une-dette-cognitiv-5f4f1f"
+  },
+  {
+   "titre": "TGV Toronto-Québec : un document interne évalue la facture à 150 G$, Alto et l'UPA s'opposent sur ses impacts",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/08/31/une-facture-de-150-g-pour-le-tgv-toronto-quebec",
+   "resume": "Un document interne obtenu par The Globe and Mail chiffre à 150 G$ le coût total du futur train à grande vitesse Toronto-Québec sur quarante ans d'exploitation, alors qu'Alto, le promoteur du projet, l'évalue plutôt entre 60 et 90 G$ pour sa réalisation et rétorque que l'étude citée date de trois ans et ne tient pas compte des revenus attendus, selon Le Journal de Montréal.\n\nL'Union des producteurs agricoles dénonce un tracé Montréal-Ottawa qui traverserait environ 1700 propriétés, dont au moins 500 terres agricoles.",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/31/une-facture-de-150-g-pour-le-tgv-toronto-quebec"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Brampton_ON_VIA-Rail-Canada_Passenger-Train_2025-01-12.jpg/1280px-Brampton_ON_VIA-Rail-Canada_Passenger-Train_2025-01-12.jpg",
+   "legende": "Un train de VIA Rail sur le corridor Québec-Windsor, que le futur TGV emprunterait.",
+   "horodate": "2026-09-01T16:30-04:00",
+   "photo_auteur": "Milan Suvajac",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "tgv-toronto-quebec-un-document-interne-evalue-la-facture-a-1-585ccd",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-01.json",
+   "_slug": "tgv-toronto-quebec-un-document-interne-evalue-la-facture-a-1-585ccd"
+  },
+  {
+   "titre": "Dollarama mieux placée que ses rivaux pour absorber le choc de la guerre tarifaire, selon des analystes",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/08/31/guerre-commerciale--dollarama-mieux-armee-pour-absorber-le-choc",
+   "resume": "Dollarama est l'un des détaillants les mieux positionnés pour continuer d'offrir des prix bas malgré la guerre tarifaire entre Washington et Ottawa, grâce à son approvisionnement direct, estime l'analyste Brett Husslein, de Morningstar ; l'entreprise reste de 40 % à 50 % moins chère que Walmart dans plusieurs catégories, selon Chris Li, de Desjardins, et a ouvert dix magasins de plus au Québec en 2026, pour un total de 435, selon Le Journal de Montréal.",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/31/guerre-commerciale--dollarama-mieux-armee-pour-absorber-le-choc"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Dollarama_Clemenceau.jpg/1280px-Dollarama_Clemenceau.jpg",
+   "legende": "Un magasin Dollarama.",
+   "horodate": "2026-09-01T16:30-04:00",
+   "photo_auteur": "Gabriel Picard",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "dollarama-mieux-placee-que-ses-rivaux-pour-absorber-le-choc-60821a",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-01.json",
+   "_slug": "dollarama-mieux-placee-que-ses-rivaux-pour-absorber-le-choc-60821a"
   },
   {
    "titre": "Un candidat conservateur dans Chutes-de-la-Chaudière rattrapé par ses propos passés sur X",
@@ -4383,18 +4636,22 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "États-Unis",
-   "medias": "The Globe and Mail",
+   "medias": "The Globe and Mail, Les Affaires",
    "url": "https://www.theglobeandmail.com/business/article-amazon-ftc-lawsuit-us-states/",
    "resume": "La Federal Trade Commission a poursuivi Amazon lundi, rejointe par plus d'une vingtaine d'États américains, en alléguant que l'entreprise a manipulé les prix des publicités vendues sur sa plateforme de commerce en ligne et trompé les annonceurs. Le titre d'Amazon reculait de 2,44 % en séance au moment du dépôt.",
    "sources": [
     {
      "media": "The Globe and Mail",
      "url": "https://www.theglobeandmail.com/business/article-amazon-ftc-lawsuit-us-states/"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/commerce-de-detail/publicites-surfacturees-en-secret-amazon-poursuivi-aux-etats-unis/"
     }
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Amazon_Fulfillment_Center%2C_Ocala.jpg/1280px-Amazon_Fulfillment_Center%2C_Ocala.jpg",
    "legende": "Un centre de distribution d'Amazon à Ocala, en Floride.",
-   "horodate": "2026-08-31T16:18-04:00",
+   "horodate": "2026-09-01T16:30-04:00",
    "photo_auteur": "Michael Rivera",
    "photo_licence": "CC0",
    "permalien": "la-ftc-et-plus-de-vingt-etats-americains-poursuivent-amazon-07c679",
@@ -4477,9 +4734,9 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "The Globe and Mail, Les Affaires",
+   "medias": "The Globe and Mail, Les Affaires, La Presse",
    "url": "https://www.theglobeandmail.com/business/commentary/article-canada-auto-sector-us-trade-trump-tariffs/",
-   "resume": "Tom MacDonald, ancien directeur de la politique automobile au ministère de l'Industrie et membre de l'équipe canadienne de négociation de l'ALENA, soutient que le marché automobile nord-américain intégré ne peut pas survivre à la menace d'un droit de douane de 50 % sur les véhicules annoncée par Donald Trump pour janvier, le président ayant répété dimanche ne vouloir ni voitures ni pièces canadiennes.\n\nAu même moment, Unifor entame mardi ses négociations collectives avec Stellantis, après avoir ratifié de nouvelles conventions chez General Motors et chez Ford.",
+   "resume": "Tom MacDonald, ancien directeur de la politique automobile au ministère de l'Industrie et membre de l'équipe canadienne de négociation de l'ALENA, soutient que le marché automobile nord-américain intégré ne peut pas survivre à la menace d'un droit de douane de 50 % sur les véhicules annoncée par Donald Trump pour janvier, le président ayant répété dimanche ne vouloir ni voitures ni pièces canadiennes.\n\nAu même moment, Unifor entame mardi ses négociations collectives avec Stellantis, après avoir ratifié de nouvelles conventions chez General Motors et chez Ford.\n\n**Mise à jour, 16 h 30** — Unifor a amorcé mardi ses négociations avec Stellantis en promettant de se battre pour empêcher la fermeture définitive de l'usine de Brampton, dont la production du Jeep Compass avait été déplacée aux États-Unis après l'annonce des tarifs de Donald Trump, tout en cherchant à sécuriser les volumes de production à Windsor et à Toronto, selon le Globe and Mail.",
    "sources": [
     {
      "media": "The Globe and Mail",
@@ -4488,11 +4745,15 @@
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/manufacturier/unifor-se-concentre-sur-stellantis-apres-avoir-conclu-des-accords-avec-gm-et-ford/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-09-01/industrie-automobile/stellantis-et-unifor-entament-les-negociations-collectives.php"
     }
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Windsor_Assembly_Plant_1.jpg/1280px-Windsor_Assembly_Plant_1.jpg",
    "legende": "L'usine d'assemblage de Windsor, en Ontario, exploitée par Stellantis.",
-   "horodate": "2026-08-31T16:18-04:00",
+   "horodate": "2026-09-01T16:30-04:00",
    "photo_auteur": "Decimal10",
    "photo_licence": "CC BY-SA 3.0",
    "permalien": "un-ancien-negociateur-de-l-alena-juge-l-industrie-automobile-6413d5",
