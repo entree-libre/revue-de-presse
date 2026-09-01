@@ -30,7 +30,7 @@
  <button onclick="sz(-.1)">A&minus;</button>
 </div>
 
-<nav class="cahiers"><a data-cahier="elections" href="../elections.html"><span class="lbl">Élections Québec 2026 <span class='n'>34</span></span></a><a class='on' data-cahier="quebec" href="../quebec.html"><span class="lbl">Québec et ses régions <span class='n'>41</span></span></a><a data-cahier="montreal" href="../montreal.html"><span class="lbl">Montréal et sa région <span class='n'>6</span></span></a><a data-cahier="canada" href="../canada.html"><span class="lbl">Canada <span class='n'>20</span></span></a><a data-cahier="international" href="../international.html"><span class="lbl">International <span class='n'>46</span></span></a><a data-cahier="savoirs" href="../savoirs.html"><span class="lbl">Savoirs <span class='n'>31</span></span></a></nav>
+<nav class="cahiers"><a data-cahier="elections" href="../elections.html"><span class="lbl">Élections Québec 2026 <span class='n'>37</span></span></a><a class='on' data-cahier="quebec" href="../quebec.html"><span class="lbl">Québec et ses régions <span class='n'>41</span></span></a><a data-cahier="montreal" href="../montreal.html"><span class="lbl">Montréal et sa région <span class='n'>6</span></span></a><a data-cahier="canada" href="../canada.html"><span class="lbl">Canada <span class='n'>20</span></span></a><a data-cahier="international" href="../international.html"><span class="lbl">International <span class='n'>46</span></span></a><a data-cahier="savoirs" href="../savoirs.html"><span class="lbl">Savoirs <span class='n'>31</span></span></a></nav>
 <div class="sujet">
 <div class="col-texte">
 <div class="fil"><a href="../index.html">La une</a> › <a href="../quebec.html">Québec et ses régions</a> › Société et culture</div>
@@ -60,10 +60,10 @@
 <script>window.VU={slug:"saint-jerome-entreprend-sa-premiere-politique-municipale-en-bd8ec7",emp:"e272009ba7"};</script>
 <footer class="pied">
 <h5>Contrôle</h5>
-<p>178 sujets. Médiane de 2.0 phrases par résumé.
-37 % des sujets reposent sur deux médias ou plus.
+<p>181 sujets. Médiane de 2 phrases par résumé.
+38 % des sujets reposent sur deux médias ou plus.
 Dépouillement : elections, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>119 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
+<h5>Sources</h5><p>127 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>43 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -227,7 +227,43 @@ function vusAppliquer(){
   }
  });}
 /* Oublier l'historique de lecture : tout redevient neuf, ici et maintenant. */
-function vusOublier(){MAGASIN.oublier('revue-vus');vusAppliquer();}
+function vusOublier(){MAGASIN.oublier('revue-vus');MAGASIN.oublier('revue-sources');
+ vusAppliquer();srcAppliquer();}
+
+/* ---- les vrais articles, chez les vrais journaux : ouverts ou non ----
+   Le journal réécrit ; les articles d'origine vivent chez les médias, et un
+   sujet en cite souvent trois. Savoir lequel on a déjà ouvert évite de
+   rouvrir le même et montre ce qu'il reste à lire.
+   La clé est une empreinte courte de l'adresse, jamais l'adresse : ce magasin
+   n'a aucun besoin de relire l'URL, et un historique de lecture en clair dans
+   le navigateur n'a pas de raison d'exister. Même magasin que le reste, donc
+   il suivra le compte le jour venu. */
+function srcCle(u){var h=0,i;
+ for(i=0;i<u.length;i++)h=((h<<5)-h+u.charCodeAt(i))|0;
+ return (h>>>0).toString(36);}
+function srcMarquer(u){if(!u)return;
+ var v=MAGASIN.lire('revue-sources');v[srcCle(u)]=Date.now();
+ var k=Object.keys(v);
+ if(k.length>1200){k.sort(function(a,b){return v[a]-v[b];});
+  k.slice(0,k.length-1200).forEach(function(s){delete v[s];});}
+ MAGASIN.ecrire('revue-sources',v);}
+function srcAppliquer(){
+ var v=MAGASIN.lire('revue-sources');
+ document.querySelectorAll('a.src-btn[href]').forEach(function(a){
+  var act=a.querySelector('.src-action');if(!act)return;
+  if(!act.dataset.neuf)act.dataset.neuf=act.textContent;
+  var lu=!!v[srcCle(a.getAttribute('href'))];
+  a.classList.toggle('src-lu',lu);
+  act.textContent=lu?'✓ Déjà ouvert — relire →':act.dataset.neuf;});}
+/* Le bouton ouvre un autre onglet : la page reste sous les yeux, l'état doit
+   donc basculer tout de suite. `auxclick` attrape le clic du milieu, qui
+   ouvre aussi l'article sans passer par `click`. */
+function srcClic(e){
+ var n=(e.target&&e.target.nodeType===1)?e.target:(e.target&&e.target.parentElement);
+ var a=n&&n.closest?n.closest('a.src-btn'):null;
+ if(!a)return; srcMarquer(a.getAttribute('href')); srcAppliquer();}
+document.addEventListener('click',srcClic);
+document.addEventListener('auxclick',srcClic);
 
 /* Une carte compte comme « vue » apres une pause d'environ 1,2 s dans la
    moitie centrale de l'ecran : un defilement rapide d'un bout a l'autre de
@@ -271,6 +307,7 @@ function observerLecture(){
 document.addEventListener('DOMContentLoaded',function(){
  if(window.VU)vuMarquer(VU.slug,VU.emp);
  vusAppliquer();
+ srcAppliquer();
  observerLecture();
 });
 </script></body></html>

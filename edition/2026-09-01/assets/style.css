@@ -62,7 +62,7 @@ img{max-width:100%}
 
 /* ------------------------------------------------------ barres de navigation */
 .toolbar{position:sticky;top:0;z-index:30;background:var(--bg);
- border-bottom:1px solid var(--rule);padding:.45rem 0;display:flex;gap:.35rem;
+ padding:.45rem 0;display:flex;gap:.35rem;
  min-height:var(--h-barre);
  flex-wrap:wrap;align-items:center;font-family:var(--ui);font-size:.74rem}
 .toolbar button{font-family:inherit;font-size:.74rem;background:transparent;
@@ -320,6 +320,15 @@ figcaption{font-family:var(--ui);font-size:.72rem;color:var(--muted);
 .src-btn:hover{border-color:var(--accent-txt);background:var(--accent);
  transform:translateY(-2px);box-shadow:0 6px 16px var(--ombre)}
 .src-btn:hover .src-nom,.src-btn:hover .src-action{color:var(--accent-fg)}
+/* L'article d'origine déjà ouvert. On grise le TEXTE, pas le bouton entier :
+   `opacity` sur le parent s'applique à toute sa descendance et aucune règle
+   enfant ne la rattrape — le logo du média serait parti avec, alors que c'est
+   justement à lui qu'on reconnaît la ligne d'un coup d'œil. Le bouton reste
+   par ailleurs pleinement invitant : c'est le seul chemin vers le texte
+   intégral, et on relit un article. */
+.src-btn.src-lu .src-nom{color:var(--muted)}
+.src-btn.src-lu .src-action{color:var(--muted);font-weight:500}
+.src-btn.src-lu:hover .src-nom,.src-btn.src-lu:hover .src-action{color:var(--accent-fg)}
 .src-id{display:flex;align-items:center;gap:.75rem;min-width:0}
 .src-logo{width:2.1rem;height:2.1rem;border-radius:.4rem;background:#fff;
  object-fit:contain;flex:0 0 auto;box-shadow:0 0 0 1px var(--rule);
