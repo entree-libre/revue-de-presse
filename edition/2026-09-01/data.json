@@ -2,6 +2,7 @@
  "date": "2026-09-01",
  "volets": [
   "elections",
+  "monde",
   "report",
   "savoirs"
  ],
@@ -181,6 +182,704 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-01.json",
    "_slug": "un-appel-aux-partis-tenir-des-etats-generaux-sur-l-environne-1ede73"
+  },
+  {
+   "titre": "Sommet de l'OCS : le premier ministre indien Narendra Modi presse Vladimir Poutine de mettre fin à la guerre en Ukraine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Kirghizstan, Inde, Russie",
+   "medias": "CNBC, The Kyiv Independent, The Independent, ABC News Australia",
+   "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+   "resume": "En marge du sommet de l'Organisation de coopération de Shanghai à Bichkek, au Kirghizstan, le premier ministre indien Narendra Modi a exhorté Vladimir Poutine à passer « d'une guerre sans fin à la fin de la guerre » en Ukraine, selon CNBC et The Kyiv Independent. Le président chinois Xi Jinping et le président iranien Massoud Pezeshkian participaient aussi à cette rencontre régionale, une semaine après la reprise des frappes américaines contre l'Iran.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "CNBC",
+     "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html"
+    },
+    {
+     "media": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/indias-prime-minister-tells-putin-to-end-endless-war-against-ukraine/"
+    },
+    {
+     "media": "The Independent",
+     "url": "https://www.independent.co.uk/news/world/europe/russia-ukraine-modi-putin-war-peace-b3042456.html"
+    },
+    {
+     "media": "ABC News Australia",
+     "url": "https://www.abc.net.au/news/2026-09-01/modi-tells-putin-the-war-in-ukraine-must-end/107101112"
+    }
+   ],
+   "permalien": "sommet-de-l-ocs-le-premier-ministre-indien-narendra-modi-pre-e22c34",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "sommet-de-l-ocs-le-premier-ministre-indien-narendra-modi-pre-e22c34"
+  },
+  {
+   "titre": "Guerre en Ukraine : Zelensky fait état de douze morts dans des frappes russes nocturnes, dont un ressortissant indien",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "Associated Press, India Today, The Guardian",
+   "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-kyiv-odesa-7564a892bfb99a853aa150c8710b7985",
+   "resume": "Le président ukrainien Volodymyr Zelensky a fait état lundi d'au moins douze morts dans des frappes russes menées durant la nuit à travers le pays, dont un ressortissant indien, selon l'Associated Press et India Today. L'attaque survient alors que le premier ministre indien Narendra Modi rencontrait au même moment Vladimir Poutine au sommet de l'OCS pour l'exhorter à mettre fin à la guerre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Associated Press",
+     "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-kyiv-odesa-7564a892bfb99a853aa150c8710b7985"
+    },
+    {
+     "media": "India Today",
+     "url": "https://www.indiatoday.in/world/story/indian-national-among-12-killed-in-latest-russian-strikes-on-ukraine-says-zelenskyy-2984337-2026-09-01"
+    },
+    {
+     "media": "The Guardian",
+     "url": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates"
+    }
+   ],
+   "permalien": "guerre-en-ukraine-zelensky-fait-etat-de-douze-morts-dans-des-54601f",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "guerre-en-ukraine-zelensky-fait-etat-de-douze-morts-dans-des-54601f"
+  },
+  {
+   "titre": "Crise migratoire à Ceuta : Israël rejette les accusations de désinformation formulées par le premier ministre espagnol",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Espagne, Israël",
+   "medias": "Euronews",
+   "url": "https://fr.euronews.com/my-europe/2026/08/31/crise-a-ceuta-sanchez-accuse-la-russie-et-israel-davoir-alimente-la-desinformation",
+   "resume": "Le premier ministre espagnol Pedro Sánchez a affirmé lundi que la Russie et Israël avaient diffusé et amplifié de fausses informations sur l'afflux de migrants survenu le mois dernier à Ceuta, évoquant une « internationale d'ultradroite », selon Euronews. Israël a rejeté ces accusations, portées alors même que l'Espagne avait disculpé le Maroc dans cette affaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/my-europe/2026/08/31/crise-a-ceuta-sanchez-accuse-la-russie-et-israel-davoir-alimente-la-desinformation"
+    }
+   ],
+   "permalien": "crise-migratoire-a-ceuta-israel-rejette-les-accusations-de-d-f829aa",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "crise-migratoire-a-ceuta-israel-rejette-les-accusations-de-d-f829aa"
+  },
+  {
+   "titre": "Guerre en Ukraine : Elon Musk s'oppose à l'usage de Starlink pour des frappes contre la Russie",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, États-Unis",
+   "medias": "The Kyiv Independent, L'Indépendant",
+   "url": "https://kyivindependent.com/musk-opposes-allowing-ukraine-to-use-starlink-for-strikes-on-russia-despite-recent-media-reports-sources-say/",
+   "resume": "Elon Musk continue de s'opposer à ce que le réseau satellitaire Starlink serve à des frappes ukrainiennes contre la Russie, selon The Kyiv Independent, malgré des informations selon lesquelles son usage aurait déjà été toléré pour certaines opérations. Des analystes militaires soulignent que la combinaison du renseignement américain, de l'intelligence artificielle et de Starlink est devenue un pilier de la capacité de l'Ukraine à mener sa guerre de drones.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/musk-opposes-allowing-ukraine-to-use-starlink-for-strikes-on-russia-despite-recent-media-reports-sources-say/"
+    },
+    {
+     "media": "L'Indépendant",
+     "url": "https://www.lindependant.fr/2026/09/01/guerre-en-ukraine-il-souhaite-un-accord-dans-cette-guerre-pas-une-escalade-elon-musk-continue-dentretenir-le-flou-sur-lusage-de-starlink-pour-les-13529888.php"
+    }
+   ],
+   "permalien": "guerre-en-ukraine-elon-musk-s-oppose-a-l-usage-de-starlink-p-3a0d6e",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "guerre-en-ukraine-elon-musk-s-oppose-a-l-usage-de-starlink-p-3a0d6e"
+  },
+  {
+   "titre": "Donald Trump annonce « le plus grand accord pétrolier de l'histoire » entre les États-Unis et le Venezuela",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis, Venezuela",
+   "medias": "BFMTV, Radio-Canada, RFI",
+   "url": "https://www.bfmtv.com/economie/international/les-etats-unis-pourraient-mettre-la-main-sur-20-des-reserves-petrolieres-du-venezuela-ce-que-l-on-sait-du-nouveau-deal-de-donald-trump_AD-202609010179.html",
+   "resume": "Donald Trump a qualifié sur Truth Social de « plus grand accord pétrolier de l'histoire mondiale » une entente qui donnerait à des entreprises américaines accès à plus de 65 milliards de barils vénézuéliens, doublant selon lui les réserves pétrolières des États-Unis, selon BFMTV et Radio-Canada. RFI relaie toutefois les doutes de plusieurs analystes, qui qualifient l'opération de « hold-up » sur le pétrole du Venezuela.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/economie/international/les-etats-unis-pourraient-mettre-la-main-sur-20-des-reserves-petrolieres-du-venezuela-ce-que-l-on-sait-du-nouveau-deal-de-donald-trump_AD-202609010179.html"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10749123/accord-petrolier-entre-washington-et-caracas"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260831-l-accord-annonc%C3%A9-par-donald-trump-un-hold-up-sur-le-p%C3%A9trole-v%C3%A9n%C3%A9zu%C3%A9lien"
+    }
+   ],
+   "permalien": "donald-trump-annonce-le-plus-grand-accord-petrolier-de-l-his-c3789e",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "donald-trump-annonce-le-plus-grand-accord-petrolier-de-l-his-c3789e"
+  },
+  {
+   "titre": "Finlande : la peine d'un homme condamné pour crimes de guerre en Ukraine réduite en appel",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Finlande, Ukraine",
+   "medias": "Radio Free Europe/Radio Liberty, Human Rights in Ukraine",
+   "url": "https://www.rferl.org/a/torden-petrovsky-russia-war-crimes-ukraine-finland/33844186.html",
+   "resume": "Une cour d'appel finlandaise a annulé une partie du verdict de culpabilité rendu contre un homme né en Russie pour des crimes de guerre commis en Ukraine, réduisant sa peine de la prison à vie à douze ans et demi, selon Radio Free Europe/Radio Liberty. Les faits reprochés portaient sur des exactions documentées commises sur le front ukrainien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Radio Free Europe/Radio Liberty",
+     "url": "https://www.rferl.org/a/torden-petrovsky-russia-war-crimes-ukraine-finland/33844186.html"
+    },
+    {
+     "media": "Human Rights in Ukraine",
+     "url": "https://khpg.org/en/1608816015"
+    }
+   ],
+   "permalien": "finlande-la-peine-d-un-homme-condamne-pour-crimes-de-guerre-4fac57",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "finlande-la-peine-d-un-homme-condamne-pour-crimes-de-guerre-4fac57"
+  },
+  {
+   "titre": "Le responsable ukrainien des sanctions se rend à Washington pour défendre un projet de loi sur la Russie",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, États-Unis",
+   "medias": "Reuters, Radio Free Europe/Radio Liberty, US News",
+   "url": "https://www.reuters.com/world/europe/with-us-bills-fate-balance-ukraine-lobby-us-russia-sanctions-2026-08-31/",
+   "resume": "Le haut responsable ukrainien chargé des sanctions doit se rendre cette semaine à Washington pour convaincre des élus de la Chambre des représentants d'adopter un projet de loi prévoyant de nouvelles sanctions contre la Russie, déjà approuvé par le Sénat mais freiné à la Chambre, selon Reuters. L'issue du texte reste incertaine face à l'opposition d'une partie des républicains.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Reuters",
+     "url": "https://www.reuters.com/world/europe/with-us-bills-fate-balance-ukraine-lobby-us-russia-sanctions-2026-08-31/"
+    },
+    {
+     "media": "Radio Free Europe/Radio Liberty",
+     "url": "https://www.rferl.org/a/ukraine-us-house-sanctions-russia-bill/33844600.html"
+    },
+    {
+     "media": "US News",
+     "url": "https://www.usnews.com/news/top-news/articles/2026-08-31/with-us-bills-fate-in-balance-ukraine-to-lobby-us-on-russia-sanctions"
+    }
+   ],
+   "permalien": "le-responsable-ukrainien-des-sanctions-se-rend-a-washington-d8a5b7",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "le-responsable-ukrainien-des-sanctions-se-rend-a-washington-d8a5b7"
+  },
+  {
+   "titre": "Pologne : enquête pour un acte « à caractère terroriste » après un incendie dans une usine de drones destinés à l'Ukraine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Pologne, Ukraine",
+   "medias": "Kyiv Post, Le Parisien, Ukrinform, UNITED24 Media, Anadolu Ajansı",
+   "url": "https://www.kyivpost.com/post/83432",
+   "resume": "Un incendie s'est déclaré dans la nuit à l'usine WB Electronics de Skarżysko-Kamienna, en Pologne, qui fabrique des composants de drones pour les armées polonaise et ukrainienne ; les autorités enquêtent sur un possible sabotage après qu'un intrus masqué a été repéré par des caméras de surveillance, selon Le Parisien et Kyiv Post. Le parquet polonais a ouvert une enquête pour participation aux activités d'un service de renseignement étranger et pour un acte à caractère terroriste.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/83432"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/pologne-enquete-pour-un-acte-a-caractere-terroriste-ouverte-apres-un-incendie-dans-une-usine-de-drones-31-08-2026-YMADMLQHKZBU5IOEALV2FBHPYI.php"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-emergencies/4159387-fire-at-polish-drone-manufacturer-authorities-investigate-possible-sabotage.html"
+    },
+    {
+     "media": "UNITED24 Media",
+     "url": "https://united24media.com/world/masked-intruder-seen-at-polish-drone-plant-supplying-ukraine-before-fire-breaks-out-22075"
+    },
+    {
+     "media": "Anadolu Ajansı",
+     "url": "https://aa.com.tr/en/europe/polish-intelligence-agency-probes-fire-at-factory-making-drones-for-ukraine/4042649"
+    }
+   ],
+   "permalien": "pologne-enquete-pour-un-acte-a-caractere-terroriste-apres-un-58b3fc",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "pologne-enquete-pour-un-acte-a-caractere-terroriste-apres-un-58b3fc"
+  },
+  {
+   "titre": "Bande de Gaza : cinq morts dans des frappes israéliennes, selon les secours palestiniens",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Gaza, Israël",
+   "medias": "Radio-Canada, Le Devoir, franceinfo",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279273/bande-gaza-5-morts-israel-frappes",
+   "resume": "Des frappes israéliennes ont fait cinq morts dans la bande de Gaza, dont plusieurs à la suite d'une frappe de drone visant une voiture civile dans le quartier de Tel al-Hawa, selon les services de secours palestiniens cités par Radio-Canada et Le Devoir. L'armée israélienne n'avait pas détaillé publiquement les circonstances de ces frappes au moment de ces publications.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279273/bande-gaza-5-morts-israel-frappes"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1005317/cinq-morts-gaza-frappes-israeliennes-selon-secours"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-frappes-israeliennes-font-cinq-morts-dans-la-bande-de-gaza-selon-les-secours-palestiniens_8170811.html"
+    }
+   ],
+   "permalien": "bande-de-gaza-cinq-morts-dans-des-frappes-israeliennes-selon-25c4bb",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "bande-de-gaza-cinq-morts-dans-des-frappes-israeliennes-selon-25c4bb"
+  },
+  {
+   "titre": "La Grèce achète pour trois milliards d'euros un système de défense antiaérienne israélien",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Grèce, Israël",
+   "medias": "RFI, TV5MONDE",
+   "url": "https://www.rfi.fr/fr/europe/20260901-la-gr%C3%A8ce-s-%C3%A9quipe-en-syst%C3%A8mes-anti-a%C3%A9riens-made-in-isra%C3%ABl",
+   "resume": "La Grèce a conclu avec Israël un contrat de trois milliards d'euros pour un système complet de défense aérienne baptisé « bouclier d'Achille », présenté par le ministère grec de la Défense comme l'un des accords d'armement les plus importants jamais signés par Israël, selon RFI et TV5Monde. L'accord illustre le rapprochement militaire croissant entre Athènes et Tel-Aviv.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/30765_Bell_212_358_MED_Hellenic_Air_Force_flying_over_Athens.jpg/1280px-30765_Bell_212_358_MED_Hellenic_Air_Force_flying_over_Athens.jpg",
+   "legende": "Un hélicoptère de l'armée de l'air grecque survole Athènes.",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260901-la-gr%C3%A8ce-s-%C3%A9quipe-en-syst%C3%A8mes-anti-a%C3%A9riens-made-in-isra%C3%ABl"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/bouclier-dachille-la-grece-choisit-la-defense-antimissile-israelienne-avec-un-contrat-darmement-de-3-milliards-deuros-2835655"
+    }
+   ],
+   "photo_auteur": "Jerry Gunner",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "la-grece-achete-pour-trois-milliards-d-euros-un-systeme-de-d-7430e4",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "la-grece-achete-pour-trois-milliards-d-euros-un-systeme-de-d-7430e4"
+  },
+  {
+   "titre": "Niger : une tentative de mutinerie déjouée met à l'épreuve la junte militaire",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Niger",
+   "medias": "BBC Afrique, France 24",
+   "url": "https://www.bbc.com/afrique/articles/cd94qj1e0w2o",
+   "resume": "Une tentative de mutinerie au sein de l'armée nigérienne a été déjouée, un épisode qui, selon des analystes cités par BBC Afrique et France 24, pourrait pousser la junte au pouvoir à Niamey à s'interroger sur la loyauté de ses propres forces alors qu'elle poursuit sa lutte contre les groupes djihadistes. Les autorités nigériennes n'ont pas rendu publiques les circonstances précises de cette mutinerie.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Niger%2C_Niamey%2C_Rue_NB-18_%285%29.jpg/1280px-Niger%2C_Niamey%2C_Rue_NB-18_%285%29.jpg",
+   "legende": "Une rue de Niamey, capitale du Niger.",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "BBC Afrique",
+     "url": "https://www.bbc.com/afrique/articles/cd94qj1e0w2o"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260831-niger-apr%C3%A8s-la-mutinerie-d%C3%A9jou%C3%A9e-la-junte-fragilis%C3%A9e-ou-renforc%C3%A9e"
+    }
+   ],
+   "photo_auteur": "NigerTZai",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "niger-une-tentative-de-mutinerie-dejouee-met-a-l-epreuve-la-d1fa78",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "niger-une-tentative-de-mutinerie-dejouee-met-a-l-epreuve-la-d1fa78"
+  },
+  {
+   "titre": "Le président finlandais affirme que la Chine s'est engagée à empêcher la Russie de recourir à l'arme nucléaire",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Finlande, Chine, Russie",
+   "medias": "Politico",
+   "url": "https://www.politico.eu/article/china-wont-let-russia-use-nukes-finlands-alexander-stubb-says/",
+   "resume": "Le président finlandais Alexander Stubb affirme que le ministre chinois des Affaires étrangères Wang Yi lui a assuré, lors d'une rencontre à Helsinki en juillet, que Pékin n'autoriserait « jamais » Moscou à utiliser l'arme nucléaire dans sa guerre contre l'Ukraine, selon Politico. Stubb, dont le pays partage 1300 kilomètres de frontière avec la Russie, y voit une « assez bonne dissuasion » et appelle les Européens à garder leur calme face aux tentatives russes de les maintenir focalisés sur cette menace.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Politico",
+     "url": "https://www.politico.eu/article/china-wont-let-russia-use-nukes-finlands-alexander-stubb-says/"
+    }
+   ],
+   "permalien": "le-president-finlandais-affirme-que-la-chine-s-est-engagee-a-2bd965",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "le-president-finlandais-affirme-que-la-chine-s-est-engagee-a-2bd965"
+  },
+  {
+   "titre": "En Chine, la capacité installée d'énergie solaire dépasse pour la première fois celle du charbon",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Chine",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/environnement/energie/en-chine-les-capacites-d-energie-solaire-depassent-desormais-celles-du-charbon_8171678.html",
+   "resume": "La capacité installée d'énergie solaire en Chine a dépassé pour la première fois celle des centrales à charbon, avec 1,286 milliard de kilowatts installés fin juillet, a annoncé l'administration chinoise de l'énergie, selon franceinfo. Ce basculement survient alors que la Chine reste le premier émetteur mondial de gaz à effet de serre.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Building_a_Great_Solar_Wall_in_China_%28153759_-_2_20241208_lrg%29.jpg",
+   "legende": "Une centrale solaire en Chine, vue par satellite.",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/environnement/energie/en-chine-les-capacites-d-energie-solaire-depassent-desormais-celles-du-charbon_8171678.html"
+    }
+   ],
+   "photo_auteur": "NASA Earth Observatory, Michala Garrison",
+   "photo_licence": "Domaine public",
+   "permalien": "en-chine-la-capacite-installee-d-energie-solaire-depasse-pou-7c34fc",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "en-chine-la-capacite-installee-d-energie-solaire-depasse-pou-7c34fc"
+  },
+  {
+   "titre": "Un drone frappe un immeuble d'habitation à Ekaterinbourg, en Russie, près d'un centre logistique de Wildberries",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Russie, Ukraine",
+   "medias": "The Moscow Times",
+   "url": "https://www.themoscowtimes.com/2026/08/31/drone-hits-high-rise-apartment-building-in-yekaterinburg-as-ukraine-targets-wildberries-hub-a93605",
+   "resume": "Un drone a frappé un immeuble d'habitation à Ekaterinbourg, dans l'Oural, alors que l'Ukraine visait un centre logistique du géant russe du commerce en ligne Wildberries, selon des responsables locaux et des médias russes cités par The Moscow Times. L'attaque, survenue dans une ville située à plus de 1500 kilomètres de la frontière ukrainienne, illustre la portée croissante des drones ukrainiens en profondeur du territoire russe.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/E-burg_asv2019-05_img46_view_from_VysotSky.jpg/1280px-E-burg_asv2019-05_img46_view_from_VysotSky.jpg",
+   "legende": "Vue d'Ekaterinbourg, dans l'Oural russe.",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/08/31/drone-hits-high-rise-apartment-building-in-yekaterinburg-as-ukraine-targets-wildberries-hub-a93605"
+    }
+   ],
+   "photo_auteur": "A.Savin",
+   "photo_licence": "FAL",
+   "permalien": "un-drone-frappe-un-immeuble-d-habitation-a-ekaterinbourg-en-a48a36",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "un-drone-frappe-un-immeuble-d-habitation-a-ekaterinbourg-en-a48a36"
+  },
+  {
+   "titre": "« On n'est pas en guerre avec le Canada », affirme le secrétaire américain au Trésor, alors qu'un sondage montre l'appui des Canadiens à des représailles",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Canada, États-Unis",
+   "medias": "National Post, Global News",
+   "url": "https://nationalpost.com/news/canada/u-s-treasury-secretary-taunts-canadian-navys-lack-of-firepower-two-submarines-from-the-edmonton-mall",
+   "resume": "Le secrétaire américain au Trésor a affirmé que Washington n'était « pas en guerre avec le Canada », en réponse à des questions sur les tensions commerciales grandissantes entre les deux pays, selon le National Post et Global News. Un sondage cité par ces médias indique qu'une forte majorité de Canadiens appuient l'idée que leur gouvernement rompe les pourparlers commerciaux avec les États-Unis et impose des tarifs de représailles, un appui qui profite au premier ministre Mark Carney.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/canada/u-s-treasury-secretary-taunts-canadian-navys-lack-of-firepower-two-submarines-from-the-edmonton-mall"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12041649/war-with-canada-us-treasury-secretary/"
+    }
+   ],
+   "permalien": "on-n-est-pas-en-guerre-avec-le-canada-affirme-le-secretaire-36823a",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "on-n-est-pas-en-guerre-avec-le-canada-affirme-le-secretaire-36823a"
+  },
+  {
+   "titre": "Guerre et chaleur : pourquoi les prix du blé s'envolent",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Ukraine, Russie",
+   "medias": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring",
+   "resume": "Les prix du blé ont fortement augmenté en raison des perturbations des exportations en mer Noire liées à la guerre entre la Russie et l'Ukraine, combinées à des sécheresses qui ont réduit la production dans plusieurs régions productrices, selon Al Jazeera. Les deux pays belligérants ont par ailleurs intensifié depuis un mois leurs frappes réciproques contre des infrastructures agricoles et portuaires.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring"
+    }
+   ],
+   "permalien": "guerre-et-chaleur-pourquoi-les-prix-du-ble-s-envolent-45eef7",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "guerre-et-chaleur-pourquoi-les-prix-du-ble-s-envolent-45eef7"
+  },
+  {
+   "titre": "Les attentats de Nord Stream continuent de peser sur les relations entre l'Allemagne et l'Ukraine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Allemagne, Ukraine",
+   "medias": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties",
+   "resume": "Les enquêtes et procédures d'extradition visant plusieurs suspects ukrainiens dans le sabotage des gazoducs Nord Stream en 2022 continuent de compliquer les relations entre Berlin et Kyiv, selon Al Jazeera. Une chercheuse de l'Institut allemand de recherche économique citée par le média rappelle que ce sabotage a mis en évidence la dépendance excessive de l'Allemagne envers le gaz fossile russe avant la guerre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties"
+    }
+   ],
+   "permalien": "les-attentats-de-nord-stream-continuent-de-peser-sur-les-rel-f2f17e",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "les-attentats-de-nord-stream-continuent-de-peser-sur-les-rel-f2f17e"
+  },
+  {
+   "titre": "Le Japon veut un budget de défense record, axé sur l'intelligence artificielle",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Japon",
+   "medias": "France 24, La Presse",
+   "url": "https://www.france24.com/fr/info-en-continu/20260831-le-japon-veut-un-budget-record-de-48-milliards-d-euros-pour-sa-d%C3%A9fense-ax%C3%A9-sur-l-ia",
+   "resume": "Le ministère japonais de la Défense pourrait réclamer un budget record avoisinant 10 000 milliards de yens, environ 48 milliards d'euros, pour l'exercice débutant en avril 2027, selon le quotidien Nikkei cité par France 24 et La Presse. Tokyo mise notamment sur l'intelligence artificielle pour accélérer sa prise de décision militaire, dans le cadre d'une vaste montée en puissance de ses capacités de défense.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260831-le-japon-veut-un-budget-record-de-48-milliards-d-euros-pour-sa-d%C3%A9fense-ax%C3%A9-sur-l-ia"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/asie-et-oceanie/2026-08-31/avec-l-ia-pour-accelerer-la-prise-de-decision/le-japon-veut-un-budget-record-pour-sa-defense.php"
+    }
+   ],
+   "permalien": "le-japon-veut-un-budget-de-defense-record-axe-sur-l-intellig-d74f3d",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "le-japon-veut-un-budget-de-defense-record-axe-sur-l-intellig-d74f3d"
+  },
+  {
+   "titre": "Les États-Unis vont moderniser leur base aérienne de Morón, en Espagne, pour y accueillir des bombardiers B-52",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Espagne, États-Unis",
+   "medias": "Le Parisien",
+   "url": "https://www.leparisien.fr/international/etats-unis/un-projet-necessaire-les-etats-unis-vont-moderniser-leur-base-aerienne-de-moron-en-espagne-pour-y-accueillir-des-bombardiers-b-52-31-08-2026-QIDI4GSJPNFARNSVLDAMEEWDFE.php",
+   "resume": "Des documents budgétaires de l'US Air Force révélés par The War Zone montrent que Washington prévoit de moderniser sa base aérienne de Morón, dans le sud de l'Espagne, afin d'y accueillir des bombardiers stratégiques B-52, selon Le Parisien. Le Pentagone qualifie ce projet de « nécessaire » pour renforcer les capacités opérationnelles de cette base déjà utilisée par l'aviation américaine en Europe.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Refueling_a_B-52_Stratofortress_%2813878451024%29.jpg/1280px-Refueling_a_B-52_Stratofortress_%2813878451024%29.jpg",
+   "legende": "Un bombardier stratégique B-52 Stratofortress de l'US Air Force.",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/un-projet-necessaire-les-etats-unis-vont-moderniser-leur-base-aerienne-de-moron-en-espagne-pour-y-accueillir-des-bombardiers-b-52-31-08-2026-QIDI4GSJPNFARNSVLDAMEEWDFE.php"
+    }
+   ],
+   "photo_auteur": "US Air Force from USA",
+   "photo_licence": "Domaine public",
+   "permalien": "les-etats-unis-vont-moderniser-leur-base-aerienne-de-moron-e-b0df7c",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "les-etats-unis-vont-moderniser-leur-base-aerienne-de-moron-e-b0df7c"
+  },
+  {
+   "titre": "Colombie : le gouvernement annonce la mort de vingt combattants dissidents des FARC dans des bombardements",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Colombie",
+   "medias": "franceinfo (AFP)",
+   "url": "https://www.franceinfo.fr/monde/ameriques/en-colombie-vingt-guerilleros-tues-dans-des-bombardements-du-nouveau-gouvernement_8171483.html",
+   "resume": "Le président colombien Abelardo de la Espriella a annoncé sur X la mort de vingt membres présumés d'une faction dissidente des FARC dirigée par le rebelle Iván Mordisco, lors de bombardements menés lundi sur des zones insurgées du département du Guaviare, selon franceinfo. Il s'agit de l'opération la plus meurtrière ordonnée depuis l'arrivée au pouvoir, le 7 août, de ce dirigeant de droite dure qui a promis une « lutte sans merci » contre les groupes armés.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Colombian_Air_Force_Sikorsky_UH-60L_Arp%C3%ADa_III_%28S-70A-41%29_Ram%C3%ADrez-1.jpg/1280px-Colombian_Air_Force_Sikorsky_UH-60L_Arp%C3%ADa_III_%28S-70A-41%29_Ram%C3%ADrez-1.jpg",
+   "legende": "Un hélicoptère Arpía III de l'armée de l'air colombienne, du type utilisé dans les opérations contre les groupes armés.",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "franceinfo (AFP)",
+     "url": "https://www.franceinfo.fr/monde/ameriques/en-colombie-vingt-guerilleros-tues-dans-des-bombardements-du-nouveau-gouvernement_8171483.html"
+    }
+   ],
+   "photo_auteur": "Andrés Ramírez",
+   "photo_licence": "GFDL 1.2",
+   "permalien": "colombie-le-gouvernement-annonce-la-mort-de-vingt-combattant-924f7e",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "colombie-le-gouvernement-annonce-la-mort-de-vingt-combattant-924f7e"
+  },
+  {
+   "titre": "Le porte-avions américain Abraham Lincoln fait escale en Thaïlande après neuf mois en mer, sous le coup d'une polémique",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "États-Unis, Thaïlande",
+   "medias": "TV5MONDE",
+   "url": "https://information.tv5monde.com/international/apres-neuf-mois-en-mer-le-porte-avions-americain-lincoln-arrive-en-thailande-2835690",
+   "resume": "Le porte-avions américain USS Abraham Lincoln, déployé depuis plus de neuf mois, devait arriver en Thaïlande dans la nuit de mardi à mercredi pour une escale, selon TV5Monde. Le navire fait l'objet d'une polémique sur les conditions de vie de son équipage après une aussi longue période en mer, sans que la marine américaine ne précise la date de son retour aux États-Unis.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/US_Navy_080927-N-7981E-418_The_aircraft_carrier_USS_Abraham_Lincoln_%28CVN_72%29_passes_under_a_rainbow_as_Sailors_from_Lincoln_and_Carrier_Air_Wing_%28CVW%29_2_participate_in_a.jpg/1280px-thumbnail.jpg",
+   "legende": "Le porte-avions USS Abraham Lincoln (CVN-72), ici lors d'un précédent déploiement.",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/apres-neuf-mois-en-mer-le-porte-avions-americain-lincoln-arrive-en-thailande-2835690"
+    }
+   ],
+   "photo_auteur": "U.S. Navy photo by Mass Communication Specialist 2nd Class James R. Evans",
+   "photo_licence": "Domaine public",
+   "permalien": "le-porte-avions-americain-abraham-lincoln-fait-escale-en-tha-4784f1",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "le-porte-avions-americain-abraham-lincoln-fait-escale-en-tha-4784f1"
+  },
+  {
+   "titre": "New York : une femme poignarde des passants à Times Square, faisant un mort, avant d'être abattue par la police",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "franceinfo (AFP)",
+   "url": "https://www.franceinfo.fr/monde/usa/une-femme-tuee-par-la-police-a-new-york-apres-avoir-poignarde-des-passants-faisant-un-mort_8171531.html",
+   "resume": "Une femme de 49 ans a poignardé deux passants apparemment au hasard lundi à Times Square, tuant une femme de 32 ans et blessant grièvement un homme de 68 ans, avant d'être abattue par la police après avoir refusé pendant plusieurs minutes de lâcher ses couteaux, selon franceinfo. La cheffe de la police de New York, Jessica Tisch, a précisé que l'assaillante était connue des services pour des incidents liés à des problèmes de santé mentale et qu'il n'y avait « aucune raison de croire à un acte de terrorisme ».",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Times_Square%2C_New_York_City_%28HDR%29.jpg/1280px-Times_Square%2C_New_York_City_%28HDR%29.jpg",
+   "legende": "Times Square, à New York, où l'attaque au couteau s'est produite.",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "franceinfo (AFP)",
+     "url": "https://www.franceinfo.fr/monde/usa/une-femme-tuee-par-la-police-a-new-york-apres-avoir-poignarde-des-passants-faisant-un-mort_8171531.html"
+    }
+   ],
+   "photo_auteur": "Francisco Diez",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "new-york-une-femme-poignarde-des-passants-a-times-square-fai-922c1f",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "new-york-une-femme-poignarde-des-passants-a-times-square-fai-922c1f"
+  },
+  {
+   "titre": "Dégradation des terres : l'ONU présente des initiatives de restauration qui portent leurs fruits",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Brésil, Arabie saoudite, Sahel",
+   "medias": "ONU Info",
+   "url": "https://news.un.org/fr/story/2026/08/1159385",
+   "resume": "Alors que 40 % des terres de la planète sont touchées par la dégradation et la sécheresse, menaçant les moyens de subsistance de plus de trois milliards de personnes, l'ONU met en avant des initiatives de restauration menées au Brésil, en Arabie saoudite et dans la région du Sahel, selon ONU Info. Ces projets illustrent des pistes concrètes pour freiner un phénomène qui progresse dans la plupart des régions du monde.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "ONU Info",
+     "url": "https://news.un.org/fr/story/2026/08/1159385"
+    }
+   ],
+   "permalien": "degradation-des-terres-l-onu-presente-des-initiatives-de-res-290e96",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "degradation-des-terres-l-onu-presente-des-initiatives-de-res-290e96"
+  },
+  {
+   "titre": "Sanctions contre la Russie : le Canada, cible privilégiée des réseaux de vol de voitures",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Canada, Russie",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/international/2026-09-01/les-sanctions-contre-la-russie-alimentent-les-vols-de-voitures-au-canada.php",
+   "resume": "Selon la Gendarmerie royale du Canada, la Russie est de loin la principale destination internationale des voitures volées au pays et signalées à Interpol, qui en a recensé 4798 cas, un chiffre que la GRC juge très en deçà de la réalité, selon La Presse. Les sanctions occidentales contre Moscou, qui limitent l'accès de la Russie aux véhicules neufs, alimenteraient ce trafic de voitures canadiennes volées.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/2026-09-01/les-sanctions-contre-la-russie-alimentent-les-vols-de-voitures-au-canada.php"
+    }
+   ],
+   "permalien": "sanctions-contre-la-russie-le-canada-cible-privilegiee-des-r-6ca671",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "sanctions-contre-la-russie-le-canada-cible-privilegiee-des-r-6ca671"
+  },
+  {
+   "titre": "Iran : deux femmes condamnées à mort pour leur participation aux manifestations de janvier",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Iran",
+   "medias": "RFI (AFP)",
+   "url": "https://www.rfi.fr/fr/moyen-orient/20260831-iran-deux-femmes-condamn%C3%A9es-%C3%A0-mort-en-lien-avec-les-manifestations-de-janvier",
+   "resume": "La justice iranienne a condamné à mort Taraneh Rahimi, 20 ans, et Leila Abolhasani, 43 ans, pour des faits liés aux manifestations antigouvernementales qui ont culminé les 8 et 9 janvier à Ispahan, selon les organisations de défense des droits humains Hengaw et HRANA citées par RFI. Depuis le début de la guerre avec les États-Unis, Téhéran a exécuté 29 hommes en lien avec ces manifestations mais n'a jusqu'ici exécuté aucune femme, selon l'ONG Iran Human Rights.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "RFI (AFP)",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20260831-iran-deux-femmes-condamn%C3%A9es-%C3%A0-mort-en-lien-avec-les-manifestations-de-janvier"
+    }
+   ],
+   "permalien": "iran-deux-femmes-condamnees-a-mort-pour-leur-participation-a-cc5815",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "iran-deux-femmes-condamnees-a-mort-pour-leur-participation-a-cc5815"
+  },
+  {
+   "titre": "La Turquie, le Pakistan et l'Arabie saoudite tiennent la première réunion de leur nouvelle alliance de défense",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Turquie, Pakistan, Arabie saoudite",
+   "medias": "Ukrinform",
+   "url": "https://www.ukrinform.net/rubric-polytics/4159538-turkey-pakistan-and-saudi-arabia-hold-inaugural-meeting-of-defense-alliance.html",
+   "resume": "La Turquie, le Pakistan et l'Arabie saoudite ont tenu à Istanbul la première réunion de leur Alliance de défense mecquoise, un pacte de défense collective signé plus tôt ce mois-ci qui prévoit qu'une attaque armée contre l'un des membres soit considérée comme une attaque contre tous, selon Ukrinform. Le secrétariat de l'alliance sera basé à Riyad et dirigé par un représentant pakistanais ; le ministre turc des Affaires étrangères, Hakan Fidan, a précisé qu'elle ne remplaçait pas les engagements de la Turquie envers l'OTAN.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Modern_Istanbul_skyline_at_sunset.jpg/1280px-Modern_Istanbul_skyline_at_sunset.jpg",
+   "legende": "Istanbul, où s'est tenue la première réunion de l'Alliance de défense mecquoise.",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4159538-turkey-pakistan-and-saudi-arabia-hold-inaugural-meeting-of-defense-alliance.html"
+    }
+   ],
+   "photo_auteur": "Ben Morlok",
+   "photo_licence": "CC BY-SA 2.0",
+   "permalien": "la-turquie-le-pakistan-et-l-arabie-saoudite-tiennent-la-prem-1bcdbf",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "la-turquie-le-pakistan-et-l-arabie-saoudite-tiennent-la-prem-1bcdbf"
+  },
+  {
+   "titre": "RD Congo : l'opposition rejette le projet de dialogue national annoncé par Tshisekedi",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "République démocratique du Congo",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20260831-rd-congo-l-opposition-rejette-les-consultations-annonc%C3%A9es-par-tshisekedi",
+   "resume": "En République démocratique du Congo, le projet de dialogue national annoncé par le président Félix Tshisekedi divise déjà : la coalition d'opposition C64 et les partisans de l'ex-président Joseph Kabila rejettent les consultations proposées, selon France 24. La majorité présidentielle défend au contraire ce processus.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kinshasa_%26_Brazzaville_-_ISS007-E-6305_lrg.jpg",
+   "legende": "Kinshasa, capitale de la République démocratique du Congo, vue depuis la Station spatiale internationale.",
+   "horodate": "2026-09-01T04:59-04:00",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260831-rd-congo-l-opposition-rejette-les-consultations-annonc%C3%A9es-par-tshisekedi"
+    }
+   ],
+   "photo_auteur": "NASA",
+   "photo_licence": "Domaine public",
+   "permalien": "rd-congo-l-opposition-rejette-le-projet-de-dialogue-national-9e14e6",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-01.json",
+   "_slug": "rd-congo-l-opposition-rejette-le-projet-de-dialogue-national-9e14e6"
   },
   {
    "titre": "Virage numérique en santé : près de 500 millions en trois ans pour maintenir des systèmes désuets",
@@ -2501,9 +3200,9 @@
    "cahier": "international",
    "rubrique": "economie",
    "territoire": "États-Unis",
-   "medias": "France 24, The Globe and Mail, Le Parisien, Orange Actualités, AFP, Atlasinfo",
+   "medias": "France 24, The Globe and Mail, Le Parisien, Orange Actualités, AFP, Atlasinfo, Politico",
    "url": "https://www.france24.com/fr/info-en-continu/20260831-les-ministres-des-finances-du-g20-aux-etats-unis-washington-veut-isoler-davantage-t%C3%A9h%C3%A9ran",
-   "resume": "Les ministres des Finances du G20 se réunissent aux États-Unis, où le secrétaire au Trésor Scott Bessent est chargé de mener à coups de sanctions une offensive économique destinée à isoler davantage Téhéran, sur fond de guerre commerciale relancée avec le Canada, membre du G20 et du G7. Le département du Trésor a refusé l'accès de la rencontre à certains journalistes, dont ceux du New York Times, qui dénonce « une tentative flagrante d'échapper au regard du public ».\n\n**Mise à jour, 15 h 30** — Les ministres des Finances du G20 ont entamé lundi aux États-Unis une série de réunions où Washington cherche à les rallier à sa guerre économique contre l'Iran. Le secrétaire américain au Trésor, Scott Bessent, et le président de la Réserve fédérale, Kevin Warsh, y participaient.\n\n**Mise à jour, 21 h 30** — En marge du sommet d'Asheville, en Caroline du Nord, le secrétaire au Trésor Scott Bessent a signifié au ministre russe des Finances Anton Siluanov que les États-Unis n'accorderaient aucune aide économique à la Russie tant que la guerre en Ukraine ne serait pas terminée. La présence russe à la table du G20, à l'invitation de Washington, a par ailleurs irrité plusieurs ministres des finances présents.",
+   "resume": "Les ministres des Finances du G20 se réunissent aux États-Unis, où le secrétaire au Trésor Scott Bessent est chargé de mener à coups de sanctions une offensive économique destinée à isoler davantage Téhéran, sur fond de guerre commerciale relancée avec le Canada, membre du G20 et du G7. Le département du Trésor a refusé l'accès de la rencontre à certains journalistes, dont ceux du New York Times, qui dénonce « une tentative flagrante d'échapper au regard du public ».\n\n**Mise à jour, 15 h 30** — Les ministres des Finances du G20 ont entamé lundi aux États-Unis une série de réunions où Washington cherche à les rallier à sa guerre économique contre l'Iran. Le secrétaire américain au Trésor, Scott Bessent, et le président de la Réserve fédérale, Kevin Warsh, y participaient.\n\n**Mise à jour, 21 h 30** — En marge du sommet d'Asheville, en Caroline du Nord, le secrétaire au Trésor Scott Bessent a signifié au ministre russe des Finances Anton Siluanov que les États-Unis n'accorderaient aucune aide économique à la Russie tant que la guerre en Ukraine ne serait pas terminée. La présence russe à la table du G20, à l'invitation de Washington, a par ailleurs irrité plusieurs ministres des finances présents.\n\n**Mise à jour, 5 h** — Le ministre allemand des Finances, Lars Klingbeil, a refusé de poser pour la photo de groupe aux côtés du représentant russe, une position coordonnée avec ses homologues européens : la photo officielle, diffusée lundi soir par le Trésor américain, ne montre finalement pas la délégation russe, selon Politico. Donald Trump a défendu l'invitation faite à Moscou — « on aime s'entendre avec tout le monde », a-t-il dit —, alors que la sénatrice démocrate Jeanne Shaheen exhortait la Chambre des représentants à adopter le train de sanctions contre la Russie déjà voté par le Sénat.",
    "sources": [
     {
      "media": "France 24",
@@ -2520,11 +3219,15 @@
     {
      "media": "Atlasinfo",
      "url": "https://atlasinfo.fr/g20-finance-2026-washington-exclut-toute-aide-economique-a-la-russie-avant-la-fin-du-conflit-en-ukraine.html"
+    },
+    {
+     "media": "Politico",
+     "url": "https://www.politico.com/news/2026/08/31/bessent-welcomes-russia-back-to-g20-as-europe-pushes-back-01058296"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T21:47-04:00",
+   "horodate": "2026-09-01T04:59-04:00",
    "permalien": "g20-des-finances-aux-etats-unis-washington-vise-l-iran-et-ec-c6329a",
    "_fichier": "revue-report-2026-09-01.json",
    "_volet": "report",
