@@ -3,6 +3,7 @@
  "volets": [
   "elections",
   "monde",
+  "quebec-canada",
   "report",
   "savoirs"
  ],
@@ -882,6 +883,63 @@
    "_slug": "rd-congo-l-opposition-rejette-le-projet-de-dialogue-national-9e14e6"
   },
   {
+   "titre": "L'Alberta esquive le mot « séparation » à la veille d'un référendum sur son avenir dans la fédération",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "Global News, CBC",
+   "url": "https://globalnews.ca/news/12041513/alberta-day-danielle-smith-avoids-separation-talk/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12041513/alberta-day-danielle-smith-avoids-separation-talk/"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/edmonton/alberta-day-referendum-campaign-rallies-9.7326155"
+    }
+   ],
+   "resume": "La première ministre albertaine Danielle Smith a évité tout discours sur la séparation lors des célébrations du Jour de l'Alberta, se contentant de rappeler que la province est « le moteur économique » du Canada, à sept semaines du référendum du 19 octobre où les électeurs devront dire s'ils veulent rester dans la fédération. Mme Smith, qui dit elle-même vouloir voter pour le maintien dans le Canada, doit composer avec des manifestations séparatistes et un appel du chef néodémocrate Naheed Nenshi à reporter le scrutin en pleine guerre commerciale avec les États-Unis.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Alberta_Legislature_Building%2C_Edmonton%2C_Alberta.jpg",
+   "legende": "L'édifice de l'Assemblée législative de l'Alberta, à Edmonton.",
+   "horodate": "2026-09-01T05:51-04:00",
+   "photo_licence": "Public domain",
+   "permalien": "l-alberta-esquive-le-mot-separation-a-la-veille-d-un-referen-c044a0",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-01.json",
+   "_slug": "l-alberta-esquive-le-mot-separation-a-la-veille-d-un-referen-c044a0"
+  },
+  {
+   "titre": "Ottawa déploie dix représentants au Népal, où 30 Canadiens demeurent portés disparus",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Népal",
+   "medias": "Radio-Canada, La Presse, Gouvernement du Canada",
+   "url": "https://www.lapresse.ca/actualites/national/2026-08-31/crue-dans-l-himalaya/ottawa-envoie-des-representants-alors-que-des-canadiens-sont-portes-disparus.php",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279436/canada-nepal-representants-canadiens-disparus"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/national/2026-08-31/crue-dans-l-himalaya/ottawa-envoie-des-representants-alors-que-des-canadiens-sont-portes-disparus.php"
+    },
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/08/mise-a-jour-aux-medias--graves-crues-soudaines-le-long-de-la-frontiere-entre-le-nepal-et-la-chine.html"
+    }
+   ],
+   "resume": "Le gouvernement fédéral a déployé dix représentants, dont un agent de la GRC, pour aider à retrouver les Canadiens touchés par les crues soudaines qui ont fait environ 800 morts et près de 3 000 disparus après l'effondrement d'un glacier à la frontière entre le Népal et la Chine, a annoncé la ministre des Affaires étrangères Anita Anand. Trente Canadiens et résidents permanents demeurent portés disparus, un chiffre qui pourrait évoluer, tandis qu'Ottawa débloque 5 millions de dollars d'aide humanitaire d'urgence pour le Népal.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T05:51-04:00",
+   "permalien": "ottawa-deploie-dix-representants-au-nepal-ou-30-canadiens-de-f93bf6",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-01.json",
+   "_slug": "ottawa-deploie-dix-representants-au-nepal-ou-30-canadiens-de-f93bf6"
+  },
+  {
    "titre": "Virage numérique en santé : près de 500 millions en trois ans pour maintenir des systèmes désuets",
    "cahier": "elections",
    "rubrique": "sante",
@@ -1288,7 +1346,7 @@
    "cahier": "quebec",
    "rubrique": "justice",
    "territoire": "Québec",
-   "medias": "Radio-Canada, Coops de l'information",
+   "medias": "Radio-Canada, Coops de l'information, Le Devoir, Québecor, CBC, La Presse",
    "url": "https://ici.radio-canada.ca/nouvelle/2279237/proces-diffamation-cardinal-marc-ouellet-remporte-cause",
    "sources": [
     {
@@ -1306,6 +1364,22 @@
     {
      "media": "La Tribune",
      "url": "https://www.latribune.ca/actualites/justice-et-faits-divers/2026/08/31/le-cardinal-ouellet-gagne-sa-cause-en-diffamation-3SY3ZCYI6VEOJFQONDSUC2MJAQ/"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/justice/1005377/cardinal-ouellet-accuse-agression-sexuelle-est-blanchi-juge"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/08/31/accusation-dagression-sexuelle-une-femme-condamnee-a-payer-100-000-au-cardinal-marc-ouellet"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/cardinal-marc-ouellet-defamation-lawsuit-win-9.7326832"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-31/victime-d-une-infamie/le-cardinal-ouellet-n-a-pas-agresse-sexuellement-pamela-groleau-tranche-un-juge.php"
     }
    ],
    "resume": "Le juge Castonguay a donné raison lundi au cardinal Marc Ouellet dans sa poursuite en diffamation, qualifiant de « téméraires » et même « malicieuses » les allégations de Paméla Groleau. Celle-ci soutenait avoir été agressée sexuellement par le cardinal alors qu'elle était stagiaire au diocèse de Québec, entre 2008 et 2010.",
@@ -1322,12 +1396,20 @@
    "cahier": "quebec",
    "rubrique": "justice",
    "territoire": "Québec",
-   "medias": "Le Devoir, La Presse, Les Affaires, Le Canada Français",
+   "medias": "Le Devoir, La Presse, Les Affaires, Le Canada Français, Gouvernement du Québec",
    "url": "https://www.ledevoir.com/actualites/justice/1005266/lourdes-peines-imposees-agence-placement-personnel-fraude-fiscale",
    "sources": [
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/actualites/justice/1005266/lourdes-peines-imposees-agence-placement-personnel-fraude-fiscale"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-08-31/la-cour-impose-de-lourdes-peines-a-une-agence-de-placement-pour-fraude-fiscale.php"
+    },
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/fraude-fiscale-une-societe-de-placement-de-personnel-et-son-administratrice-condamnees-a-payer-des-amendes-de-plus-de-21-millions-de-dollars-72349"
     }
    ],
    "resume": "La Cour du Québec a condamné l'agence de placement de personnel Alpha et Omega Multiservices et son administratrice, Maria Del Carmen Jimenez Serrano, à plus de 2,15 millions de dollars d'amendes pour fraude fiscale. La juge Geneviève Claude Parayre a en outre imposé trois ans d'emprisonnement à Mme Serrano.",
@@ -1442,12 +1524,16 @@
    "cahier": "canada",
    "rubrique": "environnement",
    "territoire": "Ontario",
-   "medias": "La Presse",
+   "medias": "La Presse, CBC",
    "url": "https://www.lapresse.ca/actualites/environnement/2026-08-31/dernieres-baleines-en-captivite-au-canada/six-belugas-de-marineland-en-route-vers-les-etats-unis.php",
    "sources": [
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/actualites/environnement/2026-08-31/dernieres-baleines-en-captivite-au-canada/six-belugas-de-marineland-en-route-vers-les-etats-unis.php"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/hamilton/last-beluga-move-marineland-9.7327025"
     }
    ],
    "resume": "Les six bélugas de Marineland, dernières baleines en captivité au pays, devaient prendre la route lundi vers deux aquariums des États-Unis. Leur départ met fin à la présence de cétacés captifs au Canada.",
@@ -1658,17 +1744,17 @@
    "_slug": "suisse-une-fusillade-fait-un-mort-et-cinq-blesses-en-marge-d-2b4a6f"
   },
   {
-   "titre": "Trois élections partielles fédérales lundi, dont une au Saguenay–Lac-Saint-Jean",
+   "titre": "Les libéraux remportent les trois élections partielles fédérales, dont Chicoutimi–Le Fjord",
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Canada",
-   "medias": "Le Devoir, Le Canada Français, La Presse",
-   "url": "https://www.ledevoir.com/politique/canada/1005095/liberaux-carney-quete-nouveaux-gains-elections-partielles",
-   "resume": "Trois élections partielles fédérales se tiennent lundi, dont une dans Chicoutimi–Le Fjord au Saguenay où le libéral Daniel Gobeil et la bloquiste Caroline Dubé sont donnés au coude-à-coude par l'agrégateur 338Canada, tandis que Beaches–East York (Toronto) et North Vancouver–Capilano (Colombie-Britannique) penchent nettement pour les candidats libéraux. Un gain complet permettrait aux libéraux de Mark Carney de consolider leur majorité, dans un contexte de guerre commerciale avec les États-Unis.\n\n**Mise à jour, 8 h 55** — Les électeurs de Chicoutimi–Le Fjord votent lundi pour désigner le successeur de Richard Martel à la Chambre des communes. La course s'annonce serrée entre la bloquiste Caroline Dubé, le libéral Daniel Gobeil et le conservateur Régis Gaudreault.\n\n**Mise à jour, 15 h 30** — Les électeurs de Chicoutimi–Le Fjord votaient lundi, dans un scrutin qu'un politologue présente comme un baromètre de l'appui à la décision de Mark Carney de rompre les négociations commerciales avec les États-Unis. Le candidat libéral y est l'ancien président des Producteurs de lait du Québec.",
+   "medias": "Radio-Canada, Le Devoir, La Presse, Québecor, National Post, Le Canada Français",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-08-31/elections-federales-partielles/les-liberaux-raflent-chicoutimi-le-fjord.php",
+   "resume": "Le Parti libéral du Canada a remporté lundi soir les trois élections partielles fédérales en jeu, dont Chicoutimi–Le Fjord, où l'ex-président des Producteurs de lait du Québec Daniel Gobeil l'a emporté avec 51 % des voix contre 33 % pour la bloquiste Caroline Dubé et 12 % pour le conservateur Régis Gaudreault — une première victoire libérale dans cette circonscription depuis 2015. Le premier ministre Mark Carney y voit un appui à sa décision de rompre les négociations commerciales avec Washington, un enjeu qu'il a placé au cœur de la campagne.",
    "sources": [
     {
      "media": "Le Devoir",
-     "url": "https://www.ledevoir.com/politique/canada/1005095/liberaux-carney-quete-nouveaux-gains-elections-partielles"
+     "url": "https://www.ledevoir.com/politique/canada/1005311/chicoutimi-fjord-election-partielle-sous-signe-guerre-commerciale"
     },
     {
      "media": "Le Canada Français",
@@ -1676,11 +1762,7 @@
     },
     {
      "media": "La Presse",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-08-31/election-federale-partielle/des-resultats-serres-attendus-dans-chicoutimi-le-fjord.php"
-    },
-    {
-     "media": "Le Devoir",
-     "url": "https://www.ledevoir.com/politique/canada/1005311/chicoutimi-fjord-election-partielle-sous-signe-guerre-commerciale"
+     "url": "https://www.lapresse.ca/actualites/politique/2026-08-31/elections-federales-partielles/les-liberaux-raflent-chicoutimi-le-fjord.php"
     },
     {
      "media": "Radio-Canada",
@@ -1689,11 +1771,15 @@
     {
      "media": "24 heures",
      "url": "https://www.tvanouvelles.ca/2026/08/31/election-partielle-jour-de-vote-dans-la-circonscription-federale-chicoutimile-fjord"
+    },
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/canada/chicoutimi-le-fjord-byelection"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-08-31T15:52-04:00",
+   "horodate": "2026-09-01T05:50-04:00",
    "permalien": "trois-elections-partielles-federales-lundi-dont-une-au-sague-80ad1e",
    "_fichier": "revue-report-2026-09-01.json",
    "_volet": "report",
@@ -2810,7 +2896,7 @@
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Canada",
-   "medias": "Coops de l'information, La Presse",
+   "medias": "Coops de l'information, La Presse, Le Devoir",
    "sources": [
     {
      "media": "Le Soleil",
@@ -2819,13 +2905,17 @@
     {
      "media": "Le Droit",
      "url": "https://www.ledroit.com/actualites/politique/2026/08/31/steven-guilbeault-demissionne-officiellement-de-son-siege-de-depute-FJ3FXXZJGBD3LBUPAGTIHAV27U/"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/canada/1005419/siege-steven-guilbeault-est-vacant-comme-maints-autres-attente-elections"
     }
    ],
-   "resume": "Le député libéral Steven Guilbeault a officiellement démissionné de son siège de Laurier—Sainte-Marie, à Montréal, selon le site de la Chambre des communes. Son départ ouvre la voie à une élection partielle dans cette circonscription du centre de l'île.",
+   "resume": "Le député Steven Guilbeault a officiellement démissionné vendredi de son siège de Laurier–Sainte-Marie, à Montréal, après avoir quitté le gouvernement en désaccord avec le virage de Mark Carney sur la tarification du carbone et les nouveaux oléoducs. Le premier ministre devra déclencher l'élection partielle d'ici le 27 février 2027, l'une de six scrutins de ce type attendus dans les prochains mois.",
    "legende": "Steven Guilbeault.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Steven_Guilbeault01.JPG/1280px-Steven_Guilbeault01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "url": "https://www.lesoleil.com/actualites/politique/2026/08/31/steven-guilbeault-demissionne-officiellement-de-son-siege-de-depute-FJ3FXXZJGBD3LBUPAGTIHAV27U/",
-   "horodate": "2026-08-31T21:47-04:00",
+   "horodate": "2026-09-01T05:50-04:00",
    "photo_auteur": "Khayman",
    "photo_licence": "CC BY-SA 3.0",
    "permalien": "steven-guilbeault-quitte-officiellement-son-siege-de-depute-369b9d",
@@ -2851,6 +2941,10 @@
     {
      "media": "CBC",
      "url": "https://www.cbc.ca/news/politics/mark-carney-names-dominic-barton-ceo-invest-in-canada-replaces-laurel-broten-9.7327283?cmp=rss"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/politics/mark-carney-names-dominic-barton-ceo-invest-in-canada-replaces-laurel-broten-9.7327283"
     }
    ],
    "resume": "Mark Carney a annoncé lundi la nomination du dirigeant de capital-investissement Gurinder Grewal à la tête d'Invest in Canada et de l'ancien ambassadeur du Canada en Chine Dominic Barton à la présidence du conseil de l'agence. Ottawa dit vouloir confier un rôle plus offensif à cet organisme créé en 2018 pour attirer et promouvoir l'investissement étranger direct.",
@@ -2868,7 +2962,7 @@
    "cahier": "canada",
    "rubrique": "environnement",
    "territoire": "Canada",
-   "medias": "Radio-Canada, Le Devoir, Le Canada Français",
+   "medias": "Radio-Canada, Le Devoir, La Presse, Le Canada Français",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -2881,6 +2975,10 @@
     {
      "media": "Le Canada Français",
      "url": "https://www.canadafrancais.com/nouvelles-nationales/ottawa-demande-au-tribunal-de-rejeter-une-action-en-justice-relative-aux-ges/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-08-31/objectif-de-reduction-des-ges/ottawa-demande-au-tribunal-de-rejeter-une-action-en-justice.php"
     }
    ],
    "resume": "Les avocats du gouvernement fédéral plaident dans des mémoires déposés récemment que la Cour fédérale n'a pas le pouvoir d'ordonner à Ottawa de respecter les cibles de réduction des gaz à effet de serre fixées par la loi. La poursuite avait été déposée en juin par un groupe de défenseurs du climat qui soutient que les changements de politique des dernières années ont écarté le Canada de cette trajectoire.",
