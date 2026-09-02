@@ -1,6 +1,7 @@
 {
  "date": "2026-09-02",
  "volets": [
+  "continu",
   "elections",
   "hors-rss",
   "local",
@@ -10,6 +11,338 @@
   "report"
  ],
  "articles": [
+  {
+   "titre": "L'assassin présumé de Charlie Kirk, Tyler Robinson, sera jugé et risque la peine de mort",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "TV5MONDE",
+   "url": "https://information.tv5monde.com/international/meurtre-de-charlie-kirk-lassassin-presume-tyler-robinson-sera-juge-et-encourt-la-peine-de-mort-2835816",
+   "resume": "À l'issue d'une audience préliminaire tenue mardi, la justice américaine a jugé suffisantes les preuves contre Tyler Robinson, accusé du meurtre de l'influenceur conservateur Charlie Kirk : il sera jugé et encourt la peine de mort, selon TV5MONDE.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/meurtre-de-charlie-kirk-lassassin-presume-tyler-robinson-sera-juge-et-encourt-la-peine-de-mort-2835816",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "l-assassin-presume-de-charlie-kirk-tyler-robinson-sera-juge-890373",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "l-assassin-presume-de-charlie-kirk-tyler-robinson-sera-juge-890373"
+  },
+  {
+   "titre": "Le ministre israélien de la Défense affirme vouloir déplacer la population de Gaza hors du territoire",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Gaza",
+   "medias": "Radio-Canada, France 24, franceinfo",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279996/israel-deplacer-palestiniens-gaza-crime-guerre",
+   "resume": "Le ministre israélien de la Défense, Israël Katz, affirme qu'Israël est prêt à déplacer par mer et par air la population de Gaza hors du territoire si Washington donne son feu vert, jugeant qu'aucune solution n'existe sans cette migration. Le déplacement forcé d'une population civile constitue un crime de guerre au regard du droit international, rappelle Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279996/israel-deplacer-palestiniens-gaza-crime-guerre",
+     "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/moyen-orient/20260902-isra%C3%ABl-veut-vider-gaza-de-ses-habitants-selon-ministre-d%C3%A9fense-katz-netanyahu",
+     "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/israel-veut-deplacer-les-palestiniens-hors-de-la-bande-de-gaza-affirme-son-ministre-de-la-defense_8173994.html",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "le-ministre-israelien-de-la-defense-affirme-vouloir-deplacer-9e53fa",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "le-ministre-israelien-de-la-defense-affirme-vouloir-deplacer-9e53fa"
+  },
+  {
+   "titre": "Fusillade de Tumbler Ridge : une nouvelle série de poursuites vise OpenAI",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Colombie-Britannique",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279833/poursuite-openai-alman-tumbler",
+   "resume": "De nouvelles poursuites ont été déposées devant un tribunal fédéral californien contre OpenAI, au nom d'élèves et d'enseignants témoins de la fusillade qui a fait huit morts en février dans une école secondaire de Tumbler Ridge, en Colombie-Britannique ; le gouvernement provincial avait déjà mandaté un avocat en juillet pour poursuivre l'entreprise, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279833/poursuite-openai-alman-tumbler",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "fusillade-de-tumbler-ridge-une-nouvelle-serie-de-poursuites-dc2f28",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "fusillade-de-tumbler-ridge-une-nouvelle-serie-de-poursuites-dc2f28"
+  },
+  {
+   "titre": "Mort de Nooran Rezayi : bataille juridique sur la divulgation de l'identité des policiers",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Longueuil",
+   "medias": "TVA Nouvelles",
+   "url": "https://www.tvanouvelles.ca/2026/09/02/mort-de-nooran-rezayi-la-ville-de-longueuil-refuse-de-divulguer-les-noms-des-policiers",
+   "resume": "La Ville de Longueuil et le Procureur général s'opposent à la divulgation de l'identité des policiers ayant participé à l'intervention au cours de laquelle Nooran Rezayi est morte, le 21 septembre dernier à Saint-Hubert ; la famille réclame ces informations devant les tribunaux, selon TVA Nouvelles.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/02/mort-de-nooran-rezayi-la-ville-de-longueuil-refuse-de-divulguer-les-noms-des-policiers",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "mort-de-nooran-rezayi-bataille-juridique-sur-la-divulgation-17ce1f",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "mort-de-nooran-rezayi-bataille-juridique-sur-la-divulgation-17ce1f"
+  },
+  {
+   "titre": "Un étudiant chinois résidant au Canada visé par des accusations d'espionnage aux États-Unis",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Canada",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/monde/1005842/etudiant-chinois-resident-canada-soupconne-espionnage-americains",
+   "resume": "Un étudiant chinois résident permanent au Canada fait l'objet d'accusations portées la semaine dernière aux États-Unis pour un cas d'espionnage survenu sur les deux territoires ; il a notamment admis s'être introduit en 2025 sans autorisation dans un entrepôt de FedEx à l'aéroport Pearson de Toronto pour y prendre des photos, avant d'être surpris et expulsé des lieux, selon Le Devoir.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/1005842/etudiant-chinois-resident-canada-soupconne-espionnage-americains",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "un-etudiant-chinois-residant-au-canada-vise-par-des-accusati-bdbd66",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "un-etudiant-chinois-residant-au-canada-vise-par-des-accusati-bdbd66"
+  },
+  {
+   "titre": "La Banque du Canada maintient son taux directeur à 2,25 %",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Finance et Investissement, Radio-Canada",
+   "url": "https://www.finance-investissement.com/la-banque-du-canada-maintient-le-cap-2/",
+   "resume": "La Banque du Canada a maintenu mercredi son taux directeur à 2,25 %, un niveau inchangé depuis la fin de 2025, invoquant l'incertitude entourant les droits de douane américains et la hausse des prix mondiaux de l'énergie liée au conflit en Iran, selon Finance et Investissement et Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "Finance et Investissement",
+     "url": "https://www.finance-investissement.com/la-banque-du-canada-maintient-le-cap-2/",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "la-banque-du-canada-maintient-son-taux-directeur-a-2-25-e553f7",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "la-banque-du-canada-maintient-son-taux-directeur-a-2-25-e553f7"
+  },
+  {
+   "titre": "Une couronne en or vieille de 16 siècles mise au jour dans la tombe d'une femme hunnique",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Allemagne",
+   "medias": "Geo",
+   "url": "https://www.geo.fr/histoire/une-couronne-en-or-vieille-de-16-siecles-retrouvee-dans-la-tombe-dune-femme-hunnique-233477",
+   "resume": "Ornée de représentations d'oiseaux de proie, une couronne en or vieille de 16 siècles a été retrouvée dans la tombe d'une femme qui appartenait vraisemblablement à l'élite hunnique, fabriquée entre la fin du IVe et le début du Ve siècle et aujourd'hui exposée au Neues Museum de Berlin, selon Geo.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "Geo",
+     "url": "https://www.geo.fr/histoire/une-couronne-en-or-vieille-de-16-siecles-retrouvee-dans-la-tombe-dune-femme-hunnique-233477",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "une-couronne-en-or-vieille-de-16-siecles-mise-au-jour-dans-l-433e98",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "une-couronne-en-or-vieille-de-16-siecles-mise-au-jour-dans-l-433e98"
+  },
+  {
+   "titre": "La SOCAN poursuit la plateforme d'IA Suno pour exploitation de son répertoire musical",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/arts/musique/2026-09-02/poursuite-contre-suno/la-socan-denonce-l-exploitation-de-ses-contenus-par-une-plateforme-d-ia.php",
+   "resume": "La Société canadienne des auteurs, compositeurs et éditeurs de musique (SOCAN) poursuit la plateforme d'intelligence artificielle Suno, l'accusant d'avoir généré et diffusé des contenus copiant des œuvres de son répertoire, selon La Presse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/musique/2026-09-02/poursuite-contre-suno/la-socan-denonce-l-exploitation-de-ses-contenus-par-une-plateforme-d-ia.php",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "la-socan-poursuit-la-plateforme-d-ia-suno-pour-exploitation-72cd39",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "la-socan-poursuit-la-plateforme-d-ia-suno-pour-exploitation-72cd39"
+  },
+  {
+   "titre": "Le pire scénario climatique recule, mais la trajectoire actuelle reste préoccupante",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/planete/actualites/rechauffement-climatique-pire-scenario-recule-cette-bonne-nouvelle-climatique-cache-realite-beaucoup-moins-rassurante-137478/",
+   "resume": "Le scénario climatique dit « intermédiaire », qui reflète les politiques gouvernementales actuelles, franchirait quand même le seuil de 1,5 °C de réchauffement en moins de dix ans, puis les 2 °C vers 2050, nuance Futura, qui relativise ainsi le recul du pire scénario climatique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/planete/actualites/rechauffement-climatique-pire-scenario-recule-cette-bonne-nouvelle-climatique-cache-realite-beaucoup-moins-rassurante-137478/",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "le-pire-scenario-climatique-recule-mais-la-trajectoire-actue-afaa6d",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "le-pire-scenario-climatique-recule-mais-la-trajectoire-actue-afaa6d"
+  },
+  {
+   "titre": "Sophie Adenot dresse le bilan de ses trois sorties spatiales",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "France",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/elles-resteront-le-point-culminant-de-cette-mission-sophie-adenot-dresse-le-bilan-de-ses-trois-sorties-spatiales_8173961.html",
+   "resume": "Au lendemain de sa troisième sortie extravéhiculaire, l'astronaute française Sophie Adenot a présenté mercredi, lors d'une conférence de presse, le bilan de ses activités préférées de sa mission à bord de la Station spatiale internationale, selon franceinfo.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/elles-resteront-le-point-culminant-de-cette-mission-sophie-adenot-dresse-le-bilan-de-ses-trois-sorties-spatiales_8173961.html",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "sophie-adenot-dresse-le-bilan-de-ses-trois-sorties-spatiales-f95003",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "sophie-adenot-dresse-le-bilan-de-ses-trois-sorties-spatiales-f95003"
+  },
+  {
+   "titre": "Instagram sanctionne désormais les avatars générés par IA sans mention de transparence",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/instagram-sanctionne-la-non-transparence-des-avatars-ia-ce-que-changent-les-nouvelles-regles-de-meta-501057.htm",
+   "resume": "Meta impose de nouvelles règles de modération sur Instagram pour les comptes utilisant l'intelligence artificielle sans la mention « généré par IA », distinguant l'usage de l'IA comme outil d'assistance de la création complète d'un personnage fictif, selon ZDNet.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/instagram-sanctionne-la-non-transparence-des-avatars-ia-ce-que-changent-les-nouvelles-regles-de-meta-501057.htm",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "instagram-sanctionne-desormais-les-avatars-generes-par-ia-sa-fbdb9e",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "instagram-sanctionne-desormais-les-avatars-generes-par-ia-sa-fbdb9e"
+  },
+  {
+   "titre": "GoPro racheté pour 285 millions de dollars par Starman Optical",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "Mac4Ever",
+   "url": "https://www.mac4ever.com/divers/197818-gopro-rachete-pour-285-millions-de-dollars-apres-des-annees-de-difficultes",
+   "resume": "Le fabricant américain de caméras d'action GoPro, en difficulté depuis plusieurs années, a conclu un accord définitif de fusion avec Starman Optical, dans une transaction valorisée à 285 millions de dollars, selon Mac4Ever.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197818-gopro-rachete-pour-285-millions-de-dollars-apres-des-annees-de-difficultes",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "gopro-rachete-pour-285-millions-de-dollars-par-starman-optic-4bf6fa",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "gopro-rachete-pour-285-millions-de-dollars-par-starman-optic-4bf6fa"
+  },
+  {
+   "titre": "Desserte maritime des Îles-de-la-Madeleine : un front commun dénonce la position de la STQ",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Îles-de-la-Madeleine",
+   "medias": "Municipalité des Îles-de-la-Madeleine",
+   "url": "https://www.muniles.ca/actualites/desserte-maritime-des-iles-de-la-madeleine-front-commun-pour-denoncer-la-position-de-la-stq/",
+   "resume": "Des représentants des milieux municipal, économique, touristique et maritime des Îles-de-la-Madeleine ont uni leur voix mercredi pour dénoncer la position qu'ils jugent « persistante et inacceptable » de la Société des traversiers du Québec dans le dossier du navire de relève de la CTMA, selon la Municipalité des Îles-de-la-Madeleine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "Municipalité des Îles-de-la-Madeleine",
+     "url": "https://www.muniles.ca/actualites/desserte-maritime-des-iles-de-la-madeleine-front-commun-pour-denoncer-la-position-de-la-stq/",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "desserte-maritime-des-iles-de-la-madeleine-un-front-commun-d-0625ae",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "desserte-maritime-des-iles-de-la-madeleine-un-front-commun-d-0625ae"
+  },
+  {
+   "titre": "Une scénariste innue de Nutashkuan obtient l'appui de la SODEC",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Nutashkuan",
+   "medias": "Le Manic",
+   "url": "https://www.lemanic.ca/2026/09/02/une-scenariste-innue-recoit-lappui-de-la-sodec/",
+   "resume": "La scénariste Lily Bellefleur, de Nutashkuan, a obtenu un financement de la Société de développement des entreprises culturelles (SODEC) pour l'écriture de son court métrage de fiction Mitso, et travaille aussi à deux documentaires, dont un sur la santé mentale des jeunes issus des Premières Nations, selon Le Manic.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T13:42-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/02/une-scenariste-innue-recoit-lappui-de-la-sodec/",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "une-scenariste-innue-de-nutashkuan-obtient-l-appui-de-la-sod-7a24a7",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-02.json",
+   "_slug": "une-scenariste-innue-de-nutashkuan-obtient-l-appui-de-la-sod-7a24a7"
+  },
   {
    "titre": "Le Front commun pour les arts réclame que la culture passe de 1,28 % à 3 % des dépenses de l'État",
    "cahier": "elections",
@@ -576,7 +909,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada, CBC",
+   "medias": "Radio-Canada, CBC, Global News",
    "url": "https://ici.radio-canada.ca/info/videos/1-10750408/electeurs-recevront-documents-information-en-francais-seulement",
    "resume": "Pour se conformer aux récentes modifications aux lois linguistiques québécoises, Élections Québec enverra pour la première fois lors d'une élection générale des documents d'information aux électeurs uniquement en français, rapporte Radio-Canada.\n\n**Mise à jour, 12 h** — La première ministre Christine Fréchette dit que son gouvernement est en discussion avec le directeur général des élections au sujet de cet envoi en français seulement.",
    "photo": "",
@@ -592,6 +925,11 @@
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/montreal/frechette-elections-quebec-9.7329333",
      "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12045015/elections-quebec-french-english-voter-documents-too-late/",
+     "date": "2026-09-02T14:24-04:00"
     }
    ],
    "permalien": "elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519",
@@ -696,9 +1034,9 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "La Presse, Les Affaires, Québecor, Coops de l'information",
+   "medias": "La Presse, Les Affaires, Québecor, Coops de l'information, Le Devoir",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/caq/privatiser-des-services-et-supprimer-2900-postes-promet-frechette.php",
-   "resume": "La cheffe de la CAQ Christine Fréchette promet de confier certains services publics au privé et de supprimer 2900 postes de fonctionnaires d'ici 2029 via un programme de retraite anticipée dès 55 ans, en plus de créer une équipe dédiée à l'« efficacité de l'État ».",
+   "resume": "La cheffe de la CAQ Christine Fréchette promet de confier certains services publics au privé et de supprimer 2900 postes de fonctionnaires d'ici 2029 via un programme de retraite anticipée dès 55 ans, en plus de créer une équipe dédiée à l'« efficacité de l'État ».\n\n**Mise à jour, 14 h** — Le gouvernement chiffre à 507 millions de dollars d'ici 2030-2031 les économies attendues de son plan de réduction de l'État — un « scalpel », dit Christine Fréchette, par opposition à la « tronçonneuse » qu'elle prête à Éric Duhaime.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -741,9 +1079,19 @@
      "media": "Le Soleil",
      "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/02/frechette-vise-3000-fonctionnaires-en-moins-par-attrition-GBLGDA7JXVE27AD7KEBT7HA6HU/",
      "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/02/un-programme-de-depart-anticipe-a-la-retraite-pour-reduire-leffectif-frechette-offrirait-la-liberte-55-a-des-milliers-de-fonctionnaires",
+     "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005893/christine-frechette-mise-departs-hatifs-retraite",
+     "date": "2026-09-02T14:24-04:00"
     }
    ],
-   "horodate": "2026-09-02T10:26-04:00",
+   "horodate": "2026-09-02T14:24-04:00",
    "permalien": "frechette-promet-de-privatiser-des-services-publics-et-de-su-820190",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
@@ -830,7 +1178,7 @@
    "territoire": "Québec",
    "medias": "Québecor",
    "url": "https://www.journaldequebec.com/2026/09/02/la-caq-de-christine-frechette-finance-un-groupe-qui-a-pour-mission-de-faire-la-promotion-du-federalisme",
-   "resume": "Le Bureau parlementaire du Journal de Québec rapporte que la CAQ octroie des contrats rémunérés à Mission Leadership Québec, un organisme qui sollicite des dons pour promouvoir « l'unité canadienne » et se présente comme un OBNL neutre ; un de ses dirigeants confirme viser un « think tank fédéraliste » en cas d'élection du PQ.",
+   "resume": "Le Bureau parlementaire du Journal de Québec rapporte que la CAQ octroie des contrats rémunérés à Mission Leadership Québec, un organisme qui sollicite des dons pour promouvoir « l'unité canadienne » et se présente comme un OBNL neutre ; un de ses dirigeants confirme viser un « think tank fédéraliste » en cas d'élection du PQ.\n\n**Mise à jour, 14 h** — Paul St-Pierre Plamondon dénonce une « ingérence » du Parti libéral du Canada dans ce financement (« ça sent mauvais »), ce qu'Éric Duhaime juge lui aussi « scandaleux » ; Christine Fréchette se dit « à l'aise », les contrats se limitant selon elle à l'organisation de deux assemblées publiques.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -838,9 +1186,14 @@
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/02/la-caq-de-christine-frechette-finance-un-groupe-qui-a-pour-mission-de-faire-la-promotion-du-federalisme",
      "date": "2026-09-02T10:26-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldequebec.com/2026/09/02/la-caq-finance-le-camp-du-non---ca-sent-mauvais--dit-pspp-qui-denonce-une--ingerence--dottawa-duhaime--scandalise",
+     "date": "2026-09-02T14:24-04:00"
     }
    ],
-   "horodate": "2026-09-02T10:26-04:00",
+   "horodate": "2026-09-02T14:24-04:00",
    "permalien": "la-caq-verse-des-contrats-a-un-organisme-voue-a-la-promotion-c1d79e",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
@@ -1263,6 +1616,80 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
    "_slug": "pspp-croit-pouvoir-creer-un-rapport-de-force-avec-mark-carne-a62f23"
+  },
+  {
+   "titre": "Le PQ promet 60 minutes d'activité physique par jour à l'école et une refonte de l'éducation",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Québecor, Le Devoir",
+   "url": "https://www.journaldequebec.com/2026/09/02/le-pq-imposerait-60-minutes-dactivite-physique-par-jour-a-lecole",
+   "resume": "Le chef péquiste Paul St-Pierre Plamondon promet un minimum de 60 minutes d'activité physique obligatoire par jour à l'école primaire et secondaire, et une « mise à jour » du système d'éducation pour réduire les inégalités selon le milieu, deux chantiers qu'il soumettrait à des états généraux dans les 100 premiers jours d'un gouvernement péquiste.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T14:24-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/02/le-pq-imposerait-60-minutes-dactivite-physique-par-jour-a-lecole",
+     "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005845/pq-veut-mise-jour-systeme-education",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "le-pq-promet-60-minutes-d-activite-physique-par-jour-a-l-eco-03ace7",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "le-pq-promet-60-minutes-d-activite-physique-par-jour-a-l-eco-03ace7"
+  },
+  {
+   "titre": "Les groupes environnementaux de la Côte-Nord réclament que Duplessis se prononce en campagne",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Côte-Nord (Duplessis)",
+   "medias": "Le Nord-Côtier",
+   "url": "https://lenord-cotier.com/2026/09/02/lenvironnement-sinvite-dans-la-campagne-electorale-dans-duplessis/",
+   "resume": "Des organismes environnementaux de la Côte-Nord, dont la Corporation de protection de l'environnement de Sept-Îles et Environnement Côte-Nord, réclament que les candidats de la circonscription de Duplessis se positionnent sur les aires protégées et la protection du caribou, jugeant préoccupant le recul des paliers gouvernementaux en environnement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T14:24-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/02/lenvironnement-sinvite-dans-la-campagne-electorale-dans-duplessis/",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "les-groupes-environnementaux-de-la-cote-nord-reclament-que-d-b4bf50",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "les-groupes-environnementaux-de-la-cote-nord-reclament-que-d-b4bf50"
+  },
+  {
+   "titre": "Fréchette invite les fédéralistes déçus du PLQ à rejoindre la CAQ, Milliard réplique",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10750804/operation-seduction-envers-federalistes",
+   "resume": "Christine Fréchette invite les électeurs fédéralistes déçus du Parti libéral du Québec à rejoindre la CAQ d'ici le scrutin du 5 octobre, un appel auquel réplique aussitôt le chef libéral Charles Milliard.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T14:24-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10750804/operation-seduction-envers-federalistes",
+     "date": "2026-09-02T14:24-04:00"
+    }
+   ],
+   "permalien": "frechette-invite-les-federalistes-decus-du-plq-a-rejoindre-l-fd71a7",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "frechette-invite-les-federalistes-decus-du-plq-a-rejoindre-l-fd71a7"
   },
   {
    "titre": "Le Collège LaSalle suspend sa rentrée en attendant un jugement sur sa dette",
@@ -2195,7 +2622,7 @@
    "territoire": "Venezuela",
    "medias": "Radio-Canada, La Presse, France 24, Le Devoir",
    "url": "https://ici.radio-canada.ca/nouvelle/2279771/chris-wright-visite-venezuela-petrole",
-   "resume": "Le secrétaire américain à l'Énergie Chris Wright s'est rendu au Venezuela pour discuter de l'accord conclu fin août avec Washington, qui prévoit une prise de contrôle majoritaire américaine sur plus de 65 milliards de barils de réserves vénézuéliennes et que l'armée du pays a depuis approuvé, selon Radio-Canada et La Presse.",
+   "resume": "Le secrétaire américain à l'Énergie Chris Wright s'est rendu au Venezuela pour discuter de l'accord conclu fin août avec Washington, qui prévoit une prise de contrôle majoritaire américaine sur plus de 65 milliards de barils de réserves vénézuéliennes et que l'armée du pays a depuis approuvé, selon Radio-Canada et La Presse.\n\n**Mise à jour, 13 h 42** — Chevron a obtenu de nouveaux gisements par l'entremise de Petroindependencia, dont il détient 49 %, avec un projet d'investir plus de 7 milliards de dollars en cinq ans pour produire environ 600 000 barils par jour, selon Le Devoir.",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -2211,9 +2638,14 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260902-le-ministre-am%C3%A9ricain-de-l-energie-au-venezuela-pour-discuter-de-l-accord-p%C3%A9trolier",
      "date": "2026-09-02T05:13-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005800/chevron-obtient-nouveaux-gisements-petrole-venezuela",
+     "date": "2026-09-02T13:42-04:00"
     }
    ],
-   "horodate": "2026-09-02T05:05-04:00",
+   "horodate": "2026-09-02T13:42-04:00",
    "permalien": "le-secretaire-americain-a-l-energie-au-venezuela-pour-l-acco-a71ce5",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-02.json",
@@ -4185,10 +4617,10 @@
    "territoire": "Allemagne",
    "medias": "Le Parisien, La Croix, Radio-Canada, Libération, franceinfo, RFI, Le Monde, Le Figaro, BFMTV, TV5MONDE, Ouest-France, L'Express, Le Devoir, La Presse, Agence Anadolu",
    "url": "https://www.leparisien.fr/international/allemagne/un-centre-despionnage-cest-quoi-la-maison-russe-de-berlin-que-lallemagne-a-decide-de-fermer-apres-laffaire-du-drone-de-leipzig-01-09-2026-W245KNM2ZNBDVI3VBRUMI2LGYE.php",
-   "resume": "L'Allemagne a annoncé la fermeture de la Maison russe de Berlin, présentée comme un centre d'influence lié aux services russes, après avoir attribué à Moscou le survol par drone d'un site à Leipzig, selon Le Parisien.\n\n**Mise à jour, 21 h 57** — Berlin a formellement accusé la Russie et annoncé des mesures de rétorsion, selon les ministres allemands de l'Intérieur et des Affaires étrangères ; Vladimir Poutine a qualifié ces mesures, soutenues par la France, de « nouvelle erreur ».",
+   "resume": "L'Allemagne a annoncé la fermeture de la Maison russe de Berlin, présentée comme un centre d'influence lié aux services russes, après avoir attribué à Moscou le survol par drone d'un site à Leipzig, selon Le Parisien.\n\n**Mise à jour, 21 h 57** — Berlin a formellement accusé la Russie et annoncé des mesures de rétorsion, selon les ministres allemands de l'Intérieur et des Affaires étrangères ; Vladimir Poutine a qualifié ces mesures, soutenues par la France, de « nouvelle erreur ».\n\n**Mise à jour, 13 h 42** — Emmanuel Macron a dénoncé « une ingérence » et « une guerre hybride » de la Russie, selon BFMTV.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-01T21:57-04:00",
+   "horodate": "2026-09-02T13:42-04:00",
    "sources": [
     {
      "media": "Le Parisien",
@@ -4456,12 +4888,12 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "QUB radio, Le Journal de Montréal, Parti conservateur du Canada",
+   "medias": "QUB radio, Le Journal de Montréal, Parti conservateur du Canada, Le Devoir",
    "url": "https://www.qub.ca/2026/09/01/pas-une-bonne-idee-de-prolonger-le-conge-de-taxe-daccise-sur-lessence-dit-un-expert",
-   "resume": "L'économiste Pierre-Olivier Pineau, de HEC Montréal, juge qu'Ottawa ne devrait pas prolonger au-delà du 8 septembre le congé de 10 ¢ sur la taxe d'accise fédérale sur l'essence, décrété en avril : une baisse temporaire, prévient-il, finit par devenir permanente et prive l'État de revenus, comme cela s'est produit en Ontario.\n\nLe chroniqueur du Journal de Montréal Francis Gosselin plaide le contraire : la conjoncture énergétique s'est détériorée depuis avril — détroit d'Ormuz toujours fermé, réserve stratégique américaine tombée à 289 millions de barils contre 727 millions en 2010, tarifs américains qui ont renchéri de plus de 3 G$ le coût de l'aluminium et des pièces automobiles —, ce qui rend le retour de la taxe intenable, selon lui.\n\nLe Parti conservateur du Canada exhorte de son côté directement le gouvernement Carney à ne pas laisser prendre fin le congé de taxe le 8 septembre, qualifiant toute hausse de la taxe d'accise en pleine guerre commerciale de mesure à éviter.",
+   "resume": "L'économiste Pierre-Olivier Pineau, de HEC Montréal, juge qu'Ottawa ne devrait pas prolonger au-delà du 8 septembre le congé de 10 ¢ sur la taxe d'accise fédérale sur l'essence, décrété en avril : une baisse temporaire, prévient-il, finit par devenir permanente et prive l'État de revenus, comme cela s'est produit en Ontario.\n\nLe chroniqueur du Journal de Montréal Francis Gosselin plaide le contraire : la conjoncture énergétique s'est détériorée depuis avril — détroit d'Ormuz toujours fermé, réserve stratégique américaine tombée à 289 millions de barils contre 727 millions en 2010, tarifs américains qui ont renchéri de plus de 3 G$ le coût de l'aluminium et des pièces automobiles —, ce qui rend le retour de la taxe intenable, selon lui.\n\nLe Parti conservateur du Canada exhorte de son côté directement le gouvernement Carney à ne pas laisser prendre fin le congé de taxe le 8 septembre, qualifiant toute hausse de la taxe d'accise en pleine guerre commerciale de mesure à éviter.\n\n**Mise à jour, 13 h 42** — Ottawa a tranché : le congé est prolongé jusqu'à la fin de janvier 2027, et le gouvernement Carney a renoncé à environ 2,4 milliards de dollars de revenus depuis le 20 avril, selon Le Devoir.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Petro-Canada_station_at_night%2C_Quebec_City.jpg/1280px-Petro-Canada_station_at_night%2C_Quebec_City.jpg",
    "legende": "Une station-service à Québec.",
-   "horodate": "2026-09-02T06:05-04:00",
+   "horodate": "2026-09-02T13:42-04:00",
    "sources": [
     {
      "media": "QUB radio",
@@ -4477,6 +4909,11 @@
      "media": "Parti conservateur du Canada",
      "url": "https://www.conservative.ca/scrap-the-labour-day-gas-tax-hike/",
      "date": "2026-09-02T06:05-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/canada/1005776/ottawa-prolonge-conge-taxe-accise-essence-jusqu-fin-janvier-2027",
+     "date": "2026-09-02T13:42-04:00"
     }
    ],
    "permalien": "le-conge-de-taxe-d-accise-sur-l-essence-ne-devrait-pas-etre-78d9e8",
