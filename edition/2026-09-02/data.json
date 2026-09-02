@@ -1292,10 +1292,15 @@
    "territoire": "Québec",
    "medias": "La Presse, Les Affaires, Québecor, Coops de l'information, Le Devoir",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/caq/privatiser-des-services-et-supprimer-2900-postes-promet-frechette.php",
-   "resume": "La cheffe de la CAQ Christine Fréchette promet de confier certains services publics au privé et de supprimer 2900 postes de fonctionnaires d'ici 2029 via un programme de retraite anticipée dès 55 ans, en plus de créer une équipe dédiée à l'« efficacité de l'État ».\n\n**Mise à jour, 14 h** — Le gouvernement chiffre à 507 millions de dollars d'ici 2030-2031 les économies attendues de son plan de réduction de l'État — un « scalpel », dit Christine Fréchette, par opposition à la « tronçonneuse » qu'elle prête à Éric Duhaime.",
+   "resume": "La cheffe de la CAQ Christine Fréchette promet de confier certains services publics au privé et de supprimer 2900 postes de fonctionnaires d'ici 2029 via un programme de retraite anticipée dès 55 ans, en plus de créer une équipe dédiée à l'« efficacité de l'État ».\n\n**Mise à jour, 14 h** — Le gouvernement chiffre à 507 millions de dollars d'ici 2030-2031 les économies attendues de son plan de réduction de l'État — un « scalpel », dit Christine Fréchette, par opposition à la « tronçonneuse » qu'elle prête à Éric Duhaime.\n\n**Mise à jour, 17 h** — Québec solidaire réplique qu'il faut se méfier des propositions simplistes en matière de réduction de la taille de l'État, selon Radio-Canada.",
    "photo": "",
    "legende": "",
    "sources": [
+    {
+     "media": "Coalition Avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/02/lequipe-christine-frechette-poursuivra-la-modernisation-de-letat/",
+     "date": "2026-09-02T17:55-04:00"
+    },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/caq/privatiser-des-services-et-supprimer-2900-postes-promet-frechette.php",
@@ -1345,9 +1350,14 @@
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1005893/christine-frechette-mise-departs-hatifs-retraite",
      "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/en-direct/1014261/elections-quebec-jour-7-campagne-electorale",
+     "date": "2026-09-02T17:55-04:00"
     }
    ],
-   "horodate": "2026-09-02T14:24-04:00",
+   "horodate": "2026-09-02T17:55-04:00",
    "permalien": "frechette-promet-de-privatiser-des-services-publics-et-de-su-820190",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
@@ -1896,6 +1906,11 @@
    "horodate": "2026-09-02T17:20-04:00",
    "sources": [
     {
+     "media": "Parti québécois",
+     "url": "https://pq.org/nouvelles/un-gouvernement-du-parti-quebecois-lancera-cinq-grands-chantiers-en-education/",
+     "date": "2026-09-02T17:55-04:00"
+    },
+    {
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/02/le-pq-imposerait-60-minutes-dactivite-physique-par-jour-a-lecole",
      "date": "2026-09-02T14:24-04:00"
@@ -2109,6 +2124,85 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
    "_slug": "riviere-du-louptemiscouatales-basques-le-demenagement-du-tra-6addec"
+  },
+  {
+   "titre": "Fréchette promet un plan national et 100 M$ contre l'itinérance",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Coalition Avenir Québec, Radio-Canada",
+   "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/02/lequipe-christine-frechette-veut-renverser-la-tendance-en-itinerance/",
+   "resume": "La cheffe de la CAQ Christine Fréchette promet de bâtir avec le milieu un plan d'action national en itinérance présenté au printemps 2027 et de bonifier de 100 millions de dollars l'aide au logement, dont 2000 nouveaux suppléments au loyer, lors d'un arrêt de campagne à Trois-Rivières.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Coalition Avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/02/lequipe-christine-frechette-veut-renverser-la-tendance-en-itinerance/",
+     "date": "2026-09-02T17:55-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/en-direct/1014261/elections-quebec-jour-7-campagne-electorale",
+     "date": "2026-09-02T17:55-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T17:55-04:00",
+   "permalien": "frechette-promet-un-plan-national-et-100-m-contre-l-itineran-13353e",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "frechette-promet-un-plan-national-et-100-m-contre-l-itineran-13353e"
+  },
+  {
+   "titre": "Le PCQ promet de réduire de 30 % le fardeau réglementaire des entreprises",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Parti conservateur du Québec, Journal Métro",
+   "url": "https://conservateur.quebec/blog/ressources/fini-la-paperasse-le-pcq-veut-redonner-32-jours-par-annee-aux-entrepreneurs/",
+   "resume": "Le chef conservateur Éric Duhaime propose de réduire de 30 % la réglementation imposée aux entreprises au cours d'un premier mandat, ce qu'il chiffre à 32 jours de démarches redonnés par année à chaque entrepreneur sur les 145 958 exigences réglementaires provinciales recensées par son parti.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/fini-la-paperasse-le-pcq-veut-redonner-32-jours-par-annee-aux-entrepreneurs/",
+     "date": "2026-09-02T17:55-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226214/elections-jour-6-education-taxes-logement-immigration-et-paperasse/",
+     "date": "2026-09-02T17:55-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T17:55-04:00",
+   "permalien": "le-pcq-promet-de-reduire-de-30-le-fardeau-reglementaire-des-8d1722",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "le-pcq-promet-de-reduire-de-30-le-fardeau-reglementaire-des-8d1722"
+  },
+  {
+   "titre": "Sondage Léger : la baisse de la TVQ sur les biens usagés, promesse la mieux accueillie",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Léger",
+   "url": "https://leger360.com/election-promises-quebec-2026/",
+   "resume": "Un sondage Léger mené pour Le Journal et TVA Nouvelles auprès de 1010 Québécois du 21 au 24 août place l'abolition de la TVQ sur les biens usagés (77 % d'appuis), la baisse ou la gratuité du transport en commun pour étudiants et aînés (72 %) et l'aide aux premiers acheteurs (71 %) en tête des mesures électorales les mieux reçues, plusieurs faisant consensus au-delà des lignes de parti.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Léger",
+     "url": "https://leger360.com/election-promises-quebec-2026/",
+     "date": "2026-09-02T17:55-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T17:55-04:00",
+   "permalien": "sondage-leger-la-baisse-de-la-tvq-sur-les-biens-usages-prome-b2817c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "sondage-leger-la-baisse-de-la-tvq-sur-les-biens-usages-prome-b2817c"
   },
   {
    "titre": "Le Collège LaSalle suspend sa rentrée en attendant un jugement sur sa dette",
