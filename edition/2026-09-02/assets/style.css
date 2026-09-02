@@ -146,7 +146,27 @@ h1{font-family:var(--titre);font-size:3rem;line-height:1.05;margin:.35rem 0 .7re
 .man-grille{display:grid;grid-template-columns:7fr 5fr;gap:2.2rem;
  align-items:center}
 .man-grille.sans-photo{grid-template-columns:1fr}
-.man-grille.sans-photo .man-texte{max-width:52rem;margin:0 auto}
+/* Sans photo (1er sept. 2026) : la section passe en deux colonnes — le sujet
+   principal a gauche, les secondaires EMPILES a droite. Avant, le texte se
+   centrait dans une colonne de 52 rem au milieu d'un grand cadre : sur un
+   ecran de 2276 px, 900 px de vide borde d'un filet, comme un cadre dont
+   l'image manque. Les secondaires en colonne remplissent ce vide et lisent
+   comme une une de journal. L'extrait garde une mesure lisible. */
+.manchette.sans-photo{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);
+ gap:.4rem 3rem;align-items:start}
+.manchette.sans-photo .etiq{grid-column:1/-1;justify-self:start}
+.manchette.sans-photo .man-grille{grid-column:1}
+.manchette.sans-photo .man-texte{max-width:none;margin:0}
+.manchette.sans-photo .extrait{max-width:70ch}
+.manchette.sans-photo .secondaires{grid-column:2;grid-template-columns:1fr;
+ margin:0;padding-top:0;gap:0}
+.manchette.sans-photo .secondaires article.carte{padding:.9rem 0 1rem;
+ border-top:3px solid var(--ca,var(--rule))}
+.manchette.sans-photo .secondaires article.carte:first-child{padding-top:.2rem;border-top:0}
+.manchette.sans-photo .secondaires .extrait{display:none}
+@media (max-width:62rem){.manchette.sans-photo{display:block}
+ .manchette.sans-photo .secondaires{grid-template-columns:1fr;margin-top:1.4rem}}
+html[data-cols="1"] .manchette.sans-photo{display:block}
 .manchette figure{margin:0}
 .manchette img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;
  display:block;background:var(--rule);border-radius:.25rem}
@@ -156,7 +176,7 @@ h1{font-family:var(--titre);font-size:3rem;line-height:1.05;margin:.35rem 0 .7re
  margin:.3rem 0 .6rem;letter-spacing:-.022em;font-weight:800}
 .manchette h2 a{text-decoration:none;color:inherit}
 .manchette h2 a:hover{color:var(--accent-txt)}
-.manchette .extrait{font-size:1.16rem;line-height:1.66;color:var(--fg)}
+.manchette .extrait{font-size:1.16rem;line-height:1.66;color:var(--fg);text-align:left}
 .man-cta{display:inline-block;margin-top:1rem;background:var(--accent);
  color:var(--accent-fg);font-family:var(--ui);font-weight:800;font-size:.95rem;
  padding:.7rem 1.25rem;border-radius:.3rem;text-decoration:none;
@@ -266,7 +286,11 @@ h4.titre a{text-decoration:none;color:inherit}
 h4.titre a:hover{color:var(--accent-txt)}
 .credit{font-family:var(--ui);font-size:.7rem;color:var(--muted);
  margin-bottom:.45rem;letter-spacing:.02em}
-.extrait{margin:.3rem 0 .6rem;line-height:1.6;font-size:.92rem;color:var(--muted)}
+/* En drapeau, jamais justifie : dans une carte de 280 px la justification
+   etire les mots en rivieres. La justification reste au corps des articles
+   (.resume), qui a des lignes assez longues pour l'absorber. */
+.extrait{margin:.3rem 0 .6rem;line-height:1.6;font-size:.92rem;color:var(--muted);
+ text-align:left}
 .plus{font-family:var(--ui);font-size:.74rem;margin-top:auto;font-weight:700}
 .plus a:not(.man-cta){text-decoration:none;display:inline-block;
  background:var(--accent);color:var(--accent-fg);padding:.28rem .65rem;
