@@ -2,6 +2,7 @@
  "date": "2026-09-02",
  "volets": [
   "elections",
+  "hors-rss",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -513,7 +514,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, Les Affaires, Québecor",
    "url": "https://ici.radio-canada.ca/info/en-direct/1014261/elections-quebec-jour-7-campagne-electorale",
    "resume": "En campagne à Québec, le chef du Parti conservateur du Québec Éric Duhaime propose de négocier la levée de barrières commerciales interprovinciales pour ouvrir davantage le marché canadien aux entreprises québécoises, une mesure présentée pour contrer les effets des tarifs américains, faisant valoir que le Québec compte parmi les provinces qui appliquent le plus d'exceptions à l'Accord de libre-échange canadien.",
    "photo": "",
@@ -524,6 +525,16 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/info/en-direct/1014261/elections-quebec-jour-7-campagne-electorale",
      "date": "2026-09-02T09:25-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-7-le-pcq-veut-reduire-les-barrieres-interprovinciales/",
+     "date": "2026-09-02T10:26-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/02/en-direct--7e-journee-de-campagne-electorale-voici-lhoraire-des-cinq-chefs",
+     "date": "2026-09-02T10:26-04:00"
     }
    ],
    "permalien": "eric-duhaime-promet-d-abattre-les-barrieres-commerciales-int-e1d5be",
@@ -668,6 +679,573 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
    "_slug": "sylvain-charlebois-juge-les-epiceries-publiques-de-quebec-so-6e21df"
+  },
+  {
+   "titre": "Fréchette promet de privatiser des services publics et de supprimer 2900 postes de fonctionnaires",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "La Presse, Les Affaires, Québecor",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/caq/privatiser-des-services-et-supprimer-2900-postes-promet-frechette.php",
+   "resume": "La cheffe de la CAQ Christine Fréchette promet de confier certains services publics au privé et de supprimer 2900 postes de fonctionnaires d'ici 2029 via un programme de retraite anticipée dès 55 ans, en plus de créer une équipe dédiée à l'« efficacité de l'État ».",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/caq/privatiser-des-services-et-supprimer-2900-postes-promet-frechette.php",
+     "date": "2026-09-02T10:26-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-6-la-caq-mise-sur-des-departs-volontaires-pour-degraisser-letat/",
+     "date": "2026-09-02T10:26-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/02/en-direct--7e-journee-de-campagne-electorale-voici-lhoraire-des-cinq-chefs",
+     "date": "2026-09-02T10:26-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T10:26-04:00",
+   "permalien": "frechette-promet-de-privatiser-des-services-publics-et-de-su-820190",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "frechette-promet-de-privatiser-des-services-publics-et-de-su-820190"
+  },
+  {
+   "titre": "Un fact-check juge exagéré le chiffrage de Paul St-Pierre Plamondon sur l'économie de la taxe de vente",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/02/paul-st-pierre-plamondon-exagere-sur-leconomie-de-la-taxe-de-vente-du-quebec-tvq",
+   "resume": "Le Bureau d'enquête du Journal de Montréal juge exagérée l'affirmation du chef péquiste Paul St-Pierre Plamondon selon laquelle retirer la TVQ sur un électroménager usagé ferait économiser 100 à 150 $ : un expert en économie circulaire de l'UQAM situe plutôt l'économie entre 35 et 75 $, les électroménagers usagés étant déjà nettement moins chers que le neuf.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/02/paul-st-pierre-plamondon-exagere-sur-leconomie-de-la-taxe-de-vente-du-quebec-tvq",
+     "date": "2026-09-02T10:26-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T10:26-04:00",
+   "permalien": "un-fact-check-juge-exagere-le-chiffrage-de-paul-st-pierre-pl-9ac049",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "un-fact-check-juge-exagere-le-chiffrage-de-paul-st-pierre-pl-9ac049"
+  },
+  {
+   "titre": "Paul St-Pierre Plamondon a versé plusieurs dons au Parti libéral du Canada entre 2004 et 2008",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/02/paul-st-pierre-plamondon-a-fait-plusieurs-dons-au-parti-liberal-du-canada",
+   "resume": "Le Bureau d'enquête du Journal de Montréal a trouvé au moins sept dons totalisant environ 2300 $ versés par le chef péquiste Paul St-Pierre Plamondon au Parti libéral du Canada entre 2004 et 2008, une somme supérieure à celle de ses dons au Bloc Québécois ; le Parti québécois répond que cela ne remet pas en question la fibre souverainiste de son chef.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/02/paul-st-pierre-plamondon-a-fait-plusieurs-dons-au-parti-liberal-du-canada",
+     "date": "2026-09-02T10:26-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T10:26-04:00",
+   "permalien": "paul-st-pierre-plamondon-a-verse-plusieurs-dons-au-parti-lib-7b834c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "paul-st-pierre-plamondon-a-verse-plusieurs-dons-au-parti-lib-7b834c"
+  },
+  {
+   "titre": "Un candidat libéral pressenti comme ministre visé par un rapport sur des comportements troublants à l'Assemblée nationale",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Vanier-Les Rivières)",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/02/comportements-troublants-pour-un-candidat-liberal-bien-en-vue",
+   "resume": "Le Bureau d'enquête du Journal de Montréal rapporte que Charles Hudon, candidat libéral dans Vanier-Les Rivières pressenti par des analystes comme éventuel ministre de la Sécurité publique, fait l'objet de témoignages recueillis en 2022 lui prêtant des propos et comportements jugés intimidants envers des subordonnés à l'Assemblée nationale ; le PLQ n'a pas voulu commenter.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/02/comportements-troublants-pour-un-candidat-liberal-bien-en-vue",
+     "date": "2026-09-02T10:26-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T10:26-04:00",
+   "permalien": "un-candidat-liberal-pressenti-comme-ministre-vise-par-un-rap-5b2c08",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "un-candidat-liberal-pressenti-comme-ministre-vise-par-un-rap-5b2c08"
+  },
+  {
+   "titre": "La CAQ verse des contrats à un organisme voué à la promotion du fédéralisme pendant la campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/09/02/la-caq-de-christine-frechette-finance-un-groupe-qui-a-pour-mission-de-faire-la-promotion-du-federalisme",
+   "resume": "Le Bureau parlementaire du Journal de Québec rapporte que la CAQ octroie des contrats rémunérés à Mission Leadership Québec, un organisme qui sollicite des dons pour promouvoir « l'unité canadienne » et se présente comme un OBNL neutre ; un de ses dirigeants confirme viser un « think tank fédéraliste » en cas d'élection du PQ.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/02/la-caq-de-christine-frechette-finance-un-groupe-qui-a-pour-mission-de-faire-la-promotion-du-federalisme",
+     "date": "2026-09-02T10:26-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T10:26-04:00",
+   "permalien": "la-caq-verse-des-contrats-a-un-organisme-voue-a-la-promotion-c1d79e",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "la-caq-verse-des-contrats-a-un-organisme-voue-a-la-promotion-c1d79e"
+  },
+  {
+   "titre": "Québec solidaire promet un programme de prêts et un projet-pilote de 2000 propriétés abordables",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.tvanouvelles.ca/2026/09/02/en-direct--7e-journee-de-campagne-electorale-voici-lhoraire-des-cinq-chefs",
+   "resume": "La porte-parole de Québec solidaire Ruba Ghazal promet un programme de prêts pouvant couvrir jusqu'à 15 % de la mise de fonds sur une maison neuve pour les premiers acheteurs, ainsi qu'un projet-pilote de 2000 propriétés abordables inspiré d'un programme du Vermont.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/02/en-direct--7e-journee-de-campagne-electorale-voici-lhoraire-des-cinq-chefs",
+     "date": "2026-09-02T10:26-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T10:26-04:00",
+   "permalien": "quebec-solidaire-promet-un-programme-de-prets-et-un-projet-p-4c6e3d",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "quebec-solidaire-promet-un-programme-de-prets-et-un-projet-p-4c6e3d"
+  },
+  {
+   "titre": "Le PQ talonne la CAQ dans plusieurs circonscriptions de la Rive-Nord, selon un simulateur électoral",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Lanaudière-Laurentides",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/02/sur-la-15-la-caq-freine-sa-chute",
+   "resume": "Selon les projections du simulateur électoral Route 127, sept circonscriptions de Lanaudière et des Laurentides se jouent à moins de trois points entre la CAQ et le PQ, la CAQ n'y conservant que six des dix-huit comtés de la région où onze des dix-sept députés sortants ne se représentent pas.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/02/sur-la-15-la-caq-freine-sa-chute",
+     "date": "2026-09-02T10:26-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T10:26-04:00",
+   "permalien": "le-pq-talonne-la-caq-dans-plusieurs-circonscriptions-de-la-r-95db53",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "le-pq-talonne-la-caq-dans-plusieurs-circonscriptions-de-la-r-95db53"
+  },
+  {
+   "titre": "La CAQ termine sa liste de candidats avec la nomination de Jean Lacroix dans Sanguinet",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Montérégie (Sanguinet)",
+   "medias": "Le Reflet",
+   "url": "https://lereflet.qc.ca/elections-provinciales-jean-lacroix-portera-les-couleurs-de-la-caq-dans-sanguinet/",
+   "resume": "La CAQ devient le premier parti à avoir complété l'ensemble de ses candidatures dans la province en présentant Jean Lacroix, un gestionnaire du secteur agroalimentaire, dans Sanguinet.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Reflet",
+     "url": "https://lereflet.qc.ca/elections-provinciales-jean-lacroix-portera-les-couleurs-de-la-caq-dans-sanguinet/",
+     "date": "2026-09-02T10:26-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T10:26-04:00",
+   "permalien": "la-caq-termine-sa-liste-de-candidats-avec-la-nomination-de-j-f4e91f",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "la-caq-termine-sa-liste-de-candidats-avec-la-nomination-de-j-f4e91f"
+  },
+  {
+   "titre": "Sébastien Schneeberger brigue un sixième mandat pour la CAQ dans Drummond-Bois-Francs",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Centre-du-Québec (Drummond-Bois-Francs)",
+   "medias": "L'Express",
+   "url": "https://www.journalexpress.ca/actualite/sebastien-schneeberger-officialise-sa-candidature/",
+   "resume": "Le député sortant Sébastien Schneeberger, en poste depuis plus de seize ans, a officiellement déposé sa candidature pour la CAQ dans Drummond-Bois-Francs en vue d'un sixième mandat.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "L'Express",
+     "url": "https://www.journalexpress.ca/actualite/sebastien-schneeberger-officialise-sa-candidature/",
+     "date": "2026-09-02T10:26-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T10:26-04:00",
+   "permalien": "sebastien-schneeberger-brigue-un-sixieme-mandat-pour-la-caq-11c47a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "sebastien-schneeberger-brigue-un-sixieme-mandat-pour-la-caq-11c47a"
+  },
+  {
+   "titre": "Laurier Michaud conteste les allégations qui ont mené le PLQ à retirer sa candidature dans Côte-du-Sud",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Bas-Saint-Laurent (Côte-du-Sud)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/elections-quebec-2026/laurier-michaud-conteste-des-allegations-aux-consequences-importantes/",
+   "resume": "Laurier Michaud, dont la candidature libérale dans Côte-du-Sud avait été retirée en juin, conteste « vigoureusement » par communiqué les allégations en cause et dit avoir retenu les services d'un cabinet d'avocats pour défendre sa réputation ; le PLQ n'y présente désormais plus sa candidature, remplacée par Nancy St-Pierre.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/elections-quebec-2026/laurier-michaud-conteste-des-allegations-aux-consequences-importantes/",
+     "date": "2026-09-02T10:26-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T10:26-04:00",
+   "permalien": "laurier-michaud-conteste-les-allegations-qui-ont-mene-le-plq-4e76ea",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "laurier-michaud-conteste-les-allegations-qui-ont-mene-le-plq-4e76ea"
+  },
+  {
+   "titre": "Le Collège LaSalle suspend sa rentrée en attendant un jugement sur sa dette",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Montréal (Ville-Marie)",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/lasalle-college-students-in-limbo-as-financial-dispute-with-quebec-stalls-semester/",
+   "resume": "Le Collège LaSalle a suspendu ses cours d'automne en attendant un jugement de la Cour supérieure attendu jeudi sur sa dette : l'établissement s'est vu imposer une pénalité de 30 millions de dollars pour avoir dépassé les quotas d'inscriptions en anglais, et Québec retient depuis juillet les 31 millions de subventions qu'il verse annuellement, affirme son directeur Claude Marchand.\n\nSous protection temporaire contre ses créanciers, le collège chiffre à 150 millions le coût d'une fermeture pour l'État, tandis que ses quelque 3 000 étudiants attendent de savoir s'ils devront se replacer ailleurs ; le cabinet de la ministre de l'Enseignement supérieur Martine Biron n'a pas réagi.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-college-students-in-limbo-as-financial-dispute-with-quebec-stalls-semester/",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "le-college-lasalle-suspend-sa-rentree-en-attendant-un-jugeme-779a51",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "le-college-lasalle-suspend-sa-rentree-en-attendant-un-jugeme-779a51"
+  },
+  {
+   "titre": "Paralysée après une intervention policière, elle réclame 112,5 millions à Montréal",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Montréal (Ahuntsic-Cartierville)",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/paralyzed-woman-seeks-1125-million-from-city-after-police-intervention/",
+   "resume": "Hortense Anagonou Cica, 44 ans, réclame 112,5 millions de dollars au Service de police de la Ville de Montréal et à la Ville dans une poursuite déposée le 25 août en Cour supérieure : menottée et plaquée au sol devant son domicile en septembre 2023, puis laissée sur le trottoir sans que les policiers appellent les secours selon le rapport du Bureau des enquêtes indépendantes, elle se déplace aujourd'hui en fauteuil roulant.\n\nLa poursuite allègue que sa couleur, son origine et son statut de femme noire ont pu peser sur l'évaluation de la menace et le recours à la force ; la Ville refuse de commenter une affaire devant les tribunaux et aucune allégation n'a encore été prouvée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/paralyzed-woman-seeks-1125-million-from-city-after-police-intervention/",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "paralysee-apres-une-intervention-policiere-elle-reclame-112-07ded3",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "paralysee-apres-une-intervention-policiere-elle-reclame-112-07ded3"
+  },
+  {
+   "titre": "Repentigny réclame une limite de vitesse permanente pour les trains du CN",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Repentigny (Lanaudière)",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/residents-press-officials-on-public-safety-property-value-concerns-after-train-derailment/",
+   "resume": "Réunis à huis clos lundi soir avec le CN et la Ville, les riverains du déraillement du 5 juillet à Repentigny demandent que la limite temporaire de 20 km/h devienne permanente, une requête que le maire Nicolas Dufour dit vouloir porter au CN, à Transports Canada et au ministre fédéral des Transports.\n\nLe Bureau de la sécurité des transports a relevé sur les lieux des ancrages de rail manquants ou déplacés, des traverses de travers et des rails déportés de près de neuf centimètres.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/residents-press-officials-on-public-safety-property-value-concerns-after-train-derailment/",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "repentigny-reclame-une-limite-de-vitesse-permanente-pour-les-4c7294",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "repentigny-reclame-une-limite-de-vitesse-permanente-pour-les-4c7294"
+  },
+  {
+   "titre": "Fuite de gaz : la rue Sherbrooke fermée quelques heures dans Notre-Dame-de-Grâce",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Montréal (Côte-des-Neiges–Notre-Dame-de-Grâce)",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/gas-leak-forces-sherbrooke-street-closure-in-ndg/",
+   "resume": "Un ouvrier a percé une conduite de gaz à 14 h 21 mardi sur un chantier de Notre-Dame-de-Grâce, forçant la fermeture de la rue Sherbrooke dans les deux sens entre le chemin de la Côte-Saint-Antoine et l'avenue Wilson, le temps d'une réparation menée avec Énergir, selon le Service de sécurité incendie de Montréal.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/gas-leak-forces-sherbrooke-street-closure-in-ndg/",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "fuite-de-gaz-la-rue-sherbrooke-fermee-quelques-heures-dans-n-57821b",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "fuite-de-gaz-la-rue-sherbrooke-fermee-quelques-heures-dans-n-57821b"
+  },
+  {
+   "titre": "Six véhicules volés saisis dans un conteneur à Dorval",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Dorval (Montréal)",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/west_island_news/dorval-raid-nets-six-stolen-vehicles/article_f070fd3e-a080-4120-ab95-b811eebcf087.html",
+   "resume": "La Sûreté du Québec a saisi six véhicules immatriculés au Québec et en Ontario, un chariot élévateur, des plaques et des documents lors d'une perquisition menée le 27 août dans un local commercial et un conteneur de l'avenue Lépine, à Dorval, dans une enquête sur un réseau structuré d'exportation de voitures volées ; aucune arrestation n'a été annoncée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/west_island_news/dorval-raid-nets-six-stolen-vehicles/article_f070fd3e-a080-4120-ab95-b811eebcf087.html",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "six-vehicules-voles-saisis-dans-un-conteneur-a-dorval-0cadbf",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "six-vehicules-voles-saisis-dans-un-conteneur-a-dorval-0cadbf"
+  },
+  {
+   "titre": "Repentigny obtient 370 000 $ pour renforcer sa lutte contre la violence conjugale",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Repentigny (Lanaudière)",
+   "medias": "Hebdo Rive Nord",
+   "url": "https://www.hebdorivenord.com/article/actualites/le-spvr-sengage-a-fond-pour-contrer-la-violence-conjugale/",
+   "resume": "Le ministère de la Sécurité intérieure versera 370 106 $ sur deux ans au Service de police de la Ville de Repentigny, par son programme de lutte contre la criminalité, pour ajouter deux ressources à l'équipe consacrée à la violence conjugale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "Hebdo Rive Nord",
+     "url": "https://www.hebdorivenord.com/article/actualites/le-spvr-sengage-a-fond-pour-contrer-la-violence-conjugale/",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "repentigny-obtient-370-000-pour-renforcer-sa-lutte-contre-la-ed7fb8",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "repentigny-obtient-370-000-pour-renforcer-sa-lutte-contre-la-ed7fb8"
+  },
+  {
+   "titre": "Deux arrondissements montréalais cherchent des citoyens pour leur comité d'urbanisme",
+   "cahier": "montreal",
+   "rubrique": "municipal",
+   "territoire": "Montréal (Le Sud-Ouest et LaSalle)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/actualites/le-comite-consultatif-durbanisme-recrute-119720",
+   "resume": "Le Sud-Ouest et LaSalle ont lancé mardi des appels de candidatures pour pourvoir des sièges citoyens à leur comité consultatif d'urbanisme, l'instance qui se prononce sur les dérogations et les projets de construction avant les décisions du conseil d'arrondissement, annonce la Ville de Montréal.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/le-comite-consultatif-durbanisme-recrute-119720",
+     "date": "2026-09-02T10:10-04:00"
+    },
+    {
+     "media": "Ville de Montréal (LaSalle)",
+     "url": "https://montreal.ca/actualites/appel-de-candidatures-comite-consultatif-durbanisme-de-lasalle-119650",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "deux-arrondissements-montrealais-cherchent-des-citoyens-pour-d897fe",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "deux-arrondissements-montrealais-cherchent-des-citoyens-pour-d897fe"
+  },
+  {
+   "titre": "Anjou distribue des languettes réfléchissantes aux écoliers et aux aînés",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Montréal (Anjou)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/actualites/une-vignette-reflechissante-pour-des-deplacements-plus-securitaires-119536",
+   "resume": "L'arrondissement d'Anjou et le poste de quartier 46 du Service de police de la Ville de Montréal distribuent des languettes réfléchissantes aux élèves du primaire et aux aînés du secteur, pour rendre les piétons plus visibles à l'approche des journées plus courtes, indique la Ville.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/une-vignette-reflechissante-pour-des-deplacements-plus-securitaires-119536",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "anjou-distribue-des-languettes-reflechissantes-aux-ecoliers-16fb8f",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "anjou-distribue-des-languettes-reflechissantes-aux-ecoliers-16fb8f"
+  },
+  {
+   "titre": "Le pont de Québec fermé toutes les nuits jusqu'à vendredi",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Québec / Lévis",
+   "medias": "Le Journal de Lévis",
+   "url": "https://www.journaldelevis.com/jdl/31/Transports.html?id=46405",
+   "resume": "Le pont de Québec est complètement fermé à la circulation de 21 h à 5 h 30 chaque nuit jusqu'à vendredi matin pour des travaux d'entretien, selon le ministère des Transports ; le trottoir reste ouvert aux piétons et aux cyclistes, et une navette prend les cyclomotoristes à la station de la Presqu'île et sur le chemin Saint-Louis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Lévis",
+     "url": "https://www.journaldelevis.com/jdl/31/Transports.html?id=46405",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "le-pont-de-quebec-ferme-toutes-les-nuits-jusqu-a-vendredi-76a6ef",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "le-pont-de-quebec-ferme-toutes-les-nuits-jusqu-a-vendredi-76a6ef"
+  },
+  {
+   "titre": "Autobus Auger passe la rentrée « à un remplacement près d'un bris de service »",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Lévis et région de Québec",
+   "medias": "Le Journal de Lévis",
+   "url": "https://www.journaldelevis.com/jdl/31/Transports.html?id=46403",
+   "resume": "Faute de conducteurs, Autobus Auger dessert tous ses parcours de la grande région de Québec grâce à des mécaniciens et des répartiteurs qui prennent le volant, et se trouve « à un remplacement près d'un bris de service », dit son président Sylvain Auger, qui cherche une dizaine de conducteurs polyvalents à temps plein, surtout dans l'ouest de Lévis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Lévis",
+     "url": "https://www.journaldelevis.com/jdl/31/Transports.html?id=46403",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "autobus-auger-passe-la-rentree-a-un-remplacement-pres-d-un-b-735de0",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "autobus-auger-passe-la-rentree-a-un-remplacement-pres-d-un-b-735de0"
+  },
+  {
+   "titre": "Un centre d'évaluation de la grêle ouvre à Saint-Isidore",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Saint-Isidore (Nouvelle-Beauce)",
+   "medias": "Beauce Média",
+   "url": "https://www.beaucemedia.ca/actualites/un-centre-de-grele-a-saint-isidore/",
+   "resume": "Promutuel Assurance a ouvert au 2125, route du Président-Kennedy, à Saint-Isidore, un centre où seront évaluées les réclamations nées des épisodes de grêle du 24 août ; il accueille les assurés sur rendez-vous de 8 h à 18 h les 1er, 2, 8, 9, 16, 17 et 18 septembre, et Beneva y tiendra aussi ses journées d'évaluation.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "Beauce Média",
+     "url": "https://www.beaucemedia.ca/actualites/un-centre-de-grele-a-saint-isidore/",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "un-centre-d-evaluation-de-la-grele-ouvre-a-saint-isidore-970c7d",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "un-centre-d-evaluation-de-la-grele-ouvre-a-saint-isidore-970c7d"
+  },
+  {
+   "titre": "Sainte-Hénédine reconstruira le bâtiment de service de sa piscine",
+   "cahier": "quebec",
+   "rubrique": "municipal",
+   "territoire": "Sainte-Hénédine (Nouvelle-Beauce)",
+   "medias": "Beauce Média",
+   "url": "https://www.beaucemedia.ca/actualites/sainte-henedine-investit-dans-son-bien-etre/",
+   "resume": "Sainte-Hénédine reconstruira cet automne le bâtiment de service de sa piscine municipale, jusqu'ici dépourvu de toilettes, pour y ajouter douches, rangement et local pour les sauveteurs d'ici la saison 2027, et aménagera l'an prochain un espace ludique à la bibliothèque La Détente, annonce le maire Marc-Antoine Cyr.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "Beauce Média",
+     "url": "https://www.beaucemedia.ca/actualites/sainte-henedine-investit-dans-son-bien-etre/",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "sainte-henedine-reconstruira-le-batiment-de-service-de-sa-pi-d334a5",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "sainte-henedine-reconstruira-le-batiment-de-service-de-sa-pi-d334a5"
+  },
+  {
+   "titre": "Un duplex lourdement endommagé par le feu à Sainte-Marie",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Sainte-Marie (Nouvelle-Beauce)",
+   "medias": "Beauce Média",
+   "url": "https://www.beaucemedia.ca/faits-divers/incendie-de-residence-a-sainte-marie/",
+   "resume": "Le feu sortait déjà du toit et gagnait le second logement à l'arrivée des pompiers, mardi peu avant 11 h, rue Laval à Sainte-Marie, où un duplex a subi d'importants dommages ; les flammes avaient atteint les haies de cèdres et se dirigeaient vers les maisons voisines, décrit le directeur du Service incendie Serge Fecteau.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "Beauce Média",
+     "url": "https://www.beaucemedia.ca/faits-divers/incendie-de-residence-a-sainte-marie/",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "un-duplex-lourdement-endommage-par-le-feu-a-sainte-marie-d9becd",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "un-duplex-lourdement-endommage-par-le-feu-a-sainte-marie-d9becd"
+  },
+  {
+   "titre": "Hélène Methot prend la présidence de la chambre de commerce de Saint-Georges",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Saint-Georges (Beauce)",
+   "medias": "L'Éclaireur Progrès",
+   "url": "https://www.leclaireurprogres.ca/affaires/une-nouvelle-presidente-a-la-tete-de-la-ccisg/",
+   "resume": "Hélène Methot, de Bérubé Audioprothésistes, devient présidente du conseil d'administration de la Chambre de commerce et d'industrie de Saint-Georges.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T10:09-04:00",
+   "sources": [
+    {
+     "media": "L'Éclaireur Progrès",
+     "url": "https://www.leclaireurprogres.ca/affaires/une-nouvelle-presidente-a-la-tete-de-la-ccisg/",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "helene-methot-prend-la-presidence-de-la-chambre-de-commerce-99aeb6",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-02.json",
+   "_slug": "helene-methot-prend-la-presidence-de-la-chambre-de-commerce-99aeb6"
   },
   {
    "titre": "Guerre en Ukraine : une sixième nuit de frappes russes fait au moins douze morts à Kyiv",
