@@ -1460,9 +1460,9 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Québecor, Le Devoir, La Presse, Les Affaires",
+   "medias": "Québecor, Le Devoir, La Presse, Les Affaires, Journal Métro",
    "url": "https://www.tvanouvelles.ca/2026/09/02/en-direct--7e-journee-de-campagne-electorale-voici-lhoraire-des-cinq-chefs",
-   "resume": "La porte-parole de Québec solidaire Ruba Ghazal promet un programme de prêts pouvant couvrir jusqu'à 15 % de la mise de fonds sur une maison neuve pour les premiers acheteurs, ainsi qu'un projet-pilote de 2000 propriétés abordables inspiré d'un programme du Vermont.\n\n**Mise à jour, 12 h** — Québec solidaire chiffre à 420 millions de dollars l'aide que son programme apporterait à plus de 25 000 Québécois par année pour l'achat d'une première propriété.",
+   "resume": "La porte-parole de Québec solidaire Ruba Ghazal promet un programme de prêts pouvant couvrir jusqu'à 15 % de la mise de fonds sur une maison neuve pour les premiers acheteurs, ainsi qu'un projet-pilote de 2000 propriétés abordables inspiré d'un programme du Vermont.\n\n**Mise à jour, 12 h** — Québec solidaire chiffre à 420 millions de dollars l'aide que son programme apporterait à plus de 25 000 Québécois par année pour l'achat d'une première propriété.\n\n**Mise à jour, 17 h** — Québec solidaire précise que ces prêts, plafonnés à 50 000 $, seraient sans intérêt et remboursables à la revente de la propriété, indexés à l'inflation, selon Journal Métro.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -1485,9 +1485,14 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-7-quebec-solidaire-veut-un-programme-de-maisons-abordables-a-la-bernie-sanders/",
      "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226347/elections-jour-7-education-infrastructures-immigration-entretien-et-tarifs/",
+     "date": "2026-09-02T17:20-04:00"
     }
    ],
-   "horodate": "2026-09-02T12:30-04:00",
+   "horodate": "2026-09-02T17:20-04:00",
    "permalien": "quebec-solidaire-promet-un-programme-de-prets-et-un-projet-p-4c6e3d",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
@@ -1638,12 +1643,12 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Le Devoir, Les Affaires",
+   "medias": "Le Devoir, Les Affaires, Journal Métro",
    "url": "https://www.ledevoir.com/politique/quebec/1005815/liberaux-veulent-davantage-reparer-construire",
-   "resume": "Le chef du Parti libéral du Québec Charles Milliard promet d'augmenter les sommes consacrées à l'entretien des infrastructures existantes et aux municipalités dans un Plan québécois des infrastructures élargi, avec une cible de 80 % des infrastructures en état satisfaisant.",
+   "resume": "Le chef du Parti libéral du Québec Charles Milliard promet d'augmenter les sommes consacrées à l'entretien des infrastructures existantes et aux municipalités dans un Plan québécois des infrastructures élargi, avec une cible de 80 % des infrastructures en état satisfaisant.\n\n**Mise à jour, 17 h** — Le PLQ précise vouloir consacrer au moins 75 % du Plan québécois des infrastructures à l'entretien des actifs existants (contre 70 % actuellement), jusqu'à ce que 80 % des infrastructures soient jugées satisfaisantes — un taux actuellement à 54 %, selon Journal Métro.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T12:30-04:00",
+   "horodate": "2026-09-02T17:20-04:00",
    "sources": [
     {
      "media": "Le Devoir",
@@ -1654,6 +1659,11 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-7-le-plq-veut-que-80-des-infrastructures-soient-dans-un-etat-satisfaisant/",
      "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226347/elections-jour-7-education-infrastructures-immigration-entretien-et-tarifs/",
+     "date": "2026-09-02T17:20-04:00"
     }
    ],
    "permalien": "le-plq-promet-de-reparer-les-infrastructures-plutot-que-d-en-08154f",
@@ -1878,12 +1888,12 @@
    "cahier": "elections",
    "rubrique": "education",
    "territoire": "Québec",
-   "medias": "Québecor, Le Devoir",
+   "medias": "Québecor, Le Devoir, Journal Métro",
    "url": "https://www.journaldequebec.com/2026/09/02/le-pq-imposerait-60-minutes-dactivite-physique-par-jour-a-lecole",
-   "resume": "Le chef péquiste Paul St-Pierre Plamondon promet un minimum de 60 minutes d'activité physique obligatoire par jour à l'école primaire et secondaire, et une « mise à jour » du système d'éducation pour réduire les inégalités selon le milieu, deux chantiers qu'il soumettrait à des états généraux dans les 100 premiers jours d'un gouvernement péquiste.",
+   "resume": "Le chef péquiste Paul St-Pierre Plamondon promet un minimum de 60 minutes d'activité physique obligatoire par jour à l'école primaire et secondaire, et une « mise à jour » du système d'éducation pour réduire les inégalités selon le milieu, deux chantiers qu'il soumettrait à des états généraux dans les 100 premiers jours d'un gouvernement péquiste.\n\n**Mise à jour, 17 h** — Le PQ précise que ces mesures font partie de cinq chantiers pour l'école publique, dont une liste d'œuvres littéraires québécoises obligatoires et un jumelage entre écoles urbaines et régionales, selon Journal Métro.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T14:24-04:00",
+   "horodate": "2026-09-02T17:20-04:00",
    "sources": [
     {
      "media": "Le Journal de Québec",
@@ -1894,6 +1904,11 @@
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1005845/pq-veut-mise-jour-systeme-education",
      "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226347/elections-jour-7-education-infrastructures-immigration-entretien-et-tarifs/",
+     "date": "2026-09-02T17:20-04:00"
     }
    ],
    "permalien": "le-pq-promet-60-minutes-d-activite-physique-par-jour-a-l-eco-03ace7",
@@ -2002,6 +2017,98 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
    "_slug": "taschereau-microcosme-du-centre-ville-de-quebec-chaudement-d-befc35"
+  },
+  {
+   "titre": "Le candidat libéral exclu dans Rimouski dit n'avoir rien à se reprocher",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Bas-Saint-Laurent (Rimouski)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280107/parti-liberal-rimouski-etienne-pineau-saindon",
+   "resume": "Écarté la semaine dernière par le PLQ pour des « allégations de nature personnelle » jamais précisées, l'ex-candidat libéral dans Rimouski Étienne Pineau Saindon affirme n'avoir rien à se reprocher et envisage un recours judiciaire. Le parti n'a présenté aucune autre candidature dans la circonscription depuis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T17:20-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280107/parti-liberal-rimouski-etienne-pineau-saindon",
+     "date": "2026-09-02T17:20-04:00"
+    }
+   ],
+   "permalien": "le-candidat-liberal-exclu-dans-rimouski-dit-n-avoir-rien-a-s-6ff3e6",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "le-candidat-liberal-exclu-dans-rimouski-dit-n-avoir-rien-a-s-6ff3e6"
+  },
+  {
+   "titre": "Les candidats de Laviolette–Saint-Maurice réagissent au rapport du coroner sur le site Belgo",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Mauricie (Laviolette-Saint-Maurice)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/02/belgo-quels-sont-les-engagements-des-candidats-dans-laviolettesaint-maurice-ARBJWTTKKBDNZOCWREYLIZSOMU/",
+   "resume": "Après un rapport du coroner dénonçant 18 ans d'inaction sur la décontamination du site Belgo à Shawinigan, où une jeune fille est morte, les candidats caquiste, libéral et conservateur de Laviolette–Saint-Maurice promettent d'accélérer les travaux. La candidate péquiste attend d'analyser le rapport avant de se prononcer, et la candidate solidaire n'a pu être jointe.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T17:20-04:00",
+   "sources": [
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/02/belgo-quels-sont-les-engagements-des-candidats-dans-laviolettesaint-maurice-ARBJWTTKKBDNZOCWREYLIZSOMU/",
+     "date": "2026-09-02T17:20-04:00"
+    }
+   ],
+   "permalien": "les-candidats-de-laviolettesaint-maurice-reagissent-au-rappo-85e827",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "les-candidats-de-laviolettesaint-maurice-reagissent-au-rappo-85e827"
+  },
+  {
+   "titre": "À Shawinigan, les partis divergent sur l'intégration des immigrants en campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Mauricie (Laviolette-Saint-Maurice)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1005974/shawinigan-coup-eclat-supremaciste-blanc-mai-dernier-fait-encore-mal",
+   "resume": "Dans Laviolette–Saint-Maurice, où l'immigration soutient plusieurs employeurs de Shawinigan depuis qu'un groupuscule y a affiché en mai une bannière suprémaciste blanche, le Parti libéral promet d'allonger de six mois à deux ans le délai avant l'obligation de communiquer en français avec l'État et Québec solidaire propose de faciliter l'accès à la résidence permanente pour les immigrants en région. Le Parti québécois s'engage à une cérémonie d'intégration à la citoyenneté, tandis que la CAQ n'a pas transmis ses engagements au Devoir.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T17:20-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005974/shawinigan-coup-eclat-supremaciste-blanc-mai-dernier-fait-encore-mal",
+     "date": "2026-09-02T17:20-04:00"
+    }
+   ],
+   "permalien": "a-shawinigan-les-partis-divergent-sur-l-integration-des-immi-900c4e",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "a-shawinigan-les-partis-divergent-sur-l-integration-des-immi-900c4e"
+  },
+  {
+   "titre": "Rivière-du-Loup–Témiscouata–Les Basques : le déménagement du traversier au cœur des débats",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Bas-Saint-Laurent (Rivière-du-Loup–Témiscouata–Les Basques)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280084/enjeux-election-quebec-rdl-candidats-bsl",
+   "resume": "Les cinq candidats de Rivière-du-Loup–Témiscouata–Les Basques s'affrontent sur le déménagement du service de traversier vers Cacouna en 2031, que la députée sortante caquiste Amélie Dionne considère clos alors que ses adversaires libérale, péquiste, conservatrice et solidaire réclament la publication des études qui ont mené à cette décision. Santé, logement et aide aux entreprises complètent les enjeux d'une circonscription où tous plaident pour davantage de décentralisation vers les régions.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T17:20-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280084/enjeux-election-quebec-rdl-candidats-bsl",
+     "date": "2026-09-02T17:20-04:00"
+    }
+   ],
+   "permalien": "riviere-du-louptemiscouatales-basques-le-demenagement-du-tra-6addec",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "riviere-du-louptemiscouatales-basques-le-demenagement-du-tra-6addec"
   },
   {
    "titre": "Le Collège LaSalle suspend sa rentrée en attendant un jugement sur sa dette",
