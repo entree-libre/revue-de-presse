@@ -366,7 +366,12 @@ figcaption{font-family:var(--ui);font-size:.72rem;color:var(--muted);
 .sources ul.src-liste{list-style:none;margin:0;padding:0;display:flex;
  flex-direction:column;gap:.5rem}
 .sources ul.src-liste li{margin:0}
-.src-btn{display:flex;align-items:center;justify-content:space-between;gap:1rem;
+/* Trois colonnes : le média prend toute la place libre ; l'heure et
+   l'invitation à lire ont chacune une largeur FIXE, alignées à droite. Ainsi
+   l'heure se pose toujours au même endroit, juste à gauche du clic, quelle
+   que soit la longueur du nom du média ou du libellé (« Lire le texte
+   original » et « Déjà ouvert — relire » n'ont pas la même longueur). */
+.src-btn{display:flex;align-items:center;gap:1rem;
  text-decoration:none;color:var(--fg);background:var(--card);
  border:1px solid var(--rule);border-radius:.5rem;padding:.7rem 1rem;
  font-family:var(--ui);transition:transform .12s ease,border-color .12s ease,
@@ -383,7 +388,7 @@ figcaption{font-family:var(--ui);font-size:.72rem;color:var(--muted);
 .src-btn.src-lu .src-nom{color:var(--muted)}
 .src-btn.src-lu .src-action{color:var(--muted);font-weight:500}
 .src-btn.src-lu:hover .src-nom,.src-btn.src-lu:hover .src-action{color:var(--accent-fg)}
-.src-id{display:flex;align-items:center;gap:.75rem;min-width:0}
+.src-id{display:flex;align-items:center;gap:.75rem;min-width:0;flex:1 1 auto}
 .src-logo{width:2.1rem;height:2.1rem;border-radius:.4rem;background:#fff;
  object-fit:contain;flex:0 0 auto;box-shadow:0 0 0 1px var(--rule);
  padding:.15rem;box-sizing:border-box}
@@ -391,11 +396,17 @@ figcaption{font-family:var(--ui);font-size:.72rem;color:var(--muted);
  border-radius:.4rem;background:var(--accent)}
 .src-nom{font-weight:700;font-size:.95rem}
 .src-action{font-size:.78rem;color:var(--accent-txt);font-weight:600;
- white-space:nowrap;font-family:var(--ui)}
-/* L'heure de l'article d'origine, quand le volet la fournit — troisième
-   colonne du bouton, entre le média et l'invitation à lire. */
+ white-space:nowrap;font-family:var(--ui);flex:0 0 11.5rem;text-align:right}
+/* L'heure de greffe, juste à gauche du clic. Largeur fixe et texte à droite :
+   « 22 h 36 » et « 31 août, 22 h 36 » se terminent au même pixel, d'un bouton
+   à l'autre. Chiffres tabulaires pour que la colonne se lise droit. */
 .src-heure{font-family:var(--ui);font-size:.74rem;color:var(--muted);
- font-variant-numeric:tabular-nums;white-space:nowrap;flex:0 0 auto}
+ font-variant-numeric:tabular-nums;white-space:nowrap;
+ flex:0 0 7.5rem;text-align:right}
+/* Écran étroit : le média sur sa ligne, l'heure et le clic sur la suivante. */
+@media (max-width:36rem){.src-btn{flex-wrap:wrap;gap:.4rem 1rem}
+ .src-id{flex-basis:100%}
+ .src-heure{flex:1 1 auto}.src-action{flex:0 0 auto}}
 .src-btn:hover .src-heure{color:var(--accent-fg)}
 /* À défaut : l'heure d'arrivée du SUJET, dite une fois et nommée pour ce
    qu'elle est. Le titre du bloc est en capitales espacées ; cette ligne ne
