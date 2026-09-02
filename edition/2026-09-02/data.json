@@ -514,12 +514,12 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Radio-Canada, Les Affaires, Québecor",
+   "medias": "Radio-Canada, Les Affaires, Québecor, Le Devoir",
    "url": "https://ici.radio-canada.ca/info/en-direct/1014261/elections-quebec-jour-7-campagne-electorale",
-   "resume": "En campagne à Québec, le chef du Parti conservateur du Québec Éric Duhaime propose de négocier la levée de barrières commerciales interprovinciales pour ouvrir davantage le marché canadien aux entreprises québécoises, une mesure présentée pour contrer les effets des tarifs américains, faisant valoir que le Québec compte parmi les provinces qui appliquent le plus d'exceptions à l'Accord de libre-échange canadien.",
+   "resume": "En campagne à Québec, le chef du Parti conservateur du Québec Éric Duhaime propose de négocier la levée de barrières commerciales interprovinciales pour ouvrir davantage le marché canadien aux entreprises québécoises, une mesure présentée pour contrer les effets des tarifs américains, faisant valoir que le Québec compte parmi les provinces qui appliquent le plus d'exceptions à l'Accord de libre-échange canadien.\n\n**Mise à jour, 12 h** — Le PCQ précise vouloir abolir toutes les barrières commerciales interprovinciales, à l'exception de celles qui protègent la langue française.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T09:25-04:00",
+   "horodate": "2026-09-02T12:30-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -535,6 +535,11 @@
      "media": "TVA Nouvelles",
      "url": "https://www.tvanouvelles.ca/2026/09/02/en-direct--7e-journee-de-campagne-electorale-voici-lhoraire-des-cinq-chefs",
      "date": "2026-09-02T10:26-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005791/libre-echange-canadien-est-planche-salut-tempete-commerciale-selon-pcq",
+     "date": "2026-09-02T12:30-04:00"
     }
    ],
    "permalien": "eric-duhaime-promet-d-abattre-les-barrieres-commerciales-int-e1d5be",
@@ -570,17 +575,22 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, CBC",
    "url": "https://ici.radio-canada.ca/info/videos/1-10750408/electeurs-recevront-documents-information-en-francais-seulement",
-   "resume": "Pour se conformer aux récentes modifications aux lois linguistiques québécoises, Élections Québec enverra pour la première fois lors d'une élection générale des documents d'information aux électeurs uniquement en français, rapporte Radio-Canada.",
+   "resume": "Pour se conformer aux récentes modifications aux lois linguistiques québécoises, Élections Québec enverra pour la première fois lors d'une élection générale des documents d'information aux électeurs uniquement en français, rapporte Radio-Canada.\n\n**Mise à jour, 12 h** — La première ministre Christine Fréchette dit que son gouvernement est en discussion avec le directeur général des élections au sujet de cet envoi en français seulement.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T09:25-04:00",
+   "horodate": "2026-09-02T12:30-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/info/videos/1-10750408/electeurs-recevront-documents-information-en-francais-seulement",
      "date": "2026-09-02T09:25-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/frechette-elections-quebec-9.7329333",
+     "date": "2026-09-02T12:30-04:00"
     }
    ],
    "permalien": "elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519",
@@ -685,7 +695,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "La Presse, Les Affaires, Québecor",
+   "medias": "La Presse, Les Affaires, Québecor, Coops de l'information",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/caq/privatiser-des-services-et-supprimer-2900-postes-promet-frechette.php",
    "resume": "La cheffe de la CAQ Christine Fréchette promet de confier certains services publics au privé et de supprimer 2900 postes de fonctionnaires d'ici 2029 via un programme de retraite anticipée dès 55 ans, en plus de créer une équipe dédiée à l'« efficacité de l'État ».",
    "photo": "",
@@ -705,6 +715,31 @@
      "media": "TVA Nouvelles",
      "url": "https://www.tvanouvelles.ca/2026/09/02/en-direct--7e-journee-de-campagne-electorale-voici-lhoraire-des-cinq-chefs",
      "date": "2026-09-02T10:26-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/02/frechette-vise-3000-fonctionnaires-en-moins-par-attrition-GBLGDA7JXVE27AD7KEBT7HA6HU/",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/02/frechette-vise-3000-fonctionnaires-en-moins-par-attrition-GBLGDA7JXVE27AD7KEBT7HA6HU/",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/02/frechette-vise-3000-fonctionnaires-en-moins-par-attrition-GBLGDA7JXVE27AD7KEBT7HA6HU/",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "La Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/02/frechette-vise-3000-fonctionnaires-en-moins-par-attrition-GBLGDA7JXVE27AD7KEBT7HA6HU/",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/02/frechette-vise-3000-fonctionnaires-en-moins-par-attrition-GBLGDA7JXVE27AD7KEBT7HA6HU/",
+     "date": "2026-09-02T12:30-04:00"
     }
    ],
    "horodate": "2026-09-02T10:26-04:00",
@@ -764,9 +799,9 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec (Vanier-Les Rivières)",
-   "medias": "Québecor",
+   "medias": "Québecor, La Presse",
    "url": "https://www.journaldemontreal.com/2026/09/02/comportements-troublants-pour-un-candidat-liberal-bien-en-vue",
-   "resume": "Le Bureau d'enquête du Journal de Montréal rapporte que Charles Hudon, candidat libéral dans Vanier-Les Rivières pressenti par des analystes comme éventuel ministre de la Sécurité publique, fait l'objet de témoignages recueillis en 2022 lui prêtant des propos et comportements jugés intimidants envers des subordonnés à l'Assemblée nationale ; le PLQ n'a pas voulu commenter.",
+   "resume": "Le Bureau d'enquête du Journal de Montréal rapporte que Charles Hudon, candidat libéral dans Vanier-Les Rivières pressenti par des analystes comme éventuel ministre de la Sécurité publique, fait l'objet de témoignages recueillis en 2022 lui prêtant des propos et comportements jugés intimidants envers des subordonnés à l'Assemblée nationale ; le PLQ n'a pas voulu commenter.\n\n**Mise à jour, 12 h** — Le chef du Parti libéral du Québec Charles Milliard affirme garder sa confiance envers son candidat dans Vanier–Les Rivières, Charles Hudon, malgré ces révélations.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -774,9 +809,14 @@
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/02/comportements-troublants-pour-un-candidat-liberal-bien-en-vue",
      "date": "2026-09-02T10:26-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/bouge-ton-gros-cul/milliard-defend-un-candidat-qui-aurait-eu-des-comportements-troublants.php",
+     "date": "2026-09-02T12:30-04:00"
     }
    ],
-   "horodate": "2026-09-02T10:26-04:00",
+   "horodate": "2026-09-02T12:30-04:00",
    "permalien": "un-candidat-liberal-pressenti-comme-ministre-vise-par-un-rap-5b2c08",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
@@ -810,9 +850,9 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Québecor",
+   "medias": "Québecor, Le Devoir, La Presse, Les Affaires",
    "url": "https://www.tvanouvelles.ca/2026/09/02/en-direct--7e-journee-de-campagne-electorale-voici-lhoraire-des-cinq-chefs",
-   "resume": "La porte-parole de Québec solidaire Ruba Ghazal promet un programme de prêts pouvant couvrir jusqu'à 15 % de la mise de fonds sur une maison neuve pour les premiers acheteurs, ainsi qu'un projet-pilote de 2000 propriétés abordables inspiré d'un programme du Vermont.",
+   "resume": "La porte-parole de Québec solidaire Ruba Ghazal promet un programme de prêts pouvant couvrir jusqu'à 15 % de la mise de fonds sur une maison neuve pour les premiers acheteurs, ainsi qu'un projet-pilote de 2000 propriétés abordables inspiré d'un programme du Vermont.\n\n**Mise à jour, 12 h** — Québec solidaire chiffre à 420 millions de dollars l'aide que son programme apporterait à plus de 25 000 Québécois par année pour l'achat d'une première propriété.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -820,9 +860,24 @@
      "media": "TVA Nouvelles",
      "url": "https://www.tvanouvelles.ca/2026/09/02/en-direct--7e-journee-de-campagne-electorale-voici-lhoraire-des-cinq-chefs",
      "date": "2026-09-02T10:26-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005803/quebec-solidaire-veut-aider-plus-25-000-quebecois-acceder-propriete-chaque-annee",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/qs-injecterait-420-millions-pour-l-acces-a-la-propriete.php",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-7-quebec-solidaire-veut-un-programme-de-maisons-abordables-a-la-bernie-sanders/",
+     "date": "2026-09-02T12:30-04:00"
     }
    ],
-   "horodate": "2026-09-02T10:26-04:00",
+   "horodate": "2026-09-02T12:30-04:00",
    "permalien": "quebec-solidaire-promet-un-programme-de-prets-et-un-projet-p-4c6e3d",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
@@ -919,6 +974,294 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
    "_slug": "laurier-michaud-conteste-les-allegations-qui-ont-mene-le-plq-4e76ea"
+  },
+  {
+   "titre": "Taxes sur l'essence : Duhaime invite Fréchette à suivre Ottawa, elle refuse",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/02/taxes-sur-lessence-que-frechette-sinspire-dottawa-propose-duhaime-UXKFTY22MBHDFIKIRYMN34WHRE/",
+   "resume": "Après la prolongation par Ottawa, pour six mois de plus, de la suspension de sa taxe d'accise sur l'essence, le chef du Parti conservateur du Québec Éric Duhaime presse Christine Fréchette de faire de même, une invitation que la cheffe caquiste rejette d'emblée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/02/taxes-sur-lessence-que-frechette-sinspire-dottawa-propose-duhaime-UXKFTY22MBHDFIKIRYMN34WHRE/",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/02/taxes-sur-lessence-que-frechette-sinspire-dottawa-propose-duhaime-UXKFTY22MBHDFIKIRYMN34WHRE/",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/02/taxes-sur-lessence-que-frechette-sinspire-dottawa-propose-duhaime-UXKFTY22MBHDFIKIRYMN34WHRE/",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/02/taxes-sur-lessence-que-frechette-sinspire-dottawa-propose-duhaime-UXKFTY22MBHDFIKIRYMN34WHRE/",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/02/taxes-sur-lessence-que-frechette-sinspire-dottawa-propose-duhaime-UXKFTY22MBHDFIKIRYMN34WHRE/",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/02/taxes-sur-lessence-que-frechette-sinspire-dottawa-propose-duhaime-UXKFTY22MBHDFIKIRYMN34WHRE/",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "taxes-sur-l-essence-duhaime-invite-frechette-a-suivre-ottawa-eda8dc",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "taxes-sur-l-essence-duhaime-invite-frechette-a-suivre-ottawa-eda8dc"
+  },
+  {
+   "titre": "Le PLQ promet de réparer les infrastructures plutôt que d'en construire de nouvelles",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Les Affaires",
+   "url": "https://www.ledevoir.com/politique/quebec/1005815/liberaux-veulent-davantage-reparer-construire",
+   "resume": "Le chef du Parti libéral du Québec Charles Milliard promet d'augmenter les sommes consacrées à l'entretien des infrastructures existantes et aux municipalités dans un Plan québécois des infrastructures élargi, avec une cible de 80 % des infrastructures en état satisfaisant.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1005815/liberaux-veulent-davantage-reparer-construire",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-7-le-plq-veut-que-80-des-infrastructures-soient-dans-un-etat-satisfaisant/",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "le-plq-promet-de-reparer-les-infrastructures-plutot-que-d-en-08154f",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "le-plq-promet-de-reparer-les-infrastructures-plutot-que-d-en-08154f"
+  },
+  {
+   "titre": "Élections : les Wolastoqiyik revendiquent reconnaissance et autodétermination",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Bas-Saint-Laurent (Cacouna)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279936/elections-premiere-nation-cacouna-autochtones",
+   "resume": "Le grand chef de la Première Nation Wolastoqiyik Wahsipekuk, Jacques Tremblay, demande au prochain gouvernement provincial de reconnaître le territoire ancestral de sa nation et de collaborer à trois projets concrets d'autodétermination pendant la campagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279936/elections-premiere-nation-cacouna-autochtones",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "elections-les-wolastoqiyik-revendiquent-reconnaissance-et-au-d0c440",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "elections-les-wolastoqiyik-revendiquent-reconnaissance-et-au-d0c440"
+  },
+  {
+   "titre": "Deux chroniques du Journal de Québec critiquent la surenchère de promesses de réduction de l'État",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/09/02/que-restera-t-il-de-notre-etat",
+   "resume": "Deux chroniques du Journal de Québec mettent en garde contre la multiplication des promesses de réduction de l'État par les partis en campagne, l'une qualifiant la tendance de populiste, l'autre s'interrogeant sur ce qu'il restera des services publics.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/02/que-restera-t-il-de-notre-etat",
+     "date": "2026-09-02T12:30-04:00"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/01/surenchere-de-promesses-populistes-les-fonctionnaires-ne-se-tournent-pas-les-pouces",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "deux-chroniques-du-journal-de-quebec-critiquent-la-surencher-d26713",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "deux-chroniques-du-journal-de-quebec-critiquent-la-surencher-d26713"
+  },
+  {
+   "titre": "Un candidat libéral se dit « libéral péquiste » dans Charlevoix",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Charlevoix",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/02/je-suis-un-liberal-pequiste",
+   "resume": "Le candidat du Parti libéral du Québec dans Charlevoix, Michel Bureau, se décrit comme un « libéral péquiste », misant sur cette identité hybride pour séduire l'électorat de la circonscription.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/02/je-suis-un-liberal-pequiste",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "un-candidat-liberal-se-dit-liberal-pequiste-dans-charlevoix-3be452",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "un-candidat-liberal-se-dit-liberal-pequiste-dans-charlevoix-3be452"
+  },
+  {
+   "titre": "La MRC du Domaine-du-Roy réclame plus d'autonomie en campagne électorale",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Saguenay–Lac-Saint-Jean (Domaine-du-Roy)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279947/elections-provinciales-mrc-domaine-roy",
+   "resume": "Les élus de la MRC du Domaine-du-Roy profitent de la campagne pour réclamer plus d'autonomie et de leviers financiers, évoquant l'attractivité pour les jeunes familles et le maintien de la population active parmi leurs priorités.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279947/elections-provinciales-mrc-domaine-roy",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "la-mrc-du-domaine-du-roy-reclame-plus-d-autonomie-en-campagn-24254f",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "la-mrc-du-domaine-du-roy-reclame-plus-d-autonomie-en-campagn-24254f"
+  },
+  {
+   "titre": "Gaz de schiste : Fréchette veut consulter les Québécois avant de relancer l'exploitation",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/gaz-de-schiste/frechette-veut-consulter-les-quebecois.php",
+   "resume": "La cheffe de la CAQ Christine Fréchette promet de consulter les Québécois, sans préciser quand ni comment, sur une éventuelle relance de l'exploration et de l'exploitation du gaz de schiste si elle est réélue le 5 octobre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/gaz-de-schiste/frechette-veut-consulter-les-quebecois.php",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "gaz-de-schiste-frechette-veut-consulter-les-quebecois-avant-3c15ec",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "gaz-de-schiste-frechette-veut-consulter-les-quebecois-avant-3c15ec"
+  },
+  {
+   "titre": "Des friperies applaudissent la promesse d'abolir la TVQ sur les vêtements usagés",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "TVA Nouvelles",
+   "url": "https://www.tvanouvelles.ca/2026/09/01/quelquun-a-deja-paye-la-taxe-les-friperies-applaudissent-la-promesse-dabolir-la-tvq-sur-les-vetements-usages",
+   "resume": "Trois partis proposent d'abolir la taxe de vente du Québec sur les articles usagés, une mesure accueillie favorablement par les commerçants de friperies, dont les clients en parlent selon eux à chaque visite.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/01/quelquun-a-deja-paye-la-taxe-les-friperies-applaudissent-la-promesse-dabolir-la-tvq-sur-les-vetements-usages",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "des-friperies-applaudissent-la-promesse-d-abolir-la-tvq-sur-31c6c4",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "des-friperies-applaudissent-la-promesse-d-abolir-la-tvq-sur-31c6c4"
+  },
+  {
+   "titre": "Trois chefs de partis de passage en Mauricie en 24 heures",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Mauricie",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279944/chefs-partis-annonces-mauricie-campagne",
+   "resume": "Charles Milliard, Christine Fréchette et Paul St-Pierre Plamondon ont chacun fait une tournée en Mauricie à moins de 24 heures d'intervalle.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279944/chefs-partis-annonces-mauricie-campagne",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "trois-chefs-de-partis-de-passage-en-mauricie-en-24-heures-7a1fa6",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "trois-chefs-de-partis-de-passage-en-mauricie-en-24-heures-7a1fa6"
+  },
+  {
+   "titre": "Un candidat caquiste répare sa pancarte électorale et celle de son adversaire solidaire",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Maskinongé",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/toujours-le-matin/episodes/1221190/mercredi-2-septembre-2026",
+   "resume": "Le député sortant de Maskinongé Simon Allaire, candidat de la CAQ, a réparé sa pancarte électorale vandalisée en bordure de l'autoroute 55, puis a fait de même pour celle de son adversaire solidaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/toujours-le-matin/episodes/1221190/mercredi-2-septembre-2026",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "un-candidat-caquiste-repare-sa-pancarte-electorale-et-celle-8c2b77",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "un-candidat-caquiste-repare-sa-pancarte-electorale-et-celle-8c2b77"
+  },
+  {
+   "titre": "PSPP croit pouvoir créer un « rapport de force » avec Mark Carney",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldequebec.com/2026/09/01/pspp-croit-pouvoir-creer-un-rapport-de-force-avec-mark-carney",
+   "resume": "Le chef du Parti québécois Paul St-Pierre Plamondon soutient que l'élection d'un gouvernement péquiste permettrait au Québec d'établir un véritable rapport de force avec le gouvernement fédéral de Mark Carney.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T12:30-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldequebec.com/2026/09/01/pspp-croit-pouvoir-creer-un-rapport-de-force-avec-mark-carney",
+     "date": "2026-09-02T12:30-04:00"
+    }
+   ],
+   "permalien": "pspp-croit-pouvoir-creer-un-rapport-de-force-avec-mark-carne-a62f23",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "pspp-croit-pouvoir-creer-un-rapport-de-force-avec-mark-carne-a62f23"
   },
   {
    "titre": "Le Collège LaSalle suspend sa rentrée en attendant un jugement sur sa dette",
