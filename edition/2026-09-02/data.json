@@ -657,15 +657,20 @@
    "territoire": "Québec (Chauveau)",
    "medias": "Le Devoir",
    "url": "https://www.ledevoir.com/actualites/education/1005644/cette-ecole-deborde-elle-raison-trop-grand-nombre-nouveaux-eleves-issus-immigration",
-   "resume": "Le chef péquiste Paul St-Pierre Plamondon a attribué le débordement de l'école secondaire Roger-Comtois, à Québec, à « un trop grand nombre » de nouveaux élèves immigrants — passés de 83 à 293 en sept ans, soit 12 % des 2441 élèves. Le Centre de services scolaire de la Capitale et un syndicat enseignant nuancent : une partie de la hausse tient à la croissance résidentielle du secteur et à la fin de la redirection vers d'autres écoles des élèves nécessitant des services de francisation.",
+   "resume": "Le chef péquiste Paul St-Pierre Plamondon a attribué le débordement de l'école secondaire Roger-Comtois, à Québec, à « un trop grand nombre » de nouveaux élèves immigrants — passés de 83 à 293 en sept ans, soit 12 % des 2441 élèves. Le Centre de services scolaire de la Capitale et un syndicat enseignant nuancent : une partie de la hausse tient à la croissance résidentielle du secteur et à la fin de la redirection vers d'autres écoles des élèves nécessitant des services de francisation.\n\n**Mise à jour, 19 h 24** — La porte-parole solidaire Ruba Ghazal a accusé Paul St-Pierre Plamondon de tenir un « discours divisif » en associant l'immigration au débordement des écoles ; il a répliqué que sa lecture était « factuelle » et « pas raciste ».",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T07:23+00:00",
+   "horodate": "2026-09-02T19:24-04:00",
    "sources": [
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/actualites/education/1005644/cette-ecole-deborde-elle-raison-trop-grand-nombre-nouveaux-eleves-issus-immigration",
      "date": "2026-09-02T07:23+00:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006037/ghazal-st-pierre-plamondon-entrechoquent-question-immigration",
+     "date": "2026-09-02T19:24-04:00"
     }
    ],
    "permalien": "pspp-lie-le-debordement-d-une-ecole-de-loretteville-a-l-immi-1a21a2",
@@ -678,7 +683,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Montérégie (Brome-Missisquoi)",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, CBC",
    "url": "https://ici.radio-canada.ca/nouvelle/2279713/david-alarie-candidat-brome-missisquoi-elections-quebec",
    "resume": "Le candidat conservateur David Alarie, qui avait souhaité en 2020 l'« euthanasie » de ceux qui appuyaient les mesures sanitaires et appelé à harceler des élus caquistes, présente ses excuses en invoquant l'humour. Éric Duhaime dénonce une opération de la CAQ pour « fouiller dans les poubelles » de son parti et détourner l'attention de son propre bilan.\n\n**Mise à jour, 9 h 10** — Éric Duhaime affirme que le comité de sélection du Parti conservateur du Québec avait vérifié les antécédents de David Alarie avant d'autoriser sa candidature, mais reconnaît ne pas avoir eu les ressources pour examiner toutes ses publications passées sur les réseaux sociaux.",
    "photo": "",
@@ -688,6 +693,11 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2279713/david-alarie-candidat-brome-missisquoi-elections-quebec",
      "date": "2026-09-02T09:25+00:00"
+    },
+    {
+     "media": "CBC News",
+     "url": "https://www.cbc.ca/news/canada/montreal/conservative-party-of-quebec-candidate-comment-9.7330025",
+     "date": "2026-09-02T19:24-04:00"
     }
    ],
    "horodate": "2026-09-02T09:25-04:00",
@@ -1165,7 +1175,7 @@
    "resume": "Pour se conformer aux récentes modifications aux lois linguistiques québécoises, Élections Québec enverra pour la première fois lors d'une élection générale des documents d'information aux électeurs uniquement en français, rapporte Radio-Canada.\n\n**Mise à jour, 12 h** — La première ministre Christine Fréchette dit que son gouvernement est en discussion avec le directeur général des élections au sujet de cet envoi en français seulement.\n\n**Mise à jour, 16 h** — Le directeur général des élections dit avoir tenté sans succès d'obtenir une exception pour envoyer l'information aux électeurs en anglais et en français ; les anglophones pourront obtenir l'information par code QR, rapporte Le Devoir.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T16:22-04:00",
+   "horodate": "2026-09-02T12:30-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -1502,7 +1512,7 @@
      "date": "2026-09-02T17:20-04:00"
     }
    ],
-   "horodate": "2026-09-02T17:20-04:00",
+   "horodate": "2026-09-02T12:30-04:00",
    "permalien": "quebec-solidaire-promet-un-programme-de-prets-et-un-projet-p-4c6e3d",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
@@ -2130,9 +2140,9 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Coalition Avenir Québec, Radio-Canada",
+   "medias": "Coalition Avenir Québec, Radio-Canada, Coops de l'information",
    "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/02/lequipe-christine-frechette-veut-renverser-la-tendance-en-itinerance/",
-   "resume": "La cheffe de la CAQ Christine Fréchette promet de bâtir avec le milieu un plan d'action national en itinérance présenté au printemps 2027 et de bonifier de 100 millions de dollars l'aide au logement, dont 2000 nouveaux suppléments au loyer, lors d'un arrêt de campagne à Trois-Rivières.",
+   "resume": "La cheffe de la CAQ Christine Fréchette promet de bâtir avec le milieu un plan d'action national en itinérance présenté au printemps 2027 et de bonifier de 100 millions de dollars l'aide au logement, dont 2000 nouveaux suppléments au loyer, lors d'un arrêt de campagne à Trois-Rivières.\n\n**Mise à jour, 19 h 24** — Lors du même passage à Trois-Rivières, Christine Fréchette a aussi promis près de 100 M$ pour agrandir et moderniser le CHAUR et pour sécuriser le site de la Belgo, à la suite des recommandations du coroner sur la chute mortelle de la jeune Victoria.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -2145,9 +2155,19 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/info/en-direct/1014261/elections-quebec-jour-7-campagne-electorale",
      "date": "2026-09-02T17:55-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/02/christine-frechette-des-engagements-pour-le-chaur-la-belgo-et-litinerance-5TFRPL4U2VE3VLJDEXITRPAQHM/",
+     "date": "2026-09-02T19:24-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/02/christine-frechette-des-engagements-pour-le-chaur-la-belgo-et-litinerance-5TFRPL4U2VE3VLJDEXITRPAQHM/",
+     "date": "2026-09-02T19:24-04:00"
     }
    ],
-   "horodate": "2026-09-02T17:55-04:00",
+   "horodate": "2026-09-02T19:24-04:00",
    "permalien": "frechette-promet-un-plan-national-et-100-m-contre-l-itineran-13353e",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
@@ -2203,6 +2223,121 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-02.json",
    "_slug": "sondage-leger-la-baisse-de-la-tvq-sur-les-biens-usages-prome-b2817c"
+  },
+  {
+   "titre": "Bernard Drainville tient des propos vulgaires contre Trump en entrevue, Fréchette le rabroue",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Lévis)",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/09/02/frechette-rabroue-drainville-et-lui-demande-de-retirer-ses-propos-contre-trump",
+   "resume": "Le ministre sortant Bernard Drainville a tenu des propos vulgaires à l'endroit de Donald Trump lors d'une entrevue radiophonique sur les tarifs américains ; la première ministre Christine Fréchette l'a aussitôt rabroué en mêlée de presse et lui a demandé de retirer ses paroles, qu'il a reconnues « inappropriées » tout en maintenant son indignation.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/02/frechette-rabroue-drainville-et-lui-demande-de-retirer-ses-propos-contre-trump",
+     "date": "2026-09-02T19:24-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T19:24-04:00",
+   "permalien": "bernard-drainville-tient-des-propos-vulgaires-contre-trump-e-4f41ba",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "bernard-drainville-tient-des-propos-vulgaires-contre-trump-e-4f41ba"
+  },
+  {
+   "titre": "Vérification : Alex Boissonneault exagère sur le nombre d'immigrants accueillis sous la CAQ",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/04/boissonneault-affirme-a-tort-que-la-caq-a-accueilli-plus-dimmigrants-quen-60-ans",
+   "resume": "Le Bureau d'enquête du Journal de Montréal établit que l'affirmation répétée par le péquiste Alex Boissonneault — la CAQ aurait accueilli plus d'immigrants en huit ans que tous les gouvernements réunis entre le début des années 1960 et 2018 — est fausse : le Québec a accueilli 1,9 million d'immigrants entre le début des années 1960 et 2018 selon l'ISQ, contre environ 400 000 depuis l'arrivée de la CAQ au pouvoir.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/04/boissonneault-affirme-a-tort-que-la-caq-a-accueilli-plus-dimmigrants-quen-60-ans",
+     "date": "2026-09-02T19:24-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T19:24-04:00",
+   "permalien": "verification-alex-boissonneault-exagere-sur-le-nombre-d-immi-ba4c57",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "verification-alex-boissonneault-exagere-sur-le-nombre-d-immi-ba4c57"
+  },
+  {
+   "titre": "Des affiches électorales de la CAQ vandalisées à Drummondville",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Centre-du-Québec (Drummondville)",
+   "medias": "L'Express",
+   "url": "https://www.journalexpress.ca/actualite/des-affiches-electorales-de-la-caq-se-font-deja-vandaliser/",
+   "resume": "Des affiches des candidats caquistes Patrick Saindon et Sébastien Schneeberger ont été découpées, couvertes de graffitis ou affublées de masques agrafés à Drummondville, un second cas de vandalisme électoral visant la CAQ après celui déjà signalé à Soulanges ; les deux candidats dénoncent le geste et appellent au respect du débat démocratique.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "L'Express",
+     "url": "https://www.journalexpress.ca/actualite/des-affiches-electorales-de-la-caq-se-font-deja-vandaliser/",
+     "date": "2026-09-02T19:24-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T19:24-04:00",
+   "permalien": "des-affiches-electorales-de-la-caq-vandalisees-a-drummondvil-758a54",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "des-affiches-electorales-de-la-caq-vandalisees-a-drummondvil-758a54"
+  },
+  {
+   "titre": "Le PLQ présente Colin Hendry dans Drummond–Bois-Francs",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Centre-du-Québec (Drummond–Bois-Francs)",
+   "medias": "L'Express",
+   "url": "https://www.journalexpress.ca/elections/les-liberaux-presentent-colin-hendry-dans-drummond-bois-francs/",
+   "resume": "Le Parti libéral du Québec confirme la candidature de Colin Hendry, entrepreneur en développement économique depuis plus de 30 ans, dans Drummond–Bois-Francs, où il affrontera le député sortant caquiste Sébastien Schneeberger, la conservatrice Myriam Cournoyer et le péquiste Charles Page.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "L'Express",
+     "url": "https://www.journalexpress.ca/elections/les-liberaux-presentent-colin-hendry-dans-drummond-bois-francs/",
+     "date": "2026-09-02T19:24-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T19:24-04:00",
+   "permalien": "le-plq-presente-colin-hendry-dans-drummondbois-francs-1d68a4",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "le-plq-presente-colin-hendry-dans-drummondbois-francs-1d68a4"
+  },
+  {
+   "titre": "Une candidate fictive lancée en Gaspésie pour porter les enjeux des femmes en campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Gaspésie–Îles-de-la-Madeleine",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280020/fausse-candidate-enjeux-feministes-gaspesie",
+   "resume": "La Table de concertation féministe Gaspésie–Îles-de-la-Madeleine a lancé la candidature fictive de « Madame Fée-Ministe », avec 18 pancartes électorales installées dans la région, pour forcer les partis à se prononcer sur la pauvreté et la violence faites aux femmes, des enjeux jugés absents de la campagne.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280020/fausse-candidate-enjeux-feministes-gaspesie",
+     "date": "2026-09-02T19:24-04:00"
+    }
+   ],
+   "horodate": "2026-09-02T19:24-04:00",
+   "permalien": "une-candidate-fictive-lancee-en-gaspesie-pour-porter-les-enj-cdef1e",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-02.json",
+   "_slug": "une-candidate-fictive-lancee-en-gaspesie-pour-porter-les-enj-cdef1e"
   },
   {
    "titre": "Le Collège LaSalle suspend sa rentrée en attendant un jugement sur sa dette",
