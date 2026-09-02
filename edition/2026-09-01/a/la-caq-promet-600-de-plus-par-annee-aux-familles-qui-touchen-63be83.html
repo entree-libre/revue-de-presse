@@ -43,7 +43,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/la-caq-promet-600-de-plus-par-annee-aux-familles-qui-touchen-63be83.html">https://entreelibre.ca/edition/2026-09-01/a/la-caq-promet-600-de-plus-par-annee-aux-familles-qui-touchen-63be83.html</a>
 </div>
-<div class="sources"><h5>Lire à la source — 2 médias<span class="src-quand">Arrivé au journal à 9 h 00</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://coalitionavenirquebec.org/fr/blog/2026/08/31/lequipe-christine-frechette-soutiendra-davantage-les-familles-avec-des-enfants-en-situation-de-handicap/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=coalitionavenirquebec.org&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Coalition avenir Québec</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.retraitequebec.gouv.qc.ca/en/citizens/children/handicapped-child/supplement-handicapped-children" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.retraitequebec.gouv.qc.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Retraite Québec</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://coalitionavenirquebec.org/fr/blog/2026/08/31/lequipe-christine-frechette-soutiendra-davantage-les-familles-avec-des-enfants-en-situation-de-handicap/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=coalitionavenirquebec.org&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Coalition avenir Québec</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.retraitequebec.gouv.qc.ca/en/citizens/children/handicapped-child/supplement-handicapped-children" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.retraitequebec.gouv.qc.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Retraite Québec</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>La CAQ s&#x27;engage à porter de 241 $ à 291 $ par mois le supplément pour enfant handicapé — 600 $ de plus par année pour les quelque 41 000 enfants qui le reçoivent, selon le parti — et à relever de 100 $ par mois chacun des paliers du supplément pour enfant nécessitant des soins exceptionnels, versé pour environ 4500 enfants, soit 1200 $ de plus par année. Christine Fréchette, qui a fait l&#x27;annonce au Camp Papillon, évoque « des dépenses supplémentaires qui exercent une forte pression sur le budget familial » et chiffre l&#x27;ensemble à 30 millions par année, 120 millions sur quatre ans, dont 24,6 millions pour le premier supplément et 5,4 millions pour le second ; les deux prestations sont administrées par Retraite Québec.</p></div>
@@ -119,8 +119,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -138,8 +138,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

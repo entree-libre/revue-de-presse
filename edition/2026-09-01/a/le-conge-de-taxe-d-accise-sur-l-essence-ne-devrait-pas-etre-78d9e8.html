@@ -44,7 +44,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/le-conge-de-taxe-d-accise-sur-l-essence-ne-devrait-pas-etre-78d9e8.html">https://entreelibre.ca/edition/2026-09-01/a/le-conge-de-taxe-d-accise-sur-l-essence-ne-devrait-pas-etre-78d9e8.html</a>
 </div>
-<div class="sources"><h5>Lire à la source — 2 médias<span class="src-quand">Arrivé au journal à 16 h 03</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://www.qub.ca/2026/09/01/pas-une-bonne-idee-de-prolonger-le-conge-de-taxe-daccise-sur-lessence-dit-un-expert" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.qub.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">QUB radio</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.journaldemontreal.com/2026/09/01/carney-doit-maintenir-la-baisse-de-taxe-sur-lessence" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.journaldemontreal.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Journal de Montréal</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.qub.ca/2026/09/01/pas-une-bonne-idee-de-prolonger-le-conge-de-taxe-daccise-sur-lessence-dit-un-expert" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.qub.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">QUB radio</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 35</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.journaldemontreal.com/2026/09/01/carney-doit-maintenir-la-baisse-de-taxe-sur-lessence" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.journaldemontreal.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Journal de Montréal</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 35</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <figure><img loading="lazy" alt="" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Petro-Canada_station_at_night%2C_Quebec_City.jpg/1280px-Petro-Canada_station_at_night%2C_Quebec_City.jpg" onerror="this.closest('figure').remove()"><figcaption>Une station-service à Québec. Photo : Wilfredor, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="col-texte">
@@ -121,8 +121,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -140,8 +140,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

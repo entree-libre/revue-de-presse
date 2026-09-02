@@ -42,7 +42,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/dyson-devoile-une-brosse-a-dents-intelligente-avec-camera-in-ac3225.html">https://entreelibre.ca/edition/2026-09-01/a/dyson-devoile-une-brosse-a-dents-intelligente-avec-camera-in-ac3225.html</a>
 </div>
-<div class="sources"><h5>Lire à la source — 2 médias<span class="src-quand">Arrivé au journal à 16 h 03</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lesacdechips.com/2026/09/01/dyson-a-mis-au-point-une-brosse-a-dents-intelligente-equipee-dune-camera-et-dun-lance-rince-bouche" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lesacdechips.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Journal de Montréal</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.presse-citron.net/cette-brosse-a-dents-dyson-possede-une-camera-embarquee-et-son-utilite-va-vous-surprendre/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.presse-citron.net&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Presse-citron</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lesacdechips.com/2026/09/01/dyson-a-mis-au-point-une-brosse-a-dents-intelligente-equipee-dune-camera-et-dun-lance-rince-bouche" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lesacdechips.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Journal de Montréal</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 35</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.presse-citron.net/cette-brosse-a-dents-dyson-possede-une-camera-embarquee-et-son-utilite-va-vous-surprendre/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.presse-citron.net&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Presse-citron</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 35</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>Dyson a développé une brosse à dents intelligente équipée d&#x27;une caméra et d&#x27;un jet de rince-bouche intégré, selon Le Journal de Montréal.</p></div>
@@ -117,8 +117,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -136,8 +136,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

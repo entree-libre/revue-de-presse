@@ -43,7 +43,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/le-chemin-vers-le-deficit-zero-des-depenses-a-25-7-du-pib-et-6a3be5.html">https://entreelibre.ca/edition/2026-09-01/a/le-chemin-vers-le-deficit-zero-des-depenses-a-25-7-du-pib-et-6a3be5.html</a>
 </div>
-<div class="sources"><h5>Lire à la source<span class="src-quand">Arrivé au journal à 3 h 14</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledevoir.com/interactif/2026-08-27/scenarios-deficit-zero/index.html" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.ledevoir.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Devoir</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ledevoir.com/interactif/2026-08-27/scenarios-deficit-zero/index.html" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.ledevoir.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Devoir</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>Les dépenses du gouvernement du Québec représentent aujourd&#x27;hui 25,7 % du produit intérieur brut, contre 24,4 % avant la pandémie, tandis que ses revenus sont retombés à 24,9 % du PIB, contre 26,1 % ; pour respecter la Loi sur l&#x27;équilibre budgétaire, le dernier budget de la CAQ prévoyait atteindre le déficit zéro d&#x27;ici 2030 non pas en haussant les revenus, mais en limitant la croissance des dépenses de portefeuilles à 1,9 % par année en moyenne, et à 1 % les deux dernières années de la décennie. Chaque engagement de campagne pèse sur cette trajectoire, qu&#x27;il s&#x27;agisse d&#x27;abolir la taxe sur l&#x27;essence, de hausser l&#x27;impôt des plus riches ou simplement de maintenir la croissance des dépenses en santé plutôt que de la ralentir comme prévu.</p></div>
@@ -119,8 +119,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -138,8 +138,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

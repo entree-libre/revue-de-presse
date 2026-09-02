@@ -43,7 +43,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/roberval-reclame-de-l-aide-en-logement-en-itinerance-et-en-i-8a794d.html">https://entreelibre.ca/edition/2026-09-01/a/roberval-reclame-de-l-aide-en-logement-en-itinerance-et-en-i-8a794d.html</a>
 </div>
-<div class="sources"><h5>Lire à la source<span class="src-quand">Arrivé au journal à 14 h 25</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://www.tvanouvelles.ca/2026/09/01/logement-infrastructures-et-aeroport-roberval-presente-ses-priorites" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.tvanouvelles.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">TVA Nouvelles</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.tvanouvelles.ca/2026/09/01/logement-infrastructures-et-aeroport-roberval-presente-ses-priorites" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.tvanouvelles.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">TVA Nouvelles</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>Le maire Jean-François Boily profite de la campagne pour demander que les programmes gouvernementaux tiennent compte de la capacité financière des petites villes : certains exigent selon lui une contribution municipale pouvant atteindre 20 % de la valeur des projets, une part difficile à assumer pour une municipalité dont le budget annuel avoisine 25 millions de dollars, alors qu&#x27;il veut aussi financer du logement abordable et poursuivre le développement de l&#x27;aéroport, notamment dans le secteur de la défense.</p></div>
@@ -119,8 +119,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -138,8 +138,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

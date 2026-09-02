@@ -44,7 +44,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/l-alberta-esquive-le-mot-separation-a-la-veille-d-un-referen-c044a0.html">https://entreelibre.ca/edition/2026-09-01/a/l-alberta-esquive-le-mot-separation-a-la-veille-d-un-referen-c044a0.html</a>
 </div>
-<div class="sources"><h5>Lire à la source — 2 médias<span class="src-quand">Arrivé au journal à 5 h 51</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://globalnews.ca/news/12041513/alberta-day-danielle-smith-avoids-separation-talk/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=globalnews.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Global News</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.cbc.ca/news/canada/edmonton/alberta-day-referendum-campaign-rallies-9.7326155" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.cbc.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">CBC</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://globalnews.ca/news/12041513/alberta-day-danielle-smith-avoids-separation-talk/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=globalnews.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Global News</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.cbc.ca/news/canada/edmonton/alberta-day-referendum-campaign-rallies-9.7326155" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.cbc.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">CBC</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Alberta_Legislature_Building%2C_Edmonton%2C_Alberta.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;édifice de l&#x27;Assemblée législative de l&#x27;Alberta, à Edmonton. Photo du domaine public (Public domain), via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="col-texte">
@@ -121,8 +121,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -140,8 +140,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

@@ -43,7 +43,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/le-japon-veut-un-budget-de-defense-record-axe-sur-l-intellig-d74f3d.html">https://entreelibre.ca/edition/2026-09-01/a/le-japon-veut-un-budget-de-defense-record-axe-sur-l-intellig-d74f3d.html</a>
 </div>
-<div class="sources"><h5>Lire à la source — 2 médias<span class="src-quand">Arrivé au journal à 4 h 59</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://www.france24.com/fr/info-en-continu/20260831-le-japon-veut-un-budget-record-de-48-milliards-d-euros-pour-sa-d%C3%A9fense-ax%C3%A9-sur-l-ia" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.france24.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">France 24</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.lapresse.ca/international/asie-et-oceanie/2026-08-31/avec-l-ia-pour-accelerer-la-prise-de-decision/le-japon-veut-un-budget-record-pour-sa-defense.php" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lapresse.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">La Presse</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.france24.com/fr/info-en-continu/20260831-le-japon-veut-un-budget-record-de-48-milliards-d-euros-pour-sa-d%C3%A9fense-ax%C3%A9-sur-l-ia" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.france24.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">France 24</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.lapresse.ca/international/asie-et-oceanie/2026-08-31/avec-l-ia-pour-accelerer-la-prise-de-decision/le-japon-veut-un-budget-record-pour-sa-defense.php" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lapresse.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">La Presse</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>Le ministère japonais de la Défense pourrait réclamer un budget record avoisinant 10 000 milliards de yens, environ 48 milliards d&#x27;euros, pour l&#x27;exercice débutant en avril 2027, selon le quotidien Nikkei cité par France 24 et La Presse. Tokyo mise notamment sur l&#x27;intelligence artificielle pour accélérer sa prise de décision militaire, dans le cadre d&#x27;une vaste montée en puissance de ses capacités de défense.</p></div>
@@ -119,8 +119,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -138,8 +138,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

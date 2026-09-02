@@ -43,7 +43,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/sommet-de-l-ocs-le-dossier-iranien-au-cur-des-discussions-en-479384.html">https://entreelibre.ca/edition/2026-09-01/a/sommet-de-l-ocs-le-dossier-iranien-au-cur-des-discussions-en-479384.html</a>
 </div>
-<div class="sources"><h5>Lire à la source — 2 médias<span class="src-quand">Arrivé au journal à 31 août, 15 h 52</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://www.rfi.fr/fr/asie-pacifique/20260831-sommet-de-l-ocs-le-dossier-iranien-s-annonce-au-c%C5%93ur-des-discussions-entre-xi-poutine-modi-et-pezeshkian" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.rfi.fr&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">RFI</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://information.tv5monde.com/international/xi-au-kirghizstan-poutine-et-pezeshkian-attendus-2835546" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=information.tv5monde.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">TV5MONDE</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.rfi.fr/fr/asie-pacifique/20260831-sommet-de-l-ocs-le-dossier-iranien-s-annonce-au-c%C5%93ur-des-discussions-entre-xi-poutine-modi-et-pezeshkian" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.rfi.fr&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">RFI</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://information.tv5monde.com/international/xi-au-kirghizstan-poutine-et-pezeshkian-attendus-2835546" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=information.tv5monde.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">TV5MONDE</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>L&#x27;Organisation de coopération de Shanghai, qui célèbre son 25e anniversaire, réunit au Kirghizstan les dirigeants chinois, russe, indien et iranien alors que le dossier des sanctions contre Téhéran s&#x27;annonce au cœur des discussions, selon RFI. Selon TV5Monde, ce forum de dix États, conçu à l&#x27;origine pour faire contrepoids à l&#x27;influence occidentale, sert désormais de tribune à la Russie et à l&#x27;Iran face à leur isolement diplomatique.</p><p>**Mise à jour, 15 h 30** — Le sommet de l&#x27;Organisation de coopération de Shanghai s&#x27;est ouvert lundi à Bichkek, au Kirghizistan, avec des dizaines de dirigeants. Narendra Modi y a pressé Vladimir Poutine de mettre fin à la guerre en Ukraine, tandis que le président russe et Xi Jinping ont vanté un « modèle de relations interétatiques ».</p></div>
@@ -119,8 +119,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -138,8 +138,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

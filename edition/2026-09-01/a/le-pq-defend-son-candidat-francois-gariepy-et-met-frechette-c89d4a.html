@@ -43,7 +43,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/le-pq-defend-son-candidat-francois-gariepy-et-met-frechette-c89d4a.html">https://entreelibre.ca/edition/2026-09-01/a/le-pq-defend-son-candidat-francois-gariepy-et-met-frechette-c89d4a.html</a>
 </div>
-<div class="sources"><h5>Lire à la source — 2 médias<span class="src-quand">Arrivé au journal à 12 h 50</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://www.journaldemontreal.com/2026/08/31/mot--squaw--dans-les-livres-de-genevieve-pettersen--st-pierre-plamondon-met-christine-frechette-au-defi" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.journaldemontreal.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Journal de Montréal</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.journaldequebec.com/2026/08/31/propos-du-candidat-pequiste-francois-gariepy-degoutant---lequipe-danne-marie-whitenshaw" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.journaldequebec.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Journal de Québec</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.journaldemontreal.com/2026/08/31/mot--squaw--dans-les-livres-de-genevieve-pettersen--st-pierre-plamondon-met-christine-frechette-au-defi" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.journaldemontreal.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Journal de Montréal</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.journaldequebec.com/2026/08/31/propos-du-candidat-pequiste-francois-gariepy-degoutant---lequipe-danne-marie-whitenshaw" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.journaldequebec.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Journal de Québec</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>Paul St-Pierre Plamondon continue de défendre son candidat dans Charlevoix–Côte-de-Beaupré, l&#x27;ancien animateur de Radio X François Gariépy, qui avait surnommé l&#x27;animatrice Anne-Marie Withenshaw « Anne-Marie Withenchatte » et consacré un segment aux artistes « pleurnichards », et il met Christine Fréchette au défi de retirer en retour la candidature de l&#x27;autrice Geneviève Pettersen, qui a employé le mot « squaw » dans ses livres. L&#x27;agente de l&#x27;animatrice, Stéphanie Moffat, juge ces propos « dégoûtants » et « inélégants », tandis que le Parti québécois rappelle que la cheffe caquiste avait elle-même qualifié ce mot d&#x27;inacceptable et affirmé qu&#x27;elle ne le tolérerait pas dans ses rangs.</p></div>
@@ -119,8 +119,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -138,8 +138,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

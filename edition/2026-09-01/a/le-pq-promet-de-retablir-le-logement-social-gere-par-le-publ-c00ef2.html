@@ -43,7 +43,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/le-pq-promet-de-retablir-le-logement-social-gere-par-le-publ-c00ef2.html">https://entreelibre.ca/edition/2026-09-01/a/le-pq-promet-de-retablir-le-logement-social-gere-par-le-publ-c00ef2.html</a>
 </div>
-<div class="sources"><h5>Lire à la source — 2 médias<span class="src-quand">Arrivé au journal à 31 août, 20 h 39</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lavoixdelest.ca/elections-provinciales-2026/2026/08/31/paul-st-pierre-plamondon-veut-reduire-litinerance-de-moitie-ZG52FGAZ4RG7VEAPI66VJZDQUY/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lavoixdelest.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">La Voix de l&#x27;Est</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.lesoleil.com/elections-provinciales-2026/2026/08/31/paul-st-pierre-plamondon-veut-reduire-litinerance-de-moitie-ZG52FGAZ4RG7VEAPI66VJZDQUY/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lesoleil.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Soleil</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lavoixdelest.ca/elections-provinciales-2026/2026/08/31/paul-st-pierre-plamondon-veut-reduire-litinerance-de-moitie-ZG52FGAZ4RG7VEAPI66VJZDQUY/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lavoixdelest.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">La Voix de l&#x27;Est</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.lesoleil.com/elections-provinciales-2026/2026/08/31/paul-st-pierre-plamondon-veut-reduire-litinerance-de-moitie-ZG52FGAZ4RG7VEAPI66VJZDQUY/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lesoleil.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Le Soleil</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>De passage à Shefford, Paul St-Pierre Plamondon a reproché à la CAQ d&#x27;avoir aboli Accès-Logis et déplacé la discussion vers le « logement abordable », une notion qu&#x27;il juge vidée de sens lorsque des unités ainsi désignées se louent plus de 2 000 $ par mois alors que l&#x27;abordabilité ne devrait pas dépasser 30 % du revenu, et il s&#x27;engage à ramener un logement social géré par le public. Interrogé sur la mise en pause d&#x27;un service de halte-répit pour personnes itinérantes à Granby, il a répondu qu&#x27;« on ne peut pas laisser tomber le filet social » et a réitéré son intention d&#x27;abolir Santé Québec au profit d&#x27;une décentralisation avec reddition de comptes dans chaque région.</p></div>
@@ -119,8 +119,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -138,8 +138,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

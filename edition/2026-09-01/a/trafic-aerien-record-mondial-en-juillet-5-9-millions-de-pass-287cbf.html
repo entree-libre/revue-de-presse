@@ -44,7 +44,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/trafic-aerien-record-mondial-en-juillet-5-9-millions-de-pass-287cbf.html">https://entreelibre.ca/edition/2026-09-01/a/trafic-aerien-record-mondial-en-juillet-5-9-millions-de-pass-287cbf.html</a>
 </div>
-<div class="sources"><h5>Lire à la source — 3 médias<span class="src-quand">Arrivé au journal à 31 août, 16 h 18</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/affaires/2026-08-31/le-record-de-trafic-aerien-mondial-battu-pour-un-mois-de-juillet.php" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lapresse.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">La Presse</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.tvanouvelles.ca/2026/08/31/voyages-en-avion-vers-un-ete-record-malgre-les-prix-eleves-des-billets" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.tvanouvelles.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Québecor</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www150.statcan.gc.ca/daily-quotidien/260828/dq260828c-fra.htm" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www150.statcan.gc.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Statistique Canada</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source — 3 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.lapresse.ca/affaires/2026-08-31/le-record-de-trafic-aerien-mondial-battu-pour-un-mois-de-juillet.php" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lapresse.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">La Presse</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.tvanouvelles.ca/2026/08/31/voyages-en-avion-vers-un-ete-record-malgre-les-prix-eleves-des-billets" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.tvanouvelles.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Québecor</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www150.statcan.gc.ca/daily-quotidien/260828/dq260828c-fra.htm" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www150.statcan.gc.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">Statistique Canada</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <figure><img loading="lazy" alt="" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Terminal_1%2C_Toronto_Pearson_International_Airport%2C_angled_view.jpg/1280px-Terminal_1%2C_Toronto_Pearson_International_Airport%2C_angled_view.jpg" onerror="this.closest('figure').remove()"><figcaption>L&#x27;aérogare 1 de l&#x27;aéroport international Pearson de Toronto. Photo : Daniel Case, CC BY-SA 3.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="col-texte">
@@ -121,8 +121,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -140,8 +140,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}

@@ -43,7 +43,7 @@
   <span class="txt">Partager ↗</span></button>
  <a class="lien-permanent" href="https://entreelibre.ca/edition/2026-09-01/a/guerre-en-ukraine-elon-musk-s-oppose-a-l-usage-de-starlink-p-3a0d6e.html">https://entreelibre.ca/edition/2026-09-01/a/guerre-en-ukraine-elon-musk-s-oppose-a-l-usage-de-starlink-p-3a0d6e.html</a>
 </div>
-<div class="sources"><h5>Lire à la source — 2 médias<span class="src-quand">Arrivé au journal à 4 h 59</span></h5><ul class="src-liste"><li><a class="src-btn" href="https://kyivindependent.com/musk-opposes-allowing-ukraine-to-use-starlink-for-strikes-on-russia-despite-recent-media-reports-sources-say/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=kyivindependent.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">The Kyiv Independent</span></span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.lindependant.fr/2026/09/01/guerre-en-ukraine-il-souhaite-un-accord-dans-cette-guerre-pas-une-escalade-elon-musk-continue-dentretenir-le-flou-sur-lusage-de-starlink-pour-les-13529888.php" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lindependant.fr&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">L&#x27;Indépendant</span></span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
+<div class="sources"><h5>Lire à la source — 2 médias</h5><ul class="src-liste"><li><a class="src-btn" href="https://kyivindependent.com/musk-opposes-allowing-ukraine-to-use-starlink-for-strikes-on-russia-despite-recent-media-reports-sources-say/" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=kyivindependent.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">The Kyiv Independent</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li><li><a class="src-btn" href="https://www.lindependant.fr/2026/09/01/guerre-en-ukraine-il-souhaite-un-accord-dans-cette-guerre-pas-une-escalade-elon-musk-continue-dentretenir-le-flou-sur-lusage-de-starlink-pour-les-13529888.php" target="_blank" rel="noopener"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.lindependant.fr&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-nom">L&#x27;Indépendant</span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">22 h 36</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le texte ci-dessus est une réécriture ; le texte intégral des articles d'origine n'est pas reproduit.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>Elon Musk continue de s&#x27;opposer à ce que le réseau satellitaire Starlink serve à des frappes ukrainiennes contre la Russie, selon The Kyiv Independent, malgré des informations selon lesquelles son usage aurait déjà été toléré pour certaines opérations. Des analystes militaires soulignent que la combinaison du renseignement américain, de l&#x27;intelligence artificielle et de Starlink est devenue un pilier de la capacité de l&#x27;Ukraine à mener sa guerre de drones.</p></div>
@@ -119,8 +119,8 @@ if(H.dataset.font==='newsreader')H.dataset.font='';
 function save(){MAGASIN.ecrire('revue-prefs',
  {theme:H.dataset.theme,font:H.dataset.font,cols:H.dataset.cols,
   scale:getComputedStyle(H).getPropertyValue('--scale').trim()});}
-function th(){var o=['','gris','beige','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
- H.dataset.theme=o[(i+1)%5];save();etat();}
+function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
+ H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
  H.dataset.font=o[(i+1)%5];fontload();save();etat();}
 function fontload(){if(H.dataset.font==='dys')dysload();
@@ -138,8 +138,8 @@ function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
- var t={'':'Clair','gris':'Gris','beige':'Beige','dark':'Sombre',
-  'contraste':'Contraste'}[H.dataset.theme||''];
+ var t={'':'Clair','gris':'Gris','beige':'Beige','jaune':'Pages jaunes',
+  'dark':'Sombre','contraste':'Contraste'}[H.dataset.theme||''];
  var bt=document.getElementById('bth');if(bt)bt.textContent=t;
  var e=document.getElementById('etat');if(!e)return;
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
