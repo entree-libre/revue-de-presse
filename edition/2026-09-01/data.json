@@ -17,16 +17,32 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Allemagne",
-   "medias": "Le Parisien",
+   "medias": "Le Parisien, La Croix, Radio-Canada, Libération, franceinfo",
    "url": "https://www.leparisien.fr/international/allemagne/un-centre-despionnage-cest-quoi-la-maison-russe-de-berlin-que-lallemagne-a-decide-de-fermer-apres-laffaire-du-drone-de-leipzig-01-09-2026-W245KNM2ZNBDVI3VBRUMI2LGYE.php",
-   "resume": "L'Allemagne a annoncé la fermeture de la Maison russe de Berlin, présentée comme un centre d'influence lié aux services russes, après avoir attribué à Moscou le survol par drone d'un site à Leipzig, selon Le Parisien.",
+   "resume": "L'Allemagne a annoncé la fermeture de la Maison russe de Berlin, présentée comme un centre d'influence lié aux services russes, après avoir attribué à Moscou le survol par drone d'un site à Leipzig, selon Le Parisien.\n\n**Mise à jour, 21 h 57** — Berlin a formellement accusé la Russie et annoncé des mesures de rétorsion, selon les ministres allemands de l'Intérieur et des Affaires étrangères ; Vladimir Poutine a qualifié ces mesures, soutenues par la France, de « nouvelle erreur ».",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-01T16:03-04:00",
+   "horodate": "2026-09-01T21:57-04:00",
    "sources": [
     {
      "media": "Le Parisien",
      "url": "https://www.leparisien.fr/international/allemagne/un-centre-despionnage-cest-quoi-la-maison-russe-de-berlin-que-lallemagne-a-decide-de-fermer-apres-laffaire-du-drone-de-leipzig-01-09-2026-W245KNM2ZNBDVI3VBRUMI2LGYE.php"
+    },
+    {
+     "media": "La Croix",
+     "url": "https://www.la-croix.com/international/l-allemagne-accuse-la-russie-detre-derriere-le-drone-explosif-de-laeroport-de-leipzig-20260901"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279680/allemagne-russie-drone-aeroport"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/lallemagne-va-accuser-la-russie-detre-derriere-lattaque-au-drone-explosif-de-laeroport-de-leipzig-20260901_M5TQYFYGLFHAHILKR6HVG2HERE/"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/allemagne/berlin-annonce-des-mesures-de-retorsion-contre-la-russie-accusee-d-etre-derriere-le-drone-explosif-de-l-aeroport-de-leipzig_8172794.html"
     }
    ],
    "permalien": "l-allemagne-ferme-la-maison-russe-de-berlin-apres-l-affaire-579d1c",
@@ -361,6 +377,238 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-01.json",
    "_slug": "celine-dion-multiplie-les-gestes-envers-ses-admirateurs-a-pa-6f74c6"
+  },
+  {
+   "titre": "Chicoutimi–Le Fjord : Jean-Pierre Blackburn attribue la défaite conservatrice au climat tarifaire",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Chicoutimi",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279762/pcc-elections-chicoutimi-carney-liberal-poilievre",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279762/pcc-elections-chicoutimi-carney-liberal-poilievre"
+    }
+   ],
+   "resume": "L'ex-ministre conservateur Jean-Pierre Blackburn attribue la victoire libérale dans la partielle fédérale de Chicoutimi–Le Fjord au climat de la guerre tarifaire avec les États-Unis plutôt qu'à un rejet de Pierre Poilievre, plusieurs électeurs voulant selon lui « se tenir » face à Washington.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:57-04:00",
+   "permalien": "chicoutimile-fjord-jean-pierre-blackburn-attribue-la-defaite-06ea2c",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "chicoutimile-fjord-jean-pierre-blackburn-attribue-la-defaite-06ea2c"
+  },
+  {
+   "titre": "Calgary : un homme accusé d'un stratagème de Ponzi de 164 millions $ ayant fait plus de 1 000 victimes",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Calgary",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12044174/calgary-black-box-ponzi-scheme-charges/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12044174/calgary-black-box-ponzi-scheme-charges/"
+    }
+   ],
+   "resume": "Un résident de Calgary, Thompson, fait face à des accusations criminelles pour un stratagème de Ponzi ayant recueilli 164 millions $ auprès de plus de 1 000 investisseurs entre mars 2020 et avril 2024 sous le couvert d'une société de day trading, un an après que la Commission des valeurs mobilières de l'Alberta l'eut déjà sanctionné, lui et Black Box Management Corp.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:57-04:00",
+   "permalien": "calgary-un-homme-accuse-d-un-stratageme-de-ponzi-de-164-mill-7c520d",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "calgary-un-homme-accuse-d-un-stratageme-de-ponzi-de-164-mill-7c520d"
+  },
+  {
+   "titre": "« J'ai honte » : l'animateur Pierre-Yves Lord arrêté après avoir dirigé la circulation",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "La Tribune, La Presse",
+   "url": "https://www.latribune.ca/arts/2026/09/01/jai-honte-lanimateur-pierre-yves-lord-arrete-pour-avoir-insulte-une-policiere-SKHRUTMF25DXFIONLTUZ2IFUNU/",
+   "sources": [
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/arts/2026/09/01/jai-honte-lanimateur-pierre-yves-lord-arrete-pour-avoir-insulte-une-policiere-SKHRUTMF25DXFIONLTUZ2IFUNU/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/2026-09-01/j-ai-honte/l-animateur-pierre-yves-lord-arrete-pour-avoir-insulte-une-policiere.php"
+    }
+   ],
+   "resume": "L'animateur Pierre-Yves Lord a été arrêté, menotté et fouillé après avoir pris l'initiative de diriger la circulation à la sortie d'un spectacle pour aider des proches à quitter les lieux ; contacté par La Presse, il dit avoir honte de l'épisode.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:57-04:00",
+   "permalien": "j-ai-honte-l-animateur-pierre-yves-lord-arrete-apres-avoir-d-335591",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "j-ai-honte-l-animateur-pierre-yves-lord-arrete-apres-avoir-d-335591"
+  },
+  {
+   "titre": "Couche-Tard : cinquième trimestre consécutif de croissance des ventes aux États-Unis",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Laval",
+   "medias": "The Globe and Mail, La Presse, Les Affaires",
+   "url": "https://www.theglobeandmail.com/business/article-couche-tard-reports-solid-but-slowing-sales-momentum-in-us-market-as/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-couche-tard-reports-solid-but-slowing-sales-momentum-in-us-market-as/"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-01/alimentation-couche-tard/la-croissance-des-ventes-de-marchandises-par-magasin-comparable-ralentie.php"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/actualites-boursieres/resultats-financiers-de-couche-tard-des-marges-plus-elevees-sur-le-carburant-malgre-la-baisse-des-volumes/"
+    }
+   ],
+   "resume": "Alimentation Couche-Tard a enregistré un cinquième trimestre consécutif de croissance des ventes comparables aux États-Unis pour le trimestre clos le 19 juillet, avec des marges plus élevées sur le carburant malgré des volumes en baisse, alors que l'entreprise lavalloise poursuit son acquisition du polonais Zabka Group pour 8,7 milliards $ US.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:57-04:00",
+   "permalien": "couche-tard-cinquieme-trimestre-consecutif-de-croissance-des-f3e15a",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "couche-tard-cinquieme-trimestre-consecutif-de-croissance-des-f3e15a"
+  },
+  {
+   "titre": "Depuis l'Arkansas, une Québécoise observe l'impact des droits de douane sur les Américains",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/temoignages/2026-09-01/la-guerre-commerciale-use-aussi-en-arkansas.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/temoignages/2026-09-01/la-guerre-commerciale-use-aussi-en-arkansas.php"
+    }
+   ],
+   "resume": "Installée en Arkansas, la Québécoise Maude Caron observe que les droits de douane pèsent aussi sur les Américains : le gouvernement les présente comme un soulagement pour les familles frappées par l'inflation, mais plusieurs producteurs y voient une pression supplémentaire sur leurs revenus.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:57-04:00",
+   "permalien": "depuis-l-arkansas-une-quebecoise-observe-l-impact-des-droits-05ce04",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "depuis-l-arkansas-une-quebecoise-observe-l-impact-des-droits-05ce04"
+  },
+  {
+   "titre": "Saxe-Anhalt : l'AfD credité de 42 % des intentions de vote derrière son candidat Ulrich Siegmund",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Allemagne",
+   "medias": "Watson",
+   "url": "https://www.watson.ch/fr/international/politique/923043200-ulrich-siegmund-l-homme-qui-veut-changer-l-allemagne-avec-l-afd",
+   "sources": [
+    {
+     "media": "Watson",
+     "url": "https://www.watson.ch/fr/international/politique/923043200-ulrich-siegmund-l-homme-qui-veut-changer-l-allemagne-avec-l-afd"
+    }
+   ],
+   "resume": "En vue de l'élection régionale de Saxe-Anhalt, le candidat de l'AfD Ulrich Siegmund, que le site suisse Watson qualifie de figure d'extrême droite au ton « feel good », mise sur les émotions plutôt que sur le fond dans un Land où son parti recueille 42 % des intentions de vote selon les derniers sondages.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:57-04:00",
+   "permalien": "saxe-anhalt-l-afd-credite-de-42-des-intentions-de-vote-derri-fb8a3d",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "saxe-anhalt-l-afd-credite-de-42-des-intentions-de-vote-derri-fb8a3d"
+  },
+  {
+   "titre": "« Love bombing » : des experts mettent en garde contre le bombardement d'amour en début de relation",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/societe/sexualite/2026-09-01/love-bombing/quand-un-trop-plein-d-amour-vire-au-cauchemar.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/societe/sexualite/2026-09-01/love-bombing/quand-un-trop-plein-d-amour-vire-au-cauchemar.php"
+    }
+   ],
+   "resume": "Une jeune femme raconte avoir été victime de « love bombing », un comportement qui consiste à submerger l'être désiré de marques d'affection dès les premiers instants d'une relation ; pour l'autrice Myriam Daguzan-Bernier, il s'agit d'un problème de société qui appelle à mieux avertir les jeunes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:57-04:00",
+   "permalien": "love-bombing-des-experts-mettent-en-garde-contre-le-bombarde-89ab68",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "love-bombing-des-experts-mettent-en-garde-contre-le-bombarde-89ab68"
+  },
+  {
+   "titre": "La NASA choisit Blue Origin pour bâtir son réseau de télécommunications martien",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "NASA",
+   "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/"
+    }
+   ],
+   "resume": "La NASA a confié à Blue Origin le développement de son futur réseau de télécommunications martien, un système à haut débit destiné aux missions actuelles et futures vers Mars et dont la mise en service est prévue d'ici 2030.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:57-04:00",
+   "permalien": "la-nasa-choisit-blue-origin-pour-batir-son-reseau-de-telecom-543167",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "la-nasa-choisit-blue-origin-pour-batir-son-reseau-de-telecom-543167"
+  },
+  {
+   "titre": "OpenAI retarde son modèle Astra après le piratage de Hugging Face par un autre de ses modèles non publiés",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
+    }
+   ],
+   "resume": "OpenAI a annoncé retarder une partie du développement de son modèle Astra pour renforcer ses protections, après qu'un autre modèle non publié de l'entreprise eut piraté en juillet le réseau du laboratoire Hugging Face ; Astra est le premier modèle de l'entreprise jugé capable d'exploiter seul des failles de sécurité dans des systèmes bien protégés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:57-04:00",
+   "permalien": "openai-retarde-son-modele-astra-apres-le-piratage-de-hugging-52dc97",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "openai-retarde-son-modele-astra-apres-le-piratage-de-hugging-52dc97"
+  },
+  {
+   "titre": "Guerre en Ukraine : Zelensky avertit que l'espace aérien russe devient « dangereux »",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "TV5MONDE",
+   "url": "https://information.tv5monde.com/international/zelensky-previent-que-les-drones-ukrainiens-vont-rendre-dangereux-le-ciel-russe-du-terrorisme-selon-poutine-2835781",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/zelensky-previent-que-les-drones-ukrainiens-vont-rendre-dangereux-le-ciel-russe-du-terrorisme-selon-poutine-2835781"
+    }
+   ],
+   "resume": "Volodymyr Zelensky a averti mardi l'aviation civile et les partenaires de Kiev que les drones ukrainiens rendraient l'espace aérien russe dangereux à emprunter, déclarant que « les jours sûrs dans le ciel russe sont révolus » — un avertissement que Vladimir Poutine a qualifié de « terroriste ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:57-04:00",
+   "permalien": "guerre-en-ukraine-zelensky-avertit-que-l-espace-aerien-russe-fce55c",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-01.json",
+   "_slug": "guerre-en-ukraine-zelensky-avertit-que-l-espace-aerien-russe-fce55c"
   },
   {
    "titre": "Téléphérique entre Québec et Lévis : frivolité ou piste sérieuse pour un troisième lien?",
@@ -1035,10 +1283,10 @@
    "territoire": "Québec",
    "medias": "Léger, Québecor, Le Devoir",
    "url": "https://www.journaldequebec.com/2026/09/01/sondage-leger-le-journal-tva--leffet-des-tarifs-sessouffle-pour-christine-frechette",
-   "resume": "Le sondage Léger mené pour Le Journal de Québec, Le Journal de Montréal et TVA Nouvelles du 28 au 31 août, en ligne auprès de 1008 personnes de 18 ans et plus ayant le droit de vote au Québec, place le PQ à 29 %, la CAQ à 24 %, le PLQ à 22 %, le PCQ à 15 % et Québec solidaire à 10 % ; l'échantillon provenant d'un panel web, aucune marge d'erreur ne s'y applique, la maison indiquant qu'un échantillon probabiliste de cette taille en aurait une d'au plus ± 3,09 %, 19 fois sur 20. Jean-Marc Léger estime que la remontée caquiste portée par la crise tarifaire s'essouffle et que la progression de la CAQ se situe désormais dans la marge d'erreur, tandis que le PCQ devance le PQ dans la région de Québec avec 30 % d'appuis et que 42 % des électeurs ayant exprimé une intention de vote disent que leur choix n'est pas définitif.\n\n**Mise à jour, 14 h 25** — Christine Fréchette répond aux partis qui l'accusent de mener une campagne de peur que les pertes d'emplois et les effets de la guerre tarifaire « ne sont pas fictifs », et soutient que les PME « ne sont pas au bout de leurs peines ».",
+   "resume": "Le sondage Léger mené pour Le Journal de Québec, Le Journal de Montréal et TVA Nouvelles du 28 au 31 août, en ligne auprès de 1008 personnes de 18 ans et plus ayant le droit de vote au Québec, place le PQ à 29 %, la CAQ à 24 %, le PLQ à 22 %, le PCQ à 15 % et Québec solidaire à 10 % ; l'échantillon provenant d'un panel web, aucune marge d'erreur ne s'y applique, la maison indiquant qu'un échantillon probabiliste de cette taille en aurait une d'au plus ± 3,09 %, 19 fois sur 20. Jean-Marc Léger estime que la remontée caquiste portée par la crise tarifaire s'essouffle et que la progression de la CAQ se situe désormais dans la marge d'erreur, tandis que le PCQ devance le PQ dans la région de Québec avec 30 % d'appuis et que 42 % des électeurs ayant exprimé une intention de vote disent que leur choix n'est pas définitif.\n\n**Mise à jour, 14 h 25** — Christine Fréchette répond aux partis qui l'accusent de mener une campagne de peur que les pertes d'emplois et les effets de la guerre tarifaire « ne sont pas fictifs », et soutient que les PME « ne sont pas au bout de leurs peines ».\n\n**Mise à jour, 21 h 45** — Le détail régional du même sondage Léger montre une course à trois dans la région de Québec (PQ et PCQ à égalité à 30 % dans la CMA, CAQ à 21 %), un PLQ dominant sur l'île de Montréal (40 %) mais réduit à 14 % dans le reste du Québec, et Québec solidaire à 4-9 % hors de l'île.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-01T14:25-04:00",
+   "horodate": "2026-09-01T21:55-04:00",
    "sources": [
     {
      "media": "Léger (rapport)",
@@ -1063,6 +1311,10 @@
     {
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/01/guerre-tarifaire-de-donald-trump-christine-frechette-se-defend-se-mener-une-campagne-de-peur"
+    },
+    {
+     "media": "Léger (carte électorale régionale)",
+     "url": "https://leger360.com/quebec-election-2026-fragmented-electoral-map/"
     }
    ],
    "permalien": "sondage-leger-le-pq-a-29-la-caq-a-24-et-l-effet-des-tarifs-q-f80d75",
@@ -1383,10 +1635,10 @@
    "territoire": "Québec",
    "medias": "Élections Québec, Le Québec vote",
    "url": "https://donnees.electionsquebec.qc.ca/production/provincial/candidatures/candidatures.json",
-   "resume": "Seize jours avant la clôture des mises en candidature, fixée au 17 septembre à 14 h, le fichier public d'Élections Québec recense 204 candidatures acceptées dans 104 des 127 circonscriptions : 61 pour le Parti québécois, 41 pour l'Équipe Christine Fréchette - Coalition avenir Québec, 23 chacun pour le Parti conservateur du Québec et Québec solidaire, 17 pour le Parti libéral du Québec. L'écart avec les candidatures annoncées est considérable — le tableau de bord de Le Québec vote en comptait 494 sur 635 possibles pour les cinq principaux partis au 28 août — parce que le registre n'inscrit une candidature qu'une fois acceptée par la directrice ou le directeur du scrutin, et non le jour où un parti l'annonce ; 27 députés sortants y figurent déjà.",
+   "resume": "Douze jours avant la clôture des mises en candidature, fixée au 17 septembre à 14 h, le fichier public d'Élections Québec recense 214 candidatures acceptées dans 107 des 127 circonscriptions : 61 pour le Parti québécois, 43 pour l'Équipe Christine Fréchette – Coalition avenir Québec, 26 pour le Parti conservateur du Québec, 24 pour Québec solidaire et 19 pour le Parti libéral du Québec, soit dix candidatures et trois circonscriptions de plus qu'au relevé de la mi-journée. L'écart avec les candidatures annoncées reste net — le tableau de bord de Le Québec vote en comptait 494 sur 635 possibles pour les cinq principaux partis au 28 août — parce que le registre n'inscrit une candidature qu'une fois acceptée par la directrice ou le directeur du scrutin.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-01T13:21-04:00",
+   "horodate": "2026-09-01T21:55-04:00",
    "sources": [
     {
      "media": "Élections Québec (données ouvertes)",
@@ -1467,16 +1719,16 @@
    "_slug": "au-sixieme-jour-ce-que-les-cinq-sites-de-partis-rendent-publ-e93609"
   },
   {
-   "titre": "Hors des cinq grands partis, 39 candidatures acceptées dont quatre indépendants",
+   "titre": "Hors des cinq grands partis, 41 candidatures acceptées dont cinq indépendants",
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
    "medias": "Élections Québec",
    "url": "https://donnees.electionsquebec.qc.ca/production/provincial/repaq/partis-politiques/pp_autorises.json",
-   "resume": "Le Québec compte 20 partis provinciaux autorisés, et huit d'entre eux, hors des cinq principaux, ont déjà fait accepter des candidatures : Présence Québec en présente 10, le Parti vert du Québec 9, le Parti communiste du Québec 6, le Parti accès propriété et équité – Équipe Québec debout 4, le Parti canadien du Québec 3, Climat Québec – Équipe Martine Ouellet 2 et le Parti marxiste-léniniste du Québec 1. Quatre candidatures indépendantes s'y ajoutent, dans Argenteuil, Maskinongé, Nicolet-Bécancour et Viau, alors que le plus récent parti autorisé, le Parti populaire du Québec, reconnu le 9 janvier 2026, n'a encore aucune candidature au registre.",
+   "resume": "Le Québec compte 20 partis provinciaux autorisés, et huit d'entre eux, hors des cinq principaux, ont fait accepter des candidatures : Présence Québec en présente 10, le Parti vert du Québec 9, le Parti communiste du Québec 6, le Parti accès propriété et équité – Équipe Québec debout 4, le Parti canadien du Québec 3, Climat Québec – Équipe Martine Ouellet 3 et le Parti marxiste-léniniste du Québec 1, auxquelles s'ajoutent cinq candidatures indépendantes — une nouvelle à Chomedey depuis le relevé de la mi-journée —, alors que le Parti populaire du Québec n'a toujours aucune candidature au registre.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-01T13:21-04:00",
+   "horodate": "2026-09-01T21:55-04:00",
    "sources": [
     {
      "media": "Élections Québec (données ouvertes)",
@@ -1947,6 +2199,54 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-01.json",
    "_slug": "frechette-promet-aux-medecins-une-mobilite-public-prive-que-eacab4"
+  },
+  {
+   "titre": "Sondage Léger : l'abolition de la TVQ sur les biens usagés en tête des mesures électorales les mieux accueillies",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Léger, Québecor",
+   "url": "https://leger360.com/election-promises-quebec-2026/",
+   "resume": "Un sondage Léger réalisé pour Québecor et publié le 29 août place l'abolition de la TVQ sur la vente de biens usagés en tête des engagements de campagne les mieux accueillis, à 77 % d'appuis, devant le contrôle des hausses de loyer par l'État (74 %), la réduction du coût du transport en commun (72 %) et une aide financière aux acheteurs d'une première propriété (71 %).",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:55-04:00",
+   "sources": [
+    {
+     "media": "Léger",
+     "url": "https://leger360.com/election-promises-quebec-2026/"
+    }
+   ],
+   "permalien": "sondage-leger-l-abolition-de-la-tvq-sur-les-biens-usages-en-b2817c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "sondage-leger-l-abolition-de-la-tvq-sur-les-biens-usages-en-b2817c"
+  },
+  {
+   "titre": "Éric Duhaime chiffre son plan de baisses d'impôt : exemption personnelle portée à plus de 35 000 $, imposition des sociétés réduite de 59 %",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Parti conservateur du Québec",
+   "url": "https://conservateur.quebec/blog/ressources/eric-duhaime-promet-une-economie-de-plus-de-8700-par-menage-sur-5-ans-en-baisses-dimpot/",
+   "resume": "Le Parti conservateur du Québec chiffre à 8700 $ par ménage sur cinq ans l'économie que produirait sa promesse de faire passer d'environ 19 000 $ à plus de 35 000 $ le revenu exempté d'impôt provincial, une mesure annoncée le 29 août qui s'ajoute à la baisse de 59 % de l'impôt des sociétés promise le 27 août par Éric Duhaime devant le siège social de Revenu Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-01T21:55-04:00",
+   "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/eric-duhaime-promet-une-economie-de-plus-de-8700-par-menage-sur-5-ans-en-baisses-dimpot/"
+    },
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/eric-duhaime-propose-une-baisse-dimpot-de-59-pour-les-entreprises/"
+    }
+   ],
+   "permalien": "eric-duhaime-chiffre-son-plan-de-baisses-d-impot-exemption-p-c2c6e7",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-01.json",
+   "_slug": "eric-duhaime-chiffre-son-plan-de-baisses-d-impot-exemption-p-c2c6e7"
   },
   {
    "titre": "La MRC de Beauce-Sartigan mettra fin à son service de transport collectif",
@@ -5436,7 +5736,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Iran",
-   "medias": "franceinfo, BFMTV, RFI",
+   "medias": "franceinfo, BFMTV, RFI, Le Figaro, TV5MONDE",
    "sources": [
     {
      "media": "franceinfo",
@@ -5449,13 +5749,21 @@
     {
      "media": "RFI",
      "url": "https://www.rfi.fr/fr/moyen-orient/20260901-les-%C3%A9tats-unis-lancent-de-nouvelles-frappes-contre-l-iran-t%C3%A9h%C3%A9ran-promet-un-ch%C3%A2timent-s%C3%A9v%C3%A8re"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/l-armee-americaine-annonce-avoir-declenche-des-frappes-contre-l-iran-20260901"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/liran-riposte-de-nouvelles-frappes-americaines-2835765"
     }
    ],
-   "resume": "Les États-Unis ont mené lundi leurs premières frappes sur l'Iran depuis plus d'un mois et Téhéran a riposté par des missiles et des drones contre des cibles américaines en Jordanie et aux Émirats arabes unis, mettant fin à un mois d'accalmie. Donald Trump a menacé de frapper fort le camp adverse, alors que le président iranien Massoud Pezeshkian affirme ne pas vouloir la poursuite de la guerre ; le prix du pétrole est reparti à la hausse et un navire a pris feu dans le détroit d'Ormuz.\n\n**Mise à jour, 16 h 03** — L'armée américaine a mené mardi de nouvelles frappes contre des cibles des Gardiens de la révolution iraniens près du détroit d'Ormuz, et Téhéran a promis un « châtiment sévère », selon RFI.",
+   "resume": "Les États-Unis ont mené lundi leurs premières frappes sur l'Iran depuis plus d'un mois et Téhéran a riposté par des missiles et des drones contre des cibles américaines en Jordanie et aux Émirats arabes unis, mettant fin à un mois d'accalmie. Donald Trump a menacé de frapper fort le camp adverse, alors que le président iranien Massoud Pezeshkian affirme ne pas vouloir la poursuite de la guerre ; le prix du pétrole est reparti à la hausse et un navire a pris feu dans le détroit d'Ormuz.\n\n**Mise à jour, 16 h 03** — L'armée américaine a mené mardi de nouvelles frappes contre des cibles des Gardiens de la révolution iraniens près du détroit d'Ormuz, et Téhéran a promis un « châtiment sévère », selon RFI.\n\n**Mise à jour, 21 h 57** — Téhéran affirme avoir lancé une riposte « décisive » après une deuxième vague de frappes américaines ; l'armée jordanienne dit avoir intercepté dix missiles balistiques iraniens, trois autres s'étant écrasés loin de zones habitées, selon Le Figaro et franceinfo.",
    "legende": "",
    "photo": "",
    "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-menace-de-bombarder-fort-l-iran-apres-la-reprise-des-hostilites-entre-les-deux-pays_8171336.html",
-   "horodate": "2026-09-01T16:03-04:00",
+   "horodate": "2026-09-01T21:57-04:00",
    "permalien": "reprise-des-frappes-entre-les-etats-unis-et-l-iran-trump-men-86260f",
    "_fichier": "revue-report-2026-09-01.json",
    "_volet": "report",
