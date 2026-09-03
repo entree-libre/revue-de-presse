@@ -1,7 +1,8 @@
 {
  "date": "2026-09-03",
  "volets": [
-  "report"
+  "report",
+  "savoirs"
  ],
  "articles": [
   {
@@ -180,17 +181,22 @@
    "cahier": "savoirs",
    "rubrique": "idees",
    "territoire": "",
-   "medias": "La Presse",
+   "medias": "La Presse, TVA Nouvelles",
    "url": "https://www.lapresse.ca/arts/musique/2026-09-02/poursuite-contre-suno/la-socan-denonce-l-exploitation-de-ses-contenus-par-une-plateforme-d-ia.php",
-   "resume": "La Société canadienne des auteurs, compositeurs et éditeurs de musique (SOCAN) poursuit la plateforme d'intelligence artificielle Suno, l'accusant d'avoir généré et diffusé des contenus copiant des œuvres de son répertoire, selon La Presse.",
+   "resume": "La Société canadienne des auteurs, compositeurs et éditeurs de musique (SOCAN) poursuit la plateforme d'intelligence artificielle Suno devant la Cour fédérale, l'accusant d'avoir généré et diffusé des contenus copiant des œuvres de son répertoire, selon La Presse. La poursuite réclame 10 millions de dollars en dommages punitifs et cite un échantillon de 150 chansons générées par IA reprenant des œuvres d'artistes tels qu'Avril Lavigne et Roch Voisine, selon TVA Nouvelles.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T13:42-04:00",
+   "horodate": "2026-09-03T02:34-04:00",
    "sources": [
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/arts/musique/2026-09-02/poursuite-contre-suno/la-socan-denonce-l-exploitation-de-ses-contenus-par-une-plateforme-d-ia.php",
      "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/02/droits-dauteurs--la-socan-poursuit-la-plateforme-dia-suno-inc",
+     "date": "2026-09-03T02:34-04:00"
     }
    ],
    "permalien": "la-socan-poursuit-la-plateforme-d-ia-suno-pour-exploitation-72cd39",
@@ -226,21 +232,38 @@
    "cahier": "savoirs",
    "rubrique": "espace",
    "territoire": "France",
-   "medias": "franceinfo",
+   "medias": "franceinfo, Agence spatiale européenne, Ciel et Espace, Sciences et Avenir",
    "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/elles-resteront-le-point-culminant-de-cette-mission-sophie-adenot-dresse-le-bilan-de-ses-trois-sorties-spatiales_8173961.html",
-   "resume": "Au lendemain de sa troisième sortie extravéhiculaire, l'astronaute française Sophie Adenot a présenté mercredi, lors d'une conférence de presse, le bilan de ses activités préférées de sa mission à bord de la Station spatiale internationale, selon franceinfo.",
-   "photo": "",
-   "legende": "",
-   "horodate": "2026-09-02T13:42-04:00",
+   "resume": "Sophie Adenot et l'astronaute de la NASA Jessica Meir ont effectué le 1er septembre la troisième sortie extravéhiculaire de l'astronaute française en quinze jours, une opération de 6 heures et 49 minutes consacrée à des réparations et à un prélèvement d'échantillons sur la Station spatiale internationale, selon l'Agence spatiale européenne. Adenot porte désormais à 19 heures et 42 minutes son temps cumulé dans le vide spatial, un bilan qu'elle a présenté en conférence de presse le lendemain, selon franceinfo.",
+   "photo": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-99/27446273-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-99_pillars.jpg",
+   "legende": "Sophie Adenot lors de sa sortie extravéhiculaire du 1er septembre 2026.",
+   "horodate": "2026-09-03T02:34-04:00",
    "sources": [
     {
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/elles-resteront-le-point-culminant-de-cette-mission-sophie-adenot-dresse-le-bilan-de-ses-trois-sorties-spatiales_8173961.html",
      "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "Agence spatiale européenne",
+     "url": "https://www.esa.int/Space_in_Member_States/France/Sophie_Adenot_a_effectue_sa_troisieme_sortie_extravehiculaire",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Ciel et Espace",
+     "url": "https://www.cieletespace.fr/article/sophie-adenot-la-sortie-de-la-consecration",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/sciences/troisieme-sortie-dans-l-espace-pour-la-francaise-sophie-adenot_194519",
+     "date": "2026-09-03T02:34-04:00"
     }
    ],
    "permalien": "sophie-adenot-dresse-le-bilan-de-ses-trois-sorties-spatiales-f95003",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "ESA",
+   "photo_licence": "CC BY-SA 3.0 IGO",
    "_volet": "report",
    "_slug": "sophie-adenot-dresse-le-bilan-de-ses-trois-sorties-spatiales-f95003"
   },
@@ -249,7 +272,7 @@
    "cahier": "savoirs",
    "rubrique": "technologies",
    "territoire": "",
-   "medias": "ZDNet",
+   "medias": "ZDNet, Journal de Montréal, The Verge",
    "url": "https://www.zdnet.fr/actualites/instagram-sanctionne-la-non-transparence-des-avatars-ia-ce-que-changent-les-nouvelles-regles-de-meta-501057.htm",
    "resume": "Meta impose de nouvelles règles de modération sur Instagram pour les comptes utilisant l'intelligence artificielle sans la mention « généré par IA », distinguant l'usage de l'IA comme outil d'assistance de la création complète d'un personnage fictif, selon ZDNet.",
    "photo": "",
@@ -260,6 +283,16 @@
      "media": "ZDNet",
      "url": "https://www.zdnet.fr/actualites/instagram-sanctionne-la-non-transparence-des-avatars-ia-ce-que-changent-les-nouvelles-regles-de-meta-501057.htm",
      "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/02/instagram-sevit-contre-les-comptes-generes-par-lia-qui-se-font-passer-pour-des-humains",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+     "date": "2026-09-03T02:34-04:00"
     }
    ],
    "permalien": "instagram-sanctionne-desormais-les-avatars-generes-par-ia-sa-fbdb9e",
@@ -272,17 +305,37 @@
    "cahier": "savoirs",
    "rubrique": "technologies",
    "territoire": "",
-   "medias": "Mac4Ever",
+   "medias": "Mac4Ever, ZDNet, iGeneration, Presse-citron, The Verge",
    "url": "https://www.mac4ever.com/divers/197818-gopro-rachete-pour-285-millions-de-dollars-apres-des-annees-de-difficultes",
-   "resume": "Le fabricant américain de caméras d'action GoPro, en difficulté depuis plusieurs années, a conclu un accord définitif de fusion avec Starman Optical, dans une transaction valorisée à 285 millions de dollars, selon Mac4Ever.",
+   "resume": "Le fabricant américain de caméras d'action GoPro, en difficulté depuis plusieurs années, a conclu un accord définitif de fusion avec Starman Optical, dans une transaction valorisée à 285 millions de dollars, selon Mac4Ever. Le YouTubeur Markiplier, qui détenait environ 8,5 % du capital de l'entreprise, en était devenu le principal actionnaire individuel avant l'annonce, selon The Verge.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T13:42-04:00",
+   "horodate": "2026-09-03T02:34-04:00",
    "sources": [
     {
      "media": "Mac4Ever",
      "url": "https://www.mac4ever.com/divers/197818-gopro-rachete-pour-285-millions-de-dollars-apres-des-annees-de-difficultes",
      "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/gopro-cede-pour-285-millions-de-dollars-le-pivot-vers-lia-et-le-b2b-501048.htm",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "iGeneration",
+     "url": "https://www.igen.fr/accessoires/2026/09/les-cameras-gopro-rachetees-par-un-fabricant-de-composants-pour-centres-de-donnees-lies-des-accessoiristes-bien-connus-157773",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/gopro-rachat-declin-marque-de-sport-vise-ia-defense/",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+     "date": "2026-09-03T02:34-04:00"
     }
    ],
    "permalien": "gopro-rachete-pour-285-millions-de-dollars-par-starman-optic-4bf6fa",
@@ -498,7 +551,7 @@
    "cahier": "savoirs",
    "rubrique": "cinema",
    "territoire": "France",
-   "medias": "TVA Nouvelles",
+   "medias": "TVA Nouvelles, La Presse",
    "url": "https://www.tvanouvelles.ca/2026/09/02/mort-de-jean-paul-rappeneau-le-realisateur-de-cyrano-de-bergerac",
    "resume": "Le cinéaste français Jean-Paul Rappeneau, dont l'adaptation de « Cyrano de Bergerac » en 1990 a connu un immense succès international, est mort à 94 ans au terme d'une carrière d'un demi-siècle, selon TVA Nouvelles.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jean-Paul_Rappeneau_2021.jpg/1280px-Jean-Paul_Rappeneau_2021.jpg",
@@ -511,6 +564,11 @@
      "media": "TVA Nouvelles",
      "url": "https://www.tvanouvelles.ca/2026/09/02/mort-de-jean-paul-rappeneau-le-realisateur-de-cyrano-de-bergerac",
      "date": "2026-09-02T16:05-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-09-02/realisateur-de-cyrano-de-bergerac/le-francais-jean-paul-rappeneau-est-mort-a-94-ans.php",
+     "date": "2026-09-03T02:34-04:00"
     }
    ],
    "permalien": "mort-du-cineaste-francais-jean-paul-rappeneau-realisateur-de-763abd",
@@ -676,17 +734,22 @@
    "cahier": "savoirs",
    "rubrique": "sciences",
    "territoire": "",
-   "medias": "Journal de Montréal",
+   "medias": "Journal de Montréal, Radio-Canada",
    "url": "https://www.journaldemontreal.com/2026/09/02/trois-cyclones-en-meme-temps-dans-le-pacifique-phenomene-rare-favorise-par-el-nino",
-   "resume": "Deux puissants ouragans, Lowell et Karina, et une tempête tropicale qui se renforce traversent en même temps l'océan Pacifique, dont les eaux sont réchauffées par un épisode d'El Niño d'une intensité historique, selon le Journal de Montréal.",
+   "resume": "L'ouragan Lowell (catégorie 5) et l'ouragan Karina (catégorie 4) traversent le Pacifique aux côtés de la tempête tropicale Marie, qui doit se renforcer en ouragan, dans un épisode d'El Niño qui a 69 % de chances de devenir le plus intense jamais enregistré, selon l'Agence américaine d'observation océanique et atmosphérique citée par l'Agence France-Presse. Un tel enchaînement de trois cyclones simultanés reste rare : le précédent comparable remonte à 2015, une autre année de fort El Niño, selon la climatologue Julia Cole, de l'Université du Michigan.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T19:26-04:00",
+   "horodate": "2026-09-03T02:34-04:00",
    "sources": [
     {
      "media": "Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/02/trois-cyclones-en-meme-temps-dans-le-pacifique-phenomene-rare-favorise-par-el-nino",
      "date": "2026-09-02T19:26-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280179/trois-cyclones-pacifique-el-nino",
+     "date": "2026-09-03T02:34-04:00"
     }
    ],
    "permalien": "trois-cyclones-simultanes-dans-le-pacifique-un-phenomene-rar-e947e3",
@@ -1054,7 +1117,7 @@
   {
    "titre": "Mort de la chanteuse de jazz Cassandra Wilson",
    "cahier": "savoirs",
-   "rubrique": "societe",
+   "rubrique": "cinema",
    "territoire": "États-Unis",
    "medias": "La Presse",
    "url": "https://www.lapresse.ca/arts/musique/2026-09-02/la-chanteuse-jazz-cassandra-wilson-n-est-plus.php",
@@ -2176,6 +2239,593 @@
    "_fichier": "revue-report-2026-09-03.json",
    "_volet": "report",
    "_slug": "le-conge-de-taxe-d-accise-sur-l-essence-ne-devrait-pas-etre-78d9e8"
+  },
+  {
+   "titre": "Le télescope spatial Nancy Grace Roman de la NASA a été lancé vers l'espace lointain",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "NASA, Radio-Canada, Ciel et Espace, Sciences et Avenir, franceinfo, La Presse",
+   "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+   "resume": "Le télescope spatial Nancy Grace Roman de la NASA, conçu pour sonder la matière noire, l'énergie noire et les exoplanètes, a décollé le 30 août à bord d'une fusée Falcon Heavy de SpaceX depuis le Centre spatial Kennedy, avec la contribution de l'Agence spatiale européenne, du CNES français et de l'institut Max-Planck allemand. Il doit balayer le ciel environ mille fois plus vite que le télescope Hubble et livrer ses premières images début 2027, selon la NASA.",
+   "photo": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg",
+   "photo_auteur": "NASA/John Kraus",
+   "photo_licence": "Domaine public",
+   "legende": "Une fusée Falcon Heavy de SpaceX transportant le télescope Nancy Grace Roman, au décollage du Centre spatial Kennedy, le 30 août 2026.",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10748393/lancement-telescope-spatial-roman-pour-scruter-confins-univers",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Ciel et Espace",
+     "url": "https://www.cieletespace.fr/article/nancy-grace-roman-trace-sa-route-dans-l-espace",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/espace/exploration/telescope-roman-la-nasa-lance-son-nouvel-observatoire-pour-etudier-l-energie-noire-et-les-exoplanetes_194489",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/espace-la-nasa-lance-le-telescope-nancy-grace-roman_8170256.html",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.sciencesetavenir.fr/espace/astrophysique/qui-etait-nancy-grace-roman-la-mere-de-hubble-qui-donne-son-nom-au-nouveau-telescope-de-la-nasa_194490",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "le-telescope-spatial-nancy-grace-roman-de-la-nasa-a-ete-lanc-a310aa",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "le-telescope-spatial-nancy-grace-roman-de-la-nasa-a-ete-lanc-a310aa"
+  },
+  {
+   "titre": "L'équipage d'Artemis II reçoit la plus haute distinction spatiale américaine",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "NASA",
+   "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+   "resume": "Le président des États-Unis a remis à l'équipage de la mission lunaire Artemis II la Médaille du Congrès pour l'espace, la plus haute distinction spatiale américaine, a annoncé la NASA.",
+   "photo": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+   "photo_auteur": "NASA",
+   "photo_licence": "Domaine public",
+   "legende": "L'équipage de la mission lunaire Artemis II de la NASA.",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "l-equipage-d-artemis-ii-recoit-la-plus-haute-distinction-spa-117b40",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "l-equipage-d-artemis-ii-recoit-la-plus-haute-distinction-spa-117b40"
+  },
+  {
+   "titre": "L'Europe complète sa nouvelle constellation météo avec le lancement du satellite MTG-I2",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "Agence spatiale européenne, franceinfo",
+   "url": "https://www.esa.int/Newsroom/Press_Releases/MTG-I2_vient_completer_le_plus_recent_trio_de_satellites_meteorologiques_europeens",
+   "resume": "Le satellite météorologique européen MTG-I2 a été lancé le 27 août par une fusée Ariane 6 depuis le port spatial de Kourou, en Guyane française, complétant la constellation Meteosat de troisième génération qui fournira des images de l'Europe et de l'Afrique du Nord toutes les 2,5 minutes, selon l'Agence spatiale européenne.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Ariane_6_with_P160C_Boosters.jpg/1280px-Ariane_6_with_P160C_Boosters.jpg",
+   "photo_auteur": "ESA - S. Corvaja",
+   "photo_licence": "CC BY-SA 3.0 IGO",
+   "legende": "Une fusée Ariane 6, le lanceur utilisé pour la mise en orbite du satellite MTG-I2.",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Agence spatiale européenne",
+     "url": "https://www.esa.int/Newsroom/Press_Releases/MTG-I2_vient_completer_le_plus_recent_trio_de_satellites_meteorologiques_europeens",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/environnement/meteo/le-nouveau-satellite-meteo-europeen_8164952.html",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "l-europe-complete-sa-nouvelle-constellation-meteo-avec-le-la-79701d",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "l-europe-complete-sa-nouvelle-constellation-meteo-avec-le-la-79701d"
+  },
+  {
+   "titre": "Des ondes cérébrales enregistrées pendant l'éveil pourraient signaler un risque précoce d'Alzheimer",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "France",
+   "medias": "Inserm, Futura",
+   "url": "https://www.inserm.fr/actualite/alzheimer-des-ondes-cerebrales-comme-biomarqueur-precoce-de-la-maladie/",
+   "resume": "Une équipe Inserm de l'Institut du cerveau à Paris établit, dans la revue Alzheimer & Dementia, un lien entre l'amplitude de certaines ondes cérébrales lentes mesurées pendant l'éveil et le risque de développer la maladie d'Alzheimer, à partir du suivi de plus de 300 personnes de 70 à 85 ans de la cohorte INSIGHT-preAD.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Inserm",
+     "url": "https://www.inserm.fr/actualite/alzheimer-des-ondes-cerebrales-comme-biomarqueur-precoce-de-la-maladie/",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-ces-ondes-cerebrales-pourraient-trahir-maladie-bien-avant-premiers-symptomes-137372/",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "des-ondes-cerebrales-enregistrees-pendant-l-eveil-pourraient-d30bc7",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "des-ondes-cerebrales-enregistrees-pendant-l-eveil-pourraient-d30bc7"
+  },
+  {
+   "titre": "Des chercheuses montréalaises découvrent comment l'hépatite C aide le VIH à se cacher dans l'organisme",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Québec",
+   "medias": "Université de Montréal",
+   "url": "https://nouvelles.umontreal.ca/article/2026/09/01/comprendre-le-lien-entre-hepatite-c-et-persistance-du-vih",
+   "resume": "Naglaa Shoukry et Petronela Ancuta, chercheuses du Centre de recherche du CHUM et professeures à l'Université de Montréal, montrent dans la revue The Lancet eBioMedicine que l'hépatite C rend certaines cellules immunitaires plus vulnérables au VIH en augmentant leur production de la protéine CCR5, créant des réservoirs où le virus persiste malgré un traitement antirétroviral efficace.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Université de Montréal",
+     "url": "https://nouvelles.umontreal.ca/article/2026/09/01/comprendre-le-lien-entre-hepatite-c-et-persistance-du-vih",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "des-chercheuses-montrealaises-decouvrent-comment-l-hepatite-1131ac",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "des-chercheuses-montrealaises-decouvrent-comment-l-hepatite-1131ac"
+  },
+  {
+   "titre": "L'Union européenne place ChatGPT, Reddit et Roblox parmi les plateformes à haut risque",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "The Verge, ZDNet, Presse-citron, MacGeneration, Mac4Ever, Clubic",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+   "resume": "La Commission européenne a désigné ChatGPT, Reddit et Roblox comme plateformes « très grandes » au sens du règlement sur les services numériques (DSA), ce qui les oblige à mieux protéger les mineurs et la santé mentale des utilisateurs, et à limiter la diffusion de contenus illégaux d'ici la fin décembre 2026. Le seuil déclenchant cette classification est de 45 millions d'utilisateurs mensuels moyens dans l'Union européenne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+     "date": "2026-09-01T22:36-04:00"
+    },
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/regulation-chatgpt-et-reddit-face-au-rouleau-compresseur-du-dsa-500904.htm",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/parents-francais-chatgpt-roblox-reddit-protegeront-mineurs-amende-europeenne/",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/ailleurs/2026/08/chatgpt-reddit-et-roblox-bientot-soumis-des-regles-renforcees-dans-lunion-europeenne-310747",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/ia/197776-chatgpt-devient-un-moteur-de-recherche-aux-yeux-de-l-europe-qu-est-ce-que-cela-change",
+     "date": "2026-09-01T22:36-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627484-chatgpt-reddit-et-roblox-rejoignent-officiellement-le-club-des-geants-surveilles-par-l-europe.html",
+     "date": "2026-09-01T22:36-04:00"
+    }
+   ],
+   "permalien": "l-union-europeenne-place-chatgpt-reddit-et-roblox-parmi-les-8b9768",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "l-union-europeenne-place-chatgpt-reddit-et-roblox-parmi-les-8b9768"
+  },
+  {
+   "titre": "La présentation de GTA VI sur Netflix attire un pic de près de 4 millions de spectateurs en direct",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "Clubic, Mac4Ever, The Verge, MacGeneration, Journal de Montréal",
+   "url": "https://www.clubic.com/actualite-627421-gta-6-affole-deja-les-compteurs-avec-un-pic-de-pres-de-4-millions-de-spectateurs-en-direct.html",
+   "resume": "Le « Large aperçu » de 27 minutes consacré à GTA VI, diffusé le 27 août d'abord sur Netflix puis sur YouTube, a atteint un pic cumulé de 3,97 millions de spectateurs simultanés sur les chaînes de co-diffusion et de réaction, selon la société d'analyse Streams Charts. Plus de 9 000 créateurs ont couvert l'événement pour un total de 5,2 millions d'heures regardées, en amont d'une sortie du jeu toujours prévue le 19 novembre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627421-gta-6-affole-deja-les-compteurs-avec-un-pic-de-pres-de-4-millions-de-spectateurs-en-direct.html",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/gaming/197741-gta-6-se-devoile-enfin-27-minutes-de-gameplay-sur-netflix",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/ailleurs/2026/08/le-live-de-presentation-de-gta-vi-met-netflix-genoux-310673",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.pesesurstart.com/2026/08/27/gta-6--tout-ce-qui-a-ete-devoile-dans-la-bande-annonce-de-26-minutes",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "la-presentation-de-gta-vi-sur-netflix-attire-un-pic-de-pres-44db4d",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "la-presentation-de-gta-vi-sur-netflix-attire-un-pic-de-pres-44db4d"
+  },
+  {
+   "titre": "Une fuite de 13 téraoctets dévoile des contenus inédits de l'histoire de Valve",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "Korben, Journal de Montréal, The Verge",
+   "url": "https://korben.info/13-to-de-donnees-de-steam-ont-fuite.html",
+   "resume": "Un point d'accès oublié de l'ancienne infrastructure de Steam, actif jusqu'en 2013, a permis à des internautes d'extraire entre 12 et 13 téraoctets de fichiers sans aucune intrusion, révélant notamment un modèle 3D d'une arme prévue pour le jeu jamais sorti Half-Life 2 Episode 3 et une version complète de Left 4 Dead datant de 2008, selon Tom's Hardware.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Korben",
+     "url": "https://korben.info/13-to-de-donnees-de-steam-ont-fuite.html",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/31/fuite-massive-de-fichiers-steam-des-traces-de-half-life-2-episode-3-refont-surface",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "une-fuite-de-13-teraoctets-devoile-des-contenus-inedits-de-l-61d4e9",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "une-fuite-de-13-teraoctets-devoile-des-contenus-inedits-de-l-61d4e9"
+  },
+  {
+   "titre": "Apple commence à rebaptiser le lac Ontario en « Lake America » sur Plans aux États-Unis",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "iGeneration, Mac4Ever, Clubic",
+   "url": "https://www.igen.fr/services/2026/08/apple-sous-pression-pour-rebaptiser-le-lac-ontario-dans-plans-157741",
+   "resume": "Après un décret du président Donald Trump renommant le lac Ontario en « Lake America » et son adoption rapide par Google Maps, Apple a commencé à afficher la nouvelle appellation dans Plans sur les appareils américains, tout en conservant « Lake Ontario » au Canada, selon plusieurs médias américains cités par iGeneration. L'application concurrente MapQuest, qui refuse le changement, affirme avoir vu ses téléchargements multipliés par cinquante depuis fin août.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Dusk_at_Lake_Ontario_%2811741615136%29.jpg/1280px-Dusk_at_Lake_Ontario_%2811741615136%29.jpg",
+   "photo_auteur": "Lord of the Wings (Toronto, Canada)",
+   "photo_licence": "CC BY-SA 2.0",
+   "legende": "Le lac Ontario, dont Washington a modifié le nom sur les cartes numériques américaines.",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "iGeneration",
+     "url": "https://www.igen.fr/services/2026/08/apple-sous-pression-pour-rebaptiser-le-lac-ontario-dans-plans-157741",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197771-google-maps-rebaptise-le-lac-ontario-en-lac-d-amerique-apple-plans-resiste",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627367-sous-la-pression-de-donald-trump-le-lac-ontario-change-de-nom-sur-google-maps-mais-pas-pour-tout-le-monde.html",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "apple-commence-a-rebaptiser-le-lac-ontario-en-lake-america-s-9e11e1",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "apple-commence-a-rebaptiser-le-lac-ontario-en-lake-america-s-9e11e1"
+  },
+  {
+   "titre": "Phil Schiller quitte la direction de l'App Store, Eddy Cue reprend la main chez Apple",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Mac4Ever, MacGeneration, The Verge",
+   "url": "https://www.mac4ever.com/divers/197786-apres-tim-cook-phil-schiller-se-retire-davantage-d-apple-qui-prendra-sa-place",
+   "resume": "Le même jour que le départ de Tim Cook de la direction générale d'Apple, Phil Schiller a cédé à Eddy Cue la supervision de l'App Store et des événements de la marque, deux responsabilités qu'il assumait depuis 2020 à titre d'Apple Fellow, selon Bloomberg cité par Mac4Ever.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197786-apres-tim-cook-phil-schiller-se-retire-davantage-d-apple-qui-prendra-sa-place",
+     "date": "2026-09-01T22:36-04:00"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/aapl/2026/08/phil-schiller-quitte-la-direction-de-lapp-store-310753",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "phil-schiller-quitte-la-direction-de-l-app-store-eddy-cue-re-de0243",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "phil-schiller-quitte-la-direction-de-l-app-store-eddy-cue-re-de0243"
+  },
+  {
+   "titre": "La Corée du Sud lance un accès gratuit et illimité à l'IA générative pour tous ses citoyens",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Corée du Sud",
+   "medias": "Mac4Ever, MacGeneration, Clubic",
+   "url": "https://www.mac4ever.com/ia/197780-la-coree-du-sud-offre-l-ia-a-tous-ses-citoyens",
+   "resume": "Séoul lance le programme « AI for All », qui donnera à chaque citoyen sud-coréen un accès public et gratuit à des modèles d'intelligence artificielle développés par SK Telecom, KT et Kakao, avec 512 processeurs graphiques Nvidia B200 fournis dès cette année par l'État.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/ia/197780-la-coree-du-sud-offre-l-ia-a-tous-ses-citoyens",
+     "date": "2026-09-01T22:36-04:00"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/intelligence-artificielle/2026/08/la-coree-du-sud-va-proposer-une-ia-gratuite-et-illimitee-ses-habitants-310743",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627388-la-coree-du-sud-offre-une-ia-gratuite-et-illimitee-a-tous-ses-citoyens-un-pari-que-le-monde-entier-regarde.html",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "la-coree-du-sud-lance-un-acces-gratuit-et-illimite-a-l-ia-ge-b5b010",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "la-coree-du-sud-lance-un-acces-gratuit-et-illimite-a-l-ia-ge-b5b010"
+  },
+  {
+   "titre": "Chez Meta, le plan de Mark Zuckerberg pour remplacer des employés par l'IA provoque une révolte interne",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Presse-citron, Clubic, Mac4Ever",
+   "url": "https://www.presse-citron.net/mark-zuckerberg-veut-virer-tous-ses-employes-pour-les-remplacer-par-des-ia-il-se-prend-un-mur/",
+   "resume": "Selon Reuters, Meta avait envisagé de supprimer 60 % de ses effectifs pour les remplacer par de l'intelligence artificielle dans le cadre d'un plan interne baptisé « Transformation organisationnelle », avant de limiter une première vague à 10 % des employés, soit 8 000 postes, et d'annuler la seconde prévue pour novembre. La démotivation provoquée par ce projet et par un système de surveillance des employés par IA a forcé l'entreprise à annuler un hackathon interne en juillet, rapportent Reuters et Wired.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/mark-zuckerberg-veut-virer-tous-ses-employes-pour-les-remplacer-par-des-ia-il-se-prend-un-mur/",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-626953-project-ot-le-plan-de-meta-pour-remplacer-ses-equipes-par-l-ia-a-deraille.html",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/ia/197724-zuckerberg-voulait-remplacer-des-milliers-d-employes-par-l-ia-sauf-que",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "chez-meta-le-plan-de-mark-zuckerberg-pour-remplacer-des-empl-d4e270",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "chez-meta-le-plan-de-mark-zuckerberg-pour-remplacer-des-empl-d4e270"
+  },
+  {
+   "titre": "Meta accepte de verser jusqu'à 17 milliards de dollars pour mettre fin à un procès sur la dépendance aux réseaux sociaux",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10745585/dependance-aux-reseaux-sociaux-meta-devra-verser-plus-16-milliards-$us",
+   "resume": "Meta a accepté de verser jusqu'à 17 milliards de dollars américains à une coalition d'États américains pour mettre fin à des poursuites l'accusant d'avoir caché au public les effets de Facebook et Instagram sur la santé mentale des jeunes, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10745585/dependance-aux-reseaux-sociaux-meta-devra-verser-plus-16-milliards-$us",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "meta-accepte-de-verser-jusqu-a-17-milliards-de-dollars-pour-42d243",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "meta-accepte-de-verser-jusqu-a-17-milliards-de-dollars-pour-42d243"
+  },
+  {
+   "titre": "OpenAI coupe l'accès de Cursor à ses modèles après le rachat de l'éditeur de code par SpaceX",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "MacGeneration, Clubic, Korben",
+   "url": "https://www.macg.co/logiciels/2026/08/openai-veut-retirer-ses-modeles-de-cursor-apres-son-rachat-par-spacex-310739",
+   "resume": "OpenAI a annoncé qu'elle cesserait de fournir ses modèles à l'éditeur de code Cursor à compter du 12 novembre, invoquant un manque de confiance envers SpaceX, qui a racheté l'entreprise pour 60 milliards de dollars, et d'anciens différends contractuels avec des sociétés d'Elon Musk. Cursor, dont le cofondateur Michael Truell affirme que les modèles d'OpenAI ne représentaient qu'environ 5 % de son trafic, pourra continuer de s'appuyer sur Anthropic et sur l'infrastructure de calcul de SpaceX.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/logiciels/2026/08/openai-veut-retirer-ses-modeles-de-cursor-apres-son-rachat-par-spacex-310739",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627358-la-guerre-entre-openai-et-spacex-s-intensifie-et-c-est-cursor-qui-en-paie-le-prix.html",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Korben",
+     "url": "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk.html",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "openai-coupe-l-acces-de-cursor-a-ses-modeles-apres-le-rachat-6b3a71",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "openai-coupe-l-acces-de-cursor-a-ses-modeles-apres-le-rachat-6b3a71"
+  },
+  {
+   "titre": "Le philosophe Frédéric Gros publie « Violence de la propriété », un essai sur le sens perdu de l'appropriation",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "Les Livres de Philosophie",
+   "url": "http://les-livres-de-philosophie.blogspot.com/2026/09/frederic-gros-violence-de-la-propriete.html",
+   "resume": "Dans « Violence de la propriété » (Albin Michel), le philosophe Frédéric Gros, professeur d'humanités politiques à Sciences Po, dénonce une conception de la propriété privée fondée sur l'exclusivité et l'abus qu'il relie aux crises climatiques, sanitaires et sociales contemporaines, et lui oppose un sens premier de l'appropriation retrouvé dans trois gestes : habiter, apprendre, accueillir.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fr%C3%A9d%C3%A9ric_Gros_%28born_1965%29_in_the_video_%27Fr%C3%A9d%C3%A9ric_Gros_-_La_premi%C3%A8re_histoire%27.png",
+   "photo_auteur": "librairie mollat",
+   "photo_licence": "CC BY 3.0",
+   "legende": "Le philosophe Frédéric Gros, auteur de « Violence de la propriété ».",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Les Livres de Philosophie",
+     "url": "http://les-livres-de-philosophie.blogspot.com/2026/09/frederic-gros-violence-de-la-propriete.html",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "le-philosophe-frederic-gros-publie-violence-de-la-propriete-fd2662",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "le-philosophe-frederic-gros-publie-violence-de-la-propriete-fd2662"
+  },
+  {
+   "titre": "Un cours inédit de Jean-Paul Sartre, professeur de philosophie sous l'Occupation, publié chez Gallimard",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "Philosophie magazine",
+   "url": "https://www.philomag.com/articles/quel-prof-de-philo-ete-jean-paul-sartre-lun-de-ses-anciens-eleves-temoigne",
+   "resume": "Maurice Mermet, aujourd'hui centenaire et ancien élève de Jean-Paul Sartre au lycée Condorcet, a retrouvé dans de vieux cartons les notes du cours de philosophie que le futur auteur de « L'Être et le Néant » a donné en classe de terminale entre 1931 et 1944, publiées le 3 septembre chez Gallimard, rapporte Philosophie magazine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Philosophie magazine",
+     "url": "https://www.philomag.com/articles/quel-prof-de-philo-ete-jean-paul-sartre-lun-de-ses-anciens-eleves-temoigne",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "un-cours-inedit-de-jean-paul-sartre-professeur-de-philosophi-56b8cd",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "un-cours-inedit-de-jean-paul-sartre-professeur-de-philosophi-56b8cd"
+  },
+  {
+   "titre": "La Russie a détruit près de 12 millions de livres ukrainiens depuis le début de l'année",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Ukraine",
+   "medias": "Geo",
+   "url": "https://www.geo.fr/geopolitique/douze-millions-de-livres-detruits-avant-la-rentree-la-russie-cible-les-imprimeries-et-maisons-dedition-233433",
+   "resume": "Une série de frappes russes contre des imprimeries et des maisons d'édition installées aux quatre coins de l'Ukraine a réduit en cendres près de 12 millions de livres depuis le début de l'année, dont 1,3 million de manuels scolaires détruits fin août dans une seule imprimerie près de Kiev, rapportent des médias locaux cités par Geo. Plus de 2 000 institutions culturelles ukrainiennes ont été prises pour cible depuis 2022 selon la ministre ukrainienne de la Culture, tandis que Moscou nie viser délibérément des sites civils.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Geo",
+     "url": "https://www.geo.fr/geopolitique/douze-millions-de-livres-detruits-avant-la-rentree-la-russie-cible-les-imprimeries-et-maisons-dedition-233433",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "la-russie-a-detruit-pres-de-12-millions-de-livres-ukrainiens-d75803",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "la-russie-a-detruit-pres-de-12-millions-de-livres-ukrainiens-d75803"
+  },
+  {
+   "titre": "Treize films patrimoniaux restaurés par Éléphant intègrent la collection éducative CINÉ PANACHE",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/treize-films-restaures-par-elephant-memoire-du-cinema-quebecois-sur-cine-panache/",
+   "resume": "Treize longs métrages numérisés et restaurés par Éléphant : mémoire du cinéma québécois, dont « Les Plouffe » et « Léolo », font partie des trente premières œuvres offertes aux écoles par la nouvelle collection éducative CINÉ PANACHE de Télé-Québec en classe, une initiative de Québec Cinéma menée avec l'organisme fondé par Québecor en 2007.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/treize-films-restaures-par-elephant-memoire-du-cinema-quebecois-sur-cine-panache/",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "treize-films-patrimoniaux-restaures-par-elephant-integrent-l-b37862",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "treize-films-patrimoniaux-restaures-par-elephant-integrent-l-b37862"
+  },
+  {
+   "titre": "Kim Nguyen retrace le destin de deux familles liées à la photo de « L'Exécution de Saigon »",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/08/29/kim-nguyen-revisite-une-image-qui-a-marque-lhistoire-dans-son-documentaire-une-photo-a-saigon--coups-de-feu-sur-deux-vies",
+   "resume": "Le cinéaste québécois Kim Nguyen, réalisateur de « Rebelle », lance le 4 septembre le documentaire « Une photo à Saigon : coups de feu sur deux vies », qui retrace le destin des descendants du général sud-vietnamien et du prisonnier viet-cong photographiés en 1968 par Eddie Adams dans un cliché devenu emblématique de la guerre du Vietnam.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T02:30-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/29/kim-nguyen-revisite-une-image-qui-a-marque-lhistoire-dans-son-documentaire-une-photo-a-saigon--coups-de-feu-sur-deux-vies",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "permalien": "kim-nguyen-retrace-le-destin-de-deux-familles-liees-a-la-pho-d9be1a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-03.json",
+   "_slug": "kim-nguyen-retrace-le-destin-de-deux-familles-liees-a-la-pho-d9be1a"
   }
  ]
 }
