@@ -526,15 +526,20 @@
    "territoire": "Québec",
    "medias": "Radio-Canada",
    "url": "https://ici.radio-canada.ca/nouvelle/2280118/coupes-fonction-publique-campagne-elections-quebec",
-   "resume": "La CAQ promet d'abolir 11 000 postes de fonctionnaires, le PQ vise 2,5 % de la masse salariale des ministères et organismes (environ 16 000 postes), le PCQ 20 000 et le PLQ un « dégraissage » dont le plan reste à venir — seule Québec solidaire s'y refuse —, pendant que le président du Syndicat canadien de la fonction publique, Patrick Gloutney, dénonce des cibles faciles dont la charge ne ferait que se transférer vers le privé.",
+   "resume": "La CAQ promet d'abolir 11 000 postes de fonctionnaires, le PQ vise 2,5 % de la masse salariale des ministères et organismes (environ 16 000 postes), le PCQ 20 000 et le PLQ un « dégraissage » dont le plan reste à venir — seule Québec solidaire s'y refuse —, pendant que le président du Syndicat canadien de la fonction publique, Patrick Gloutney, dénonce des cibles faciles dont la charge ne ferait que se transférer vers le privé.\n\n**Mise à jour, 17 h** — Le syndicat régional du SFPQ au Saguenay–Lac-Saint-Jean dénonce à son tour les compressions promises, chiffrant à 19 % la réduction des effectifs déjà appliquée dans la région depuis mai 2024.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-03T05:21-04:00",
+   "horodate": "2026-09-03T17:19-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280118/coupes-fonction-publique-campagne-elections-quebec",
      "date": "2026-09-03T05:21-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280429/bureaucratie-fonctionnaires-elections-provinciales",
+     "date": "2026-09-03T17:19-04:00"
     }
    ],
    "permalien": "fonction-publique-les-partis-en-surenchere-de-compressions-s-7e9bd5",
@@ -1020,7 +1025,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "La Presse, Le Devoir, Les Affaires, Coops de l'information",
+   "medias": "La Presse, Le Devoir, Les Affaires, Coops de l'information, 98,5FM",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/aides-financieres/frechette-courtise-encore-les-aines.php",
    "resume": "En campagne à Roxton Pond, la cheffe caquiste Christine Fréchette promet de faire passer de 2 000 $ à 2 200 $ le crédit d'impôt pour le soutien aux aînés à faible revenu et d'exempter jusqu'à 35 000 $ de revenu d'emploi pour les 65 ans et plus dans les professions en pénurie, deux mesures chiffrées par la CAQ à environ 270 millions de dollars par année. En marge de l'annonce, elle a accusé le chef conservateur Éric Duhaime de vouloir « défaire » le réseau des CPE avec son allocation aux parents à la maison, et reproché au chef péquiste Paul St-Pierre Plamondon de vivre dans un « pays imaginaire ».",
    "photo": "",
@@ -1071,6 +1076,11 @@
      "media": "Le Quotidien",
      "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/03/frechette-veut-plus-dargent-dans-les-poches-des-aines-A7HMBJS5CFF2ZPO76GE2HE6H5Q/",
      "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/balados/373944/episode/799709/mesures-de-la-caq-pour-les-aines-je-pense-que-ce-sera-bien-recu",
+     "date": "2026-09-03T17:19-04:00"
     }
    ],
    "permalien": "frechette-promet-un-coup-de-pouce-aux-aines-et-accuse-duhaim-924400",
@@ -1275,6 +1285,7 @@
     }
    ],
    "permalien": "un-candidat-liberal-toujours-membre-de-la-caq-jusqu-en-2029-a11194",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "un-candidat-liberal-toujours-membre-de-la-caq-jusqu-en-2029-a11194"
@@ -1298,6 +1309,7 @@
     }
    ],
    "permalien": "les-travailleurs-de-domtar-kenogami-reclament-la-protection-afc19f",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "les-travailleurs-de-domtar-kenogami-reclament-la-protection-afc19f"
@@ -1326,6 +1338,7 @@
     }
    ],
    "permalien": "dans-taschereau-le-pequiste-christian-savard-fait-de-l-habit-c51877",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "dans-taschereau-le-pequiste-christian-savard-fait-de-l-habit-c51877"
@@ -1354,6 +1367,7 @@
     }
    ],
    "permalien": "projet-structurant-de-l-est-la-ccem-presse-les-partis-freche-1e39b8",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "projet-structurant-de-l-est-la-ccem-presse-les-partis-freche-1e39b8"
@@ -1377,6 +1391,7 @@
     }
    ],
    "permalien": "le-pq-promet-de-hausser-a-10-les-redevances-minieres-versees-37bc6c",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-pq-promet-de-hausser-a-10-les-redevances-minieres-versees-37bc6c"
@@ -1400,9 +1415,33 @@
     }
    ],
    "permalien": "quebec-solidaire-a-trouve-son-candidat-dans-richelieu-le-lut-bbcccc",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "quebec-solidaire-a-trouve-son-candidat-dans-richelieu-le-lut-bbcccc"
+  },
+  {
+   "titre": "Le péquiste François Gariépy s'excuse pour ses « propos regrettables » envers une animatrice",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Charlevoix–Côte-de-Beaupré)",
+   "medias": "Le Journal de Québec",
+   "url": "https://www.journaldequebec.com/2026/09/03/le-pequiste-francois-gariepy-se-confie-a-richard-martineau-sur-ses--propos-regrettables",
+   "resume": "Le candidat péquiste dans Charlevoix–Côte-de-Beaupré François Gariépy a reconnu en entrevue à QUB radio avoir tenu des « propos regrettables » envers l'animatrice Anne-Marie Withenshaw et s'est dit prêt à s'excuser s'il la rencontre ; il a aussi convenu que le mot « squaw », qu'il avait employé, ne convient pas, sans revenir sur sa critique des subventions aux artistes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T17:19-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/03/le-pequiste-francois-gariepy-se-confie-a-richard-martineau-sur-ses--propos-regrettables",
+     "date": "2026-09-03T17:19-04:00"
+    }
+   ],
+   "permalien": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5"
   },
   {
    "titre": "Beaumont se retire d’un projet de coopérative d’habitation après 572 000 $ de fonds publics",
@@ -6182,7 +6221,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec (Lévis)",
-   "medias": "Québecor, Radio-Canada, L'actualité",
+   "medias": "Québecor, Radio-Canada, L'actualité, CBC",
    "url": "https://www.journaldequebec.com/2026/09/02/frechette-rabroue-drainville-et-lui-demande-de-retirer-ses-propos-contre-trump",
    "resume": "Le ministre sortant Bernard Drainville a tenu des propos vulgaires à l'endroit de Donald Trump lors d'une entrevue radiophonique sur les tarifs américains ; la première ministre Christine Fréchette l'a aussitôt rabroué en mêlée de presse et lui a demandé de retirer ses paroles, qu'il a reconnues « inappropriées » tout en maintenant son indignation.\n\n**Mise à jour, 14 h** — Le chef péquiste Paul St-Pierre Plamondon accuse la CAQ d'avoir orchestré une « mise en scène » avec la sortie de Bernard Drainville pour détourner l'attention du financement d'un organisme pro-fédéraliste par son gouvernement ; Christine Fréchette réplique qu'il vit dans un « monde imaginaire ».",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bernard_Drainville_Janvier_2024_%281%3B_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -6202,6 +6241,11 @@
      "media": "L'actualité",
      "url": "https://lactualite.com/politique/une-question-dunite/",
      "date": "2026-09-03T16:25-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/caq-bernard-drainville-candidate-trump-election-quebec-9.7331460",
+     "date": "2026-09-03T17:19-04:00"
     }
    ],
    "horodate": "2026-09-03T14:23-04:00",
