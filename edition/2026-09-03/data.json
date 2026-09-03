@@ -3,6 +3,7 @@
  "volets": [
   "elections",
   "monde",
+  "presse-regionale",
   "quebec-canada",
   "report",
   "savoirs"
@@ -183,6 +184,31 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-pq-promet-une-liste-de-lectures-obligatoire-de-classiques-477dbb"
+  },
+  {
+   "titre": "La CAQ doit trouver un nouveau candidat dans Ungava après le retrait forcé de Paul Dadie",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Ungava)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280004/ungava-nord-quebec-election-enjeux",
+   "resume": "La Coalition avenir Québec doit se trouver un nouveau candidat dans Ungava après le retrait forcé de Paul Dadie, dont des propos avaient suscité un malaise dans un centre pour femmes de Chibougamau.\n\nLe Parti québécois (Sonia Caron), le Parti libéral (Sandrine Rioux) et le Parti conservateur (Marc Damant, non officialisé) y ont déjà un candidat, dans cette circonscription la plus vaste de la province et où le taux de participation est historiquement le plus faible (30,21 % en 2022).",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kuujjuaq_Airport_front.jpg",
+   "legende": "L'aéroport de Kuujjuaq, la plus grande communauté de la circonscription d'Ungava.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280004/ungava-nord-quebec-election-enjeux",
+     "date": "2026-09-03T07:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T07:22-04:00",
+   "permalien": "la-caq-doit-trouver-un-nouveau-candidat-dans-ungava-apres-le-0c1476",
+   "photo_auteur": "Samuell",
+   "photo_licence": "CC BY 4.0",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "la-caq-doit-trouver-un-nouveau-candidat-dans-ungava-apres-le-0c1476"
   },
   {
    "titre": "L'Iran frappe des bases américaines dans le Golfe en représailles à de nouvelles frappes des États-Unis",
@@ -824,6 +850,842 @@
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "ukraine-et-allemagne-finalisent-un-accord-de-developpement-c-e0d3ca"
+  },
+  {
+   "titre": "Sacré-Cœur devient la première municipalité de la Haute-Côte-Nord à offrir des vélos électriques en location",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Sacré-Cœur (Haute-Côte-Nord)",
+   "medias": "Le Manic, Le Haute Côte-Nord",
+   "url": "https://www.lemanic.ca/2026/09/02/velos-electriques-a-sacre-coeur-une-premiere-en-haute-cote-nord/",
+   "resume": "La municipalité de Sacré-Cœur, sur la Côte-Nord, a inauguré le 27 août un service de location de vélos électriques, une première en Haute-Côte-Nord, selon Le Manic et Le Haute Côte-Nord.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/02/velos-electriques-a-sacre-coeur-une-premiere-en-haute-cote-nord/",
+     "date": "2026-09-03T07:26-04:00"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/02/velos-electriques-a-sacre-coeur-une-premiere-en-haute-cote-nord/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "sacre-cur-devient-la-premiere-municipalite-de-la-haute-cote-5c9178",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "sacre-cur-devient-la-premiere-municipalite-de-la-haute-cote-5c9178"
+  },
+  {
+   "titre": "Constant Awashish réélu grand chef de la Nation atikamekw pour un cinquième mandat",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Manawan, Opitciwan, Wemotaci (Haute-Mauricie)",
+   "medias": "Radio-Canada, Le Nouvelliste",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280148/elections-nation-atikamekw-constant-awashish",
+   "resume": "Constant Awashish a été réélu grand chef du Conseil de la Nation atikamekw avec 69,6 % des voix pour un cinquième mandat, après les tensions entourant les blocus forestiers de l’été 2025 en Haute-Mauricie, selon Radio-Canada et Le Nouvelliste.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280148/elections-nation-atikamekw-constant-awashish",
+     "date": "2026-09-03T07:26-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/le-fil-des-coops/2026/09/02/nation-atikamekw-constant-awashish-reelu-grand-chef-YPH7NC7HYRC7LE734OMLUE4ASY/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "constant-awashish-reelu-grand-chef-de-la-nation-atikamekw-po-9c424d",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "constant-awashish-reelu-grand-chef-de-la-nation-atikamekw-po-9c424d"
+  },
+  {
+   "titre": "Évaluation psychiatrique ordonnée pour l’accusé du meurtre de son fils en Mauricie",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Mauricie",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280000/philippe-benoit-evaluation-psychiatre-proces",
+   "resume": "Philippe Benoît, accusé du meurtre prémédité de son fils après une chasse à l’homme de quatre jours en juillet, subira une évaluation psychiatrique de son aptitude à comparaître, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280000/philippe-benoit-evaluation-psychiatre-proces",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "evaluation-psychiatrique-ordonnee-pour-laccuse-du-meurtre-de-961d2d",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "evaluation-psychiatrique-ordonnee-pour-laccuse-du-meurtre-de-961d2d"
+  },
+  {
+   "titre": "Des entrepreneurs de la Mauricie se mobilisent pour profiter du projet TES Canada",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Mauricie",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280133/plaidoyer-economie-regionale-tes-canada",
+   "resume": "Le Groupe Madysta lance un outil en ligne pour préqualifier les entreprises mauriciennes susceptibles de décrocher des contrats liés au projet énergétique de TES Canada, afin qu’une seule fermeture n’ébranle plus toute la région, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280133/plaidoyer-economie-regionale-tes-canada",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "des-entrepreneurs-de-la-mauricie-se-mobilisent-pour-profiter-6621f0",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "des-entrepreneurs-de-la-mauricie-se-mobilisent-pour-profiter-6621f0"
+  },
+  {
+   "titre": "La MRC du Fjord-du-Saguenay investit 100 000 $ contre les espèces exotiques envahissantes",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Saguenay–Lac-Saint-Jean",
+   "medias": "Le Quotidien, RIMQ",
+   "url": "https://www.lequotidien.com/actualites/environnement/2026/09/02/mrc-fjord-du-saguenay-100-000-pour-lutter-contre-les-especes-envahissantes-M2QOBP7ASFH23F35VDDKDADVPU/",
+   "resume": "La MRC du Fjord-du-Saguenay investit 100 000 $ dans sa politique de lutte contre les espèces exotiques envahissantes, notamment pour des stations de lavage d’embarcations nautiques et des interventions de contrôle, selon Le Quotidien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/environnement/2026/09/02/mrc-fjord-du-saguenay-100-000-pour-lutter-contre-les-especes-envahissantes-M2QOBP7ASFH23F35VDDKDADVPU/",
+     "date": "2026-09-03T07:26-04:00"
+    },
+    {
+     "media": "RIMQ",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/environnement/13/1216374/la-mrc-investit-100-000-pour-lutter-contre-les-especes-exotiques-envahissante.html",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "la-mrc-du-fjord-du-saguenay-investit-100-000-contre-les-espe-16cbd0",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "la-mrc-du-fjord-du-saguenay-investit-100-000-contre-les-espe-16cbd0"
+  },
+  {
+   "titre": "Val-Jalbert restaure les 22 stèles centenaires de son cimetière historique",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Val-Jalbert (Lac-Saint-Jean)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280046/valjalbert-cimetiere-pierres-patrimoine",
+   "resume": "Le Village historique de Val-Jalbert restaure les 22 stèles centenaires de son cimetière, dont l’état de dégradation était devenu urgent, deux d’entre elles étant transportées au Centre de conservation du Québec avant d’être réinstallées au printemps, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280046/valjalbert-cimetiere-pierres-patrimoine",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "val-jalbert-restaure-les-22-steles-centenaires-de-son-cimeti-cf9457",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "val-jalbert-restaure-les-22-steles-centenaires-de-son-cimeti-cf9457"
+  },
+  {
+   "titre": "Arrêt des procédures dans deux dossiers visant une résidente d’Alma",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Alma (Lac-Saint-Jean)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280091/dpcp-arret-procedures-substance-deletere",
+   "resume": "Le Directeur des poursuites criminelles et pénales a ordonné un arrêt des procédures dans deux dossiers visant une résidente d’Alma, dont un pour trafic de drogue, le ministère public disposant de douze mois pour les réactiver, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280091/dpcp-arret-procedures-substance-deletere",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "arret-des-procedures-dans-deux-dossiers-visant-une-residente-121007",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "arret-des-procedures-dans-deux-dossiers-visant-une-residente-121007"
+  },
+  {
+   "titre": "Un Jeep Wrangler Willys 392 de près de 100 000 $ volé chez un concessionnaire du Témiscouata",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Témiscouata-sur-le-Lac (Bas-Saint-Laurent)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/justice-et-faits-divers/un-jeep-willys-392-de-pres-de-100-000-vole-chez-temis-chrysler/",
+   "resume": "Un Jeep Wrangler Willys 392 équipé d’un moteur V8 a été dérobé dans la nuit de mardi à mercredi chez le concessionnaire Témis Chrysler, à Témiscouata-sur-le-Lac, qui avait déjà perdu deux véhicules dans un vol semblable en 2025, selon Infodimanche.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/justice-et-faits-divers/un-jeep-willys-392-de-pres-de-100-000-vole-chez-temis-chrysler/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "un-jeep-wrangler-willys-392-de-pres-de-100-000-vole-chez-un-1843e5",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "un-jeep-wrangler-willys-392-de-pres-de-100-000-vole-chez-un-1843e5"
+  },
+  {
+   "titre": "Front commun madelinot pour réclamer un navire de relève à la STQ",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Îles-de-la-Madeleine",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280035/traversier-navire-releve-iles-madeleine",
+   "resume": "La Communauté maritime des Îles-de-la-Madeleine, la CTMA, Tourisme Îles de la Madeleine et la Chambre de commerce des Îles réclament un navire de relève pour sécuriser la desserte maritime de l’archipel, dénonçant l’« indifférence » de la Société des traversiers du Québec, selon Radio-Canada.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Iles-de-la-madeleine-2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Les Îles-de-la-Madeleine.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280035/traversier-navire-releve-iles-madeleine",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "Matthieu Godbout",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "front-commun-madelinot-pour-reclamer-un-navire-de-releve-a-l-e3cf42",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "front-commun-madelinot-pour-reclamer-un-navire-de-releve-a-l-e3cf42"
+  },
+  {
+   "titre": "La Gaspésie explore l’industrie navale en Allemagne et en Italie",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Gaspé (Gaspésie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280116/mission-economique-naval-forillon-cote-gaspe",
+   "resume": "Des représentants de la MRC de La Côte-de-Gaspé sont en mission économique en Allemagne et en Italie pour mieux connaître l’industrie de la construction navale et y trouver des débouchés pour la Gaspésie, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280116/mission-economique-naval-forillon-cote-gaspe",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "la-gaspesie-explore-lindustrie-navale-en-allemagne-et-en-ita-da5e94",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "la-gaspesie-explore-lindustrie-navale-en-allemagne-et-en-ita-da5e94"
+  },
+  {
+   "titre": "Gaspé relocalise une traverse piétonnière pour sécuriser le chemin de ses écoliers",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Gaspé (Gaspésie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279719/amelioration-securite-passage-enfants-ecoles-gaspe",
+   "resume": "La traverse piétonnière de l’école Saint-Rosaire, qui mène à une rue passante du centre-ville de Gaspé, sera relocalisée pour améliorer la sécurité des élèves du primaire, le manque d’éclairage étant la principale préoccupation soulevée, selon Radio-Canada.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Baie_de_Gasp%C3%A9%2C_Gasp%C3%A9sie%2C_Qu%C3%A9bec_-_panoramio.jpg/1280px-Baie_de_Gasp%C3%A9%2C_Gasp%C3%A9sie%2C_Qu%C3%A9bec_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La baie de Gaspé, vue vers le centre-ville.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279719/amelioration-securite-passage-enfants-ecoles-gaspe",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "busand2003",
+   "photo_licence": "CC BY 3.0",
+   "permalien": "gaspe-relocalise-une-traverse-pietonniere-pour-securiser-le-33dcf7",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "gaspe-relocalise-une-traverse-pietonniere-pour-securiser-le-33dcf7"
+  },
+  {
+   "titre": "Avis d’ébullition de l’eau prolongé à La Sarre après la détection d’E. coli",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "La Sarre (Abitibi-Ouest)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/episodes/1224559/mercredi-2-septembre-2026",
+   "resume": "La Ville de La Sarre a détecté la bactérie E. coli dans son réseau d’aqueduc le 25 août et injecte du chlore en attendant de nouvelles analyses, prolongeant l’avis d’ébullition de l’eau pour plus de dix jours, selon Radio-Canada.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/LaSarre.jpg/1280px-LaSarre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La Sarre, en Abitibi-Ouest.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/episodes/1224559/mercredi-2-septembre-2026",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "Michel Leclerc",
+   "photo_licence": "CC BY 3.0",
+   "permalien": "avis-debullition-de-leau-prolonge-a-la-sarre-apres-la-detect-37bdd5",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "avis-debullition-de-leau-prolonge-a-la-sarre-apres-la-detect-37bdd5"
+  },
+  {
+   "titre": "Des commerçants du Vieux-Noranda composent avec l’effervescence du FME",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Rouyn-Noranda (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280059/fme-commercant-art-music-economie",
+   "resume": "La 24e édition du Festival de musique émergente crée une forte effervescence dans le Vieux-Noranda, mais certains commerçants disent que l’accès difficile à leurs vitrines nuit à leur chiffre d’affaires, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280059/fme-commercant-art-music-economie",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "des-commercants-du-vieux-noranda-composent-avec-leffervescen-e2df6c",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "des-commercants-du-vieux-noranda-composent-avec-leffervescen-e2df6c"
+  },
+  {
+   "titre": "Une recherche documente les moules d’eau douce menacées du lac Témiscamingue",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Lac Témiscamingue (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280142/moules-lac-temiscamingue-timiskaming-autochtones",
+   "resume": "La Première Nation de Timiskaming et l’Organisme de bassin versant du Témiscamingue mènent une expédition de plongeurs pour documenter la présence de moules d’eau douce, une espèce clé pour la filtration de l’eau, dans le lac Témiscamingue, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280142/moules-lac-temiscamingue-timiskaming-autochtones",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "une-recherche-documente-les-moules-deau-douce-menacees-du-la-8696f0",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "une-recherche-documente-les-moules-deau-douce-menacees-du-la-8696f0"
+  },
+  {
+   "titre": "Début de la construction d’une nouvelle école à Quaqtaq, au Nunavik",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Quaqtaq (Nunavik)",
+   "medias": "Nunatsiaq News",
+   "url": "https://nunatsiaq.com/stories/article/construction-starts-on-quaqtaqs-new-school/",
+   "resume": "La construction de la nouvelle école Isummasaqvik a débuté à Quaqtaq, au Nunavik, un établissement qui doit accueillir environ 250 élèves à son achèvement prévu en 2030, selon Nunatsiaq News.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Nunatsiaq News",
+     "url": "https://nunatsiaq.com/stories/article/construction-starts-on-quaqtaqs-new-school/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "debut-de-la-construction-dune-nouvelle-ecole-a-quaqtaq-au-nu-e82203",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "debut-de-la-construction-dune-nouvelle-ecole-a-quaqtaq-au-nu-e82203"
+  },
+  {
+   "titre": "Le Casino de Charlevoix est redevenu profitable, dit le PDG de Loto-Québec",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "La Malbaie (Charlevoix)",
+   "medias": "Le Charlevoisien",
+   "url": "https://www.lecharlevoisien.com/2026/09/02/le-pdg-de-loto-quebec-ne-manque-pas-didees-pour-le-casino-de-charlevoix/",
+   "resume": "Le complexe Hôtel-Casino de Charlevoix est redevenu profitable, confirmant que son modèle d’affaires fonctionne, selon le président-directeur général de Loto-Québec cité par Le Charlevoisien.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Casino_de_Charlevoix_01.jpg/1280px-Casino_de_Charlevoix_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le complexe Hôtel-Casino de Charlevoix, à Pointe-au-Pic.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/02/le-pdg-de-loto-quebec-ne-manque-pas-didees-pour-le-casino-de-charlevoix/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "Bernard Gagnon",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "le-casino-de-charlevoix-est-redevenu-profitable-dit-le-pdg-d-cc46dd",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "le-casino-de-charlevoix-est-redevenu-profitable-dit-le-pdg-d-cc46dd"
+  },
+  {
+   "titre": "Une caractérisation dresse un portrait encourageant du marais de Baie-des-Rochers",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Baie-des-Rochers (Charlevoix)",
+   "medias": "Le Charlevoisien",
+   "url": "https://www.lecharlevoisien.com/2026/09/02/le-marais-de-baie-des-rochers-sous-la-loupe/",
+   "resume": "Le Comité ZIP Saguenay–Charlevoix a caractérisé le marais maritime de Baie-des-Rochers l’été dernier, dressant un portrait encourageant de l’écosystème tout en proposant des pistes pour mieux le protéger, selon Le Charlevoisien.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Eglise_de_baie_des_rochers_%283890211691%29.jpg/1280px-Eglise_de_baie_des_rochers_%283890211691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'église de Baie-des-Rochers, en Charlevoix.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/02/le-marais-de-baie-des-rochers-sous-la-loupe/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "jacme31",
+   "photo_licence": "CC BY-SA 2.0",
+   "permalien": "une-caracterisation-dresse-un-portrait-encourageant-du-marai-f64059",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "une-caracterisation-dresse-un-portrait-encourageant-du-marai-f64059"
+  },
+  {
+   "titre": "Le maire de Québec juge qu’un troisième lien menaçant le statut UNESCO serait « une erreur terrible »",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québec Urbain",
+   "url": "https://www.quebecurbain.qc.ca/2026/09/02/3e-lien-et-unesco-deux-realites-inconciliables/",
+   "resume": "Bruno Marchand estime que tout projet d’infrastructure qui ferait perdre à Québec sa désignation de ville du patrimoine mondial de l’UNESCO serait « une erreur terrible », après que Radio-Canada a révélé que l’organisme onusien affirme ne pas avoir reçu de notification officielle sur un éventuel troisième lien, selon Québec Urbain.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Québec Urbain",
+     "url": "https://www.quebecurbain.qc.ca/2026/09/02/3e-lien-et-unesco-deux-realites-inconciliables/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "le-maire-de-quebec-juge-quun-troisieme-lien-menacant-le-stat-3ab24c",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "le-maire-de-quebec-juge-quun-troisieme-lien-menacant-le-stat-3ab24c"
+  },
+  {
+   "titre": "Crankworx prend le relais de la Coupe du monde de vélo de montagne au Mont-Sainte-Anne",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Beaupré (région de Québec)",
+   "medias": "Radio-Canada, Le Soleil",
+   "url": "https://ici.radio-canada.ca/sports/videos/1-10751214/place-au-crankworx-au-mont-sainte-anne",
+   "resume": "Le circuit Crankworx remplace la Coupe du monde UCI de vélo de montagne, disparue après trente ans au Mont-Sainte-Anne, avec un engagement à revenir pour au moins cinq ans, selon Radio-Canada et Le Soleil.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/sports/videos/1-10751214/place-au-crankworx-au-mont-sainte-anne",
+     "date": "2026-09-03T07:26-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/sports/2026/09/02/le-petit-miracle-de-crankworx-mont-sainte-anne-QQLYEMEGFZHZPMMIQTTNYSRJAY/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "crankworx-prend-le-relais-de-la-coupe-du-monde-de-velo-de-mo-9f891d",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "crankworx-prend-le-relais-de-la-coupe-du-monde-de-velo-de-mo-9f891d"
+  },
+  {
+   "titre": "Un HLM de Lévis renforce la sécurité de ses locataires en attendant un déménagement",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Lévis",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279594/itinerance-vieux-levis-securite-mesures-manoir-55",
+   "resume": "L’Office municipal d’habitation de Lévis a mandaté une agence de sécurité pour patrouiller le Manoir 55 et quatre autres HLM de la Rive-Sud, un service de tournées préventives apprécié des résidents en attendant un échéancier de relocalisation, selon Radio-Canada.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Levis%2C_Quebec.jpg/1280px-Levis%2C_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La ville de Lévis.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279594/itinerance-vieux-levis-securite-mesures-manoir-55",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "Wilfredor",
+   "photo_licence": "CC0",
+   "permalien": "un-hlm-de-levis-renforce-la-securite-de-ses-locataires-en-at-3ce5d3",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "un-hlm-de-levis-renforce-la-securite-de-ses-locataires-en-at-3ce5d3"
+  },
+  {
+   "titre": "Le Centre de foires de Sherbrooke termine l’année avec un léger surplus",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Sherbrooke",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280081/centre-foires-rapport-annuel-2025",
+   "resume": "La corporation de développement du Centre de foires de Sherbrooke enregistre un excédent budgétaire d’environ 30 000 $ malgré une légère baisse d’activités, une hausse de la superficie louée ayant compensé, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280081/centre-foires-rapport-annuel-2025",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "le-centre-de-foires-de-sherbrooke-termine-lannee-avec-un-leg-f5ae86",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "le-centre-de-foires-de-sherbrooke-termine-lannee-avec-un-leg-f5ae86"
+  },
+  {
+   "titre": "Récupex donne une deuxième chance aux vêtements — et à ceux qui les trient — à Sherbrooke",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Sherbrooke",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2279583/recupex-sherbrooke-friperie-sac-tafi",
+   "resume": "Entre 60 et 80 personnes par année intègrent un parcours d’insertion à l’emploi chez la friperie Récupex, à Sherbrooke, qui les accompagne vers une transition sur le marché du travail, selon Radio-Canada.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/H%C3%B4tel_de_ville_de_Sherbrooke-2018.jpg/1280px-H%C3%B4tel_de_ville_de_Sherbrooke-2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'hôtel de ville de Sherbrooke.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279583/recupex-sherbrooke-friperie-sac-tafi",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "Lëa-Kim Châteauneuf",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "recupex-donne-une-deuxieme-chance-aux-vetements-et-a-ceux-qu-7bca08",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "recupex-donne-une-deuxieme-chance-aux-vetements-et-a-ceux-qu-7bca08"
+  },
+  {
+   "titre": "Un tronçon du réseau cyclable La Cantonnière fermé jusqu’au printemps",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Canton de Melbourne (Estrie)",
+   "medias": "La Tribune",
+   "url": "https://www.latribune.ca/actualites/actualites-locales/estrie-et-regions/2026/09/03/un-troncon-de-la-cantonniere-ferme-jusquau-printemps-2ZFN2MASFJGQVK2XIN3GYEAX4U/",
+   "resume": "Une section du réseau cyclable La Cantonnière et du sentier Transcanadien est fermée depuis le 1er septembre dans le canton de Melbourne pour près d’un million de dollars de travaux visant la sécurité et la durabilité de la piste, jusqu’au 15 mai, selon La Tribune.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/actualites-locales/estrie-et-regions/2026/09/03/un-troncon-de-la-cantonniere-ferme-jusquau-printemps-2ZFN2MASFJGQVK2XIN3GYEAX4U/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "un-troncon-du-reseau-cyclable-la-cantonniere-ferme-jusquau-p-f5dd88",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "un-troncon-du-reseau-cyclable-la-cantonniere-ferme-jusquau-p-f5dd88"
+  },
+  {
+   "titre": "Le Cégep de Granby resserre ses liens avec l’archipel de Mayotte",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Granby (Estrie)",
+   "medias": "La Voix de l'Est",
+   "url": "https://www.lavoixdelest.ca/actualites/education/2026/09/03/le-cegep-de-granby-se-rapproche-de-larchipel-de-mayotte-G2QYNKCAOJAG7KX33KKUKUA5SQ/",
+   "resume": "Le Cégep de Granby a signé une entente de collaboration avec l’archipel français de Mayotte pour favoriser la mobilité étudiante, après avoir déjà accueilli 15 étudiants mahorais, notamment en soins infirmiers, selon La Voix de l’Est.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/C%C3%A9gep_de_Granby_Haute-Yamaska_-_Immacul%C3%A9e_Conception.JPG/1280px-C%C3%A9gep_de_Granby_Haute-Yamaska_-_Immacul%C3%A9e_Conception.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le Cégep de Granby, pavillon de l'Immaculée-Conception.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/actualites/education/2026/09/03/le-cegep-de-granby-se-rapproche-de-larchipel-de-mayotte-G2QYNKCAOJAG7KX33KKUKUA5SQ/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "UncivilFire",
+   "photo_licence": "CC0",
+   "permalien": "le-cegep-de-granby-resserre-ses-liens-avec-larchipel-de-mayo-9a729b",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "le-cegep-de-granby-resserre-ses-liens-avec-larchipel-de-mayo-9a729b"
+  },
+  {
+   "titre": "Micro Bird annonce 35 mises à pied temporaires à Drummondville",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Drummondville",
+   "medias": "L'Express",
+   "url": "https://www.journalexpress.ca/actualite/35-mises-a-pied-temporaires-chez-micro-bird/",
+   "resume": "L’entreprise Micro Bird, qui observe un ralentissement du volume de nouvelles commandes, mettra prochainement à pied 35 employés de façon temporaire, selon L’Express.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Blue_Bird_MicroBird_Chevrolet_MB-II.jpg/1280px-Blue_Bird_MicroBird_Chevrolet_MB-II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Un autobus scolaire Blue Bird Micro Bird.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "L'Express",
+     "url": "https://www.journalexpress.ca/actualite/35-mises-a-pied-temporaires-chez-micro-bird/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "ThoseGuys119",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "micro-bird-annonce-35-mises-a-pied-temporaires-a-drummondvil-654859",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "micro-bird-annonce-35-mises-a-pied-temporaires-a-drummondvil-654859"
+  },
+  {
+   "titre": "Entosystem, de Drummondville, peut désormais vendre des crédits carbone",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Saint-Nicéphore (Drummondville)",
+   "medias": "L'Express",
+   "url": "https://www.journalexpress.ca/actualite/entosystem-commercialise-maintenant-des-credits-carbone/",
+   "resume": "L’usine Envol de l’entreprise drummondvilloise Entosystem, à Saint-Nicéphore, est désormais admissible à la génération et à la commercialisation de crédits carbone certifiés par le Registre ÉcoProjets, après vérification indépendante de ses réductions d’émissions, selon L’Express.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "L'Express",
+     "url": "https://www.journalexpress.ca/actualite/entosystem-commercialise-maintenant-des-credits-carbone/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "entosystem-de-drummondville-peut-desormais-vendre-des-credit-879f53",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "entosystem-de-drummondville-peut-desormais-vendre-des-credit-879f53"
+  },
+  {
+   "titre": "L’industrie automobile absorbe les contrecoups de la guerre tarifaire, selon un expert de Boucherville",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Boucherville (Montérégie)",
+   "medias": "La Relève de Boucherville",
+   "url": "https://lareleve.qc.ca/2026/09/03/guerre-tarifaire-et-industrie-automobile-les-impacts-a-prevoir/",
+   "resume": "Les droits de douane américains et canadiens de 50 % sur l’acier et l’aluminium auront des effets sur le prix, le choix des modèles et les technologies automobiles à court et à long terme, prévient Louis-Philippe Dubé, coauteur du Guide de l’auto 2027, selon La Relève de Boucherville.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "La Relève de Boucherville",
+     "url": "https://lareleve.qc.ca/2026/09/03/guerre-tarifaire-et-industrie-automobile-les-impacts-a-prevoir/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "lindustrie-automobile-absorbe-les-contrecoups-de-la-guerre-t-856e3d",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "lindustrie-automobile-absorbe-les-contrecoups-de-la-guerre-t-856e3d"
+  },
+  {
+   "titre": "La réfection du pont Paul-Jeanneau s’étirera sur plusieurs années à Sainte-Martine",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Sainte-Martine (Montérégie)",
+   "medias": "Le Soleil de Châteauguay",
+   "url": "https://cybersoleil.com/pont-paul-jeanneau-ca-nous-prendra-de-la-patience-melanie-lefort/",
+   "resume": "La mairesse de Sainte-Martine, Mélanie Lefort, invite les citoyens à la patience pour la réfection du pont patrimonial Paul-Jeanneau, construit en 1887 et restreint aux véhicules de 10 tonnes depuis 2022, le gouvernement du Québec évoquant un appel d’offres en 2029, selon Le Soleil de Châteauguay.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Chateauguay_River_at_Ste_Martine%2C_Quebec.jpg/1280px-Chateauguay_River_at_Ste_Martine%2C_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La rivière Châteauguay à Sainte-Martine.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil de Châteauguay",
+     "url": "https://cybersoleil.com/pont-paul-jeanneau-ca-nous-prendra-de-la-patience-melanie-lefort/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "WindingRoad",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "la-refection-du-pont-paul-jeanneau-setirera-sur-plusieurs-an-95e193",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "la-refection-du-pont-paul-jeanneau-setirera-sur-plusieurs-an-95e193"
+  },
+  {
+   "titre": "Laval bonifie son plan d’aide aux PME face aux droits de douane américains de 50 %",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Laval",
+   "medias": "Courrier Laval",
+   "url": "https://courrierlaval.com/nouveaux-droits-douane-laval-bonifie-plan-daide/",
+   "resume": "La Ville de Laval bonifie le plan d’aide déployé en février 2025 pour soutenir ses PME face aux droits de douane américains, désormais fixés à 50 % sur une multitude de produits canadiens, selon Courrier Laval.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/nouveaux-droits-douane-laval-bonifie-plan-daide/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "laval-bonifie-son-plan-daide-aux-pme-face-aux-droits-de-doua-eedd2b",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "laval-bonifie-son-plan-daide-aux-pme-face-aux-droits-de-doua-eedd2b"
+  },
+  {
+   "titre": "Valérie Plante devient conférencière invitée à l’Université de Montréal",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Montréal",
+   "medias": "Radio-Canada, CBC",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280203/valerie-plante-universite-montreal",
+   "resume": "L’ex-mairesse de Montréal Valérie Plante se joint à l’Université de Montréal pour y enseigner et encadrer des étudiants sur la démocratie, la participation citoyenne et les changements climatiques, selon Radio-Canada et CBC.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Pavillon_Andr%C3%A9-Aisenstadt_%28Universit%C3%A9_de_Montr%C3%A9al%29.jpg/1280px-Pavillon_Andr%C3%A9-Aisenstadt_%28Universit%C3%A9_de_Montr%C3%A9al%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le pavillon André-Aisenstadt, à l'Université de Montréal.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280203/valerie-plante-universite-montreal",
+     "date": "2026-09-03T07:26-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/valerie-plante-former-montreal-mayor-universite-de-montreal-9.7329999?cmp=rss",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "Vavarx",
+   "photo_licence": "CC0",
+   "permalien": "valerie-plante-devient-conferenciere-invitee-a-luniversite-d-a8a9d1",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "valerie-plante-devient-conferenciere-invitee-a-luniversite-d-a8a9d1"
+  },
+  {
+   "titre": "Des gens d’affaires se mobilisent pour relancer la foresterie dans la Vallée-de-la-Gatineau",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Maniwaki (Outaouais)",
+   "medias": "Radio-Canada, Le Droit",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280188/mobilisation-communaute-affaires-mrc-vallee-gatineau-bois",
+   "resume": "Une cinquantaine d’entrepreneurs de la Vallée-de-la-Gatineau se mobilisent pour trouver un repreneur à l’usine Domtar de Maniwaki, qui enchaîne les fermetures temporaires, et diversifier l’économie forestière régionale, selon Radio-Canada et Le Droit.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Maniwaki_QC.JPG/1280px-Maniwaki_QC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Maniwaki, dans la Vallée-de-la-Gatineau.",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280188/mobilisation-communaute-affaires-mrc-vallee-gatineau-bois",
+     "date": "2026-09-03T07:26-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/actualites-locales/vallee-de-la-gatineau/2026/09/03/les-gens-daffaires-se-mobilisent-pour-relancer-la-foresterie-Y4TZR5TIJFDUZLG23D3BYWW3N4/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "photo_auteur": "P199",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "des-gens-daffaires-se-mobilisent-pour-relancer-la-foresterie-40cb30",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "des-gens-daffaires-se-mobilisent-pour-relancer-la-foresterie-40cb30"
+  },
+  {
+   "titre": "Premiers travaux et inquiétudes de circulation pour le futur hôpital de Gatineau",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Gatineau",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280114/debut-travaux-hopital-gatineau-centre-asticou",
+   "resume": "Les travaux de déconstruction et de décontamination du futur hôpital de Gatineau, sur les terrains du Centre Asticou, se poursuivront jusqu’à l’automne 2027 et entraîneront une circulation accrue de camions sur des boulevards achalandés, selon Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280114/debut-travaux-hopital-gatineau-centre-asticou",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "premiers-travaux-et-inquietudes-de-circulation-pour-le-futur-525ff0",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "premiers-travaux-et-inquietudes-de-circulation-pour-le-futur-525ff0"
+  },
+  {
+   "titre": "La surpopulation scolaire s’aggrave en Outaouais",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Gatineau",
+   "medias": "Le Droit",
+   "url": "https://www.ledroit.com/actualites/education/2026/09/03/ecoles-surpeuplees-letau-se-resserre-encore-plus-en-outaouais-F34EMLAFQJGTPNQBJTYJNKEDVU/",
+   "resume": "Une vingtaine de projets d’infrastructures scolaires soumis à Québec ont tous été refusés en Outaouais, où l’école secondaire Hormisdas-Gamelin compte à elle seule 400 élèves de plus qu’il y a sept ans malgré une quinzaine de classes modulaires, selon Le Droit.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/education/2026/09/03/ecoles-surpeuplees-letau-se-resserre-encore-plus-en-outaouais-F34EMLAFQJGTPNQBJTYJNKEDVU/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "la-surpopulation-scolaire-saggrave-en-outaouais-af8752",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "la-surpopulation-scolaire-saggrave-en-outaouais-af8752"
+  },
+  {
+   "titre": "Les groupes de soutien de l’ABBS reprennent la saison à Saint-Georges",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Saint-Georges (Beauce)",
+   "medias": "L'Éclaireur Progrès",
+   "url": "https://www.leclaireurprogres.ca/chroniques/les-groupes-de-labbs-avec-mariam-reprennent-cette-saison/",
+   "resume": "L’Association Bénévole Beauce-Sartigan reprend cet automne ses Café-Jasette et ses formations pour proches aidants à Saint-Georges, avec une nouvelle offre en soirée pour rejoindre ceux qui travaillent, selon L’Éclaireur Progrès.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T07:26-04:00",
+   "sources": [
+    {
+     "media": "L'Éclaireur Progrès",
+     "url": "https://www.leclaireurprogres.ca/chroniques/les-groupes-de-labbs-avec-mariam-reprennent-cette-saison/",
+     "date": "2026-09-03T07:26-04:00"
+    }
+   ],
+   "permalien": "les-groupes-de-soutien-de-labbs-reprennent-la-saison-a-saint-f865ba",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-03.json",
+   "_slug": "les-groupes-de-soutien-de-labbs-reprennent-la-saison-a-saint-f865ba"
   },
   {
    "titre": "Un Québécois riposte à Trump avec son «Lake America»",
@@ -1755,7 +2617,7 @@
    "cahier": "quebec",
    "rubrique": "societe",
    "territoire": "Nutashkuan",
-   "medias": "Le Manic",
+   "medias": "Le Manic, Le Nord-Côtier, Le Haute Côte-Nord",
    "url": "https://www.lemanic.ca/2026/09/02/une-scenariste-innue-recoit-lappui-de-la-sodec/",
    "resume": "La scénariste Lily Bellefleur, de Nutashkuan, a obtenu un financement de la Société de développement des entreprises culturelles (SODEC) pour l'écriture de son court métrage de fiction Mitso, et travaille aussi à deux documentaires, dont un sur la santé mentale des jeunes issus des Premières Nations, selon Le Manic.",
    "photo": "",
@@ -1766,6 +2628,16 @@
      "media": "Le Manic",
      "url": "https://www.lemanic.ca/2026/09/02/une-scenariste-innue-recoit-lappui-de-la-sodec/",
      "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/02/une-scenariste-innue-recoit-lappui-de-la-sodec/",
+     "date": "2026-09-03T07:32-04:00"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/02/une-scenariste-innue-recoit-lappui-de-la-sodec/",
+     "date": "2026-09-03T07:32-04:00"
     }
    ],
    "permalien": "une-scenariste-innue-de-nutashkuan-obtient-l-appui-de-la-sod-7a24a7",
@@ -2145,7 +3017,7 @@
    "cahier": "montreal",
    "rubrique": "societe",
    "territoire": "Montréal",
-   "medias": "Le Devoir, La Presse",
+   "medias": "Le Devoir, La Presse, Radio-Canada",
    "url": "https://www.ledevoir.com/actualites/societe/1006022/cols-bleus-greve-durant-championnat-monde-cyclisme",
    "resume": "Le syndicat des cols bleus de Montréal a confirmé une grève de sept jours, du 22 au 28 septembre, qui coïncidera avec le championnat du monde de cyclisme sur route ; des services essentiels seront maintenus, selon Le Devoir et La Presse.",
    "photo": "",
@@ -2161,6 +3033,11 @@
      "media": "La Presse",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-02/22-au-28-septembre/les-cols-bleus-de-montreal-en-greve-pendant-les-mondiaux-de-cyclisme.php",
      "date": "2026-09-02T19:26-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280102/cols-bleus-montreal-greve-championnats-cyclisme",
+     "date": "2026-09-03T07:32-04:00"
     }
    ],
    "permalien": "les-cols-bleus-de-montreal-en-greve-du-22-au-28-septembre-pe-0f35e4",
