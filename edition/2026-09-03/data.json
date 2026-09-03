@@ -1,6 +1,7 @@
 {
  "date": "2026-09-03",
  "volets": [
+  "continu",
   "elections",
   "hors-rss",
   "local",
@@ -11,6 +12,402 @@
   "savoirs"
  ],
  "articles": [
+  {
+   "titre": "Itamar Ben Gvir présente un plan pour vider Gaza de sa population, en pleine campagne électorale israélienne",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Israël",
+   "medias": "Radio-Canada, Québecor, Le Monde",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280385/ministre-israelien-vider-gaza-habitants",
+   "resume": "Le ministre israélien de la Sécurité nationale, Itamar Ben Gvir, a présenté jeudi un plan de campagne visant à faire partir la population palestinienne de la bande de Gaza vers l'étranger, à quelques semaines d'élections législatives israéliennes qui s'annoncent très disputées.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Itamar_Ben_Gvir_%28portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Itamar Ben Gvir, ministre israélien de la Sécurité nationale.",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280385/ministre-israelien-vider-gaza-habitants",
+     "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/03/en-campagne-un-ministre-israelien-presente-une-brochure-pour-vider-gaza-de-ses-habitants",
+     "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/03/itamar-ben-gvir-ministre-israelien-supremaciste-presente-un-plan-pour-vider-la-bande-de-gaza-de-ses-habitants-durant-la-campagne-des-elections-legislatives_6765207_3210.html",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "photo_auteur": "דוד דנברג",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "itamar-ben-gvir-presente-un-plan-pour-vider-gaza-de-sa-popul-beda18",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "itamar-ben-gvir-presente-un-plan-pour-vider-gaza-de-sa-popul-beda18"
+  },
+  {
+   "titre": "La Syrie affirme avoir commencé à détruire les armes chimiques de l'ère Assad",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Syrie",
+   "medias": "Le Monde, La Presse",
+   "url": "https://www.lemonde.fr/international/article/2026/09/03/la-syrie-dit-avoir-commence-a-detruire-les-armes-chimiques-de-l-ere-al-assad_6765212_3210.html",
+   "resume": "La représentation syrienne aux Nations unies a annoncé jeudi au Conseil de sécurité que Damas a commencé à détruire le matériel issu du programme d'armes chimiques de l'ancien régime de Bachar Al-Assad, sous la pression de Washington, près de deux ans après sa chute.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/03/la-syrie-dit-avoir-commence-a-detruire-les-armes-chimiques-de-l-ere-al-assad_6765212_3210.html",
+     "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-03/la-syrie-a-commence-a-detruire-les-armes-chimiques-de-l-ere-assad.php",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "la-syrie-affirme-avoir-commence-a-detruire-les-armes-chimiqu-9911fa",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "la-syrie-affirme-avoir-commence-a-detruire-les-armes-chimiqu-9911fa"
+  },
+  {
+   "titre": "Affaire Epstein : le milliardaire Leon Black refuse de témoigner devant le Congrès américain",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "Québecor, La Presse",
+   "url": "https://www.journaldemontreal.com/2026/09/03/affaire-epstein-le-milliardaire-leon-black-refuse-de-temoigner-devant-le-congres",
+   "resume": "Le milliardaire américain Leon Black, empêtré dans le scandale Jeffrey Epstein, ne s'est pas présenté jeudi à une audition sous serment devant le Congrès des États-Unis, s'exposant à d'éventuelles poursuites pour outrage.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/03/affaire-epstein-le-milliardaire-leon-black-refuse-de-temoigner-devant-le-congres",
+     "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-03/affaire-epstein/le-milliardaire-leon-black-refuse-de-temoigner-devant-le-congres.php",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "affaire-epstein-le-milliardaire-leon-black-refuse-de-temoign-07ae17",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "affaire-epstein-le-milliardaire-leon-black-refuse-de-temoign-07ae17"
+  },
+  {
+   "titre": "La Banque du Canada dévoile son nouveau billet de 20 dollars à l'effigie du roi Charles III",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Global News, Québecor",
+   "url": "https://globalnews.ca/news/12046322/new-20-dollar-bill-king-charles-iii-unveiled-canada/",
+   "resume": "La Banque du Canada a dévoilé jeudi un nouveau billet vertical de 20 dollars portant le portrait du roi Charles III, qui remplace celui de la reine Elizabeth II et reprend des éléments botaniques évoquant son engagement pour l'environnement.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/The_Bank%27s_Head_Office_Si%C3%A8ge_de_la_Banque_du_Canada_%2846847690635%29.jpg/1280px-The_Bank%27s_Head_Office_Si%C3%A8ge_de_la_Banque_du_Canada_%2846847690635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le siège de la Banque du Canada.",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12046322/new-20-dollar-bill-king-charles-iii-unveiled-canada/",
+     "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/03/decouvrez-le-nouveau-billet-de-20--a-leffigie-du-roi-charles-iii",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "photo_auteur": "Bank of Canada - Banque du Canada from Canada",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "la-banque-du-canada-devoile-son-nouveau-billet-de-20-dollars-192a2e",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "la-banque-du-canada-devoile-son-nouveau-billet-de-20-dollars-192a2e"
+  },
+  {
+   "titre": "Un entraîneur de karaté montréalais bien connu accusé d'agression sexuelle",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Montréal",
+   "medias": "Québecor, La Presse",
+   "url": "https://www.journaldemontreal.com/2026/09/03/un-entraineur-de-karate-connu-accuse-dagression-sexuelle",
+   "resume": "André Gilbert, 85 ans, pionnier du karaté à Montréal depuis 60 ans, fait face à une accusation d'agression sexuelle sur une femme dont l'identité est protégée par une ordonnance de non-publication.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/03/un-entraineur-de-karate-connu-accuse-dagression-sexuelle",
+     "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-03/un-entraineur-de-karate-accuse-d-agression-sexuelle.php",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "un-entraineur-de-karate-montrealais-bien-connu-accuse-d-agre-dc35d8",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "un-entraineur-de-karate-montrealais-bien-connu-accuse-d-agre-dc35d8"
+  },
+  {
+   "titre": "Carney promet d'autres mesures pour soutenir l'industrie forestière",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Les Affaires, La Presse",
+   "url": "https://www.lesaffaires.com/secteurs/politique/tarifs-douaniers-carney-evoque-plus-a-venir-pour-le-secteur-de-la-foresterie/",
+   "resume": "Le premier ministre Mark Carney a affirmé jeudi que son gouvernement annoncera de nouvelles mesures dans les prochaines semaines pour l'industrie forestière, durement touchée par le conflit commercial avec les États-Unis, après avoir déjà engagé plus de 30 milliards de dollars en aide aux entreprises et travailleurs touchés depuis le début des tensions, selon la Presse Canadienne.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Mark_Carney_at_the_20th_EU-Canada_Summit_-_2025_-_P067331-112531.jpg/1280px-Mark_Carney_at_the_20th_EU-Canada_Summit_-_2025_-_P067331-112531.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le premier ministre du Canada, Mark Carney.",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/tarifs-douaniers-carney-evoque-plus-a-venir-pour-le-secteur-de-la-foresterie/",
+     "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-03/foresterie/d-autres-mesures-seront-annoncees-pour-aider-l-industrie-dit-carney.php",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "photo_auteur": "Dati Bendo / European Union",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "carney-promet-d-autres-mesures-pour-soutenir-l-industrie-for-246268",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "carney-promet-d-autres-mesures-pour-soutenir-l-industrie-for-246268"
+  },
+  {
+   "titre": "Volkswagen supprimera environ 50 000 emplois d'ici 2030",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Allemagne",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-03/volkswagen-prevoit-la-suppression-de-50-000-postes-d-ici-2030.php",
+   "resume": "Le conseil de surveillance de Volkswagen a approuvé à l'unanimité, jeudi, un plan de restructuration prévoyant la suppression d'environ 50 000 postes dans le monde d'ici la fin de la décennie, invoquant la pression concurrentielle mondiale et la mutation technologique de l'industrie automobile, selon l'Agence France-Presse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-03/volkswagen-prevoit-la-suppression-de-50-000-postes-d-ici-2030.php",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "volkswagen-supprimera-environ-50-000-emplois-d-ici-2030-7788a2",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "volkswagen-supprimera-environ-50-000-emplois-d-ici-2030-7788a2"
+  },
+  {
+   "titre": "Un policier du Nunavik accusé de voies de fait",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Nunavik (Umiujaq)",
+   "medias": "Nunatsiaq News",
+   "url": "https://nunatsiaq.com/stories/article/nunavik-police-officer-charged-with-assault/",
+   "resume": "L'agent Raphaël Bernier, du corps policier du Nunavik, fait face à une accusation de voies de fait et de voies de fait armées pour des gestes qui seraient survenus à Umiujaq en août 2025, selon le Bureau des enquêtes indépendantes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Nunatsiaq News",
+     "url": "https://nunatsiaq.com/stories/article/nunavik-police-officer-charged-with-assault/",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "un-policier-du-nunavik-accuse-de-voies-de-fait-11c455",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "un-policier-du-nunavik-accuse-de-voies-de-fait-11c455"
+  },
+  {
+   "titre": "Le seuil de 1,5 °C de réchauffement sera dépassé, mais pourrait redevenir atteignable, selon l'ONU",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "International",
+   "medias": "Pivot",
+   "url": "https://pivot.quebec/2026/09/03/rechauffement-climatique-depasser-15-degre-est-inevitable-y-revenir-reste-toutefois-possible/",
+   "resume": "Un nouveau rapport du Programme des Nations unies pour l'environnement estime que les températures mondiales dépasseront de plus de 1,5 °C la moyenne préindustrielle avant la fin de la décennie, mais juge qu'un retour sous ce seuil reste possible si l'action climatique reprend un rythme soutenu.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Pivot",
+     "url": "https://pivot.quebec/2026/09/03/rechauffement-climatique-depasser-15-degre-est-inevitable-y-revenir-reste-toutefois-possible/",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "le-seuil-de-1-5-c-de-rechauffement-sera-depasse-mais-pourrai-46d3db",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "le-seuil-de-1-5-c-de-rechauffement-sera-depasse-mais-pourrai-46d3db"
+  },
+  {
+   "titre": "Le prix des électroménagers grimpe de jusqu'à 40 % au Québec",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/03/electromenagers--jusqua-40--plus-cher-au-quebec",
+   "resume": "Les contre-tarifs canadiens de 25 % sur les électroménagers américains s'ajoutent à la hausse déjà annoncée par les fabricants pour se conformer à la nouvelle garantie légale de bon fonctionnement prévue par la Loi 29 sur la réparabilité, faisant grimper certains prix de jusqu'à 40 % au Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/03/electromenagers--jusqua-40--plus-cher-au-quebec",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "le-prix-des-electromenagers-grimpe-de-jusqu-a-40-au-quebec-7c598d",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "le-prix-des-electromenagers-grimpe-de-jusqu-a-40-au-quebec-7c598d"
+  },
+  {
+   "titre": "Des molécules du vivant résistent à des conditions extrêmes simulant Vénus",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "International",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/sciences/actualites/venus-venus-ces-molecules-vivant-ont-resiste-experience-on-croyait-impossible-relancent-question-vie-137503/",
+   "resume": "Une expérience en laboratoire a montré que des molécules organiques peuvent résister à des conditions extrêmes reproduisant l'atmosphère vénusienne — 460 °C, une pression 93 fois supérieure à celle de la Terre et des nuages d'acide sulfurique —, relançant la question d'une possible vie sur Vénus.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sciences/actualites/venus-venus-ces-molecules-vivant-ont-resiste-experience-on-croyait-impossible-relancent-question-vie-137503/",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "des-molecules-du-vivant-resistent-a-des-conditions-extremes-ac95c8",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "des-molecules-du-vivant-resistent-a-des-conditions-extremes-ac95c8"
+  },
+  {
+   "titre": "La sonde BepiColombo largue son module de transfert à l'approche de Mercure",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "International",
+   "medias": "Ciel et Espace",
+   "url": "https://www.cieletespace.fr/article/proche-de-mercure-la-sonde-bepi-colombo-reussit-sa-separation",
+   "resume": "La sonde spatiale européano-japonaise BepiColombo s'est séparée jeudi de son module de propulsion, dernière étape avant sa mise en orbite autour de Mercure prévue le 21 novembre, où elle deviendra la deuxième sonde de l'histoire à orbiter la planète après Messenger en 2004.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Ciel et Espace",
+     "url": "https://www.cieletespace.fr/article/proche-de-mercure-la-sonde-bepi-colombo-reussit-sa-separation",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "la-sonde-bepicolombo-largue-son-module-de-transfert-a-l-appr-904fa3",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "la-sonde-bepicolombo-largue-son-module-de-transfert-a-l-appr-904fa3"
+  },
+  {
+   "titre": "Le mode IA de Google recommande des produits 49 % plus chers en moyenne, selon une étude",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "International",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/tech/actualites/ia-generative-ia-google-vous-conseille-produits-49-plus-cher-moyenne-verdict-2-millions-produits-analyses-137504/",
+   "resume": "Une analyse de la firme Productrise portant sur deux millions de produits révèle que les recommandations du mode IA de Google proposent en moyenne des articles coûtant 49 % plus cher que l'ensemble des résultats de recherche.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/tech/actualites/ia-generative-ia-google-vous-conseille-produits-49-plus-cher-moyenne-verdict-2-millions-produits-analyses-137504/",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "le-mode-ia-de-google-recommande-des-produits-49-plus-chers-e-3e3c58",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "le-mode-ia-de-google-recommande-des-produits-49-plus-chers-e-3e3c58"
+  },
+  {
+   "titre": "OpenAI lance GPT-6 Astra, présenté comme l'entrée dans « l'ère de l'AGI »",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Québecor, The Verge",
+   "url": "https://www.journaldemontreal.com/2026/09/03/openai-lance-gpt-6-son-modele-le-plus-puissant-concu-pour-limiter-les-risques",
+   "resume": "OpenAI a lancé jeudi son nouveau modèle GPT-6 Astra, doté de meilleures garanties de sécurité après le piratage de Hugging Face par un de ses modèles non publiés plus tôt cet été, un lancement que son président Greg Brockman associe à l'entrée dans « l'ère de l'intelligence artificielle générale ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/03/openai-lance-gpt-6-son-modele-le-plus-puissant-concu-pour-limiter-les-risques",
+     "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "openai-lance-gpt-6-astra-presente-comme-l-entree-dans-l-ere-a75f5a",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "openai-lance-gpt-6-astra-presente-comme-l-entree-dans-l-ere-a75f5a"
+  },
+  {
+   "titre": "Nvidia officialise le rachat de Hugging Face pour 12,93 milliards de dollars",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Québecor, Clubic",
+   "url": "https://www.tvanouvelles.ca/2026/09/03/nvidia-va-racheter-la-plateforme-ia-hugging-face-pour-129-g",
+   "resume": "Nvidia a annoncé jeudi l'acquisition de Hugging Face, plateforme d'intelligence artificielle ouverte fondée par trois Français et utilisée par plus de 18 millions de développeurs, pour 12,93 milliards de dollars US ; son patron Jensen Huang promet qu'elle conservera son indépendance et continuera de fonctionner avec le matériel de tous les fournisseurs.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T15:59-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/03/nvidia-va-racheter-la-plateforme-ia-hugging-face-pour-129-g",
+     "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628171-enorme-coup-de-nvidia-qui-rachete-hugging-face-pour-12-93-milliards-de-dollars-jensen-huang-s-explique.html",
+     "date": "2026-09-03T16:01-04:00"
+    }
+   ],
+   "permalien": "nvidia-officialise-le-rachat-de-hugging-face-pour-12-93-mill-3807c8",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "nvidia-officialise-le-rachat-de-hugging-face-pour-12-93-mill-3807c8"
+  },
   {
    "titre": "Controverses de candidats : le PCQ, seul parti à n'avoir exclu personne",
    "cahier": "elections",
@@ -827,6 +1224,7 @@
    "legende": "",
    "horodate": "2026-09-03T14:23-04:00",
    "permalien": "la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-8ccf7b",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-8ccf7b"
@@ -3117,7 +3515,7 @@
    "cahier": "montreal",
    "rubrique": "education",
    "territoire": "Montréal",
-   "medias": "Radio-Canada, QUB radio",
+   "medias": "Radio-Canada, QUB radio, Québecor, Le Devoir",
    "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-retour/episodes/1264265/mercredi-2-septembre-2026",
    "sources": [
     {
@@ -3129,12 +3527,22 @@
      "media": "QUB radio",
      "url": "https://www.qub.ca/2026/09/02/possible-fermeture-du-college-lasalle-un-climat-dinquietude-difficile-a-vivre",
      "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/03/rentree-suspendue-au-college-lasalle-on-veut-juste-rentrer-a-lecole",
+     "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/justice/1006235/sort-college-lasalle-connu-jeudi-apres-midi",
+     "date": "2026-09-03T16:01-04:00"
     }
    ],
-   "resume": "Un gouffre financier de 48 millions de dollars retarde la rentrée de 3000 étudiants et 400 membres du corps professoral au Collège LaSalle, plongeant la communauté étudiante dans l'incertitude quant à l'avenir de l'établissement.",
+   "resume": "Un gouffre financier de 48 millions de dollars retarde la rentrée de 3000 étudiants et 400 membres du corps professoral au Collège LaSalle, plongeant la communauté étudiante dans l'incertitude quant à l'avenir de l'établissement.\n\nMise à jour, 15 h 57 — Des étudiants ont manifesté leur impatience jeudi devant le palais de justice de Montréal, où s'est ouverte l'audience sur le dépassement des plafonds d'inscription dans les programmes en anglais du collège ; le sort de l'établissement doit être connu jeudi après-midi, selon Le Devoir.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/College_LaSalle_2000_rue_Sainte-Catherine_02.jpg/1280px-College_LaSalle_2000_rue_Sainte-Catherine_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "legende": "Le Collège LaSalle, rue Sainte-Catherine à Montréal.",
-   "horodate": "2026-09-03T06:10-04:00",
+   "horodate": "2026-09-03T15:59-04:00",
    "photo_auteur": "Jeangagnon",
    "photo_licence": "CC BY-SA 3.0",
    "permalien": "un-gouffre-financier-de-48-millions-menace-le-college-lasall-8d2da9",
