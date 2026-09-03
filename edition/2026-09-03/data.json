@@ -1,10 +1,95 @@
 {
  "date": "2026-09-03",
  "volets": [
+  "elections",
   "report",
   "savoirs"
  ],
  "articles": [
+  {
+   "titre": "Controverses de candidats : le PCQ, seul parti à n'avoir exclu personne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Québecor",
+   "url": "https://www.ledevoir.com/politique/quebec/1006055/cinq-chefs-face-controverse",
+   "resume": "Le Parti libéral a exclu trois candidats de ses rangs (et un quatrième est sur la sellette), Québec solidaire, la CAQ et le Parti québécois un chacun, mais le Parti conservateur n'en a expulsé aucun malgré au moins sept controverses touchant ses candidats, dont celle de Frédéric Poulin, dans Côte-du-Sud, qui avait multiplié les insultes en ligne contre des élus. Éric Duhaime y voit une « campagne de vidage de poubelles » orchestrée par la CAQ, une défense à laquelle s'est rallié le chef péquiste Paul St-Pierre Plamondon, qui protège lui aussi son propre candidat controversé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T03:27-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006055/cinq-chefs-face-controverse",
+     "date": "2026-09-03T03:28-04:00"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/03/couilles-molles---petit-penis---pussy---le-candidat-du-pcq-dans-cote-du-sud-multipliait-aussi-les-insultes-derriere-son-clavier",
+     "date": "2026-09-03T03:28-04:00"
+    }
+   ],
+   "permalien": "controverses-de-candidats-le-pcq-seul-parti-a-n-avoir-exclu-f3e99f",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "controverses-de-candidats-le-pcq-seul-parti-a-n-avoir-exclu-f3e99f"
+  },
+  {
+   "titre": "Le PLQ inquiet de son début de campagne face à une CAQ qui « mange son lunch »",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/09/03/inquietude-chez-les-liberaux-frechette-en-train-de-manger-leur-lunch",
+   "resume": "Des candidats et organisateurs libéraux confient être inquiets du début de campagne de Charles Milliard, jugeant que Christine Fréchette empiète sur leur terrain depuis ses annonces avec Ottawa — un déclin que le chroniqueur Joseph Facal attribue aux plus récents sondages, qui donneraient désormais la CAQ devant le PLQ.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T03:27-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/03/inquietude-chez-les-liberaux-frechette-en-train-de-manger-leur-lunch",
+     "date": "2026-09-03T03:28-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/03/la-chaloupe-liberale-prend-leau",
+     "date": "2026-09-03T03:28-04:00"
+    }
+   ],
+   "permalien": "le-plq-inquiet-de-son-debut-de-campagne-face-a-une-caq-qui-m-72ce80",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "le-plq-inquiet-de-son-debut-de-campagne-face-a-une-caq-qui-m-72ce80"
+  },
+  {
+   "titre": "Santé : le PQ et le PCQ promettent d'abolir Santé Québec, la CAQ mise sur le privé",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/editoriaux/1005998/abolir-sante-quebec-lubie",
+   "resume": "Le Parti québécois et le Parti conservateur promettent tous deux d'abolir Santé Québec, l'agence créée en 2024, le premier y voyant 40 à 100 millions $ d'économies à réinvestir en soins directs et le second une décentralisation accrue vers le privé, alors que le Parti libéral veut d'abord l'évaluer et que Québec solidaire critique sa centralisation sans réclamer sa disparition. La première ministre Christine Fréchette, qui l'a créée, mise plutôt sur une pratique médicale mixte public-privé inspirée de la France et de l'Allemagne pour réduire les délais.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T03:27-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/opinion/editoriaux/1005998/abolir-sante-quebec-lubie",
+     "date": "2026-09-03T03:28-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/opinion/chroniques/1005989/lapin-cheval-loup",
+     "date": "2026-09-03T03:28-04:00"
+    }
+   ],
+   "permalien": "sante-le-pq-et-le-pcq-promettent-d-abolir-sante-quebec-la-ca-ed74ca",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "sante-le-pq-et-le-pcq-promettent-d-abolir-sante-quebec-la-ca-ed74ca"
+  },
   {
    "titre": "L'assassin présumé de Charlie Kirk, Tyler Robinson, sera jugé et risque la peine de mort",
    "cahier": "international",
@@ -1213,10 +1298,10 @@
    "territoire": "Québec (Chauveau)",
    "medias": "Le Devoir, Le Charlevoisien",
    "url": "https://www.ledevoir.com/actualites/education/1005644/cette-ecole-deborde-elle-raison-trop-grand-nombre-nouveaux-eleves-issus-immigration",
-   "resume": "Le chef péquiste Paul St-Pierre Plamondon a attribué le débordement de l'école secondaire Roger-Comtois, à Québec, à « un trop grand nombre » de nouveaux élèves immigrants — passés de 83 à 293 en sept ans, soit 12 % des 2441 élèves. Le Centre de services scolaire de la Capitale et un syndicat enseignant nuancent : une partie de la hausse tient à la croissance résidentielle du secteur et à la fin de la redirection vers d'autres écoles des élèves nécessitant des services de francisation.\n\n**Mise à jour, 19 h 24** — La porte-parole solidaire Ruba Ghazal a accusé Paul St-Pierre Plamondon de tenir un « discours divisif » en associant l'immigration au débordement des écoles ; il a répliqué que sa lecture était « factuelle » et « pas raciste ».",
+   "resume": "Le chef péquiste Paul St-Pierre Plamondon a attribué le débordement de l'école secondaire Roger-Comtois, à Québec, à « un trop grand nombre » de nouveaux élèves immigrants — passés de 83 à 293 en sept ans, soit 12 % des 2441 élèves. Le Centre de services scolaire de la Capitale et un syndicat enseignant nuancent : une partie de la hausse tient à la croissance résidentielle du secteur et à la fin de la redirection vers d'autres écoles des élèves nécessitant des services de francisation.\n\n**Mise à jour, 19 h 24** — La porte-parole solidaire Ruba Ghazal a accusé Paul St-Pierre Plamondon de tenir un « discours divisif » en associant l'immigration au débordement des écoles ; il a répliqué que sa lecture était « factuelle » et « pas raciste ».\n\n**Mise à jour, 3 h 25** — Québec solidaire propose de réduire de moitié le taux de décrochage scolaire, de 14 % à 7 %, une cible saluée par Paul St-Pierre Plamondon ; sa co-porte-parole Ruba Ghazal a toutefois relancé ses critiques du chef péquiste sur l'immigration, lui demandant : « c'est qui, pour lui, les Québécois ? »",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T19:24-04:00",
+   "horodate": "2026-09-03T03:27-04:00",
    "sources": [
     {
      "media": "Le Devoir",
@@ -1232,6 +1317,11 @@
      "media": "Le Charlevoisien",
      "url": "https://www.lecharlevoisien.com/2026/09/02/ca-na-pas-sa-place-en-politique-lance-dulce-vivar/",
      "date": "2026-09-02T21:19-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006043/tour-ecole-interesser-politiciens-campagne",
+     "date": "2026-09-03T03:28-04:00"
     }
    ],
    "permalien": "pspp-lie-le-debordement-d-une-ecole-de-loretteville-a-l-immi-1a21a2",
@@ -1936,7 +2026,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Abitibi-Témiscamingue",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, RIMQ",
    "url": "https://ici.radio-canada.ca/nouvelle/2280167/election-quebec2026-abitibi-temiscamingue-declaration",
    "resume": "La Conférence des préfets de l'Abitibi-Témiscamingue profite de la campagne pour lancer une déclaration réclamant une redistribution plus équitable des investissements publics et davantage d'autonomie, en s'appuyant sur une étude chiffrant à 666-822 millions $ par an l'écart entre la contribution fiscale de la région et ce qu'elle reçoit en services.",
    "photo": "",
@@ -1947,6 +2037,11 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280167/election-quebec2026-abitibi-temiscamingue-declaration",
      "date": "2026-09-02T21:19-04:00"
+    },
+    {
+     "media": "RIMQ",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/politique/105/1216402/parce-que-les-realites-distinctes-de-l-abitibi-temiscamingue-exigent-des-reponses-distinctes.html",
+     "date": "2026-09-03T03:28-04:00"
     }
    ],
    "permalien": "l-abitibi-temiscamingue-reclame-une-plus-grande-reconnaissan-7f5782",
