@@ -240,15 +240,25 @@
    "territoire": "Québec",
    "medias": "Parti conservateur du Québec",
    "url": "https://conservateur.quebec/actualites/",
-   "resume": "Le chef du Parti conservateur du Québec, Éric Duhaime, accompagné de sa porte-parole en matière de famille, Patricia Drouin, a présenté le 3 septembre un « plan famille » en trois volets pour réduire les coûts de garde, rendre accessibles des milliers de places vacantes et soutenir financièrement les parents qui gardent leurs jeunes enfants à la maison. Plus de 30 600 enfants attendent toujours une place en service de garde, selon le parti.",
+   "resume": "Le chef du Parti conservateur du Québec, Éric Duhaime, accompagné de sa porte-parole en matière de famille, Patricia Drouin, a présenté le 3 septembre un « plan famille » en trois volets pour réduire les coûts de garde, rendre accessibles des milliers de places vacantes et soutenir financièrement les parents qui gardent leurs jeunes enfants à la maison. Plus de 30 600 enfants attendent toujours une place en service de garde, selon le parti.\n\n**Mise à jour, 09h25** — Le PCQ chiffre son plan à 1,4 G$ sur cinq ans, incluant une allocation de 100 $ par semaine pour les parents qui gardent leur enfant à la maison (La Presse).",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-03T08:57-04:00",
+   "horodate": "2026-09-03T09:25-04:00",
    "sources": [
     {
      "media": "Parti conservateur du Québec",
      "url": "https://conservateur.quebec/actualites/",
      "date": "2026-09-03T08:57-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/en-direct/1014273/elections-quebec-jour-8-campagne-electorale",
+     "date": "2026-09-03T09:25-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/le-pcq-promet-100-par-semaine-pour-les-parents-qui-gardent-leur-enfant-a-la-maison.php",
+     "date": "2026-09-03T09:25-04:00"
     }
    ],
    "permalien": "le-pcq-propose-un-plan-famille-pour-desengorger-les-services-a8d7f5",
@@ -347,6 +357,103 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-quebec-a-bien-le-fardeau-fiscal-le-plus-lourd-au-pays-mai-c1dd81"
+  },
+  {
+   "titre": "Le péquiste Pascal Bérubé sollicite un 7e mandat dans Matane-Matapédia-Mitis",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Matane-Matapédia-Mitis)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280172/campagne-parti-quebecois-matane",
+   "resume": "Le député sortant et candidat du Parti québécois dans Matane-Matapédia-Mitis, Pascal Bérubé, a lancé sa campagne à Sainte-Luce en sollicitant un septième mandat, sans nouvel engagement électoral, misant sur son bilan de député depuis 2007.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T09:25-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280172/campagne-parti-quebecois-matane",
+     "date": "2026-09-03T09:25-04:00"
+    }
+   ],
+   "permalien": "le-pequiste-pascal-berube-sollicite-un-7e-mandat-dans-matane-57ea45",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "le-pequiste-pascal-berube-sollicite-un-7e-mandat-dans-matane-57ea45"
+  },
+  {
+   "titre": "Diabète Québec presse les partis de s'engager en campagne sur l'accès aux soins",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/elections-generales-du-quebec-2026-diabete-quebec-appelle-les-partis-politiques-a-faire-du-diabete-une-priorite-de-sante-publique/",
+   "resume": "À l'approche du scrutin du 5 octobre, Diabète Québec demande aux partis et aux candidats de s'engager à mettre fin aux inégalités d'âge dans l'accès aux pompes à insuline, à élargir l'accès aux capteurs de glucose financés par le régime public et à se doter d'une stratégie de prévention du diabète.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T09:25-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/elections-generales-du-quebec-2026-diabete-quebec-appelle-les-partis-politiques-a-faire-du-diabete-une-priorite-de-sante-publique/",
+     "date": "2026-09-03T09:25-04:00"
+    }
+   ],
+   "permalien": "diabete-quebec-presse-les-partis-de-s-engager-en-campagne-su-0646ee",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "diabete-quebec-presse-les-partis-de-s-engager-en-campagne-su-0646ee"
+  },
+  {
+   "titre": "Québec solidaire complète son équipe de candidats au Saguenay-Lac-Saint-Jean",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Saguenay-Lac-Saint-Jean)",
+   "medias": "Radio-Canada, Coops de l'information",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280227/candidature-elections-qs-vote-liste",
+   "resume": "Québec solidaire a dévoilé trois nouveaux candidats dans Roberval, Dubuc et Lac-Saint-Jean, complétant son équipe régionale, alors que ses candidats de Chicoutimi et de Jonquière, Jeanne Palardy et Serge Bergeron, misent sur l'UQAC et les cégeps pour préserver la vitalité démographique de la région.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T09:25-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280227/candidature-elections-qs-vote-liste",
+     "date": "2026-09-03T09:25-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/03/luqac-et-les-cegeps-prioritaires-pour-les-candidats-de-qs-a-saguenay-JO76BSZ5JJBHVIC4H4BOHUHHTA/",
+     "date": "2026-09-03T09:25-04:00"
+    }
+   ],
+   "permalien": "quebec-solidaire-complete-son-equipe-de-candidats-au-saguena-6d7759",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "quebec-solidaire-complete-son-equipe-de-candidats-au-saguena-6d7759"
+  },
+  {
+   "titre": "Le Parti québécois complète ses candidatures à Laval avec Mille-Îles et Sainte-Rose",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Laval)",
+   "medias": "Courrier Laval",
+   "url": "https://courrierlaval.com/parti-quebecois-candidat-mille-iles-sainte-rose/",
+   "resume": "Le Parti québécois a complété ses candidatures lavalloises en présentant Mathieu Trottier-Kavanagh dans Mille-Îles et Judith Cardin dans Sainte-Rose.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T09:25-04:00",
+   "sources": [
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/parti-quebecois-candidat-mille-iles-sainte-rose/",
+     "date": "2026-09-03T09:25-04:00"
+    }
+   ],
+   "permalien": "le-parti-quebecois-complete-ses-candidatures-a-laval-avec-mi-26feeb",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "le-parti-quebecois-complete-ses-candidatures-a-laval-avec-mi-26feeb"
   },
   {
    "titre": "L'Iran frappe des bases américaines dans le Golfe en représailles à de nouvelles frappes des États-Unis",
@@ -3784,6 +3891,11 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2279949/unesco-quebec-patrimoine-mondial-3e-lien",
      "date": "2026-09-02T21:19-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/politique/3226375/bruno-marchand-pas-de-3e-lien-si-le-patrimoine-du-vieux-quebec-est-menace/",
+     "date": "2026-09-03T09:25-04:00"
     }
    ],
    "permalien": "l-unesco-s-inquiete-des-impacts-du-troisieme-lien-sur-le-vie-cd5069",
@@ -4157,6 +4269,11 @@
      "media": "Le Nouvelliste",
      "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/02/belgo-quels-sont-les-engagements-des-candidats-dans-laviolettesaint-maurice-ARBJWTTKKBDNZOCWREYLIZSOMU/",
      "date": "2026-09-02T17:20-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280228/drame-de-la-belgo-les-candidats-de-laviolette-saint-maurice-se-prononcent",
+     "date": "2026-09-03T09:25-04:00"
     }
    ],
    "permalien": "les-candidats-de-laviolettesaint-maurice-reagissent-au-rappo-85e827",
