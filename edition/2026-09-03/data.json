@@ -3,6 +3,7 @@
  "volets": [
   "elections",
   "monde",
+  "quebec-canada",
   "report",
   "savoirs"
  ],
@@ -331,29 +332,6 @@
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "les-etats-unis-coulent-un-navire-soupconne-de-ravitailler-un-3f2321"
-  },
-  {
-   "titre": "Un amiral américain écarte l'idée d'un conflit militaire avec le Canada, mais dit qu'il obéirait à Trump",
-   "cahier": "international",
-   "rubrique": "diplomatie",
-   "territoire": "Canada",
-   "medias": "La Presse",
-   "url": "https://www.lapresse.ca/actualites/national/2026-09-02/relations-canada-etats-unis/un-conflit-militaire-est-un-scenario-absurde-selon-un-amiral-americain.php",
-   "resume": "Le commandant des forces américaines du Pacifique, l'amiral Samuel Paparo, a qualifié d'« absolument absurde » l'idée d'une action militaire contre le Canada, comparant la question à ses « plans d'attaque contre les Martiens » — tout en reconnaissant qu'il suivrait « les ordres du commandant en chef » si Donald Trump en décidait autrement. Ces propos surviennent alors que l'administration Trump multiplie les commentaires désobligeants envers le Canada et que le premier ministre Mark Carney refuse de négocier tant que Washington « insultera » son pays.",
-   "photo": "",
-   "legende": "",
-   "horodate": "2026-09-03T04:36-04:00",
-   "sources": [
-    {
-     "media": "La Presse",
-     "url": "https://www.lapresse.ca/actualites/national/2026-09-02/relations-canada-etats-unis/un-conflit-militaire-est-un-scenario-absurde-selon-un-amiral-americain.php",
-     "date": "2026-09-03T05:40-04:00"
-    }
-   ],
-   "permalien": "un-amiral-americain-ecarte-l-idee-d-un-conflit-militaire-ave-ac9d01",
-   "_volet": "monde",
-   "_fichier": "revue-monde-2026-09-03.json",
-   "_slug": "un-amiral-americain-ecarte-l-idee-d-un-conflit-militaire-ave-ac9d01"
   },
   {
    "titre": "Le patron de Deutsche Bank met en garde contre le « poison » du repli nationaliste avant les élections en Saxe-Anhalt",
@@ -848,6 +826,558 @@
    "_slug": "ukraine-et-allemagne-finalisent-un-accord-de-developpement-c-e0d3ca"
   },
   {
+   "titre": "Un Québécois riposte à Trump avec son «Lake America»",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "Le Journal de Montréal, La Presse, Radio-Canada",
+   "url": "https://www.journaldemontreal.com/2026/09/03/un-quebecois-trolle-trump-avec-son-lake-america",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/03/un-quebecois-trolle-trump-avec-son-lake-america",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/2026-09-02/lac-amerique/apple-renomme-le-lac-ontario-pour-les-utilisateurs-americains-de-maps.php",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279912/trump-lac-ontario-america-apple-google",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Après le renommage du lac Ontario en «Lake America» sur les cartes Apple et Google destinées aux usagers américains, en écho aux revendications de Donald Trump, un humoriste québécois a répliqué en achetant le nom de domaine lakeamericaofficial.com.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "un-quebecois-riposte-a-trump-avec-son-lake-america-515b6c",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "un-quebecois-riposte-a-trump-avec-son-lake-america-515b6c"
+  },
+  {
+   "titre": "Metro ferme son centre de commandes en ligne de Montréal : 154 employés touchés",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Le Journal de Montréal, La Presse, Le Devoir",
+   "url": "https://www.journaldemontreal.com/2026/09/02/metro-ferme-son-centre-de-commandes-de-montreal--154-employes-touches",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/02/metro-ferme-son-centre-de-commandes-de-montreal--154-employes-touches",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-02/epicerie-en-ligne/metro-fermera-son-magasin-fantome-a-montreal.php",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005782/metro-fermera-magasin-fantome-montreal",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Metro fermera son centre de commandes en ligne de Montréal, une fermeture qui touche 154 employés; l'entreprise dit travailler avec le syndicat pour leur offrir d'autres postes dans son réseau.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "metro-ferme-son-centre-de-commandes-en-ligne-de-montreal-154-33ec22",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "metro-ferme-son-centre-de-commandes-en-ligne-de-montreal-154-33ec22"
+  },
+  {
+   "titre": "Des agriculteurs des Maritimes se remettent d'une sécheresse sévère",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Nouvelle-Écosse",
+   "medias": "CBC, Global News, Canada's National Observer",
+   "url": "https://www.cbc.ca/news/canada/nova-scotia/maritime-farmers-drought-last-summer-on-road-to-recovery-9.7329361",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/nova-scotia/maritime-farmers-drought-last-summer-on-road-to-recovery-9.7329361",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12044760/maritime-farmers-drought-recovery/",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/02/news/maritime-farmers-hit-severe-drought-last-summer-say-theyre-road-recovery",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Des agriculteurs des Maritimes touchés par une sécheresse sévère l'été dernier disent être en voie de rétablissement; un spécialiste d'Agriculture Canada qualifie l'épisode d'inhabituel pour une région qui connaît rarement des conditions aussi sèches.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "des-agriculteurs-des-maritimes-se-remettent-d-une-secheresse-b2d14c",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "des-agriculteurs-des-maritimes-se-remettent-d-une-secheresse-b2d14c"
+  },
+  {
+   "titre": "VIA Rail fera construire une partie de ses nouvelles voitures à La Pocatière",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "La Pocatière",
+   "medias": "La Presse, Le Journal de Montréal",
+   "url": "https://www.lapresse.ca/affaires/2026-09-03/trains-de-long-parcours/via-rail-fera-construire-ses-nouvelles-voitures-en-partie-a-la-pocatiere.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-09-03/trains-de-long-parcours/via-rail-fera-construire-ses-nouvelles-voitures-en-partie-a-la-pocatiere.php",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/02/via-rail-un-gros-contrat-se-dessine-pour-la-pocatiere",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "VIA Rail fera construire une partie de ses nouvelles voitures pour trains longue distance à La Pocatière, un contrat que le syndicat CSN réclamait de longue date pour l'usine locale.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Pocati%C3%A8re%2C_QC_-_panoramio.jpg/1280px-La_Pocati%C3%A8re%2C_QC_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La Pocatière, où VIA Rail fera construire une partie de ses nouvelles voitures.",
+   "horodate": "2026-09-03T06:10-04:00",
+   "photo_auteur": "sima.b.hashemi",
+   "photo_licence": "CC BY 3.0",
+   "permalien": "via-rail-fera-construire-une-partie-de-ses-nouvelles-voiture-be29c9",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "via-rail-fera-construire-une-partie-de-ses-nouvelles-voiture-be29c9"
+  },
+  {
+   "titre": "Un gouffre financier de 48 millions menace le Collège LaSalle",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Montréal",
+   "medias": "Radio-Canada, QUB radio",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-retour/episodes/1264265/mercredi-2-septembre-2026",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-retour/episodes/1264265/mercredi-2-septembre-2026",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "QUB radio",
+     "url": "https://www.qub.ca/2026/09/02/possible-fermeture-du-college-lasalle-un-climat-dinquietude-difficile-a-vivre",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Un gouffre financier de 48 millions de dollars retarde la rentrée de 3000 étudiants et 400 membres du corps professoral au Collège LaSalle, plongeant la communauté étudiante dans l'incertitude quant à l'avenir de l'établissement.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/College_LaSalle_2000_rue_Sainte-Catherine_02.jpg/1280px-College_LaSalle_2000_rue_Sainte-Catherine_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le Collège LaSalle, rue Sainte-Catherine à Montréal.",
+   "horodate": "2026-09-03T06:10-04:00",
+   "photo_auteur": "Jeangagnon",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "un-gouffre-financier-de-48-millions-menace-le-college-lasall-8d2da9",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "un-gouffre-financier-de-48-millions-menace-le-college-lasall-8d2da9"
+  },
+  {
+   "titre": "Menace ontarienne sur les minéraux critiques : Sudbury reste calme face aux tarifs américains",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Ontario",
+   "medias": "Canada's National Observer, Global News",
+   "url": "https://www.nationalobserver.com/2026/09/02/news/ontario-threatened-cut-us-critical-minerals-supply-sudbury-isnt-panicking",
+   "sources": [
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/02/news/ontario-threatened-cut-us-critical-minerals-supply-sudbury-isnt-panicking",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12044667/ontario-sudbury-nickle-tariffs/",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Malgré la menace du premier ministre ontarien Doug Ford de couper l'approvisionnement américain en minéraux critiques en réplique aux tarifs de Donald Trump, la région minière de Sudbury affiche peu d'inquiétude, rapporte Canada's National Observer.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "menace-ontarienne-sur-les-mineraux-critiques-sudbury-reste-c-0c9946",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "menace-ontarienne-sur-les-mineraux-critiques-sudbury-reste-c-0c9946"
+  },
+  {
+   "titre": "Le Nouveau-Brunswick confie au privé ses services vétérinaires pour gros animaux",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Nouveau-Brunswick",
+   "medias": "Acadie Nouvelle, Radio-Canada",
+   "url": "https://www.acadienouvelle.com/actualites/2026/09/02/le-gouvernement-confiera-les-veterinaires-au-prive-mais-gardera-le-laboratoire-provincial/",
+   "sources": [
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/actualites/2026/09/02/le-gouvernement-confiera-les-veterinaires-au-prive-mais-gardera-le-laboratoire-provincial/",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10751107/services-veterinaires-provinciaux-n-b-bientot-offerts-par-prive",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Le gouvernement du Nouveau-Brunswick confiera au privé les services vétérinaires pour les gros animaux, tout en conservant le laboratoire vétérinaire provincial, selon Acadie Nouvelle et Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "le-nouveau-brunswick-confie-au-prive-ses-services-veterinair-4966e5",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "le-nouveau-brunswick-confie-au-prive-ses-services-veterinair-4966e5"
+  },
+  {
+   "titre": "Deux élus de plus quittent le caucus conservateur de Colombie-Britannique",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Colombie-Britannique",
+   "medias": "Global News, CBC",
+   "url": "https://globalnews.ca/news/12045422/findlays-bc-conservative-resignations/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12045422/findlays-bc-conservative-resignations/",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/british-columbia/conservative-mla-steps-down-9.7329679",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "La cheffe de cabinet de la députée Findlay a démissionné après que deux autres élus eurent quitté le caucus conservateur de Colombie-Britannique pour siéger comme indépendants.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "deux-elus-de-plus-quittent-le-caucus-conservateur-de-colombi-bcb888",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "deux-elus-de-plus-quittent-le-caucus-conservateur-de-colombi-bcb888"
+  },
+  {
+   "titre": "Ottawa souligne le début de la production à la mine de McIlvenna Bay, en Saskatchewan",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Saskatchewan",
+   "medias": "Gouvernement du Canada, Global News",
+   "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/09/le-canada-celebre-les-progres-de-la-mine-de-mcilvenna-bay--production-commencee-emplois-crees-et-chaines-dapprovisionnement-renforcees.html",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/09/le-canada-celebre-les-progres-de-la-mine-de-mcilvenna-bay--production-commencee-emplois-crees-et-chaines-dapprovisionnement-renforcees.html",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12045542/mcilvenna-bay-mine-progress-saskatchewan/",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Ottawa souligne le début de la production commerciale à la mine de cuivre et de zinc de McIlvenna Bay, en Saskatchewan, présentée comme l'une des nouvelles mines de minéraux critiques les plus importantes au pays.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "ottawa-souligne-le-debut-de-la-production-a-la-mine-de-mcilv-5d8ab3",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "ottawa-souligne-le-debut-de-la-production-a-la-mine-de-mcilv-5d8ab3"
+  },
+  {
+   "titre": "Fin des travaux sur le ponceau de l'autoroute 40 à Saint-Cuthbert, dans Lanaudière",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Saint-Cuthbert",
+   "medias": "Gouvernement du Québec, La Presse",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/fin-des-travaux-de-remplacement-du-ponceau-sous-lautoroute-40-felix-leclerc-dans-le-secteur-de-saint-cuthbert-72375",
+   "sources": [
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/fin-des-travaux-de-remplacement-du-ponceau-sous-lautoroute-40-felix-leclerc-dans-le-secteur-de-saint-cuthbert-72375",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/circulation/2026-09-02/affaissement-d-un-ponceau-dans-lanaudiere/fin-des-travaux-sur-une-partie-de-l-a40-ouest.php",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Le ministère des Transports et de la Mobilité durable annonce la fin des travaux de remplacement du ponceau sous l'autoroute 40 (Félix-Leclerc) à Saint-Cuthbert, dans Lanaudière, permettant le rétablissement complet de la circulation.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "fin-des-travaux-sur-le-ponceau-de-l-autoroute-40-a-saint-cut-2791c2",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "fin-des-travaux-sur-le-ponceau-de-l-autoroute-40-a-saint-cut-2791c2"
+  },
+  {
+   "titre": "Un détenu meurt sous garde fédérale au Centre psychiatrique régional de Saskatoon",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Saskatchewan",
+   "medias": "Gouvernement du Canada",
+   "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/09/deces-dun-detenu-du-centre-psychiatrique-regional.html",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/09/deces-dun-detenu-du-centre-psychiatrique-regional.html",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Kenneth Butler, 43 ans, qui purgeait une peine d'emprisonnement à perpétuité depuis 2009, est mort sous garde le 31 août au Centre psychiatrique régional de Saskatoon; le Service correctionnel du Canada dit examiner les circonstances et avoir avisé la police et le coroner, comme le veut sa politique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "un-detenu-meurt-sous-garde-federale-au-centre-psychiatrique-b69f6a",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "un-detenu-meurt-sous-garde-federale-au-centre-psychiatrique-b69f6a"
+  },
+  {
+   "titre": "Le Canada clôt à Victoria la conférence des chefs d'état-major de la défense de l'Indo-Pacifique",
+   "cahier": "canada",
+   "rubrique": "conflits",
+   "territoire": "Colombie-Britannique",
+   "medias": "Gouvernement du Canada",
+   "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/09/le-canada-clot-la-28e-conference-des-chefs-detat-major-de-la-defense-de-lindopacifique-a-victoria.html",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/09/le-canada-clot-la-28e-conference-des-chefs-detat-major-de-la-defense-de-lindopacifique-a-victoria.html",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Le Canada a clos à Victoria la 28e conférence des chefs d'état-major de la défense de l'Indo-Pacifique, qui a réuni de hauts dirigeants militaires et experts de la région autour de la sécurité collective.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "le-canada-clot-a-victoria-la-conference-des-chefs-d-etat-maj-c1cce2",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "le-canada-clot-a-victoria-la-conference-des-chefs-d-etat-maj-c1cce2"
+  },
+  {
+   "titre": "Le Canada et l'Inde tiennent des consultations diplomatiques",
+   "cahier": "canada",
+   "rubrique": "conflits",
+   "territoire": "Canada",
+   "medias": "Gouvernement du Canada",
+   "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/consultations-entre-les-ministeres-des-affaires-etrangeres-de-linde-et-du-canada.html",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/consultations-entre-les-ministeres-des-affaires-etrangeres-de-linde-et-du-canada.html",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Les ministères des Affaires étrangères de l'Inde et du Canada ont tenu des consultations bilatérales où les deux parties ont réaffirmé l'importance de leurs liens, fondés notamment sur le respect de la souveraineté et de l'intégrité territoriale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "le-canada-et-l-inde-tiennent-des-consultations-diplomatiques-e57843",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "le-canada-et-l-inde-tiennent-des-consultations-diplomatiques-e57843"
+  },
+  {
+   "titre": "Le TMF ordonne à deux personnes de cesser un exercice illégal en assurance de dommages",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Gouvernement du Québec",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/exercice-illegal-en-assurance-de-dommages-le-tmf-ordonne-a-alexander-wuilfredo-agrizone-freites-et-marlin-ysbelia-medina-castaneda-de-cesser-leurs-activites-72373",
+   "sources": [
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/exercice-illegal-en-assurance-de-dommages-le-tmf-ordonne-a-alexander-wuilfredo-agrizone-freites-et-marlin-ysbelia-medina-castaneda-de-cesser-leurs-activites-72373",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Le Tribunal administratif des marchés financiers a ordonné à Alexander Wuilfredo Agrizone Freites et à Marlin Ysbelia Medina Castaneda de cesser tout exercice illégal en assurance de dommages, à la suite d'une demande d'urgence de l'Autorité des marchés financiers.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "le-tmf-ordonne-a-deux-personnes-de-cesser-un-exercice-illega-048ecc",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "le-tmf-ordonne-a-deux-personnes-de-cesser-un-exercice-illega-048ecc"
+  },
+  {
+   "titre": "Québec lance l'appel de candidatures 2026 pour valoriser la profession enseignante",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Gouvernement du Québec",
+   "url": "http://www.fil-information.gouv.qc.ca/Pages/Article.aspx",
+   "sources": [
+    {
+     "media": "Gouvernement du Québec",
+     "url": "http://www.fil-information.gouv.qc.ca/Pages/Article.aspx",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Le ministère de l'Éducation et le ministère de l'Enseignement supérieur lancent l'appel de candidatures 2026 de l'Ordre de l'excellence en éducation du Québec, destiné à reconnaître le travail du personnel qui contribue à la qualité du système scolaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "quebec-lance-l-appel-de-candidatures-2026-pour-valoriser-la-8e2f10",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "quebec-lance-l-appel-de-candidatures-2026-pour-valoriser-la-8e2f10"
+  },
+  {
+   "titre": "L'ASFC amorce la modernisation du poste frontalier de Paterson, en Colombie-Britannique",
+   "cahier": "canada",
+   "rubrique": "transport",
+   "territoire": "Colombie-Britannique",
+   "medias": "Gouvernement du Canada",
+   "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2026/09/lasfc-lance-les-travaux-de-modernisation-du-point-dentree-de-paterson-en-colombie-britannique.html",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2026/09/lasfc-lance-les-travaux-de-modernisation-du-point-dentree-de-paterson-en-colombie-britannique.html",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "L'Agence des services frontaliers du Canada amorce les travaux de modernisation du poste frontalier de Paterson, en Colombie-Britannique, dans le cadre de son plan de modernisation des infrastructures frontalières terrestres.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "l-asfc-amorce-la-modernisation-du-poste-frontalier-de-paters-e58cc2",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "l-asfc-amorce-la-modernisation-du-poste-frontalier-de-paters-e58cc2"
+  },
+  {
+   "titre": "La ministre Anand participe à une réunion Gymnich à l'invitation de l'Irlande",
+   "cahier": "canada",
+   "rubrique": "conflits",
+   "territoire": "Canada",
+   "medias": "Gouvernement du Canada",
+   "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-sentretient-avec-la-ministre-des-affaires-etrangeres-et-du-commerce-et-ministre-de-la-defense-de-lirlande.html",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-sentretient-avec-la-ministre-des-affaires-etrangeres-et-du-commerce-et-ministre-de-la-defense-de-lirlande.html",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "La ministre canadienne des Affaires étrangères Anita Anand s'est entretenue avec son homologue irlandaise Helen McEntee à l'occasion d'une réunion Gymnich, saluant le rôle de l'Irlande dans la présidence du Conseil de l'Union européenne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "la-ministre-anand-participe-a-une-reunion-gymnich-a-l-invita-03ce95",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "la-ministre-anand-participe-a-une-reunion-gymnich-a-l-invita-03ce95"
+  },
+  {
+   "titre": "Le Bureau du coroner publie six nouvelles séries de recommandations",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Bureau du coroner",
+   "url": "https://www.coroner.gouv.qc.ca/medias/actualites/detail/actualite/298",
+   "sources": [
+    {
+     "media": "Bureau du coroner",
+     "url": "https://www.coroner.gouv.qc.ca/medias/actualites/detail/actualite/298",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Le Bureau du coroner du Québec publie six nouvelles séries de recommandations visant à protéger la vie, portant notamment sur l'accès au matériel de réanimation, la prise en charge des dépendances et de la médication, le suivi des examens prescrits, les obstructions intestinales et la sécurisation des sites industriels abandonnés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "le-bureau-du-coroner-publie-six-nouvelles-series-de-recomman-e65f03",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "le-bureau-du-coroner-publie-six-nouvelles-series-de-recomman-e65f03"
+  },
+  {
+   "titre": "Alberta : la première ministre Smith attribue à un «pépin» le retrait d'une mention aux peuples autochtones",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "APTN News",
+   "url": "https://www.aptnnews.ca/national-news/removing-a-nod-to-indigenous-peoples-from-alberta-birthday-note-glitch-fixed-smith/",
+   "sources": [
+    {
+     "media": "APTN News",
+     "url": "https://www.aptnnews.ca/national-news/removing-a-nod-to-indigenous-peoples-from-alberta-birthday-note-glitch-fixed-smith/",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "La première ministre albertaine Danielle Smith attribue à un «pépin» technique le retrait d'une mention aux peuples autochtones dans un message diffusé pour l'anniversaire de la province, après que la correction eut suscité des critiques, rapporte APTN News.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "alberta-la-premiere-ministre-smith-attribue-a-un-pepin-le-re-f3b5ff",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "alberta-la-premiere-ministre-smith-attribue-a-un-pepin-le-re-f3b5ff"
+  },
+  {
+   "titre": "L'Alberta autorise désormais la destruction d'un plus grand nombre de milieux humides",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Alberta",
+   "medias": "The Narwhal",
+   "url": "https://thenarwhal.ca/alberta-water-act-wetlands-changes/",
+   "sources": [
+    {
+     "media": "The Narwhal",
+     "url": "https://thenarwhal.ca/alberta-water-act-wetlands-changes/",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Une modification réglementaire albertaine permet désormais aux agriculteurs de détruire un plus grand nombre de milieux humides, rapporte le média environnemental The Narwhal.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "l-alberta-autorise-desormais-la-destruction-d-un-plus-grand-6e4594",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "l-alberta-autorise-desormais-la-destruction-d-un-plus-grand-6e4594"
+  },
+  {
+   "titre": "42 incidents recensés dans des mines de charbon albertaines en trois ans",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Alberta",
+   "medias": "The Narwhal",
+   "url": "https://thenarwhal.ca/alberta-coal-violations/",
+   "sources": [
+    {
+     "media": "The Narwhal",
+     "url": "https://thenarwhal.ca/alberta-coal-violations/",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "resume": "Une compilation de données par The Narwhal recense 42 incidents environnementaux survenus dans des mines de charbon albertaines au cours des trois dernières années.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T06:10-04:00",
+   "permalien": "42-incidents-recenses-dans-des-mines-de-charbon-albertaines-09a7e5",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-03.json",
+   "_slug": "42-incidents-recenses-dans-des-mines-de-charbon-albertaines-09a7e5"
+  },
+  {
    "titre": "L'assassin présumé de Charlie Kirk, Tyler Robinson, sera jugé et risque la peine de mort",
    "cahier": "international",
    "rubrique": "justice",
@@ -955,34 +1485,11 @@
    "_slug": "mort-de-nooran-rezayi-bataille-juridique-sur-la-divulgation-17ce1f"
   },
   {
-   "titre": "Un étudiant chinois résidant au Canada visé par des accusations d'espionnage aux États-Unis",
-   "cahier": "canada",
-   "rubrique": "justice",
-   "territoire": "Canada",
-   "medias": "Le Devoir",
-   "url": "https://www.ledevoir.com/monde/1005842/etudiant-chinois-resident-canada-soupconne-espionnage-americains",
-   "resume": "Un étudiant chinois résident permanent au Canada fait l'objet d'accusations portées la semaine dernière aux États-Unis pour un cas d'espionnage survenu sur les deux territoires ; il a notamment admis s'être introduit en 2025 sans autorisation dans un entrepôt de FedEx à l'aéroport Pearson de Toronto pour y prendre des photos, avant d'être surpris et expulsé des lieux, selon Le Devoir.",
-   "photo": "",
-   "legende": "",
-   "horodate": "2026-09-02T13:42-04:00",
-   "sources": [
-    {
-     "media": "Le Devoir",
-     "url": "https://www.ledevoir.com/monde/1005842/etudiant-chinois-resident-canada-soupconne-espionnage-americains",
-     "date": "2026-09-02T14:24-04:00"
-    }
-   ],
-   "permalien": "un-etudiant-chinois-residant-au-canada-vise-par-des-accusati-bdbd66",
-   "_fichier": "revue-report-2026-09-03.json",
-   "_volet": "report",
-   "_slug": "un-etudiant-chinois-residant-au-canada-vise-par-des-accusati-bdbd66"
-  },
-  {
    "titre": "La Banque du Canada maintient son taux directeur à 2,25 %",
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Finance et Investissement, Radio-Canada",
+   "medias": "Finance et Investissement, Radio-Canada, Global News, TVA Nouvelles, Canada's National Observer",
    "url": "https://www.finance-investissement.com/la-banque-du-canada-maintient-le-cap-2/",
    "resume": "La Banque du Canada a maintenu mercredi son taux directeur à 2,25 %, un niveau inchangé depuis la fin de 2025, invoquant l'incertitude entourant les droits de douane américains et la hausse des prix mondiaux de l'énergie liée au conflit en Iran, selon Finance et Investissement et Radio-Canada.",
    "photo": "",
@@ -993,6 +1500,26 @@
      "media": "Finance et Investissement",
      "url": "https://www.finance-investissement.com/la-banque-du-canada-maintient-le-cap-2/",
      "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279917/taux-directeur-septembre-2026-canada",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12044803/bank-of-canada-holds-key-rate-2-25-per-cent/",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/02/la-banque-du-canada-maintient-son-taux-directeur-pour-la-septieme-fois-de-suite",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/02/news/bank-canada-holds-key-rate-225-cent-once-again",
+     "date": "2026-09-03T06:14-04:00"
     }
    ],
    "permalien": "la-banque-du-canada-maintient-son-taux-directeur-a-2-25-e553f7",
@@ -1028,7 +1555,7 @@
    "cahier": "savoirs",
    "rubrique": "idees",
    "territoire": "",
-   "medias": "La Presse, TVA Nouvelles",
+   "medias": "La Presse, TVA Nouvelles, Radio-Canada, Le Canada Français",
    "url": "https://www.lapresse.ca/arts/musique/2026-09-02/poursuite-contre-suno/la-socan-denonce-l-exploitation-de-ses-contenus-par-une-plateforme-d-ia.php",
    "resume": "La Société canadienne des auteurs, compositeurs et éditeurs de musique (SOCAN) poursuit la plateforme d'intelligence artificielle Suno devant la Cour fédérale, l'accusant d'avoir généré et diffusé des contenus copiant des œuvres de son répertoire, selon La Presse. La poursuite réclame 10 millions de dollars en dommages punitifs et cite un échantillon de 150 chansons générées par IA reprenant des œuvres d'artistes tels qu'Avril Lavigne et Roch Voisine, selon TVA Nouvelles.",
    "photo": "",
@@ -1044,6 +1571,16 @@
      "media": "TVA Nouvelles",
      "url": "https://www.tvanouvelles.ca/2026/09/02/droits-dauteurs--la-socan-poursuit-la-plateforme-dia-suno-inc",
      "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279934/socan-suno-ia-poursuite-droits-auteurs-musique-",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/la-socan-poursuit-suno-pour-lusage-illegal-de-musique-canadienne-par-son-ia/",
+     "date": "2026-09-03T06:14-04:00"
     }
    ],
    "permalien": "la-socan-poursuit-la-plateforme-d-ia-suno-pour-exploitation-72cd39",
@@ -1306,7 +1843,7 @@
    "cahier": "canada",
    "rubrique": "societe",
    "territoire": "Canada atlantique",
-   "medias": "Acadie Nouvelle, Le Devoir",
+   "medias": "Acadie Nouvelle, Le Devoir, TVA Nouvelles, CBC, La Presse, Radio-Canada, Global News",
    "url": "https://www.acadienouvelle.com/atlantique/2026/09/02/hilroy-presente-ses-excuses-pour-avoir-tronque-la-carte-du-canada-sur-ses-cahiers/",
    "resume": "Le fabricant de fournitures scolaires Hilroy a présenté ses excuses après la découverte, sur la couverture de cahiers vendus notamment chez Walmart à Fredericton, d'une carte du Canada où Terre-Neuve et une partie de la Nouvelle-Écosse sont absentes, selon Acadie Nouvelle et Le Devoir.",
    "photo": "",
@@ -1322,6 +1859,31 @@
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/actualites/societe/1005896/hilroy-presente-excuses-avoir-tronque-partie-canada-cahiers-canada",
      "date": "2026-09-02T16:05-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/02/nous-sommes-desoles-hilroy-oublie-terre-neuve-et-le-cap-breton-sur-ses-cahiers-canada",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/nova-scotia/hilroy-leaves-newfoundland-cape-breton-off-notebooks-9.7329778",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/2026-09-02/terre-neuve-disparait-des-cahiers-canada.php",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/1-10750962/une-carte-canada-sans-terre-neuve-sur-cahiers-hilroy",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12044871/hilroy-notebooks-canadian-map-error/",
+     "date": "2026-09-03T06:14-04:00"
     }
    ],
    "permalien": "hilroy-s-excuse-d-avoir-tronque-une-partie-du-canada-sur-la-9eb435",
@@ -1507,9 +2069,9 @@
    "cahier": "canada",
    "rubrique": "conflits",
    "territoire": "Canada",
-   "medias": "Journal de Québec, Globe and Mail",
+   "medias": "Journal de Québec, Globe and Mail, Le Devoir, La Presse, National Post, Global News",
    "url": "https://www.journaldequebec.com/2026/09/02/les-etats-unis-pourraient-ils-envahir-le-canada-un-amiral-americain-juge-la-question-inutilement-emotionnelle-mais-dit-quil-obeirait-aux-ordres-de-trump",
-   "resume": "Le commandant du commandement américain de l'Indo-Pacifique, l'amiral Samuel Paparo, a qualifié d'« inutilement émotionnelle » et d'« absolument ridicule » toute question sur une éventuelle attaque des États-Unis contre le Canada, précisant néanmoins qu'il obéirait aux ordres si Donald Trump lui en donnait un, selon le Journal de Québec et le Globe and Mail.",
+   "resume": "Le commandant du commandement américain de l'Indo-Pacifique, l'amiral Samuel Paparo, a qualifié d'« inutilement émotionnelle » et d'« absolument ridicule » toute question sur une éventuelle attaque des États-Unis contre le Canada, précisant néanmoins qu'il obéirait aux ordres si Donald Trump lui en donnait un, selon le Journal de Québec et le Globe and Mail. Le premier ministre Mark Carney refuse pour sa part de négocier tant que Washington « insultera » le Canada, rapporte La Presse.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-02T19:26-04:00",
@@ -1523,6 +2085,26 @@
      "media": "Globe and Mail",
      "url": "https://www.theglobeandmail.com/business/economy/article-us-military-commander-canada-invasion-preposterous-indo-pacific/",
      "date": "2026-09-02T19:26-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/1006049/commandant-americain-balaie-revers-main-idee-invasion-canada",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/national/2026-09-02/relations-canada-etats-unis/un-conflit-militaire-est-un-scenario-absurde-selon-un-amiral-americain.php",
+     "date": "2026-09-03T05:40-04:00"
+    },
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/u-s-admiral-compares-military-action-against-canada-to-fighting-extraterrestrials",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12044929/canada-indispensable-ally-in-indo-pacific-u-s-admiral/",
+     "date": "2026-09-03T06:14-04:00"
     }
    ],
    "permalien": "un-commandant-americain-juge-inutilement-emotionnelle-l-idee-4781fa",
@@ -1909,7 +2491,7 @@
    "cahier": "canada",
    "rubrique": "justice",
    "territoire": "Ontario",
-   "medias": "Le Devoir, Le Canada Français",
+   "medias": "Le Devoir, Le Canada Français, Radio-Canada, CBC, La Presse",
    "url": "https://www.ledevoir.com/actualites/justice/1005842/etudiant-chinois-resident-canada-soupconne-espionnage-americains",
    "resume": "Weiheng Zeng, citoyen chinois et résident permanent du Canada inscrit à l'Université de Waterloo, est accusé aux États-Unis d'avoir photographié des installations dans des aéroports de Toronto et de Chicago pour le compte d'un interlocuteur qu'il croyait être un représentant du gouvernement chinois, selon une déclaration sous serment d'un agent du FBI déposée devant un tribunal du Michigan.",
    "photo": "",
@@ -1925,6 +2507,21 @@
      "media": "Le Canada Français",
      "url": "https://www.canadafrancais.com/nouvelles-nationales/un-etudiant-en-ontario-accuse-dans-le-cadre-dune-enquete-de-contre-espionnage-du-fbi/",
      "date": "2026-09-02T22:02-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280145/photos-avions-chicago-fbi-waterloo",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/world/university-of-waterloo-student-arrested-michigan-9.7328984",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-02/ontario/un-etudiant-accuse-dans-le-cadre-d-une-enquete-de-contre-espionnage-du-fbi.php",
+     "date": "2026-09-03T06:14-04:00"
     }
    ],
    "permalien": "un-etudiant-de-l-ontario-accuse-d-espionnage-aux-etats-unis-1cdcbf",
@@ -1983,7 +2580,7 @@
    "cahier": "montreal",
    "rubrique": "justice",
    "territoire": "Montréal",
-   "medias": "Zone911",
+   "medias": "Zone911, Journal Métro, TVA Nouvelles, Global News, La Presse",
    "url": "https://zone911.com/scenes-policieres/pres-de-800-000-doutils-voles-demantelement-de-deux-reseaux-de-revente",
    "resume": "Le Service de police de la Ville de Montréal a démantelé deux réseaux criminels distincts responsables du vol à l'étalage de près de 800 000 $ d'outils neufs dans des centres de rénovation et quincailleries de la région métropolitaine, des voleurs opérant en groupe durant les heures d'ouverture selon le commandant Éric Lafontaine, chef de la section Accès et produits de la criminalité.",
    "photo": "",
@@ -1994,6 +2591,26 @@
      "media": "Zone911",
      "url": "https://zone911.com/scenes-policieres/pres-de-800-000-doutils-voles-demantelement-de-deux-reseaux-de-revente",
      "date": "2026-09-02T22:02-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/montreal/3226265/le-spvm-demantele-deux-reseaux-de-vol-d-outils-neufs-pres-de-800-000-saisis/",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/02/ils-auraient-vole-pour-800-000--doutils-neufs-dans-des-quincailleries",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12044940/stolen-tools-montreal-police/",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-02/montreal/800-000-d-outils-neufs-saisis-deux-reseaux-demanteles.php",
+     "date": "2026-09-03T06:14-04:00"
     }
    ],
    "permalien": "demantelement-de-deux-reseaux-de-vol-d-outils-a-montreal-pre-7fe573",
@@ -3117,7 +3734,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "QUB radio, Le Journal de Montréal, Parti conservateur du Canada, Le Devoir",
+   "medias": "QUB radio, Le Journal de Montréal, Parti conservateur du Canada, Le Devoir, La Presse, Radio-Canada, Canada's National Observer, Gouvernement du Canada",
    "url": "https://www.qub.ca/2026/09/01/pas-une-bonne-idee-de-prolonger-le-conge-de-taxe-daccise-sur-lessence-dit-un-expert",
    "resume": "L'économiste Pierre-Olivier Pineau, de HEC Montréal, juge qu'Ottawa ne devrait pas prolonger au-delà du 8 septembre le congé de 10 ¢ sur la taxe d'accise fédérale sur l'essence, décrété en avril : une baisse temporaire, prévient-il, finit par devenir permanente et prive l'État de revenus, comme cela s'est produit en Ontario.\n\nLe chroniqueur du Journal de Montréal Francis Gosselin plaide le contraire : la conjoncture énergétique s'est détériorée depuis avril — détroit d'Ormuz toujours fermé, réserve stratégique américaine tombée à 289 millions de barils contre 727 millions en 2010, tarifs américains qui ont renchéri de plus de 3 G$ le coût de l'aluminium et des pièces automobiles —, ce qui rend le retour de la taxe intenable, selon lui.\n\nLe Parti conservateur du Canada exhorte de son côté directement le gouvernement Carney à ne pas laisser prendre fin le congé de taxe le 8 septembre, qualifiant toute hausse de la taxe d'accise en pleine guerre commerciale de mesure à éviter.\n\n**Mise à jour, 13 h 42** — Ottawa a tranché : le congé est prolongé jusqu'à la fin de janvier 2027, et le gouvernement Carney a renoncé à environ 2,4 milliards de dollars de revenus depuis le 20 avril, selon Le Devoir.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Petro-Canada_station_at_night%2C_Quebec_City.jpg/1280px-Petro-Canada_station_at_night%2C_Quebec_City.jpg",
@@ -3143,6 +3760,26 @@
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/canada/1005776/ottawa-prolonge-conge-taxe-accise-essence-jusqu-fin-janvier-2027",
      "date": "2026-09-02T13:42-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-02/la-taxe-de-10-cents-sur-l-essence-est-suspendue-jusqu-en-janvier-2027.php",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279891/essence-taxe-accise-diesel",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/02/news/ottawa-announce-extension-gas-tax-holiday-beyond-labour-day",
+     "date": "2026-09-03T06:14-04:00"
+    },
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/09/le-gouvernement-du-canada-prolonge-lallegement-de-la-taxe-daccise-federale-sur-lessence-le-combustible-diesel-et-les-carburants-aviation-pour-les-c.html",
+     "date": "2026-09-03T06:14-04:00"
     }
    ],
    "permalien": "le-conge-de-taxe-d-accise-sur-l-essence-ne-devrait-pas-etre-78d9e8",
