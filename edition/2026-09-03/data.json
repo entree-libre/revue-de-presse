@@ -3,6 +3,7 @@
  "volets": [
   "elections",
   "hors-rss",
+  "local",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -34,6 +35,7 @@
     }
    ],
    "permalien": "controverses-de-candidats-le-pcq-seul-parti-a-n-avoir-exclu-f3e99f",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "controverses-de-candidats-le-pcq-seul-parti-a-n-avoir-exclu-f3e99f"
@@ -46,8 +48,8 @@
    "medias": "Québecor",
    "url": "https://www.journaldequebec.com/2026/09/03/inquietude-chez-les-liberaux-frechette-en-train-de-manger-leur-lunch",
    "resume": "Des candidats et organisateurs libéraux confient être inquiets du début de campagne de Charles Milliard, jugeant que Christine Fréchette empiète sur leur terrain depuis ses annonces avec Ottawa — un déclin que le chroniqueur Joseph Facal attribue aux plus récents sondages, qui donneraient désormais la CAQ devant le PLQ.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Christine Fréchette",
    "horodate": "2026-09-03T03:27-04:00",
    "sources": [
     {
@@ -62,6 +64,9 @@
     }
    ],
    "permalien": "le-plq-inquiet-de-son-debut-de-campagne-face-a-une-caq-qui-m-72ce80",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "image_auto": "wikipedia-fr:Christine Fréchette",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-plq-inquiet-de-son-debut-de-campagne-face-a-une-caq-qui-m-72ce80"
@@ -90,6 +95,7 @@
     }
    ],
    "permalien": "sante-le-pq-et-le-pcq-promettent-d-abolir-sante-quebec-la-ca-ed74ca",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "sante-le-pq-et-le-pcq-promettent-d-abolir-sante-quebec-la-ca-ed74ca"
@@ -113,6 +119,7 @@
     }
    ],
    "permalien": "fonction-publique-les-partis-en-surenchere-de-compressions-s-7e9bd5",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "fonction-publique-les-partis-en-surenchere-de-compressions-s-7e9bd5"
@@ -136,6 +143,7 @@
     }
    ],
    "permalien": "intelligence-artificielle-quatre-partis-s-engagent-envers-le-5cbf75",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "intelligence-artificielle-quatre-partis-s-engagent-envers-le-5cbf75"
@@ -159,6 +167,7 @@
     }
    ],
    "permalien": "education-le-conseil-en-education-des-premieres-nations-recl-145aae",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "education-le-conseil-en-education-des-premieres-nations-recl-145aae"
@@ -171,8 +180,8 @@
    "medias": "La Presse",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/liste-de-lectures-obligatoires/la-promesse-du-pq-risque-de-politiser-la-litterature-d-ici.php",
    "resume": "Paul St-Pierre Plamondon s'est engagé à rendre obligatoire, au secondaire, une liste de lectures de « classiques québécois » en français — une promesse que l'ex-didacticienne Suzanne G. Chartrand juge biaisée politiquement selon le parti au pouvoir, et qu'un professeur de l'ENAP, Philippe Dubois, lit d'abord comme un calcul électoral ciblant l'électorat nationaliste.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Paul.St-Pierre.Plamondon.cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Paul St-Pierre Plamondon",
    "horodate": "2026-09-03T05:21-04:00",
    "sources": [
     {
@@ -187,6 +196,9 @@
     }
    ],
    "permalien": "le-pq-promet-une-liste-de-lectures-obligatoire-de-classiques-477dbb",
+   "photo_auteur": "UnPingouin",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Paul St-Pierre Plamondon",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-pq-promet-une-liste-de-lectures-obligatoire-de-classiques-477dbb"
@@ -235,6 +247,7 @@
     }
    ],
    "permalien": "un-nouveau-parti-osons-quebec-autorise-en-pleine-campagne-b25cd2",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "un-nouveau-parti-osons-quebec-autorise-en-pleine-campagne-b25cd2"
@@ -244,11 +257,11 @@
    "cahier": "elections",
    "rubrique": "societe",
    "territoire": "Québec",
-   "medias": "Parti conservateur du Québec",
+   "medias": "Parti conservateur du Québec, Coops de l'information",
    "url": "https://conservateur.quebec/actualites/",
    "resume": "Le chef du Parti conservateur du Québec, Éric Duhaime, accompagné de sa porte-parole en matière de famille, Patricia Drouin, a présenté le 3 septembre un « plan famille » en trois volets pour réduire les coûts de garde, rendre accessibles des milliers de places vacantes et soutenir financièrement les parents qui gardent leurs jeunes enfants à la maison. Plus de 30 600 enfants attendent toujours une place en service de garde, selon le parti.\n\n**Mise à jour, 09h25** — Le PCQ chiffre son plan à 1,4 G$ sur cinq ans, incluant une allocation de 100 $ par semaine pour les parents qui gardent leur enfant à la maison (La Presse).",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%C3%89ric_Duhaime_2022-07-05_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Éric Duhaime",
    "horodate": "2026-09-03T09:25-04:00",
    "sources": [
     {
@@ -275,9 +288,42 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-8-le-pcq-veut-payer-100-aux-familles-qui-gardent-leurs-bambins-a-la-maison/",
      "date": "2026-09-03T10:21-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/03/plan-famille-du-pcq-14-milliard-pour-les-services-de-garde-473L5B2AVBENBIKA6ZZCNSP2YU/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/03/plan-famille-du-pcq-14-milliard-pour-les-services-de-garde-473L5B2AVBENBIKA6ZZCNSP2YU/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/03/plan-famille-du-pcq-14-milliard-pour-les-services-de-garde-473L5B2AVBENBIKA6ZZCNSP2YU/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/03/plan-famille-du-pcq-14-milliard-pour-les-services-de-garde-473L5B2AVBENBIKA6ZZCNSP2YU/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/03/plan-famille-du-pcq-14-milliard-pour-les-services-de-garde-473L5B2AVBENBIKA6ZZCNSP2YU/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/03/plan-famille-du-pcq-14-milliard-pour-les-services-de-garde-473L5B2AVBENBIKA6ZZCNSP2YU/",
+     "date": "2026-09-03T12:21-04:00"
     }
    ],
    "permalien": "le-pcq-propose-un-plan-famille-pour-desengorger-les-services-a8d7f5",
+   "photo_auteur": "Asclepias",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-fr:Éric Duhaime",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-pcq-propose-un-plan-famille-pour-desengorger-les-services-a8d7f5"
@@ -301,6 +347,7 @@
     }
    ],
    "permalien": "une-affiche-du-pq-abattue-a-la-masse-a-kahnawa-ke-ou-la-loi-9717a8",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "une-affiche-du-pq-abattue-a-la-masse-a-kahnawa-ke-ou-la-loi-9717a8"
@@ -313,8 +360,8 @@
    "medias": "CTV News (La Presse canadienne), Journal de Montréal",
    "url": "https://www.ctvnews.ca/montreal/article/pspp-donations-to-federal-liberals-in-the-spotlight-on-the-quebec-campaign-trail/",
    "resume": "Le chef du Parti québécois, Paul St-Pierre Plamondon, a versé plus de 2000 $ au Parti libéral du Canada entre 2004 et 2008 alors qu'il était avocat chez Stikeman Elliott, une révélation d'abord rapportée par Le Journal de Montréal ; son entourage attribue ces dons aux usages des campagnes de financement dans les cabinets d'avocats de l'époque. Ses adversaires en ont fait des pointes sur la campagne sans remettre en question ses convictions souverainistes actuelles, rapporte La Presse canadienne.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Paul.St-Pierre.Plamondon.cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Paul St-Pierre Plamondon",
    "horodate": "2026-09-03T08:57-04:00",
    "sources": [
     {
@@ -324,6 +371,9 @@
     }
    ],
    "permalien": "le-chef-du-pq-a-verse-plus-de-2000-au-parti-liberal-du-canad-90edbb",
+   "photo_auteur": "UnPingouin",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Paul St-Pierre Plamondon",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-chef-du-pq-a-verse-plus-de-2000-au-parti-liberal-du-canad-90edbb"
@@ -347,6 +397,7 @@
     }
    ],
    "permalien": "un-candidat-conservateur-s-excuse-d-avoir-souhaite-l-euthana-ae0b54",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "un-candidat-conservateur-s-excuse-d-avoir-souhaite-l-euthana-ae0b54"
@@ -359,8 +410,8 @@
    "medias": "CBC",
    "url": "https://www.cbc.ca/news/canada/montreal/quebec-taxes-election-9.7329282",
    "resume": "Le fardeau fiscal global du Québec est bien le plus élevé des dix provinces, à 38,6 % du PIB en 2024, une donnée que le chef conservateur Éric Duhaime invoque pour justifier ses baisses d'impôt promises ; mais un chercheur de l'Université de Sherbrooke nuance, rapporte CBC : une fois les transferts et crédits soustraits, une famille monoparentale à revenu modeste y supporte le fardeau net le plus léger au pays, seuls les particuliers à revenu élevé sans enfants étant taxés plus lourdement qu'ailleurs.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%C3%89ric_Duhaime_2022-07-05_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Éric Duhaime",
    "horodate": "2026-09-03T08:57-04:00",
    "sources": [
     {
@@ -370,6 +421,9 @@
     }
    ],
    "permalien": "le-quebec-a-bien-le-fardeau-fiscal-le-plus-lourd-au-pays-mai-c1dd81",
+   "photo_auteur": "Asclepias",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-fr:Éric Duhaime",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-quebec-a-bien-le-fardeau-fiscal-le-plus-lourd-au-pays-mai-c1dd81"
@@ -382,8 +436,8 @@
    "medias": "Radio-Canada",
    "url": "https://ici.radio-canada.ca/nouvelle/2280172/campagne-parti-quebecois-matane",
    "resume": "Le député sortant et candidat du Parti québécois dans Matane-Matapédia-Mitis, Pascal Bérubé, a lancé sa campagne à Sainte-Luce en sollicitant un septième mandat, sans nouvel engagement électoral, misant sur son bilan de député depuis 2007.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pascal_B%C3%A9rub%C3%A9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Pascal Bérubé",
    "horodate": "2026-09-03T09:25-04:00",
    "sources": [
     {
@@ -393,6 +447,9 @@
     }
    ],
    "permalien": "le-pequiste-pascal-berube-sollicite-un-7e-mandat-dans-matane-57ea45",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "image_auto": "wikipedia-fr:Pascal Bérubé",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-pequiste-pascal-berube-sollicite-un-7e-mandat-dans-matane-57ea45"
@@ -416,6 +473,7 @@
     }
    ],
    "permalien": "diabete-quebec-presse-les-partis-de-s-engager-en-campagne-su-0646ee",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "diabete-quebec-presse-les-partis-de-s-engager-en-campagne-su-0646ee"
@@ -444,6 +502,7 @@
     }
    ],
    "permalien": "quebec-solidaire-complete-son-equipe-de-candidats-au-saguena-6d7759",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "quebec-solidaire-complete-son-equipe-de-candidats-au-saguena-6d7759"
@@ -467,6 +526,7 @@
     }
    ],
    "permalien": "le-parti-quebecois-complete-ses-candidatures-a-laval-avec-mi-26feeb",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-parti-quebecois-complete-ses-candidatures-a-laval-avec-mi-26feeb"
@@ -490,6 +550,9 @@
     }
    ],
    "permalien": "un-candidat-ecarte-par-le-plq-dans-rimouski-denonce-le-manqu-1e82c2",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "un-candidat-ecarte-par-le-plq-dans-rimouski-denonce-le-manqu-1e82c2"
@@ -499,7 +562,7 @@
    "cahier": "elections",
    "rubrique": "education",
    "territoire": "Québec",
-   "medias": "Les Affaires",
+   "medias": "Les Affaires, La Presse",
    "url": "https://www.lesaffaires.com/communique-de-presse/quebec-solidaire-va-taxer-les-grandes-fortunes-pour-reparer-lecole-publique/",
    "resume": "Québec solidaire propose de créer un impôt sur la fortune des quelque 4 000 ménages québécois possédant plus de 25 millions de dollars, une mesure chiffrée par le parti à 5 milliards de dollars par année. Les revenus seraient consacrés à l'éducation publique : hausse des salaires enseignants à la prochaine négociation, 135 millions pour des professionnels auprès des élèves à besoins particuliers, 200 millions pour un « Réseau commun » de projets pédagogiques et 44 millions pour la rémunération des stages.\n\n« Le prochain gouvernement aura un choix à faire : couper encore dans nos services publics ou aller chercher plus d'argent en taxant les grandes fortunes », a déclaré la porte-parole Ruba Ghazal.",
    "photo": "",
@@ -510,12 +573,205 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/communique-de-presse/quebec-solidaire-va-taxer-les-grandes-fortunes-pour-reparer-lecole-publique/",
      "date": "2026-09-03T10:21-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/taxe-sur-les-grandes-fortunes/quebec-solidaire-prevoit-recuperer-5-milliards.php",
+     "date": "2026-09-03T12:21-04:00"
     }
    ],
    "permalien": "quebec-solidaire-propose-un-impot-sur-la-fortune-des-plus-ri-cd82b5",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "quebec-solidaire-propose-un-impot-sur-la-fortune-des-plus-ri-cd82b5"
+  },
+  {
+   "titre": "Fréchette promet un coup de pouce aux aînés et accuse Duhaime et St-Pierre Plamondon",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "La Presse, Le Devoir, Les Affaires, Coops de l'information",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/aides-financieres/frechette-courtise-encore-les-aines.php",
+   "resume": "En campagne à Roxton Pond, la cheffe caquiste Christine Fréchette promet de faire passer de 2 000 $ à 2 200 $ le crédit d'impôt pour le soutien aux aînés à faible revenu et d'exempter jusqu'à 35 000 $ de revenu d'emploi pour les 65 ans et plus dans les professions en pénurie, deux mesures chiffrées par la CAQ à environ 270 millions de dollars par année. En marge de l'annonce, elle a accusé le chef conservateur Éric Duhaime de vouloir « défaire » le réseau des CPE avec son allocation aux parents à la maison, et reproché au chef péquiste Paul St-Pierre Plamondon de vivre dans un « pays imaginaire ».",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Christine Fréchette",
+   "horodate": "2026-09-03T12:21-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/aides-financieres/frechette-courtise-encore-les-aines.php",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006184/duhaime-veut-femmes-maison-pspp-pays-imaginaire-attaque-frechette",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-8-la-caq-porte-ses-engagements-aux-aines-a-25g/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/03/frechette-veut-plus-dargent-dans-les-poches-des-aines-A7HMBJS5CFF2ZPO76GE2HE6H5Q/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/03/frechette-veut-plus-dargent-dans-les-poches-des-aines-A7HMBJS5CFF2ZPO76GE2HE6H5Q/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/03/frechette-veut-plus-dargent-dans-les-poches-des-aines-A7HMBJS5CFF2ZPO76GE2HE6H5Q/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/03/frechette-veut-plus-dargent-dans-les-poches-des-aines-A7HMBJS5CFF2ZPO76GE2HE6H5Q/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/03/frechette-veut-plus-dargent-dans-les-poches-des-aines-A7HMBJS5CFF2ZPO76GE2HE6H5Q/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/03/frechette-veut-plus-dargent-dans-les-poches-des-aines-A7HMBJS5CFF2ZPO76GE2HE6H5Q/",
+     "date": "2026-09-03T12:21-04:00"
+    }
+   ],
+   "permalien": "frechette-promet-un-coup-de-pouce-aux-aines-et-accuse-duhaim-924400",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "image_auto": "wikipedia-fr:Christine Fréchette",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "frechette-promet-un-coup-de-pouce-aux-aines-et-accuse-duhaim-924400"
+  },
+  {
+   "titre": "Le PLQ propose une plateforme de télésanté publique plutôt que de miser sur le privé",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Coops de l'information",
+   "url": "https://www.ledevoir.com/politique/quebec/1006178/il-ne-faut-pas-resigner-voir-affaiblir-reseau-public-sante-dit-milliard",
+   "resume": "Le chef libéral Charles Milliard propose de créer une plateforme de télésanté intégrée au réseau public — accessible aux premiers patients deux ans après l'élection et à tous avant quatre ans, avec médecins, infirmières praticiennes spécialisées et infirmières —, jugeant qu'il faut « défendre » et « réparer » le réseau public plutôt que de « se résigner à le voir s'affaiblir ». Il a par ailleurs qualifié Christine Fréchette d'« opportuniste » qui mise sur le privé, se disant lui « le seul fédéraliste » de la campagne face à un PQ souverainiste et une CAQ jugée versatile.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/A9306522-Modifier-30_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Charles Milliard",
+   "horodate": "2026-09-03T12:21-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006178/il-ne-faut-pas-resigner-voir-affaiblir-reseau-public-sante-dit-milliard",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/03/charles-milliard-promet-une-plateforme-de-telesante-100-publique-CJMNG5QWIFAXZFSVUWQHQROS44/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/03/charles-milliard-promet-une-plateforme-de-telesante-100-publique-CJMNG5QWIFAXZFSVUWQHQROS44/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/03/charles-milliard-promet-une-plateforme-de-telesante-100-publique-CJMNG5QWIFAXZFSVUWQHQROS44/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/03/charles-milliard-promet-une-plateforme-de-telesante-100-publique-CJMNG5QWIFAXZFSVUWQHQROS44/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/03/charles-milliard-promet-une-plateforme-de-telesante-100-publique-CJMNG5QWIFAXZFSVUWQHQROS44/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/03/charles-milliard-promet-une-plateforme-de-telesante-100-publique-CJMNG5QWIFAXZFSVUWQHQROS44/",
+     "date": "2026-09-03T12:21-04:00"
+    }
+   ],
+   "permalien": "le-plq-propose-une-plateforme-de-telesante-publique-plutot-q-11d9d4",
+   "photo_auteur": "Amélie Caron",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Charles Milliard",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "le-plq-propose-une-plateforme-de-telesante-publique-plutot-q-11d9d4"
+  },
+  {
+   "titre": "St-Pierre Plamondon ne compte pas durcir le ton contre Glencore à Rouyn-Noranda",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec (Rouyn-Noranda)",
+   "medias": "Radio-Canada, Les Affaires",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280310/st-pierre-plamondon-fonderie-horne-glencore",
+   "resume": "Le chef péquiste Paul St-Pierre Plamondon affirme vouloir respecter les ententes actuelles avec Glencore concernant la Fonderie Horne plutôt que de forcer l'entreprise à respecter la norme d'arsenic, sans toutefois fermer complètement la porte à un financement additionnel, qu'il dit ne pas être « sur la table ».",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Paul.St-Pierre.Plamondon.cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Paul St-Pierre Plamondon",
+   "horodate": "2026-09-03T12:21-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280310/st-pierre-plamondon-fonderie-horne-glencore",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-8-le-pq-ne-compte-pas-durcir-le-ton-contre-glencore-a-rouyn-noranda/",
+     "date": "2026-09-03T12:21-04:00"
+    }
+   ],
+   "permalien": "st-pierre-plamondon-ne-compte-pas-durcir-le-ton-contre-glenc-9bb0cf",
+   "photo_auteur": "UnPingouin",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:St-Pierre Plamondon",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "st-pierre-plamondon-ne-compte-pas-durcir-le-ton-contre-glenc-9bb0cf"
+  },
+  {
+   "titre": "Deux candidats caquistes de la Côte-Nord promettent un appel d'intérêt pour un pont sur le Saguenay",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Côte-Nord",
+   "medias": "Le Haute Côte-Nord, Le Manic, Le Nord-Côtier",
+   "url": "https://www.journalhcn.com/2026/09/03/pont-sur-le-saguenay-yves-montigny-et-kateri-champagne-jourdain-promettent-un-appel-dinteret/",
+   "resume": "Les candidats caquistes Yves Montigny et Kateri Champagne Jourdain s'engagent, si la CAQ est réélue, à lancer dans les 100 premiers jours d'un prochain mandat un appel d'intérêt international auprès d'entreprises pour étudier un pont reliant les deux rives du Saguenay.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T12:21-04:00",
+   "sources": [
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/03/pont-sur-le-saguenay-yves-montigny-et-kateri-champagne-jourdain-promettent-un-appel-dinteret/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/03/pont-sur-le-saguenay-yves-montigny-et-kateri-champagne-jourdain-promettent-un-appel-dinteret/",
+     "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/03/pont-sur-le-saguenay-yves-montigny-et-kateri-champagne-jourdain-promettent-un-appel-dinteret/",
+     "date": "2026-09-03T12:21-04:00"
+    }
+   ],
+   "permalien": "deux-candidats-caquistes-de-la-cote-nord-promettent-un-appel-d68ae2",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "deux-candidats-caquistes-de-la-cote-nord-promettent-un-appel-d68ae2"
   },
   {
    "titre": "Beaumont se retire d’un projet de coopérative d’habitation après 572 000 $ de fonds publics",
@@ -536,6 +792,7 @@
     }
    ],
    "permalien": "beaumont-se-retire-dun-projet-de-cooperative-dhabitation-apr-54d2f2",
+   "image_auto": "aucune",
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-03.json",
    "_slug": "beaumont-se-retire-dun-projet-de-cooperative-dhabitation-apr-54d2f2"
@@ -584,6 +841,7 @@
     }
    ],
    "permalien": "le-nouveau-modele-de-transport-scolaire-de-la-beauce-etchemi-165017",
+   "image_auto": "aucune",
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-03.json",
    "_slug": "le-nouveau-modele-de-transport-scolaire-de-la-beauce-etchemi-165017"
@@ -607,6 +865,7 @@
     }
    ],
    "permalien": "un-corps-decouvert-en-bordure-de-la-voie-ferree-a-saint-henr-fe747e",
+   "image_auto": "aucune",
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-03.json",
    "_slug": "un-corps-decouvert-en-bordure-de-la-voie-ferree-a-saint-henr-fe747e"
@@ -630,6 +889,7 @@
     }
    ],
    "permalien": "le-protecteur-du-citoyen-detaille-ce-que-peuvent-faire-les-i-47d0b3",
+   "image_auto": "aucune",
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-03.json",
    "_slug": "le-protecteur-du-citoyen-detaille-ce-que-peuvent-faire-les-i-47d0b3"
@@ -653,6 +913,7 @@
     }
    ],
    "permalien": "la-cour-dappel-ordonne-a-montreal-de-rembourser-plus-de-1-5-b0173a",
+   "image_auto": "aucune",
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-03.json",
    "_slug": "la-cour-dappel-ordonne-a-montreal-de-rembourser-plus-de-1-5-b0173a"
@@ -690,8 +951,8 @@
    "medias": "The Suburban",
    "url": "https://www.thesuburban.com/news/city_news/hampstead-seeking-suggestions-for-new-park-name/article_4cb45310-c7c5-4b6d-8bfb-bdd350ffec7e.html",
    "resume": "La Ville de Hampstead invite sa population à proposer un nom pour le nouveau parc aménagé à l’angle de l’avenue Northcote et du chemin Queen-Mary.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Hampstead_-_Town_Hall.jpg/1280px-Hampstead_-_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Hampstead — vue d'illustration.",
    "horodate": "2026-09-03T10:29-04:00",
    "sources": [
     {
@@ -701,6 +962,9 @@
     }
    ],
    "permalien": "hampstead-demande-a-ses-residents-de-nommer-son-nouveau-parc-6f39d9",
+   "photo_auteur": "Chicoutimi",
+   "photo_licence": "CC BY 3.0",
+   "image_auto": "territoire:Hampstead",
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-03.json",
    "_slug": "hampstead-demande-a-ses-residents-de-nommer-son-nouveau-parc-6f39d9"
@@ -754,6 +1018,7 @@
     }
    ],
    "permalien": "une-pietonne-grievement-blessee-en-traversant-un-boulevard-a-2c231d",
+   "image_auto": "aucune",
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-03.json",
    "_slug": "une-pietonne-grievement-blessee-en-traversant-un-boulevard-a-2c231d"
@@ -782,6 +1047,326 @@
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-03.json",
    "_slug": "un-super-c-de-13-5-m-et-un-jean-coutu-en-chantier-a-mascouch-76ff15"
+  },
+  {
+   "titre": "Outremont convertit les avenues Bloomfield et Saint-Viateur à sens unique pour aménager des voies cyclables",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Outremont (Montréal)",
+   "medias": "Arrondissement d'Outremont",
+   "url": "https://montreal.ca/communiques-de-presse/faits-saillants-du-conseil-darrondissement-doutremont-du-1er-septembre-2026",
+   "resume": "Le conseil d'arrondissement d'Outremont accorde un contrat de 132 655 $ pour le marquage et la signalisation nécessaires à la mise à sens unique des avenues Bloomfield et Saint-Viateur et à l'ajout d'aménagements cyclables, dans le cadre de son Plan de mobilité durable.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Avenue_Bernard%2C_Outremont.jpg/1280px-Avenue_Bernard%2C_Outremont.jpg",
+   "legende": "Une avenue résidentielle d'Outremont.",
+   "photo_auteur": "Intermedichbo - Milorad Dimic M.D.",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "outremont-convertit-les-avenues-bloomfield-et-saint-viateur-b3ad73",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "outremont-convertit-les-avenues-bloomfield-et-saint-viateur-b3ad73"
+  },
+  {
+   "titre": "RDP–Pointe-aux-Trembles autorise l'ajout de 251 logements rue Sherbrooke Est",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Rivière-des-Prairies–Pointe-aux-Trembles (Montréal)",
+   "medias": "Arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
+   "url": "https://montreal.ca/communiques-de-presse/faits-saillants-du-conseil-darrondissement-de-rdp-pat-du-1er-septembre-2026",
+   "resume": "Le conseil d'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles autorise l'agrandissement de deux immeubles du boulevard Sherbrooke Est qui ajoutera 251 logements, avec obligation de verdissement pour le promoteur. Un second projet mixte de 45 logements est aussi autorisé sur le site d'un ancien salon funéraire du boulevard Maurice-Duplessis.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "rdppointe-aux-trembles-autorise-l-ajout-de-251-logements-rue-ca7ccb",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "rdppointe-aux-trembles-autorise-l-ajout-de-251-logements-rue-ca7ccb"
+  },
+  {
+   "titre": "Terrebonne rénove les parcs André-Guérard et Charles-Édouard-Renaud",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Terrebonne",
+   "medias": "Ville de Terrebonne",
+   "url": "https://terrebonne.ca/nouvelle/26/09/02/le-parc-andre-guerard-renouvele-avec-et-pour-les-citoyens/",
+   "resume": "La Ville de Terrebonne inaugure le parc André-Guérard rénové, avec un nouveau parc canin et un module de planche à roulettes refait pour près de 1,3 M$, à la suite d'une consultation citoyenne. Le parc Charles-Édouard-Renaud, à La Plaine, a aussi été entièrement repensé avec un plateau multisports et de nouvelles aires de jeux.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Hotel_de_ville_de_Terrebonne_-_01.jpg/1280px-Hotel_de_ville_de_Terrebonne_-_01.jpg",
+   "legende": "L'hôtel de ville de Terrebonne.",
+   "photo_auteur": "Jeangagnon",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "terrebonne-renove-les-parcs-andre-guerard-et-charles-edouard-8aaf81",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "terrebonne-renove-les-parcs-andre-guerard-et-charles-edouard-8aaf81"
+  },
+  {
+   "titre": "Drummondville tient sa grande consultation sur l'avenir du centre-ville le 24 septembre",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Drummondville",
+   "medias": "Ville de Drummondville",
+   "url": "https://www.drummondville.ca/rendez-vous-le-24-septembre-pour-une-grande-consultation-sur-le-centre-ville/",
+   "resume": "Au terme de quatre mois de démarches, la Ville de Drummondville convie la population à une consultation publique le 24 septembre au Centrexpo Promutuel Assurance, dernière étape avant d'arrêter sa vision de développement du centre-ville.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "drummondville-tient-sa-grande-consultation-sur-l-avenir-du-c-fa01b1",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "drummondville-tient-sa-grande-consultation-sur-l-avenir-du-c-fa01b1"
+  },
+  {
+   "titre": "Pont-Rouge ouvre un parc d'hébertisme dans la promenade de la rivière aux Pommes",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Pont-Rouge",
+   "medias": "Ville de Pont-Rouge",
+   "url": "https://www.ville.pontrouge.qc.ca/un-nouveau-parc-dhebertisme-dans-la-promenade-de-la-riviere-aux-pommes/",
+   "resume": "La Ville de Pont-Rouge met en service un nouveau parcours d'hébertisme, avec tyrolienne et neuf modules d'agilité, financé notamment par Desjardins et la MRC de Portneuf; l'inauguration officielle aura lieu le 3 octobre.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "pont-rouge-ouvre-un-parc-d-hebertisme-dans-la-promenade-de-l-88c7d1",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "pont-rouge-ouvre-un-parc-d-hebertisme-dans-la-promenade-de-l-88c7d1"
+  },
+  {
+   "titre": "Gatineau ouvre un registre référendaire sur un projet de densification boulevard Maloney Est",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Gatineau",
+   "medias": "Ville de Gatineau",
+   "url": "https://www.gatineau.ca/portail/lien.aspx?t=rssfeed&u=%2Fupload%2Favis_publics%2F2026827134715_avis_demande_pour_tenue_d_un_registre_-_cm_25_ao%FBt_2026%28affichage%29.pdf",
+   "resume": "La Ville de Gatineau ouvre un registre permettant aux personnes habiles à voter de demander un scrutin référendaire sur un projet immobilier au 794, boulevard Maloney Est, que son comité consultatif d'urbanisme juge compatible avec le secteur en raison de la densification d'un site sous-utilisé.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "gatineau-ouvre-un-registre-referendaire-sur-un-projet-de-den-b976fd",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "gatineau-ouvre-un-registre-referendaire-sur-un-projet-de-den-b976fd"
+  },
+  {
+   "titre": "Gatineau emprunte 3 M$ pour un projet de logement abordable",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Gatineau",
+   "medias": "Ville de Gatineau",
+   "url": "https://www.gatineau.ca/portail/lien.aspx?t=rssfeed&u=%2Fupload%2Favis_publics%2F20268289351_avis_-_tenue_d_un_registre_5_jours_-_r_1017-2026_et_1019-2026%28affichage%29.pdf",
+   "resume": "La Ville de Gatineau ouvre un registre référendaire sur un règlement l'autorisant à emprunter 3 M$ pour un projet de logement abordable mené avec Desjardins, financé en partie par le Programme d'habitation abordable Québec.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Hotel_de_ville_de_Gatineau_-_01.jpg/1280px-Hotel_de_ville_de_Gatineau_-_01.jpg",
+   "legende": "L'hôtel de ville de Gatineau.",
+   "photo_auteur": "Jeangagnon",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "gatineau-emprunte-3-m-pour-un-projet-de-logement-abordable-a18178",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "gatineau-emprunte-3-m-pour-un-projet-de-logement-abordable-a18178"
+  },
+  {
+   "titre": "Sherbrooke lance un programme d'aide pour les bâtiments patrimoniaux privés",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Sherbrooke",
+   "medias": "Ville de Sherbrooke",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/culture/12/1216338/un-nouveau-programme-d-aide-pour-les-batiments-patrimoniaux-prives.html",
+   "resume": "La Ville de Sherbrooke crée le programme Réno-Patrimoine, une nouvelle aide financière destinée aux propriétaires de bâtiments patrimoniaux privés pour leurs travaux de restauration.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/H%C3%B4tel_de_ville_de_Sherbrooke_-_1.jpg/1280px-H%C3%B4tel_de_ville_de_Sherbrooke_-_1.jpg",
+   "legende": "L'hôtel de ville de Sherbrooke.",
+   "photo_auteur": "Cantons-de-l'Est",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "sherbrooke-lance-un-programme-d-aide-pour-les-batiments-patr-0c17ba",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "sherbrooke-lance-un-programme-d-aide-pour-les-batiments-patr-0c17ba"
+  },
+  {
+   "titre": "Saint-Roch-de-l'Achigan et Saint-Roch-Ouest mettent en commun leur inspection municipale",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Saint-Roch-de-l'Achigan et Saint-Roch-Ouest",
+   "medias": "Municipalité de Saint-Roch-de-l'Achigan",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/urbanisme/106/1216245/les-municipalites-unissent-leurs-forces-pour-le-partage-des-services-d-inspection-municipale.html",
+   "resume": "Les municipalités de Saint-Roch-de-l'Achigan et de Saint-Roch-Ouest unissent leurs forces pour le partage de leurs services d'inspection municipale, une nouvelle étape de leur collaboration intermunicipale.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "saint-roch-de-l-achigan-et-saint-roch-ouest-mettent-en-commu-855d37",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "saint-roch-de-l-achigan-et-saint-roch-ouest-mettent-en-commu-855d37"
+  },
+  {
+   "titre": "Saint-Charles-Borromée et Saint-Paul renouvellent leur entente de sécurité incendie pour 10 ans",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Saint-Charles-Borromée et Saint-Paul",
+   "medias": "Ville de Saint-Charles-Borromée",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/police-feu/70/1216267/saint-charles-borromee-et-saint-paul-renouvellent-leur-partenariat-pour-10-ans.html",
+   "resume": "Les villes de Saint-Charles-Borromée et de Saint-Paul renouvellent pour dix ans leur entente de services en sécurité incendie.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "saint-charles-borromee-et-saint-paul-renouvellent-leur-enten-a046bf",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "saint-charles-borromee-et-saint-paul-renouvellent-leur-enten-a046bf"
+  },
+  {
+   "titre": "Shawinigan inaugure une zone de loisirs inclusive au centre-ville",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Shawinigan",
+   "medias": "Ville de Shawinigan",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/parcs/79/1216218/la-ville-inaugure-la-zone-loisirs-pour-tous-au-coeur-du-centre-ville.html",
+   "resume": "La Ville de Shawinigan inaugure la zone « Loisirs pour tous » au cœur du centre-ville, un aménagement destiné à offrir un environnement de loisirs plus inclusif.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Centre-ville_de_Shawinigan.JPG/1280px-Centre-ville_de_Shawinigan.JPG",
+   "legende": "Le centre-ville de Shawinigan.",
+   "photo_auteur": "Sylvain Perron",
+   "photo_licence": "Public domain",
+   "permalien": "shawinigan-inaugure-une-zone-de-loisirs-inclusive-au-centre-18efb9",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "shawinigan-inaugure-une-zone-de-loisirs-inclusive-au-centre-18efb9"
+  },
+  {
+   "titre": "Le BAPE poursuit son audience sur une ferme aquacole terrestre dans la MRC de Pontiac",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "MRC de Pontiac",
+   "medias": "Bureau d'audiences publiques sur l'environnement",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/environnement/13/1216166/projet-d-implantation-d-une-ferme-aquacole-terrestre-en-recirculation-intensive-dans-la-mrc-de-pontiac-par-samonix-l-audience-publique-se-poursuit-le-29-septembre.html",
+   "resume": "La commission du Bureau d'audiences publiques sur l'environnement poursuit jusqu'au 29 septembre son audience publique sur le projet d'implantation d'une ferme aquacole terrestre en recirculation intensive de l'entreprise Samonix dans la MRC de Pontiac.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-bape-poursuit-son-audience-sur-une-ferme-aquacole-terrest-c60dd7",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "le-bape-poursuit-son-audience-sur-une-ferme-aquacole-terrest-c60dd7"
+  },
+  {
+   "titre": "Beloeil entame les démarches pour restaurer l'église Saint-Matthieu",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Beloeil",
+   "medias": "Ville de Beloeil",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/culture/12/1216139/la-ville-entame-officiellement-les-demarches-afin-de-restaurer-et-proteger-l-eglise-saint-matthieu.html",
+   "resume": "La Ville de Beloeil autorise la négociation et la signature d'une entente pour restaurer et protéger l'église Saint-Matthieu, une étape importante dans la préservation de son patrimoine.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Beloeil%2C_Quebec_-_%C3%A9glise_Saint-Matthieu-de-Bel%C5%93il_-_1.jpg/1280px-Beloeil%2C_Quebec_-_%C3%A9glise_Saint-Matthieu-de-Bel%C5%93il_-_1.jpg",
+   "legende": "L'église Saint-Matthieu, à Beloeil.",
+   "photo_auteur": "Cantons-de-l'Est",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "beloeil-entame-les-demarches-pour-restaurer-l-eglise-saint-m-848375",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "beloeil-entame-les-demarches-pour-restaurer-l-eglise-saint-m-848375"
+  },
+  {
+   "titre": "Memphrémagog lance un programme pour les paysages et consulte sur son plan climat",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "MRC de Memphrémagog",
+   "medias": "MRC de Memphrémagog",
+   "url": "https://sedb.qc.ca/plan-climat-memphremagog/",
+   "resume": "La MRC de Memphrémagog lance son Programme de réhabilitation de l'environnement paysager et invite la population à trois séances de consultation en octobre, à Magog, à Eastman et en visioconférence, sur son futur Plan climat.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Magog%2C_Quebec_-_marina.jpg/1280px-Magog%2C_Quebec_-_marina.jpg",
+   "legende": "Magog, l'une des municipalités de la MRC de Memphrémagog.",
+   "photo_auteur": "Cantons-de-l'Est",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "memphremagog-lance-un-programme-pour-les-paysages-et-consult-ba7780",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "memphremagog-lance-un-programme-pour-les-paysages-et-consult-ba7780"
+  },
+  {
+   "titre": "Senneville amorce une nouvelle étape de son projet d'infrastructure Bassin 4",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Senneville (Montréal)",
+   "medias": "Village de Senneville",
+   "url": "https://www.senneville.ca/bassin-4-mise-a-jour-du-projet-dinfrastructure/",
+   "resume": "Le Village de Senneville amorce une étape importante de son projet d'infrastructure Bassin 4, en préparation depuis plusieurs années à la suite de nombreuses études.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "senneville-amorce-une-nouvelle-etape-de-son-projet-d-infrast-2ad7eb",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "senneville-amorce-une-nouvelle-etape-de-son-projet-d-infrast-2ad7eb"
+  },
+  {
+   "titre": "Val-d'Or et Eldorado Gold s'associent pour la salle de spectacle de la Polyvalente",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Val-d'Or",
+   "medias": "Ville de Val-d'Or",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/culture/12/1216236/theatre-eldorado-gold-un-nouveau-partenariat-pour-la-salle-de-spectacle.html",
+   "resume": "La Ville de Val-d'Or et Eldorado Gold Québec concluent un nouveau partenariat pour la salle de spectacle de la Polyvalente de Val-d'Or.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "val-d-or-et-eldorado-gold-s-associent-pour-la-salle-de-spect-43abef",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "val-d-or-et-eldorado-gold-s-associent-pour-la-salle-de-spect-43abef"
+  },
+  {
+   "titre": "Le DPCP ne portera pas d'accusation après l'événement de Saint-Hyacinthe de décembre 2025",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Saint-Hyacinthe",
+   "medias": "Directeur des poursuites criminelles et pénales",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/police-feu/70/1216441/enquete-independante-sur-l-evenement-survenu-a-saint-hyacinthe-le-10-decembre-2025-le-dpcp-ne-portera-pas-d-accusation.html",
+   "resume": "Le Directeur des poursuites criminelles et pénales annonce qu'il ne portera pas d'accusation à la suite de l'examen du rapport du Bureau des enquêtes indépendantes sur l'événement survenu à Saint-Hyacinthe le 10 décembre 2025.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Saint-Hyacinthe_-_H%C3%B4tel_de_ville.jpg/1280px-Saint-Hyacinthe_-_H%C3%B4tel_de_ville.jpg",
+   "legende": "L'hôtel de ville de Saint-Hyacinthe.",
+   "photo_auteur": "SamuelFreli",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "le-dpcp-ne-portera-pas-d-accusation-apres-l-evenement-de-sai-d7ae31",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "le-dpcp-ne-portera-pas-d-accusation-apres-l-evenement-de-sai-d7ae31"
+  },
+  {
+   "titre": "Saint-Louis-de-Blandford tiendra un scrutin le 27 septembre",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Saint-Louis-de-Blandford",
+   "medias": "Municipalité de Saint-Louis-de-Blandford",
+   "url": "https://www.saint-louis-de-blandford.ca/avis-public-delection-27-septembre-2026",
+   "resume": "La Municipalité de Saint-Louis-de-Blandford tiendra un scrutin le 27 septembre, avec révision de la liste électorale le même jour.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "saint-louis-de-blandford-tiendra-un-scrutin-le-27-septembre-fe7e2d",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "saint-louis-de-blandford-tiendra-un-scrutin-le-27-septembre-fe7e2d"
+  },
+  {
+   "titre": "Six municipalités de Charlevoix dévoilent une signature visuelle commune",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "MRC de Charlevoix",
+   "medias": "MRC de Charlevoix",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/economie/68/1216131/la-mrc-de-charlevoix-devoile-les-places-de-l-etoile-.html",
+   "resume": "La MRC de Charlevoix dévoile les premières réalisations du volet supralocal de son projet d'identité Signature, mis en œuvre conjointement par six municipalités.",
+   "horodate": "2026-09-03T12:22-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "six-municipalites-de-charlevoix-devoilent-une-signature-visu-afbe8a",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-03.json",
+   "_slug": "six-municipalites-de-charlevoix-devoilent-une-signature-visu-afbe8a"
   },
   {
    "titre": "L'Iran frappe des bases américaines dans le Golfe en représailles à de nouvelles frappes des États-Unis",
@@ -817,6 +1402,7 @@
     }
    ],
    "permalien": "l-iran-frappe-des-bases-americaines-dans-le-golfe-en-represa-a5f5a7",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "l-iran-frappe-des-bases-americaines-dans-le-golfe-en-represa-a5f5a7"
@@ -850,6 +1436,7 @@
     }
    ],
    "permalien": "guerre-en-ukraine-nouvelle-salve-de-drones-russes-sur-dnipro-0488b6",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "guerre-en-ukraine-nouvelle-salve-de-drones-russes-sur-dnipro-0488b6"
@@ -928,6 +1515,7 @@
     }
    ],
    "permalien": "les-etats-unis-coulent-un-navire-soupconne-de-ravitailler-un-3f2321",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "les-etats-unis-coulent-un-navire-soupconne-de-ravitailler-un-3f2321"
@@ -976,6 +1564,9 @@
     }
    ],
    "permalien": "la-presence-d-un-ministre-russe-au-g20-finance-embarrasse-pl-15d7de",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "la-presence-d-un-ministre-russe-au-g20-finance-embarrasse-pl-15d7de"
@@ -988,8 +1579,8 @@
    "medias": "France 24",
    "url": "https://www.france24.com/fr/info-en-continu/20260903-apr%C3%A8s-la-tapisserie-de-bayeux-migrants-ue-et-ukraine-au-menu-des-premiers-entretiens-burnham-macron",
    "resume": "Emmanuel Macron et le nouveau premier ministre travailliste Andy Burnham, qui a succédé à Keir Starmer le 20 juillet, se sont retrouvés jeudi à Londres pour discuter immigration, relations avec l'UE et soutien à l'Ukraine, au lendemain d'une visite au British Museum pour l'ouverture de l'exposition de la tapisserie de Bayeux, prêtée par la France pour un an. Londres a annoncé un quasi-triplement des effectifs déployés sur le littoral français pour contrer les traversées de la Manche par « méga-canots ».",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/1280px-Emmanuel_Macron_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Emmanuel Macron",
    "horodate": "2026-09-03T04:48-04:00",
    "sources": [
     {
@@ -999,6 +1590,9 @@
     }
    ],
    "permalien": "macron-et-le-nouveau-premier-ministre-britannique-burnham-se-3b6106",
+   "photo_auteur": "Nebojša Tejić",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Emmanuel Macron",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "macron-et-le-nouveau-premier-ministre-britannique-burnham-se-3b6106"
@@ -1041,8 +1635,8 @@
    "medias": "BBC",
    "url": "https://www.bbc.com/sport/formula1/articles/c4gj0z94dw2o",
    "resume": "Le ministre ukrainien de la Jeunesse et des Sports, Matvii Bidnyi, a critiqué la décision de la Fédération internationale de l'automobile (FIA) de lever début août l'interdiction visant les pilotes russes et biélorusses imposée après l'invasion de 2022, estimant que « rien n'a changé » sur le terrain. Il a rappelé que la gare centrale de Kyiv avait été visée par un drone russe une heure avant son entretien avec la BBC, et accuse la Russie d'utiliser le sport comme outil de « sportswashing ».",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bidnyi_Matvii_Viktorovych.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Matvii Bidnyi",
    "horodate": "2026-09-03T04:56-04:00",
    "sources": [
     {
@@ -1052,6 +1646,9 @@
     }
    ],
    "permalien": "le-ministre-ukrainien-des-sports-denonce-la-decision-de-la-f-d35f1a",
+   "photo_auteur": "Міністерство молоді та спорту України",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-en:Matvii Bidnyi",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "le-ministre-ukrainien-des-sports-denonce-la-decision-de-la-f-d35f1a"
@@ -1119,8 +1716,8 @@
    "medias": "France 24, TV5MONDE (AFP)",
    "url": "https://www.france24.com/fr/afrique/20260903-deux-r%C3%A9alisateurs-fran%C3%A7ais-d%C3%A9tenus-togo-retour-france-libert%C3%A9-provisoire-documentaire-quai-d-orsay",
    "resume": "Les réalisateurs français Gaël Mocaër et Sebastian Perez Pezzani, arrêtés le 27 juillet au Togo avec leur fixeur togolais Fred Vedomey, ont obtenu une liberté provisoire et doivent rentrer en France jeudi matin, a indiqué une source diplomatique à l'AFP. Reporters sans frontières et la Fédération internationale des journalistes avaient réclamé leur libération immédiate.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ga%C3%ABl_Moca%C3%ABr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Gaël Mocaër",
    "horodate": "2026-09-03T05:08-04:00",
    "sources": [
     {
@@ -1135,6 +1732,9 @@
     }
    ],
    "permalien": "togo-les-deux-realisateurs-francais-detenus-depuis-juillet-a-3e6530",
+   "photo_auteur": "Gaelmoca",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Gaël Mocaër",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "togo-les-deux-realisateurs-francais-detenus-depuis-juillet-a-3e6530"
@@ -1163,6 +1763,7 @@
     }
    ],
    "permalien": "rdc-l-epidemie-d-ebola-depasse-les-3-000-morts-mais-des-sign-d94cbd",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "rdc-l-epidemie-d-ebola-depasse-les-3-000-morts-mais-des-sign-d94cbd"
@@ -1186,6 +1787,7 @@
     }
    ],
    "permalien": "tunisie-la-penurie-d-eau-s-aggrave-avec-la-canicule-des-mani-373eee",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "tunisie-la-penurie-d-eau-s-aggrave-avec-la-canicule-des-mani-373eee"
@@ -1234,6 +1836,7 @@
     }
    ],
    "permalien": "le-chef-de-la-diplomatie-indienne-entame-une-tournee-en-polo-427e44",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "le-chef-de-la-diplomatie-indienne-entame-une-tournee-en-polo-427e44"
@@ -1246,8 +1849,8 @@
    "medias": "RTBF",
    "url": "https://www.rtbf.be/article/israel-a-moins-de-deux-mois-des-elections-benjamin-netanyahu-menace-par-les-divisions-de-la-droite-11779095",
    "resume": "À l'approche des élections prévues fin octobre, Benjamin Netanyahu s'inquiète des mauvaises perspectives électorales de la coalition sortante, compliquées par l'arrivée d'une nouvelle formation d'extrême droite conduite par l'ancien général Ofer Winter. Le premier ministre, qui a occupé son poste plus longtemps qu'aucun de ses prédécesseurs, pourrait perdre le pouvoir dans un paysage politique israélien en pleine recomposition.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/1280px-Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Benjamin Netanyahu",
    "horodate": "2026-09-03T05:27-04:00",
    "sources": [
     {
@@ -1257,6 +1860,9 @@
     }
    ],
    "permalien": "israel-a-moins-de-deux-mois-des-elections-netanyahu-menace-p-49f61b",
+   "photo_auteur": "Avi Ohayon",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-en:Benjamin Netanyahu",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "israel-a-moins-de-deux-mois-des-elections-netanyahu-menace-p-49f61b"
@@ -1280,6 +1886,7 @@
     }
    ],
    "permalien": "syrie-l-aiea-decouvre-73-tonnes-d-uranium-vestiges-du-progra-64236c",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "syrie-l-aiea-decouvre-73-tonnes-d-uranium-vestiges-du-progra-64236c"
@@ -1303,6 +1910,7 @@
     }
    ],
    "permalien": "soudan-une-frappe-aerienne-detruit-50-tonnes-d-aide-alimenta-ab6aa4",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "soudan-une-frappe-aerienne-detruit-50-tonnes-d-aide-alimenta-ab6aa4"
@@ -1351,6 +1959,7 @@
     }
    ],
    "permalien": "washington-le-projet-de-loi-sur-les-sanctions-contre-la-russ-bd2642",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "washington-le-projet-de-loi-sur-les-sanctions-contre-la-russ-bd2642"
@@ -1374,6 +1983,7 @@
     }
    ],
    "permalien": "afrique-du-sud-une-publicite-pour-un-whisky-invoquant-la-mar-b126eb",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "afrique-du-sud-une-publicite-pour-un-whisky-invoquant-la-mar-b126eb"
@@ -1397,6 +2007,7 @@
     }
    ],
    "permalien": "l-algerie-va-transformer-une-caserne-du-desert-du-tanezrouft-e74d19",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "l-algerie-va-transformer-une-caserne-du-desert-du-tanezrouft-e74d19"
@@ -1409,8 +2020,8 @@
    "medias": "US News (Reuters)",
    "url": "https://www.usnews.com/news/world/articles/2026-09-02/ukraine-is-finalising-drone-deal-with-germany-zelenskiy-says",
    "resume": "Le président ukrainien Volodymyr Zelensky a annoncé mercredi, après un appel avec le chancelier allemand Friedrich Merz, que Kyiv et Berlin finalisent un accord de développement conjoint de drones, missiles et logiciels associés, qui s'ajoute à un programme allemand existant de fourniture de 15 000 drones intercepteurs Strila. L'accord, proposé par l'Ukraine il y a plusieurs mois selon Reuters, doit selon Zelensky apporter « des capacités de défense additionnelles » aux deux pays.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg/1280px-Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Volodymyr Zelensky",
    "horodate": "2026-09-03T05:37-04:00",
    "sources": [
     {
@@ -1420,6 +2031,9 @@
     }
    ],
    "permalien": "ukraine-et-allemagne-finalisent-un-accord-de-developpement-c-e0d3ca",
+   "photo_auteur": "Press Service of the President of Ukraine",
+   "photo_licence": "CC BY 4.0",
+   "image_auto": "wikipedia-fr:Volodymyr Zelensky",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-03.json",
    "_slug": "ukraine-et-allemagne-finalisent-un-accord-de-developpement-c-e0d3ca"
@@ -1448,6 +2062,7 @@
     }
    ],
    "permalien": "sacre-cur-devient-la-premiere-municipalite-de-la-haute-cote-5c9178",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "sacre-cur-devient-la-premiere-municipalite-de-la-haute-cote-5c9178"
@@ -1460,8 +2075,8 @@
    "medias": "Radio-Canada, Le Nouvelliste",
    "url": "https://ici.radio-canada.ca/nouvelle/2280148/elections-nation-atikamekw-constant-awashish",
    "resume": "Constant Awashish a été réélu grand chef du Conseil de la Nation atikamekw avec 69,6 % des voix pour un cinquième mandat, après les tensions entourant les blocus forestiers de l’été 2025 en Haute-Mauricie, selon Radio-Canada et Le Nouvelliste.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Constant_Awashish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Constant Awashish",
    "horodate": "2026-09-03T07:26-04:00",
    "sources": [
     {
@@ -1476,6 +2091,9 @@
     }
    ],
    "permalien": "constant-awashish-reelu-grand-chef-de-la-nation-atikamekw-po-9c424d",
+   "photo_auteur": "Conseil de la Nation Atikamekw",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Constant Awashish",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "constant-awashish-reelu-grand-chef-de-la-nation-atikamekw-po-9c424d"
@@ -1499,6 +2117,7 @@
     }
    ],
    "permalien": "evaluation-psychiatrique-ordonnee-pour-laccuse-du-meurtre-de-961d2d",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "evaluation-psychiatrique-ordonnee-pour-laccuse-du-meurtre-de-961d2d"
@@ -1522,6 +2141,7 @@
     }
    ],
    "permalien": "des-entrepreneurs-de-la-mauricie-se-mobilisent-pour-profiter-6621f0",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "des-entrepreneurs-de-la-mauricie-se-mobilisent-pour-profiter-6621f0"
@@ -1550,6 +2170,7 @@
     }
    ],
    "permalien": "la-mrc-du-fjord-du-saguenay-investit-100-000-contre-les-espe-16cbd0",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "la-mrc-du-fjord-du-saguenay-investit-100-000-contre-les-espe-16cbd0"
@@ -1573,6 +2194,7 @@
     }
    ],
    "permalien": "val-jalbert-restaure-les-22-steles-centenaires-de-son-cimeti-cf9457",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "val-jalbert-restaure-les-22-steles-centenaires-de-son-cimeti-cf9457"
@@ -1596,6 +2218,7 @@
     }
    ],
    "permalien": "arret-des-procedures-dans-deux-dossiers-visant-une-residente-121007",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "arret-des-procedures-dans-deux-dossiers-visant-une-residente-121007"
@@ -1619,6 +2242,7 @@
     }
    ],
    "permalien": "un-jeep-wrangler-willys-392-de-pres-de-100-000-vole-chez-un-1843e5",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "un-jeep-wrangler-willys-392-de-pres-de-100-000-vole-chez-un-1843e5"
@@ -1628,7 +2252,7 @@
    "cahier": "quebec",
    "rubrique": "transport",
    "territoire": "Îles-de-la-Madeleine",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, Municipalité des Îles-de-la-Madeleine",
    "url": "https://ici.radio-canada.ca/nouvelle/2280035/traversier-navire-releve-iles-madeleine",
    "resume": "La Communauté maritime des Îles-de-la-Madeleine, la CTMA, Tourisme Îles de la Madeleine et la Chambre de commerce des Îles réclament un navire de relève pour sécuriser la desserte maritime de l’archipel, dénonçant l’« indifférence » de la Société des traversiers du Québec, selon Radio-Canada.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Iles-de-la-madeleine-2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -1639,6 +2263,11 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280035/traversier-navire-releve-iles-madeleine",
      "date": "2026-09-03T07:26-04:00"
+    },
+    {
+     "media": "Municipalité des Îles-de-la-Madeleine",
+     "url": "https://www.muniles.ca/actualites/desserte-maritime-des-iles-de-la-madeleine-front-commun-pour-denoncer-la-position-de-la-stq/",
+     "date": "2026-09-03T12:33-04:00"
     }
    ],
    "photo_auteur": "Matthieu Godbout",
@@ -1667,6 +2296,7 @@
     }
    ],
    "permalien": "la-gaspesie-explore-lindustrie-navale-en-allemagne-et-en-ita-da5e94",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "la-gaspesie-explore-lindustrie-navale-en-allemagne-et-en-ita-da5e94"
@@ -1740,6 +2370,7 @@
     }
    ],
    "permalien": "des-commercants-du-vieux-noranda-composent-avec-leffervescen-e2df6c",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "des-commercants-du-vieux-noranda-composent-avec-leffervescen-e2df6c"
@@ -1763,6 +2394,7 @@
     }
    ],
    "permalien": "une-recherche-documente-les-moules-deau-douce-menacees-du-la-8696f0",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "une-recherche-documente-les-moules-deau-douce-menacees-du-la-8696f0"
@@ -1786,6 +2418,7 @@
     }
    ],
    "permalien": "debut-de-la-construction-dune-nouvelle-ecole-a-quaqtaq-au-nu-e82203",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "debut-de-la-construction-dune-nouvelle-ecole-a-quaqtaq-au-nu-e82203"
@@ -1848,8 +2481,8 @@
    "medias": "Québec Urbain",
    "url": "https://www.quebecurbain.qc.ca/2026/09/02/3e-lien-et-unesco-deux-realites-inconciliables/",
    "resume": "Bruno Marchand estime que tout projet d’infrastructure qui ferait perdre à Québec sa désignation de ville du patrimoine mondial de l’UNESCO serait « une erreur terrible », après que Radio-Canada a révélé que l’organisme onusien affirme ne pas avoir reçu de notification officielle sur un éventuel troisième lien, selon Québec Urbain.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2025-11-14_InaugurationREM_Deux-Montagnes_Bruno_Marchand.jpg/1280px-2025-11-14_InaugurationREM_Deux-Montagnes_Bruno_Marchand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Bruno Marchand (homme politique)",
    "horodate": "2026-09-03T07:26-04:00",
    "sources": [
     {
@@ -1859,6 +2492,9 @@
     }
    ],
    "permalien": "le-maire-de-quebec-juge-quun-troisieme-lien-menacant-le-stat-3ab24c",
+   "photo_auteur": "Lea-Kim",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Bruno Marchand",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "le-maire-de-quebec-juge-quun-troisieme-lien-menacant-le-stat-3ab24c"
@@ -1887,6 +2523,7 @@
     }
    ],
    "permalien": "crankworx-prend-le-relais-de-la-coupe-du-monde-de-velo-de-mo-9f891d",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "crankworx-prend-le-relais-de-la-coupe-du-monde-de-velo-de-mo-9f891d"
@@ -1935,6 +2572,7 @@
     }
    ],
    "permalien": "le-centre-de-foires-de-sherbrooke-termine-lannee-avec-un-leg-f5ae86",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "le-centre-de-foires-de-sherbrooke-termine-lannee-avec-un-leg-f5ae86"
@@ -1983,6 +2621,7 @@
     }
    ],
    "permalien": "un-troncon-du-reseau-cyclable-la-cantonniere-ferme-jusquau-p-f5dd88",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "un-troncon-du-reseau-cyclable-la-cantonniere-ferme-jusquau-p-f5dd88"
@@ -2056,6 +2695,7 @@
     }
    ],
    "permalien": "entosystem-de-drummondville-peut-desormais-vendre-des-credit-879f53",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "entosystem-de-drummondville-peut-desormais-vendre-des-credit-879f53"
@@ -2079,6 +2719,7 @@
     }
    ],
    "permalien": "lindustrie-automobile-absorbe-les-contrecoups-de-la-guerre-t-856e3d",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "lindustrie-automobile-absorbe-les-contrecoups-de-la-guerre-t-856e3d"
@@ -2127,6 +2768,7 @@
     }
    ],
    "permalien": "laval-bonifie-son-plan-daide-aux-pme-face-aux-droits-de-doua-eedd2b",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "laval-bonifie-son-plan-daide-aux-pme-face-aux-droits-de-doua-eedd2b"
@@ -2210,6 +2852,7 @@
     }
    ],
    "permalien": "premiers-travaux-et-inquietudes-de-circulation-pour-le-futur-525ff0",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "premiers-travaux-et-inquietudes-de-circulation-pour-le-futur-525ff0"
@@ -2233,6 +2876,7 @@
     }
    ],
    "permalien": "la-surpopulation-scolaire-saggrave-en-outaouais-af8752",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "la-surpopulation-scolaire-saggrave-en-outaouais-af8752"
@@ -2245,8 +2889,8 @@
    "medias": "L'Éclaireur Progrès",
    "url": "https://www.leclaireurprogres.ca/chroniques/les-groupes-de-labbs-avec-mariam-reprennent-cette-saison/",
    "resume": "L’Association Bénévole Beauce-Sartigan reprend cet automne ses Café-Jasette et ses formations pour proches aidants à Saint-Georges, avec une nouvelle offre en soirée pour rejoindre ceux qui travaillent, selon L’Éclaireur Progrès.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paysage_agricole%2C_Saint-Malachie%2C_QC.jpg/1280px-Paysage_agricole%2C_Saint-Malachie%2C_QC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Beauce — vue d'illustration.",
    "horodate": "2026-09-03T07:26-04:00",
    "sources": [
     {
@@ -2256,6 +2900,9 @@
     }
    ],
    "permalien": "les-groupes-de-soutien-de-labbs-reprennent-la-saison-a-saint-f865ba",
+   "photo_auteur": "Judicieux",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "territoire:Beauce",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-03.json",
    "_slug": "les-groupes-de-soutien-de-labbs-reprennent-la-saison-a-saint-f865ba"
@@ -2285,10 +2932,13 @@
     }
    ],
    "resume": "Après le renommage du lac Ontario en «Lake America» sur les cartes Apple et Google destinées aux usagers américains, en écho aux revendications de Donald Trump, un humoriste québécois a répliqué en achetant le nom de domaine lakeamericaofficial.com.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Donald Trump",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "un-quebecois-riposte-a-trump-avec-son-lake-america-515b6c",
+   "photo_auteur": "Daniel Torok",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Donald Trump",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "un-quebecois-riposte-a-trump-avec-son-lake-america-515b6c"
@@ -2322,6 +2972,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "metro-ferme-son-centre-de-commandes-en-ligne-de-montreal-154-33ec22",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "metro-ferme-son-centre-de-commandes-en-ligne-de-montreal-154-33ec22"
@@ -2355,6 +3006,9 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "des-agriculteurs-des-maritimes-se-remettent-d-une-secheresse-b2d14c",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "des-agriculteurs-des-maritimes-se-remettent-d-une-secheresse-b2d14c"
@@ -2443,6 +3097,9 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "menace-ontarienne-sur-les-mineraux-critiques-sudbury-reste-c-0c9946",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "menace-ontarienne-sur-les-mineraux-critiques-sudbury-reste-c-0c9946"
@@ -2471,6 +3128,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "le-nouveau-brunswick-confie-au-prive-ses-services-veterinair-4966e5",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "le-nouveau-brunswick-confie-au-prive-ses-services-veterinair-4966e5"
@@ -2499,6 +3157,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "deux-elus-de-plus-quittent-le-caucus-conservateur-de-colombi-bcb888",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "deux-elus-de-plus-quittent-le-caucus-conservateur-de-colombi-bcb888"
@@ -2527,6 +3186,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "ottawa-souligne-le-debut-de-la-production-a-la-mine-de-mcilv-5d8ab3",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "ottawa-souligne-le-debut-de-la-production-a-la-mine-de-mcilv-5d8ab3"
@@ -2555,6 +3215,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "fin-des-travaux-sur-le-ponceau-de-l-autoroute-40-a-saint-cut-2791c2",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "fin-des-travaux-sur-le-ponceau-de-l-autoroute-40-a-saint-cut-2791c2"
@@ -2578,6 +3239,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "un-detenu-meurt-sous-garde-federale-au-centre-psychiatrique-b69f6a",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "un-detenu-meurt-sous-garde-federale-au-centre-psychiatrique-b69f6a"
@@ -2601,6 +3263,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "le-canada-clot-a-victoria-la-conference-des-chefs-d-etat-maj-c1cce2",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "le-canada-clot-a-victoria-la-conference-des-chefs-d-etat-maj-c1cce2"
@@ -2624,6 +3287,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "le-canada-et-l-inde-tiennent-des-consultations-diplomatiques-e57843",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "le-canada-et-l-inde-tiennent-des-consultations-diplomatiques-e57843"
@@ -2647,6 +3311,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "le-tmf-ordonne-a-deux-personnes-de-cesser-un-exercice-illega-048ecc",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "le-tmf-ordonne-a-deux-personnes-de-cesser-un-exercice-illega-048ecc"
@@ -2670,6 +3335,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "quebec-lance-l-appel-de-candidatures-2026-pour-valoriser-la-8e2f10",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "quebec-lance-l-appel-de-candidatures-2026-pour-valoriser-la-8e2f10"
@@ -2693,6 +3359,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "l-asfc-amorce-la-modernisation-du-poste-frontalier-de-paters-e58cc2",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "l-asfc-amorce-la-modernisation-du-poste-frontalier-de-paters-e58cc2"
@@ -2712,10 +3379,13 @@
     }
    ],
    "resume": "La ministre canadienne des Affaires étrangères Anita Anand s'est entretenue avec son homologue irlandaise Helen McEntee à l'occasion d'une réunion Gymnich, saluant le rôle de l'Irlande dans la présidence du Conseil de l'Union européenne.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Anita_Anand%2C_December_2025_%28P-068488_00-05%29_%28cropped%29.jpg/1280px-Anita_Anand%2C_December_2025_%28P-068488_00-05%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Anita Anand (femme politique)",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "la-ministre-anand-participe-a-une-reunion-gymnich-a-l-invita-03ce95",
+   "photo_auteur": "Jennifer Jacquemart / European Commission",
+   "photo_licence": "CC BY 4.0",
+   "image_auto": "wikipedia-fr:Anita Anand",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "la-ministre-anand-participe-a-une-reunion-gymnich-a-l-invita-03ce95"
@@ -2739,6 +3409,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "le-bureau-du-coroner-publie-six-nouvelles-series-de-recomman-e65f03",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "le-bureau-du-coroner-publie-six-nouvelles-series-de-recomman-e65f03"
@@ -2758,10 +3429,13 @@
     }
    ],
    "resume": "La première ministre albertaine Danielle Smith attribue à un «pépin» technique le retrait d'une mention aux peuples autochtones dans un message diffusé pour l'anniversaire de la province, après que la correction eut suscité des critiques, rapporte APTN News.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Danielle_Smith_2014.jpg/1280px-Danielle_Smith_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Danielle Smith",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "alberta-la-premiere-ministre-smith-attribue-a-un-pepin-le-re-f3b5ff",
+   "photo_auteur": "Manning Centre c/o: Jake Wright",
+   "photo_licence": "CC BY 2.0",
+   "image_auto": "wikipedia-fr:Danielle Smith",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "alberta-la-premiere-ministre-smith-attribue-a-un-pepin-le-re-f3b5ff"
@@ -2785,6 +3459,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "l-alberta-autorise-desormais-la-destruction-d-un-plus-grand-6e4594",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "l-alberta-autorise-desormais-la-destruction-d-un-plus-grand-6e4594"
@@ -2808,6 +3483,7 @@
    "legende": "",
    "horodate": "2026-09-03T06:10-04:00",
    "permalien": "42-incidents-recenses-dans-des-mines-de-charbon-albertaines-09a7e5",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-03.json",
    "_slug": "42-incidents-recenses-dans-des-mines-de-charbon-albertaines-09a7e5"
@@ -2820,8 +3496,8 @@
    "medias": "TV5MONDE, Euronews",
    "url": "https://information.tv5monde.com/international/meurtre-de-charlie-kirk-lassassin-presume-tyler-robinson-sera-juge-et-encourt-la-peine-de-mort-2835816",
    "resume": "À l'issue d'une audience préliminaire tenue mardi, la justice américaine a jugé suffisantes les preuves contre Tyler Robinson, accusé du meurtre de l'influenceur conservateur Charlie Kirk : il sera jugé et encourt la peine de mort, selon TV5MONDE.\n\n**Mise à jour, 6 h** — Tyler Robinson a plaidé non coupable de l'ensemble des chefs d'accusation, dont le meurtre avec circonstances aggravantes ; le juge a rejeté la demande de la défense d'écarter la peine de mort, les procureurs affirmant disposer d'une « montagne de preuves », dont un mot manuscrit et une cartouche gravée « Hey Fascist! CATCH! » qu'ils attribuent à l'accusé.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Charlie Kirk",
    "horodate": "2026-09-03T05:28-04:00",
    "sources": [
     {
@@ -2837,6 +3513,9 @@
    ],
    "permalien": "l-assassin-presume-de-charlie-kirk-tyler-robinson-sera-juge-890373",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "Gage Skidmore from Surprise, AZ, United States of America",
+   "photo_licence": "CC BY-SA 2.0",
+   "image_auto": "wikipedia-fr:Charlie Kirk",
    "_volet": "report",
    "_slug": "l-assassin-presume-de-charlie-kirk-tyler-robinson-sera-juge-890373"
   },
@@ -2848,8 +3527,8 @@
    "medias": "Radio-Canada, France 24, franceinfo",
    "url": "https://ici.radio-canada.ca/nouvelle/2279996/israel-deplacer-palestiniens-gaza-crime-guerre",
    "resume": "Le ministre israélien de la Défense, Israël Katz, affirme qu'Israël est prêt à déplacer par mer et par air la population de Gaza hors du territoire si Washington donne son feu vert, jugeant qu'aucune solution n'existe sans cette migration. Le déplacement forcé d'une population civile constitue un crime de guerre au regard du droit international, rappelle Radio-Canada.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Israel_Katz_on_July_3%2C_2024_%28cropped%29.jpg/1280px-Israel_Katz_on_July_3%2C_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Israël Katz",
    "horodate": "2026-09-02T13:42-04:00",
    "sources": [
     {
@@ -2870,6 +3549,9 @@
    ],
    "permalien": "le-ministre-israelien-de-la-defense-affirme-vouloir-deplacer-9e53fa",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "U.S. Embassy Jerusalem",
+   "photo_licence": "CC BY 2.0",
+   "image_auto": "wikipedia-fr:Israël Katz",
    "_volet": "report",
    "_slug": "le-ministre-israelien-de-la-defense-affirme-vouloir-deplacer-9e53fa"
   },
@@ -2881,8 +3563,8 @@
    "medias": "Radio-Canada",
    "url": "https://ici.radio-canada.ca/nouvelle/2279833/poursuite-openai-alman-tumbler",
    "resume": "De nouvelles poursuites ont été déposées devant un tribunal fédéral californien contre OpenAI, au nom d'élèves et d'enseignants témoins de la fusillade qui a fait huit morts en février dans une école secondaire de Tumbler Ridge, en Colombie-Britannique ; le gouvernement provincial avait déjà mandaté un avocat en juillet pour poursuivre l'entreprise, selon Radio-Canada.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/2/27/Fusillade_de_tumbler_ridge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Fusillade de Tumbler Ridge",
    "horodate": "2026-09-02T13:42-04:00",
    "sources": [
     {
@@ -2893,6 +3575,9 @@
    ],
    "permalien": "fusillade-de-tumbler-ridge-une-nouvelle-serie-de-poursuites-dc2f28",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "Unknown authorUnknown author",
+   "photo_licence": "CC BY 4.0",
+   "image_auto": "wikipedia-fr:Tumbler Ridge",
    "_volet": "report",
    "_slug": "fusillade-de-tumbler-ridge-une-nouvelle-serie-de-poursuites-dc2f28"
   },
@@ -2916,6 +3601,7 @@
    ],
    "permalien": "mort-de-nooran-rezayi-bataille-juridique-sur-la-divulgation-17ce1f",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "mort-de-nooran-rezayi-bataille-juridique-sur-la-divulgation-17ce1f"
   },
@@ -2927,8 +3613,8 @@
    "medias": "Finance et Investissement, Radio-Canada, Global News, TVA Nouvelles, Canada's National Observer",
    "url": "https://www.finance-investissement.com/la-banque-du-canada-maintient-le-cap-2/",
    "resume": "La Banque du Canada a maintenu mercredi son taux directeur à 2,25 %, un niveau inchangé depuis la fin de 2025, invoquant l'incertitude entourant les droits de douane américains et la hausse des prix mondiaux de l'énergie liée au conflit en Iran, selon Finance et Investissement et Radio-Canada.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/BankofCanadabuilding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Banque du Canada",
    "horodate": "2026-09-02T13:42-04:00",
    "sources": [
     {
@@ -2959,6 +3645,9 @@
    ],
    "permalien": "la-banque-du-canada-maintient-son-taux-directeur-a-2-25-e553f7",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "User Peregrine981 on en.wikipedia",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-fr:La Banque du Canada",
    "_volet": "report",
    "_slug": "la-banque-du-canada-maintient-son-taux-directeur-a-2-25-e553f7"
   },
@@ -2982,6 +3671,7 @@
    ],
    "permalien": "une-couronne-en-or-vieille-de-16-siecles-mise-au-jour-dans-l-433e98",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "une-couronne-en-or-vieille-de-16-siecles-mise-au-jour-dans-l-433e98"
   },
@@ -3020,6 +3710,7 @@
    ],
    "permalien": "la-socan-poursuit-la-plateforme-d-ia-suno-pour-exploitation-72cd39",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "la-socan-poursuit-la-plateforme-d-ia-suno-pour-exploitation-72cd39"
   },
@@ -3043,6 +3734,7 @@
    ],
    "permalien": "le-pire-scenario-climatique-recule-mais-la-trajectoire-actue-afaa6d",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "le-pire-scenario-climatique-recule-mais-la-trajectoire-actue-afaa6d"
   },
@@ -3116,6 +3808,7 @@
    ],
    "permalien": "instagram-sanctionne-desormais-les-avatars-generes-par-ia-sa-fbdb9e",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "instagram-sanctionne-desormais-les-avatars-generes-par-ia-sa-fbdb9e"
   },
@@ -3159,6 +3852,7 @@
    ],
    "permalien": "gopro-rachete-pour-285-millions-de-dollars-par-starman-optic-4bf6fa",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "gopro-rachete-pour-285-millions-de-dollars-par-starman-optic-4bf6fa"
   },
@@ -3182,6 +3876,7 @@
    ],
    "permalien": "desserte-maritime-des-iles-de-la-madeleine-un-front-commun-d-0625ae",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "desserte-maritime-des-iles-de-la-madeleine-un-front-commun-d-0625ae"
   },
@@ -3215,6 +3910,7 @@
    ],
    "permalien": "une-scenariste-innue-de-nutashkuan-obtient-l-appui-de-la-sod-7a24a7",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "une-scenariste-innue-de-nutashkuan-obtient-l-appui-de-la-sod-7a24a7"
   },
@@ -3333,6 +4029,7 @@
    ],
    "permalien": "hilroy-s-excuse-d-avoir-tronque-une-partie-du-canada-sur-la-9eb435",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "hilroy-s-excuse-d-avoir-tronque-une-partie-du-canada-sur-la-9eb435"
   },
@@ -3356,6 +4053,7 @@
    ],
    "permalien": "l-arnaqueur-amoureux-serge-rivard-condamne-a-huit-ans-de-det-f588d4",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "l-arnaqueur-amoureux-serge-rivard-condamne-a-huit-ans-de-det-f588d4"
   },
@@ -3379,6 +4077,7 @@
    ],
    "permalien": "accuse-d-avoir-tue-un-pere-et-son-fils-sur-l-autoroute-30-un-cec9bc",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "accuse-d-avoir-tue-un-pere-et-son-fils-sur-l-autoroute-30-un-cec9bc"
   },
@@ -3402,6 +4101,7 @@
    ],
    "permalien": "la-grc-met-en-garde-contre-le-reseau-terroriste-en-ligne-764-4cc4d4",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "la-grc-met-en-garde-contre-le-reseau-terroriste-en-ligne-764-4cc4d4"
   },
@@ -3460,6 +4160,7 @@
    ],
    "permalien": "pres-de-la-moitie-des-agriculteurs-du-monde-empoisonnes-chaq-1e4563",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "pres-de-la-moitie-des-agriculteurs-du-monde-empoisonnes-chaq-1e4563"
   },
@@ -3483,6 +4184,7 @@
    ],
    "permalien": "des-chatbots-ia-associent-l-insecurite-a-montreal-nord-pour-fe8e6d",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "des-chatbots-ia-associent-l-insecurite-a-montreal-nord-pour-fe8e6d"
   },
@@ -3494,8 +4196,8 @@
    "medias": "MacGeneration",
    "url": "https://www.macg.co/intelligence-artificielle/2026/09/le-gouvernement-americain-vole-au-secours-dopenai-dans-son-proces-face-au-new-york-times-310809",
    "resume": "Le gouvernement américain est intervenu en soutien à OpenAI et à Microsoft dans le procès intenté par le New York Times, qui accuse les deux entreprises d'avoir utilisé sans autorisation plusieurs millions de ses articles pour entraîner les modèles derrière ChatGPT, selon MacGeneration.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/4/44/New_York_Times_1914-07-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "The New York Times",
    "horodate": "2026-09-02T16:05-04:00",
    "sources": [
     {
@@ -3506,6 +4208,9 @@
    ],
    "permalien": "washington-intervient-en-faveur-d-openai-dans-son-proces-con-6f0e40",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "The New York Times",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:New York Times",
    "_volet": "report",
    "_slug": "washington-intervient-en-faveur-d-openai-dans-son-proces-con-6f0e40"
   },
@@ -3517,8 +4222,8 @@
    "medias": "Journal de Québec, Globe and Mail, Le Devoir, La Presse, National Post, Global News",
    "url": "https://www.journaldequebec.com/2026/09/02/les-etats-unis-pourraient-ils-envahir-le-canada-un-amiral-americain-juge-la-question-inutilement-emotionnelle-mais-dit-quil-obeirait-aux-ordres-de-trump",
    "resume": "Le commandant du commandement américain de l'Indo-Pacifique, l'amiral Samuel Paparo, a qualifié d'« inutilement émotionnelle » et d'« absolument ridicule » toute question sur une éventuelle attaque des États-Unis contre le Canada, précisant néanmoins qu'il obéirait aux ordres si Donald Trump lui en donnait un, selon le Journal de Québec et le Globe and Mail. Le premier ministre Mark Carney refuse pour sa part de négocier tant que Washington « insultera » le Canada, rapporte La Presse.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/ADM_Samuel_J._Paparo_Jr._%283%29.jpg/1280px-ADM_Samuel_J._Paparo_Jr._%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Samuel Paparo",
    "horodate": "2026-09-02T19:26-04:00",
    "sources": [
     {
@@ -3554,6 +4259,9 @@
    ],
    "permalien": "un-commandant-americain-juge-inutilement-emotionnelle-l-idee-4781fa",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "U.S. Navy",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-en:Samuel Paparo",
    "_volet": "report",
    "_slug": "un-commandant-americain-juge-inutilement-emotionnelle-l-idee-4781fa"
   },
@@ -3565,8 +4273,8 @@
    "medias": "Radio-Canada, La Presse",
    "url": "https://ici.radio-canada.ca/nouvelle/2280076/lori-idlout-code-ethique-infraction",
    "resume": "Le commissaire aux conflits d'intérêts et à l'éthique, Konrad von Finckenstein, a jugé que la députée Lori Idlout (Nunavut) a enfreint le code régissant les conflits d'intérêts en se faisant rembourser plus de 1700 $ de cadeaux protocolaires achetés dans un magasin qu'elle copossède avec son conjoint, alors qu'elle siégeait encore pour le NPD ; il ne recommande aucune sanction, la somme ayant depuis été remboursée, selon Radio-Canada et La Presse.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lori_Idlout_and_Jeff_Avery_at_Kullik_Elementary_School_2022-04-12_4_%28cropped%29.jpg/1280px-Lori_Idlout_and_Jeff_Avery_at_Kullik_Elementary_School_2022-04-12_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Lori Idlout",
    "horodate": "2026-09-02T19:26-04:00",
    "sources": [
     {
@@ -3582,6 +4290,9 @@
    ],
    "permalien": "la-commissaire-a-l-ethique-juge-que-la-deputee-lori-idlout-a-bace98",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "CambridgeBayWeather",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Lori Idlout",
    "_volet": "report",
    "_slug": "la-commissaire-a-l-ethique-juge-que-la-deputee-lori-idlout-a-bace98"
   },
@@ -3615,6 +4326,7 @@
    ],
    "permalien": "les-cols-bleus-de-montreal-en-greve-du-22-au-28-septembre-pe-0f35e4",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "les-cols-bleus-de-montreal-en-greve-du-22-au-28-septembre-pe-0f35e4"
   },
@@ -3643,6 +4355,7 @@
    ],
    "permalien": "trois-cyclones-simultanes-dans-le-pacifique-un-phenomene-rar-e947e3",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "trois-cyclones-simultanes-dans-le-pacifique-un-phenomene-rar-e947e3"
   },
@@ -3666,6 +4379,7 @@
    ],
    "permalien": "le-cabouron-du-cap-au-diable-dynamite-au-kamouraska-7d6e20",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "le-cabouron-du-cap-au-diable-dynamite-au-kamouraska-7d6e20"
   },
@@ -3677,8 +4391,8 @@
    "medias": "Journal de Montréal, France 24",
    "url": "https://www.journaldemontreal.com/2026/09/02/le-patron-de-nvidia-exhorte-le-g20-a-construire-des-centres-de-donnees-sans-peur-de-lia",
    "resume": "Le patron de Nvidia, Jensen Huang, a exhorté les ministres des Finances du G20 à construire davantage de centres de données pour accompagner l'essor de l'intelligence artificielle, avertissant que les dirigeants qui brandissent la menace de l'IA risquent de laisser leur pays à la traîne, selon le Journal de Montréal.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jen-Hsun_Huang_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Jensen Huang",
    "horodate": "2026-09-02T19:26-04:00",
    "sources": [
     {
@@ -3694,6 +4408,9 @@
    ],
    "permalien": "le-patron-de-nvidia-exhorte-le-g20-a-construire-des-centres-6f6c98",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "The White House",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Jensen Huang",
    "_volet": "report",
    "_slug": "le-patron-de-nvidia-exhorte-le-g20-a-construire-des-centres-6f6c98"
   },
@@ -3717,6 +4434,7 @@
    ],
    "permalien": "le-prochain-modele-d-openai-serait-plus-difficile-a-surveill-e79a69",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "le-prochain-modele-d-openai-serait-plus-difficile-a-surveill-e79a69"
   },
@@ -3755,6 +4473,7 @@
    ],
    "permalien": "un-rapport-espagnol-pointe-la-permissivite-de-la-police-maro-9852f2",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "un-rapport-espagnol-pointe-la-permissivite-de-la-police-maro-9852f2"
   },
@@ -3778,6 +4497,7 @@
    ],
    "permalien": "deux-freres-condamnes-a-la-prison-a-vie-pour-le-meurtre-d-un-8cd716",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "deux-freres-condamnes-a-la-prison-a-vie-pour-le-meurtre-d-un-8cd716"
   },
@@ -3789,8 +4509,8 @@
    "medias": "Courrier international, BBC, Ukrinform",
    "url": "https://www.courrierinternational.com/article/guerre-zelensky-previent-que-les-drones-ukrainiens-vont-rendre-l-espace-aerien-russe-dangereux_266562",
    "resume": "Après que Volodymyr Zelensky a averti que l'espace aérien russe devient « de plus en plus dangereux » en raison des frappes de drones ukrainiens, Kiev a demandé à l'organisation de l'aviation civile de l'ONU (OACI) d'interdire aux compagnies aériennes de ses États membres d'y voler.\n\n**Mise à jour, 5 h 50** — L'Organisation de l'aviation civile internationale (OACI), agence de l'ONU, a répondu à l'alerte ukrainienne en annonçant la mise à jour de ses recommandations sur la protection de l'aviation civile dans les zones de conflit, invoquant la multiplication des armes longue portée, des drones et des systèmes de brouillage.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg/1280px-Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Volodymyr Zelensky",
    "horodate": "2026-09-03T05:28-04:00",
    "sources": [
     {
@@ -3811,6 +4531,9 @@
    ],
    "permalien": "kiev-presse-l-aviation-civile-de-fuir-l-espace-aerien-russe-17ad99",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "Press Service of the President of Ukraine",
+   "photo_licence": "CC BY 4.0",
+   "image_auto": "wikipedia-fr:Volodymyr Zelensky",
    "_volet": "report",
    "_slug": "kiev-presse-l-aviation-civile-de-fuir-l-espace-aerien-russe-17ad99"
   },
@@ -3854,6 +4577,7 @@
    ],
    "permalien": "fusillade-a-minneapolis-plusieurs-blesses-dont-deux-policier-9848ca",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "fusillade-a-minneapolis-plusieurs-blesses-dont-deux-policier-9848ca"
   },
@@ -3865,8 +4589,8 @@
    "medias": "Eurasia Review, Kyiv Independent",
    "url": "https://www.eurasiareview.com/03092026-rubio-confirms-ukraine-patriot-talks-as-experts-warn-production-is-years-away/",
    "resume": "Le secrétaire d'État américain Marco Rubio confirme que Washington et Kiev négocient une licence permettant à l'Ukraine de produire elle-même des missiles pour le système antiaérien Patriot, un projet que des experts jugent sans effet avant plusieurs années, le temps de bâtir des chaînes de production.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Marco Rubio",
    "horodate": "2026-09-02T22:02-04:00",
    "sources": [
     {
@@ -3882,6 +4606,9 @@
    ],
    "permalien": "washington-et-kiev-negocient-une-licence-pour-produire-des-m-fd751a",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "U.S. Department of State",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Marco Rubio",
    "_volet": "report",
    "_slug": "washington-et-kiev-negocient-une-licence-pour-produire-des-m-fd751a"
   },
@@ -3893,8 +4620,8 @@
    "medias": "RFE/RL, The Guardian",
    "url": "https://www.rferl.org/a/ukraine-kyiv-shootout-security-agencies/33845793.html",
    "resume": "Des agents du renseignement militaire ukrainien (HUR) affirment avoir essuyé sans sommation des tirs de leurs homologues du service de sécurité intérieure (SBU) à Kiev, un échange de tirs qui a fait trois blessés selon The Guardian; le président Volodymyr Zelensky a qualifié l'incident de « tout à fait inadmissible » et réclamé des sanctions contre les responsables.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg/1280px-Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Volodymyr Zelensky",
    "horodate": "2026-09-02T22:02-04:00",
    "sources": [
     {
@@ -3910,6 +4637,9 @@
    ],
    "permalien": "zelensky-exige-des-comptes-apres-une-fusillade-entre-service-cbe012",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "Press Service of the President of Ukraine",
+   "photo_licence": "CC BY 4.0",
+   "image_auto": "wikipedia-fr:Volodymyr Zelensky",
    "_volet": "report",
    "_slug": "zelensky-exige-des-comptes-apres-une-fusillade-entre-service-cbe012"
   },
@@ -3921,8 +4651,8 @@
    "medias": "Le Soir",
    "url": "https://www.lesoir.be/768651/article/2026-09-02/allemagne-neuf-blesses-par-un-liquide-deverse-sur-un-stand-du-parti-dextreme",
    "resume": "Un liquide non identifié a été déversé depuis un immeuble voisin sur un stand d'information du parti d'extrême droite AfD à Bad Kreuznach, en Allemagne, causant des irritations cutanées légères à neuf personnes, dont deux ont été conduites à l'hôpital par précaution avant d'en ressortir rapidement, a indiqué la police.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/1280px-Pauluskirche_kreuznach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Bad Kreuznach",
    "horodate": "2026-09-02T22:02-04:00",
    "sources": [
     {
@@ -3933,6 +4663,9 @@
    ],
    "permalien": "neuf-blesses-apres-qu-un-liquide-a-ete-deverse-sur-un-stand-b9f85e",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "Nahefoto 16:49, 23. Dez. 2007 (CET)",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-fr:Bad Kreuznach",
    "_volet": "report",
    "_slug": "neuf-blesses-apres-qu-un-liquide-a-ete-deverse-sur-un-stand-b9f85e"
   },
@@ -3976,6 +4709,7 @@
    ],
    "permalien": "un-etudiant-de-l-ontario-accuse-d-espionnage-aux-etats-unis-1cdcbf",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "un-etudiant-de-l-ontario-accuse-d-espionnage-aux-etats-unis-1cdcbf"
   },
@@ -3999,6 +4733,9 @@
    ],
    "permalien": "reconnu-coupable-du-meurtre-d-un-homme-poignarde-devant-un-s-37b43a",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "reconnu-coupable-du-meurtre-d-un-homme-poignarde-devant-un-s-37b43a"
   },
@@ -4022,6 +4759,7 @@
    ],
    "permalien": "le-jury-reste-dans-l-impasse-au-proces-de-lindsay-clancy-ddf230",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "le-jury-reste-dans-l-impasse-au-proces-de-lindsay-clancy-ddf230"
   },
@@ -4065,6 +4803,7 @@
    ],
    "permalien": "demantelement-de-deux-reseaux-de-vol-d-outils-a-montreal-pre-7fe573",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "demantelement-de-deux-reseaux-de-vol-d-outils-a-montreal-pre-7fe573"
   },
@@ -4076,8 +4815,8 @@
    "medias": "La Presse",
    "url": "https://www.lapresse.ca/arts/musique/2026-09-02/la-chanteuse-jazz-cassandra-wilson-n-est-plus.php",
    "resume": "La chanteuse, compositrice et productrice de jazz Cassandra Wilson, double lauréate d'un Grammy Award et surnommée « la meilleure chanteuse américaine » par le magazine Time en 2001, est morte à 70 ans, rapporte La Presse.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Cassandra_Wilson.jpg/1280px-Cassandra_Wilson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Cassandra Wilson",
    "horodate": "2026-09-02T22:02-04:00",
    "sources": [
     {
@@ -4088,6 +4827,9 @@
    ],
    "permalien": "mort-de-la-chanteuse-de-jazz-cassandra-wilson-463a05",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "Professor Bop",
+   "photo_licence": "CC BY 2.0",
+   "image_auto": "wikipedia-fr:Cassandra Wilson",
    "_volet": "report",
    "_slug": "mort-de-la-chanteuse-de-jazz-cassandra-wilson-463a05"
   },
@@ -4099,8 +4841,8 @@
    "medias": "La Presse",
    "url": "https://www.lapresse.ca/cinema/2026-09-02/george-lucas-devoile-une-galaxie-d-oeuvres-d-art-dans-son-nouveau-musee-de-los-angeles.php",
    "resume": "Le cinéaste George Lucas a présenté mercredi un premier aperçu des espaces intérieurs de son nouveau musée de Los Angeles, qui exposera des pièces inédites de sa collection personnelle, dont des souvenirs de la saga Star Wars, rapporte La Presse.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/George_Lucas_cropped_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "George Lucas",
    "horodate": "2026-09-02T22:02-04:00",
    "sources": [
     {
@@ -4111,6 +4853,9 @@
    ],
    "permalien": "george-lucas-devoile-son-nouveau-musee-de-los-angeles-2365b6",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "nicolas genin",
+   "photo_licence": "CC BY-SA 2.0",
+   "image_auto": "wikipedia-fr:George Lucas",
    "_volet": "report",
    "_slug": "george-lucas-devoile-son-nouveau-musee-de-los-angeles-2365b6"
   },
@@ -4134,6 +4879,7 @@
    ],
    "permalien": "plus-aucun-cetace-en-captivite-au-canada-ee5d2f",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "plus-aucun-cetace-en-captivite-au-canada-ee5d2f"
   },
@@ -4145,8 +4891,8 @@
    "medias": "InfoBref",
    "url": "https://infobref.com/timhortons-canadiantire-2026-09/",
    "resume": "Les détenteurs d'un compte Récompenses Triangle de Canadian Tire peuvent désormais le lier à leur compte FidéliTim, ce qui donne droit à une ristourne pouvant atteindre 5 % de leurs achats chez Tim Hortons en argent Canadian Tire, utilisable dans ce magasin et ses bannières sœurs, rapporte InfoBref.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Tim_Hortons_in_Winnipeg%2C_MB%2C_Canada.jpg/1280px-Tim_Hortons_in_Winnipeg%2C_MB%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Tim Hortons",
    "horodate": "2026-09-02T22:02-04:00",
    "sources": [
     {
@@ -4157,6 +4903,9 @@
    ],
    "permalien": "canadian-tire-jumelle-son-programme-de-fidelite-a-celui-de-t-aca31e",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC0",
+   "image_auto": "wikipedia-fr:Tim Hortons",
    "_volet": "report",
    "_slug": "canadian-tire-jumelle-son-programme-de-fidelite-a-celui-de-t-aca31e"
   },
@@ -4168,8 +4917,8 @@
    "medias": "Le Devoir, Le Charlevoisien",
    "url": "https://www.ledevoir.com/actualites/education/1005644/cette-ecole-deborde-elle-raison-trop-grand-nombre-nouveaux-eleves-issus-immigration",
    "resume": "Le chef péquiste Paul St-Pierre Plamondon a attribué le débordement de l'école secondaire Roger-Comtois, à Québec, à « un trop grand nombre » de nouveaux élèves immigrants — passés de 83 à 293 en sept ans, soit 12 % des 2441 élèves. Le Centre de services scolaire de la Capitale et un syndicat enseignant nuancent : une partie de la hausse tient à la croissance résidentielle du secteur et à la fin de la redirection vers d'autres écoles des élèves nécessitant des services de francisation.\n\n**Mise à jour, 19 h 24** — La porte-parole solidaire Ruba Ghazal a accusé Paul St-Pierre Plamondon de tenir un « discours divisif » en associant l'immigration au débordement des écoles ; il a répliqué que sa lecture était « factuelle » et « pas raciste ».\n\n**Mise à jour, 3 h 25** — Québec solidaire propose de réduire de moitié le taux de décrochage scolaire, de 14 % à 7 %, une cible saluée par Paul St-Pierre Plamondon ; sa co-porte-parole Ruba Ghazal a toutefois relancé ses critiques du chef péquiste sur l'immigration, lui demandant : « c'est qui, pour lui, les Québécois ? »",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Paul.St-Pierre.Plamondon.cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Paul St-Pierre Plamondon",
    "horodate": "2026-09-03T03:27-04:00",
    "sources": [
     {
@@ -4195,6 +4944,9 @@
    ],
    "permalien": "pspp-lie-le-debordement-d-une-ecole-de-loretteville-a-l-immi-1a21a2",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "UnPingouin",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Paul St-Pierre Plamondon",
    "_volet": "report",
    "_slug": "pspp-lie-le-debordement-d-une-ecole-de-loretteville-a-l-immi-1a21a2"
   },
@@ -4206,8 +4958,8 @@
    "medias": "Radio-Canada",
    "url": "https://ici.radio-canada.ca/info/videos/1-10750399/3e-lien-et-unesco-statut-vieux-quebec-a-risque",
    "resume": "L'UNESCO réclame de connaître les impacts patrimoniaux du projet de troisième lien porté par la cheffe caquiste Christine Fréchette, jugeant à risque le statut de site historique du Vieux-Québec.\n\n**Mise à jour, 21 h 19** — Le maire de Québec Bruno Marchand juge que risquer la désignation de patrimoine mondial de l'UNESCO serait « une erreur terrible » ; Christine Fréchette répond qu'elle contactera l'UNESCO une fois le corridor du 3e lien défini, et Éric Duhaime rétorque que le secteur est déjà marqué par des pylônes d'Hydro-Québec.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Christine Fréchette",
    "horodate": "2026-09-02T21:19-04:00",
    "sources": [
     {
@@ -4228,6 +4980,9 @@
    ],
    "permalien": "l-unesco-s-inquiete-des-impacts-du-troisieme-lien-sur-le-vie-cd5069",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "image_auto": "wikipedia-fr:Christine Fréchette",
    "_volet": "report",
    "_slug": "l-unesco-s-inquiete-des-impacts-du-troisieme-lien-sur-le-vie-cd5069"
   },
@@ -4276,6 +5031,7 @@
    ],
    "permalien": "elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519"
   },
@@ -4287,8 +5043,8 @@
    "medias": "La Presse, Les Affaires, Québecor, Coops de l'information, Le Devoir",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-02/caq/privatiser-des-services-et-supprimer-2900-postes-promet-frechette.php",
    "resume": "La cheffe de la CAQ Christine Fréchette promet de confier certains services publics au privé et de supprimer 2900 postes de fonctionnaires d'ici 2029 via un programme de retraite anticipée dès 55 ans, en plus de créer une équipe dédiée à l'« efficacité de l'État ».\n\n**Mise à jour, 14 h** — Le gouvernement chiffre à 507 millions de dollars d'ici 2030-2031 les économies attendues de son plan de réduction de l'État — un « scalpel », dit Christine Fréchette, par opposition à la « tronçonneuse » qu'elle prête à Éric Duhaime.\n\n**Mise à jour, 17 h** — Québec solidaire réplique qu'il faut se méfier des propositions simplistes en matière de réduction de la taille de l'État, selon Radio-Canada.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Christine Fréchette",
    "sources": [
     {
      "media": "Coalition Avenir Québec",
@@ -4354,6 +5110,9 @@
    "horodate": "2026-09-02T17:55-04:00",
    "permalien": "frechette-promet-de-privatiser-des-services-publics-et-de-su-820190",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "image_auto": "wikipedia-fr:CAQ Christine Fréchette",
    "_volet": "report",
    "_slug": "frechette-promet-de-privatiser-des-services-publics-et-de-su-820190"
   },
@@ -4382,6 +5141,7 @@
    "horodate": "2026-09-02T14:24-04:00",
    "permalien": "la-caq-verse-des-contrats-a-un-organisme-voue-a-la-promotion-c1d79e",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "la-caq-verse-des-contrats-a-un-organisme-voue-a-la-promotion-c1d79e"
   },
@@ -4415,6 +5175,7 @@
    ],
    "permalien": "le-plq-promet-de-reparer-les-infrastructures-plutot-que-d-en-08154f",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "le-plq-promet-de-reparer-les-infrastructures-plutot-que-d-en-08154f"
   },
@@ -4426,8 +5187,8 @@
    "medias": "Québecor, Le Devoir, Journal Métro",
    "url": "https://www.journaldequebec.com/2026/09/02/le-pq-imposerait-60-minutes-dactivite-physique-par-jour-a-lecole",
    "resume": "Le chef péquiste Paul St-Pierre Plamondon promet un minimum de 60 minutes d'activité physique obligatoire par jour à l'école primaire et secondaire, et une « mise à jour » du système d'éducation pour réduire les inégalités selon le milieu, deux chantiers qu'il soumettrait à des états généraux dans les 100 premiers jours d'un gouvernement péquiste.\n\n**Mise à jour, 17 h** — Le PQ précise que ces mesures font partie de cinq chantiers pour l'école publique, dont une liste d'œuvres littéraires québécoises obligatoires et un jumelage entre écoles urbaines et régionales, selon Journal Métro.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Paul.St-Pierre.Plamondon.cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Paul St-Pierre Plamondon",
    "horodate": "2026-09-02T17:20-04:00",
    "sources": [
     {
@@ -4453,6 +5214,9 @@
    ],
    "permalien": "le-pq-promet-60-minutes-d-activite-physique-par-jour-a-l-eco-03ace7",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "UnPingouin",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Paul St-Pierre Plamondon",
    "_volet": "report",
    "_slug": "le-pq-promet-60-minutes-d-activite-physique-par-jour-a-l-eco-03ace7"
   },
@@ -4476,6 +5240,7 @@
    ],
    "permalien": "les-groupes-environnementaux-de-la-cote-nord-reclament-que-d-b4bf50",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "les-groupes-environnementaux-de-la-cote-nord-reclament-que-d-b4bf50"
   },
@@ -4487,8 +5252,8 @@
    "medias": "Radio-Canada",
    "url": "https://ici.radio-canada.ca/info/videos/1-10750804/operation-seduction-envers-federalistes",
    "resume": "Christine Fréchette invite les électeurs fédéralistes déçus du Parti libéral du Québec à rejoindre la CAQ d'ici le scrutin du 5 octobre, un appel auquel réplique aussitôt le chef libéral Charles Milliard.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Christine Fréchette",
    "horodate": "2026-09-02T14:24-04:00",
    "sources": [
     {
@@ -4499,6 +5264,9 @@
    ],
    "permalien": "frechette-invite-les-federalistes-decus-du-plq-a-rejoindre-l-fd71a7",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "image_auto": "wikipedia-fr:Christine Fréchette",
    "_volet": "report",
    "_slug": "frechette-invite-les-federalistes-decus-du-plq-a-rejoindre-l-fd71a7"
   },
@@ -4532,6 +5300,7 @@
    ],
    "permalien": "coalition-union-138-presse-les-candidats-de-rene-levesque-de-a99b9d",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "coalition-union-138-presse-les-candidats-de-rene-levesque-de-a99b9d"
   },
@@ -4555,6 +5324,7 @@
    ],
    "permalien": "taschereau-microcosme-du-centre-ville-de-quebec-chaudement-d-befc35",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "taschereau-microcosme-du-centre-ville-de-quebec-chaudement-d-befc35"
   },
@@ -4578,6 +5348,7 @@
    ],
    "permalien": "le-candidat-liberal-exclu-dans-rimouski-dit-n-avoir-rien-a-s-6ff3e6",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "le-candidat-liberal-exclu-dans-rimouski-dit-n-avoir-rien-a-s-6ff3e6"
   },
@@ -4606,6 +5377,7 @@
    ],
    "permalien": "les-candidats-de-laviolettesaint-maurice-reagissent-au-rappo-85e827",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "les-candidats-de-laviolettesaint-maurice-reagissent-au-rappo-85e827"
   },
@@ -4629,6 +5401,7 @@
    ],
    "permalien": "a-shawinigan-les-partis-divergent-sur-l-integration-des-immi-900c4e",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "a-shawinigan-les-partis-divergent-sur-l-integration-des-immi-900c4e"
   },
@@ -4652,6 +5425,7 @@
    ],
    "permalien": "riviere-du-louptemiscouatales-basques-le-demenagement-du-tra-6addec",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "riviere-du-louptemiscouatales-basques-le-demenagement-du-tra-6addec"
   },
@@ -4663,8 +5437,8 @@
    "medias": "Coalition Avenir Québec, Radio-Canada, Coops de l'information",
    "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/02/lequipe-christine-frechette-veut-renverser-la-tendance-en-itinerance/",
    "resume": "La cheffe de la CAQ Christine Fréchette promet de bâtir avec le milieu un plan d'action national en itinérance présenté au printemps 2027 et de bonifier de 100 millions de dollars l'aide au logement, dont 2000 nouveaux suppléments au loyer, lors d'un arrêt de campagne à Trois-Rivières.\n\n**Mise à jour, 19 h 24** — Lors du même passage à Trois-Rivières, Christine Fréchette a aussi promis près de 100 M$ pour agrandir et moderniser le CHAUR et pour sécuriser le site de la Belgo, à la suite des recommandations du coroner sur la chute mortelle de la jeune Victoria.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Christine Fréchette",
    "sources": [
     {
      "media": "Coalition Avenir Québec",
@@ -4690,6 +5464,9 @@
    "horodate": "2026-09-02T19:24-04:00",
    "permalien": "frechette-promet-un-plan-national-et-100-m-contre-l-itineran-13353e",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "image_auto": "wikipedia-fr:CAQ Christine Fréchette",
    "_volet": "report",
    "_slug": "frechette-promet-un-plan-national-et-100-m-contre-l-itineran-13353e"
   },
@@ -4701,8 +5478,8 @@
    "medias": "Parti conservateur du Québec, Journal Métro",
    "url": "https://conservateur.quebec/blog/ressources/fini-la-paperasse-le-pcq-veut-redonner-32-jours-par-annee-aux-entrepreneurs/",
    "resume": "Le chef conservateur Éric Duhaime propose de réduire de 30 % la réglementation imposée aux entreprises au cours d'un premier mandat, ce qu'il chiffre à 32 jours de démarches redonnés par année à chaque entrepreneur sur les 145 958 exigences réglementaires provinciales recensées par son parti.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%C3%89ric_Duhaime_2022-07-05_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Éric Duhaime",
    "sources": [
     {
      "media": "Parti conservateur du Québec",
@@ -4718,6 +5495,9 @@
    "horodate": "2026-09-02T17:55-04:00",
    "permalien": "le-pcq-promet-de-reduire-de-30-le-fardeau-reglementaire-des-8d1722",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "Asclepias",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-fr:Éric Duhaime",
    "_volet": "report",
    "_slug": "le-pcq-promet-de-reduire-de-30-le-fardeau-reglementaire-des-8d1722"
   },
@@ -4741,6 +5521,7 @@
    "horodate": "2026-09-02T17:55-04:00",
    "permalien": "sondage-leger-la-baisse-de-la-tvq-sur-les-biens-usages-prome-b2817c",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "sondage-leger-la-baisse-de-la-tvq-sur-les-biens-usages-prome-b2817c"
   },
@@ -4752,8 +5533,8 @@
    "medias": "Québecor",
    "url": "https://www.journaldequebec.com/2026/09/02/frechette-rabroue-drainville-et-lui-demande-de-retirer-ses-propos-contre-trump",
    "resume": "Le ministre sortant Bernard Drainville a tenu des propos vulgaires à l'endroit de Donald Trump lors d'une entrevue radiophonique sur les tarifs américains ; la première ministre Christine Fréchette l'a aussitôt rabroué en mêlée de presse et lui a demandé de retirer ses paroles, qu'il a reconnues « inappropriées » tout en maintenant son indignation.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bernard_Drainville_Janvier_2024_%281%3B_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Bernard Drainville",
    "sources": [
     {
      "media": "Le Journal de Québec",
@@ -4764,6 +5545,9 @@
    "horodate": "2026-09-02T19:24-04:00",
    "permalien": "bernard-drainville-tient-des-propos-vulgaires-contre-trump-e-4f41ba",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "image_auto": "wikipedia-fr:Bernard Drainville",
    "_volet": "report",
    "_slug": "bernard-drainville-tient-des-propos-vulgaires-contre-trump-e-4f41ba"
   },
@@ -4775,8 +5559,8 @@
    "medias": "Québecor",
    "url": "https://www.journaldemontreal.com/2026/09/04/boissonneault-affirme-a-tort-que-la-caq-a-accueilli-plus-dimmigrants-quen-60-ans",
    "resume": "Le Bureau d'enquête du Journal de Montréal établit que l'affirmation répétée par le péquiste Alex Boissonneault — la CAQ aurait accueilli plus d'immigrants en huit ans que tous les gouvernements réunis entre le début des années 1960 et 2018 — est fausse : le Québec a accueilli 1,9 million d'immigrants entre le début des années 1960 et 2018 selon l'ISQ, contre environ 400 000 depuis l'arrivée de la CAQ au pouvoir.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Alex_Boissonneault_lors_de_son_assermentation.jpg/1280px-Alex_Boissonneault_lors_de_son_assermentation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Alex Boissonneault",
    "sources": [
     {
      "media": "Le Journal de Montréal",
@@ -4787,6 +5571,9 @@
    "horodate": "2026-09-02T19:24-04:00",
    "permalien": "verification-alex-boissonneault-exagere-sur-le-nombre-d-immi-ba4c57",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "Philippe-Olivier Contant",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Alex Boissonneault",
    "_volet": "report",
    "_slug": "verification-alex-boissonneault-exagere-sur-le-nombre-d-immi-ba4c57"
   },
@@ -4810,6 +5597,9 @@
    "horodate": "2026-09-02T19:24-04:00",
    "permalien": "des-affiches-electorales-de-la-caq-vandalisees-a-drummondvil-758a54",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "des-affiches-electorales-de-la-caq-vandalisees-a-drummondvil-758a54"
   },
@@ -4833,6 +5623,9 @@
    "horodate": "2026-09-02T19:24-04:00",
    "permalien": "le-plq-presente-colin-hendry-dans-drummondbois-francs-1d68a4",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "le-plq-presente-colin-hendry-dans-drummondbois-francs-1d68a4"
   },
@@ -4856,6 +5649,7 @@
    "horodate": "2026-09-02T19:24-04:00",
    "permalien": "une-candidate-fictive-lancee-en-gaspesie-pour-porter-les-enj-cdef1e",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "une-candidate-fictive-lancee-en-gaspesie-pour-porter-les-enj-cdef1e"
   },
@@ -4867,8 +5661,8 @@
    "medias": "Radio-Canada",
    "url": "https://ici.radio-canada.ca/nouvelle/2280177/etats-generaux-education-promesse-ecole-trois-vitesses",
    "resume": "Le chef péquiste Paul St-Pierre Plamondon promet de tenir des états généraux sur l'éducation dans les 100 premiers jours d'un gouvernement du PQ, une idée aussitôt reprise par le libéral Charles Milliard et la solidaire Ruba Ghazal, tandis que la CAQ s'y oppose en évoquant le risque de retarder les réformes en cours.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Paul.St-Pierre.Plamondon.cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Paul St-Pierre Plamondon",
    "horodate": "2026-09-02T21:19-04:00",
    "sources": [
     {
@@ -4879,6 +5673,9 @@
    ],
    "permalien": "le-pq-le-plq-et-qs-promettent-tous-des-etats-generaux-sur-l-de0ddd",
    "_fichier": "revue-report-2026-09-03.json",
+   "photo_auteur": "UnPingouin",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Paul St-Pierre Plamondon",
    "_volet": "report",
    "_slug": "le-pq-le-plq-et-qs-promettent-tous-des-etats-generaux-sur-l-de0ddd"
   },
@@ -4902,6 +5699,7 @@
    ],
    "permalien": "deux-nouvelles-candidatures-approuvees-dans-duplessis-par-le-a65bb9",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "deux-nouvelles-candidatures-approuvees-dans-duplessis-par-le-a65bb9"
   },
@@ -4930,6 +5728,7 @@
    ],
    "permalien": "l-abitibi-temiscamingue-reclame-une-plus-grande-reconnaissan-7f5782",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "l-abitibi-temiscamingue-reclame-une-plus-grande-reconnaissan-7f5782"
   },
@@ -4953,6 +5752,7 @@
    ],
    "permalien": "les-pequistes-regionaux-constatent-l-engouement-grandissant-b3ba3a",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "les-pequistes-regionaux-constatent-l-engouement-grandissant-b3ba3a"
   },
@@ -4976,6 +5776,7 @@
    ],
    "permalien": "le-pcq-promet-de-reduire-la-fonction-publique-de-20-000-post-795aba",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "le-pcq-promet-de-reduire-la-fonction-publique-de-20-000-post-795aba"
   },
@@ -4999,6 +5800,7 @@
    ],
    "permalien": "l-ex-depute-federal-neo-democrate-pierre-etienne-nantel-conf-973cf0",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "l-ex-depute-federal-neo-democrate-pierre-etienne-nantel-conf-973cf0"
   },
@@ -5040,6 +5842,7 @@
    "horodate": "2026-09-03T05:28-04:00",
    "permalien": "le-secretaire-americain-a-l-energie-au-venezuela-pour-l-acco-a71ce5",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "le-secretaire-americain-a-l-energie-au-venezuela-pour-l-acco-a71ce5"
   },
@@ -5088,6 +5891,7 @@
    ],
    "permalien": "crues-au-nepal-le-bilan-depasse-1000-morts-une-trentaine-de-45d316",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "crues-au-nepal-le-bilan-depasse-1000-morts-une-trentaine-de-45d316"
   },
@@ -5191,6 +5995,7 @@
    ],
    "permalien": "l-allemagne-ferme-la-maison-russe-de-berlin-apres-l-affaire-579d1c",
    "_fichier": "revue-report-2026-09-03.json",
+   "image_auto": "aucune",
    "_volet": "report",
    "_slug": "l-allemagne-ferme-la-maison-russe-de-berlin-apres-l-affaire-579d1c"
   },
@@ -5383,6 +6188,7 @@
     }
    ],
    "permalien": "des-ondes-cerebrales-enregistrees-pendant-l-eveil-pourraient-d30bc7",
+   "image_auto": "aucune",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "des-ondes-cerebrales-enregistrees-pendant-l-eveil-pourraient-d30bc7"
@@ -5406,6 +6212,9 @@
     }
    ],
    "permalien": "des-chercheuses-montrealaises-decouvrent-comment-l-hepatite-1131ac",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "des-chercheuses-montrealaises-decouvrent-comment-l-hepatite-1131ac"
@@ -5454,6 +6263,7 @@
     }
    ],
    "permalien": "l-union-europeenne-place-chatgpt-reddit-et-roblox-parmi-les-8b9768",
+   "image_auto": "aucune",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "l-union-europeenne-place-chatgpt-reddit-et-roblox-parmi-les-8b9768"
@@ -5497,6 +6307,7 @@
     }
    ],
    "permalien": "la-presentation-de-gta-vi-sur-netflix-attire-un-pic-de-pres-44db4d",
+   "image_auto": "aucune",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "la-presentation-de-gta-vi-sur-netflix-attire-un-pic-de-pres-44db4d"
@@ -5530,6 +6341,7 @@
     }
    ],
    "permalien": "une-fuite-de-13-teraoctets-devoile-des-contenus-inedits-de-l-61d4e9",
+   "image_auto": "aucune",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "une-fuite-de-13-teraoctets-devoile-des-contenus-inedits-de-l-61d4e9"
@@ -5577,8 +6389,8 @@
    "medias": "Mac4Ever, MacGeneration, The Verge",
    "url": "https://www.mac4ever.com/divers/197786-apres-tim-cook-phil-schiller-se-retire-davantage-d-apple-qui-prendra-sa-place",
    "resume": "Le même jour que le départ de Tim Cook de la direction générale d'Apple, Phil Schiller a cédé à Eddy Cue la supervision de l'App Store et des événements de la marque, deux responsabilités qu'il assumait depuis 2020 à titre d'Apple Fellow, selon Bloomberg cité par Mac4Ever.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Phil_Schiller_2012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Phil Schiller",
    "horodate": "2026-09-03T02:30-04:00",
    "sources": [
     {
@@ -5598,6 +6410,9 @@
     }
    ],
    "permalien": "phil-schiller-quitte-la-direction-de-l-app-store-eddy-cue-re-de0243",
+   "photo_auteur": "Ben Miller",
+   "photo_licence": "CC BY 2.0",
+   "image_auto": "wikipedia-fr:Phil Schiller",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "phil-schiller-quitte-la-direction-de-l-app-store-eddy-cue-re-de0243"
@@ -5631,6 +6446,7 @@
     }
    ],
    "permalien": "la-coree-du-sud-lance-un-acces-gratuit-et-illimite-a-l-ia-ge-b5b010",
+   "image_auto": "aucune",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "la-coree-du-sud-lance-un-acces-gratuit-et-illimite-a-l-ia-ge-b5b010"
@@ -5643,8 +6459,8 @@
    "medias": "Presse-citron, Clubic, Mac4Ever",
    "url": "https://www.presse-citron.net/mark-zuckerberg-veut-virer-tous-ses-employes-pour-les-remplacer-par-des-ia-il-se-prend-un-mur/",
    "resume": "Selon Reuters, Meta avait envisagé de supprimer 60 % de ses effectifs pour les remplacer par de l'intelligence artificielle dans le cadre d'un plan interne baptisé « Transformation organisationnelle », avant de limiter une première vague à 10 % des employés, soit 8 000 postes, et d'annuler la seconde prévue pour novembre. La démotivation provoquée par ce projet et par un système de surveillance des employés par IA a forcé l'entreprise à annuler un hackathon interne en juillet, rapportent Reuters et Wired.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/F20250904AH-2915_%2854778607243%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Mark Zuckerberg",
    "horodate": "2026-09-03T02:30-04:00",
    "sources": [
     {
@@ -5664,6 +6480,9 @@
     }
    ],
    "permalien": "chez-meta-le-plan-de-mark-zuckerberg-pour-remplacer-des-empl-d4e270",
+   "photo_auteur": "The White House",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Mark Zuckerberg",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "chez-meta-le-plan-de-mark-zuckerberg-pour-remplacer-des-empl-d4e270"
@@ -5687,6 +6506,7 @@
     }
    ],
    "permalien": "meta-accepte-de-verser-jusqu-a-17-milliards-de-dollars-pour-42d243",
+   "image_auto": "aucune",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "meta-accepte-de-verser-jusqu-a-17-milliards-de-dollars-pour-42d243"
@@ -5720,6 +6540,9 @@
     }
    ],
    "permalien": "openai-coupe-l-acces-de-cursor-a-ses-modeles-apres-le-rachat-6b3a71",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "openai-coupe-l-acces-de-cursor-a-ses-modeles-apres-le-rachat-6b3a71"
@@ -5757,8 +6580,8 @@
    "medias": "Philosophie magazine",
    "url": "https://www.philomag.com/articles/quel-prof-de-philo-ete-jean-paul-sartre-lun-de-ses-anciens-eleves-temoigne",
    "resume": "Maurice Mermet, aujourd'hui centenaire et ancien élève de Jean-Paul Sartre au lycée Condorcet, a retrouvé dans de vieux cartons les notes du cours de philosophie que le futur auteur de « L'Être et le Néant » a donné en classe de terminale entre 1931 et 1944, publiées le 3 septembre chez Gallimard, rapporte Philosophie magazine.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flickr_-_Government_Press_Office_%28GPO%29_-_Jean_Paul_Sartre_and_Simone_De_Beauvoir_welcomed_by_Avraham_Shlonsky_and_Leah_Goldberg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Jean-Paul Sartre",
    "horodate": "2026-09-03T02:30-04:00",
    "sources": [
     {
@@ -5768,6 +6591,9 @@
     }
    ],
    "permalien": "un-cours-inedit-de-jean-paul-sartre-professeur-de-philosophi-56b8cd",
+   "photo_auteur": "Moshe Milner",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-fr:Jean-Paul Sartre",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "un-cours-inedit-de-jean-paul-sartre-professeur-de-philosophi-56b8cd"
@@ -5791,6 +6617,7 @@
     }
    ],
    "permalien": "la-russie-a-detruit-pres-de-12-millions-de-livres-ukrainiens-d75803",
+   "image_auto": "aucune",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "la-russie-a-detruit-pres-de-12-millions-de-livres-ukrainiens-d75803"
@@ -5814,6 +6641,9 @@
     }
    ],
    "permalien": "treize-films-patrimoniaux-restaures-par-elephant-integrent-l-b37862",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "treize-films-patrimoniaux-restaures-par-elephant-integrent-l-b37862"
@@ -5826,8 +6656,8 @@
    "medias": "Le Journal de Montréal",
    "url": "https://www.journaldemontreal.com/2026/08/29/kim-nguyen-revisite-une-image-qui-a-marque-lhistoire-dans-son-documentaire-une-photo-a-saigon--coups-de-feu-sur-deux-vies",
    "resume": "Le cinéaste québécois Kim Nguyen, réalisateur de « Rebelle », lance le 4 septembre le documentaire « Une photo à Saigon : coups de feu sur deux vies », qui retrace le destin des descendants du général sud-vietnamien et du prisonnier viet-cong photographiés en 1968 par Eddie Adams dans un cliché devenu emblématique de la guerre du Vietnam.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kim_Nguyen_%28cropped%29.jpg/1280px-Kim_Nguyen_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Kim Nguyen",
    "horodate": "2026-09-03T02:30-04:00",
    "sources": [
     {
@@ -5837,6 +6667,9 @@
     }
    ],
    "permalien": "kim-nguyen-retrace-le-destin-de-deux-familles-liees-a-la-pho-d9be1a",
+   "photo_auteur": "Bob Howard from Tallahassee, U.S.A.",
+   "photo_licence": "CC BY 2.0",
+   "image_auto": "wikipedia-fr:Kim Nguyen",
    "_volet": "savoirs",
    "_fichier": "revue-savoirs-2026-09-03.json",
    "_slug": "kim-nguyen-retrace-le-destin-de-deux-familles-liees-a-la-pho-d9be1a"
