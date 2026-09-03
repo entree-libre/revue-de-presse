@@ -214,7 +214,11 @@ function filtrer(){
    if(!val)p.classList.toggle('on',!Object.keys(act[axe]).length);});
  document.querySelectorAll('[data-bloc]').forEach(function(b){
    var v=b.querySelectorAll('article.carte:not([style*="none"])').length;
-   b.style.display=v?'':'none';});
+   b.style.display=v?'':'none';
+   /* le compte du titre suit le filtre */
+   var t=b.querySelector(':scope > h2 .cnt, :scope > h3 .cnt');
+   if(t){if(!t.dataset.orig)t.dataset.orig=t.textContent;
+    t.textContent=quelque?('— '+v+(/sujet/.test(t.dataset.orig)?' sujet'+(v>1?'s':''):'')):t.dataset.orig;}});
  var r=document.getElementById('res');
  if(r)r.textContent=quelque?n+' sujet'+(n>1?'s':''):'';
  var vd=document.getElementById('vide');
@@ -227,17 +231,31 @@ function filtrer(){
    (la page de la rubrique, de la region ou du cahier). */
 function facToggle(el,e){
  if(e&&(e.ctrlKey||e.metaKey||e.shiftKey||e.button===1))return true;
- el.classList.toggle('on');filtrer();return false;}
+ el.classList.toggle('on');filtrer();voirResultats();return false;}
 function facTout(el,e){
  if(e&&(e.ctrlKey||e.metaKey||e.shiftKey))return true;
  var axe=el.dataset.fac;
  document.querySelectorAll('.fac.on[data-fac="'+axe+'"]').forEach(function(p){if(p.dataset.val)p.classList.remove('on');});
- filtrer();return false;}
+ filtrer();voirResultats();return false;}
 function facRaz(){
  document.querySelectorAll('.fac.on[data-fac]').forEach(function(p){if(p.dataset.val)p.classList.remove('on');});
  var i=document.getElementById('q');if(i)i.value='';
  var s=document.getElementById('fc');if(s)s.value='';
- filtrer();}
+ filtrer();voirResultats();}
+/* Apres un filtre, ramener le debut de la liste sous la barre — sinon une
+   liste qui fond a deux sujets laisse le lecteur devant le pied de page. */
+function voirResultats(){
+ var z=document.getElementById('sujets'),f=document.getElementById('facettes');if(!z||!f)return;
+ var r=z.getBoundingClientRect(),dec=f.getBoundingClientRect().bottom;
+ if(r.top>=dec+8&&r.top<=innerHeight*0.6)return;
+ /* la barre reste depliee sous la main du lecteur ; elle se refermera a son
+    prochain geste de defilement */
+ f.classList.add('ouvert');
+ var haut=r.top+(window.scrollY||0), hf=f.getBoundingClientRect().height;
+ var top=parseFloat(getComputedStyle(f).top)||0;
+ var h=document.documentElement,avant=h.style.scrollBehavior;h.style.scrollBehavior='auto';
+ window.scrollTo(0,Math.max(0,haut-top-hf-10));h.style.scrollBehavior=avant;
+ setTimeout(hauteurEntete,30);}
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
 /* L'etat du filtre dans l'adresse : #f=c:quebec;r:economie,justice;g:03;q:mot */
@@ -313,14 +331,24 @@ function regrouper(mode,silencieux){
  if(!silencieux){var p=MAGASIN.lire('revue-prefs');p.vue=mode;MAGASIN.ecrire('revue-prefs',p);}
  filtrer();
 }
-/* La barre se replie apres un peu de defilement, avec une marge pour ne pas
-   battre des ailes autour du seuil ; un clic sur un libelle la deplie. */
+/* La barre se replie au moment ou elle se colle (son bord haut atteint le
+   decalage collant) et se redeploie des qu'on remonte au-dessus de sa place
+   naturelle — jamais avant qu'elle ne se colle : un lecteur qui descend vers
+   la liste la trouve entiere. Un clic sur un libelle la deplie sur place. */
 var defileEtat=false;
 function defiler(){
- var y=window.scrollY||0,f=document.getElementById('facettes');if(!f)return;
- if(!defileEtat&&y>360){defileEtat=true;H.classList.add('defile');f.classList.remove('ouvert');setTimeout(hauteurEntete,30);}
- else if(defileEtat&&y<140){defileEtat=false;H.classList.remove('defile');setTimeout(hauteurEntete,30);}}
+ var f=document.getElementById('facettes');if(!f)return;
+ if(getComputedStyle(f).position!=='sticky'){if(defileEtat){defileEtat=false;H.classList.remove('defile');}return;}
+ var haut=f.getBoundingClientRect().top, cible=parseFloat(getComputedStyle(f).top)||0;
+ var colle=haut<=cible+1;
+ if(colle&&!defileEtat){defileEtat=true;H.classList.add('defile');setTimeout(hauteurEntete,30);}
+ else if(!colle&&defileEtat){defileEtat=false;H.classList.remove('defile');f.classList.remove('ouvert');setTimeout(hauteurEntete,30);}}
 window.addEventListener('scroll',defiler,{passive:true});
+/* Une barre depliee a la main (ou gardee ouverte apres un filtre) se referme
+   des que le lecteur reprend le defilement lui-meme. */
+['wheel','touchstart'].forEach(function(ev){window.addEventListener(ev,function(){
+ var f=document.getElementById('facettes');if(f&&defileEtat&&f.classList.contains('ouvert'))
+  setTimeout(function(){f.classList.remove('ouvert');hauteurEntete();},400);},{passive:true});});
 document.addEventListener('click',function(e){
  var l=e.target&&e.target.closest?e.target.closest('nav.facettes .fac-lbl'):null;
  if(!l||l.tagName==='LABEL')return;
@@ -555,7 +583,9 @@ function hauteurEntete(){
  if(!t&&!n)return;
  var ht=t?t.getBoundingClientRect().height:0, hn=n?n.getBoundingClientRect().height:0,
      hf=f?f.getBoundingClientRect().height:0;
- var lourde=(ht+hn+hf)>innerHeight*0.34;
+ /* La barre de filtrage ne compte pas dans « lourde » : collee, elle est
+    repliee sur une ligne. Ce sont les deux barres du haut qui decident. */
+ var lourde=(ht+hn)>innerHeight*0.34;
  H.classList.toggle('entete-lourde',lourde);
  H.style.setProperty('--h-barre-reelle',Math.round(ht)+'px');
  H.style.setProperty('--h-cahiers-reelle',Math.round(ht+hn)+'px');

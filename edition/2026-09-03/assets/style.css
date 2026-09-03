@@ -170,12 +170,18 @@ nav.facettes{position:sticky;top:var(--h-cahiers-reelle,5rem);z-index:28;backgro
  padding:.32rem .8rem;flex:1 1 14rem;max-width:30rem;min-width:10rem}
 .fac-q input:focus{outline:2px solid var(--accent);outline-offset:-1px}
 .fac-q .res{font-size:.74rem;color:var(--muted);font-weight:600}
+/* Repliee : une seule ligne — les quatre libelles a la suite, chacun suivi
+   de ses pastilles cochees ; le reste attend un clic. */
+html.defile nav.facettes:not(.ouvert){flex-direction:row;flex-wrap:wrap;gap:.2rem 1.4rem;
+ padding:.3rem 0 .35rem}
+html.defile nav.facettes:not(.ouvert) .fac-ligne{min-height:1.2rem;gap:.25rem}
+html.defile nav.facettes:not(.ouvert) .fac-ligne .fac-lbl{min-width:0;flex-basis:auto}
 html.defile nav.facettes:not(.ouvert) .fac:not(.on):not(.raz){display:none}
 html.defile nav.facettes:not(.ouvert) .fac-q input:not(.plein){display:none}
-html.defile nav.facettes:not(.ouvert) .fac-ligne{min-height:1.2rem}
 html.defile nav.facettes:not(.ouvert) .fac-lbl::after{content:" ▾";color:var(--accent-txt)}
 html.defile nav.facettes:not(.ouvert) .fac.tout.on{display:none}
 html.defile nav.facettes:not(.ouvert) .fac-vue .fac.on{display:inline-flex}
+html.defile nav.facettes:not(.ouvert) .fac{padding:.14rem .55rem;font-size:.7rem}
 html.entete-lourde nav.facettes{position:static}
 @media (max-width:36rem){.fac-ligne .fac-lbl{min-width:0;flex-basis:100%}}
 html.l-36 .fac-ligne .fac-lbl{min-width:0;flex-basis:100%}
