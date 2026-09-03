@@ -2,6 +2,7 @@
  "date": "2026-09-03",
  "volets": [
   "elections",
+  "hors-rss",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -178,6 +179,11 @@
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/liste-de-lectures-obligatoires/la-promesse-du-pq-risque-de-politiser-la-litterature-d-ici.php",
      "date": "2026-09-03T05:21-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/promesse-du-pq-de-lectures-obligatoires/de-michel-jean-a-felix-leclerc-les-choix-de-livres-quebecois-des-lecteurs.php",
+     "date": "2026-09-03T10:21-04:00"
     }
    ],
    "permalien": "le-pq-promet-une-liste-de-lectures-obligatoire-de-classiques-477dbb",
@@ -259,6 +265,16 @@
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/le-pcq-promet-100-par-semaine-pour-les-parents-qui-gardent-leur-enfant-a-la-maison.php",
      "date": "2026-09-03T09:25-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006154/conservateurs-offrent-allocation-parents-gardant-enfants-domicile",
+     "date": "2026-09-03T10:21-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-8-le-pcq-veut-payer-100-aux-familles-qui-gardent-leurs-bambins-a-la-maison/",
+     "date": "2026-09-03T10:21-04:00"
     }
    ],
    "permalien": "le-pcq-propose-un-plan-famille-pour-desengorger-les-services-a8d7f5",
@@ -454,6 +470,318 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-parti-quebecois-complete-ses-candidatures-a-laval-avec-mi-26feeb"
+  },
+  {
+   "titre": "Un candidat écarté par le PLQ dans Rimouski dénonce le « manque de professionnalisme » du parti",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280013/charles-milliard-plq-elections-candidat",
+   "resume": "Étienne Pineau Saindon, écarté par le Parti libéral du Québec comme candidat dans Rimouski, dénonce le « manque de professionnalisme » de la formation, au lendemain d'une visite du chef Charles Milliard à Rivière-du-Loup pour appuyer sa candidate Karine Malenfant.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T10:21-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280013/charles-milliard-plq-elections-candidat",
+     "date": "2026-09-03T10:21-04:00"
+    }
+   ],
+   "permalien": "un-candidat-ecarte-par-le-plq-dans-rimouski-denonce-le-manqu-1e82c2",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "un-candidat-ecarte-par-le-plq-dans-rimouski-denonce-le-manqu-1e82c2"
+  },
+  {
+   "titre": "Québec solidaire propose un impôt sur la fortune des plus riches pour financer l'école publique",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/quebec-solidaire-va-taxer-les-grandes-fortunes-pour-reparer-lecole-publique/",
+   "resume": "Québec solidaire propose de créer un impôt sur la fortune des quelque 4 000 ménages québécois possédant plus de 25 millions de dollars, une mesure chiffrée par le parti à 5 milliards de dollars par année. Les revenus seraient consacrés à l'éducation publique : hausse des salaires enseignants à la prochaine négociation, 135 millions pour des professionnels auprès des élèves à besoins particuliers, 200 millions pour un « Réseau commun » de projets pédagogiques et 44 millions pour la rémunération des stages.\n\n« Le prochain gouvernement aura un choix à faire : couper encore dans nos services publics ou aller chercher plus d'argent en taxant les grandes fortunes », a déclaré la porte-parole Ruba Ghazal.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T10:21-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/quebec-solidaire-va-taxer-les-grandes-fortunes-pour-reparer-lecole-publique/",
+     "date": "2026-09-03T10:21-04:00"
+    }
+   ],
+   "permalien": "quebec-solidaire-propose-un-impot-sur-la-fortune-des-plus-ri-cd82b5",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "quebec-solidaire-propose-un-impot-sur-la-fortune-des-plus-ri-cd82b5"
+  },
+  {
+   "titre": "Beaumont se retire d’un projet de coopérative d’habitation après 572 000 $ de fonds publics",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Beaumont (Bellechasse)",
+   "medias": "Le Journal de Lévis",
+   "url": "https://www.journaldelevis.com/jdl/304/Nos_dossiers.html?id=46406",
+   "resume": "Après sept ans de démarches, la Municipalité de Beaumont a refusé de céder le terrain destiné à la coopérative Place Irenée Labrie, dont le montage financier reposait sur une contribution municipale de 500 000 $, soit 40 % de la subvention de la Société d’habitation du Québec : son directeur général, Normand Champagne, invoque un projet non conforme à la réglementation et des informations incomplètes, « comme signer un chèque en blanc », et des craintes d’élus sur l’accès aux services dans une municipalité sans épicerie, sans clinique et sans transport en commun.\n\nLe groupe de ressources techniques Nouvel Habitat chiffre à 572 000 $ les fonds publics déjà versés par la SHQ et la SCHL pour les études, les plans et les travaux de pré-chantier, et la mairesse Guylaine Gagnon dit miser plutôt sur l’unifamilial.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Lévis",
+     "url": "https://www.journaldelevis.com/jdl/304/Nos_dossiers.html?id=46406",
+     "date": "2026-09-02T11:20-04:00"
+    }
+   ],
+   "permalien": "beaumont-se-retire-dun-projet-de-cooperative-dhabitation-apr-54d2f2",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "beaumont-se-retire-dun-projet-de-cooperative-dhabitation-apr-54d2f2"
+  },
+  {
+   "titre": "Le Port de Québec verse 2 M$ au parc riverain du Juvénat Notre-Dame, à Lévis",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Lévis",
+   "medias": "Le Journal de Lévis",
+   "url": "https://www.journaldelevis.com/jdl/26/%C3%89ducation.html?id=46415",
+   "resume": "Le Port de Québec a annoncé le 2 septembre une contribution de 2 M$ au projet de parc riverain du Juvénat Notre-Dame, évalué à 8,5 M$, une somme réservée au réaménagement de la berge du secteur.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Qu%C3%A9bec_-_L%C3%A9vis_-_Juv%C3%A9nat_Notre-Dame_-_%C3%89cole_secondaire_priv%C3%A9e_-_panoramio.jpg/1280px-Qu%C3%A9bec_-_L%C3%A9vis_-_Juv%C3%A9nat_Notre-Dame_-_%C3%89cole_secondaire_priv%C3%A9e_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le Juvénat Notre-Dame, école secondaire privée de Lévis.",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Lévis",
+     "url": "https://www.journaldelevis.com/jdl/26/%C3%89ducation.html?id=46415",
+     "date": "2026-09-02T00:00-04:00"
+    }
+   ],
+   "photo_auteur": "Edgar El",
+   "photo_licence": "CC BY 3.0",
+   "permalien": "le-port-de-quebec-verse-2-m-au-parc-riverain-du-juvenat-notr-b073f6",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "le-port-de-quebec-verse-2-m-au-parc-riverain-du-juvenat-notr-b073f6"
+  },
+  {
+   "titre": "Le nouveau modèle de transport scolaire de la Beauce-Etchemin s’ajuste au jour le jour",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Beauce-Etchemins (Chaudière-Appalaches)",
+   "medias": "L’Éclaireur Progrès",
+   "url": "https://www.leclaireurprogres.ca/actualites/le-transport-scolaire-continue-de-faire-reagir/",
+   "resume": "Les 11 885 élèves admissibles au transport de base sont conduits à leur école désignée, mais le Centre de services scolaire de la Beauce-Etchemin apporte des correctifs chaque jour depuis la mise en place de son nouveau modèle cet été et prévient que le volume de demandes supplémentaires allonge les délais de réponse, a exposé le directeur du Service des ressources informationnelles et organisationnelles, Jérôme L’Heureux, au conseil d’administration du 1er septembre. La directrice générale par intérim, Karina Roy, promet un bilan plus détaillé d’ici quelques semaines.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "L’Éclaireur Progrès",
+     "url": "https://www.leclaireurprogres.ca/actualites/le-transport-scolaire-continue-de-faire-reagir/",
+     "date": "2026-09-02T14:00-04:00"
+    }
+   ],
+   "permalien": "le-nouveau-modele-de-transport-scolaire-de-la-beauce-etchemi-165017",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "le-nouveau-modele-de-transport-scolaire-de-la-beauce-etchemi-165017"
+  },
+  {
+   "titre": "Un corps découvert en bordure de la voie ferrée à Saint-Henri-de-Lévis",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Saint-Henri-de-Lévis (Bellechasse)",
+   "medias": "La Voix du Sud",
+   "url": "https://www.lavoixdusud.com/faits-divers/corps-inanime-retrouve-a-saint-henri/",
+   "resume": "Un corps inanimé a été trouvé mardi matin le long de la voie ferrée, à la limite des territoires de Lévis et de Saint-Henri-de-Lévis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "La Voix du Sud",
+     "url": "https://www.lavoixdusud.com/faits-divers/corps-inanime-retrouve-a-saint-henri/",
+     "date": "2026-09-01T00:00-04:00"
+    }
+   ],
+   "permalien": "un-corps-decouvert-en-bordure-de-la-voie-ferree-a-saint-henr-fe747e",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "un-corps-decouvert-en-bordure-de-la-voie-ferree-a-saint-henr-fe747e"
+  },
+  {
+   "titre": "Le Protecteur du citoyen détaille ce que peuvent faire les infirmières praticiennes spécialisées",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Protecteur du citoyen",
+   "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/infirmieres-praticiennes-specialisees-activites-professionnelles",
+   "resume": "Le Protecteur du citoyen a publié le 2 septembre une capsule rappelant l’étendue des activités professionnelles des infirmières praticiennes spécialisées, qui peuvent notamment poser certains diagnostics.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "Protecteur du citoyen",
+     "url": "https://protecteurducitoyen.qc.ca/fr/conseils/capsules/infirmieres-praticiennes-specialisees-activites-professionnelles",
+     "date": "2026-09-02T00:00-04:00"
+    }
+   ],
+   "permalien": "le-protecteur-du-citoyen-detaille-ce-que-peuvent-faire-les-i-47d0b3",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "le-protecteur-du-citoyen-detaille-ce-que-peuvent-faire-les-i-47d0b3"
+  },
+  {
+   "titre": "La Cour d’appel ordonne à Montréal de rembourser plus de 1,5 M$ aux promoteurs de Bois-Franc",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Saint-Laurent (Montréal)",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/city_news/appeals-court-orders-montreal-to-refund-saint-laurent-project-developers/article_3397a9b2-03cb-4d44-b86c-cfce4753a349.html",
+   "resume": "La Cour d’appel du Québec a jugé le 20 août, à deux juges contre un, que l’engagement signé en 2013 entre les promoteurs du quartier Bois-Franc et l’arrondissement de Saint-Laurent visait le projet dans son ensemble, phase 3A3 modifiée comprise, et que la Ville de Montréal doit donc rendre les 302 500 $ payés par Sotramont Quartier Bois Franc et les 1,25 M$ payés par Liveo Bois-Franc en vertu du règlement de 2021 sur le logement social et abordable. Le jugement renverse une décision de la Cour supérieure de janvier 2025 qui avait donné raison à la Ville.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/city_news/appeals-court-orders-montreal-to-refund-saint-laurent-project-developers/article_3397a9b2-03cb-4d44-b86c-cfce4753a349.html",
+     "date": "2026-09-02T09:00-04:00"
+    }
+   ],
+   "permalien": "la-cour-dappel-ordonne-a-montreal-de-rembourser-plus-de-1-5-b0173a",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "la-cour-dappel-ordonne-a-montreal-de-rembourser-plus-de-1-5-b0173a"
+  },
+  {
+   "titre": "Verdun avance son gym extérieur du parc Beurling et prévient l’Île-des-Sœurs des entraves du Mondial de cyclisme",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Verdun (Montréal)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-verdun-1er-septembre-2026-119764",
+   "resume": "Réuni le 1er septembre au Centre communautaire Elgar, le conseil d’arrondissement de Verdun a fait état de l’avancement du gym de quartier extérieur du parc Beurling, retenu au budget participatif de la Ville, et annoncé que des avis sur les entraves des Championnats du monde de cyclisme sur route seront distribués à toute la population de L’Île-des-Sœurs, selon le compte rendu publié par l’arrondissement.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Les_plex_de_Verdun%2C_Montr%C3%A9al%2C_Qu%C3%A9bec%2C_Canada.jpg/1280px-Les_plex_de_Verdun%2C_Montr%C3%A9al%2C_Qu%C3%A9bec%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Des plex de l'arrondissement de Verdun, à Montréal.",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-verdun-1er-septembre-2026-119764",
+     "date": "2026-09-02T14:29-04:00"
+    }
+   ],
+   "photo_auteur": "Maxime Laterreur",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "verdun-avance-son-gym-exterieur-du-parc-beurling-et-previent-753301",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "verdun-avance-son-gym-exterieur-du-parc-beurling-et-previent-753301"
+  },
+  {
+   "titre": "Hampstead demande à ses résidents de nommer son nouveau parc",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Hampstead",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/city_news/hampstead-seeking-suggestions-for-new-park-name/article_4cb45310-c7c5-4b6d-8bfb-bdd350ffec7e.html",
+   "resume": "La Ville de Hampstead invite sa population à proposer un nom pour le nouveau parc aménagé à l’angle de l’avenue Northcote et du chemin Queen-Mary.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/city_news/hampstead-seeking-suggestions-for-new-park-name/article_4cb45310-c7c5-4b6d-8bfb-bdd350ffec7e.html",
+     "date": "2026-09-02T00:00-04:00"
+    }
+   ],
+   "permalien": "hampstead-demande-a-ses-residents-de-nommer-son-nouveau-parc-6f39d9",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "hampstead-demande-a-ses-residents-de-nommer-son-nouveau-parc-6f39d9"
+  },
+  {
+   "titre": "Côte-Saint-Luc lance un projet-pilote d’horticulture thérapeutique de trois mois",
+   "cahier": "montreal",
+   "rubrique": "sante",
+   "territoire": "Côte-Saint-Luc",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/city_news/new-gardening-therapy-pilot-program-launched-in-csl/article_b6a25f9d-3aa8-46d1-84d9-2006acea2e62.html",
+   "resume": "Un projet-pilote d’horticulture thérapeutique de trois mois s’est ouvert le mercredi 2 septembre à Côte-Saint-Luc, au Centre Cummings.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/C%C3%B4te-Saint-Luc.jpg/1280px-C%C3%B4te-Saint-Luc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Côte-Saint-Luc, dans l'ouest de l'île de Montréal.",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/city_news/new-gardening-therapy-pilot-program-launched-in-csl/article_b6a25f9d-3aa8-46d1-84d9-2006acea2e62.html",
+     "date": "2026-09-02T00:00-04:00"
+    }
+   ],
+   "photo_auteur": "Roncanada",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "cote-saint-luc-lance-un-projet-pilote-dhorticulture-therapeu-c15f99",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "cote-saint-luc-lance-un-projet-pilote-dhorticulture-therapeu-c15f99"
+  },
+  {
+   "titre": "Une piétonne grièvement blessée en traversant un boulevard à LaSalle",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "LaSalle (Montréal)",
+   "medias": "La Presse canadienne, CTV News Montréal",
+   "url": "https://www.lavoixdusud.com/nouvelles-nationales/une-pietonne-a-ete-percutee-alors-quelle-traversait-un-boulevard-a-montreal/",
+   "resume": "Une piétonne a été grièvement blessée mercredi soir, happée par un automobiliste alors qu’elle traversait un boulevard de l’arrondissement de LaSalle.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "La Presse canadienne",
+     "url": "https://www.lavoixdusud.com/nouvelles-nationales/une-pietonne-a-ete-percutee-alors-quelle-traversait-un-boulevard-a-montreal/",
+     "date": "2026-09-03T00:00-04:00"
+    },
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/on-patrol/article/pedestrian-in-hospital-after-being-struck-by-vehicle-in-lasalle/",
+     "date": "2026-09-03T09:50-04:00"
+    }
+   ],
+   "permalien": "une-pietonne-grievement-blessee-en-traversant-un-boulevard-a-2c231d",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "une-pietonne-grievement-blessee-en-traversant-un-boulevard-a-2c231d"
+  },
+  {
+   "titre": "Un Super C de 13,5 M$ et un Jean Coutu en chantier à Mascouche",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Mascouche (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/montoni-superc-jean-coutu-mascouche/",
+   "resume": "Le Super C annoncé à Mascouche occupera environ 36 000 pieds carrés et représente un investissement de 13,5 M$; avec le Jean Coutu voisin, les promoteurs prévoient la création de 130 emplois.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Groupe_Jean_Coutu_-_Varennes_-_05.jpg/1280px-Groupe_Jean_Coutu_-_Varennes_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Une succursale du Groupe Jean Coutu, à Varennes.",
+   "horodate": "2026-09-03T10:29-04:00",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/montoni-superc-jean-coutu-mascouche/",
+     "date": "2026-09-03T00:00-04:00"
+    }
+   ],
+   "photo_auteur": "Jean Gagnon",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "un-super-c-de-13-5-m-et-un-jean-coutu-en-chantier-a-mascouch-76ff15",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-03.json",
+   "_slug": "un-super-c-de-13-5-m-et-un-jean-coutu-en-chantier-a-mascouch-76ff15"
   },
   {
    "titre": "L'Iran frappe des bases américaines dans le Golfe en représailles à de nouvelles frappes des États-Unis",

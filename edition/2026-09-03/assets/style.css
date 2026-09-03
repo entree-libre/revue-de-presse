@@ -186,7 +186,7 @@ html[data-cols="1"] .manchette.sans-photo{display:block}
  .manchette{padding:1.1rem 1rem 1.3rem}
  .man-photo{order:-1}}
 .secondaires{display:grid;gap:0;
- grid-template-columns:repeat(auto-fill,minmax(min(var(--carte-min),100%),1fr));
+ grid-template-columns:repeat(auto-fit,minmax(min(var(--carte-min),100%),1fr));
  margin:1.8rem 0 0;padding-top:1.2rem}
 .secondaires article.carte{border:0;padding:0 1.3rem}
 .secondaires article.carte:first-child{padding-left:0}
@@ -208,10 +208,18 @@ h3.rubrique{font-family:var(--ui);font-size:.74rem;margin:1.8rem 0 .2rem;
 h3.rubrique .cnt{color:var(--muted);font-weight:400}
 
 /* ------------------------------------------------------------------ cartes */
-/* `min(var(--carte-min),100%)` : sur un ecran plus etroit qu'une carte, la
+/* `auto-fit` (1er sept. 2026, choix de l'editeur) : une rubrique de quatre
+   sujets sur une ligne de six colonnes ETIRE ses quatre cartes pour remplir
+   la ligne, au lieu de laisser deux cases vides a droite. Le prix : une
+   rubrique d'un seul sujet fait une carte large comme l'ecran — on borne
+   donc la MESURE du texte a l'interieur (titre, extrait), pas la carte, pour
+   qu'une ligne d'extrait ne fasse jamais 250 caracteres.
+   `min(var(--carte-min),100%)` : sur un ecran plus etroit qu'une carte, la
    colonne unique ne deborde jamais. */
 .grille{display:grid;gap:0 2.2rem;
- grid-template-columns:repeat(auto-fill,minmax(min(var(--carte-min),100%),1fr))}
+ grid-template-columns:repeat(auto-fit,minmax(min(var(--carte-min),100%),1fr))}
+.grille h4.titre{max-width:60ch}
+.grille .extrait{max-width:80ch}
 @media (max-width:62rem){.grille{gap:0}}
 html[data-cols="1"] .grille{grid-template-columns:1fr;gap:0}
 html[data-cols="1"] .secondaires{grid-template-columns:1fr}
