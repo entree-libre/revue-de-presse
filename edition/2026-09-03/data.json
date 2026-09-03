@@ -45,12 +45,12 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Québecor",
+   "medias": "Québecor, La Presse",
    "url": "https://www.journaldequebec.com/2026/09/03/inquietude-chez-les-liberaux-frechette-en-train-de-manger-leur-lunch",
-   "resume": "Des candidats et organisateurs libéraux confient être inquiets du début de campagne de Charles Milliard, jugeant que Christine Fréchette empiète sur leur terrain depuis ses annonces avec Ottawa — un déclin que le chroniqueur Joseph Facal attribue aux plus récents sondages, qui donneraient désormais la CAQ devant le PLQ.",
+   "resume": "Des candidats et organisateurs libéraux confient être inquiets du début de campagne de Charles Milliard, jugeant que Christine Fréchette empiète sur leur terrain depuis ses annonces avec Ottawa — un déclin que le chroniqueur Joseph Facal attribue aux plus récents sondages, qui donneraient désormais la CAQ devant le PLQ.\n\n**Mise à jour, 14 h** — En point de presse à Rivière-du-Loup, le chef libéral Charles Milliard a rejeté ces inquiétudes, jugeant sa campagne bien lancée malgré des sondages plaçant désormais le PLQ au troisième rang.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-03T03:27-04:00",
+   "horodate": "2026-09-03T14:23-04:00",
    "sources": [
     {
      "media": "Le Journal de Québec",
@@ -61,6 +61,11 @@
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/03/la-chaloupe-liberale-prend-leau",
      "date": "2026-09-03T03:28-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/qu-on-arrete-d-analyser-les-sondages-lance-milliard.php",
+     "date": "2026-09-03T14:25-04:00"
     }
    ],
    "permalien": "le-plq-inquiet-de-son-debut-de-campagne-face-a-une-caq-qui-m-72ce80",
@@ -657,7 +662,7 @@
    "cahier": "elections",
    "rubrique": "sante",
    "territoire": "Québec",
-   "medias": "Le Devoir, Coops de l'information",
+   "medias": "Le Devoir, Coops de l'information, Infodimanche, Les Affaires",
    "url": "https://www.ledevoir.com/politique/quebec/1006178/il-ne-faut-pas-resigner-voir-affaiblir-reseau-public-sante-dit-milliard",
    "resume": "Le chef libéral Charles Milliard propose de créer une plateforme de télésanté intégrée au réseau public — accessible aux premiers patients deux ans après l'élection et à tous avant quatre ans, avec médecins, infirmières praticiennes spécialisées et infirmières —, jugeant qu'il faut « défendre » et « réparer » le réseau public plutôt que de « se résigner à le voir s'affaiblir ». Il a par ailleurs qualifié Christine Fréchette d'« opportuniste » qui mise sur le privé, se disant lui « le seul fédéraliste » de la campagne face à un PQ souverainiste et une CAQ jugée versatile.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/A9306522-Modifier-30_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -698,6 +703,16 @@
      "media": "Le Quotidien",
      "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/03/charles-milliard-promet-une-plateforme-de-telesante-100-publique-CJMNG5QWIFAXZFSVUWQHQROS44/",
      "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/non-classe/le-plq-veut-developper-une-plateforme-telesante/",
+     "date": "2026-09-03T14:25-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-8-le-plq-mise-sur-la-telesante/",
+     "date": "2026-09-03T14:25-04:00"
     }
    ],
    "permalien": "le-plq-propose-une-plateforme-de-telesante-publique-plutot-q-11d9d4",
@@ -713,7 +728,7 @@
    "cahier": "elections",
    "rubrique": "environnement",
    "territoire": "Québec (Rouyn-Noranda)",
-   "medias": "Radio-Canada, Les Affaires",
+   "medias": "Radio-Canada, Les Affaires, La Presse",
    "url": "https://ici.radio-canada.ca/nouvelle/2280310/st-pierre-plamondon-fonderie-horne-glencore",
    "resume": "Le chef péquiste Paul St-Pierre Plamondon affirme vouloir respecter les ententes actuelles avec Glencore concernant la Fonderie Horne plutôt que de forcer l'entreprise à respecter la norme d'arsenic, sans toutefois fermer complètement la porte à un financement additionnel, qu'il dit ne pas être « sur la table ».",
    "photo": "",
@@ -729,6 +744,11 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-8-le-pq-ne-compte-pas-durcir-le-ton-contre-glencore-a-rouyn-noranda/",
      "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/norme-d-emission-de-la-fonderie-horne/le-pq-ne-veut-pas-saboter-le-travail-de-la-caq.php",
+     "date": "2026-09-03T14:25-04:00"
     }
    ],
    "permalien": "st-pierre-plamondon-ne-compte-pas-durcir-le-ton-contre-glenc-9bb0cf",
@@ -744,7 +764,7 @@
    "cahier": "elections",
    "rubrique": "transport",
    "territoire": "Côte-Nord",
-   "medias": "Le Haute Côte-Nord, Le Manic, Le Nord-Côtier",
+   "medias": "Le Haute Côte-Nord, Le Manic, Le Nord-Côtier, Radio-Canada",
    "url": "https://www.journalhcn.com/2026/09/03/pont-sur-le-saguenay-yves-montigny-et-kateri-champagne-jourdain-promettent-un-appel-dinteret/",
    "resume": "Les candidats caquistes Yves Montigny et Kateri Champagne Jourdain s'engagent, si la CAQ est réélue, à lancer dans les 100 premiers jours d'un prochain mandat un appel d'intérêt international auprès d'entreprises pour étudier un pont reliant les deux rives du Saguenay.",
    "photo": "",
@@ -765,6 +785,11 @@
      "media": "Le Nord-Côtier",
      "url": "https://lenord-cotier.com/2026/09/03/pont-sur-le-saguenay-yves-montigny-et-kateri-champagne-jourdain-promettent-un-appel-dinteret/",
      "date": "2026-09-03T12:21-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280345/caq-pont-riviere-saguenay",
+     "date": "2026-09-03T14:25-04:00"
     }
    ],
    "permalien": "deux-candidats-caquistes-de-la-cote-nord-promettent-un-appel-d68ae2",
@@ -772,6 +797,39 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "deux-candidats-caquistes-de-la-cote-nord-promettent-un-appel-d68ae2"
+  },
+  {
+   "titre": "La CAQ promet de relancer le prolongement de l'autoroute 20 à partir du Bic",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Radio-Canada, Infodimanche, Coops de l'information",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280315/caq-engagement-autoroute-20-pont",
+   "resume": "En point de presse à Saint-Fabien, la Coalition avenir Québec promet de relancer les études du prolongement de l'autoroute 20 à partir du secteur du Bic plutôt que de Notre-Dame-des-Neiges — projet mis sur pause en 2025 —, un engagement porté par les candidates caquistes Julia Brillant-Ruest (Rimouski) et Amélie Dionne (Rivière-du-Loup–Témiscouata–Les Basques), qui invoquent la sécurité routière sur la route 132.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280315/caq-engagement-autoroute-20-pont",
+     "date": "2026-09-03T14:25-04:00"
+    },
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/elections-quebec-2026/autoroute-20-la-caq-priorisera-le-troncon-entre-le-bic-et-trois-pistoles/",
+     "date": "2026-09-03T14:25-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/03/on-va-relancer-le-prolongement-de-la-20-promet-la-caq-VIMZZKBQIVFFXGVQH2IQ2S7BWA/",
+     "date": "2026-09-03T14:25-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T14:23-04:00",
+   "permalien": "la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-8ccf7b",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-8ccf7b"
   },
   {
    "titre": "Beaumont se retire d’un projet de coopérative d’habitation après 572 000 $ de fonds publics",
@@ -5004,10 +5062,10 @@
    "territoire": "Québec",
    "medias": "Radio-Canada, CBC, Global News, Le Devoir, Montreal Gazette",
    "url": "https://ici.radio-canada.ca/info/videos/1-10750408/electeurs-recevront-documents-information-en-francais-seulement",
-   "resume": "Pour se conformer à la loi 96, Élections Québec enverra pour la première fois des documents d'information uniquement en français aux électeurs, une demande d'exception ayant été refusée par le ministre de la Langue française ; un groupe d'avocats montréalais, dont Eric Maldoff, prépare une contestation judiciaire au nom du droit de vote des électeurs anglophones, rapporte CTV News. La première ministre Christine Fréchette dit vouloir examiner la possibilité de revenir sur la décision, sans s'y engager.",
+   "resume": "Pour se conformer à la loi 96, Élections Québec enverra pour la première fois des documents d'information uniquement en français aux électeurs, une demande d'exception ayant été refusée par le ministre de la Langue française ; un groupe d'avocats montréalais, dont Eric Maldoff, prépare une contestation judiciaire au nom du droit de vote des électeurs anglophones, rapporte CTV News. La première ministre Christine Fréchette dit vouloir examiner la possibilité de revenir sur la décision, sans s'y engager.\n\n**Mise à jour, 14 h** — Au terme de discussions avec Élections Québec, la première ministre Christine Fréchette maintient sa décision d'envoyer les documents électoraux uniquement en français, réitérant que le français est « la langue officielle et commune du Québec ».",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-03T08:57-04:00",
+   "horodate": "2026-09-03T14:23-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -5016,7 +5074,7 @@
     },
     {
      "media": "CBC",
-     "url": "https://www.cbc.ca/news/canada/montreal/frechette-elections-quebec-9.7329333",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-french-only-voter-info-frechette-9.7331040",
      "date": "2026-09-02T12:30-04:00"
     },
     {
@@ -5026,7 +5084,7 @@
     },
     {
      "media": "Le Devoir",
-     "url": "https://www.ledevoir.com/politique/quebec/1005953/quebec-bloque-envoi-documents-electoraux-anglais-dit-elections-quebec",
+     "url": "https://www.ledevoir.com/politique/quebec/1006220/frechette-ne-reculera-pas-documents-electoraux-francais-seulement",
      "date": "2026-09-02T16:22-04:00"
     },
     {
@@ -5541,19 +5599,24 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec (Lévis)",
-   "medias": "Québecor",
+   "medias": "Québecor, Radio-Canada",
    "url": "https://www.journaldequebec.com/2026/09/02/frechette-rabroue-drainville-et-lui-demande-de-retirer-ses-propos-contre-trump",
-   "resume": "Le ministre sortant Bernard Drainville a tenu des propos vulgaires à l'endroit de Donald Trump lors d'une entrevue radiophonique sur les tarifs américains ; la première ministre Christine Fréchette l'a aussitôt rabroué en mêlée de presse et lui a demandé de retirer ses paroles, qu'il a reconnues « inappropriées » tout en maintenant son indignation.",
+   "resume": "Le ministre sortant Bernard Drainville a tenu des propos vulgaires à l'endroit de Donald Trump lors d'une entrevue radiophonique sur les tarifs américains ; la première ministre Christine Fréchette l'a aussitôt rabroué en mêlée de presse et lui a demandé de retirer ses paroles, qu'il a reconnues « inappropriées » tout en maintenant son indignation.\n\n**Mise à jour, 14 h** — Le chef péquiste Paul St-Pierre Plamondon accuse la CAQ d'avoir orchestré une « mise en scène » avec la sortie de Bernard Drainville pour détourner l'attention du financement d'un organisme pro-fédéraliste par son gouvernement ; Christine Fréchette réplique qu'il vit dans un « monde imaginaire ».",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bernard_Drainville_Janvier_2024_%281%3B_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "legende": "Bernard Drainville",
    "sources": [
     {
      "media": "Le Journal de Québec",
-     "url": "https://www.journaldequebec.com/2026/09/02/frechette-rabroue-drainville-et-lui-demande-de-retirer-ses-propos-contre-trump",
+     "url": "https://www.journaldequebec.com/2026/09/03/fuck-you-ostie--a-trump--pspp-accuse-la-caq-davoir-orchestre-une-mise-en-scene-frechette-replique-quil-vit-dans-un--monde-imaginaire",
      "date": "2026-09-02T19:24-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/90-17130/bernad-drainville-trump-radio",
+     "date": "2026-09-03T14:25-04:00"
     }
    ],
-   "horodate": "2026-09-02T19:24-04:00",
+   "horodate": "2026-09-03T14:23-04:00",
    "permalien": "bernard-drainville-tient-des-propos-vulgaires-contre-trump-e-4f41ba",
    "_fichier": "revue-report-2026-09-03.json",
    "photo_auteur": "TVA Nouvelles",
