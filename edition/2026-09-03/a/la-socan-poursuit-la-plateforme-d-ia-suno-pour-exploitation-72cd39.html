@@ -120,7 +120,7 @@ function save(){MAGASIN.ecrire('revue-prefs',
 function th(){var o=['','gris','beige','jaune','dark','contraste'],i=o.indexOf(H.dataset.theme||'');
  H.dataset.theme=o[(i+1)%o.length];save();etat();}
 function fo(){var o=['','sans','dys','georgia','inter'],i=o.indexOf(H.dataset.font||'');
- H.dataset.font=o[(i+1)%5];fontload();save();etat();}
+ H.dataset.font=o[(i+1)%5];fontload();save();etat();setTimeout(hauteurEntete,60);}
 function fontload(){if(H.dataset.font==='dys')dysload();
  if(H.dataset.font==='inter')cdnfont('inter','inf');}
 function cdnfont(nom,pref){if(document.getElementById(pref))return;
@@ -130,9 +130,9 @@ function cdnfont(nom,pref){if(document.getElementById(pref))return;
   document.head.appendChild(l);});}
 function dysload(){cdnfont('opendyslexic','dysf');}
 fontload();
-function co(){H.dataset.cols=H.dataset.cols==='1'?'':'1';save();etat();}
+function co(){H.dataset.cols=H.dataset.cols==='1'?'':'1';save();etat();setTimeout(hauteurEntete,60);}
 function sz(d){var v=parseFloat(getComputedStyle(H).getPropertyValue('--scale'))||1;
- v=Math.min(2.4,Math.max(.7,v+d));H.style.setProperty('--scale',v);save();etat();}
+ v=Math.min(2.4,Math.max(.7,v+d));H.style.setProperty('--scale',v);save();etat();setTimeout(hauteurEntete,60);}
 function etat(){
  var f={'':'Newsreader','sans':'Sans','dys':'OpenDyslexic','georgia':'Georgia',
   'inter':'Inter'}[H.dataset.font||''];
@@ -374,11 +374,26 @@ document.addEventListener('visibilitychange',function(){
    et la barre d'outils suit la taille de police choisie. On la mesure et on la
    publie en variable CSS ; « Derniers ajouts » s'y accroche et se borne à ce
    qui reste de l'écran. Un nombre codé en dur ne pouvait pas suivre. */
+/* Les points de rupture en `rem` des @media ne suivent PAS la police choisie :
+   dans une @media, 62rem vaut toujours 992 px, quel que soit --scale. A 2,4x
+   sur 1024 px, la page se croyait large, gardait son panneau lateral de
+   774 px et debordait de 415 px. On mesure donc la largeur en rem REELS
+   (innerWidth / taille de police effective) et on pose des classes que le
+   CSS reprend en jumeau de chaque @media : html.l-62, html.l-56, ...
+   Meme fonction pour les barres collantes : leur hauteur reelle (la barre
+   d'outils se replie en gros caracteres), et le decrochage quand, ensemble,
+   elles mangent plus du tiers de l'ecran — trois rangees d'onglets collees
+   sur un ecran de 900 px ne laissaient plus de place pour lire. */
 function hauteurEntete(){
+ var root=parseFloat(getComputedStyle(H).fontSize)||16, rem=innerWidth/root;
+ [62,56,52,36,34].forEach(function(b){H.classList.toggle('l-'+b,rem<b);});
  var t=document.querySelector('.toolbar'), n=document.querySelector('nav.cahiers');
  if(!t&&!n)return;
- var h=(t?t.getBoundingClientRect().height:0)+(n?n.getBoundingClientRect().height:0);
- H.style.setProperty('--h-entete',Math.round(h)+'px');}
+ var ht=t?t.getBoundingClientRect().height:0, hn=n?n.getBoundingClientRect().height:0;
+ var lourde=(ht+hn)>innerHeight*0.34;
+ H.classList.toggle('entete-lourde',lourde);
+ H.style.setProperty('--h-barre-reelle',Math.round(ht)+'px');
+ H.style.setProperty('--h-entete',Math.round(lourde?ht:ht+hn)+'px');}
 window.addEventListener('resize',hauteurEntete);
 
 document.addEventListener('DOMContentLoaded',function(){

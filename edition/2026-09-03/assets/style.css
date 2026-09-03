@@ -55,7 +55,7 @@ html[data-theme="contraste"] [data-cahier="international"]{--ca:#9bc7f2}
 html[data-theme="contraste"] [data-cahier="savoirs"]{--ca:#cc79a7}
 html[data-theme="contraste"] [data-cahier="elections"]{--ca:#ffffff}
 html[data-theme="contraste"] nav.cahiers a{border-left-width:6px}
-html[data-theme="contraste"] article.carte{border-top-width:4px}
+html[data-theme="contraste"] article.carte::before{height:4px;width:3rem}
 html[data-theme="contraste"] .badge-vu{font-weight:800}
 html[data-font="sans"]{--font:var(--ui);--titre:var(--ui);}
 html[data-font="dys"]{--font:"OpenDyslexic",Georgia,"Comic Sans MS",Verdana,serif;
@@ -106,7 +106,7 @@ html[data-theme="contraste"] .toolbar .btn-une{text-decoration:none;color:#000}
 /* Le menu se colle SOUS la barre : meme jeton des deux cotes, sinon un
    filet de page passe entre les deux des que la barre change de hauteur
    (ce qui est arrive en grossissant « La une »). */
-nav.cahiers{position:sticky;top:var(--h-barre);z-index:29;background:var(--bg);
+nav.cahiers{position:sticky;top:var(--h-barre-reelle,var(--h-barre));z-index:29;background:var(--bg);
  border-bottom:2px solid var(--rule-fort);padding:0 0 .4rem;display:flex;
  gap:.4rem;flex-wrap:wrap;font-family:var(--ui);
  font-size:.8rem;font-weight:700;letter-spacing:.03em;text-transform:uppercase}
@@ -136,6 +136,13 @@ h1{font-family:var(--titre);font-size:3rem;line-height:1.05;margin:.35rem 0 .7re
 .chapeau{max-width:46rem;color:var(--muted)}
 .chapeau p{line-height:1.7;margin:.6rem 0;font-size:.95rem}
 
+/* Entete lourde (mesure JS) : le menu et le panneau cessent d'etre collants —
+   ils restent en haut de page et defilent avec elle. La barre d'outils, petite,
+   reste. */
+html.entete-lourde nav.cahiers{position:static}
+html.entete-lourde .derniers{position:static;max-height:none;display:block}
+html.entete-lourde .derniers ul{overflow:visible}
+
 /* ------------------------------------------------------------- la manchette */
 .manchette{margin:0 0 2.6rem;background:var(--card);border:1px solid var(--rule);
  border-top:4px solid var(--accent);border-radius:.3rem;
@@ -160,12 +167,13 @@ h1{font-family:var(--titre);font-size:3rem;line-height:1.05;margin:.35rem 0 .7re
 .manchette.sans-photo .extrait{max-width:70ch}
 .manchette.sans-photo .secondaires{grid-column:2;grid-template-columns:1fr;
  margin:0;padding-top:0;gap:0}
-.manchette.sans-photo .secondaires article.carte{padding:.9rem 0 1rem;
- border-top:3px solid var(--ca,var(--rule))}
-.manchette.sans-photo .secondaires article.carte:first-child{padding-top:.2rem;border-top:0}
+.manchette.sans-photo .secondaires article.carte{padding:.6rem 0 .9rem}
+.manchette.sans-photo .secondaires article.carte:first-child{padding-top:.2rem}
 .manchette.sans-photo .secondaires .extrait{display:none}
 @media (max-width:62rem){.manchette.sans-photo{display:block}
  .manchette.sans-photo .secondaires{grid-template-columns:1fr;margin-top:1.4rem}}
+html.l-62 .manchette.sans-photo{display:block}
+html.l-62 .manchette.sans-photo .secondaires{grid-template-columns:1fr;margin-top:1.4rem}
 html[data-cols="1"] .manchette.sans-photo{display:block}
 .manchette figure{margin:0}
 .manchette img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;
@@ -185,20 +193,35 @@ html[data-cols="1"] .manchette.sans-photo{display:block}
 @media (max-width:56rem){.man-grille{grid-template-columns:1fr;gap:1.1rem}
  .manchette{padding:1.1rem 1rem 1.3rem}
  .man-photo{order:-1}}
+html.l-56 .man-grille{grid-template-columns:1fr;gap:1.1rem}
+html.l-56 .manchette{padding:1.1rem 1rem 1.3rem}
+html.l-56 .man-photo{order:-1}
 .secondaires{display:grid;gap:0;
  grid-template-columns:repeat(auto-fit,minmax(min(var(--carte-min),100%),1fr));
  margin:1.8rem 0 0;padding-top:1.2rem}
-.secondaires article.carte{border:0;padding:0 1.3rem}
+.secondaires article.carte{padding:0 1.3rem}
 .secondaires article.carte:first-child{padding-left:0}
 @media (max-width:56rem){.secondaires{grid-template-columns:1fr}
  .secondaires article.carte{padding:1rem 0}
  .secondaires article.carte:first-child{padding-top:0}
  .manchette h2{font-size:1.9rem}}
+html.l-56 .secondaires{grid-template-columns:1fr}
+html.l-56 .secondaires article.carte{padding:1rem 0}
+html.l-56 .secondaires article.carte:first-child{padding-top:0}
+html.l-56 .manchette h2{font-size:1.9rem}
 
 /* ----------------------------------------------------------------- cahiers */
+/* Les filets qui encadraient les articles, redessines (2 sept. 2026). Avant :
+   un trait de 2 px pleine largeur sous chaque titre de cahier, et un trait de
+   3 px sur toute la largeur de CHAQUE carte — sur six colonnes, une rangee de
+   cartes faisait une ligne pointillee d'un bord a l'autre, et chaque bloc
+   d'articles se retrouvait pris entre deux traits. Desormais la couleur du
+   cahier vit dans des accents COURTS : une barre a gauche du titre de cahier
+   (comme sur les onglets), un tiret au coin de chaque carte. La couleur
+   reste, les lignes s'en vont. */
 h2.cahier{font-family:var(--ui);font-size:.86rem;font-weight:800;
- letter-spacing:.14em;text-transform:uppercase;margin:3rem 0 0;padding-bottom:.5rem;
- border-bottom:2px solid var(--rule-fort);color:var(--fg);
+ letter-spacing:.14em;text-transform:uppercase;margin:3rem 0 0;padding:.1rem 0 .1rem .8rem;
+ border-left:.45rem solid var(--ca,var(--rule-fort));color:var(--fg);
  display:flex;align-items:baseline;gap:.6rem}
 h2.cahier a{text-decoration:none;color:inherit}
 h2.cahier a:hover{color:var(--accent-txt)}
@@ -221,6 +244,7 @@ h3.rubrique .cnt{color:var(--muted);font-weight:400}
 .grille h4.titre{max-width:60ch}
 .grille .extrait{max-width:80ch}
 @media (max-width:62rem){.grille{gap:0}}
+html.l-62 .grille{gap:0}
 html[data-cols="1"] .grille{grid-template-columns:1fr;gap:0}
 html[data-cols="1"] .secondaires{grid-template-columns:1fr}
 html[data-cols="1"] .wrap{max-width:var(--measure);margin:0 auto}
@@ -228,6 +252,7 @@ html[data-cols="1"] .wrap{max-width:var(--measure);margin:0 auto}
 .accueil-principal{grid-column:1;grid-row:1}
 .derniers{grid-column:2;grid-row:1}
 @media (max-width:62rem){.accueil{display:block}}
+html.l-62 .accueil{display:block}
 html[data-cols="1"] .accueil{display:block}
 /* « Derniers ajouts » défile pour lui-même. Il mesurait 1339 px pour 777 px
    d'écran disponible : collé, il ne remontait jamais, et ses dernières entrées
@@ -247,6 +272,10 @@ html[data-cols="1"] .accueil{display:block}
  border-top:2px solid var(--rule-fort);margin-top:2.4rem;padding-top:1.4rem;
  max-height:none;display:block}
  .derniers ul{overflow:visible;padding-right:0}}
+html.l-62 .derniers{position:static;border-left:0;padding-left:0;
+ border-top:2px solid var(--rule-fort);margin-top:2.4rem;padding-top:1.4rem;
+ max-height:none;display:block}
+html.l-62 .derniers ul{overflow:visible;padding-right:0}
 html[data-cols="1"] .derniers{position:static;border-left:0;padding-left:0;
  border-top:2px solid var(--rule-fort);margin-top:2.4rem;padding-top:1.4rem;
  max-height:none;display:block}
@@ -277,13 +306,18 @@ html[data-cols="1"] .derniers ul{overflow:visible;padding-right:0}
 .d-titre{display:block;font-family:var(--titre);font-weight:700;line-height:1.32;
  font-size:1rem}
 .d-src{display:block;font-family:var(--ui);font-size:.7rem;color:var(--muted);margin-top:.25rem}
-article.carte{background:transparent;border:0;border-top:1px solid var(--rule);
- border-radius:0;padding:1.1rem 0;margin:0;box-shadow:none;
+article.carte{background:transparent;border:0;
+ border-radius:0;padding:.9rem 0 1.1rem;margin:0;box-shadow:none;
  display:flex;flex-direction:column}
+/* Le tiret de couleur au coin de la carte, a la place du trait pleine largeur. */
+article.carte::before{content:"";display:block;width:2.4rem;height:3px;
+ background:var(--ca,var(--rule));margin-bottom:.65rem;border-radius:2px}
+article.carte.vign::before{float:none}
 article.carte.vign{display:block}
 article.carte.vign::after{content:"";display:block;clear:both}
 article.carte.vign>a{float:left;width:6.5rem;margin:0 1rem .6rem 0}
 @media (max-width:34rem){article.carte.vign>a{width:5rem}}
+html.l-34 article.carte.vign>a{width:5rem}
 .carte .vi{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:0;
  display:block;background:var(--rule)}
 .terr{font-family:var(--ui);font-size:.66rem;letter-spacing:.12em;
@@ -309,6 +343,7 @@ h4.titre a:hover{color:var(--accent-txt)}
 nav.sommaire{margin:1.4rem 0 0;padding-top:.2rem}
 nav.sommaire ol{margin:.4rem 0 0;padding:0 0 0 1.6rem;columns:2;column-gap:2.2rem}
 @media (max-width:52rem){nav.sommaire ol{columns:1}}
+html.l-52 nav.sommaire ol{columns:1}
 nav.sommaire li{margin:0 0 .6rem;break-inside:avoid;line-height:1.35}
 nav.sommaire a{text-decoration:none;color:var(--fg);font-weight:700;font-size:.98rem}
 nav.sommaire a:hover{color:var(--accent-txt)}
@@ -322,6 +357,7 @@ h2.dtitre{font-family:var(--titre);font-size:1.9rem;line-height:1.14;
 article.deplie .chapo{margin-bottom:0}
 article.deplie figure{max-width:38rem}
 @media (max-width:34rem){h2.dtitre{font-size:1.45rem}}
+html.l-34 h2.dtitre{font-size:1.45rem}
 
 /* ------------------------------------------------------------------ filtre */
 .filtre{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;
@@ -436,6 +472,10 @@ figcaption{font-family:var(--ui);font-size:.72rem;color:var(--muted);
 @media (max-width:36rem){.src-btn{flex-wrap:wrap;gap:.4rem 1rem}
  .src-id{flex-basis:100%}
  .src-heure{flex:1 1 auto}.src-action{flex:0 0 auto}}
+html.l-36 .src-btn{flex-wrap:wrap;gap:.4rem 1rem}
+html.l-36 .src-id{flex-basis:100%}
+html.l-36 .src-heure{flex:1 1 auto}
+html.l-36 .src-action{flex:0 0 auto}
 .src-btn:hover .src-heure{color:var(--accent-fg)}
 /* À défaut : l'heure d'arrivée du SUJET, dite une fois et nommée pour ce
    qu'elle est. Le titre du bloc est en capitales espacées ; cette ligne ne
@@ -484,6 +524,12 @@ footer.pied p{margin:.2rem 0;max-width:44rem}
 @media (max-width:34rem){h1{font-size:2rem}.manchette h2{font-size:1.65rem}
  .sujet h1{font-size:1.75rem}h4.titre{font-size:1.08rem}
  .resume{font-size:1.02rem}.resume p:first-of-type{font-size:1.08rem}}
+html.l-34 h1{font-size:2rem}
+html.l-34 .manchette h2{font-size:1.65rem}
+html.l-34 .sujet h1{font-size:1.75rem}
+html.l-34 h4.titre{font-size:1.08rem}
+html.l-34 .resume{font-size:1.02rem}
+html.l-34 .resume p:first-of-type{font-size:1.08rem}
 
 /* ------------------------------------------------ le coup d'oeil (10 août) */
 [data-cahier="quebec"]{--ca:#9c3b28}[data-cahier="montreal"]{--ca:#1f668f}
@@ -583,11 +629,10 @@ html[data-theme="contraste"] nav.cahiers a{border-left-width:6px;
 html[data-theme="contraste"] nav.cahiers a.on{background:transparent;
  border-color:var(--accent-txt);border-left-color:var(--ca,var(--rule));
  border-width:2px;border-left-width:6px}
-h2.cahier{color:var(--ca,var(--accent-txt));border-top-color:var(--ca,var(--accent))}
-article.carte{border-top:3px solid var(--ca,var(--rule));
- transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease}
-article.carte:hover{transform:translateY(-3px);box-shadow:0 6px 16px var(--ombre);
- border-color:var(--ca,var(--accent))}
+h2.cahier{color:var(--ca,var(--accent-txt))}
+article.carte{transition:transform .16s ease,box-shadow .16s ease}
+article.carte:hover{transform:translateY(-3px);box-shadow:0 6px 16px var(--ombre)}
+article.carte:hover::before{width:3.6rem;transition:width .16s ease}
 .terr{color:var(--ca,var(--accent-txt))}
 .manchette{position:relative}
 .manchette h2{font-size:2.5rem;line-height:1.15}
@@ -596,6 +641,8 @@ article.carte:hover{transform:translateY(-3px);box-shadow:0 6px 16px var(--ombre
 .manchette img{aspect-ratio:21/9;object-fit:cover}
 .secondaires article.carte{border-top-width:3px}
 @media (max-width:34rem){.masthead h1{font-size:2.1rem}.manchette h2{font-size:1.7rem}}
+html.l-34 .masthead h1{font-size:2.1rem}
+html.l-34 .manchette h2{font-size:1.7rem}
 @media print{.toolbar,nav.cahiers,.retour,.filtre,.legende,details.index{display:none}
  body{background:#fff;color:#000}article.carte{break-inside:avoid}
  article.apercu,article.lu{opacity:1}.badge-vu{display:none}
