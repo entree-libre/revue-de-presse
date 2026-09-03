@@ -30,7 +30,7 @@
  <button onclick="sz(-.1)">A&minus;</button>
 </div>
 
-<nav class="cahiers"><a data-cahier="elections" href="../elections.html"><span class="lbl">Élections Québec 2026 <span class='n'>61</span></span></a><a data-cahier="quebec" href="../quebec.html"><span class="lbl">Québec et ses régions <span class='n'>63</span></span></a><a data-cahier="montreal" href="../montreal.html"><span class="lbl">Montréal et sa région <span class='n'>22</span></span></a><a class='on' data-cahier="canada" href="../canada.html"><span class="lbl">Canada <span class='n'>27</span></span></a><a data-cahier="international" href="../international.html"><span class="lbl">International <span class='n'>44</span></span></a><a data-cahier="savoirs" href="../savoirs.html"><span class="lbl">Savoirs <span class='n'>37</span></span></a></nav>
+<nav class="cahiers" data-mode="liens"><span class="fac-lbl">Cahiers</span><a class="fac tout" href="../index.html">Toute l’édition</a><a class="fac" data-cahier="elections" href="../elections.html"><span class="pt"></span>Élections Québec 2026 <span class="n">62</span></a><a class="fac" data-cahier="quebec" href="../quebec.html"><span class="pt"></span>Québec et ses régions <span class="n">63</span></a><a class="fac" data-cahier="montreal" href="../montreal.html"><span class="pt"></span>Montréal et sa région <span class="n">22</span></a><a class="fac on" data-cahier="canada" href="../canada.html"><span class="pt"></span>Canada <span class="n">27</span></a><a class="fac" data-cahier="international" href="../international.html"><span class="pt"></span>International <span class="n">44</span></a><a class="fac" data-cahier="savoirs" href="../savoirs.html"><span class="pt"></span>Savoirs <span class="n">37</span></a></nav>
 <div class="sujet">
 <div class="col-texte">
 <div class="fil"><a href="../index.html">La une</a> › <a href="../canada.html">Canada</a> › Société et culture</div>
@@ -49,7 +49,7 @@
 <div class="resume"><p>Le fabricant de fournitures scolaires Hilroy a présenté ses excuses après la découverte, sur la couverture de cahiers vendus notamment chez Walmart à Fredericton, d&#x27;une carte du Canada où Terre-Neuve et une partie de la Nouvelle-Écosse sont absentes, selon Acadie Nouvelle et Le Devoir.</p></div>
 <div class="etiquettes">
 <a href="../canada.html">Canada</a>
-<a href="../canada.html#r-societe">Société et culture</a>
+<a href="../rubrique-societe.html">Société et culture</a>
 <a href="../index.html">Canada atlantique</a>
 </div>
 
@@ -60,7 +60,7 @@
 <script>window.VU={slug:"hilroy-s-excuse-d-avoir-tronque-une-partie-du-canada-sur-la-9eb435",emp:"95b7bd4feb"};</script>
 <footer class="pied">
 <h5>Contrôle</h5>
-<p>254 sujets. Médiane de 1.0 phrases par résumé.
+<p>255 sujets. Médiane de 1 phrases par résumé.
 38 % des sujets reposent sur deux médias ou plus.
 Dépouillement : édition en continu, elections, chasse hors RSS, vie municipale, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
 <h5>Sources</h5><p>153 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
@@ -73,7 +73,7 @@ retrait d'un contenu dont vous êtes l'ayant droit :
 <a href="mailto:contact@entreelibre.ca">contact@entreelibre.ca</a>. Les demandes
 de retrait sont traitées en priorité.</p>
 </footer>
-<a class="retour" href="#">↑ Haut</a></div><script>
+<a class="retour" href="#">↑ Haut</a></div><script>var CAH=[["elections", "Élections Québec 2026"], ["quebec", "Québec et ses régions"], ["montreal", "Montréal et sa région"], ["canada", "Canada"], ["international", "International"], ["savoirs", "Savoirs"]];var RUB=[["politique", "Politique et vie municipale"], ["economie", "Économie et travail"], ["transport", "Transport et infrastructures"], ["sante", "Santé et services sociaux"], ["education", "Éducation"], ["environnement", "Environnement et climat"], ["justice", "Justice et sécurité publique"], ["conflits", "Guerre et défense"], ["societe", "Société et culture"], ["sciences", "Sciences et santé"], ["technologies", "Technologies et numérique"], ["espace", "Espace et astronomie"], ["idees", "Idées, philosophie et histoire"], ["cinema", "Cinéma et culture"]];var REGS=[["QC", "Ensemble du Québec"], ["01", "Bas-Saint-Laurent"], ["02", "Saguenay–Lac-Saint-Jean"], ["03", "Capitale-Nationale"], ["04", "Mauricie"], ["05", "Estrie"], ["06", "Montréal"], ["07", "Outaouais"], ["08", "Abitibi-Témiscamingue"], ["09", "Côte-Nord"], ["10", "Nord-du-Québec"], ["11", "Gaspésie–Îles-de-la-Madeleine"], ["12", "Chaudière-Appalaches"], ["13", "Laval"], ["14", "Lanaudière"], ["15", "Laurentides"], ["16", "Montérégie"], ["17", "Centre-du-Québec"]];var PROF=1;</script><script>
 /* ---- le magasin : un navigateur aujourd'hui, un compte demain ----
    Tout ce dont le journal se souvient passe par ici — les preferences
    d'affichage (`revue-prefs`) et la memoire de lecture (`revue-vus`). Le jour
@@ -145,25 +145,160 @@ function etat(){
  e.textContent=f+' · '+(H.dataset.cols==='1'?'1 colonne':'grille');}
 document.addEventListener('DOMContentLoaded',etat);
 
-/* ---- filtre instantané : titre, territoire, média, cahier, rubrique ---- */
+/* ---- le filtre (refait le 3 sept. 2026) : texte + trois axes a cocher ----
+   Les pastilles `.fac[data-fac]` portent l'axe (cahier, rubrique, region) et
+   la valeur ; cochees (`.on`), elles s'additionnent au sein d'un axe (OU) et
+   se combinent entre axes (ET). Chaque carte porte ses trois valeurs en
+   data-*. Apres chaque filtrage, chaque pastille recompte ce qu'elle
+   donnerait si on la cochait seule dans son axe, les autres axes tenus —
+   c'est ce qui fait de la barre un outil, pas une decoration : on voit
+   avant de cliquer combien de sujets attendent derriere. L'etat tient dans
+   l'adresse (#f=…) : un filtre se partage et survit a un rechargement. */
 function norm(s){return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
+var AXES=['cahier','rubrique','region'];
+function facActifs(axe){var s={};
+ document.querySelectorAll('.fac.on[data-fac="'+axe+'"]').forEach(function(el){if(el.dataset.val)s[el.dataset.val]=1;});
+ return s;}
+function carteVal(el,axe){
+ if(axe==='region')return (el.dataset.region||'').split(' ').filter(Boolean);
+ if(axe==='rubrique'){var r=el.dataset.rubrique||'';return [RUB.some(function(x){return x[0]===r;})?r:'autres'];}
+ return [el.dataset.cahier||''];}
+function passe(el,axe,actifs){
+ if(!Object.keys(actifs).length)return true;
+ return carteVal(el,axe).some(function(v){return actifs[v];});}
 function filtrer(){
  var q=norm((document.getElementById('q')||{}).value),
-     c=(document.getElementById('fc')||{}).value||'',
-     n=0, cartes=document.querySelectorAll('article.carte[data-cle]');
+     sel=(document.getElementById('fc')||{}).value||'',
+     act={},n=0,quelque=!!q||!!sel,
+     cartes=document.querySelectorAll('article.carte[data-cle]');
+ AXES.forEach(function(a){act[a]=facActifs(a);if(Object.keys(act[a]).length)quelque=true;});
+ var okTexte=function(el){return (!q||el.dataset.cle.indexOf(q)>-1)&&(!sel||el.dataset.cahier===sel);};
  cartes.forEach(function(el){
-   var ok=(!q||el.dataset.cle.indexOf(q)>-1)&&(!c||el.dataset.cahier===c);
+   var ok=okTexte(el)&&AXES.every(function(a){return passe(el,a,act[a]);});
    el.style.display=ok?'':'none'; if(ok)n++;});
+ /* recompte de chaque pastille : texte + les AUTRES axes, puis sa valeur */
+ document.querySelectorAll('.fac[data-fac]').forEach(function(p){
+   var axe=p.dataset.fac,val=p.dataset.val;
+   var m=0;cartes.forEach(function(el){
+     if(!okTexte(el))return;
+     for(var i=0;i<AXES.length;i++){if(AXES[i]!==axe&&!passe(el,AXES[i],act[AXES[i]]))return;}
+     if(!val||carteVal(el,axe).indexOf(val)>-1)m++;});
+   var b=p.querySelector('.n');if(b)b.textContent=m;
+   p.classList.toggle('zero',m===0&&!!val);
+   if(!val)p.classList.toggle('on',!Object.keys(act[axe]).length);});
  document.querySelectorAll('[data-bloc]').forEach(function(b){
    var v=b.querySelectorAll('article.carte:not([style*="none"])').length;
    b.style.display=v?'':'none';});
  var r=document.getElementById('res');
- if(r)r.textContent=(q||c)?n+' sujet'+(n>1?'s':''):'';
+ if(r)r.textContent=quelque?n+' sujet'+(n>1?'s':''):'';
  var vd=document.getElementById('vide');
- if(vd)vd.style.display=((q||c)&&n===0)?'':'none';
+ if(vd)vd.style.display=(quelque&&n===0)?'':'none';
+ var raz=document.getElementById('raz');if(raz)raz.style.display=quelque?'':'none';
+ var qi=document.getElementById('q');if(qi)qi.classList.toggle('plein',!!q);
+ facHash();
 }
+/* Un clic simple coche ; Ctrl, Maj ou le bouton du milieu suivent le lien
+   (la page de la rubrique, de la region ou du cahier). */
+function facToggle(el,e){
+ if(e&&(e.ctrlKey||e.metaKey||e.shiftKey||e.button===1))return true;
+ el.classList.toggle('on');filtrer();return false;}
+function facTout(el,e){
+ if(e&&(e.ctrlKey||e.metaKey||e.shiftKey))return true;
+ var axe=el.dataset.fac;
+ document.querySelectorAll('.fac.on[data-fac="'+axe+'"]').forEach(function(p){if(p.dataset.val)p.classList.remove('on');});
+ filtrer();return false;}
+function facRaz(){
+ document.querySelectorAll('.fac.on[data-fac]').forEach(function(p){if(p.dataset.val)p.classList.remove('on');});
+ var i=document.getElementById('q');if(i)i.value='';
+ var s=document.getElementById('fc');if(s)s.value='';
+ filtrer();}
 function ftr(t){var i=document.getElementById('q');if(!i)return;
  i.value=t;filtrer();i.scrollIntoView({block:'center'});return false;}
+/* L'etat du filtre dans l'adresse : #f=c:quebec;r:economie,justice;g:03;q:mot */
+var facHashEnCours=false;
+function facHash(){
+ if(facHashEnCours||!document.getElementById('facettes'))return;
+ var parts=[],k={cahier:'c',rubrique:'r',region:'g'};
+ AXES.forEach(function(a){var v=Object.keys(facActifs(a));if(v.length)parts.push(k[a]+':'+v.join(','));});
+ var q=(document.getElementById('q')||{}).value;if(q)parts.push('q:'+encodeURIComponent(q));
+ var h=parts.length?'#f='+parts.join(';'):'';
+ /* on n'ecrit que notre propre ancre, et on ne touche jamais a une autre */
+ if(h?(h!==location.hash):/^#f=/.test(location.hash)){
+  try{history.replaceState(null,'',location.pathname+location.search+h);}catch(e){}}}
+function facLireHash(){
+ var m=/^#f=(.*)$/.exec(location.hash||'');if(!m)return false;
+ facHashEnCours=true;
+ var k={c:'cahier',r:'rubrique',g:'region'};
+ m[1].split(';').forEach(function(p){
+  var i=p.indexOf(':');if(i<0)return;var a=p.slice(0,i),v=p.slice(i+1);
+  if(a==='q'){var q=document.getElementById('q');if(q)q.value=decodeURIComponent(v);return;}
+  if(!k[a])return;
+  v.split(',').forEach(function(val){
+   var el=document.querySelector('.fac[data-fac="'+k[a]+'"][data-val="'+val+'"]');
+   if(el)el.classList.add('on');});});
+ facHashEnCours=false;return true;}
+
+/* ---- rassembler par : cahier, rubrique ou region ----
+   Les cartes sont ecrites une fois, rangees comme la page l'a decide ;
+   « Rassembler par » les DEPLACE dans des sections construites ici, et sait
+   les remettre a leur place. Le choix se retient d'une visite a l'autre
+   (revue-prefs.vue) — un lecteur qui lit par region lit toujours par region. */
+var VUE={orig:null};
+function regrouper(mode,silencieux){
+ var zone=document.getElementById('sujets');if(!zone)return;
+ var origine=zone.dataset.vue||'cahier';
+ if(!VUE.orig){VUE.orig=[];zone.querySelectorAll('.grille').forEach(function(g){
+   VUE.orig.push({g:g,cartes:Array.prototype.slice.call(g.querySelectorAll('article.carte'))});});
+  VUE.blocs=Array.prototype.slice.call(zone.children);}
+ var alt=document.getElementById('vue-alt');if(alt)alt.remove();
+ /* remettre chaque carte dans sa grille d'origine, dans l'ordre */
+ VUE.orig.forEach(function(o){o.cartes.forEach(function(c){o.g.appendChild(c);});});
+ VUE.blocs.forEach(function(b){b.style.display='';});
+ /* l'etiquette de cahier sur les cartes : des que le rassemblement n'est
+    plus par cahier, sur une page qui en mele plusieurs */
+ H.classList.toggle('vue-alt',mode!=='cahier'&&!!document.querySelector('nav.cahiers[data-mode="filtre"]'));
+ if(mode!==origine){
+  var cartes=[];VUE.orig.forEach(function(o){cartes=cartes.concat(o.cartes);});
+  var sections=[],cle;
+  if(mode==='rubrique'){sections=RUB.map(function(r){return [r[0],r[1],'rubrique-'+r[0]+'.html'];}).concat([['autres','Autres sujets','']]);
+   cle=function(c){var r=c.dataset.rubrique;return RUB.some(function(x){return x[0]===r;})?r:'autres';};}
+  else if(mode==='region'){sections=REGS.map(function(r){return [r[0],(r[0]==='QC'?'':r[0]+' · ')+r[1],'region-'+r[0]+'.html'];}).concat([['','Sans localisation','']]);
+   cle=function(c){return (c.dataset.region||'').split(' ')[0]||'';};}
+  else {sections=CAH.map(function(r){return [r[0],r[1],r[0]+'.html'];});
+   cle=function(c){return c.dataset.cahier||'';};}
+  var r='';for(var i=0;i<(window.PROF||0);i++)r+='../';
+  alt=document.createElement('div');alt.id='vue-alt';
+  sections.forEach(function(s){
+   var mes=cartes.filter(function(c){return cle(c)===s[0];});
+   if(!mes.length)return;
+   var bloc=document.createElement('div');bloc.setAttribute('data-bloc','');
+   if(mode==='cahier')bloc.setAttribute('data-cahier',s[0]);
+   var h2=document.createElement('h2');h2.className='cahier vue';
+   if(mode==='cahier')h2.setAttribute('data-cahier',s[0]);
+   h2.innerHTML=(s[2]?'<a href="'+r+s[2]+'"></a>':'<span></span>')+' <span class="cnt">— '+mes.length+' sujet'+(mes.length>1?'s':'')+'</span>';
+   h2.firstChild.textContent=s[1];
+   var gr=document.createElement('div');gr.className='grille';
+   mes.forEach(function(c){gr.appendChild(c);});
+   bloc.appendChild(h2);bloc.appendChild(gr);alt.appendChild(bloc);});
+  VUE.blocs.forEach(function(b){b.style.display='none';});
+  zone.appendChild(alt);
+ }
+ document.querySelectorAll('.fac.vue').forEach(function(b){b.classList.toggle('on',b.dataset.vue===mode);});
+ if(!silencieux){var p=MAGASIN.lire('revue-prefs');p.vue=mode;MAGASIN.ecrire('revue-prefs',p);}
+ filtrer();
+}
+/* La barre se replie apres un peu de defilement, avec une marge pour ne pas
+   battre des ailes autour du seuil ; un clic sur un libelle la deplie. */
+var defileEtat=false;
+function defiler(){
+ var y=window.scrollY||0,f=document.getElementById('facettes');if(!f)return;
+ if(!defileEtat&&y>360){defileEtat=true;H.classList.add('defile');f.classList.remove('ouvert');setTimeout(hauteurEntete,30);}
+ else if(defileEtat&&y<140){defileEtat=false;H.classList.remove('defile');setTimeout(hauteurEntete,30);}}
+window.addEventListener('scroll',defiler,{passive:true});
+document.addEventListener('click',function(e){
+ var l=e.target&&e.target.closest?e.target.closest('nav.facettes .fac-lbl'):null;
+ if(!l||l.tagName==='LABEL')return;
+ var f=document.getElementById('facettes');if(f){f.classList.toggle('ouvert');setTimeout(hauteurEntete,30);}});
 
 /* ---- partager : lien permanent de l'article ---- */
 function partager(btn){
@@ -389,25 +524,34 @@ document.addEventListener('visibilitychange',function(){
 function hauteurEntete(){
  var root=parseFloat(getComputedStyle(H).fontSize)||16, rem=innerWidth/root;
  [62,56,52,36,34].forEach(function(b){H.classList.toggle('l-'+b,rem<b);});
- var t=document.querySelector('.toolbar'), n=document.querySelector('nav.cahiers');
+ var t=document.querySelector('.toolbar'), n=document.querySelector('nav.cahiers'),
+     f=document.querySelector('nav.facettes');
  if(!t&&!n)return;
- var ht=t?t.getBoundingClientRect().height:0, hn=n?n.getBoundingClientRect().height:0;
- var lourde=(ht+hn)>innerHeight*0.34;
+ var ht=t?t.getBoundingClientRect().height:0, hn=n?n.getBoundingClientRect().height:0,
+     hf=f?f.getBoundingClientRect().height:0;
+ var lourde=(ht+hn+hf)>innerHeight*0.34;
  H.classList.toggle('entete-lourde',lourde);
  H.style.setProperty('--h-barre-reelle',Math.round(ht)+'px');
- H.style.setProperty('--h-entete',Math.round(lourde?ht:ht+hn)+'px');}
+ H.style.setProperty('--h-cahiers-reelle',Math.round(ht+hn)+'px');
+ H.style.setProperty('--h-entete',Math.round(lourde?ht:ht+hn+hf)+'px');}
 window.addEventListener('resize',hauteurEntete);
 
 document.addEventListener('DOMContentLoaded',function(){
  hauteurEntete();
  if('ResizeObserver' in window){
   var ro=new ResizeObserver(hauteurEntete);
-  ['.toolbar','nav.cahiers'].forEach(function(s){
+  ['.toolbar','nav.cahiers','nav.facettes'].forEach(function(s){
    var e=document.querySelector(s);if(e)ro.observe(e);});}
  if(window.VU)vuMarquer(VU.slug,VU.emp);
  vusAppliquer();
  srcAppliquer();
  observerLecture();
+ /* le rassemblement retenu, puis le filtre lu dans l'adresse */
+ var pv=(MAGASIN.lire('revue-prefs')||{}).vue;
+ if(pv&&document.getElementById('sujets')&&document.querySelector('.fac.vue[data-vue="'+pv+'"]')
+    &&pv!==(document.getElementById('sujets').dataset.vue||'cahier'))regrouper(pv,true);
+ if(facLireHash())filtrer();else if(document.getElementById('facettes'))filtrer();
+ defiler();
  /* En dernier : les pastilles d'état viennent d'être posées et ont changé la
     hauteur des cartes. Restaurer avant elles viserait à côté. */
  posRestaurer();

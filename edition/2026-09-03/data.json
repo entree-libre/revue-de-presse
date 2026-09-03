@@ -1379,11 +1379,16 @@
    "territoire": "Abitibi-Témiscamingue",
    "medias": "Radio-Canada",
    "url": "https://ici.radio-canada.ca/nouvelle/2280396/redevances-mines-parti-quebecois-elections",
-   "resume": "Le chef péquiste Paul St-Pierre Plamondon a promis à Val-d'Or que les régions accueillant des activités minières toucheraient 10 % des redevances versées au trésor public québécois, une entrée d'argent additionnelle de 48 millions $ selon lui, en réponse aux élus de l'Abitibi-Témiscamingue et de la Côte-Nord qui dénoncent le déséquilibre fiscal, après une promesse similaire de la CAQ avant le déclenchement de la campagne.",
+   "resume": "Le chef péquiste Paul St-Pierre Plamondon a promis à Val-d'Or que les régions accueillant des activités minières toucheraient 10 % des redevances versées au trésor public québécois, une entrée d'argent additionnelle de 48 millions $ selon lui, en réponse aux élus de l'Abitibi-Témiscamingue et de la Côte-Nord qui dénoncent le déséquilibre fiscal, après une promesse similaire de la CAQ avant le déclenchement de la campagne. Il promet aussi de ramener un ministre responsable de la région au Conseil des ministres et de déposer un nouveau régime forestier avant la fin de 2027, selon le Parti québécois.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-03T16:25-04:00",
+   "horodate": "2026-09-03T17:55-04:00",
    "sources": [
+    {
+     "media": "Parti québécois",
+     "url": "https://pq.org/nouvelles/le-parti-quebecois-au-service-de-labitibi-temiscamingue-et-des-regions/",
+     "date": "2026-09-03T17:56-04:00"
+    },
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280396/redevances-mines-parti-quebecois-elections",
@@ -1439,9 +1444,33 @@
     }
    ],
    "permalien": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5"
+  },
+  {
+   "titre": "La CAQ promet 200 millions $ pour le réseau de la SÉPAQ et un accès élargi aux berges",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "",
+   "medias": "Coalition Avenir Québec",
+   "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/03/lequipe-christine-frechette-ameliorera-lacces-a-la-nature-pour-les-quebecois/",
+   "resume": "L'Équipe Christine Fréchette promet d'investir 200 millions $ pour agrandir le réseau de la SÉPAQ, d'y instaurer une tarification préférentielle pour les visiteurs québécois, et d'obliger que 20 % de la berge d'un terrain public riverain vendu demeure accessible au public.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Coalition Avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/03/lequipe-christine-frechette-ameliorera-lacces-a-la-nature-pour-les-quebecois/",
+     "date": "2026-09-03T17:56-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T17:55-04:00",
+   "permalien": "la-caq-promet-200-millions-pour-le-reseau-de-la-sepaq-et-un-082dba",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "la-caq-promet-200-millions-pour-le-reseau-de-la-sepaq-et-un-082dba"
   },
   {
    "titre": "Beaumont se retire d’un projet de coopérative d’habitation après 572 000 $ de fonds publics",
