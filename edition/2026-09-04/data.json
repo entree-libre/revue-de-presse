@@ -2,6 +2,7 @@
  "date": "2026-09-04",
  "volets": [
   "elections",
+  "monde",
   "report"
  ],
  "articles": [
@@ -13,8 +14,8 @@
    "medias": "FM93",
    "url": "https://www.fm93.com/audio/798690/le-parti-conservateur-ouvre-grand-la-porte-aux-gaz-de-schiste",
    "resume": "Selon FM93, le chef conservateur Éric Duhaime promet la création de 6000 emplois en ouvrant la porte à l'exploitation des gaz de schiste au Québec.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Eric_Duhaime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Le chef conservateur Éric Duhaime.",
    "horodate": "2026-09-04T07:28+00:00",
    "sources": [
     {
@@ -24,6 +25,9 @@
     }
    ],
    "permalien": "eric-duhaime-promet-6000-emplois-en-ouvrant-la-porte-aux-gaz-db8368",
+   "image_auto": "aucune",
+   "photo_auteur": "Asclepias",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "eric-duhaime-promet-6000-emplois-en-ouvrant-la-porte-aux-gaz-db8368"
@@ -47,6 +51,7 @@
     }
    ],
    "permalien": "le-pq-blame-la-caq-pour-le-declin-du-francais-pspp-evoque-l-a5519f",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "le-pq-blame-la-caq-pour-le-declin-du-francais-pspp-evoque-l-a5519f"
@@ -70,6 +75,7 @@
     }
    ],
    "permalien": "la-caq-promet-1000-de-plus-aux-familles-quebecoises-en-2027-90a607",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "la-caq-promet-1000-de-plus-aux-familles-quebecoises-en-2027-90a607"
@@ -82,8 +88,8 @@
    "medias": "FM93",
    "url": "https://www.fm93.com/nouvelles/798514/non-aux-maisons-des-aines-sous-leur-forme-actuelle-dit-charles-milliard",
    "resume": "Selon FM93, le chef libéral Charles Milliard rejette la formule actuelle des maisons des aînés dans son plan pour les personnes âgées.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/A9306522-Modifier-30.jpg/1280px-A9306522-Modifier-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le chef libéral Charles Milliard.",
    "horodate": "2026-09-04T07:28+00:00",
    "sources": [
     {
@@ -93,6 +99,9 @@
     }
    ],
    "permalien": "charles-milliard-rejette-les-maisons-des-aines-sous-leur-for-6ea465",
+   "image_auto": "aucune",
+   "photo_auteur": "Amélie Caron",
+   "photo_licence": "CC BY-SA 4.0",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "charles-milliard-rejette-les-maisons-des-aines-sous-leur-for-6ea465"
@@ -121,6 +130,7 @@
     }
    ],
    "permalien": "transport-a-quebec-quebec-solidaire-promet-le-tramway-sans-t-d1bed3",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "transport-a-quebec-quebec-solidaire-promet-le-tramway-sans-t-d1bed3"
@@ -144,16 +154,1200 @@
     }
    ],
    "permalien": "les-partis-quebecois-pas-presses-de-poursuivre-meta-pour-la-e24004",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "les-partis-quebecois-pas-presses-de-poursuivre-meta-pour-la-e24004"
+  },
+  {
+   "titre": "L'ex-maire d'Oka Pascal Quevillon, recalé par le PQ, sera candidat du PCQ dans Blainville",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Blainville)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280522/candidat-pcq-blainville-pascal-quevillon",
+   "resume": "L'ex-maire d'Oka Pascal Quevillon, dont la candidature péquiste dans Mirabel a été rejetée fin août, se présentera plutôt pour le Parti conservateur du Québec dans Blainville, circonscription détenue depuis 1994 par le caquiste sortant Mario Laframboise.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Blainville_QC_1.jpg/1280px-Blainville_QC_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La ville de Blainville, dans les Laurentides.",
+   "horodate": "2026-09-04T05:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280522/candidat-pcq-blainville-pascal-quevillon",
+     "date": "2026-09-04T04:00-04:00"
+    }
+   ],
+   "permalien": "l-ex-maire-d-oka-pascal-quevillon-recale-par-le-pq-sera-cand-e3b857",
+   "photo_auteur": "P199",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "l-ex-maire-d-oka-pascal-quevillon-recale-par-le-pq-sera-cand-e3b857"
+  },
+  {
+   "titre": "La CAQ bonifie son offre aux aînés pour la troisième fois de la campagne, les autres chefs promettent de répliquer",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280520/aines-chefs-retraites-caq-fadoq-elections",
+   "resume": "La CAQ promet de hausser à 2200 $ le crédit d'impôt pour aînés à faible revenu et d'exempter d'impôt jusqu'à 35 000 $ de revenu de travail pour les 65 ans et plus dans des professions en pénurie, une troisième offensive électorale du genre depuis le début de la campagne. Les chefs Duhaime, Milliard et St-Pierre Plamondon promettent de répliquer, le chef conservateur reconnaissant un écart générationnel défavorable à son parti chez les 65 ans et plus.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T05:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280520/aines-chefs-retraites-caq-fadoq-elections",
+     "date": "2026-09-04T04:00-04:00"
+    }
+   ],
+   "permalien": "la-caq-bonifie-son-offre-aux-aines-pour-la-troisieme-fois-de-9c9c37",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "la-caq-bonifie-son-offre-aux-aines-pour-la-troisieme-fois-de-9c9c37"
+  },
+  {
+   "titre": "Le transfert de prestations du RQAP à des grands-parents, proposé par la CAQ, critiqué par des expertes",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
+   "resume": "Deux professeures interrogées par Le Soleil critiquent la proposition caquiste de permettre le transfert de prestations du Régime québécois d'assurance parentale à un grand-parent retraité, qui pourrait ainsi toucher jusqu'à 170 % de ses revenus habituels tout en « dénaturant » un régime pensé pour remplacer le revenu des parents.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T05:30-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
+     "date": "2026-09-04T04:00-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
+     "date": "2026-09-04T04:00-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
+     "date": "2026-09-04T04:00-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
+     "date": "2026-09-04T04:00-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
+     "date": "2026-09-04T04:00-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
+     "date": "2026-09-04T04:00-04:00"
+    }
+   ],
+   "permalien": "le-transfert-de-prestations-du-rqap-a-des-grands-parents-pro-88e741",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "le-transfert-de-prestations-du-rqap-a-des-grands-parents-pro-88e741"
+  },
+  {
+   "titre": "À Gatineau, citoyens et mairesse réclament un rattrapage de 272 millions $ par année en santé",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec (Hull)",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/chroniques/2026-09-04/le-pouls-du-quebec/le-tiers-monde-a-gatineau.php",
+   "resume": "Dans le cadre d'une tournée électorale, La Presse rapporte qu'à Gatineau, où le risque de mourir d'une erreur médicale est trois fois plus élevé qu'à Laval ou Longueuil et où l'attente moyenne aux urgences atteint 24 heures, des citoyens et la mairesse Maude Marquis-Bissonnette réclament un rattrapage financier chiffré à 272 millions $ par année pour rejoindre la moyenne québécoise en santé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T05:30-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/chroniques/2026-09-04/le-pouls-du-quebec/le-tiers-monde-a-gatineau.php",
+     "date": "2026-09-04T05:00-04:00"
+    }
+   ],
+   "permalien": "a-gatineau-citoyens-et-mairesse-reclament-un-rattrapage-de-2-4f3cc6",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "a-gatineau-citoyens-et-mairesse-reclament-un-rattrapage-de-2-4f3cc6"
+  },
+  {
+   "titre": "Un exercice de vérification des faits nuance l'accusation de PSPP liant écoles bondées et immigration",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/vu-lu-verifie/les-ecoles-debordent-elles-a-cause-de-l-immigration.php",
+   "resume": "Un exercice de vérification des faits de La Presse conclut que l'immigration a contribué, sans en être la seule cause, à la surpopulation de certaines écoles québécoises que dénonce le chef péquiste Paul St-Pierre Plamondon, la vétusté des bâtiments et la croissance démographique générale comptant aussi parmi les causes reconnues par les directions d'établissements. Le journal juge en revanche exagérée l'affirmation de M. St-Pierre Plamondon selon laquelle la CAQ aurait à elle seule « brisé » le système d'immigration.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T05:30-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/vu-lu-verifie/les-ecoles-debordent-elles-a-cause-de-l-immigration.php",
+     "date": "2026-09-04T05:00-04:00"
+    }
+   ],
+   "permalien": "un-exercice-de-verification-des-faits-nuance-l-accusation-de-5cf2d5",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "un-exercice-de-verification-des-faits-nuance-l-accusation-de-5cf2d5"
+  },
+  {
+   "titre": "Une professeure juge la promesse péquiste de lectures obligatoires « noble » mais difficile à appliquer",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/799540/l-ecole-a-un-role-a-jouer-en-inculquant-aux-eleves-la-valeur-de-la-lecture",
+   "resume": "Sur les ondes de 98,5FM, la professeure de littérature Éléonore Bernier-Hamel juge « noble » la promesse du chef péquiste Paul St-Pierre Plamondon d'imposer une liste de romans québécois obligatoires à l'école, mais anticipe des défis d'application alors que plusieurs élèves affichent déjà d'importantes lacunes en littératie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T05:30-04:00",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799540/l-ecole-a-un-role-a-jouer-en-inculquant-aux-eleves-la-valeur-de-la-lecture",
+     "date": "2026-09-03T08:43-04:00"
+    }
+   ],
+   "permalien": "une-professeure-juge-la-promesse-pequiste-de-lectures-obliga-961fe3",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "une-professeure-juge-la-promesse-pequiste-de-lectures-obliga-961fe3"
+  },
+  {
+   "titre": "Christine Fréchette affirme que l'« école à trois vitesses » n'existe « pas vraiment », des experts la contredisent",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-04/et-soudain-l-ecole-a-trois-vitesses-disparut.php",
+   "resume": "La cheffe caquiste Christine Fréchette affirme que l'« école à trois vitesses » québécoise — partagée entre le public régulier, le privé et les programmes enrichis — n'existe « pas vraiment », une sortie qui surprend des experts cités par La Presse, dont le professeur Égide Royer, qui la juge « mal briefée ». Le Québec comptait 285 000 élèves en difficulté en 2025-2026, contre 102 000 en 2001, selon ce dernier.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T05:30-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-04/et-soudain-l-ecole-a-trois-vitesses-disparut.php",
+     "date": "2026-09-04T05:00-04:00"
+    }
+   ],
+   "permalien": "christine-frechette-affirme-que-l-ecole-a-trois-vitesses-n-e-914063",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "christine-frechette-affirme-que-l-ecole-a-trois-vitesses-n-e-914063"
+  },
+  {
+   "titre": "La Norvège saisit un navire russe dans l'Arctique pour faire exécuter une créance ukrainienne de 4,22 milliards de dollars",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Norvège, Russie",
+   "medias": "DW, Euronews, Al Jazeera, France 24",
+   "url": "https://www.dw.com/en/svalbad-russian-ship-professor-molchanov-seized/a-78889005",
+   "sources": [
+    {
+     "media": "DW",
+     "url": "https://www.dw.com/en/svalbad-russian-ship-professor-molchanov-seized/a-78889005",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://www.euronews.com/2026/09/03/norway-seizes-russian-ship-in-the-arctic-over-ukraines-42-billion-crimea-claim",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/en/europe/20260903-norway-seizes-russian-ship-to-enforce-4-22-billion-ukrainian-arbitration-claim",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "La Norvège a saisi jeudi le Professor Molchanov, un navire russe au large du Svalbard, afin de faire exécuter une sentence arbitrale internationale accordant environ 4,22 milliards de dollars à l'Ukraine pour la perte de biens en Crimée après l'annexion russe de 2014, selon Reuters et Euronews.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Harbour_of_Longyearbyen.jpg/1280px-Harbour_of_Longyearbyen.jpg",
+   "legende": "Le port de Longyearbyen, au Svalbard, l'archipel norvégien de l'Arctique où le navire russe a été saisi.",
+   "horodate": "2026-09-04T04:59-04:00",
+   "photo_auteur": "Joxean Koret",
+   "photo_licence": "CC BY-SA 2.0",
+   "permalien": "la-norvege-saisit-un-navire-russe-dans-l-arctique-pour-faire-9fc49f",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "la-norvege-saisit-un-navire-russe-dans-l-arctique-pour-faire-9fc49f"
+  },
+  {
+   "titre": "Drone explosif à Leipzig : l'Allemagne sanctionne la Russie, qui ferme en retour les instituts Goethe sur son sol",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Allemagne, Russie",
+   "medias": "La Dépêche, BFMTV, euro|topics, Euronews, Le Parisien",
+   "url": "https://www.ladepeche.fr/2026/09/02/guerre-en-ukraine-poutine-evoque-une-nouvelle-erreur-ce-que-lon-sait-de-lattaque-au-drone-explosif-de-laeroport-allemand-de-leipzig-13532344.php",
+   "sources": [
+    {
+     "media": "La Dépêche",
+     "url": "https://www.ladepeche.fr/2026/09/02/guerre-en-ukraine-poutine-evoque-une-nouvelle-erreur-ce-que-lon-sait-de-lattaque-au-drone-explosif-de-laeroport-allemand-de-leipzig-13532344.php",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/nous-allons-intensifier-la-pression-contre-la-russie-bruxelles-se-prepare-a-de-nouvelles-sanctions-contre-moscou-apres-la-tentative-d-attaque-au-drone-a-l-aeroport-de-leipzig_AV-202609020628.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "euro|topics",
+     "url": "https://www.eurotopics.net/fr/363402/drone-explosif-a-leipzig-quelle-reponse-de-l-ue",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/09/03/la-russie-ferme-les-branches-de-linstitut-goethe-sur-son-territoire",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/nouvelle-etape-des-tensions-entre-moscou-et-berlin-la-russie-annonce-la-fermeture-de-linstitut-goethe-sur-son-territoire-03-09-2026-J35TTXWZV5EM7I52BAYNMU3FWA.php",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Le gouvernement allemand a formellement attribué à des agents russes la tentative d'attaque au drone explosif contre l'aéroport de Leipzig/Halle, plaque tournante de l'aide militaire à l'Ukraine, et l'Union européenne évoque de nouvelles sanctions contre Moscou. En représailles, selon les agences d'État russes Tass et Interfax, le ministre Sergueï Lavrov a ordonné la fermeture des instituts Goethe allemands en Russie.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Leipzig_Halle_Airport_Aerotranscargo_Boeing_747-409%28BDSF%29_ER-BAM_%28DSC02596%29.jpg/1280px-Leipzig_Halle_Airport_Aerotranscargo_Boeing_747-409%28BDSF%29_ER-BAM_%28DSC02596%29.jpg",
+   "legende": "L'aéroport de Leipzig/Halle, en Allemagne, plaque tournante du fret aérien visée par l'attaque au drone.",
+   "horodate": "2026-09-04T04:59-04:00",
+   "photo_auteur": "MarcelX42",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "drone-explosif-a-leipzig-l-allemagne-sanctionne-la-russie-qu-27f687",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "drone-explosif-a-leipzig-l-allemagne-sanctionne-la-russie-qu-27f687"
+  },
+  {
+   "titre": "Guerre au Moyen-Orient : l'Iran frappe des bases américaines au Koweït et aux Émirats, en représailles à une attaque contre un mariage qu'il attribue à Washington",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran, États-Unis",
+   "medias": "Euronews, Le Monde, Le Devoir, Le Parisien, TV5MONDE",
+   "url": "https://fr.euronews.com/2026/09/04/teheran-promet-de-venger-lattaque-contre-un-mariage-washington-ouvre-une-enquete",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/09/04/teheran-promet-de-venger-lattaque-contre-un-mariage-washington-ouvre-une-enquete",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/03/l-iran-dit-avoir-vise-des-bases-americaines-au-koweit-et-aux-emirats_6765149_3210.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1006124/iran-fait-fi-menaces-trump-bombarde-pays-golfe",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/iran-jd-vance-confirme-louverture-dune-enquete-sur-une-frappe-contre-un-mariage-a-teheran-mais-se-dit-sceptique-03-09-2026-DXQRXZISMFBWFHPQLNMOHRWGUE.php",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/teheran-promet-de-venger-lattaque-meurtriere-contre-un-mariage-washington-annonce-une-enquete-2835931",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "L'Iran affirme avoir visé jeudi des positions militaires et des systèmes radar américains sur des bases au Koweït et aux Émirats arabes unis, en représailles à une frappe qui aurait tué quatre personnes lors d'un mariage mardi et qu'il attribue à Washington. Les États-Unis ont ouvert une enquête sur cette frappe contre le mariage — le vice-président JD Vance se disant « sceptique » — tandis que Donald Trump s'est dit prêt à frapper de nouveau l'Iran « à tout moment ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "guerre-au-moyen-orient-l-iran-frappe-des-bases-americaines-a-5442c3",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "guerre-au-moyen-orient-l-iran-frappe-des-bases-americaines-a-5442c3"
+  },
+  {
+   "titre": "En Saxe-Anhalt, l'extrême droite allemande en position de diriger un Land pour la première fois depuis 1945",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Allemagne",
+   "medias": "TV5MONDE, France 24, Courrier international, Radio-Canada",
+   "url": "https://information.tv5monde.com/international/en-saxe-anhalt-lextreme-droite-allemande-aux-portes-du-pouvoir-2835917",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/en-saxe-anhalt-lextreme-droite-allemande-aux-portes-du-pouvoir-2835917",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260903-en-saxe-anhalt-l-extr%C3%AAme-droite-allemande-aux-portes-du-pouvoir",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Courrier international",
+     "url": "https://www.courrierinternational.com/depeche/en-saxe-anhalt-l-extreme-droite-allemande-aux-portes-du-pouvoir.afp.com.20260902.doc.c6vw2cq.xml",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10752297/elections-en-allemagne-extreme-droite-aux-portes-pouvoir-en-saxe",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Selon une dépêche de l'AFP, le parti AfD est donné favori pour remporter dimanche les élections régionales de Saxe-Anhalt, ce qui en ferait le premier parti d'extrême droite à diriger un Land allemand depuis 1945 et fragiliserait un peu plus le chancelier Friedrich Merz.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/00_1582_Landtag_Sachsen-Anhalt.jpg/1280px-00_1582_Landtag_Sachsen-Anhalt.jpg",
+   "legende": "Le Landtag de Saxe-Anhalt, à Magdebourg, dont la composition se jouera dimanche.",
+   "horodate": "2026-09-04T04:59-04:00",
+   "photo_auteur": "W. Bulach",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "en-saxe-anhalt-l-extreme-droite-allemande-en-position-de-dir-0e6921",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "en-saxe-anhalt-l-extreme-droite-allemande-en-position-de-dir-0e6921"
+  },
+  {
+   "titre": "Gloria Steinem, figure de proue du féminisme américain, est morte à 92 ans",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis",
+   "medias": "France 24, Le Monde, RFI, franceinfo, Radio-Canada",
+   "url": "https://www.france24.com/fr/info-en-continu/20260903-la-journaliste-am%C3%A9ricaine-gloria-steinem-figure-majeure-du-f%C3%A9minisme-est-d%C3%A9c%C3%A9d%C3%A9e-%C3%A0-92-ans",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260903-la-journaliste-am%C3%A9ricaine-gloria-steinem-figure-majeure-du-f%C3%A9minisme-est-d%C3%A9c%C3%A9d%C3%A9e-%C3%A0-92-ans",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/disparitions/article/2026/09/03/gloria-steinem-journaliste-et-icone-americaine-du-feminisme-est-morte_6765140_3382.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260903-mort-de-la-journaliste-am%C3%A9ricaine-gloria-steinem-figure-majeure-du-f%C3%A9minisme",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/usa/la-journaliste-americaine-gloria-steinem-figure-majeure-du-feminisme-est-morte-a-l-age-de-92-ans_8175320.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10752076/gloria-steinem-icone-feminisme-americain-s-est-eteinte",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Gloria Steinem, journaliste et l'une des figures majeures du mouvement féministe américain depuis les années 1960, est morte jeudi à l'âge de 92 ans, selon France 24, Le Monde et RFI.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Gloria_Steinem_%2829126367513%29_%28cropped%29.jpg/1280px-Gloria_Steinem_%2829126367513%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Gloria Steinem",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "gloria-steinem-figure-de-proue-du-feminisme-americain-est-mo-8a7d10",
+   "photo_auteur": "Gage Skidmore from Peoria, AZ, United States of America",
+   "photo_licence": "CC BY-SA 2.0",
+   "image_auto": "wikipedia-fr:Gloria Steinem",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "gloria-steinem-figure-de-proue-du-feminisme-americain-est-mo-8a7d10"
+  },
+  {
+   "titre": "Guerre en Ukraine : Kyiv attend une rencontre avec des émissaires américains dans les prochains jours",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Al Jazeera, Reuters, Ukrinform, Interfax-Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days",
+   "sources": [
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Reuters",
+     "url": "https://www.reuters.com/world/zelenskiy-says-ukraine-expects-meeting-with-us-negotiators-coming-days-2026-09-03/",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4160725-injury-toll-from-russias-sept-3-drone-strikes-on-kyiv-rises-to-14.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1198446.html",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Le président Volodymyr Zelensky et le chef de la diplomatie ukrainienne Andriï Sybiha disent attendre une rencontre avec des négociateurs américains dans les prochains jours, évoquant un possible nouvel élan dans les pourparlers de paix, selon Reuters et Al Jazeera; une attaque de drones russes sur Kyiv a par ailleurs fait une dizaine de blessés jeudi.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "guerre-en-ukraine-kyiv-attend-une-rencontre-avec-des-emissai-1256f1",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "guerre-en-ukraine-kyiv-attend-une-rencontre-avec-des-emissai-1256f1"
+  },
+  {
+   "titre": "L'ONU prévoit un épisode El Niño de très forte intensité d'ici février 2027",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "International",
+   "medias": "ONU Info, France 24, Le Monde, RFI",
+   "url": "https://news.un.org/fr/story/2026/09/1159394",
+   "sources": [
+    {
+     "media": "ONU Info",
+     "url": "https://news.un.org/fr/story/2026/09/1159394",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260903-l-onu-pr%C3%A9voit-un-el-ni%C3%B1o-de-tr%C3%A8s-forte-intensit%C3%A9-ces-cinq-prochains-mois",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/planete/article/2026/09/03/el-nino-l-onu-prevoit-un-phenomene-de-tres-forte-intensite-jusqu-en-fevrier-2027_6765025_3244.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/environnement/20260903-el-ni%C3%B1o-va-s-intensifier-pourquoi-les-prochains-mois-inqui%C3%A8tent-les-climatologues",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "L'Organisation météorologique mondiale prévoit que le phénomène El Niño, déjà installé dans le Pacifique tropical, atteindra une intensité très forte au cours des prochains mois, accroissant les risques de sécheresses, d'inondations et de chaleurs extrêmes à travers le monde jusqu'en février 2027, selon l'ONU.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/de/El_Ni%C3%B1o_Sea_Surface_Temperature_Anomaly_Comparison_with_Zoom-_1982-1983_to_1997_%28SVS147%29.jpg",
+   "legende": "Comparaison des anomalies de température de surface de l'océan Pacifique lors d'épisodes El Niño passés (NASA).",
+   "horodate": "2026-09-04T04:59-04:00",
+   "photo_auteur": "NASA Scientific Visualization Studio (Greg Shirah, Antonio Busalacchi)",
+   "photo_licence": "Domaine public",
+   "permalien": "l-onu-prevoit-un-episode-el-nino-de-tres-forte-intensite-d-i-9d0835",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "l-onu-prevoit-un-episode-el-nino-de-tres-forte-intensite-d-i-9d0835"
+  },
+  {
+   "titre": "À Kyiv, un échange de tirs entre deux agences ukrainiennes du renseignement expose des tensions internes",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Le Monde, Reuters, Al Jazeera, The Independent, Interfax-Ukraine",
+   "url": "https://www.lemonde.fr/en/international/article/2026/09/04/in-kyiv-a-shootout-between-intelligence-service-members-exposes-rifts-within-ukraine-s-security_6757148_4.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/en/international/article/2026/09/04/in-kyiv-a-shootout-between-intelligence-service-members-exposes-rifts-within-ukraine-s-security_6757148_4.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Reuters",
+     "url": "https://www.reuters.com/world/ukraines-zelenskiy-says-investigation-underway-after-clash-between-two-security-2026-09-03/",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "The Independent",
+     "url": "https://www.independent.co.uk/news/world/europe/ukraine-spy-agencies-kyiv-gunfight-b3043965.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1198376.html",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Des agents du SBU (sécurité intérieure) et du HUR (renseignement militaire) ukrainiens se sont affrontés dans un échange de tirs en plein jour à Kyiv; les comptes rendus sur les causes divergent selon Le Monde et Al Jazeera, et le président Zelensky a annoncé l'ouverture d'une enquête.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "a-kyiv-un-echange-de-tirs-entre-deux-agences-ukrainiennes-du-a44fce",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "a-kyiv-un-echange-de-tirs-entre-deux-agences-ukrainiennes-du-a44fce"
+  },
+  {
+   "titre": "Giorgia Meloni bat un record de longévité gouvernementale en Italie et lance sa campagne pour 2027",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Italie",
+   "medias": "RFI, France 24, CNEWS, TV5MONDE",
+   "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260904-italie-giorgia-meloni-reste-populaire-incontestablement-malgr%C3%A9-un-bilan-contrast%C3%A9",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260904-italie-giorgia-meloni-reste-populaire-incontestablement-malgr%C3%A9-un-bilan-contrast%C3%A9",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-en-italie-giorgia-meloni-bat-un-record-de-long%C3%A9vit%C3%A9-et-lance-sa-campagne-pour-2027",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-04/giorgia-meloni-le-gouvernement-de-la-presidente-du-conseil-devient-le-plus-long-de",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/italie-giorgia-meloni-bat-un-record-de-longevite-et-lance-sa-campagne-2836011",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Le gouvernement de Giorgia Meloni est devenu vendredi le plus long de l'histoire de l'Italie d'après-guerre, à 1413 jours; la présidente du Conseil reste incontestablement populaire malgré un bilan contrasté selon RFI, et lance sa campagne pour les élections de 2027.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Giorgia Meloni",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "giorgia-meloni-bat-un-record-de-longevite-gouvernementale-en-24473e",
+   "photo_auteur": "Governo Italiano",
+   "photo_licence": "CC BY 3.0 it",
+   "image_auto": "wikipedia-fr:Giorgia Meloni",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "giorgia-meloni-bat-un-record-de-longevite-gouvernementale-en-24473e"
+  },
+  {
+   "titre": "Népal : deux ouvriers extraits vivants d'un tunnel neuf jours après une crue dévastatrice",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Népal",
+   "medias": "France 24, Euronews, CNEWS, Le Parisien",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-crue-au-n%C3%A9pal-deux-ouvriers-extraits-vivants-d-un-tunnel-neuf-jours-apr%C3%A8s-le-d%C3%A9sastre",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-crue-au-n%C3%A9pal-deux-ouvriers-extraits-vivants-d-un-tunnel-neuf-jours-apr%C3%A8s-le-d%C3%A9sastre",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/video/2026/09/04/deux-ouvriers-dun-barrage-sauves-vivants-apres-neuf-jours-pieges-dans-un-tunnel-au-nepal",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-04/nepal-neuf-jours-apres-le-tsunami-himalayen-deux-ouvriers-sortis-miraculeusement",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/faits-divers/crue-au-nepal-deux-ouvriers-extraits-vivants-dun-tunnel-neuf-jours-apres-la-catastrophe-04-09-2026-4SDAPXRZDJBGRCKKWM7G3S6364.php",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Deux ouvriers ont été sortis vivants d'un tunnel hydroélectrique népalais neuf jours après une crue soudaine dans l'Himalaya, ont annoncé les ministres népalais de l'Énergie et de l'Intérieur; des sauveteurs népalais, assistés d'experts indiens, chinois et sud-coréens, poursuivent leurs recherches sur d'autres sites dévastés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "nepal-deux-ouvriers-extraits-vivants-d-un-tunnel-neuf-jours-8a7364",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "nepal-deux-ouvriers-extraits-vivants-d-un-tunnel-neuf-jours-8a7364"
+  },
+  {
+   "titre": "Ukraine : une attaque russe sur des infrastructures civiles à Odessa fait un mort et plusieurs blessés",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Ukrinform, Interfax-Ukraine",
+   "url": "https://www.ukrinform.net/rubric-ato/4160721-russian-forces-attack-civilian-infrastructure-in-odesa-region-one-killed-five-injured.html",
+   "sources": [
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4160721-russian-forces-attack-civilian-infrastructure-in-odesa-region-one-killed-five-injured.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1198449.html",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Les forces russes ont mené une attaque nocturne contre des infrastructures civiles dans la région d'Odessa le 4 septembre, tuant une personne et en blessant au moins cinq autres, dont un enfant, selon les autorités ukrainiennes citées par Ukrinform et Interfax-Ukraine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "ukraine-une-attaque-russe-sur-des-infrastructures-civiles-a-51f8f0",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "ukraine-une-attaque-russe-sur-des-infrastructures-civiles-a-51f8f0"
+  },
+  {
+   "titre": "La Maison-Blanche met en ligne des jeux vidéo pour promouvoir sa politique d'expulsion des migrants en situation irrégulière",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "franceinfo, Le Devoir, Le Monde, Le Parisien",
+   "url": "https://www.franceinfo.fr/monde/usa/la-maison-blanche-met-en-ligne-plusieurs-jeux-video-pour-expulser-des-immigres-en-situation-irreguliere_8176514.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/usa/la-maison-blanche-met-en-ligne-plusieurs-jeux-video-pour-expulser-des-immigres-en-situation-irreguliere_8176514.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/etats-unis/1006460/maison-blanche-cree-jeu-video-expulsions-immigres",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/la-maison-blanche-publie-un-jeu-video-dont-le-but-est-d-expulser-des-immigres_6765354_3210.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/cela-me-rend-malade-la-maison-blanche-cree-un-jeu-video-sur-les-expulsions-dimmigres-suscitant-lindignation-04-09-2026-BZAAAPPN4JCTLCJC4MHP75E7MM.php",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Le site de la présidence américaine a mis en ligne jeudi une série de jeux vidéo destinés à promouvoir les politiques de l'administration Trump, notamment en matière d'expulsion des immigrés en situation irrégulière, selon franceinfo et Le Devoir.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "la-maison-blanche-met-en-ligne-des-jeux-video-pour-promouvoi-0e3fd1",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "la-maison-blanche-met-en-ligne-des-jeux-video-pour-promouvoi-0e3fd1"
+  },
+  {
+   "titre": "Brésil : Lula réclame une enquête impartiale sur des soupçons de corruption visant un juge de la Cour suprême",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Brésil",
+   "medias": "TV5MONDE, France 24, Le Monde, RFI",
+   "url": "https://information.tv5monde.com/international/crise-la-cour-supreme-bresilienne-lula-demande-une-enquete-impartiale-2836013",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/crise-la-cour-supreme-bresilienne-lula-demande-une-enquete-impartiale-2836013",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260904-crise-%C3%A0-la-cour-supr%C3%AAme-br%C3%A9silienne-lula-demande-une-enqu%C3%AAte-impartiale",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/au-bresil-lula-exige-une-enquete-impartiale-sur-des-soupcons-de-corruption-visant-un-juge-de-la-cour-supreme_6765387_3210.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260903-br%C3%A9sil-la-cour-supr%C3%AAme-%C3%A9clabouss%C3%A9e-par-le-vaste-scandale-financier-banco-master",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Le président Lula a exigé une enquête impartiale après que la Cour suprême brésilienne a été éclaboussée par des soupçons de corruption visant l'un de ses juges, dans le cadre du vaste scandale financier Banco Master, selon Le Monde et RFI.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "bresil-lula-reclame-une-enquete-impartiale-sur-des-soupcons-22c78a",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "bresil-lula-reclame-une-enquete-impartiale-sur-des-soupcons-22c78a"
+  },
+  {
+   "titre": "Mode ultra-éphémère : la Chine menace la France de contre-mesures si elle n'abroge pas son malus",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Chine, France",
+   "medias": "TV5MONDE, Le Monde, France 24, Le Parisien",
+   "url": "https://information.tv5monde.com/international/malus-sur-la-mode-jetable-pekin-menace-la-france-de-mesures-2835933",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/malus-sur-la-mode-jetable-pekin-menace-la-france-de-mesures-2835933",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/economie/video/2026/09/03/la-chine-menace-la-france-de-contre-mesures-si-celle-ci-n-annule-pas-son-malus-sur-l-ultrafast-fashion_6765182_3234.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/france/20260903-la-chine-menace-la-france-de-mesures-face-au-malus-anti-fast-fashion",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/economie/consommation/manifestement-discriminatoire-la-chine-menace-la-france-de-contre-mesures-si-elle-nabroge-pas-son-malus-sur-la-fast-fashion-03-09-2026-KDEN3CB4ZFDL3BYDUEQ7EP4U6E.php",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Pékin a menacé jeudi la France de contre-mesures si elle n'abroge pas immédiatement la taxe entrée en vigueur mardi sur les vêtements de mode ultra-éphémère, du type de ceux vendus par l'entreprise chinoise Shein, selon l'AFP.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "mode-ultra-ephemere-la-chine-menace-la-france-de-contre-mesu-ea784a",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "mode-ultra-ephemere-la-chine-menace-la-france-de-contre-mesu-ea784a"
+  },
+  {
+   "titre": "Crise migratoire à Ceuta : Pedro Sánchez sous pression après avoir exonéré le Maroc de toute implication",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Espagne",
+   "medias": "franceinfo, TV5MONDE, Le Monde, CNEWS",
+   "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-ceuta-la-crise-migratoire-se-transforme-en-crise-politique-pour-pedro-sanchez-accuse-de-complicite_8144885.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-ceuta-la-crise-migratoire-se-transforme-en-crise-politique-pour-pedro-sanchez-accuse-de-complicite_8144885.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/crise-migratoire-ceuta-pedro-sanchez-sous-le-feu-des-critiques-en-espagne-pour-avoir-dedouane-le-maroc-2836021",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/03/ceuta-l-espagne-ne-dispose-pas-de-preuves-solides-d-une-implication-du-maroc-dans-la-crise-migratoire-selon-pedro-sanchez_6765137_3210.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-03/crise-migratoire-ceuta-implication-du-maroc-visite-du-roi-felipe-vi-pedro-sanchez",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "La crise migratoire à Ceuta, où des dizaines de milliers de migrants ont tenté cet été de rallier l'enclave espagnole, se mue en crise politique pour Pedro Sánchez, accusé par ses détracteurs de complaisance envers le Maroc après avoir affirmé ne disposer d'aucune preuve solide d'une implication marocaine, selon franceinfo, Le Monde et CNEWS.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "crise-migratoire-a-ceuta-pedro-sanchez-sous-pression-apres-a-409801",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "crise-migratoire-a-ceuta-pedro-sanchez-sous-pression-apres-a-409801"
+  },
+  {
+   "titre": "La Maison-Blanche pousse les entreprises spatiales américaines à boycotter le sommet spatial de Macron à Paris",
+   "cahier": "international",
+   "rubrique": "espace",
+   "territoire": "France, États-Unis",
+   "medias": "Libération, Québecor, franceinfo",
+   "url": "https://www.liberation.fr/economie/spacex-et-blue-origin-boycottent-le-sommet-spatial-de-macron-sous-lamicale-pression-de-trump-20260904_OC4L2GQN2NHXXFSXMDHDAJMX6U/",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/spacex-et-blue-origin-boycottent-le-sommet-spatial-de-macron-sous-lamicale-pression-de-trump-20260904_OC4L2GQN2NHXXFSXMDHDAJMX6U/",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/03/la-maison-blanche-pousse-les-entreprises-americaines-a-bouder-le-sommet-spatial-a-paris",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sciences/espace/sommet-spatial-a-paris-les-etats-unis-sont-les-bienvenus-selon-le-gouvernement-francais-alors-que-la-maison-blanche-pousserait-les-entreprises-americaines-a-bouder-l-evenement_8175164.html",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Selon des informations de Politico relayées par Libération, la Maison-Blanche a poussé des entreprises spatiales américaines, dont SpaceX d'Elon Musk et Blue Origin, à ne pas participer au sommet spatial organisé par Emmanuel Macron à Paris la semaine prochaine; le gouvernement français affirme que les États-Unis restent les bienvenus.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "la-maison-blanche-pousse-les-entreprises-spatiales-americain-96d4af",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "la-maison-blanche-pousse-les-entreprises-spatiales-americain-96d4af"
+  },
+  {
+   "titre": "Malouines : Javier Milei évoque des « vents favorables » à la revendication argentine et durcit les sanctions",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Argentine, Royaume-Uni",
+   "medias": "Le Monde, CNEWS, Le Parisien, France 24",
+   "url": "https://www.lemonde.fr/international/article/2026/09/04/malouines-javier-milei-sent-des-vents-favorables-a-l-argentine-et-veut-durcir-les-sanctions-contre-les-entreprises-operant-dans-l-archipel_6765738_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/malouines-javier-milei-sent-des-vents-favorables-a-l-argentine-et-veut-durcir-les-sanctions-contre-les-entreprises-operant-dans-l-archipel_6765738_3210.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-04/les-iles-malouines-sont-argentines-par-lhistoire-et-par-le-droit-face-aux",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/des-vents-favorables-revigore-par-le-soutien-de-trump-le-president-argentin-milei-durcit-le-ton-sur-les-malouines-04-09-2026-MQYL7JNLZZALFPVNECBQISIPUU.php",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260904-revendication-de-l-argentine-sur-les-malouines-dop%C3%A9-par-donald-trump-javier-milei-durcit-le-ton",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "S'estimant soutenu par Donald Trump, le président argentin Javier Milei a évoqué jeudi des vents favorables à la revendication historique argentine sur les îles Malouines et annoncé des sanctions renforcées contre les entreprises menant des projets pétroliers dans l'archipel sous administration britannique, selon Le Monde.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Javier_Milei_in_pull-aside_meeting_at_the_United_Nations_Headquarters_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Javier Milei",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "malouines-javier-milei-evoque-des-vents-favorables-a-la-reve-13cfa5",
+   "photo_auteur": "The White House",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-en:Javier Milei",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "malouines-javier-milei-evoque-des-vents-favorables-a-la-reve-13cfa5"
+  },
+  {
+   "titre": "Le renseignement danois alerte sur des préparatifs de sabotage russes visant l'industrie de la défense",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Danemark",
+   "medias": "La Presse, Québecor, Sud Ouest",
+   "url": "https://www.lapresse.ca/international/europe/2026-09-03/danemark/le-renseignement-alerte-sur-des-preparatifs-de-sabotages-russes.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/europe/2026-09-03/danemark/le-renseignement-alerte-sur-des-preparatifs-de-sabotages-russes.php",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/03/au-danemark-le-renseignement-alerte-sur-des-preparatifs-de-sabotages-russes",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Sud Ouest",
+     "url": "https://www.sudouest.fr/international/les-services-de-renseignement-danois-alertent-sur-des-risques-de-sabotage-russes-30464658.php",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Les services de renseignement danois (PET) affirment, dans un communiqué transmis à l'AFP, que la Russie prépare activement des actions de sabotage contre l'industrie de la défense du Danemark, recrutant selon eux des Danois ordinaires sur les réseaux sociaux pour photographier des cibles potentielles.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "le-renseignement-danois-alerte-sur-des-preparatifs-de-sabota-7d460a",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "le-renseignement-danois-alerte-sur-des-preparatifs-de-sabota-7d460a"
+  },
+  {
+   "titre": "Estonie : le ministre de la Défense démissionne après le fiasco d'obus « inutilisables » livrés pour l'Ukraine",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Estonie",
+   "medias": "Le Parisien, Euronews, DPA",
+   "url": "https://www.leparisien.fr/international/ukraine/des-obus-inutilisables-le-ministre-estonien-de-la-defense-demissionne-apres-le-fiasco-dune-commande-a-70-millions-deuros-pour-lukraine-03-09-2026-QXXJH6LNIZGDPHI7OUJZASRY34.php",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/ukraine/des-obus-inutilisables-le-ministre-estonien-de-la-defense-demissionne-apres-le-fiasco-dune-commande-a-70-millions-deuros-pour-lukraine-03-09-2026-QXXJH6LNIZGDPHI7OUJZASRY34.php",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://www.euronews.com/my-europe/2026/09/03/estonian-defence-minister-resigns-in-70m-eu-funded-procurement-scandal-for-ukraine",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "DPA",
+     "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:260903-930-625797/",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Le ministre estonien de la Défense a démissionné après la révélation que des obus achetés pour 70 millions d'euros et destinés à l'Ukraine se sont révélés inutilisables; la Cour des comptes estonienne juge que cette somme ne pourra être remboursée via le Mécanisme européen pour la paix et devra être assumée par le budget de l'État, selon Le Parisien et Euronews.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "estonie-le-ministre-de-la-defense-demissionne-apres-le-fiasc-110fd5",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "estonie-le-ministre-de-la-defense-demissionne-apres-le-fiasc-110fd5"
+  },
+  {
+   "titre": "Malte : colère après l'acquittement de l'homme d'affaires Yorgen Fenech dans le meurtre de la journaliste Daphne Caruana Galizia",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Malte",
+   "medias": "Le Monde, RFI, TV5MONDE, France 24",
+   "url": "https://www.lemonde.fr/international/article/2026/09/03/a-malte-l-acquittement-de-l-oligarque-yorgen-fenech-laisse-impunis-les-commanditaires-du-meurtre-de-la-journaliste-daphne-caruana-galizia_6765145_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/03/a-malte-l-acquittement-de-l-oligarque-yorgen-fenech-laisse-impunis-les-commanditaires-du-meurtre-de-la-journaliste-daphne-caruana-galizia_6765145_3210.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260903-meurtre-d-une-journaliste-%C3%A0-malte-col%C3%A8re-contre-l-acquittement-d-un-magnat-accus%C3%A9-d-%C3%AAtre-le-commanditaire",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/video/malte-le-commanditaire-presume-du-meurtre-de-la-journaliste-daphne-caruana-galizia-acquitte-2835992",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260903-malte-protestations-apr%C3%A8s-l-acquittement-d-un-magnat-accus%C3%A9-du-meurtre-d-une-journaliste",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Neuf ans après l'assassinat de la journaliste d'investigation maltaise Daphne Caruana Galizia, l'homme d'affaires Yorgen Fenech, soupçonné d'avoir commandité son meurtre, a été acquitté par un jury populaire; Le Monde relève que ce verdict laisse impunis les commanditaires du crime, et la famille de la journaliste dénonce un déni de justice, selon RFI.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/MDLXV_Statue_in_2020.01.jpg/1280px-MDLXV_Statue_in_2020.01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Daphne Caruana Galizia",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "malte-colere-apres-l-acquittement-de-l-homme-d-affaires-yorg-75d0d0",
+   "photo_auteur": "CAPTAIN RAJU",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Daphne Caruana Galizia",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "malte-colere-apres-l-acquittement-de-l-homme-d-affaires-yorg-75d0d0"
+  },
+  {
+   "titre": "La RDC annonce le transfert de son ambassade en Israël de Tel-Aviv à Jérusalem",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "République démocratique du Congo, Israël",
+   "medias": "Le Monde, Libération, RFI",
+   "url": "https://www.lemonde.fr/international/article/2026/09/03/la-rdc-va-deplacer-son-ambassade-en-israel-de-tel-aviv-a-jerusalem_6765220_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/03/la-rdc-va-deplacer-son-ambassade-en-israel-de-tel-aviv-a-jerusalem_6765220_3210.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/la-republique-democratique-du-congo-va-deplacer-son-ambassade-en-israel-a-jerusalem-20260903_NLV3WVHKQFHPLF5EWTWQXKTCCQ/",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20260904-rdc-f%C3%A9lix-tshisekedi-est-parmi-les-seuls-dirigeants-africains-qui-soit-aussi-proche-d-isra%C3%ABl",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "La République démocratique du Congo a annoncé le déplacement de son ambassade en Israël de Tel-Aviv à Jérusalem, selon Le Monde et Libération.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "la-rdc-annonce-le-transfert-de-son-ambassade-en-israel-de-te-b7de79",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "la-rdc-annonce-le-transfert-de-son-ambassade-en-israel-de-te-b7de79"
+  },
+  {
+   "titre": "Face à la Russie, la Finlande organise son plus grand exercice de défense civile depuis 1945",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Finlande",
+   "medias": "Euronews, CNEWS",
+   "url": "https://fr.euronews.com/my-europe/2026/09/03/face-a-la-russie-la-finlande-organise-le-plus-grand-exercice-de-defense-civile-europeen-de",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/my-europe/2026/09/03/face-a-la-russie-la-finlande-organise-le-plus-grand-exercice-de-defense-civile-europeen-de",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-03/face-la-menace-russe-la-finlande-lance-son-plus-grand-exercice-de-defense-civile",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "La Finlande a lancé son plus grand exercice de défense civile depuis la Seconde Guerre mondiale, avec notamment des conscrits s'entraînant dans des abris protégés contre une attaque nucléaire ou biologique, dans un contexte de menace perçue de la Russie, selon Euronews et CNEWS.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "face-a-la-russie-la-finlande-organise-son-plus-grand-exercic-b1245a",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "face-a-la-russie-la-finlande-organise-son-plus-grand-exercic-b1245a"
+  },
+  {
+   "titre": "Jordan Bardella prend la parole en anglais au congrès du parti britannique Reform UK",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Royaume-Uni, France",
+   "medias": "CNEWS, France 24, TV5MONDE",
+   "url": "https://www.cnews.fr/monde/2026-09-04/congres-de-reform-uk-jordan-bardella-prononce-ce-vendredi-un-discours-en-anglais",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-04/congres-de-reform-uk-jordan-bardella-prononce-ce-vendredi-un-discours-en-anglais",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260904-royaume-uni-le-parti-anti-immigration-reform-uk-en-congr%C3%A8s-apr%C3%A8s-un-%C3%A9t%C3%A9-difficile-pour-farage",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/royaume-uni-le-parti-anti-immigration-reform-uk-en-congres-apres-un-ete-difficile-pour-farage-2836009",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Le président du Rassemblement national Jordan Bardella s'est exprimé en anglais vendredi au congrès de Reform UK, le parti anti-immigration de Nigel Farage, qui traverse un été difficile selon France 24 et l'a présenté comme représentant une nouvelle génération de dirigeants politiques.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "jordan-bardella-prend-la-parole-en-anglais-au-congres-du-par-151f43",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "jordan-bardella-prend-la-parole-en-anglais-au-congres-du-par-151f43"
+  },
+  {
+   "titre": "À deux mois des élections de mi-mandat, l'administration Trump relance son offensive contre le vote par correspondance",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada, Le Monde, La Presse",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280479/donald-trump-vote-correspondance-restrictions",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280479/donald-trump-vote-correspondance-restrictions",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/a-deux-mois-des-elections-de-mi-mandat-l-administration-trump-repart-a-l-offensive-sur-le-vote-par-correspondance_6765288_3210.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-03/devant-la-cour-supreme/l-administration-trump-redemande-la-restriction-du-vote-par-correspondance.php",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "L'administration Trump a de nouveau demandé jeudi à la Cour suprême des États-Unis de l'autoriser à appliquer un décret présidentiel encadrant plus strictement le vote par correspondance, à deux mois d'élections de mi-mandat jugées cruciales, selon Le Monde et Radio-Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "a-deux-mois-des-elections-de-mi-mandat-l-administration-trum-f6544b",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "a-deux-mois-des-elections-de-mi-mandat-l-administration-trum-f6544b"
+  },
+  {
+   "titre": "Le musée George Lucas, consacré à l'art narratif, ouvre ses portes à Los Angeles",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis",
+   "medias": "France 24, CNEWS, franceinfo",
+   "url": "https://www.france24.com/fr/culture/20260903-star-wars-banksy-mus%C3%A9e-george-lucas-ouvre-ses-portes-los-angeles",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/culture/20260903-star-wars-banksy-mus%C3%A9e-george-lucas-ouvre-ses-portes-los-angeles",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/culture/2026-09-03/musee-george-lucas-le-realisateur-confie-que-ce-projet-mis-sa-volonte-tres-rude",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/cinema/star-wars/reportage-je-n-aime-pas-faire-ce-que-les-gens-croient-possible-dans-les-coulisses-du-musee-george-lucas-qui-va-bientot-ouvrir-ses-portes-a-los-angeles_8174906.html",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Le musée d'art narratif rassemblant la collection personnelle du cinéaste George Lucas ouvrira ses portes le 22 septembre à Los Angeles; le créateur de Star Wars confie que ce projet très audacieux ne l'a pas ménagé, selon CNEWS et France 24.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/George_Lucas_cropped_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "George Lucas",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "le-musee-george-lucas-consacre-a-l-art-narratif-ouvre-ses-po-70a2b2",
+   "photo_auteur": "nicolas genin",
+   "photo_licence": "CC BY-SA 2.0",
+   "image_auto": "wikipedia-fr:George Lucas",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "le-musee-george-lucas-consacre-a-l-art-narratif-ouvre-ses-po-70a2b2"
+  },
+  {
+   "titre": "Guerre en Ukraine : Zelensky affirme que « les jours sûrs » dans le ciel russe sont révolus",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Russie, Ukraine",
+   "medias": "TV5MONDE, La Dépêche, La Croix, franceinfo",
+   "url": "https://information.tv5monde.com/international/les-jours-surs-dans-le-ciel-russe-sont-revolus-que-faut-il-voir-dans-cette-menace-de-volodymyr-zelensky-2835935",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/les-jours-surs-dans-le-ciel-russe-sont-revolus-que-faut-il-voir-dans-cette-menace-de-volodymyr-zelensky-2835935",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "La Dépêche",
+     "url": "https://www.ladepeche.fr/2026/09/03/decryptage-guerre-en-ukraine-lespace-aerien-russe-devient-extremement-dangereux-comment-grace-aux-drones-zelensky-veut-empecher-tous-les-avions-de-13532208.php",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "La Croix",
+     "url": "https://www.la-croix.com/international/guerre-en-ukraine-volodymyr-zelensky-peut-il-fermer-le-ciel-russe-20260903",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-russie-le-transport-aerien-pris-de-febrilite-apres-une-phrase-de-volodymyr-zelensky-sur-la-fin-des-jours-surs-dans-le-ciel-russe_8175368.html",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "resume": "Le président ukrainien Volodymyr Zelensky affirme que les drones ukrainiens rendent désormais l'espace aérien russe dangereux pour tous les avions, une phrase qui a provoqué une vague de fébrilité dans le transport aérien russe, selon TV5MONDE, La Dépêche et La Croix.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg/1280px-Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Volodymyr Zelensky",
+   "horodate": "2026-09-04T04:59-04:00",
+   "permalien": "guerre-en-ukraine-zelensky-affirme-que-les-jours-surs-dans-l-9f8a53",
+   "photo_auteur": "Press Service of the President of Ukraine",
+   "photo_licence": "CC BY 4.0",
+   "image_auto": "wikipedia-fr:Volodymyr Zelensky",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-04.json",
+   "_slug": "guerre-en-ukraine-zelensky-affirme-que-les-jours-surs-dans-l-9f8a53"
   },
   {
    "titre": "Itamar Ben Gvir présente un plan pour vider Gaza de sa population, en pleine campagne électorale israélienne",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Israël",
-   "medias": "Radio-Canada, Québecor, Le Monde, RFI",
+   "medias": "Radio-Canada, Québecor, Le Monde, RFI, Le Devoir, Le Parisien",
    "url": "https://ici.radio-canada.ca/nouvelle/2280385/ministre-israelien-vider-gaza-habitants",
    "resume": "Le ministre israélien de la Sécurité nationale, Itamar Ben Gvir, a présenté jeudi un plan de campagne visant à faire partir la population palestinienne de la bande de Gaza vers l'étranger, à quelques semaines d'élections législatives israéliennes qui s'annoncent très disputées.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Itamar_Ben_Gvir_%28portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -179,6 +1373,16 @@
      "media": "RFI",
      "url": "https://www.rfi.fr/fr/moyen-orient/20260903-isra%C3%ABl-le-ministre-ben-gvir-pr%C3%A9sente-son-plan-pour-vider-gaza-de-ses-habitants-palestiniens",
      "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1006169/ministre-israelien-presente-plan-vider-gaza-habitants",
+     "date": "2026-09-04T05:10-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/en-campagne-le-ministre-israelien-dextreme-droite-ben-gvir-presente-une-brochure-pour-vider-gaza-de-ses-habitants-03-09-2026-74R22VLJVFFTHPET7A77UJKAYQ.php",
+     "date": "2026-09-04T05:10-04:00"
     }
    ],
    "photo_auteur": "דוד דנברג",
@@ -193,12 +1397,12 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Syrie",
-   "medias": "Le Monde, La Presse",
+   "medias": "Le Monde, La Presse, ONU Info",
    "url": "https://www.lemonde.fr/international/article/2026/09/03/la-syrie-dit-avoir-commence-a-detruire-les-armes-chimiques-de-l-ere-al-assad_6765212_3210.html",
-   "resume": "La représentation syrienne aux Nations unies a annoncé jeudi au Conseil de sécurité que Damas a commencé à détruire le matériel issu du programme d'armes chimiques de l'ancien régime de Bachar Al-Assad, sous la pression de Washington, près de deux ans après sa chute.",
+   "resume": "La représentation syrienne aux Nations unies a annoncé jeudi au Conseil de sécurité que Damas a commencé à détruire le matériel issu du programme d'armes chimiques de l'ancien régime de Bachar Al-Assad, sous la pression de Washington, près de deux ans après sa chute.\n\nMise à jour — Devant le Conseil de sécurité, la haute représentante de l'ONU pour les affaires de désarmement Izumi Nakamitsu a salué des « progrès significatifs », citant une coopération accrue des autorités syriennes, selon ONU Info.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-03T15:59-04:00",
+   "horodate": "2026-09-04T05:10-04:00",
    "sources": [
     {
      "media": "Le Monde",
@@ -209,6 +1413,11 @@
      "media": "La Presse",
      "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-03/la-syrie-a-commence-a-detruire-les-armes-chimiques-de-l-ere-assad.php",
      "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "ONU Info",
+     "url": "https://news.un.org/fr/story/2026/09/1159410",
+     "date": "2026-09-04T05:10-04:00"
     }
    ],
    "permalien": "la-syrie-affirme-avoir-commence-a-detruire-les-armes-chimiqu-9911fa",
@@ -581,9 +1790,9 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Ukraine, Russie",
-   "medias": "Ouest-France, 20 Minutes, Enderi, BFMTV",
+   "medias": "Ouest-France, 20 Minutes, Enderi, BFMTV, CNEWS, TV5MONDE",
    "url": "https://www.ouest-france.fr/europe/ukraine/carte-guerre-en-ukraine-des-blesses-a-kiev-poutine-refute-toute-nouvelle-mobilisation-le-point-du-jour-d7473a9a-a7b7-11f1-8a27-1e0c4eb5e395",
-   "resume": "Des frappes russes ont fait au moins six blessés à Kiev jeudi, alors que Vladimir Poutine a réfuté qu'un « scénario » de nouvelle mobilisation militaire soit à l'ordre du jour en Russie, en amont des élections législatives.\n\nLes chiffres du recrutement nuancent ce discours : les engagements militaires volontaires ont chuté de 6 % en 2025, à 422 000, alors que l'avancée russe stagne sur le terrain depuis plusieurs mois, selon des données citées par Enderi.",
+   "resume": "Des frappes russes ont fait au moins six blessés à Kiev jeudi, alors que Vladimir Poutine a réfuté qu'un « scénario » de nouvelle mobilisation militaire soit à l'ordre du jour en Russie, en amont des élections législatives.\n\nLes chiffres du recrutement nuancent ce discours : les engagements militaires volontaires ont chuté de 6 % en 2025, à 422 000, alors que l'avancée russe stagne sur le terrain depuis plusieurs mois, selon des données citées par Enderi.\n\nMise à jour — Le bilan des frappes russes sur Kiev est passé à une dizaine de blessés, selon Ukrinform; par ailleurs, un drone ukrainien a frappé un autobus dans la partie de Horlivka sous contrôle russe, tuant une personne et en blessant cinq, selon Al Jazeera.",
    "sources": [
     {
      "media": "Ouest-France",
@@ -604,9 +1813,19 @@
      "media": "BFMTV",
      "url": "https://www.bfmtv.com/international/asie/russie/guerre-en-ukraine-vladimir-poutine-dement-tout-scenario-qui-necessiterait-une-mobilisation-face-a-l-ukraine_AD-202609030548.html",
      "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-03/guerre-en-ukraine-une-nouvelle-vague-de-mobilisation-en-russie-nest-pas-lordre-du",
+     "date": "2026-09-04T05:10-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/guerre-en-ukraine-vladimir-poutine-refute-tout-scenario-de-mobilisation-et-accuse-kiev-dattaque-informationnelle-2835956",
+     "date": "2026-09-04T05:10-04:00"
     }
    ],
-   "horodate": "2026-09-03T21:59-04:00",
+   "horodate": "2026-09-04T05:10-04:00",
    "permalien": "guerre-en-ukraine-des-frappes-russes-font-des-blesses-a-kiev-6f7743",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-04.json",
@@ -682,7 +1901,7 @@
    "cahier": "international",
    "rubrique": "economie",
    "territoire": "Allemagne",
-   "medias": "France 24",
+   "medias": "France 24, Le Parisien, franceinfo",
    "url": "https://www.france24.com/fr/%C3%A9co-tech/20260903-restructuration-historique-chez-volkswagen-100-000-suppressions-de-postes-d-ici-2030",
    "resume": "Le conseil de surveillance de Volkswagen a approuvé jeudi à l'unanimité un plan de restructuration ajoutant 50 000 suppressions de postes à celles déjà actées depuis 2024 en Allemagne, pour un total de 100 000 emplois supprimés d'ici 2030, soit environ 15 % des effectifs mondiaux du groupe.",
    "sources": [
@@ -690,6 +1909,16 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/%C3%A9co-tech/20260903-restructuration-historique-chez-volkswagen-100-000-suppressions-de-postes-d-ici-2030",
      "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/economie/100-000-emplois-soit-15-des-effectifs-vont-etre-supprimes-dici-quatre-ans-chez-volkswagen-des-fermetures-dusine-a-letude-04-09-2026-KBLSRZ4ZAZERRLV436ADDSOTAM.php",
+     "date": "2026-09-04T05:10-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/le-constructeur-automobile-volkswagen-confirme-une-nouvelle-vague-de-50-000-licenciements-dans-le-monde_8176070.html",
+     "date": "2026-09-04T05:10-04:00"
     }
    ],
    "horodate": "2026-09-03T21:59-04:00",
@@ -1184,6 +2413,11 @@
      "media": "FM93",
      "url": "https://www.fm93.com/nouvelles/798470/francois-gariepy-est-un-allie-du-3e-lien-selon-une-candidate-du-pcq",
      "date": "2026-09-04T03:28-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/chroniques/mickael-bergeron/2026/09/04/propos-controverses-distraction-ou-erreur-de-jugement-des-chefs-KED4HWR3ZJDLHPDEQDRKEXZPVQ/",
+     "date": "2026-09-04T05:00-04:00"
     }
    ],
    "permalien": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5",
