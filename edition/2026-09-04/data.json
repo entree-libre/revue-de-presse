@@ -1259,10 +1259,15 @@
    "cahier": "elections",
    "rubrique": "transport",
    "territoire": "Québec / Lévis",
-   "medias": "Le Devoir, Les Affaires, Coops de l'information, Radio-Canada",
+   "medias": "Parti conservateur du Québec, Le Devoir, Les Affaires, Coops de l'information, Radio-Canada",
    "url": "https://www.ledevoir.com/politique/quebec/1006565/conservateurs-veulent-troisieme-lien-imparfait-arreter-tourner-rond",
    "resume": "Mise à jour, 16 h — Le prix à payer, pour des résidents de l'île, pour que le troisième lien voie le jour.",
    "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/le-pcq-presente-un-projet-concret-de-3e-lien-autoroutier/",
+     "date": "2026-09-04T00:00-04:00"
+    },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1006565/conservateurs-veulent-troisieme-lien-imparfait-arreter-tourner-rond",
@@ -1341,10 +1346,15 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "La Presse, Les Affaires, Québecor, Coops de l'information",
+   "medias": "Coalition avenir Québec, La Presse, Les Affaires, Québecor, Coops de l'information",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/caq/moins-de-normes-pour-construire-plus-vite.php",
    "resume": "Réélue, la Coalition avenir Québec promet de réviser les normes de sécurité en construction selon le risque réel de chaque bâtiment, d'éliminer les démarches en double avec les municipalités et de soustraire les rénovations légères des immeubles de moins de huit logements à la loi R-20. Christine Fréchette veut aussi réduire les délais pour les promoteurs tout en maintenant, assure-t-elle, les exigences de qualification et de sécurité des travailleurs.",
    "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/04/construire-plus-plus-vite-et-a-moindre-cout-le-plan-de-lequipe-christine-frechette/",
+     "date": "2026-09-04T00:00-04:00"
+    },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/caq/moins-de-normes-pour-construire-plus-vite.php",
@@ -1999,6 +2009,80 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "l-ex-liberale-sona-lakhoyan-olivier-recouvre-de-ruban-adhesi-f1022e"
+  },
+  {
+   "titre": "La CAQ promet 650 millions $ pour le sport, les gymnases et les cours d'école",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Coalition avenir Québec",
+   "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/04/lequipe-christine-frechette-augmentera-linvestissement-dans-les-infrastructures-recreatives-sportives-et-de-plein-air/",
+   "resume": "Combien de gymnases et de cours d'école rénovées ces 650 millions changeront-ils vraiment ?",
+   "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/04/lequipe-christine-frechette-augmentera-linvestissement-dans-les-infrastructures-recreatives-sportives-et-de-plein-air/",
+     "date": "2026-09-04T00:00-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T18:05-04:00",
+   "image_auto": "aucune",
+   "permalien": "la-caq-promet-650-millions-pour-le-sport-les-gymnases-et-les-314b26",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "la-caq-promet-650-millions-pour-le-sport-les-gymnases-et-les-314b26"
+  },
+  {
+   "titre": "Le PQ veut annuler la baisse de TVQ de la CAQ pour financer l'aide alimentaire",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Parti Québécois",
+   "url": "https://pq.org/nouvelles/le-parti-quebecois-va-investir-100-millions-de-dollars-supplementaire-pour-financer-laide-et-la-securite-alimentaire/",
+   "resume": "Ce que ça changerait pour les enfants qui arrivent à l'école le ventre vide.",
+   "sources": [
+    {
+     "media": "Parti Québécois",
+     "url": "https://pq.org/nouvelles/le-parti-quebecois-va-investir-100-millions-de-dollars-supplementaire-pour-financer-laide-et-la-securite-alimentaire/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Emmanuel Renaud"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T18:05-04:00",
+   "image_auto": "aucune",
+   "permalien": "le-pq-veut-annuler-la-baisse-de-tvq-de-la-caq-pour-financer-51b4aa",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "le-pq-veut-annuler-la-baisse-de-tvq-de-la-caq-pour-financer-51b4aa"
+  },
+  {
+   "titre": "Christine Fréchette promet un bulletin de vote bilingue, Élections Québec dit ne rien avoir à traduire",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Montreal Gazette",
+   "url": "https://montrealgazette.com/quebec-elections/quebec-election-bilingual-ballot-french-mailouts-frechette/",
+   "resume": "Reste à savoir si cette promesse suffira à éteindre la contestation qui monte.",
+   "sources": [
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/quebec-elections/quebec-election-bilingual-ballot-french-mailouts-frechette/",
+     "date": "2026-09-04T15:20-04:00",
+     "auteur": "Kalina Laframboise"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T18:05-04:00",
+   "image_auto": "aucune",
+   "permalien": "christine-frechette-promet-un-bulletin-de-vote-bilingue-elec-e26690",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "christine-frechette-promet-un-bulletin-de-vote-bilingue-elec-e26690"
   },
   {
    "titre": "La mort d'une adolescente dans un silo de Shawinigan vaut quatre recommandations au ministère de l'Environnement",
