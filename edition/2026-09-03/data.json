@@ -962,7 +962,7 @@
    "cahier": "elections",
    "rubrique": "education",
    "territoire": "Québec",
-   "medias": "La Presse",
+   "medias": "La Presse, 98,5FM",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/liste-de-lectures-obligatoires/la-promesse-du-pq-risque-de-politiser-la-litterature-d-ici.php",
    "resume": "Paul St-Pierre Plamondon s'est engagé à rendre obligatoire, au secondaire, une liste de lectures de « classiques québécois » en français — une promesse que l'ex-didacticienne Suzanne G. Chartrand juge biaisée politiquement selon le parti au pouvoir, et qu'un professeur de l'ENAP, Philippe Dubois, lit d'abord comme un calcul électoral ciblant l'électorat nationaliste.",
    "photo": "",
@@ -978,6 +978,11 @@
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/promesse-du-pq-de-lectures-obligatoires/de-michel-jean-a-felix-leclerc-les-choix-de-livres-quebecois-des-lecteurs.php",
      "date": "2026-09-03T10:21-04:00"
+    },
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799540/l-ecole-a-un-role-a-jouer-en-inculquant-aux-eleves-la-valeur-de-la-lecture",
+     "date": "2026-09-03T23:17-04:00"
     }
    ],
    "permalien": "le-pq-promet-une-liste-de-lectures-obligatoire-de-classiques-477dbb",
@@ -6374,10 +6379,10 @@
    "territoire": "Québec",
    "medias": "Radio-Canada, CBC, Global News, Le Devoir, Montreal Gazette, Sherbrooke Record",
    "url": "https://ici.radio-canada.ca/info/videos/1-10750408/electeurs-recevront-documents-information-en-francais-seulement",
-   "resume": "Pour se conformer à la loi 96, Élections Québec enverra pour la première fois des documents d'information uniquement en français aux électeurs, une demande d'exception ayant été refusée par le ministre de la Langue française ; un groupe d'avocats montréalais, dont Eric Maldoff, prépare une contestation judiciaire au nom du droit de vote des électeurs anglophones, rapporte CTV News. La première ministre Christine Fréchette dit vouloir examiner la possibilité de revenir sur la décision, sans s'y engager.\n\n**Mise à jour, 14 h** — Au terme de discussions avec Élections Québec, la première ministre Christine Fréchette maintient sa décision d'envoyer les documents électoraux uniquement en français, réitérant que le français est « la langue officielle et commune du Québec ».",
+   "resume": "Pour se conformer à la loi 96, Élections Québec enverra pour la première fois des documents d'information uniquement en français aux électeurs, une demande d'exception ayant été refusée par le ministre de la Langue française ; un groupe d'avocats montréalais, dont Eric Maldoff, prépare une contestation judiciaire au nom du droit de vote des électeurs anglophones, rapporte CTV News. La première ministre Christine Fréchette dit vouloir examiner la possibilité de revenir sur la décision, sans s'y engager.\n\n**Mise à jour, 14 h** — Au terme de discussions avec Élections Québec, la première ministre Christine Fréchette maintient sa décision d'envoyer les documents électoraux uniquement en français, réitérant que le français est « la langue officielle et commune du Québec ».\n\n**Mise à jour, 23 h** — Le chef libéral Charles Milliard presse à son tour la première ministre de revenir sur sa décision, jugeant dans une lettre ouverte que le code QR renvoyant à l'information en anglais est insuffisant, notamment pour les personnes sans téléphone intelligent, selon CBC.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-03T14:23-04:00",
+   "horodate": "2026-09-03T23:17-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -6413,6 +6418,16 @@
      "media": "Sherbrooke Record",
      "url": "https://www.sherbrookerecord.com/elections-quebec-to-send-pre-election-mailouts-in-french-only/",
      "date": "2026-09-03T21:27-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/milliard-french-english-elections-quebec-9.7332055",
+     "date": "2026-09-03T22:35-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12047363/quebec-election-frechette-french-only-voter-cards/",
+     "date": "2026-09-03T20:20-04:00"
     }
    ],
    "permalien": "elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519",

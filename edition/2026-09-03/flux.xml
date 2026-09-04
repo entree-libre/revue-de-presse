@@ -6,8 +6,19 @@
 <atom:link href="https://entreelibre.ca/flux.xml" rel="self" type="application/rss+xml"/>
 <description>Entrée-Libre — revue de presse, l'actualité par thème, mise à jour quatre fois par jour. 279 sujets, 163 médias.</description>
 <language>fr-CA</language>
-<lastBuildDate>Thu, 03 Sep 2026 22:08:00 -0400</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 23:17:00 -0400</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>Élections Québec enverra pour la première fois ses documents d&#x27;information uniquement en français</title>
+<link>https://entreelibre.ca/edition/2026-09-03/a/elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519.html</link>
+<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-03/a/elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519.html</guid>
+<pubDate>Thu, 03 Sep 2026 23:17:00 -0400</pubDate>
+<description>Pour se conformer à la loi 96, Élections Québec enverra pour la première fois des documents d&#x27;information uniquement en français aux électeurs, une demande d&#x27;exception ayant été refusée par le ministre de la Langue française ; un groupe d&#x27;avocats montréalais, dont Eric Maldoff, prépare une contestation judiciaire au nom du droit de vote des électeurs anglophones, rapporte CTV News. La première ministre Christine Fréchette dit vouloir examiner la possibilité de revenir sur la décision, sans s&#x27;y engager.
+
+**Mise à jour, 14 h** — Au terme de discussions avec Élections Québec, la première ministre</description>
+<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
+<category>Élections Québec 2026</category><category>Politique et vie municipale</category>
+</item>
 <item>
 <title>Selon Qc125, les gains de la CAQ dans les sondages viennent surtout des 55 ans et plus</title>
 <link>https://entreelibre.ca/edition/2026-09-03/a/selon-qc125-les-gains-de-la-caq-dans-les-sondages-vienn-e4e76f.html</link>
@@ -489,17 +500,6 @@ Mise à jour, 15 h 57 — Des étudiants ont manifesté leur impatience jeudi de
 <description>En point de presse à Saint-Fabien, la Coalition avenir Québec promet de relancer les études du prolongement de l&#x27;autoroute 20 à partir du secteur du Bic plutôt que de Notre-Dame-des-Neiges — projet mis sur pause en 2025 —, un engagement porté par les candidates caquistes Julia Brillant-Ruest (Rimouski) et Amélie Dionne (Rivière-du-Loup–Témiscouata–Les Basques), qui invoquent la sécurité routière sur la route 132.</description>
 <source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
 <category>Élections Québec 2026</category><category>Transport et infrastructures</category>
-</item>
-<item>
-<title>Élections Québec enverra pour la première fois ses documents d&#x27;information uniquement en français</title>
-<link>https://entreelibre.ca/edition/2026-09-03/a/elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519.html</link>
-<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-03/a/elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519.html</guid>
-<pubDate>Thu, 03 Sep 2026 14:23:00 -0400</pubDate>
-<description>Pour se conformer à la loi 96, Élections Québec enverra pour la première fois des documents d&#x27;information uniquement en français aux électeurs, une demande d&#x27;exception ayant été refusée par le ministre de la Langue française ; un groupe d&#x27;avocats montréalais, dont Eric Maldoff, prépare une contestation judiciaire au nom du droit de vote des électeurs anglophones, rapporte CTV News. La première ministre Christine Fréchette dit vouloir examiner la possibilité de revenir sur la décision, sans s&#x27;y engager.
-
-**Mise à jour, 14 h** — Au terme de discussions avec Élections Québec, la première ministre</description>
-<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
-<category>Élections Québec 2026</category><category>Politique et vie municipale</category>
 </item>
 <item>
 <title>Bernard Drainville tient des propos vulgaires contre Trump en entrevue, Fréchette le rabroue</title>
