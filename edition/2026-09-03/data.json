@@ -540,6 +540,11 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280429/bureaucratie-fonctionnaires-elections-provinciales",
      "date": "2026-09-03T17:19-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/rattrapage/2468456/partis-politiques-rivalisent-plans-pour-alleger-etat",
+     "date": "2026-09-03T21:27-04:00"
     }
    ],
    "permalien": "fonction-publique-les-partis-en-surenchere-de-compressions-s-7e9bd5",
@@ -1454,7 +1459,7 @@
    "cahier": "elections",
    "rubrique": "environnement",
    "territoire": "",
-   "medias": "Coalition Avenir Québec",
+   "medias": "Coalition Avenir Québec, Coops de l'information",
    "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/03/lequipe-christine-frechette-ameliorera-lacces-a-la-nature-pour-les-quebecois/",
    "resume": "L'Équipe Christine Fréchette promet d'investir 200 millions $ pour agrandir le réseau de la SÉPAQ, d'y instaurer une tarification préférentielle pour les visiteurs québécois, et d'obliger que 20 % de la berge d'un terrain public riverain vendu demeure accessible au public.",
    "photo": "",
@@ -1464,6 +1469,11 @@
      "media": "Coalition Avenir Québec",
      "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/03/lequipe-christine-frechette-ameliorera-lacces-a-la-nature-pour-les-quebecois/",
      "date": "2026-09-03T17:56-04:00"
+    },
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/03/christine-frechette-promet-200-millions-de-dollars-dans-la-sepaq-SAUNQSPJ3ZBWVG6BHW5NH6RBUY/",
+     "date": "2026-09-03T21:27-04:00"
     }
    ],
    "horodate": "2026-09-03T17:55-04:00",
@@ -1472,6 +1482,252 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "la-caq-promet-200-millions-pour-le-reseau-de-la-sepaq-et-un-082dba"
+  },
+  {
+   "titre": "Duhaime réclame les pleins pouvoirs du Québec en immigration",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1006376/duhaime-reclame-pleins-pouvoirs-matiere-immigration",
+   "resume": "Le chef conservateur Éric Duhaime propose de coaliser les provinces conservatrices et autonomistes du Canada pour créer un « rapport de force » face à Ottawa et obtenir les pleins pouvoirs du Québec en matière d'immigration.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T19:30-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006376/duhaime-reclame-pleins-pouvoirs-matiere-immigration",
+     "date": "2026-09-03T21:27-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "duhaime-reclame-les-pleins-pouvoirs-du-quebec-en-immigration-43c915",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "duhaime-reclame-les-pleins-pouvoirs-du-quebec-en-immigration-43c915"
+  },
+  {
+   "titre": "Les manufacturiers de la Mauricie et du Centre-du-Québec réclament leur propre ministère",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Mauricie, Centre-du-Québec",
+   "medias": "Québecor",
+   "url": "https://www.tvanouvelles.ca/2026/09/03/mauricie-et-centre-du-quebec-les-manufacturiers-veulent-leur-propre-ministere",
+   "resume": "Les Manufacturiers de la Mauricie et du Centre-du-Québec réclament aux partis en campagne la création d'un ministère dédié au secteur manufacturier, qui a perdu environ 11 000 emplois au Québec alors que 22 % des emplois du Centre-du-Québec en dépendent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T19:30-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/03/mauricie-et-centre-du-quebec-les-manufacturiers-veulent-leur-propre-ministere",
+     "date": "2026-09-03T21:27-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "les-manufacturiers-de-la-mauricie-et-du-centre-du-quebec-rec-37420a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "les-manufacturiers-de-la-mauricie-et-du-centre-du-quebec-rec-37420a"
+  },
+  {
+   "titre": "La Table des MRC Centre-du-Québec presse les partis sur la santé et l'économie",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Centre-du-Québec",
+   "medias": "Radio-Canada, L'Express",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280448/table-mrc-priorite-elections-provinciales",
+   "resume": "La Table des MRC du Centre-du-Québec demande aux partis de reconnaître les priorités régionales en santé, en économie et en capacité d'accueil ; le candidat caquiste d'Arthabaska–L'Érable, Keven Brasseur, répond qu'il n'y a pas de remise en question à court terme pour les régions sociosanitaires, citant la ministre sortante de la Santé, Sonia Bélanger.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T19:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280448/table-mrc-priorite-elections-provinciales",
+     "date": "2026-09-03T21:27-04:00"
+    },
+    {
+     "media": "L'Express",
+     "url": "https://www.journalexpress.ca/actualite/la-table-des-mrc-interpelle-les-partis-politiques/",
+     "date": "2026-09-03T21:27-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-table-des-mrc-centre-du-quebec-presse-les-partis-sur-la-s-d994bc",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "la-table-des-mrc-centre-du-quebec-presse-les-partis-sur-la-s-d994bc"
+  },
+  {
+   "titre": "Le milieu communautaire « à boutte » interpelle les partis en campagne",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Journal Le Saint-François, Le Soleil de Châteauguay",
+   "url": "https://journalsaint-francois.ca/le-communautaire-a-boutte-simmisce-dans-les-elections/",
+   "resume": "Des organismes communautaires unissent à nouveau leurs voix pour rappeler qu'ils sont « à boutte », alors que trois personnes sur dix qui commencent à y travailler quittent pour des raisons salariales.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T19:30-04:00",
+   "sources": [
+    {
+     "media": "Journal Le Saint-François",
+     "url": "https://journalsaint-francois.ca/le-communautaire-a-boutte-simmisce-dans-les-elections/",
+     "date": "2026-09-03T21:27-04:00"
+    },
+    {
+     "media": "Le Soleil de Châteauguay",
+     "url": "https://cybersoleil.com/le-communautaire-a-boutte-simmisce-dans-les-elections/",
+     "date": "2026-09-03T21:27-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-milieu-communautaire-a-boutte-interpelle-les-partis-en-ca-26669c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "le-milieu-communautaire-a-boutte-interpelle-les-partis-en-ca-26669c"
+  },
+  {
+   "titre": "La péquiste Méganne Perry Mélançon retente sa chance dans Gaspé",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Gaspé)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/plein-phare/segments/rattrapage/2468276/meganne-perry-melancon-tentera-ravir-gaspe",
+   "resume": "Méganne Perry Mélançon est de nouveau candidate du Parti québécois dans la circonscription de Gaspé, qu'elle avait représentée de 2018 à 2022 avant d'être défaite par le caquiste Stéphane Sainte-Croix.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T19:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/plein-phare/segments/rattrapage/2468276/meganne-perry-melancon-tentera-ravir-gaspe",
+     "date": "2026-09-03T21:27-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-pequiste-meganne-perry-melancon-retente-sa-chance-dans-ga-ec7ce3",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "la-pequiste-meganne-perry-melancon-retente-sa-chance-dans-ga-ec7ce3"
+  },
+  {
+   "titre": "Selon une commentatrice de 98,5FM, l'aide fédérale à VIA Rail et Alstom sert la campagne de Fréchette",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/799718/mark-carney-souffle-dans-les-voiles-de-christine-frechette",
+   "resume": "Selon la commentatrice Nathalie Normandeau au micro de Gino Chouinard sur 98,5FM, l'annonce par le premier ministre canadien Mark Carney d'un investissement fédéral de 4,7 milliards $ pour VIA Rail et Alstom, en pleine campagne québécoise, n'est pas un hasard et sert la cheffe caquiste Christine Fréchette.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T19:30-04:00",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799718/mark-carney-souffle-dans-les-voiles-de-christine-frechette",
+     "date": "2026-09-03T21:27-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "selon-une-commentatrice-de-98-5fm-l-aide-federale-a-via-rail-0c738c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "selon-une-commentatrice-de-98-5fm-l-aide-federale-a-via-rail-0c738c"
+  },
+  {
+   "titre": "Le PLQ promet 195 milliards $ sur 10 ans pour les infrastructures, 15 milliards de plus que la CAQ",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/799362/infrastructures-le-plq-promet-une-enveloppe-de-195-milliards-sur-10-ans",
+   "resume": "Le candidat libéral Michel Leblanc (Marguerite-Bourgeoys) a présenté l'engagement du Parti libéral du Québec à consacrer 195 milliards $ sur dix ans au Plan québécois des infrastructures, soit 15 milliards $ de plus que l'enveloppe proposée par la CAQ, selon 98,5FM.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T21:26-04:00",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799362/infrastructures-le-plq-promet-une-enveloppe-de-195-milliards-sur-10-ans",
+     "date": "2026-09-03T21:27-04:00"
+    }
+   ],
+   "permalien": "le-plq-promet-195-milliards-sur-10-ans-pour-les-infrastructu-2b7eb9",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "le-plq-promet-195-milliards-sur-10-ans-pour-les-infrastructu-2b7eb9"
+  },
+  {
+   "titre": "Québec solidaire veut financer la mise de fonds des premiers acheteurs, jusqu'à 50 000 $",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/799327/acces-a-la-propriete-quebec-solidaire-veut-financer-la-mise-de-fonds-des-jeunes",
+   "resume": "La porte-parole Ruba Ghazal a présenté la promesse de Québec solidaire de financer, via un programme de prêts gouvernementaux sans intérêt, jusqu'à 15 % de la mise de fonds d'une maison neuve ou 5 % d'une propriété existante — un maximum de 50 000 $, remboursable à la revente ou au renouvellement hypothécaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T21:26-04:00",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799327/acces-a-la-propriete-quebec-solidaire-veut-financer-la-mise-de-fonds-des-jeunes",
+     "date": "2026-09-03T21:27-04:00"
+    }
+   ],
+   "permalien": "quebec-solidaire-veut-financer-la-mise-de-fonds-des-premiers-b4cd01",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "quebec-solidaire-veut-financer-la-mise-de-fonds-des-premiers-b4cd01"
+  },
+  {
+   "titre": "Fréchette boucle sa 8e journée de campagne dans Orford, la circonscription du chef libéral Milliard",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Orford)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280515/frechette-caq-orford-campagne-electorale",
+   "resume": "La cheffe caquiste Christine Fréchette a terminé sa huitième journée de campagne dans Orford, la circonscription du chef libéral Charles Milliard, se disant confiante de conserver les bastions de son parti en Estrie malgré des candidats en bonne partie nouveaux en politique provinciale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T21:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280515/frechette-caq-orford-campagne-electorale",
+     "date": "2026-09-03T21:27-04:00"
+    }
+   ],
+   "permalien": "frechette-boucle-sa-8e-journee-de-campagne-dans-orford-la-ci-945182",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "frechette-boucle-sa-8e-journee-de-campagne-dans-orford-la-ci-945182"
+  },
+  {
+   "titre": "L'agrandissement promis du CHAUR à Trois-Rivières fait réagir à Drummondville",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Trois-Rivières, Drummondville",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280511/agrandissement-chaur-trois-rivieres-hopital-drummondville",
+   "resume": "Le président de la Coalition pour un hôpital régional à Drummondville, Robert Pelletier, juge que la promesse de la première ministre Christine Fréchette d'agrandir le Centre hospitalier affilié universitaire régional de Trois-Rivières n'aura pas d'impact sur le projet distinct d'un nouvel hôpital à Drummondville, dont l'inauguration reste prévue pour 2037.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T21:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280511/agrandissement-chaur-trois-rivieres-hopital-drummondville",
+     "date": "2026-09-03T21:27-04:00"
+    }
+   ],
+   "permalien": "l-agrandissement-promis-du-chaur-a-trois-rivieres-fait-reagi-d3916c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-03.json",
+   "_slug": "l-agrandissement-promis-du-chaur-a-trois-rivieres-fait-reagi-d3916c"
   },
   {
    "titre": "Beaumont se retire d’un projet de coopérative d’habitation après 572 000 $ de fonds publics",
@@ -5712,7 +5968,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada, CBC, Global News, Le Devoir, Montreal Gazette",
+   "medias": "Radio-Canada, CBC, Global News, Le Devoir, Montreal Gazette, Sherbrooke Record",
    "url": "https://ici.radio-canada.ca/info/videos/1-10750408/electeurs-recevront-documents-information-en-francais-seulement",
    "resume": "Pour se conformer à la loi 96, Élections Québec enverra pour la première fois des documents d'information uniquement en français aux électeurs, une demande d'exception ayant été refusée par le ministre de la Langue française ; un groupe d'avocats montréalais, dont Eric Maldoff, prépare une contestation judiciaire au nom du droit de vote des électeurs anglophones, rapporte CTV News. La première ministre Christine Fréchette dit vouloir examiner la possibilité de revenir sur la décision, sans s'y engager.\n\n**Mise à jour, 14 h** — Au terme de discussions avec Élections Québec, la première ministre Christine Fréchette maintient sa décision d'envoyer les documents électoraux uniquement en français, réitérant que le français est « la langue officielle et commune du Québec ».",
    "photo": "",
@@ -5748,6 +6004,11 @@
      "media": "CTV News",
      "url": "https://www.ctvnews.ca/montreal/article/elections-quebec-says-its-too-late-to-print-voter-documents-in-english/",
      "date": "2026-09-03T08:57-04:00"
+    },
+    {
+     "media": "Sherbrooke Record",
+     "url": "https://www.sherbrookerecord.com/elections-quebec-to-send-pre-election-mailouts-in-french-only/",
+     "date": "2026-09-03T21:27-04:00"
     }
    ],
    "permalien": "elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519",
@@ -5826,6 +6087,11 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/info/en-direct/1014261/elections-quebec-jour-7-campagne-electorale",
      "date": "2026-09-02T17:55-04:00"
+    },
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/balados/373944/episode/799379/la-caq-souhaite-privatiser-certains-services-de-l-etat",
+     "date": "2026-09-03T21:27-04:00"
     }
    ],
    "horodate": "2026-09-02T17:55-04:00",
@@ -6276,6 +6542,11 @@
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/montreal/caq-bernard-drainville-candidate-trump-election-quebec-9.7331460",
      "date": "2026-09-03T17:19-04:00"
+    },
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799390/f-you-h-stei-bernard-drainville-s-en-prend-a-trump",
+     "date": "2026-09-03T21:27-04:00"
     }
    ],
    "horodate": "2026-09-03T14:23-04:00",
@@ -6499,15 +6770,20 @@
    "territoire": "Québec",
    "medias": "La Presse",
    "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-02/l-ia-au-quotidien/l-ia-peut-elle-faire-maigrir-l-etat.php",
-   "resume": "Le Parti conservateur du Québec propose de réduire graduellement la fonction publique d'environ 20 000 postes, principalement par attrition et sans couper les services, en misant sur la technologie et l'intelligence artificielle.",
+   "resume": "Le Parti conservateur du Québec propose de réduire graduellement la fonction publique d'environ 20 000 postes, principalement par attrition et sans couper les services, en misant sur la technologie et l'intelligence artificielle.\n\n**Mise à jour, 21 h 26** — Le professeur Jean-François Ouellet (HEC Montréal) doute que l'intelligence artificielle permette de réduire l'effectif de l'État : les gains de productivité qu'elle procure restent individuels et ne sont documentés nulle part à l'échelle d'un gouvernement, selon 98,5FM.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-02T21:19-04:00",
+   "horodate": "2026-09-03T21:26-04:00",
    "sources": [
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-02/l-ia-au-quotidien/l-ia-peut-elle-faire-maigrir-l-etat.php",
      "date": "2026-09-02T21:19-04:00"
+    },
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799622/le-pcq-veut-remplacer-des-fonctionnaires-par-l-ia-une-vision-un-peu-limitee",
+     "date": "2026-09-03T21:27-04:00"
     }
    ],
    "permalien": "le-pcq-promet-de-reduire-la-fonction-publique-de-20-000-post-795aba",
