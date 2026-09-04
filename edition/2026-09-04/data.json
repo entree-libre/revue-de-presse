@@ -3,6 +3,7 @@
  "volets": [
   "elections",
   "monde",
+  "quebec-canada",
   "report"
  ],
  "articles": [
@@ -203,6 +204,7 @@
     }
    ],
    "permalien": "la-caq-bonifie-son-offre-aux-aines-pour-la-troisieme-fois-de-9c9c37",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "la-caq-bonifie-son-offre-aux-aines-pour-la-troisieme-fois-de-9c9c37"
@@ -251,6 +253,7 @@
     }
    ],
    "permalien": "le-transfert-de-prestations-du-rqap-a-des-grands-parents-pro-88e741",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "le-transfert-de-prestations-du-rqap-a-des-grands-parents-pro-88e741"
@@ -274,6 +277,7 @@
     }
    ],
    "permalien": "a-gatineau-citoyens-et-mairesse-reclament-un-rattrapage-de-2-4f3cc6",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "a-gatineau-citoyens-et-mairesse-reclament-un-rattrapage-de-2-4f3cc6"
@@ -297,6 +301,7 @@
     }
    ],
    "permalien": "un-exercice-de-verification-des-faits-nuance-l-accusation-de-5cf2d5",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "un-exercice-de-verification-des-faits-nuance-l-accusation-de-5cf2d5"
@@ -320,6 +325,7 @@
     }
    ],
    "permalien": "une-professeure-juge-la-promesse-pequiste-de-lectures-obliga-961fe3",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "une-professeure-juge-la-promesse-pequiste-de-lectures-obliga-961fe3"
@@ -343,6 +349,7 @@
     }
    ],
    "permalien": "christine-frechette-affirme-que-l-ecole-a-trois-vitesses-n-e-914063",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "christine-frechette-affirme-que-l-ecole-a-trois-vitesses-n-e-914063"
@@ -1343,6 +1350,411 @@
    "_slug": "guerre-en-ukraine-zelensky-affirme-que-les-jours-surs-dans-l-9f8a53"
   },
   {
+   "titre": "Ottawa investit 4,7 milliards $ pour faire construire les voitures de VIA Rail au Canada",
+   "cahier": "canada",
+   "rubrique": "transport",
+   "territoire": "La Pocatière (Québec), Thunder Bay (Ontario)",
+   "medias": "Radio-Canada, CBC",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280244/alstom-via-rail-construction-lapocatiere-contrat",
+   "resume": "Le gouvernement fédéral investit 4,7 milliards de dollars dans l'achat de 313 nouvelles voitures pour VIA Rail, qui seront fabriquées par Alstom à Thunder Bay et à La Pocatière — une première depuis 40 ans pour du matériel roulant entièrement construit au pays. Ottawa évalue les retombées à près de 700 emplois pendant neuf ans et à plus de 1,6 milliard de dollars pour l'économie.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280244/alstom-via-rail-construction-lapocatiere-contrat",
+     "date": "2026-09-04T06:08-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/thunder-bay/mark-carney-via-rail-cars-9.7331310",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Gare_ferroviaire_de_VIA_Rail_%C3%A0_Hervey-Jonction_%28Lac-aux-Sables%2C_Mauricie%2C_Qu%C3%A9bec%2C_Canada%29-2025-07-27.jpg/1280px-Gare_ferroviaire_de_VIA_Rail_%C3%A0_Hervey-Jonction_%28Lac-aux-Sables%2C_Mauricie%2C_Qu%C3%A9bec%2C_Canada%29-2025-07-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La gare ferroviaire de VIA Rail à Hervey-Jonction, en Mauricie.",
+   "photo_auteur": "Veillg1",
+   "photo_licence": "CC0",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "ottawa-investit-4-7-milliards-pour-faire-construire-les-voit-5479f8",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "ottawa-investit-4-7-milliards-pour-faire-construire-les-voit-5479f8"
+  },
+  {
+   "titre": "Ottawa dévoile un cadre national pour encadrer les centres de données",
+   "cahier": "canada",
+   "rubrique": "technologies",
+   "territoire": "Canada",
+   "medias": "Gouvernement du Canada",
+   "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/le-gouvernement-du-canada-lance-les-principes-du-canada-pour-une-exploitation-responsable-des-centres-de-donnees.html",
+   "resume": "Le gouvernement fédéral a dévoilé jeudi ses principes pour une exploitation responsable des centres de données, qui engagent l'industrie — dont Amazon, Google, Meta, Microsoft, OpenAI et Anthropic, signataires du cadre — à ne pas refiler leurs coûts d'électricité à la population et à limiter leur consommation d'eau.",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/le-gouvernement-du-canada-lance-les-principes-du-canada-pour-une-exploitation-responsable-des-centres-de-donnees.html",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "ottawa-devoile-un-cadre-national-pour-encadrer-les-centres-d-53735d",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "ottawa-devoile-un-cadre-national-pour-encadrer-les-centres-d-53735d"
+  },
+  {
+   "titre": "Ottawa et la Colombie-Britannique investissent 3,9 milliards $ dans une nouvelle ligne électrique",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Colombie-Britannique",
+   "medias": "Gouvernement du Canada",
+   "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/09/le-canada-inaugure-le-chantier-de-la-ligne-detransport-delectricite-de-la-cote-nord.html",
+   "resume": "Le gouvernement fédéral et la Colombie-Britannique lancent la phase 1 de la ligne de transport d'électricité de la côte nord, un investissement de 3,9 milliards de dollars destiné à plus que doubler l'offre d'électricité propre sur la côte ouest et à soutenir environ 10 000 emplois, selon Ottawa.",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/09/le-canada-inaugure-le-chantier-de-la-ligne-detransport-delectricite-de-la-cote-nord.html",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "ottawa-et-la-colombie-britannique-investissent-3-9-milliards-9cb2cc",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "ottawa-et-la-colombie-britannique-investissent-3-9-milliards-9cb2cc"
+  },
+  {
+   "titre": "Carney dit qu'il sommerait Poutine de «quitter l'Ukraine» s'il assiste au G20",
+   "cahier": "canada",
+   "rubrique": "diplomatie",
+   "territoire": "Canada",
+   "medias": "La Presse, Global News",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-09-03/carney-sommera-poutine-de-mettre-fin-a-l-occupation-en-ukraine-s-il-est-convie-au-g20.php",
+   "resume": "Le premier ministre Mark Carney a affirmé qu'il livrerait un message simple à Vladimir Poutine si le président russe participait au sommet du G20 à Miami en décembre, soit de quitter l'Ukraine et de lui rendre l'intégralité de son territoire. Le président américain Donald Trump, qui accueillera le sommet, pourrait autoriser la présence de Poutine malgré le mandat d'arrêt délivré contre lui par la Cour pénale internationale.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-09-03/carney-sommera-poutine-de-mettre-fin-a-l-occupation-en-ukraine-s-il-est-convie-au-g20.php",
+     "date": "2026-09-04T06:08-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12046324/mark-carney-russia-g20-donald-trump/",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2025-11-14_InaugurationREM_Deux-Montagnes_Mark_Carney.jpg/1280px-2025-11-14_InaugurationREM_Deux-Montagnes_Mark_Carney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Mark Carney",
+   "photo_auteur": "Lea-Kim",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "carney-dit-qu-il-sommerait-poutine-de-quitter-l-ukraine-s-il-df6868",
+   "image_auto": "wikipedia-fr:Mark Carney",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "carney-dit-qu-il-sommerait-poutine-de-quitter-l-ukraine-s-il-df6868"
+  },
+  {
+   "titre": "Référendum sur la place de l'Alberta au Canada : la demande de bulletins postaux explose",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12047066/alberta-referendum-mail-in-ballots-missing/",
+   "resume": "Élections Alberta a devancé de deux semaines la date limite pour demander un bulletin de vote postal, portée à près de 290 000 demandes par une affluence inédite avant le référendum du 19 octobre, dont la dixième et dernière question demande aux Albertains s'ils veulent que leur gouvernement amorce le processus de séparation du Canada.",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12047066/alberta-referendum-mail-in-ballots-missing/",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "referendum-sur-la-place-de-l-alberta-au-canada-la-demande-de-283fb2",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "referendum-sur-la-place-de-l-alberta-au-canada-la-demande-de-283fb2"
+  },
+  {
+   "titre": "L'Alberta dispense Suncor d'évaluation environnementale pour un rejet d'eaux de résidus miniers",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Fort McMurray (Alberta)",
+   "medias": "Canada's National Observer",
+   "url": "https://www.nationalobserver.com/2026/09/04/news/alberta-oilsands-tailings-suncor-regulator",
+   "resume": "Le régulateur albertain de l'énergie a exempté d'évaluation environnementale le projet de Suncor visant à traiter et à déverser jusqu'à 12 millions de mètres cubes d'eau de bassins de résidus miniers par année dans la rivière Athabasca, près de Fort McMurray, selon des documents obtenus par Canada's National Observer. Des membres des Premières Nations en aval, dont l'ex-chef crie Billy Joe Tuccaro, dénoncent la décision et invoquent des taux de cancer plus élevés que la moyenne provinciale relevés par une étude commandée par leur communauté.",
+   "sources": [
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/04/news/alberta-oilsands-tailings-suncor-regulator",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Fort_mcmurray_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Vue aérienne de Fort McMurray, en Alberta.",
+   "photo_auteur": "Regional Municipality of Wood Buffalo",
+   "photo_licence": "CC BY 2.5",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "l-alberta-dispense-suncor-d-evaluation-environnementale-pour-7507eb",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "l-alberta-dispense-suncor-d-evaluation-environnementale-pour-7507eb"
+  },
+  {
+   "titre": "Le «Cowboy du Nord» condamné à 11 ans de pénitencier pour agressions sexuelles sur des mineures",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Saint-Jérôme (Laurentides)",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-04/trois-jeunes-filles-agressees-sexuellement/le-cowboy-du-nord-condamne-a-11-ans-de-penitencier.php",
+   "resume": "Un bénévole de Saint-Jérôme surnommé le « Cowboy du Nord », qui organisait des soirées country pour des jeunes de la région, a été condamné à 11 ans de pénitencier pour avoir agressé sexuellement à plusieurs reprises trois adolescentes qu'il côtoyait dans le cadre de ses activités communautaires.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-04/trois-jeunes-filles-agressees-sexuellement/le-cowboy-du-nord-condamne-a-11-ans-de-penitencier.php",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "le-cowboy-du-nord-condamne-a-11-ans-de-penitencier-pour-agre-4382af",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "le-cowboy-du-nord-condamne-a-11-ans-de-penitencier-pour-agre-4382af"
+  },
+  {
+   "titre": "Rappel de mini-danoises Kim Phat en raison d'allergènes non déclarés",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "MAPAQ",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/mise-en-garde-a-la-population-presence-non-declaree-de-lait-doeufs-et-de-soya-dans-des-mini-danoises-preparees-et-vendues-par-lentreprise-les-aliments-kim-phat-72386",
+   "resume": "Le ministère de l'Agriculture, des Pêcheries et de l'Alimentation met en garde la population contre des mini-danoises préparées et vendues par l'entreprise montréalaise Les Aliments Kim Phat, qui contiendraient du lait, des œufs et du soya non déclarés sur l'étiquette.",
+   "sources": [
+    {
+     "media": "MAPAQ",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/mise-en-garde-a-la-population-presence-non-declaree-de-lait-doeufs-et-de-soya-dans-des-mini-danoises-preparees-et-vendues-par-lentreprise-les-aliments-kim-phat-72386",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "rappel-de-mini-danoises-kim-phat-en-raison-d-allergenes-non-827c6f",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "rappel-de-mini-danoises-kim-phat-en-raison-d-allergenes-non-827c6f"
+  },
+  {
+   "titre": "Québec publie une nouvelle version de l'outil de simulation des finances publiques avant le scrutin",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Gouvernement du Québec",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-version-de-loutil-de-simulation-du-rapport-preelectoral-sur-letat-des-finances-publiques-du-quebec-72387",
+   "resume": "Le ministère des Finances a publié une version amendée de l'outil de simulation du Rapport préélectoral sur l'état des finances publiques du Québec, destiné aux partis en vue du scrutin du 5 octobre, corrigeant notamment le calcul du service de la dette et les tableaux de dette nette et brute.",
+   "sources": [
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nouvelle-version-de-loutil-de-simulation-du-rapport-preelectoral-sur-letat-des-finances-publiques-du-quebec-72387",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "quebec-publie-une-nouvelle-version-de-l-outil-de-simulation-edea92",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "quebec-publie-une-nouvelle-version-de-l-outil-de-simulation-edea92"
+  },
+  {
+   "titre": "Volodymyr Zelensky pourrait se rendre au Canada dès la semaine prochaine",
+   "cahier": "canada",
+   "rubrique": "diplomatie",
+   "territoire": "Canada",
+   "medias": "La Presse, Radio-Canada",
+   "url": "https://www.lapresse.ca/actualites/national/2026-09-03/volodymyr-zelensky-devrait-se-rendre-prochainement-au-canada.php",
+   "resume": "Le président ukrainien Volodymyr Zelensky prévoit une visite au Canada dès la semaine prochaine, une information rapportée par le Globe and Mail et confirmée par Radio-Canada auprès de deux sources indépendantes, un an après le déplacement du premier ministre Mark Carney à Kyiv.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/national/2026-09-03/volodymyr-zelensky-devrait-se-rendre-prochainement-au-canada.php",
+     "date": "2026-09-04T06:08-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280216/visite-canada-volodymyr-zelensky-president-ukraine",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Volodymyr_Zelensky_2019_presidential_inauguration_33.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le président ukrainien Volodymyr Zelensky.",
+   "photo_auteur": "Mykola Lazarenko / The Presidential Administration of Ukraine",
+   "photo_licence": "CC BY 4.0",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "volodymyr-zelensky-pourrait-se-rendre-au-canada-des-la-semai-7cb54b",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "volodymyr-zelensky-pourrait-se-rendre-au-canada-des-la-semai-7cb54b"
+  },
+  {
+   "titre": "Carney nomme Scott Jones à la tête du Centre de la sécurité des télécommunications",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Ottawa",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-09-03/carney-nomme-un-haut-fonctionnaire-a-la-tete-de-l-agence-de-cyberespionnage.php",
+   "resume": "Le premier ministre Mark Carney a nommé Scott Jones directeur du Centre de la sécurité des télécommunications, l'agence fédérale de cyberespionnage. M. Jones, qui a dirigé le Centre canadien pour la cybersécurité de 2018 à 2021, succède à Caroline Xavier, qui prend sa retraite.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-09-03/carney-nomme-un-haut-fonctionnaire-a-la-tete-de-l-agence-de-cyberespionnage.php",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/9/92/Brandon_Scott_Jones_at_Dead_Pilot_Society_taping.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Brandon Scott Jones",
+   "photo_auteur": "NatGertler",
+   "photo_licence": "CC BY 4.0",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "carney-nomme-scott-jones-a-la-tete-du-centre-de-la-securite-3913bc",
+   "image_auto": "wikipedia-fr:Scott Jones",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "carney-nomme-scott-jones-a-la-tete-du-centre-de-la-securite-3913bc"
+  },
+  {
+   "titre": "Ottawa rappelle aux entreprises touchées par les tarifs américains l'aide à leur disposition",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Laval",
+   "medias": "Le Devoir, Les Affaires",
+   "url": "https://www.ledevoir.com/economie/1006454/ottawa-lance-appel-secteurs-vises-nouveaux-droits-douane",
+   "resume": "En visite chez un fabricant lavallois touché par les droits de douane américains, la ministre fédérale de l'Industrie Mélanie Joly a rappelé que les quelque 25 000 entreprises canadiennes affectées peuvent obtenir prêts sans intérêt, subventions et aide à l'assurance-emploi, dans la foulée d'une enveloppe fédérale de 7,5 milliards de dollars annoncée la semaine dernière.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1006454/ottawa-lance-appel-secteurs-vises-nouveaux-droits-douane",
+     "date": "2026-09-04T06:08-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/manufacturier/tarifs-douaniers-aux-entreprises-qui-sont-maintenant-affectees-on-est-la-pour-vous-dit-melanie-joly/",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "ottawa-rappelle-aux-entreprises-touchees-par-les-tarifs-amer-9719b4",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "ottawa-rappelle-aux-entreprises-touchees-par-les-tarifs-amer-9719b4"
+  },
+  {
+   "titre": "Une adolescente du Saguenay risque de perdre sa session de cégep, faute de permis d'études fédéral",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Chicoutimi (Saguenay-Lac-Saint-Jean)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280472/immigration-canada-france-travailleur-immigrant",
+   "resume": "Lily-Rose Coudreau, 17 ans, dont les parents français travaillent au Saguenay comme travailleurs étrangers temporaires, risque de manquer sa première session au Cégep de Chicoutimi faute d'avoir reçu à temps son permis d'études d'Immigration, Réfugiés et Citoyenneté Canada, malgré une lettre d'urgence envoyée par le cégep au ministère.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280472/immigration-canada-france-travailleur-immigrant",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Quai_et_vue_sur_la_rivi%C3%A8re_Saguenay_%C3%A0_Chicoutimi%2C_Saguenay_%28Qu%C3%A9bec%29.jpg/1280px-Quai_et_vue_sur_la_rivi%C3%A8re_Saguenay_%C3%A0_Chicoutimi%2C_Saguenay_%28Qu%C3%A9bec%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La rivière Saguenay à Chicoutimi.",
+   "photo_auteur": "Samuel McLaughlin",
+   "photo_licence": "Public domain",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "une-adolescente-du-saguenay-risque-de-perdre-sa-session-de-c-f333a6",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "une-adolescente-du-saguenay-risque-de-perdre-sa-session-de-c-f333a6"
+  },
+  {
+   "titre": "Québec ordonne la restauration de milieux humides détruits illégalement à Saint-Augustin-de-Desmaures",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Saint-Augustin-de-Desmaures (Capitale-Nationale)",
+   "medias": "Gouvernement du Québec",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/le-melccfp-prend-une-ordonnance-visant-la-remise-en-etat-de-milieux-humides-et-hydriques-detruits-illegalement-a-saint-augustin-de-desmaures-72383",
+   "resume": "Le ministère de l'Environnement ordonne à l'entreprise Gestion Dynamique de restaurer, dans les 90 jours, des milieux humides et hydriques qu'elle a détruits sans autorisation par des travaux de déboisement, d'excavation et de remblayage à Saint-Augustin-de-Desmaures, après qu'un avis de non-conformité transmis en 2022 est resté sans plan de restauration acceptable.",
+   "sources": [
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/le-melccfp-prend-une-ordonnance-visant-la-remise-en-etat-de-milieux-humides-et-hydriques-detruits-illegalement-a-saint-augustin-de-desmaures-72383",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Saint-Augustin-de-Desmaures_Parc_industriel_Fran%C3%A7ois-Leclerc_-_vue_a%C3%A9rienne_20241029.jpg/1280px-Saint-Augustin-de-Desmaures_Parc_industriel_Fran%C3%A7ois-Leclerc_-_vue_a%C3%A9rienne_20241029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le parc industriel François-Leclerc, à Saint-Augustin-de-Desmaures.",
+   "photo_auteur": "Pymouss",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "quebec-ordonne-la-restauration-de-milieux-humides-detruits-i-eab4fa",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "quebec-ordonne-la-restauration-de-milieux-humides-detruits-i-eab4fa"
+  },
+  {
+   "titre": "Après la contestation, la GRC réfère une arrestation à Sheshatshiu à un organisme de surveillance",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Sheshatshiu (Terre-Neuve-et-Labrador)",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/after-community-outcry-rcmp-refers-sheshatshiu-arrest-to-police-oversight-agency-9.7331828",
+   "resume": "La Gendarmerie royale du Canada a transmis à l'organisme de surveillance policière de Terre-Neuve-et-Labrador le dossier d'une arrestation à Sheshatshiu, après qu'une vidéo montrant un usage de la force jugé excessif par des membres de la communauté a provoqué une manifestation devant le poste de police. La Nation innue réclame le retrait permanent des deux agents en cause et relance sa demande d'un service de police autochtone autonome, ce qui exigerait un changement législatif provincial et fédéral.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/after-community-outcry-rcmp-refers-sheshatshiu-arrest-to-police-oversight-agency-9.7331828",
+     "date": "2026-09-04T06:08-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-04T05:55-04:00",
+   "permalien": "apres-la-contestation-la-grc-refere-une-arrestation-a-shesha-9a2011",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-04.json",
+   "_slug": "apres-la-contestation-la-grc-refere-une-arrestation-a-shesha-9a2011"
+  },
+  {
    "titre": "Itamar Ben Gvir présente un plan pour vider Gaza de sa population, en pleine campagne électorale israélienne",
    "cahier": "international",
    "rubrique": "conflits",
@@ -1460,12 +1872,12 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Global News, Québecor, Le Devoir",
+   "medias": "Global News, Québecor, Le Devoir, National Post",
    "url": "https://globalnews.ca/news/12046322/new-20-dollar-bill-king-charles-iii-unveiled-canada/",
-   "resume": "La Banque du Canada a dévoilé jeudi un nouveau billet vertical de 20 dollars portant le portrait du roi Charles III, qui remplace celui de la reine Elizabeth II et reprend des éléments botaniques évoquant son engagement pour l'environnement.",
+   "resume": "La Banque du Canada a dévoilé jeudi son nouveau billet vertical de 20 dollars à l'effigie du roi Charles III, qui remplace la reine Elizabeth II et entrera en circulation en février 2027. Le processus de conception a coûté 6 millions de dollars et chaque billet coûtera 0,05 $ de plus à imprimer en raison de nouveaux éléments de sécurité, précise la Banque centrale.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/The_Bank%27s_Head_Office_Si%C3%A8ge_de_la_Banque_du_Canada_%2846847690635%29.jpg/1280px-The_Bank%27s_Head_Office_Si%C3%A8ge_de_la_Banque_du_Canada_%2846847690635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "legende": "Le siège de la Banque du Canada.",
-   "horodate": "2026-09-03T15:59-04:00",
+   "horodate": "2026-09-04T05:55-04:00",
    "sources": [
     {
      "media": "Global News",
@@ -1481,6 +1893,11 @@
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/economie/1006400/nouveau-billet-20-met-honneur-roi-charles",
      "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/canada-20-bill-king-charles",
+     "date": "2026-09-04T06:08-04:00"
     }
    ],
    "photo_auteur": "Bank of Canada - Banque du Canada from Canada",
@@ -1583,17 +2000,22 @@
    "cahier": "quebec",
    "rubrique": "justice",
    "territoire": "Nunavik (Umiujaq)",
-   "medias": "Nunatsiaq News",
+   "medias": "Nunatsiaq News, APTN",
    "url": "https://nunatsiaq.com/stories/article/nunavik-police-officer-charged-with-assault/",
-   "resume": "L'agent Raphaël Bernier, du corps policier du Nunavik, fait face à une accusation de voies de fait et de voies de fait armées pour des gestes qui seraient survenus à Umiujaq en août 2025, selon le Bureau des enquêtes indépendantes.",
+   "resume": "L'agent Raphaël Bernier, du Service de police du Nunavik, fait face à une accusation de voies de fait et de voies de fait armée pour des gestes qui seraient survenus à Umiujaq en août 2025, selon le Bureau des enquêtes indépendantes, qui a compétence lorsque la victime présumée est autochtone. L'agent a été suspendu et placé en résidence surveillée; le BEI indique avoir engagé des poursuites dans 31 dossiers visant des policiers depuis mars 2025.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-03T15:59-04:00",
+   "horodate": "2026-09-04T05:55-04:00",
    "sources": [
     {
      "media": "Nunatsiaq News",
      "url": "https://nunatsiaq.com/stories/article/nunavik-police-officer-charged-with-assault/",
      "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "APTN",
+     "url": "https://www.aptnnews.ca/national-news/un-policier-du-nunavik-accuse-dagression-avec-une-arme-bei/",
+     "date": "2026-09-04T06:08-04:00"
     }
    ],
    "permalien": "un-policier-du-nunavik-accuse-de-voies-de-fait-11c455",
@@ -1989,7 +2411,7 @@
    "territoire": "Canada",
    "medias": "Radio-Canada, National Post",
    "url": "https://ici.radio-canada.ca/nouvelle/2280512/juge-ordonne-ottawa-reveler-informations-liees-crimes-guerre-nazis",
-   "resume": "La Cour fédérale a ordonné la déclassification de certains passages d'un rapport de 618 pages de 1986 sur l'arrivée au Canada, après la guerre, de personnes soupçonnées de crimes de guerre nazis, jugeant que l'intérêt public à préserver l'histoire l'emporte sur les motifs invoqués par Ottawa pour maintenir le secret.",
+   "resume": "La Cour fédérale a ordonné au gouvernement fédéral de divulguer des passages jusqu'ici caviardés d'une étude de 1986 sur la réinstallation de criminels de guerre nazis au Canada après la Seconde Guerre mondiale, au terme d'une bataille judiciaire menée par B'nai Brith Canada. Le juge Simon Fothergill a rejeté l'argument du gouvernement selon lequel la divulgation nuirait aux relations avec les États-Unis, qui souhaitaient que ces informations demeurent confidentielles.",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -2002,7 +2424,7 @@
      "date": "2026-09-03T21:59-04:00"
     }
    ],
-   "horodate": "2026-09-03T21:59-04:00",
+   "horodate": "2026-09-04T05:55-04:00",
    "permalien": "un-juge-ordonne-a-ottawa-de-reveler-des-informations-liees-a-641734",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-04.json",
@@ -2014,9 +2436,9 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Radio-Canada, Le Devoir",
+   "medias": "Radio-Canada, Le Devoir, Québecor",
    "url": "https://ici.radio-canada.ca/nouvelle/2280450/carney-conteste-accusations-americaines-negociations-commerciales",
-   "resume": "Le secrétaire américain au Commerce, Howard Lutnick, a affirmé cette semaine que le Canada avait ajouté des idées jugées irréalistes dans les dernières heures des négociations commerciales pour des raisons de politique interne profitant aux libéraux, des accusations que le premier ministre Mark Carney a rejetées, alors que les tensions entre Ottawa et Washington se sont intensifiées depuis l'échec des pourparlers le mois dernier.",
+   "resume": "Le secrétaire américain au Commerce, Howard Lutnick, a affirmé cette semaine que le Canada avait ajouté des idées jugées irréalistes dans les dernières heures des négociations commerciales pour des raisons de politique interne profitant aux libéraux, des accusations que le premier ministre Mark Carney a rejetées, alors que les tensions entre Ottawa et Washington se sont intensifiées depuis l'échec des pourparlers le mois dernier.\n\n**Mise à jour, 5 h 55** — Le président américain Donald Trump a averti, sur son réseau Truth Social, que l'économie canadienne s'« effondrerait » si Carney persistait à s'opposer à ses politiques commerciales; ce dernier a répliqué qu'un « bon » accord demeurait possible.",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -2027,9 +2449,14 @@
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/canada/1006316/carney-riposte-accusations-americaines-concernant-fin-negociations-commerciales",
      "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/03/trump-met-en-garde-carney-contre-leffondrement-de-leconomie-canadienne",
+     "date": "2026-09-04T06:08-04:00"
     }
    ],
-   "horodate": "2026-09-03T21:59-04:00",
+   "horodate": "2026-09-04T05:55-04:00",
    "permalien": "carney-conteste-les-accusations-americaines-concernant-la-fi-2a216e",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-04.json",
@@ -2740,12 +3167,12 @@
    "_slug": "selon-qc125-les-gains-de-la-caq-dans-les-sondages-vienn-e4e76f"
   },
   {
-   "titre": "Un gouffre financier de 48 millions menace le Collège LaSalle",
+   "titre": "Le Collège LaSalle rouvre ses portes malgré ses dettes de 48 millions envers Québec",
    "cahier": "montreal",
    "rubrique": "education",
    "territoire": "Montréal",
-   "medias": "Radio-Canada, QUB radio, Québecor, Le Devoir",
-   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-retour/episodes/1264265/mercredi-2-septembre-2026",
+   "medias": "Québecor, Global News, La Presse",
+   "url": "https://www.journaldemontreal.com/2026/09/03/le-college-lasalle-pourra-rouvrir-des-demain-malgre-ses-dettes",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -2766,12 +3193,27 @@
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/actualites/justice/1006235/sort-college-lasalle-connu-jeudi-apres-midi",
      "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/03/le-college-lasalle-pourra-rouvrir-des-demain-malgre-ses-dettes",
+     "date": "2026-09-04T06:08-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12047365/montreals-lasalle-college-will-open-its-doors-as-judge-renews-creditor-protection/",
+     "date": "2026-09-04T06:08-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php",
+     "date": "2026-09-04T06:08-04:00"
     }
    ],
-   "resume": "Un gouffre financier de 48 millions de dollars retarde la rentrée de 3000 étudiants et 400 membres du corps professoral au Collège LaSalle, plongeant la communauté étudiante dans l'incertitude quant à l'avenir de l'établissement.\n\nMise à jour, 15 h 57 — Des étudiants ont manifesté leur impatience jeudi devant le palais de justice de Montréal, où s'est ouverte l'audience sur le dépassement des plafonds d'inscription dans les programmes en anglais du collège ; le sort de l'établissement doit être connu jeudi après-midi, selon Le Devoir.",
+   "resume": "Le Collège LaSalle a rouvert ses portes vendredi à ses 3200 étudiants après que la Cour supérieure a prolongé sa protection contre ses créanciers et forcé le rétablissement des subventions gouvernementales suspendues depuis juin. Le juge Martin Castonguay a reproché au gouvernement de ne pas avoir offert de porte de sortie à l'établissement, dont la dette totale envers Québec atteint près de 48 millions de dollars en raison d'un dépassement de ses quotas d'inscription en anglais.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/College_LaSalle_2000_rue_Sainte-Catherine_02.jpg/1280px-College_LaSalle_2000_rue_Sainte-Catherine_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "legende": "Le Collège LaSalle, rue Sainte-Catherine à Montréal.",
-   "horodate": "2026-09-03T15:59-04:00",
+   "horodate": "2026-09-04T05:55-04:00",
    "photo_auteur": "Jeangagnon",
    "photo_licence": "CC BY-SA 3.0",
    "permalien": "un-gouffre-financier-de-48-millions-menace-le-college-lasall-8d2da9",
