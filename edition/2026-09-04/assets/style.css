@@ -26,14 +26,18 @@ html[data-theme="beige"]{--bg:#f1e7d2;--fg:#2b2015;--muted:#8a7a60;--rule:#ddcca
    inverse sans changer de couleurs — tout ce qui etait jaune sur blanc
    devient noir sur jaune. Le surligneur du bandeau et le logo suivent
    l'inversion : laisses en jaune, ils disparaitraient dans la page. */
-html[data-theme="jaune"]{--bg:#ffe95e;--fg:#1a1400;--muted:#5c4d00;--rule:#d4bd3c;
- --rule-fort:#1a1400;--accent:#111114;--accent-fg:#ffe95e;--accent-txt:#4a3b00;
- --link:#1a1400;--card:#fff3a3;
- --ombre:rgba(60,40,0,.18);}
-html[data-theme="jaune"] .souligne-main{--marqueur:#111114;--marqueur-fg:#ffe95e}
+/* « Pages jaunes » — adouci le 4 sept. 2026 (l'editeur : « trop eclatant,
+   plutot un jaune-gris pale-moyen ») : le jaune vif laisse la place a un
+   jaune grise, comme un vieux bottin, texte presque noir, encre noire pour
+   l'accent. */
+html[data-theme="jaune"]{--bg:#e0d8a2;--fg:#1c1a10;--muted:#5a5330;--rule:#c3b97f;
+ --rule-fort:#1c1a10;--accent:#111114;--accent-fg:#e0d8a2;--accent-txt:#4a4020;
+ --link:#1c1a10;--card:#e9e2b5;
+ --ombre:rgba(50,40,0,.14);}
+html[data-theme="jaune"] .souligne-main{--marqueur:#111114;--marqueur-fg:#e0d8a2}
 html[data-theme="jaune"] .masthead .logo rect{fill:#111114}
-html[data-theme="jaune"] .masthead .logo path[stroke]{stroke:#ffe95e}
-html[data-theme="jaune"] .masthead .logo path[fill="#111114"]{fill:#ffe95e}
+html[data-theme="jaune"] .masthead .logo path[stroke]{stroke:#e0d8a2}
+html[data-theme="jaune"] .masthead .logo path[fill="#111114"]{fill:#e0d8a2}
 html[data-theme="contraste"]{--bg:#000000;--fg:#ffffff;--muted:#e8e8e8;--rule:#ffffff;
  --rule-fort:#ffffff;--accent:#ffd400;--accent-fg:#000000;--accent-txt:#ffd400;
  --link:#ffd400;--card:#000000;

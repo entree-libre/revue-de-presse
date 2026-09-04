@@ -5,7 +5,7 @@
    bouton Retour ne rebondit pas dessus), et la couleur de fond est celle du
    theme du lecteur pour eviter un eclair beige sur un ecran sombre. */
 try{var t=(JSON.parse(localStorage.getItem('revue-prefs')||'{}').theme)||'';
-var b={'':'#ffffff',dark:'#111114',gris:'#8e8e94',beige:'#f1e7d2',jaune:'#ffe95e',contraste:'#000000'}[t]||'#ffffff';
+var b={'':'#ffffff',dark:'#111114',gris:'#8e8e94',beige:'#f1e7d2',jaune:'#e0d8a2',contraste:'#000000'}[t]||'#ffffff';
 document.documentElement.style.background=b;}catch(e){}
 location.replace('edition/2026-09-04/'+(location.hash||''));
 </script>
