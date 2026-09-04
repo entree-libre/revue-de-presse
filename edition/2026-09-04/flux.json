@@ -6,6 +6,67 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/la-candidate-caquiste-brigitte-martin-veut-miser-sur-son-anc-7d6c8e.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/la-candidate-caquiste-brigitte-martin-veut-miser-sur-son-anc-7d6c8e.html",
+   "title": "La candidate caquiste Brigitte Martin veut miser sur son ancrage local dans Taschereau",
+   "content_text": "La candidate de la Coalition avenir Québec dans Taschereau, Brigitte Martin, mise sur son ancrage dans le secteur et son expérience des milieux municipal et gouvernemental pour promettre de s'attaquer à l'itinérance, au logement et au coût de la vie.",
+   "date_modified": "2026-09-04T07:26:00-04:00",
+   "tags": [
+    "Québec (Taschereau)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/kariane-bourassa-defend-son-bilan-sur-la-traverse-le-cellula-04a60e.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/kariane-bourassa-defend-son-bilan-sur-la-traverse-le-cellula-04a60e.html",
+   "title": "Kariane Bourassa défend son bilan sur la traverse, le cellulaire et la forêt dans Charlevoix",
+   "content_text": "La députée sortante caquiste Kariane Bourassa, candidate à un nouveau mandat dans Charlevoix–Côte-de-Beaupré, dit vouloir continuer de porter la relocalisation de la traverse de L'Isle-aux-Coudres, l'amélioration de la couverture cellulaire — un appel d'offres régional n'ayant attiré aucun soumissionnaire — et la protection des emplois forestiers.",
+   "date_modified": "2026-09-04T07:26:00-04:00",
+   "tags": [
+    "Charlevoix (Charlevoix–Côte-de-Beaupré)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Kariane_Bourassa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/les-partis-divergent-sur-la-place-de-l-intelligence-artifici-fc008a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/les-partis-divergent-sur-la-place-de-l-intelligence-artifici-fc008a.html",
+   "title": "Les partis divergent sur la place de l'intelligence artificielle dans l'État québécois",
+   "content_text": "Le Parti libéral promet un ministre responsable de l'intelligence artificielle et un cadre législatif s'il est élu, tandis que Québec solidaire dit vouloir faire preuve d'« énormément de prudence » dans son déploiement en santé et dans la fonction publique et réclame la protection du droit d'auteur des artistes, selon un survol des engagements des partis publié par Pivot.",
+   "date_modified": "2026-09-04T07:26:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/riviere-du-louptemiscouatales-basques-l-ecart-se-resserre-en-80a487.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/riviere-du-louptemiscouatales-basques-l-ecart-se-resserre-en-80a487.html",
+   "title": "Rivière-du-Loup–Témiscouata–Les Basques : l'écart se resserre entre la CAQ et le PQ selon un modèle de projection",
+   "content_text": "Selon le modèle de projection Québec 125 — qui transpose localement les sondages provinciaux plutôt que de sonder la circonscription elle-même —, l'écart se resserre entre la candidate péquiste Ariane Boyer (38 %) et la ministre sortante caquiste Amélie Dionne (32 %) dans Rivière-du-Loup–Témiscouata–Les Basques.",
+   "date_modified": "2026-09-04T07:26:00-04:00",
+   "tags": [
+    "Bas-Saint-Laurent (Rivière-du-Loup–Témiscouata–Les Basques)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/les-candidats-caquistes-de-la-rive-sud-defendent-le-bilan-du-58c3fd.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/les-candidats-caquistes-de-la-rive-sud-defendent-le-bilan-du-58c3fd.html",
+   "title": "Les candidats caquistes de la Rive-Sud défendent le bilan du gouvernement sortant",
+   "content_text": "Réunis à l'ouverture du local électoral du vice-premier ministre sortant Ian Lafrenière, qui brigue un troisième mandat dans Vachon, les candidats caquistes de la Rive-Sud — Clément Mireault (La Pinière), Mélanie Martin (Pierre-Laporte), Shirley Dorismond et Stéphane Lavoie (Taillon) — ont défendu le bilan du gouvernement sortant.",
+   "date_modified": "2026-09-04T07:26:00-04:00",
+   "tags": [
+    "Montérégie (Vachon)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-04/a/ottawa-investit-4-7-milliards-pour-faire-construire-les-voit-5479f8.html",
    "url": "https://entreelibre.ca/edition/2026-09-04/a/ottawa-investit-4-7-milliards-pour-faire-construire-les-voit-5479f8.html",
    "title": "Ottawa investit 4,7 milliards $ pour faire construire les voitures de VIA Rail au Canada",
@@ -922,66 +983,6 @@
     "Québec",
     "Élections Québec 2026",
     "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/quebec-solidaire-veut-financer-la-mise-de-fonds-des-premiers-b4cd01.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/quebec-solidaire-veut-financer-la-mise-de-fonds-des-premiers-b4cd01.html",
-   "title": "Québec solidaire veut financer la mise de fonds des premiers acheteurs, jusqu'à 50 000 $",
-   "content_text": "La porte-parole Ruba Ghazal a présenté la promesse de Québec solidaire de financer, via un programme de prêts gouvernementaux sans intérêt, jusqu'à 15 % de la mise de fonds d'une maison neuve ou 5 % d'une propriété existante — un maximum de 50 000 $, remboursable à la revente ou au renouvellement hypothécaire.",
-   "date_modified": "2026-09-03T21:26:00-04:00",
-   "tags": [
-    "Québec",
-    "Élections Québec 2026",
-    "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/frechette-boucle-sa-8e-journee-de-campagne-dans-orford-la-ci-945182.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/frechette-boucle-sa-8e-journee-de-campagne-dans-orford-la-ci-945182.html",
-   "title": "Fréchette boucle sa 8e journée de campagne dans Orford, la circonscription du chef libéral Milliard",
-   "content_text": "La cheffe caquiste Christine Fréchette a terminé sa huitième journée de campagne dans Orford, la circonscription du chef libéral Charles Milliard, se disant confiante de conserver les bastions de son parti en Estrie malgré des candidats en bonne partie nouveaux en politique provinciale.",
-   "date_modified": "2026-09-03T21:26:00-04:00",
-   "tags": [
-    "Québec (Orford)",
-    "Élections Québec 2026",
-    "Politique et vie municipale"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/l-agrandissement-promis-du-chaur-a-trois-rivieres-fait-reagi-d3916c.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/l-agrandissement-promis-du-chaur-a-trois-rivieres-fait-reagi-d3916c.html",
-   "title": "L'agrandissement promis du CHAUR à Trois-Rivières fait réagir à Drummondville",
-   "content_text": "Le président de la Coalition pour un hôpital régional à Drummondville, Robert Pelletier, juge que la promesse de la première ministre Christine Fréchette d'agrandir le Centre hospitalier affilié universitaire régional de Trois-Rivières n'aura pas d'impact sur le projet distinct d'un nouvel hôpital à Drummondville, dont l'inauguration reste prévue pour 2037.",
-   "date_modified": "2026-09-03T21:26:00-04:00",
-   "tags": [
-    "Trois-Rivières, Drummondville",
-    "Élections Québec 2026",
-    "Santé et services sociaux"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/le-pcq-promet-de-reduire-la-fonction-publique-de-20-000-post-795aba.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/le-pcq-promet-de-reduire-la-fonction-publique-de-20-000-post-795aba.html",
-   "title": "Le PCQ promet de réduire la fonction publique de 20 000 postes en misant sur l'IA",
-   "content_text": "Le Parti conservateur du Québec propose de réduire graduellement la fonction publique d'environ 20 000 postes, principalement par attrition et sans couper les services, en misant sur la technologie et l'intelligence artificielle.\n\n**Mise à jour, 21 h 26** — Le professeur Jean-François Ouellet (HEC Montréal) doute que l'intelligence artificielle permette de réduire l'effectif de l'État : les gains de productivité qu'elle procure restent individuels et ne sont documentés nulle part à l'échelle d'un gouvernement, selon 98,5FM.",
-   "date_modified": "2026-09-03T21:26:00-04:00",
-   "tags": [
-    "Québec",
-    "Élections Québec 2026",
-    "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/duhaime-reclame-les-pleins-pouvoirs-du-quebec-en-immigration-43c915.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/duhaime-reclame-les-pleins-pouvoirs-du-quebec-en-immigration-43c915.html",
-   "title": "Duhaime réclame les pleins pouvoirs du Québec en immigration",
-   "content_text": "Le chef conservateur Éric Duhaime propose de coaliser les provinces conservatrices et autonomistes du Canada pour créer un « rapport de force » face à Ottawa et obtenir les pleins pouvoirs du Québec en matière d'immigration.",
-   "date_modified": "2026-09-03T19:30:00-04:00",
-   "tags": [
-    "Québec",
-    "Élections Québec 2026",
-    "Politique et vie municipale"
    ]
   }
  ]
