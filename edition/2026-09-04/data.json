@@ -872,7 +872,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "La Presse, Les Affaires, Québecor",
+   "medias": "La Presse, Les Affaires, Québecor, Coops de l'information",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/caq/moins-de-normes-pour-construire-plus-vite.php",
    "resume": "Réélue, la Coalition avenir Québec promet de réviser les normes de sécurité en construction selon le risque réel de chaque bâtiment, d'éliminer les démarches en double avec les municipalités et de soustraire les rénovations légères des immeubles de moins de huit logements à la loi R-20. Christine Fréchette veut aussi réduire les délais pour les promoteurs tout en maintenant, assure-t-elle, les exigences de qualification et de sécurité des travailleurs.",
    "sources": [
@@ -890,6 +890,12 @@
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
      "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/la-caq-veut-reformer-le-trop-rigide-code-du-batiment-CNLJZTMK5VEMFPNPPMNXGROMG4/",
+     "auteur": "Daniel LeBlanc",
+     "date": "2026-09-04T14:23-04:00"
     }
    ],
    "photo": "",
@@ -1029,7 +1035,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Le Devoir, LaPresse, Québecor",
+   "medias": "Le Devoir, LaPresse, Québecor, Radio-Canada",
    "url": "https://www.ledevoir.com/politique/quebec/1006574/pspp-inquiet-etre-face-plus-grande-ingerence-federal-depuis-1995",
    "resume": "Le chef péquiste Paul St-Pierre Plamondon dénonce «la plus grande ingérence du fédéral» dans une élection québécoise depuis 1995 et demande au Directeur général des élections du Québec d'enquêter sur Mission Leadership Québec, un organisme fédéraliste ayant obtenu un contrat de la CAQ pour organiser des assemblées publiques de Christine Fréchette en début de campagne. Cette dernière réplique qu'il s'agit d'un «simple contrat» pour deux assemblées publiques et nie toute autre implication.",
    "sources": [
@@ -1052,6 +1058,11 @@
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
      "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280678/influence-federal-st-pierre-plamondon-pq",
+     "date": "2026-09-04T14:23-04:00"
     }
    ],
    "photo": "",
@@ -1117,6 +1128,196 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "christine-frechette-doute-de-la-viabilite-financiere-d-un-qu-84cfa9"
+  },
+  {
+   "titre": "Le chef libéral Charles Milliard promet 60 millions $ de plus par année contre l'itinérance",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1006646/lutte-itinerance-limitee-deficit-selon-milliard",
+   "resume": "Le chef du Parti libéral du Québec, Charles Milliard, promet d'investir 60 millions $ de plus par année pour lutter contre l'itinérance, en compagnie du directeur de la Mission Old Brewery, James Hugues, candidat libéral dans Vaudreuil.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006646/lutte-itinerance-limitee-deficit-selon-milliard",
+     "auteur": "Isabelle Porter",
+     "date": "2026-09-04T14:23-04:00"
+    }
+   ],
+   "permalien": "le-chef-liberal-charles-milliard-promet-60-millions-de-plus-6cff3a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "le-chef-liberal-charles-milliard-promet-60-millions-de-plus-6cff3a"
+  },
+  {
+   "titre": "Québec solidaire complète son équipe de candidats en Mauricie",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Mauricie",
+   "medias": "Québec solidaire (communiqué)",
+   "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-quebec-solidaire-a-une-equipe-complete-dans-la-region-de-la-mauricie/",
+   "resume": "Québec solidaire annonce avoir complété son équipe de candidats dans les circonscriptions de la région de la Mauricie en vue du scrutin du 5 octobre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-quebec-solidaire-a-une-equipe-complete-dans-la-region-de-la-mauricie/",
+     "date": "2026-09-04T14:23-04:00"
+    }
+   ],
+   "permalien": "quebec-solidaire-complete-son-equipe-de-candidats-en-maurici-ba5e34",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "quebec-solidaire-complete-son-equipe-de-candidats-en-maurici-ba5e34"
+  },
+  {
+   "titre": "Québec solidaire complète aussi son équipe de candidats au Bas-Saint-Laurent",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280665/elections-rimouski-rdl-mitis-cote",
+   "resume": "Québec solidaire confirme que les quatre circonscriptions couvrant le Bas-Saint-Laurent ont désormais chacune leur candidat solidaire pour le scrutin du 5 octobre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280665/elections-rimouski-rdl-mitis-cote",
+     "date": "2026-09-04T14:23-04:00"
+    }
+   ],
+   "permalien": "quebec-solidaire-complete-aussi-son-equipe-de-candidats-au-b-450809",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "quebec-solidaire-complete-aussi-son-equipe-de-candidats-au-b-450809"
+  },
+  {
+   "titre": "Sol Zanetti, « l'autre » porte-parole de Québec solidaire dans cette campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Jean-Lesage)",
+   "medias": "LaPresse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/quebec-solidaire/sol-zanetti-ou-aspirant-vice-premier-ministre.php",
+   "resume": "Sol Zanetti, qui appuie Ruba Ghazal sans lui-même briguer le poste de premier ministre, se décrit à La Presse, mi-blague, comme « aspirant vice-premier ministre » de Québec solidaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/quebec-solidaire/sol-zanetti-ou-aspirant-vice-premier-ministre.php",
+     "auteur": "William Thériault",
+     "date": "2026-09-04T14:23-04:00"
+    }
+   ],
+   "permalien": "sol-zanetti-l-autre-porte-parole-de-quebec-solidaire-dans-ce-627da6",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "sol-zanetti-l-autre-porte-parole-de-quebec-solidaire-dans-ce-627da6"
+  },
+  {
+   "titre": "Un restaurateur dénonce l'ironie environnementale des pancartes électorales",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "24 heures",
+   "url": "https://www.24heures.ca/2026/09/04/les-pancartes-electorales-sont-elles-vraiment-aussi-polluantes-que-les-fourchettes-et-les-pailles-en-plastique",
+   "resume": "Un entrepreneur copropriétaire de plusieurs chaînes de restaurants dénonce l'incohérence des partis qui réclament la fin des ustensiles en plastique tout en tapissant la province de pancartes électorales.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "24 heures",
+     "url": "https://www.24heures.ca/2026/09/04/les-pancartes-electorales-sont-elles-vraiment-aussi-polluantes-que-les-fourchettes-et-les-pailles-en-plastique",
+     "date": "2026-09-04T14:23-04:00"
+    }
+   ],
+   "permalien": "un-restaurateur-denonce-l-ironie-environnementale-des-pancar-82fa7c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "un-restaurateur-denonce-l-ironie-environnementale-des-pancar-82fa7c"
+  },
+  {
+   "titre": "À Sept-Îles et en Minganie, les élus municipaux attendent les partis sur le financement",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Sept-Îles, Minganie (Côte-Nord)",
+   "medias": "Le Nord-Côtier",
+   "url": "https://lenord-cotier.com/2026/09/04/elections-provinciales-2026-les-attentes-dans-sept-rivieres-et-en-minganie/",
+   "resume": "Le maire de Sept-Îles souhaite que la campagne aborde l'accès aux programmes d'aide financière du gouvernement pour les municipalités, une attente partagée par la mairesse de Port-Cartier et le préfet suppléant de la MRC de Minganie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/04/elections-provinciales-2026-les-attentes-dans-sept-rivieres-et-en-minganie/",
+     "auteur": "Vincent Rioux-Berrouard",
+     "date": "2026-09-04T14:23-04:00"
+    }
+   ],
+   "permalien": "a-sept-iles-et-en-minganie-les-elus-municipaux-attendent-les-3d9a93",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "a-sept-iles-et-en-minganie-les-elus-municipaux-attendent-les-3d9a93"
+  },
+  {
+   "titre": "La CAQ promet de relancer le prolongement de l'autoroute 20 dans le Bas-Saint-Laurent",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Rimouski, Rivière-du-Loup (Bas-Saint-Laurent)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+   "resume": "Les candidates caquistes Julia Brillant-Ruest (Rimouski) et Amélie Dionne (Rivière-du-Loup–Témiscouata–Les Basques) s'engagent à relancer les études pour prolonger l'autoroute 20 depuis Le Bic, sans toutefois avancer d'échéancier, de tracé ni de coût, ce qui laisse un comité de citoyens sur sa faim.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "auteur": "Patricia Rainville",
+     "date": "2026-09-04T14:23-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "date": "2026-09-04T14:23-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "date": "2026-09-04T14:23-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "date": "2026-09-04T14:23-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "date": "2026-09-04T14:23-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "date": "2026-09-04T14:23-04:00"
+    }
+   ],
+   "permalien": "la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-aa18ec",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-aa18ec"
   },
   {
    "titre": "La mort d'une adolescente dans un silo de Shawinigan vaut quatre recommandations au ministère de l'Environnement",
