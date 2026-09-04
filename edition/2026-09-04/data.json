@@ -191,7 +191,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, Coalition avenir Québec",
    "url": "https://ici.radio-canada.ca/nouvelle/2280520/aines-chefs-retraites-caq-fadoq-elections",
    "resume": "La CAQ promet de hausser à 2200 $ le crédit d'impôt pour aînés à faible revenu et d'exempter d'impôt jusqu'à 35 000 $ de revenu de travail pour les 65 ans et plus dans des professions en pénurie, une troisième offensive électorale du genre depuis le début de la campagne. Les chefs Duhaime, Milliard et St-Pierre Plamondon promettent de répliquer, le chef conservateur reconnaissant un écart générationnel défavorable à son parti chez les 65 ans et plus.",
    "photo": "",
@@ -202,6 +202,11 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280520/aines-chefs-retraites-caq-fadoq-elections",
      "date": "2026-09-04T04:00-04:00"
+    },
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/03/lequipe-christine-frechette-aidera-les-aines-a-mieux-faire-face-au-cout-de-la-vie/",
+     "date": "2026-09-04T08:56-04:00"
     }
    ],
    "permalien": "la-caq-bonifie-son-offre-aux-aines-pour-la-troisieme-fois-de-9c9c37",
@@ -1485,6 +1490,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "le-ministre-de-la-justice-reclame-une-enquete-sur-deux-juges-3a0510",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "le-ministre-de-la-justice-reclame-une-enquete-sur-deux-juges-3a0510"
@@ -1501,6 +1507,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "la-prefete-de-la-vallee-de-la-gatineau-reclame-la-reconstruc-8c25e5",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "la-prefete-de-la-vallee-de-la-gatineau-reclame-la-reconstruc-8c25e5"
@@ -1517,6 +1524,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "une-centaine-de-citoyens-reclament-la-securite-routiere-apre-d306ab",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-centaine-de-citoyens-reclament-la-securite-routiere-apre-d306ab"
@@ -1551,6 +1559,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "des-residus-d-amiante-forcent-la-fermeture-partielle-de-l-ho-1c5724",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "des-residus-d-amiante-forcent-la-fermeture-partielle-de-l-ho-1c5724"
@@ -1567,6 +1576,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "une-infirmiere-auxiliaire-de-chicoutimi-radiee-sept-mois-pou-469296",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-infirmiere-auxiliaire-de-chicoutimi-radiee-sept-mois-pou-469296"
@@ -1601,6 +1611,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "vols-de-velos-a-montreal-un-fleau-que-la-police-peine-a-endi-7c0371",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "vols-de-velos-a-montreal-un-fleau-que-la-police-peine-a-endi-7c0371"
@@ -1653,6 +1664,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "un-premier-salon-du-livre-pense-pour-les-jeunes-lecteurs-a-d-8c9ae3",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "un-premier-salon-du-livre-pense-pour-les-jeunes-lecteurs-a-d-8c9ae3"
@@ -1669,6 +1681,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "une-murale-posthume-de-serge-malenfant-rend-hommage-au-patin-a2cce9",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-murale-posthume-de-serge-malenfant-rend-hommage-au-patin-a2cce9"
@@ -1697,6 +1710,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "greve-de-deux-jours-a-venir-chez-les-enseignants-du-dep-en-s-2be884",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "greve-de-deux-jours-a-venir-chez-les-enseignants-du-dep-en-s-2be884"
@@ -1713,6 +1727,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "les-depenses-du-maire-marchand-ne-montrent-pas-d-extravaganc-eb3425",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "les-depenses-du-maire-marchand-ne-montrent-pas-d-extravaganc-eb3425"
@@ -1759,6 +1774,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "la-demolition-d-un-centre-commercial-de-laval-pour-des-logem-ee3df6",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "la-demolition-d-un-centre-commercial-de-laval-pour-des-logem-ee3df6"
@@ -1775,6 +1791,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "une-ecole-de-laval-initie-les-jeunes-a-la-radio-et-a-la-litt-f2e249",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-ecole-de-laval-initie-les-jeunes-a-la-radio-et-a-la-litt-f2e249"
@@ -1791,6 +1808,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "action-chomage-cote-nord-juge-insuffisantes-les-mesures-fede-3af6b0",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "action-chomage-cote-nord-juge-insuffisantes-les-mesures-fede-3af6b0"
@@ -1807,6 +1825,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "la-mrc-de-la-haute-cote-nord-reclame-des-reponses-sur-la-fin-01f2eb",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "la-mrc-de-la-haute-cote-nord-reclame-des-reponses-sur-la-fin-01f2eb"
@@ -1859,6 +1878,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "saint-simon-de-rimouski-consulte-sa-population-sur-l-avenir-e75d36",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "saint-simon-de-rimouski-consulte-sa-population-sur-l-avenir-e75d36"
@@ -1875,6 +1895,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "le-duo-rouynorandien-genevieve-matthieu-remporte-le-prix-la-1c55dd",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "le-duo-rouynorandien-genevieve-matthieu-remporte-le-prix-la-1c55dd"
@@ -1891,6 +1912,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "l-entreprise-valdorienne-marcotte-rapatrie-deux-partenaires-93fbfb",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "l-entreprise-valdorienne-marcotte-rapatrie-deux-partenaires-93fbfb"
@@ -1907,6 +1929,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "ressources-minerales-pelican-achete-le-quai-de-grande-vallee-8e8c6e",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "ressources-minerales-pelican-achete-le-quai-de-grande-vallee-8e8c6e"
@@ -1923,6 +1946,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "le-maire-de-mont-saint-pierre-defend-sa-gestion-apres-la-fai-907fa8",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "le-maire-de-mont-saint-pierre-defend-sa-gestion-apres-la-fai-907fa8"
@@ -1957,6 +1981,7 @@
    "legende": "",
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "une-fillette-de-6-ans-mordue-par-trois-chiens-a-aupaluk-au-n-3fc8b3",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-fillette-de-6-ans-mordue-par-trois-chiens-a-aupaluk-au-n-3fc8b3"
@@ -1985,6 +2010,7 @@
      "date": "2026-09-04T07:41-04:00"
     }
    ],
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "un-homme-dans-un-etat-critique-apres-une-sortie-de-route-en-5a5eb8"
