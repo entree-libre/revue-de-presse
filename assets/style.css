@@ -778,6 +778,18 @@ article.lu h4.titre{font-weight:400}
  margin:.9rem 0 0;padding-top:.5rem;border-top:1px solid var(--rule)}
 .mention-ia a{color:var(--muted)}
 .mention-ia a:hover{color:var(--accent-txt)}
+/* ---- la phrase d'entrée (4 sept. 2026, § 3.5) : l'invitation sous le résumé ---- */
+.lire-suite{font-family:var(--ui);font-size:1rem;font-weight:700;margin:-.6rem 0 1.1rem;
+ max-width:50rem;line-height:1.5}
+.lire-suite .ls-lien{color:var(--accent-txt);text-decoration:none;
+ border-bottom:3px solid var(--accent);padding-bottom:.05rem}
+.lire-suite .ls-lien:hover{background:var(--accent);color:var(--accent-fg)}
+.lire-suite .ls-lien.src-lu{border-bottom-style:dotted;font-weight:600}
+.lire-suite .ls-auteur{font-weight:500;color:var(--muted)}
+.lire-suite .ls-lien:hover .ls-auteur{color:var(--accent-fg)}
+.lire-suite .ls-reste{font-weight:500;font-size:.85rem;color:var(--muted)}
+.resume strong.maj{font-family:var(--ui);font-size:.85em;letter-spacing:.02em;
+ color:var(--accent-txt)}
 .ia-tag{display:inline-block;font-family:var(--ui);font-size:.62rem;font-weight:700;
  letter-spacing:.06em;padding:.05rem .35rem;border:1px solid var(--rule-fort);
  border-radius:.3rem;color:var(--fg);vertical-align:middle;margin-left:.3rem}

@@ -34,7 +34,7 @@
 <header class="top"><div class="dateline">Entrée-Libre — page mise à jour le 4 septembre 2026</div><h1>À propos et méthodes</h1><div class="chapeau"><p>Entrée Libre est une revue de presse quotidienne et gratuite, publiée depuis Québec. Elle lit la presse du Québec, du Canada et du monde, régions comprises, et renvoie ses lecteurs aux rédactions qui ont fait le travail.</p></div></header>
 <section class="page-fixe">
 <h3>Ce que vous lisez</h3>
-<p>Chaque sujet tient en une phrase, deux au plus, écrite dans nos mots à partir des articles que nous avons lus. Nous n'en reproduisons ni le texte, ni l'amorce, ni le titre, ni les photographies. Les faits sont attribués à ceux qui les ont établis — une ministre, un tribunal, une étude, un corps de police — et jamais présentés comme les nôtres. Sous chaque sujet, un bouton par rédaction mène à l'article d'origine, avec le nom du journal et, quand nous le connaissons, celui du journaliste. La lecture de ces articles est la suite naturelle de la nôtre : c'est pour cela que le site existe.</p>
+<p>Chaque sujet tient en une seule phrase, écrite dans nos mots à partir des articles que nous avons lus : elle présente la nouvelle et vous invite à la lire chez la rédaction qui l'a couverte — le résumé ne remplace pas l'article, il y mène. Seul un communiqué de presse, parole de son émetteur, peut être rendu plus longuement, toujours dans nos mots. Nous n'en reproduisons ni le texte, ni l'amorce, ni le titre, ni les photographies. Les faits sont attribués à ceux qui les ont établis — une ministre, un tribunal, une étude, un corps de police — et jamais présentés comme les nôtres. Sous chaque sujet, un bouton par rédaction mène à l'article d'origine, avec le nom du journal et, quand nous le connaissons, celui du journaliste. La lecture de ces articles est la suite naturelle de la nôtre : c'est pour cela que le site existe.</p>
 <h3>Comment c'est fait</h3>
 <p>Les résumés sont rédigés par une intelligence artificielle (les modèles Claude, d'Anthropic), qui lit les fils RSS auxquels le journal est abonné et, pour les sujets croisés ou sensibles, les articles eux-mêmes. Un contrôle mécanique passe ensuite sur chaque édition : chaque sujet doit porter ses sources, les doublons sont fusionnés, les résumés qui s'allongent sont signalés, le cahier électoral reste étanche. L'éditeur relit, corrige et retire. Il n'y a pas de relecture humaine de chaque phrase avant sa mise en ligne — nous le disons parce que c'est vrai, et parce que c'est ce qui rend vos signalements si utiles. Une machine se trompe autrement qu'un journaliste : elle peut mal lire un chiffre, laisser tomber un « allégué », confondre deux personnes. Chaque sujet porte la mention de son origine, et toute erreur signalée à <a href="mailto:contact@entreelibre.ca">contact@entreelibre.ca</a> est corrigée dans les 48 heures ouvrables, la correction datée.</p>
 <h3>Qui est derrière</h3>
@@ -395,6 +395,8 @@ function srcAppliquer(){
   var lu=!!v[srcCle(a.getAttribute('href'))];
   a.classList.toggle('src-lu',lu);
   act.textContent=lu?'✓ Déjà ouvert — relire →':act.dataset.neuf;});
+ document.querySelectorAll('a.ls-lien[href]').forEach(function(a){
+  a.classList.toggle('src-lu',!!v[srcCle(a.getAttribute('href'))]);});
  srcProgres();}
 /* Le tour des sources (4 sept. 2026) : combien d'articles d'origine ont ete
    ouverts sur ce sujet, et lequel ouvrir ensuite. Le resume ne suffit jamais ;
@@ -418,17 +420,35 @@ function srcProgres(){
    ouvre aussi l'article sans passer par `click`. */
 function srcClic(e){
  var n=(e.target&&e.target.nodeType===1)?e.target:(e.target&&e.target.parentElement);
- var a=n&&n.closest?n.closest('a.src-btn, a.src-suivant'):null;
- if(!a)return; srcMarquer(a.getAttribute('href')); srcAppliquer(); srcCompter(a);}
-/* Le compte des lecteurs envoyes aux medias (4 sept. 2026) : le domaine de
-   l'article et le permalien du sujet, rien d'autre, par sendBeacon, vers le
-   Worker de COMPTEUR (outils/compteur/). Aucun temoin, aucune adresse, rien
-   qui identifie le lecteur. Inerte quand COMPTEUR est vide. */
+ var a=n&&n.closest?n.closest('a[href]'):null;
+ if(!a)return;
+ if(a.matches('a.src-btn, a.src-suivant, a.ls-lien')){srcMarquer(a.getAttribute('href'));srcAppliquer();}
+ srcCompter(a);}
+/* Le compte des lecteurs envoyes ailleurs (4 sept. 2026 ; etendu le soir
+   meme a TOUS les liens sortants, plus seulement aux boutons de source) :
+   le domaine de destination et le permalien du sujet — ou, hors d'un sujet,
+   le nom de la page (« page-index », « page-sources ») —, rien d'autre, par
+   sendBeacon, vers le Worker de COMPTEUR (outils/compteur/). Aucun temoin,
+   aucune adresse, rien qui identifie le lecteur. Inerte quand COMPTEUR est
+   vide. Un lien interne (meme domaine, avec ou sans www), un mailto: ou une
+   ancre ne comptent pas ; le Worker ne garde que [a-z0-9-] dans le sujet,
+   d'ou le nettoyage ici plutot qu'un clic perdu la-bas. */
+function srcSortant(a){
+ try{var u=new URL(a.getAttribute('href'),location.href);
+  if(u.protocol!=='http:'&&u.protocol!=='https:')return '';
+  var h=u.hostname.toLowerCase().replace(/^www\./,'');
+  if(!h||h===location.hostname.toLowerCase().replace(/^www\./,''))return '';
+  return h;}catch(e){return '';}}
+function srcNettoyer(t){
+ return String(t||'').toLowerCase().replace(/[^a-z0-9-]+/g,'-').replace(/^-+|-+$/g,'').slice(0,140);}
+function srcPage(){
+ var p=srcNettoyer((location.pathname.split('/').pop()||'').replace(/\.html?$/,''));
+ return srcNettoyer('page-'+(p||'index'));}
 function srcCompter(a){
  if(!window.COMPTEUR||!navigator.sendBeacon)return;
- try{var art=a.closest('article[data-slug]');
-  var slug=(art&&art.dataset.slug)||(window.VU&&window.VU.slug)||'';
-  var dom=new URL(a.getAttribute('href'),location.href).hostname.replace(/^www\./,'');
+ try{var dom=srcSortant(a);if(!dom)return;
+  var art=a.closest('article[data-slug]');
+  var slug=srcNettoyer((art&&art.dataset.slug)||(window.VU&&window.VU.slug)||'')||srcPage();
   navigator.sendBeacon(window.COMPTEUR,JSON.stringify({d:dom,s:slug,t:Date.now()}));}catch(e){}}
 document.addEventListener('click',srcClic);
 document.addEventListener('auxclick',srcClic);

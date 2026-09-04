@@ -34,7 +34,7 @@
 <header class="top"><div class="dateline">Entrée-Libre — page mise à jour le 4 septembre 2026</div><h1>La charte d&#x27;Entrée Libre</h1><div class="chapeau"><p>Une revue de presse vit du travail des autres. Cette charte dit ce que nous nous engageons à faire pour que ce travail y gagne au lieu d'y perdre — envers les rédactions d'abord, envers les lecteurs ensuite.</p></div></header>
 <section class="page-fixe">
 <h3>Envers les rédactions</h3>
-<p>Nous ne reproduisons ni vos textes, ni vos amorces, ni vos titres, ni vos photographies. Chaque sujet est une phrase, deux au plus, écrite dans nos mots, et les faits y sont attribués à ceux qui les ont établis.</p>
+<p>Nous ne reproduisons ni vos textes, ni vos amorces, ni vos titres, ni vos citations, ni vos photographies. Chaque sujet est une seule phrase, écrite dans nos mots, qui donne le fait et invite à lire votre article ; les faits y sont attribués à ceux qui les ont établis.</p>
 <p>Chaque sujet nomme les rédactions qui l'ont établi et mène, par un bouton visible, à l'article d'origine — en lien direct, sans page intermédiaire, sans balise qui priverait vos pages de la valeur du lien. Le nom du journaliste y figure dès que nous le connaissons.</p>
 <p>Nous concevons le site pour que le lecteur aille chez vous : le résumé ne suffit jamais, les autres rédactions qui ont couvert le même sujet sont proposées, et ce qu'il reste à lire est affiché.</p>
 <p>Une rédaction qui ne veut pas être reprise le dit à <a href="mailto:contact@entreelibre.ca">contact@entreelibre.ca</a> ; nous cessons dans les 48 heures ouvrables, sans discussion et sans justification à fournir. Une rédaction qui veut convenir de conditions — quels contenus, quelle forme, quelle contrepartie — trouve porte ouverte à la même adresse.</p>
@@ -396,6 +396,8 @@ function srcAppliquer(){
   var lu=!!v[srcCle(a.getAttribute('href'))];
   a.classList.toggle('src-lu',lu);
   act.textContent=lu?'✓ Déjà ouvert — relire →':act.dataset.neuf;});
+ document.querySelectorAll('a.ls-lien[href]').forEach(function(a){
+  a.classList.toggle('src-lu',!!v[srcCle(a.getAttribute('href'))]);});
  srcProgres();}
 /* Le tour des sources (4 sept. 2026) : combien d'articles d'origine ont ete
    ouverts sur ce sujet, et lequel ouvrir ensuite. Le resume ne suffit jamais ;
@@ -419,17 +421,35 @@ function srcProgres(){
    ouvre aussi l'article sans passer par `click`. */
 function srcClic(e){
  var n=(e.target&&e.target.nodeType===1)?e.target:(e.target&&e.target.parentElement);
- var a=n&&n.closest?n.closest('a.src-btn, a.src-suivant'):null;
- if(!a)return; srcMarquer(a.getAttribute('href')); srcAppliquer(); srcCompter(a);}
-/* Le compte des lecteurs envoyes aux medias (4 sept. 2026) : le domaine de
-   l'article et le permalien du sujet, rien d'autre, par sendBeacon, vers le
-   Worker de COMPTEUR (outils/compteur/). Aucun temoin, aucune adresse, rien
-   qui identifie le lecteur. Inerte quand COMPTEUR est vide. */
+ var a=n&&n.closest?n.closest('a[href]'):null;
+ if(!a)return;
+ if(a.matches('a.src-btn, a.src-suivant, a.ls-lien')){srcMarquer(a.getAttribute('href'));srcAppliquer();}
+ srcCompter(a);}
+/* Le compte des lecteurs envoyes ailleurs (4 sept. 2026 ; etendu le soir
+   meme a TOUS les liens sortants, plus seulement aux boutons de source) :
+   le domaine de destination et le permalien du sujet — ou, hors d'un sujet,
+   le nom de la page (« page-index », « page-sources ») —, rien d'autre, par
+   sendBeacon, vers le Worker de COMPTEUR (outils/compteur/). Aucun temoin,
+   aucune adresse, rien qui identifie le lecteur. Inerte quand COMPTEUR est
+   vide. Un lien interne (meme domaine, avec ou sans www), un mailto: ou une
+   ancre ne comptent pas ; le Worker ne garde que [a-z0-9-] dans le sujet,
+   d'ou le nettoyage ici plutot qu'un clic perdu la-bas. */
+function srcSortant(a){
+ try{var u=new URL(a.getAttribute('href'),location.href);
+  if(u.protocol!=='http:'&&u.protocol!=='https:')return '';
+  var h=u.hostname.toLowerCase().replace(/^www\./,'');
+  if(!h||h===location.hostname.toLowerCase().replace(/^www\./,''))return '';
+  return h;}catch(e){return '';}}
+function srcNettoyer(t){
+ return String(t||'').toLowerCase().replace(/[^a-z0-9-]+/g,'-').replace(/^-+|-+$/g,'').slice(0,140);}
+function srcPage(){
+ var p=srcNettoyer((location.pathname.split('/').pop()||'').replace(/\.html?$/,''));
+ return srcNettoyer('page-'+(p||'index'));}
 function srcCompter(a){
  if(!window.COMPTEUR||!navigator.sendBeacon)return;
- try{var art=a.closest('article[data-slug]');
-  var slug=(art&&art.dataset.slug)||(window.VU&&window.VU.slug)||'';
-  var dom=new URL(a.getAttribute('href'),location.href).hostname.replace(/^www\./,'');
+ try{var dom=srcSortant(a);if(!dom)return;
+  var art=a.closest('article[data-slug]');
+  var slug=srcNettoyer((art&&art.dataset.slug)||(window.VU&&window.VU.slug)||'')||srcPage();
   navigator.sendBeacon(window.COMPTEUR,JSON.stringify({d:dom,s:slug,t:Date.now()}));}catch(e){}}
 document.addEventListener('click',srcClic);
 document.addEventListener('auxclick',srcClic);
