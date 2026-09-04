@@ -1604,6 +1604,28 @@
      "url": "https://www.fm93.com/audio/799951/pspp-sur-l-ingerence-je-n-aime-pas-ca-pantoute-dit-jonathan-trudeau",
      "date": "2026-09-04T16:32-04:00",
      "auteur": "Pierre Blais"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10753135/plus-grande-ingerence-federal-depuis-1995-elections-quebec-2026",
+     "date": "2026-09-04T19:00-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-9-ottawa-se-met-au-service-de-la-caq-dit-pspp/",
+     "date": "2026-09-04T19:00-04:00",
+     "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/psppp-interference-allegations-quebec-9.7333292",
+     "date": "2026-09-04T19:00-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006736/frechette-plamondon-ecorchent-viabilite-quebec-souverain",
+     "date": "2026-09-04T19:00-04:00",
+     "auteur": "Sébastien Tanguay, Isabelle Porter, François Carabin, Léo Mercier-Ross et Marie-Michèle Sioui"
     }
    ],
    "photo": "",
@@ -1739,6 +1761,18 @@
      "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
      "date": "2026-09-04T16:32-04:00",
      "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-9-charles-milliard-promet-60m-par-annee-pour-atteindre-litinerance-zero/",
+     "date": "2026-09-04T19:00-04:00",
+     "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "Monsaintroch",
+     "url": "https://monsaintroch.com/2026/le-parti-liberal-du-quebec-promet-60-m-de-plus-par-annee-pour-lutter-contre-litinerance/",
+     "date": "2026-09-04T19:00-04:00",
+     "auteur": "Christophe Gagnon-Fortin"
     }
    ],
    "permalien": "le-chef-liberal-charles-milliard-promet-60-millions-de-plus-6cff3a",
@@ -2083,6 +2117,180 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "christine-frechette-promet-un-bulletin-de-vote-bilingue-elec-e26690"
+  },
+  {
+   "titre": "Le PQ dit vouloir une politique d'immigration plus nuancée pour les PME",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec (Saguenay–Lac-Saint-Jean)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+   "resume": "St-Pierre Plamondon assouplit le ton, mais reste flou sur le sort des multinationales.",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "le-pq-dit-vouloir-une-politique-d-immigration-plus-nuancee-p-0aeb3a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "le-pq-dit-vouloir-une-politique-d-immigration-plus-nuancee-p-0aeb3a"
+  },
+  {
+   "titre": "Le Parti québécois lance sa campagne devant plus de 2000 militants à Québec",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lavoixdelest.ca/chroniques/valerie-gaudreau/2026/09/04/dungava-a-limoilou-les-militants-pequistes-convergent-vers-quebec-LYTICUUTYJA4LBGP7D2ZWBJ6RU/",
+   "resume": "Reste à voir si la remontée récente de la CAQ dans les sondages assombrit la soirée péquiste.",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/chroniques/valerie-gaudreau/2026/09/04/dungava-a-limoilou-les-militants-pequistes-convergent-vers-quebec-LYTICUUTYJA4LBGP7D2ZWBJ6RU/",
+     "date": "2026-09-04T19:15-04:00",
+     "auteur": "Valérie Gaudreau"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "le-parti-quebecois-lance-sa-campagne-devant-plus-de-2000-mil-6598ae",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "le-parti-quebecois-lance-sa-campagne-devant-plus-de-2000-mil-6598ae"
+  },
+  {
+   "titre": "Plus de 40 acteurs forestiers réclament un pacte électoral pour le bois québécois",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280825/election-industrie-forestiere-tarifs-dumping",
+   "resume": "Frappée par les tarifs américains et le dumping asiatique, la filière presse les partis d'en faire une priorité.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280825/election-industrie-forestiere-tarifs-dumping",
+     "date": "2026-09-04T17:18-04:00",
+     "auteur": "Véronique Duval"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "plus-de-40-acteurs-forestiers-reclament-un-pacte-electoral-p-3c7693",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "plus-de-40-acteurs-forestiers-reclament-un-pacte-electoral-p-3c7693"
+  },
+  {
+   "titre": "En visite à Gatineau, Christine Fréchette évite de se prononcer sur l'avenir du tramway",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Le Droit",
+   "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/projet-de-tramway-christine-frechette-ne-sengage-pas-GTHIZ6ZZLNAPXKYVAAYX7AZF64/",
+   "resume": "Pendant que Québec attend l'analyse du dossier, le cégep et l'hôpital de la région réclament aussi leur tour.",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/projet-de-tramway-christine-frechette-ne-sengage-pas-GTHIZ6ZZLNAPXKYVAAYX7AZF64/",
+     "date": "2026-09-04T19:05-04:00",
+     "auteur": "Sarah-Jeanne Tremblay"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/education/2026/09/04/pas-de-cegep-pas-dhopital-loutaouais-simpatiente-77EN3KAQTJBAXORFMIYFAL4Y4I/",
+     "date": "2026-09-04T15:53-04:00",
+     "auteur": "Daniel LeBlanc"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "en-visite-a-gatineau-christine-frechette-evite-de-se-prononc-d70870",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "en-visite-a-gatineau-christine-frechette-evite-de-se-prononc-d70870"
+  },
+  {
+   "titre": "Québec solidaire promet de rémunérer tous les stages obligatoires aux études",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Saguenay (Saguenay–Lac-Saint-Jean)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/des-stages-obligatoires-remuneres-promet-quebec-solidaire-MNK7YJD3Q5G6JBSRSVMGJZ4GQI/",
+   "resume": "Un engagement chiffré à un demi-milliard, que plusieurs étudiants attendaient depuis longtemps selon la co-porte-parole solidaire.",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/des-stages-obligatoires-remuneres-promet-quebec-solidaire-MNK7YJD3Q5G6JBSRSVMGJZ4GQI/",
+     "date": "2026-09-04T19:18-04:00",
+     "auteur": "Pierre-Olivier Poulin"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "quebec-solidaire-promet-de-remunerer-tous-les-stages-obligat-29ef69",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "quebec-solidaire-promet-de-remunerer-tous-les-stages-obligat-29ef69"
+  },
+  {
+   "titre": "La CAQ trouve une nouvelle candidate dans Ungava après le retrait de Paul Dadie",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Ungava (Nord-du-Québec)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280784/election-quebec2026-amelie-bechard-caq-ungava",
+   "resume": "L'ingénieure forestière Amélie Béchard hérite d'une circonscription que son prédécesseur a quittée après des propos jugés embarrassants.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280784/election-quebec2026-amelie-bechard-caq-ungava",
+     "date": "2026-09-04T16:51-04:00",
+     "auteur": "Marc-André Landry"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "la-caq-trouve-une-nouvelle-candidate-dans-ungava-apres-le-re-7d73fe",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "la-caq-trouve-une-nouvelle-candidate-dans-ungava-apres-le-re-7d73fe"
   },
   {
    "titre": "La mort d'une adolescente dans un silo de Shawinigan vaut quatre recommandations au ministère de l'Environnement",
@@ -6191,10 +6399,10 @@
    "territoire": "Québec (Charlevoix–Côte-de-Beaupré)",
    "medias": "Le Journal de Québec",
    "url": "https://www.journaldequebec.com/2026/09/03/le-pequiste-francois-gariepy-se-confie-a-richard-martineau-sur-ses--propos-regrettables",
-   "resume": "Le candidat péquiste dans Charlevoix–Côte-de-Beaupré François Gariépy a reconnu en entrevue à QUB radio avoir tenu des « propos regrettables » envers l'animatrice Anne-Marie Withenshaw et s'est dit prêt à s'excuser s'il la rencontre ; il a aussi convenu que le mot « squaw », qu'il avait employé, ne convient pas, sans revenir sur sa critique des subventions aux artistes.\n\n**Mise à jour, 7h28** — La candidate conservatrice Caroline Simard qualifie François Gariépy d'« allié » du troisième lien, selon FM93.",
+   "resume": "Mise à jour, 19 h — Une chronique radio de juillet ressurgit, et le PQ accuse la CAQ de fouiller ses archives pour distraire.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-04T07:28+00:00",
+   "horodate": "2026-09-04T19:27-04:00",
    "sources": [
     {
      "media": "Le Journal de Québec",
@@ -6213,6 +6421,12 @@
      "url": "https://www.latribune.ca/chroniques/mickael-bergeron/2026/09/04/propos-controverses-distraction-ou-erreur-de-jugement-des-chefs-KED4HWR3ZJDLHPDEQDRKEXZPVQ/",
      "date": "2026-09-04T05:00-04:00",
      "auteur": "Mickaël Bergeron"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280724/francois-gariepy-trump-radio-x-charlevoix",
+     "date": "2026-09-04T16:30-04:00",
+     "auteur": "Jonathan Lavoie"
     }
    ],
    "permalien": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5",
