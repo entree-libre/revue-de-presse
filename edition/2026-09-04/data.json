@@ -1,6 +1,7 @@
 {
  "date": "2026-09-04",
  "volets": [
+  "continu",
   "economie-opinions",
   "elections",
   "hors-rss",
@@ -11,6 +12,420 @@
   "report"
  ],
  "articles": [
+  {
+   "titre": "Un drone russe touche le quartier général du SBU en plein Kyiv",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Le Figaro, BFM, franceinfo, Euronews",
+   "url": "https://www.lefigaro.fr/international/la-russie-frappe-en-plein-jour-le-siege-du-service-de-securite-ukrainien-le-reportage-de-notre-envoyee-speciale-a-kiev-20260904",
+   "resume": "Un drone russe a touché vendredi le quartier général du Service de sécurité ukrainien (SBU) en plein centre de Kyiv, endommageant le bureau de son chef par intérim et blessant plusieurs personnes, selon les autorités ukrainiennes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/la-russie-frappe-en-plein-jour-le-siege-du-service-de-securite-ukrainien-le-reportage-de-notre-envoyee-speciale-a-kiev-20260904",
+     "date": "2026-09-04T12:37-04:00",
+     "auteur": "Elisabeth Pierson"
+    },
+    {
+     "media": "BFM",
+     "url": "https://www.bfmtv.com/international/asie/russie/video-ukraine-le-siege-des-services-de-securite-touche-par-une-frappe-russe-dans-le-centre-de-kiev_VN-202609040714.html",
+     "date": "2026-09-04T11:37-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-siege-des-services-de-securite-ukrainiens-touche-par-une-frappe-russe-dans-le-centre-de-kiev_8177279.html",
+     "date": "2026-09-04T09:38-04:00"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://www.euronews.com/my-europe/2026/09/04/russian-drone-strikes-ukraine-security-service-headquarters-in-central-kyiv",
+     "date": "2026-09-04T09:51-04:00",
+     "auteur": "Sasha Vakulina"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-drone-russe-touche-le-quartier-general-du-sbu-en-plein-ky-7c7ebe",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "un-drone-russe-touche-le-quartier-general-du-sbu-en-plein-ky-7c7ebe"
+  },
+  {
+   "titre": "Washington relance sa médiation entre la Russie et l'Ukraine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "U.S. News & World Report, franceinfo",
+   "url": "https://www.usnews.com/news/world/articles/2026-09-04/trump-says-witkoff-kushner-heading-to-russia-ukraine-to-present-peace-proposal",
+   "resume": "Les émissaires américains Steve Witkoff et Jared Kushner doivent se rendre à Moscou puis à Kyiv dès ce week-end pour tenter de relancer les négociations en vue de mettre fin à la guerre, a annoncé le président Volodymyr Zelensky.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff%2C_May_6%2C_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Steve Witkoff",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "U.S. News & World Report",
+     "url": "https://www.usnews.com/news/world/articles/2026-09-04/trump-says-witkoff-kushner-heading-to-russia-ukraine-to-present-peace-proposal",
+     "date": "2026-09-04T15:03-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-propose-a-la-russie-un-arret-des-frappes-lors-des-visites-des-emissaires-de-donald-trump-a-moscou-et-kiev_8177756.html",
+     "date": "2026-09-04T13:28-04:00"
+    }
+   ],
+   "photo_auteur": "The White House",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Steve Witkoff",
+   "permalien": "washington-relance-sa-mediation-entre-la-russie-et-l-ukraine-d6ffa1",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "washington-relance-sa-mediation-entre-la-russie-et-l-ukraine-d6ffa1"
+  },
+  {
+   "titre": "La présidente du syndicat FIQ-Montérégie-Ouest destituée sur fond d'allégations de fraude",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Montérégie-Ouest (Montérégie)",
+   "medias": "Le Soleil de Châteauguay",
+   "url": "https://cybersoleil.com/allegation-de-fraude-contre-la-presidente-de-la-fiq-monteregie-ouest/",
+   "resume": "La présidente du syndicat des infirmières de la Montérégie-Ouest, Mélanie Gignac, a été démise de ses fonctions le 2 septembre après la découverte de problèmes dans la comptabilité du syndicat, que ses dirigeants qualifient d'irrégularités pouvant constituer une fraude.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil de Châteauguay",
+     "url": "https://cybersoleil.com/allegation-de-fraude-contre-la-presidente-de-la-fiq-monteregie-ouest/",
+     "date": "2026-09-04T13:43-04:00",
+     "auteur": "Éric Tremblay"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-presidente-du-syndicat-fiq-monteregie-ouest-destituee-sur-4a8f6e",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "la-presidente-du-syndicat-fiq-monteregie-ouest-destituee-sur-4a8f6e"
+  },
+  {
+   "titre": "La STM teste l'intelligence artificielle pour repérer les personnes qui flânent dans le métro",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Montréal",
+   "medias": "CBC, La Presse",
+   "url": "https://www.cbc.ca/news/canada/montreal/ai-stm-montreal-metro-surveillance-loitering-9.7332212?cmp=rss",
+   "resume": "La Société de transport de Montréal expérimente, dans deux stations de métro, un outil d'intelligence artificielle qui analyse les images de vidéosurveillance pour repérer plus vite les personnes qui s'attardent après la fermeture et prévenir les agents de la sécurité.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/ai-stm-montreal-metro-surveillance-loitering-9.7332212?cmp=rss",
+     "date": "2026-09-04T13:36-04:00",
+     "auteur": "Patricia Kozicka"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-04/metro-de-montreal/l-ia-pour-detecter-plus-rapidement-les-flaneurs.php",
+     "date": "2026-09-04T13:05-04:00",
+     "auteur": "Henri Ouellette-Vézina"
+    }
+   ],
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "la-stm-teste-l-intelligence-artificielle-pour-reperer-les-pe-094a24",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "la-stm-teste-l-intelligence-artificielle-pour-reperer-les-pe-094a24"
+  },
+  {
+   "titre": "Recul de 19 000 emplois au Québec en août",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Québecor, Les Affaires",
+   "url": "https://www.journaldemontreal.com/2026/09/04/le-quebec-perd-19-000-emplois-en-aout",
+   "resume": "En août, le marché du travail québécois a reculé de 19 000 emplois tandis que le taux de chômage est demeuré pratiquement inchangé, à 5,6 %, par rapport à juillet, selon Statistique Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/04/le-quebec-perd-19-000-emplois-en-aout",
+     "date": "2026-09-04T09:55-04:00",
+     "auteur": "David Descôteaux"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/opinions/le-marche-du-travail-montre-ses-premiers-veritables-signes-de-faiblesse/",
+     "date": "2026-09-04T12:35-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "recul-de-19-000-emplois-au-quebec-en-aout-6015b3",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "recul-de-19-000-emplois-au-quebec-en-aout-6015b3"
+  },
+  {
+   "titre": "Recul de 13 % des ventes de propriétés à Montréal en août",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/economie/1006658/ventes-residentielles-montreal-ont-chute-13-1-aout",
+   "resume": "Les ventes résidentielles ont reculé de 13,1 % à Montréal en août par rapport à l'an dernier, même si les prix ont continué d'augmenter dans toutes les catégories de propriétés, selon la Presse canadienne.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1822%2C_boulevard_de_Maisonneuve_Ouest_-_09.JPG/1280px-1822%2C_boulevard_de_Maisonneuve_Ouest_-_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Un immeuble résidentiel à Montréal.",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1006658/ventes-residentielles-montreal-ont-chute-13-1-aout",
+     "date": "2026-09-04T13:51-04:00",
+     "auteur": "La Presse canadienne"
+    }
+   ],
+   "image_auto": "aucune",
+   "photo_auteur": "Jeangagnon",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "recul-de-13-des-ventes-de-proprietes-a-montreal-en-aout-b77785",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "recul-de-13-des-ventes-de-proprietes-a-montreal-en-aout-b77785"
+  },
+  {
+   "titre": "Roland lance Melody Flip, un plugiciel de composition musicale par IA",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+   "resume": "Le fabricant Roland lance Melody Flip, un plugiciel pour stations de travail audionumériques qui génère mélodies, accords et rythmes à partir de courtes trames thématiques ou d'une chanson de référence, sans toutefois produire de chansons complètes avec voix comme le font ses concurrents.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+     "date": "2026-09-04T13:51-04:00",
+     "auteur": "Terrence O’Brien"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "roland-lance-melody-flip-un-plugiciel-de-composition-musical-480cff",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "roland-lance-melody-flip-un-plugiciel-de-composition-musical-480cff"
+  },
+  {
+   "titre": "Mort du cinéaste Tony Gatlif, chantre du cinéma rom, à 77 ans",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "Le Journal de Montréal, Le Monde",
+   "url": "https://www.tvanouvelles.ca/2026/09/04/deces-du-realisateur-francais-tony-gatlif-a-77-ans",
+   "resume": "Tony Gatlif, qui a consacré une grande partie de son œuvre au peuple rom notamment dans Gadjo Dilo et Latcho Drom, s'est éteint mercredi en Provence à l'âge de 77 ans.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tony_Gatlif.jpg/1280px-Tony_Gatlif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Tony Gatlif",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/deces-du-realisateur-francais-tony-gatlif-a-77-ans",
+     "date": "2026-09-04T13:13-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/disparitions/article/2026/09/04/tony-gatlif-cineaste-des-marges-et-heraut-de-la-musique-rom-est-mort_6765847_3382.html",
+     "date": "2026-09-04T13:30-04:00",
+     "auteur": "Thomas Sotinel"
+    }
+   ],
+   "photo_auteur": "Original uploader was Miyazma at tr.wikipedia",
+   "photo_licence": "CC BY 2.5",
+   "image_auto": "wikipedia-fr:Tony Gatlif",
+   "permalien": "mort-du-cineaste-tony-gatlif-chantre-du-cinema-rom-a-77-ans-df65fa",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "mort-du-cineaste-tony-gatlif-chantre-du-cinema-rom-a-77-ans-df65fa"
+  },
+  {
+   "titre": "726 patients hospitalisés faute d'hébergement en CHSLD",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "L'Écho de Laval",
+   "url": "https://www.chamblyexpress.ca/actualites/societe/673843/en-attente-dun-chsld-726-patients-occupent-des-lits-dhopitaux-au-quebec",
+   "resume": "Faute d'hébergement en CHSLD, 726 personnes occupaient un lit d'hôpital au Québec au début du mois d'août, un total à la hausse que le ministère de la Santé a transmis à La Presse Canadienne en vertu de la loi sur l'accès à l'information.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/H%C3%B4tel-Dieu_de_Montr%C3%A9al%2C_Montr%C3%A9al%2C_Qu%C3%A9bec_%2829955020002%29.jpg/1280px-H%C3%B4tel-Dieu_de_Montr%C3%A9al%2C_Montr%C3%A9al%2C_Qu%C3%A9bec_%2829955020002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'Hôtel-Dieu de Montréal, un hôpital du réseau de la santé québécois.",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "L'Écho de Laval",
+     "url": "https://www.chamblyexpress.ca/actualites/societe/673843/en-attente-dun-chsld-726-patients-occupent-des-lits-dhopitaux-au-quebec",
+     "date": "2026-09-03T12:00-04:00",
+     "auteur": "La Presse canadienne"
+    }
+   ],
+   "image_auto": "aucune",
+   "photo_auteur": "Ken Lund from Reno, Nevada, USA",
+   "photo_licence": "CC BY-SA 2.0",
+   "permalien": "726-patients-hospitalises-faute-d-hebergement-en-chsld-968a59",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "726-patients-hospitalises-faute-d-hebergement-en-chsld-968a59"
+  },
+  {
+   "titre": "La Banque du Canada dévoile un billet à l'effigie du roi Charles III",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "L'Écho de Laval",
+   "url": "https://www.chamblyexpress.ca/actualites/societe/673865/un-nouveau-billet-de-20-mettra-a-lhonneur-le-roi-charles",
+   "resume": "La Banque du Canada dévoile un billet de 20 dollars à l'effigie du roi Charles III, une première pour la monnaie canadienne, qui succède ainsi à Elizabeth II.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Charles III (roi du Royaume-Uni)",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "L'Écho de Laval",
+     "url": "https://www.chamblyexpress.ca/actualites/societe/673865/un-nouveau-billet-de-20-mettra-a-lhonneur-le-roi-charles",
+     "date": "2026-09-03T15:00-04:00",
+     "auteur": "La Presse Canadienne"
+    }
+   ],
+   "photo_auteur": "White House",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Charles III",
+   "permalien": "la-banque-du-canada-devoile-un-billet-a-l-effigie-du-roi-cha-c2a1a4",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "la-banque-du-canada-devoile-un-billet-a-l-effigie-du-roi-cha-c2a1a4"
+  },
+  {
+   "titre": "Le grand chef de la Nation innue réclame un corps policier autochtone après une arrestation violente",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Sheshatshiu (Terre-Neuve-et-Labrador)",
+   "medias": "APTN News, Radio-Canada",
+   "url": "https://www.aptnnews.ca/featured/grand-chief-calls-for-innu-police-force-after-violent-n-l-arrest/",
+   "resume": "Le grand chef de la Nation innue, Jodie Ashini, réclame la création d'un corps policier dirigé par les Premières Nations après la diffusion d'une vidéo montrant des agents de la GRC frapper et utiliser une arme paralysante contre un homme lors d'une arrestation à Sheshatshiu, au Labrador.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "APTN News",
+     "url": "https://www.aptnnews.ca/featured/grand-chief-calls-for-innu-police-force-after-violent-n-l-arrest/",
+     "date": "2026-09-04T14:35-04:00",
+     "auteur": "La Presse canadienne"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280644/grc-innu-labrador-video-police",
+     "date": "2026-09-04T12:29-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-grand-chef-de-la-nation-innue-reclame-un-corps-policier-a-6f5547",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "le-grand-chef-de-la-nation-innue-reclame-un-corps-policier-a-6f5547"
+  },
+  {
+   "titre": "Le Rogers Stadium de Toronto endommagé par un violent orage",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Toronto (Ontario)",
+   "medias": "Québecor, Radio-Canada",
+   "url": "https://www.tvanouvelles.ca/2026/09/04/en-images--le-rogers-stadium-victime-de-la-tempete-du-siecle-a-toronto",
+   "resume": "Une partie des gradins du Rogers Stadium à Toronto a été détruite en raison des violentes intempéries qui se sont abattues sur la ville mercredi, et l'organisateur du spectacle, Live Nation, n'a pas confirmé si le concert d'AC/DC prévu le 16 septembre pourra avoir lieu.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/en-images--le-rogers-stadium-victime-de-la-tempete-du-siecle-a-toronto",
+     "date": "2026-09-04T10:11-04:00",
+     "auteur": "Agence QMI"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280639/stade-rogers-toronto-securite-orage",
+     "date": "2026-09-04T12:32-04:00",
+     "auteur": "Michel Bolduc"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-rogers-stadium-de-toronto-endommage-par-un-violent-orage-d09081",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "le-rogers-stadium-de-toronto-endommage-par-un-violent-orage-d09081"
+  },
+  {
+   "titre": "Pierre Fortin plaide pour une stratégie nationale de l'IA en éducation",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-04/l-education-a-l-ere-de-l-ia/le-prochain-grand-chantier-du-quebec.php",
+   "resume": "L'économiste Pierre Fortin et Jonathan Perrier estiment que le Québec doit se doter d'une stratégie nationale sur l'intelligence artificielle en éducation, au moment où l'idée d'un grand forum public sur l'école gagne du terrain.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-04/l-education-a-l-ere-de-l-ia/le-prochain-grand-chantier-du-quebec.php",
+     "date": "2026-09-04T13:00-04:00",
+     "auteur": "Pierre Fortin et Jonathan Perrier"
+    }
+   ],
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
+   "permalien": "pierre-fortin-plaide-pour-une-strategie-nationale-de-l-ia-en-cd5aaa",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "pierre-fortin-plaide-pour-une-strategie-nationale-de-l-ia-en-cd5aaa"
+  },
+  {
+   "titre": "Le télescope spatial Roman doit son existence à des surplus de l'espionnage américain",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "Agence Science-Presse",
+   "url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/2026/09/01/telescope-spatial-ne-espionnage",
+   "resume": "Le télescope spatial Nancy Grace Roman, lancé cette semaine par la NASA pour étudier l'énergie noire, doit son origine à deux télescopes espions inutilisés que le renseignement américain a cédés à l'agence spatiale dans les années 1990, rapporte l'Agence Science-Presse.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ROMANNewModelV8RomanStill00049.png/1280px-ROMANNewModelV8RomanStill00049.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Nancy-Grace-Roman (télescope spatial)",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Agence Science-Presse",
+     "url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/2026/09/01/telescope-spatial-ne-espionnage",
+     "date": "2026-09-04T14:14-04:00",
+     "auteur": "Pascal Lapointe"
+    }
+   ],
+   "photo_auteur": "NASA",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Nancy Grace Roman",
+   "permalien": "le-telescope-spatial-roman-doit-son-existence-a-des-surplus-33e17b",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-04.json",
+   "_slug": "le-telescope-spatial-roman-doit-son-existence-a-des-surplus-33e17b"
+  },
   {
    "titre": "La Banque du Canada maintient son taux directeur à 2,25 %",
    "cahier": "canada",
@@ -62,7 +477,8 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/affaires/economie/2026-09-04/aout/le-taux-de-chomage-demeure-inchange-au-canada-et-au-quebec.php",
-     "date": "2026-09-04T08:38-04:00"
+     "date": "2026-09-04T08:38-04:00",
+     "auteur": "Hélène Baril"
     }
    ],
    "permalien": "l-emploi-recule-de-42-000-postes-au-canada-en-aout-le-taux-d-44f6a8",
@@ -86,12 +502,14 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/economie/1006451/canada-affiche-excedent-commercial-769-millions-juillet",
-     "date": "2026-09-03T19:33-04:00"
+     "date": "2026-09-03T19:33-04:00",
+     "auteur": "La Presse Canadienne"
     },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/affaires/economie/2026-09-03/le-canada-affiche-un-excedent-commercial-de-769-millions-en-juillet.php",
-     "date": "2026-09-03T14:32-04:00"
+     "date": "2026-09-03T14:32-04:00",
+     "auteur": "La Presse Canadienne"
     }
    ],
    "permalien": "le-canada-affiche-un-excedent-commercial-de-769-millions-en-d87903",
@@ -115,12 +533,14 @@
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/03/richelieu-poursuit-son-expansion-aux-etats-unis-avec-une-importante-acquisition",
-     "date": "2026-09-03T08:15-04:00"
+     "date": "2026-09-03T08:15-04:00",
+     "auteur": "Julien McEvoy"
     },
     {
      "media": "InfoBref",
      "url": "https://infobref.com/richelieu-penrod-2026-09/",
-     "date": "2026-09-04T00:36-04:00"
+     "date": "2026-09-04T00:36-04:00",
+     "auteur": "Félix Côté"
     }
    ],
    "permalien": "quincaillerie-richelieu-achete-la-division-quincaillerie-de-de75b7",
@@ -169,7 +589,8 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/economie/1005782/metro-fermera-magasin-fantome-montreal",
-     "date": "2026-09-03T09:49-04:00"
+     "date": "2026-09-03T09:49-04:00",
+     "auteur": "Stéphane Rolland"
     }
    ],
    "permalien": "metro-fermera-son-magasin-fantome-de-commandes-en-ligne-a-mo-65bb71",
@@ -193,7 +614,8 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/economie/1005764/caisse-investit-1-76-milliard-tours-cellulaires-inde",
-     "date": "2026-09-02T12:49-04:00"
+     "date": "2026-09-02T12:49-04:00",
+     "auteur": "Stéphane Rolland"
     }
    ],
    "permalien": "la-caisse-investit-1-76-milliard-dans-des-tours-de-telecommu-c47bf0",
@@ -218,7 +640,8 @@
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/03/les-cols-bleus-de-montreal-en-greve-pendant-les-mondiaux-de-cyclisme",
-     "date": "2026-09-03T06:48-04:00"
+     "date": "2026-09-03T06:48-04:00",
+     "auteur": "Agence QMI"
     }
    ],
    "permalien": "les-cols-bleus-de-montreal-deposent-un-avis-de-greve-de-sept-367dad",
@@ -243,12 +666,14 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/opinion/editoriaux/1005998/abolir-sante-quebec-lubie",
-     "date": "2026-09-03T00:00-04:00"
+     "date": "2026-09-03T00:00-04:00",
+     "auteur": "Marie-Andrée Chouinard"
     },
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/03/abolir-ou-non-sante-quebec-et-si-le-veritable-debat-portait-sur-les-usagers-du-reseau",
-     "date": "2026-09-03T11:04-04:00"
+     "date": "2026-09-03T11:04-04:00",
+     "auteur": "Sylvie Tremblay"
     }
    ],
    "permalien": "abolir-sante-quebec-un-debat-entre-structure-et-usagers-ed74ca",
@@ -272,7 +697,8 @@
     {
      "media": "IRIS",
      "url": "https://iris-recherche.qc.ca/blogue/travail-et-emploi/incitation-emploi/",
-     "date": "2026-09-04T00:00-04:00"
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Pierre Tircher"
     }
    ],
    "permalien": "iris-les-reformes-quebecoises-poussent-les-jeunes-au-travail-f2fe9d",
@@ -296,7 +722,8 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-03/finances-publiques/attaquons-nous-aux-echappatoires-fiscales-avant-de-couper.php",
-     "date": "2026-09-03T15:00-04:00"
+     "date": "2026-09-03T15:00-04:00",
+     "auteur": "Émile Brassard"
     }
    ],
    "permalien": "une-coalition-syndicale-reclame-la-fin-des-echappatoires-fis-5465e7",
@@ -344,7 +771,8 @@
     {
      "media": "FM93",
      "url": "https://www.fm93.com/audio/798690/le-parti-conservateur-ouvre-grand-la-porte-aux-gaz-de-schiste",
-     "date": "2026-09-04T03:28-04:00"
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Samuel Bédard"
     }
    ],
    "permalien": "eric-duhaime-promet-6000-emplois-en-ouvrant-la-porte-aux-gaz-db8368",
@@ -370,7 +798,8 @@
     {
      "media": "FM93",
      "url": "https://www.fm93.com/nouvelles/798518/le-pq-blame-la-caq-pour-le-declin-du-francais",
-     "date": "2026-09-04T03:28-04:00"
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Jacques Martin"
     }
    ],
    "permalien": "le-pq-blame-la-caq-pour-le-declin-du-francais-pspp-evoque-l-a5519f",
@@ -394,7 +823,8 @@
     {
      "media": "FM93",
      "url": "https://www.fm93.com/audio/799045/1000-de-plus-pour-les-familles-quebecoises-en-2027",
-     "date": "2026-09-04T03:28-04:00"
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Pierre Blais"
     }
    ],
    "permalien": "la-caq-promet-1000-de-plus-aux-familles-quebecoises-en-2027-90a607",
@@ -418,7 +848,8 @@
     {
      "media": "FM93",
      "url": "https://www.fm93.com/nouvelles/798514/non-aux-maisons-des-aines-sous-leur-forme-actuelle-dit-charles-milliard",
-     "date": "2026-09-04T03:28-04:00"
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Félix-Antoine Bétil"
     }
    ],
    "permalien": "charles-milliard-rejette-les-maisons-des-aines-sous-leur-for-6ea465",
@@ -444,12 +875,14 @@
     {
      "media": "FM93",
      "url": "https://www.fm93.com/nouvelles/798466/les-trois-phases-du-tramway-et-aucun-troisieme-lien-pour-quebec-promet-qs",
-     "date": "2026-09-04T03:28-04:00"
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Félix-Antoine Bétil"
     },
     {
      "media": "FM93",
      "url": "https://www.fm93.com/audio/799032/congestion-en-banlieue-de-quebec-les-visions-opposees-du-pcq-et-de-qs",
-     "date": "2026-09-04T03:28-04:00"
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Félix-Antoine Bétil"
     }
    ],
    "permalien": "transport-a-quebec-quebec-solidaire-promet-le-tramway-sans-t-d1bed3",
@@ -473,7 +906,8 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1006349/partis-politiques-quebecois-pas-encore-prets-montrer-dents-face-meta",
-     "date": "2026-09-04T03:28-04:00"
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Stéphanie Marin"
     }
    ],
    "permalien": "les-partis-quebecois-pas-presses-de-poursuivre-meta-pour-la-e24004",
@@ -497,7 +931,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280522/candidat-pcq-blainville-pascal-quevillon",
-     "date": "2026-09-04T04:00-04:00"
+     "date": "2026-09-04T04:00-04:00",
+     "auteur": "Jérôme Labbé"
     }
    ],
    "permalien": "l-ex-maire-d-oka-pascal-quevillon-recale-par-le-pq-sera-cand-e3b857",
@@ -522,7 +957,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280520/aines-chefs-retraites-caq-fadoq-elections",
-     "date": "2026-09-04T04:00-04:00"
+     "date": "2026-09-04T04:00-04:00",
+     "auteur": "François-Alexis Favreau"
     },
     {
      "media": "Coalition avenir Québec",
@@ -551,32 +987,38 @@
     {
      "media": "Le Soleil",
      "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
-     "date": "2026-09-04T04:00-04:00"
+     "date": "2026-09-04T04:00-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "La Tribune",
      "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
-     "date": "2026-09-04T04:00-04:00"
+     "date": "2026-09-04T04:00-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "Le Nouvelliste",
      "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
-     "date": "2026-09-04T04:00-04:00"
+     "date": "2026-09-04T04:00-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "Le Droit",
      "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
-     "date": "2026-09-04T04:00-04:00"
+     "date": "2026-09-04T04:00-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "Le Quotidien",
      "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
-     "date": "2026-09-04T04:00-04:00"
+     "date": "2026-09-04T04:00-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "La Voix de l'Est",
      "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/on-est-en-train-de-denaturer-le-rqap-HNTYGEG45JGRZGRGVT4GWL2CKI/",
-     "date": "2026-09-04T04:00-04:00"
+     "date": "2026-09-04T04:00-04:00",
+     "auteur": "Rémi Léonard"
     }
    ],
    "permalien": "le-transfert-de-prestations-du-rqap-a-des-grands-parents-pro-88e741",
@@ -624,7 +1066,8 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/vu-lu-verifie/les-ecoles-debordent-elles-a-cause-de-l-immigration.php",
-     "date": "2026-09-04T05:00-04:00"
+     "date": "2026-09-04T05:00-04:00",
+     "auteur": "Suzanne Colpron"
     }
    ],
    "permalien": "un-exercice-de-verification-des-faits-nuance-l-accusation-de-5cf2d5",
@@ -648,7 +1091,8 @@
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/799540/l-ecole-a-un-role-a-jouer-en-inculquant-aux-eleves-la-valeur-de-la-lecture",
-     "date": "2026-09-03T08:43-04:00"
+     "date": "2026-09-03T08:43-04:00",
+     "auteur": "Larry Dufresne et Alexandre Lebrun"
     }
    ],
    "permalien": "une-professeure-juge-la-promesse-pequiste-de-lectures-obliga-961fe3",
@@ -693,12 +1137,14 @@
     {
      "media": "Monsaintsauveur",
      "url": "https://monsaintsauveur.com/2026/brigitte-martin-veut-passer-de-lombre-a-lavant-scene-dans-taschereau/",
-     "date": "2026-09-04T07:25-04:00"
+     "date": "2026-09-04T07:25-04:00",
+     "auteur": "Christophe Gagnon-Fortin"
     },
     {
      "media": "Monsaintroch",
      "url": "https://monsaintroch.com/2026/brigitte-martin-veut-passer-de-lombre-a-lavant-scene-dans-taschereau/",
-     "date": "2026-09-04T07:25-04:00"
+     "date": "2026-09-04T07:25-04:00",
+     "auteur": "Christophe Gagnon-Fortin"
     }
    ],
    "photo": "",
@@ -721,7 +1167,8 @@
     {
      "media": "Le Charlevoisien",
      "url": "https://www.lecharlevoisien.com/2026/09/04/traverse-reseau-cellulaire-et-foret-kariane-bourassa-defend-ses-priorites-pour-charlevoix/",
-     "date": "2026-09-04T07:25-04:00"
+     "date": "2026-09-04T07:25-04:00",
+     "auteur": "Félix Côté"
     }
    ],
    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/69/Kariane_Bourassa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -747,7 +1194,8 @@
     {
      "media": "Pivot",
      "url": "https://pivot.quebec/2026/09/04/elections-quelle-place-pour-lia-au-quebec/",
-     "date": "2026-09-04T07:25-04:00"
+     "date": "2026-09-04T07:25-04:00",
+     "auteur": "Francis Hébert-Bernier"
     }
    ],
    "photo": "",
@@ -770,7 +1218,8 @@
     {
      "media": "Infodimanche",
      "url": "https://www.infodimanche.com/elections-quebec-2026/elections-la-danse-electorale-bat-son-plein/",
-     "date": "2026-09-04T07:25-04:00"
+     "date": "2026-09-04T07:25-04:00",
+     "auteur": "François Drouin"
     }
    ],
    "photo": "",
@@ -793,7 +1242,8 @@
     {
      "media": "Le Courrier du Sud",
      "url": "https://lecourrierdusud.ca/candidats-de-la-caq-un-bilan-a-defendre/",
-     "date": "2026-09-04T07:25-04:00"
+     "date": "2026-09-04T07:25-04:00",
+     "auteur": "Ali Dostie"
     }
    ],
    "photo": "",
@@ -816,7 +1266,8 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1006565/conservateurs-veulent-troisieme-lien-imparfait-arreter-tourner-rond",
-     "date": "2026-09-04T10:16-04:00"
+     "date": "2026-09-04T10:16-04:00",
+     "auteur": "Sébastien Tanguay"
     },
     {
      "media": "Les Affaires",
@@ -826,32 +1277,38 @@
     {
      "media": "Le Soleil",
      "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
-     "date": "2026-09-04T09:40-04:00"
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
     },
     {
      "media": "La Tribune",
      "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
-     "date": "2026-09-04T09:40-04:00"
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
     },
     {
      "media": "Le Droit",
      "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
-     "date": "2026-09-04T09:40-04:00"
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
     },
     {
      "media": "Le Nouvelliste",
      "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
-     "date": "2026-09-04T09:40-04:00"
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
     },
     {
      "media": "Le Quotidien",
      "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
-     "date": "2026-09-04T09:40-04:00"
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
     },
     {
      "media": "La Voix de l'Est",
      "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
-     "date": "2026-09-04T09:40-04:00"
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
     },
     {
      "media": "Radio-Canada",
@@ -879,7 +1336,8 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/caq/moins-de-normes-pour-construire-plus-vite.php",
-     "date": "2026-09-04T09:00-04:00"
+     "date": "2026-09-04T09:00-04:00",
+     "auteur": "Tommy Chouinard"
     },
     {
      "media": "Les Affaires",
@@ -889,7 +1347,8 @@
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Agence QMI"
     },
     {
      "media": "Coops de l'information",
@@ -918,12 +1377,14 @@
     {
      "media": "Le Manic",
      "url": "https://www.lemanic.ca/2026/09/04/elections-2026-dans-rene-levesque-odette-lavigne-severe-face-au-bilan-de-la-caq/",
-     "date": "2026-09-04T09:23-04:00"
+     "date": "2026-09-04T09:23-04:00",
+     "auteur": "Roseline Pelletier"
     },
     {
      "media": "Le Haute-Côte-Nord",
      "url": "https://www.journalhcn.com/2026/09/04/elections-2026-dans-rene-levesque-odette-lavigne-severe-face-au-bilan-de-la-caq/",
-     "date": "2026-09-04T09:23-04:00"
+     "date": "2026-09-04T09:23-04:00",
+     "auteur": "Roseline Pelletier"
     }
    ],
    "photo": "",
@@ -946,12 +1407,14 @@
     {
      "media": "Le Manic",
      "url": "https://www.lemanic.ca/2026/09/04/elections-2026-dans-rene-levesque-le-candidat-solidaire-veut-sattaquer-a-la-crise-du-logement/",
-     "date": "2026-09-04T09:37-04:00"
+     "date": "2026-09-04T09:37-04:00",
+     "auteur": "Morgane Busson"
     },
     {
      "media": "Le Haute-Côte-Nord",
      "url": "https://www.journalhcn.com/2026/09/04/elections-2026-dans-rene-levesque-le-candidat-solidaire-veut-sattaquer-a-la-crise-du-logement/",
-     "date": "2026-09-04T09:37-04:00"
+     "date": "2026-09-04T09:37-04:00",
+     "auteur": "Morgane Busson"
     }
    ],
    "photo": "",
@@ -974,47 +1437,56 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1006577/qs-veut-doubler-budget-soutien-creation-artistique-filet-social-artistes",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Léo Mercier-Ross"
     },
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Agence QMI"
     },
     {
      "media": "LaPresse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/filet-social-pour-artistes/quebec-solidaire-ajouterait-un-demi-milliard-en-culture.php",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "William Thériault"
     },
     {
      "media": "Le Soleil",
      "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "La Tribune",
      "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "Le Quotidien",
      "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "Le Droit",
      "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "Le Nouvelliste",
      "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "La Voix de l'Est",
      "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Rémi Léonard"
     },
     {
      "media": "Les Affaires",
@@ -1042,27 +1514,32 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1006574/pspp-inquiet-etre-face-plus-grande-ingerence-federal-depuis-1995",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "François Carabin"
     },
     {
      "media": "LaPresse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/relation-quebec-ottawa/la-plus-grande-ingerence-du-federal-depuis-1995-s-inquiete-paul-st-pierre-plamondon.php",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Fanny Lévesque"
     },
     {
      "media": "Québecor",
      "url": "https://www.journaldequebec.com/2026/09/04/le-pq-reclame-une-enquete-du-dgeq-sur-le-financement-du-camp-du-non",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Nicolas Lachance"
     },
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Agence QMI"
     },
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280678/influence-federal-st-pierre-plamondon-pq",
-     "date": "2026-09-04T14:23-04:00"
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Jean-François Thériault"
     }
    ],
    "photo": "",
@@ -1085,12 +1562,14 @@
     {
      "media": "Le Manic",
      "url": "https://www.lemanic.ca/2026/09/04/elections-2026-dans-rene-levesque-kevin-grenier-sajoute-a-la-liste-des-candidats/",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Karianne Nepton-Philippe"
     },
     {
      "media": "Le Nord-Côtier",
      "url": "https://www.journalhcn.com/2026/09/04/elections-2026-dans-rene-levesque-kevin-grenier-sajoute-a-la-liste-des-candidats/",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Karianne Nepton-Philippe"
     }
    ],
    "photo": "",
@@ -1113,12 +1592,14 @@
     {
      "media": "LaPresse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/frechette-doute-que-l-independance-soit-viable-financierement.php",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Tommy Chouinard"
     },
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
-     "date": "2026-09-04T12:28-04:00"
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Agence QMI"
     }
    ],
    "photo": "",
@@ -1193,7 +1674,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280665/elections-rimouski-rdl-mitis-cote",
-     "date": "2026-09-04T14:23-04:00"
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Laurence Gallant"
     }
    ],
    "permalien": "quebec-solidaire-complete-aussi-son-equipe-de-candidats-au-b-450809",
@@ -1242,7 +1724,8 @@
     {
      "media": "24 heures",
      "url": "https://www.24heures.ca/2026/09/04/les-pancartes-electorales-sont-elles-vraiment-aussi-polluantes-que-les-fourchettes-et-les-pailles-en-plastique",
-     "date": "2026-09-04T14:23-04:00"
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Geneviève Abran"
     }
    ],
    "permalien": "un-restaurateur-denonce-l-ironie-environnementale-des-pancar-82fa7c",
@@ -1297,27 +1780,32 @@
     {
      "media": "Le Droit",
      "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
-     "date": "2026-09-04T14:23-04:00"
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Patricia Rainville"
     },
     {
      "media": "Le Soleil",
      "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
-     "date": "2026-09-04T14:23-04:00"
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Patricia Rainville"
     },
     {
      "media": "La Tribune",
      "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
-     "date": "2026-09-04T14:23-04:00"
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Patricia Rainville"
     },
     {
      "media": "Le Nouvelliste",
      "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
-     "date": "2026-09-04T14:23-04:00"
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Patricia Rainville"
     },
     {
      "media": "La Voix de l'Est",
      "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
-     "date": "2026-09-04T14:23-04:00"
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Patricia Rainville"
     }
    ],
    "permalien": "la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-aa18ec",
@@ -1370,7 +1858,8 @@
     {
      "media": "CTV News Montréal",
      "url": "https://www.ctvnews.ca/montreal/article/montreal-to-appeal-van-horne-homeless-encampment/",
-     "date": "2026-09-04T10:13-04:00"
+     "date": "2026-09-04T10:13-04:00",
+     "auteur": "Robin Della Corte"
     }
    ],
    "permalien": "montreal-porte-en-appel-le-jugement-qui-l-empeche-de-demante-347fc1",
@@ -1394,7 +1883,8 @@
     {
      "media": "The Suburban",
      "url": "https://www.thesuburban.com/news/city_news/appeals-court-orders-montreal-to-refund-saint-laurent-project-developers/article_3397a9b2-03cb-4d44-b86c-cfce4753a349.html",
-     "date": "2026-09-02T09:00-04:00"
+     "date": "2026-09-02T09:00-04:00",
+     "auteur": "Joel Goldenberg"
     }
    ],
    "permalien": "la-cour-d-appel-ordonne-a-montreal-de-rembourser-1-5-million-b0173a",
@@ -1418,7 +1908,8 @@
     {
      "media": "The Suburban",
      "url": "https://www.thesuburban.com/news/dorval-residents-press-for-answers-over-shutdown-of-airport-air-quality-station/article_5ba243a0-c105-4720-912c-77b442d73a3e.html",
-     "date": "2026-09-04T10:13-04:00"
+     "date": "2026-09-04T10:13-04:00",
+     "auteur": "Jeremy Zafran"
     }
    ],
    "permalien": "la-station-qui-mesure-les-particules-ultrafines-de-l-aeropor-f2d7a2",
@@ -1442,7 +1933,8 @@
     {
      "media": "CTV News Montréal",
      "url": "https://www.ctvnews.ca/montreal/article/city-opposes-release-of-name-of-longueuil-police-officer-who-shot-and-killed-teenager/",
-     "date": "2026-09-04T10:13-04:00"
+     "date": "2026-09-04T10:13-04:00",
+     "auteur": "Joe Lofaro"
     }
    ],
    "permalien": "longueuil-veut-empecher-la-diffusion-du-nom-du-policier-qui-6e86c6",
@@ -1466,7 +1958,8 @@
     {
      "media": "CTV News Montréal",
      "url": "https://www.ctvnews.ca/montreal/article/cbsa-arrests-traveller-with-3d-printed-weapons-at-quebec-border-crossing/",
-     "date": "2026-09-04T10:13-04:00"
+     "date": "2026-09-04T10:13-04:00",
+     "auteur": "Joe Lofaro"
     }
    ],
    "permalien": "des-armes-de-fabrication-artisanale-saisies-dans-une-remorqu-065fbf",
@@ -1514,7 +2007,8 @@
     {
      "media": "The Suburban",
      "url": "https://www.thesuburban.com/news/city_news/housing-groups-have-doubts-about-the-namur-hippodrome-sector-project/article_76530e7a-54e9-4576-aa57-325a2d10824c.html",
-     "date": "2026-09-04T10:13-04:00"
+     "date": "2026-09-04T10:13-04:00",
+     "auteur": "Dan Laxer"
     }
    ],
    "permalien": "les-organismes-de-cote-des-neiges-doutent-des-garanties-d-ab-615c1f",
@@ -1538,7 +2032,8 @@
     {
      "media": "Hebdo Rive Nord",
      "url": "https://www.hebdorivenord.com/article/actualites/les-residents-demandent-de-laide-2/",
-     "date": "2026-09-04T10:13-04:00"
+     "date": "2026-09-04T10:13-04:00",
+     "auteur": "Pierre Chartier"
     }
    ],
    "permalien": "une-trentaine-de-residents-de-la-rue-notre-dame-reclament-un-ba437a",
@@ -1562,7 +2057,8 @@
     {
      "media": "La Revue",
      "url": "https://www.larevue.qc.ca/article/actualites/montoni-superc-jean-coutu-mascouche/",
-     "date": "2026-09-03T00:00-04:00"
+     "date": "2026-09-03T00:00-04:00",
+     "auteur": "Alec Brideau"
     }
    ],
    "permalien": "un-super-c-et-un-jean-coutu-en-construction-a-mascouche-130-76ff15",
@@ -1588,7 +2084,8 @@
     {
      "media": "La Voix du Sud",
      "url": "https://www.lavoixdusud.com/actualites/beaumont-un-casse-croute-menace/",
-     "date": "2026-09-04T10:13-04:00"
+     "date": "2026-09-04T10:13-04:00",
+     "auteur": "Eric Gourde"
     }
    ],
    "permalien": "un-casse-croute-de-beaumont-dit-son-avenir-menace-par-la-fer-a3512a",
@@ -1636,7 +2133,8 @@
     {
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/04/les-regions-eloignees-meritent-aussi-une-culture-foisonnante",
-     "date": "2026-09-04T10:13-04:00"
+     "date": "2026-09-04T10:13-04:00",
+     "auteur": "Émilise Lessard-Therrien"
     }
    ],
    "permalien": "on-s-arrange-entre-nous-plaidoyer-pour-une-culture-de-creati-f06252",
@@ -1983,17 +2481,20 @@
     {
      "media": "DW",
      "url": "https://www.dw.com/en/svalbad-russian-ship-professor-molchanov-seized/a-78889005",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Mark Hallam"
     },
     {
      "media": "Euronews",
      "url": "https://www.euronews.com/2026/09/03/norway-seizes-russian-ship-in-the-arctic-over-ukraines-42-billion-crimea-claim",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Quirino Mealha"
     },
     {
      "media": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse et Associated Press et Reuters"
     },
     {
      "media": "France 24",
@@ -2023,22 +2524,26 @@
     {
      "media": "La Dépêche",
      "url": "https://www.ladepeche.fr/2026/09/02/guerre-en-ukraine-poutine-evoque-une-nouvelle-erreur-ce-que-lon-sait-de-lattaque-au-drone-explosif-de-laeroport-allemand-de-leipzig-13532344.php",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Yohan Lemaire"
     },
     {
      "media": "BFMTV",
      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/nous-allons-intensifier-la-pression-contre-la-russie-bruxelles-se-prepare-a-de-nouvelles-sanctions-contre-moscou-apres-la-tentative-d-attaque-au-drone-a-l-aeroport-de-leipzig_AV-202609020628.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Reuters"
     },
     {
      "media": "euro|topics",
      "url": "https://www.eurotopics.net/fr/363402/drone-explosif-a-leipzig-quelle-reponse-de-l-ue",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Rusłan Szoszyn et Yunus Mazı et Martin Fendrych"
     },
     {
      "media": "Euronews",
      "url": "https://fr.euronews.com/2026/09/03/la-russie-ferme-les-branches-de-linstitut-goethe-sur-son-territoire",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Kirsten Ripper"
     },
     {
      "media": "Le Parisien",
@@ -2068,17 +2573,20 @@
     {
      "media": "Euronews",
      "url": "https://fr.euronews.com/2026/09/04/teheran-promet-de-venger-lattaque-contre-un-mariage-washington-ouvre-une-enquete",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Malek Fouda"
     },
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/03/l-iran-dit-avoir-vise-des-bases-americaines-au-koweit-et-aux-emirats_6765149_3210.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Associated Press et Agence France-Presse"
     },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/monde/moyen-orient/1006124/iran-fait-fi-menaces-trump-bombarde-pays-golfe",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Le Parisien",
@@ -2157,7 +2665,8 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/disparitions/article/2026/09/03/gloria-steinem-journaliste-et-icone-americaine-du-feminisme-est-morte_6765140_3382.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Julien Laroche-Joubert"
     },
     {
      "media": "RFI",
@@ -2198,7 +2707,8 @@
     {
      "media": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse et Reuters"
     },
     {
      "media": "Reuters",
@@ -2237,7 +2747,8 @@
     {
      "media": "ONU Info",
      "url": "https://news.un.org/fr/story/2026/09/1159394",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Fabrice Robinet"
     },
     {
      "media": "France 24",
@@ -2247,12 +2758,14 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/planete/article/2026/09/03/el-nino-l-onu-prevoit-un-phenomene-de-tres-forte-intensite-jusqu-en-fevrier-2027_6765025_3244.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "RFI",
      "url": "https://www.rfi.fr/fr/environnement/20260903-el-ni%C3%B1o-va-s-intensifier-pourquoi-les-prochains-mois-inqui%C3%A8tent-les-climatologues",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "L'Organisation météorologique mondiale prévoit que le phénomène El Niño, déjà installé dans le Pacifique tropical, atteindra une intensité très forte au cours des prochains mois, accroissant les risques de sécheresses, d'inondations et de chaleurs extrêmes à travers le monde jusqu'en février 2027, selon l'ONU.",
@@ -2287,12 +2800,14 @@
     {
      "media": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Priyanka Shankar"
     },
     {
      "media": "The Independent",
      "url": "https://www.independent.co.uk/news/world/europe/ukraine-spy-agencies-kyiv-gunfight-b3043965.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Suha Kidwai"
     },
     {
      "media": "Interfax-Ukraine",
@@ -2321,12 +2836,14 @@
     {
      "media": "RFI",
      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260904-italie-giorgia-meloni-reste-populaire-incontestablement-malgr%C3%A9-un-bilan-contrast%C3%A9",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Clotilde Dumay"
     },
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-en-italie-giorgia-meloni-bat-un-record-de-long%C3%A9vit%C3%A9-et-lance-sa-campagne-pour-2027",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Natalia Mendoza"
     },
     {
      "media": "CNEWS",
@@ -2362,17 +2879,20 @@
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-crue-au-n%C3%A9pal-deux-ouvriers-extraits-vivants-d-un-tunnel-neuf-jours-apr%C3%A8s-le-d%C3%A9sastre",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Ondine de Gaulle"
     },
     {
      "media": "Euronews",
      "url": "https://fr.euronews.com/video/2026/09/04/deux-ouvriers-dun-barrage-sauves-vivants-apres-neuf-jours-pieges-dans-un-tunnel-au-nepal",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Nathalie Texier"
     },
     {
      "media": "CNEWS",
      "url": "https://www.cnews.fr/monde/2026-09-04/nepal-neuf-jours-apres-le-tsunami-himalayen-deux-ouvriers-sortis-miraculeusement",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Le Parisien",
@@ -2435,12 +2955,14 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/monde/etats-unis/1006460/maison-blanche-cree-jeu-video-expulsions-immigres",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/04/la-maison-blanche-publie-un-jeu-video-dont-le-but-est-d-expulser-des-immigres_6765354_3210.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Le Parisien",
@@ -2479,12 +3001,14 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/04/au-bresil-lula-exige-une-enquete-impartiale-sur-des-soupcons-de-corruption-visant-un-juge-de-la-cour-supreme_6765387_3210.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "RFI",
      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260903-br%C3%A9sil-la-cour-supr%C3%AAme-%C3%A9clabouss%C3%A9e-par-le-vaste-scandale-financier-banco-master",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Achim Lippold"
     }
    ],
    "resume": "Le président Lula a exigé une enquête impartiale après que la Cour suprême brésilienne a été éclaboussée par des soupçons de corruption visant l'un de ses juges, dans le cadre du vaste scandale financier Banco Master, selon Le Monde et RFI.",
@@ -2547,7 +3071,8 @@
     {
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-ceuta-la-crise-migratoire-se-transforme-en-crise-politique-pour-pedro-sanchez-accuse-de-complicite_8144885.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Louise Bodet"
     },
     {
      "media": "TV5MONDE",
@@ -2557,12 +3082,14 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/03/ceuta-l-espagne-ne-dispose-pas-de-preuves-solides-d-une-implication-du-maroc-dans-la-crise-migratoire-selon-pedro-sanchez_6765137_3210.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "CNEWS",
      "url": "https://www.cnews.fr/monde/2026-09-03/crise-migratoire-ceuta-implication-du-maroc-visite-du-roi-felipe-vi-pedro-sanchez",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Graziella Polledri"
     }
    ],
    "resume": "La crise migratoire à Ceuta, où des dizaines de milliers de migrants ont tenté cet été de rallier l'enclave espagnole, se mue en crise politique pour Pedro Sánchez, accusé par ses détracteurs de complaisance envers le Maroc après avoir affirmé ne disposer d'aucune preuve solide d'une implication marocaine, selon franceinfo, Le Monde et CNEWS.",
@@ -2586,12 +3113,14 @@
     {
      "media": "Libération",
      "url": "https://www.liberation.fr/economie/spacex-et-blue-origin-boycottent-le-sommet-spatial-de-macron-sous-lamicale-pression-de-trump-20260904_OC4L2GQN2NHXXFSXMDHDAJMX6U/",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Jean-Christophe Féraud"
     },
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/09/03/la-maison-blanche-pousse-les-entreprises-americaines-a-bouder-le-sommet-spatial-a-paris",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "franceinfo",
@@ -2620,12 +3149,14 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/04/malouines-javier-milei-sent-des-vents-favorables-a-l-argentine-et-veut-durcir-les-sanctions-contre-les-entreprises-operant-dans-l-archipel_6765738_3210.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "CNEWS",
      "url": "https://www.cnews.fr/monde/2026-09-04/les-iles-malouines-sont-argentines-par-lhistoire-et-par-le-droit-face-aux",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Le Parisien",
@@ -2661,17 +3192,20 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/international/europe/2026-09-03/danemark/le-renseignement-alerte-sur-des-preparatifs-de-sabotages-russes.php",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/09/03/au-danemark-le-renseignement-alerte-sur-des-preparatifs-de-sabotages-russes",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Sud Ouest",
      "url": "https://www.sudouest.fr/international/les-services-de-renseignement-danois-alertent-sur-des-risques-de-sabotage-russes-30464658.php",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "Les services de renseignement danois (PET) affirment, dans un communiqué transmis à l'AFP, que la Russie prépare activement des actions de sabotage contre l'industrie de la défense du Danemark, recrutant selon eux des Danois ordinaires sur les réseaux sociaux pour photographier des cibles potentielles.",
@@ -2700,7 +3234,8 @@
     {
      "media": "Euronews",
      "url": "https://www.euronews.com/my-europe/2026/09/03/estonian-defence-minister-resigns-in-70m-eu-funded-procurement-scandal-for-ukraine",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Angela Skujins"
     },
     {
      "media": "DPA",
@@ -2729,12 +3264,14 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/03/a-malte-l-acquittement-de-l-oligarque-yorgen-fenech-laisse-impunis-les-commanditaires-du-meurtre-de-la-journaliste-daphne-caruana-galizia_6765145_3210.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Allan Kaval"
     },
     {
      "media": "RFI",
      "url": "https://www.rfi.fr/fr/europe/20260903-meurtre-d-une-journaliste-%C3%A0-malte-col%C3%A8re-contre-l-acquittement-d-un-magnat-accus%C3%A9-d-%C3%AAtre-le-commanditaire",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "TV5MONDE",
@@ -2770,17 +3307,20 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/03/la-rdc-va-deplacer-son-ambassade-en-israel-de-tel-aviv-a-jerusalem_6765220_3210.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Libération",
      "url": "https://www.liberation.fr/international/moyen-orient/la-republique-democratique-du-congo-va-deplacer-son-ambassade-en-israel-a-jerusalem-20260903_NLV3WVHKQFHPLF5EWTWQXKTCCQ/",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "RFI",
      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20260904-rdc-f%C3%A9lix-tshisekedi-est-parmi-les-seuls-dirigeants-africains-qui-soit-aussi-proche-d-isra%C3%ABl",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Christophe Boisbouvier"
     }
    ],
    "resume": "La République démocratique du Congo a annoncé le déplacement de son ambassade en Israël de Tel-Aviv à Jérusalem, selon Le Monde et Libération.",
@@ -2804,12 +3344,14 @@
     {
      "media": "Euronews",
      "url": "https://fr.euronews.com/my-europe/2026/09/03/face-a-la-russie-la-finlande-organise-le-plus-grand-exercice-de-defense-civile-europeen-de",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Gavin Blackburn"
     },
     {
      "media": "CNEWS",
      "url": "https://www.cnews.fr/monde/2026-09-03/face-la-menace-russe-la-finlande-lance-son-plus-grand-exercice-de-defense-civile",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Romain Gérand"
     }
    ],
    "resume": "La Finlande a lancé son plus grand exercice de défense civile depuis la Seconde Guerre mondiale, avec notamment des conscrits s'entraînant dans des abris protégés contre une attaque nucléaire ou biologique, dans un contexte de menace perçue de la Russie, selon Euronews et CNEWS.",
@@ -2833,7 +3375,8 @@
     {
      "media": "CNEWS",
      "url": "https://www.cnews.fr/monde/2026-09-04/congres-de-reform-uk-jordan-bardella-prononce-ce-vendredi-un-discours-en-anglais",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Benjamin Hausser"
     },
     {
      "media": "France 24",
@@ -2872,12 +3415,14 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/04/a-deux-mois-des-elections-de-mi-mandat-l-administration-trump-repart-a-l-offensive-sur-le-vote-par-correspondance_6765288_3210.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/international/etats-unis/2026-09-03/devant-la-cour-supreme/l-administration-trump-redemande-la-restriction-du-vote-par-correspondance.php",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "L'administration Trump a de nouveau demandé jeudi à la Cour suprême des États-Unis de l'autoriser à appliquer un décret présidentiel encadrant plus strictement le vote par correspondance, à deux mois d'élections de mi-mandat jugées cruciales, selon Le Monde et Radio-Canada.",
@@ -2906,12 +3451,14 @@
     {
      "media": "CNEWS",
      "url": "https://www.cnews.fr/culture/2026-09-03/musee-george-lucas-le-realisateur-confie-que-ce-projet-mis-sa-volonte-tres-rude",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/culture/cinema/star-wars/reportage-je-n-aime-pas-faire-ce-que-les-gens-croient-possible-dans-les-coulisses-du-musee-george-lucas-qui-va-bientot-ouvrir-ses-portes-a-los-angeles_8174906.html",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Loïc Pialat"
     }
    ],
    "resume": "Le musée d'art narratif rassemblant la collection personnelle du cinéaste George Lucas ouvrira ses portes le 22 septembre à Los Angeles; le créateur de Star Wars confie que ce projet très audacieux ne l'a pas ménagé, selon CNEWS et France 24.",
@@ -2942,12 +3489,14 @@
     {
      "media": "La Dépêche",
      "url": "https://www.ladepeche.fr/2026/09/03/decryptage-guerre-en-ukraine-lespace-aerien-russe-devient-extremement-dangereux-comment-grace-aux-drones-zelensky-veut-empecher-tous-les-avions-de-13532208.php",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Yohan Lemaire"
     },
     {
      "media": "La Croix",
      "url": "https://www.la-croix.com/international/guerre-en-ukraine-volodymyr-zelensky-peut-il-fermer-le-ciel-russe-20260903",
-     "date": "2026-09-04T05:12-04:00"
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Laurent Larcher"
     },
     {
      "media": "franceinfo",
@@ -2980,6 +3529,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "le-ministre-de-la-justice-reclame-une-enquete-sur-deux-juges-3a0510",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280481/juges-cour-municipale-gatineau-deontologie",
+     "auteur": "Anne-Charlotte Carignan",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "le-ministre-de-la-justice-reclame-une-enquete-sur-deux-juges-3a0510"
@@ -2997,6 +3554,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "la-prefete-de-la-vallee-de-la-gatineau-reclame-la-reconstruc-8c25e5",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/sante/2026/09/04/clsc-de-gracefield-cest-clair-quil-faut-le-mettre-a-terre-ZB73BN2IRFGCBKR2UVKUIHLKXY/",
+     "auteur": "Daniel LeBlanc",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "la-prefete-de-la-vallee-de-la-gatineau-reclame-la-reconstruc-8c25e5"
@@ -3014,6 +3579,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "une-centaine-de-citoyens-reclament-la-securite-routiere-apre-d306ab",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/justice-et-faits-divers/2026/09/04/rassemblement-citoyen-pour-la-securite-routiere-a-gatineau-LDKS2NHFWJC6ZMQVMYOX4HB2ZA/",
+     "auteur": "Charles-Antoine Gagnon",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-centaine-de-citoyens-reclament-la-securite-routiere-apre-d306ab"
@@ -3032,6 +3605,14 @@
    "permalien": "une-eau-brune-coule-des-robinets-de-la-baie-depuis-un-bris-d-6b2b79",
    "photo_auteur": "Aurkawl",
    "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280482/port-alfred-travaux-sediments-terreux",
+     "auteur": "Anissa Leduc",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-eau-brune-coule-des-robinets-de-la-baie-depuis-un-bris-d-6b2b79"
@@ -3049,6 +3630,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "des-residus-d-amiante-forcent-la-fermeture-partielle-de-l-ho-1c5724",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280501/amiante-hopital-roberval",
+     "auteur": "Johanie Bilodeau",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "des-residus-d-amiante-forcent-la-fermeture-partielle-de-l-ho-1c5724"
@@ -3066,6 +3655,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "une-infirmiere-auxiliaire-de-chicoutimi-radiee-sept-mois-pou-469296",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/04/radiee-sept-mois-pour-une-relation-avec-un-patient-AWUDBWINZJBQNF3EM4F6TLQUW4/",
+     "auteur": "Carolyne Labrie",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-infirmiere-auxiliaire-de-chicoutimi-radiee-sept-mois-pou-469296"
@@ -3084,6 +3681,14 @@
    "permalien": "la-stm-teste-l-intelligence-artificielle-pour-detecter-les-f-0bcbd0",
    "photo_auteur": "Tim Adams",
    "photo_licence": "CC BY 3.0",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279976/stm-intelligence-artificielle-flaneurs",
+     "auteur": "Édouard Beaudoin",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "la-stm-teste-l-intelligence-artificielle-pour-detecter-les-f-0bcbd0"
@@ -3101,6 +3706,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "vols-de-velos-a-montreal-un-fleau-que-la-police-peine-a-endi-7c0371",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280292/vols-velos-montreal-fleau-police",
+     "auteur": "Camille Gaior et Davide Gentile",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "vols-de-velos-a-montreal-un-fleau-que-la-police-peine-a-endi-7c0371"
@@ -3119,6 +3732,14 @@
    "permalien": "le-projet-de-logements-pour-aines-de-l-ancien-hippodrome-de-252ab2",
    "photo_auteur": "Canadian Postcard Company",
    "photo_licence": "Public domain",
+   "sources": [
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/local/cote-des-neiges-notre-dame-de-grace/3226477/hippodrome-un-projet-de-logements-pour-aines-renait-de-ses-cendres/",
+     "auteur": "Olivier Robichaud",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "le-projet-de-logements-pour-aines-de-l-ancien-hippodrome-de-252ab2"
@@ -3137,6 +3758,14 @@
    "permalien": "le-css-des-chenes-perd-des-postes-de-soutien-malgre-la-hauss-9d7dcc",
    "photo_auteur": "Quintin Soloviev",
    "photo_licence": "CC BY 4.0",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280518/personnel-soutien-cente-services-scolaire-chenes",
+     "auteur": "Jean-François Dumas",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "le-css-des-chenes-perd-des-postes-de-soutien-malgre-la-hauss-9d7dcc"
@@ -3154,6 +3783,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "un-premier-salon-du-livre-pense-pour-les-jeunes-lecteurs-a-d-8c9ae3",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279352/salon-livre-enfants-drummondville",
+     "auteur": "Josée Bourassa",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "un-premier-salon-du-livre-pense-pour-les-jeunes-lecteurs-a-d-8c9ae3"
@@ -3171,6 +3808,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "une-murale-posthume-de-serge-malenfant-rend-hommage-au-patin-a2cce9",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280490/murale-serge-malenfant-patinage-vitesse-sherbrooke",
+     "auteur": "Charlotte Dubois",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-murale-posthume-de-serge-malenfant-rend-hommage-au-patin-a2cce9"
@@ -3186,12 +3831,14 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280311/cndf-enseignants-securite-incendie",
-     "date": "2026-09-04T07:36-04:00"
+     "date": "2026-09-04T07:36-04:00",
+     "auteur": "Félix Morrissette-Beaulieu"
     },
     {
      "media": "Le Soleil",
      "url": "https://www.lesoleil.com/actualites/education/2026/09/03/greve-de-profs-en-vue-au-cndf-EHD4F2CRSZA4JEVCFXXVULEUTE/",
-     "date": "2026-09-04T07:36-04:00"
+     "date": "2026-09-04T07:36-04:00",
+     "auteur": "Olivier Bossé"
     }
    ],
    "resume": "Les enseignants du DEP en intervention en sécurité incendie du Campus Notre-Dame-de-Foy, sans contrat depuis leur syndicalisation en 2024, prévoient deux jours de grève les 9 et 10 septembre devant la lenteur des négociations, un mandat de grève générale illimitée n'étant pas exclu, selon Radio-Canada et Le Soleil.",
@@ -3217,6 +3864,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "les-depenses-du-maire-marchand-ne-montrent-pas-d-extravaganc-eb3425",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/799655/depenses-du-maire-marchand-il-ne-fait-pas-dans-l-extravagance-dit-son-equipe",
+     "auteur": "Jacques Martin",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "les-depenses-du-maire-marchand-ne-montrent-pas-d-extravaganc-eb3425"
@@ -3264,6 +3919,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "la-demolition-d-un-centre-commercial-de-laval-pour-des-logem-ee3df6",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/projet-habitation-conteste-place-renaud/",
+     "auteur": "Stéphane St-Amour",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "la-demolition-d-un-centre-commercial-de-laval-pour-des-logem-ee3df6"
@@ -3281,6 +3944,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "une-ecole-de-laval-initie-les-jeunes-a-la-radio-et-a-la-litt-f2e249",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/lecole-fait-du-bruit-donne-micro-jeunes/",
+     "auteur": "Emmanuelle Froment",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-ecole-de-laval-initie-les-jeunes-a-la-radio-et-a-la-litt-f2e249"
@@ -3298,6 +3969,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "action-chomage-cote-nord-juge-insuffisantes-les-mesures-fede-3af6b0",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/03/industrie-saisonniere-et-guerre-commerciale-des-mesures-insuffisantes-selon-action-chomage-cote-nord/",
+     "auteur": "Renaud Cyr",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "action-chomage-cote-nord-juge-insuffisantes-les-mesures-fede-3af6b0"
@@ -3315,6 +3994,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "la-mrc-de-la-haute-cote-nord-reclame-des-reponses-sur-la-fin-01f2eb",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Le Haute-Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/03/suppression-de-la-dessert-tadoussac-saguenay-la-mrc-veut-des-reponses/",
+     "auteur": "Renaud Cyr",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "la-mrc-de-la-haute-cote-nord-reclame-des-reponses-sur-la-fin-01f2eb"
@@ -3333,6 +4020,14 @@
    "permalien": "la-mrc-de-kamouraska-reclame-une-reconnaissance-formelle-de-77bc45",
    "photo_auteur": "Nicogag",
    "photo_licence": "CC BY-SA 3.0",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/actualite/la-mrc-de-kamouraska-reclame-une-reconnaissance-formelle-de-lautonomie-municipale/",
+     "auteur": "François Drouin",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "la-mrc-de-kamouraska-reclame-une-reconnaissance-formelle-de-77bc45"
@@ -3351,6 +4046,14 @@
    "permalien": "le-depute-bernard-genereux-prolonge-sa-convalescence-apres-d-45616e",
    "photo_auteur": "Andrew Scheer",
    "photo_licence": "CC0",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/actualite/bernard-genereux-prolonge-sa-convalescence-apres-des-complications/",
+     "auteur": "François Drouin",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "le-depute-bernard-genereux-prolonge-sa-convalescence-apres-d-45616e"
@@ -3368,6 +4071,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "saint-simon-de-rimouski-consulte-sa-population-sur-l-avenir-e75d36",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279980/eglise-saint-simon-de-rimouski-consultation-publique",
+     "auteur": "Isabelle Damphousse",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "saint-simon-de-rimouski-consulte-sa-population-sur-l-avenir-e75d36"
@@ -3385,6 +4096,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "le-duo-rouynorandien-genevieve-matthieu-remporte-le-prix-la-1c55dd",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280358/genevieve-matthieu-prix-caisse-2026",
+     "auteur": "Marie-Hélène Paquin",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "le-duo-rouynorandien-genevieve-matthieu-remporte-le-prix-la-1c55dd"
@@ -3402,6 +4121,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "l-entreprise-valdorienne-marcotte-rapatrie-deux-partenaires-93fbfb",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280043/mine-entreprise-americain-val-dor-rachat",
+     "auteur": "Marc-André Landry",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "l-entreprise-valdorienne-marcotte-rapatrie-deux-partenaires-93fbfb"
@@ -3419,6 +4146,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "ressources-minerales-pelican-achete-le-quai-de-grande-vallee-8e8c6e",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280411/vente-quai-grande-vallee-mine-calcium-gaspesie",
+     "auteur": "Marguerite Morin",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "ressources-minerales-pelican-achete-le-quai-de-grande-vallee-8e8c6e"
@@ -3436,6 +4171,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "le-maire-de-mont-saint-pierre-defend-sa-gestion-apres-la-fai-907fa8",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280272/maire-mont-saint-pierre-problemes-financiers-faillite-cooperative",
+     "auteur": "Jean-François Deschênes",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "le-maire-de-mont-saint-pierre-defend-sa-gestion-apres-la-fai-907fa8"
@@ -3454,6 +4197,14 @@
    "permalien": "chantier-lance-pour-une-nouvelle-ecole-de-250-places-a-quaqt-15a953",
    "photo_auteur": "JonnySmith12345",
    "photo_licence": "CC0",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280437/ecole-nunavik-nord-quaqtaq-inuit",
+     "auteur": "Félix Lebel",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "chantier-lance-pour-une-nouvelle-ecole-de-250-places-a-quaqt-15a953"
@@ -3471,6 +4222,14 @@
    "horodate": "2026-09-04T07:28-04:00",
    "permalien": "une-fillette-de-6-ans-mordue-par-trois-chiens-a-aupaluk-au-n-3fc8b3",
    "image_auto": "aucune",
+   "sources": [
+    {
+     "media": "Nunatsiaq News",
+     "url": "https://nunatsiaq.com/stories/article/aupaluk-dog-attack-raises-safety-concerns/",
+     "auteur": "Dominique Gené",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "une-fillette-de-6-ans-mordue-par-trois-chiens-a-aupaluk-au-n-3fc8b3"
@@ -3496,7 +4255,8 @@
     {
      "media": "Le Canada Français",
      "url": "https://www.canadafrancais.com/nouvelles-nationales/un-homme-repose-dans-un-etat-critique-apres-une-sortie-de-route-en-vtt-a-ferme-neuve/",
-     "date": "2026-09-04T07:41-04:00"
+     "date": "2026-09-04T07:41-04:00",
+     "auteur": "La Presse Canadienne"
     }
    ],
    "image_auto": "aucune",
@@ -3518,6 +4278,14 @@
    "permalien": "le-chantier-de-la-nouvelle-ecole-modulaire-de-beauharnois-en-b8fcdd",
    "photo_auteur": "ClairCanada",
    "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "Cybersoleil",
+     "url": "https://cybersoleil.com/la-nouvelle-ecole-notre-dame-de-la-paix-en-chantier/",
+     "auteur": "Eric Tremblay",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "le-chantier-de-la-nouvelle-ecole-modulaire-de-beauharnois-en-b8fcdd"
@@ -3536,6 +4304,14 @@
    "permalien": "bainultra-rachete-wetstyle-pour-contrer-la-guerre-commercial-d8067d",
    "photo_auteur": "Wilfredor",
    "photo_licence": "CC0",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/affaires/2026/09/04/face-a-la-guerre-commerciale-bainultra-replique-avec-une-acquisition-HBFTPWLLQJCSNFY3BJ6L5ACRTE/",
+     "auteur": "Céline Fabriès",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "bainultra-rachete-wetstyle-pour-contrer-la-guerre-commercial-d8067d"
@@ -3554,6 +4330,14 @@
    "permalien": "depuis-30-ans-l-artiste-beauceronne-julie-potvin-trouve-son-ab0a37",
    "photo_auteur": "Félix Mathieu-Bégin",
    "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "EnBeauce.com",
+     "url": "https://www.enbeauce.com/actualites/gens-de-chez-nous/673477/depuis-30-ans-julie-potvin-trouve-son-equilibre-dans-la-peinture",
+     "auteur": "Léa Arnaud",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "depuis-30-ans-l-artiste-beauceronne-julie-potvin-trouve-son-ab0a37"
@@ -3572,6 +4356,14 @@
    "permalien": "repentigny-fait-le-point-avec-la-population-sur-le-deraillem-2a06e2",
    "photo_auteur": "Gabriel Picard",
    "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "Mon Joliette",
+     "url": "https://monjoliette.com/2026/09/03/deraillement-ferroviaire-a-repentigny-retour-sur-la-rencontre-citoyenne/",
+     "auteur": "Fabrice Samedy",
+     "date": "2026-09-04T15:45-04:00"
+    }
+   ],
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-04.json",
    "_slug": "repentigny-fait-le-point-avec-la-population-sur-le-deraillem-2a06e2"
@@ -3588,7 +4380,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280244/alstom-via-rail-construction-lapocatiere-contrat",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Miguelle-Éloïse Lachance"
     },
     {
      "media": "CBC",
@@ -3670,12 +4463,14 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/actualites/politique/2026-09-03/carney-sommera-poutine-de-mettre-fin-a-l-occupation-en-ukraine-s-il-est-convie-au-g20.php",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Dylan Robertson"
     },
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12046324/mark-carney-russia-g20-donald-trump/",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Alex Boutilier"
     }
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2025-11-14_InaugurationREM_Deux-Montagnes_Mark_Carney.jpg/1280px-2025-11-14_InaugurationREM_Deux-Montagnes_Mark_Carney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3701,7 +4496,8 @@
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12047066/alberta-referendum-mail-in-ballots-missing/",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Karen Bartko"
     }
    ],
    "photo": "",
@@ -3727,7 +4523,8 @@
     {
      "media": "Canada's National Observer",
      "url": "https://www.nationalobserver.com/2026/09/04/news/alberta-oilsands-tailings-suncor-regulator",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Marc Fawcett-Atkinson et Zoe Mason"
     }
    ],
    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Fort_mcmurray_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -3752,7 +4549,8 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-04/trois-jeunes-filles-agressees-sexuellement/le-cowboy-du-nord-condamne-a-11-ans-de-penitencier.php",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Louis-Samuel Perron"
     }
    ],
    "photo": "",
@@ -3830,12 +4628,14 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/actualites/national/2026-09-03/volodymyr-zelensky-devrait-se-rendre-prochainement-au-canada.php",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Dylan Robertson"
     },
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280216/visite-canada-volodymyr-zelensky-president-ukraine",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Félix-Antoine Beauchemin"
     }
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Volodymyr_Zelensky_2019_presidential_inauguration_33.jpg/1280px-Volodymyr_Zelensky_2019_presidential_inauguration_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3860,7 +4660,8 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/actualites/politique/2026-09-03/carney-nomme-un-haut-fonctionnaire-a-la-tete-de-l-agence-de-cyberespionnage.php",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "La Presse Canadienne"
     }
    ],
    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/92/Brandon_Scott_Jones_at_Dead_Pilot_Society_taping.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -3886,7 +4687,8 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/economie/1006454/ottawa-lance-appel-secteurs-vises-nouveaux-droits-douane",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Sébastien Auger"
     },
     {
      "media": "Les Affaires",
@@ -3917,7 +4719,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280472/immigration-canada-france-travailleur-immigrant",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Valérie Gamache"
     }
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Quai_et_vue_sur_la_rivi%C3%A8re_Saguenay_%C3%A0_Chicoutimi%2C_Saguenay_%28Qu%C3%A9bec%29.jpg/1280px-Quai_et_vue_sur_la_rivi%C3%A8re_Saguenay_%C3%A0_Chicoutimi%2C_Saguenay_%28Qu%C3%A9bec%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -4001,12 +4804,14 @@
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/09/03/en-campagne-un-ministre-israelien-presente-une-brochure-pour-vider-gaza-de-ses-habitants",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/03/itamar-ben-gvir-ministre-israelien-supremaciste-presente-un-plan-pour-vider-la-bande-de-gaza-de-ses-habitants-durant-la-campagne-des-elections-legislatives_6765207_3210.html",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "RFI",
@@ -4016,7 +4821,8 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/monde/moyen-orient/1006169/ministre-israelien-presente-plan-vider-gaza-habitants",
-     "date": "2026-09-04T05:10-04:00"
+     "date": "2026-09-04T05:10-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Le Parisien",
@@ -4046,12 +4852,14 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/03/la-syrie-dit-avoir-commence-a-detruire-les-armes-chimiques-de-l-ere-al-assad_6765212_3210.html",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-03/la-syrie-a-commence-a-detruire-les-armes-chimiques-de-l-ere-assad.php",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "ONU Info",
@@ -4080,12 +4888,14 @@
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/09/03/affaire-epstein-le-milliardaire-leon-black-refuse-de-temoigner-devant-le-congres",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/international/etats-unis/2026-09-03/affaire-epstein/le-milliardaire-leon-black-refuse-de-temoigner-devant-le-congres.php",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "permalien": "affaire-epstein-le-milliardaire-leon-black-refuse-de-temoign-07ae17",
@@ -4109,17 +4919,20 @@
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12046322/new-20-dollar-bill-king-charles-iii-unveiled-canada/",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Rachel Goodman"
     },
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/03/decouvrez-le-nouveau-billet-de-20--a-leffigie-du-roi-charles-iii",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Samuel Roberge"
     },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/economie/1006400/nouveau-billet-20-met-honneur-roi-charles",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "La Presse Canadienne"
     },
     {
      "media": "National Post",
@@ -4149,12 +4962,14 @@
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/09/03/un-entraineur-de-karate-connu-accuse-dagression-sexuelle",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Camille Payant"
     },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-03/un-entraineur-de-karate-accuse-d-agression-sexuelle.php",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Louis-Samuel Perron"
     }
    ],
    "permalien": "un-entraineur-de-karate-montrealais-bien-connu-accuse-d-agre-dc35d8",
@@ -4183,7 +4998,8 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/affaires/economie/2026-09-03/foresterie/d-autres-mesures-seront-annoncees-pour-aider-l-industrie-dit-carney.php",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Émilie Bergeron"
     },
     {
      "media": "Radio-Canada",
@@ -4213,7 +5029,8 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-03/volkswagen-prevoit-la-suppression-de-50-000-postes-d-ici-2030.php",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Pierrick Yvon"
     }
    ],
    "permalien": "volkswagen-supprimera-environ-50-000-emplois-d-ici-2030-7788a2",
@@ -4242,7 +5059,8 @@
     {
      "media": "APTN",
      "url": "https://www.aptnnews.ca/national-news/un-policier-du-nunavik-accuse-dagression-avec-une-arme-bei/",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Jesse Staniforth"
     }
    ],
    "permalien": "un-policier-du-nunavik-accuse-de-voies-de-fait-11c455",
@@ -4266,7 +5084,8 @@
     {
      "media": "Pivot",
      "url": "https://pivot.quebec/2026/09/03/rechauffement-climatique-depasser-15-degre-est-inevitable-y-revenir-reste-toutefois-possible/",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Francis Hébert-Bernier"
     }
    ],
    "permalien": "le-seuil-de-1-5-c-de-rechauffement-sera-depasse-mais-pourrai-46d3db",
@@ -4290,7 +5109,8 @@
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/09/03/electromenagers--jusqua-40--plus-cher-au-quebec",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Martin Perreault et JC Perreault et Isabelle Beauregard"
     }
    ],
    "permalien": "le-prix-des-electromenagers-grimpe-de-jusqu-a-40-au-quebec-7c598d",
@@ -4314,7 +5134,8 @@
     {
      "media": "Futura",
      "url": "https://www.futura-sciences.com/sciences/actualites/venus-venus-ces-molecules-vivant-ont-resiste-experience-on-croyait-impossible-relancent-question-vie-137503/",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Morgane Gillard"
     }
    ],
    "permalien": "des-molecules-du-vivant-resistent-a-des-conditions-extremes-ac95c8",
@@ -4338,7 +5159,8 @@
     {
      "media": "Ciel et Espace",
      "url": "https://www.cieletespace.fr/article/proche-de-mercure-la-sonde-bepi-colombo-reussit-sa-separation",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Guillaume Langin"
     }
    ],
    "permalien": "la-sonde-bepicolombo-largue-son-module-de-transfert-a-l-appr-904fa3",
@@ -4362,7 +5184,8 @@
     {
      "media": "Futura",
      "url": "https://www.futura-sciences.com/tech/actualites/ia-generative-ia-google-vous-conseille-produits-49-plus-cher-moyenne-verdict-2-millions-produits-analyses-137504/",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Edward Back"
     }
    ],
    "permalien": "le-mode-ia-de-google-recommande-des-produits-49-plus-chers-e-3e3c58",
@@ -4386,12 +5209,14 @@
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/09/03/openai-lance-gpt-6-son-modele-le-plus-puissant-concu-pour-limiter-les-risques",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "The Verge",
      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Hayden Field"
     },
     {
      "media": "Radio-Canada",
@@ -4420,12 +5245,14 @@
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/03/nvidia-va-racheter-la-plateforme-ia-hugging-face-pour-129-g",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "Clubic",
      "url": "https://www.clubic.com/actualite-628171-enorme-coup-de-nvidia-qui-rachete-hugging-face-pour-12-93-milliards-de-dollars-jensen-huang-s-explique.html",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Alexandre Boero"
     }
    ],
    "permalien": "nvidia-officialise-le-rachat-de-hugging-face-pour-12-93-mill-3807c8",
@@ -4451,7 +5278,8 @@
     {
      "media": "20 Minutes",
      "url": "https://www.20minutes.fr/monde/ukraine/4242573-20260903-guerre-ukraine-poutine-nie-preparer-mobilisation-militaire-russie-berlin-nid-espions",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "Hélène Ménal"
     },
     {
      "media": "Enderi",
@@ -4461,12 +5289,14 @@
     {
      "media": "BFMTV",
      "url": "https://www.bfmtv.com/international/asie/russie/guerre-en-ukraine-vladimir-poutine-dement-tout-scenario-qui-necessiterait-une-mobilisation-face-a-l-ukraine_AD-202609030548.html",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "CNEWS",
      "url": "https://www.cnews.fr/monde/2026-09-03/guerre-en-ukraine-une-nouvelle-vague-de-mobilisation-en-russie-nest-pas-lordre-du",
-     "date": "2026-09-04T05:10-04:00"
+     "date": "2026-09-04T05:10-04:00",
+     "auteur": "Romain Gérand"
     },
     {
      "media": "TV5MONDE",
@@ -4508,7 +5338,8 @@
     {
      "media": "Orange Actualités",
      "url": "https://actu.orange.fr/monde/russie-une-humanitaire-poursuivie-pour-avoir-critique-l-armee-placee-sous-controle-judiciaire-CNT000002rHYXo.html",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "horodate": "2026-09-03T21:59-04:00",
@@ -4530,12 +5361,14 @@
     {
      "media": "Human Rights Watch",
      "url": "https://www.hrw.org/fr/news/2026/09/03/tunisie-les-condamnations-injustes-pour-complot-confirmees-en-cassation",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "Bassam Khawaja"
     },
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260903-tunisie-la-cour-de-cassation-confirme-les-lourdes-peines-dans-l-affaire-du-complot-contre-l-%C3%A9tat",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "Meriem Amellal et Kalidou Sy et Aurélie Bazzara-Kibangula"
     }
    ],
    "horodate": "2026-09-03T21:59-04:00",
@@ -4567,7 +5400,8 @@
     {
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/economie/le-constructeur-automobile-volkswagen-confirme-une-nouvelle-vague-de-50-000-licenciements-dans-le-monde_8176070.html",
-     "date": "2026-09-04T05:10-04:00"
+     "date": "2026-09-04T05:10-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "horodate": "2026-09-03T21:59-04:00",
@@ -4589,12 +5423,14 @@
     {
      "media": "LaPresse",
      "url": "https://www.lapresse.ca/sports/hockey/2026-09-03/entente-avec-rogers/quebecor-diffusera-les-matchs-du-canadien-pour-12-annees-de-plus.php",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "Simon-Olivier Lorange et Guillaume Lefrançois"
     },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/culture/medias/1006382/quebecor-conserve-droits-francophones-diffusion-lnh-12-ans",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "Sarah Collardey"
     },
     {
      "media": "Radio-Canada",
@@ -4648,7 +5484,8 @@
     {
      "media": "National Post",
      "url": "https://nationalpost.com/news/nazis-canada-report-declassified",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "Dave Gordon"
     }
    ],
    "horodate": "2026-09-04T05:55-04:00",
@@ -4675,12 +5512,14 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/canada/1006316/carney-riposte-accusations-americaines-concernant-fin-negociations-commerciales",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "Catherine Morrison"
     },
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/03/trump-met-en-garde-carney-contre-leffondrement-de-leconomie-canadienne",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Olivier Boivin"
     }
    ],
    "horodate": "2026-09-04T05:55-04:00",
@@ -4707,7 +5546,8 @@
     {
      "media": "CTV News Montréal",
      "url": "https://www.ctvnews.ca/montreal/article/quebec-moms-win-appeal-over-ei-benefits-denied-after-maternity-job-loss/",
-     "date": "2026-09-03T21:52-04:00"
+     "date": "2026-09-03T21:52-04:00",
+     "auteur": "La Presse Canadienne"
     }
    ],
    "horodate": "2026-09-04T10:15-04:00",
@@ -4729,12 +5569,14 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280477/charlevoix-agriculture-region-peripherique-upa",
-     "date": "2026-09-03T21:59-04:00"
+     "date": "2026-09-03T21:59-04:00",
+     "auteur": "Frédéric Audet"
     },
     {
      "media": "Le Charlevoisien",
      "url": "https://www.lecharlevoisien.com/2026/09/03/agriculture-charlevoix-obtient-le-statut-de-region-peripherique/",
-     "date": "2026-09-04T07:35-04:00"
+     "date": "2026-09-04T07:35-04:00",
+     "auteur": "Félix Côté"
     }
    ],
    "horodate": "2026-09-03T21:59-04:00",
@@ -4803,22 +5645,26 @@
     {
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/03/inquietude-chez-les-liberaux-frechette-en-train-de-manger-leur-lunch",
-     "date": "2026-09-03T03:28-04:00"
+     "date": "2026-09-03T03:28-04:00",
+     "auteur": "Geneviève Lajoie"
     },
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/03/la-chaloupe-liberale-prend-leau",
-     "date": "2026-09-03T03:28-04:00"
+     "date": "2026-09-03T03:28-04:00",
+     "auteur": "Joseph Facal"
     },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/qu-on-arrete-d-analyser-les-sondages-lance-milliard.php",
-     "date": "2026-09-03T14:25-04:00"
+     "date": "2026-09-03T14:25-04:00",
+     "auteur": "Gabriel Béland"
     },
     {
      "media": "FM93",
      "url": "https://www.fm93.com/audio/798722/charles-milliard-est-officiellement-hors-jeu-affirme-jonathan-trudeau",
-     "date": "2026-09-04T03:28-04:00"
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Jacques Martin"
     }
    ],
    "permalien": "le-plq-inquiet-de-son-debut-de-campagne-face-a-une-caq-qui-m-72ce80",
@@ -4844,12 +5690,14 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280118/coupes-fonction-publique-campagne-elections-quebec",
-     "date": "2026-09-03T05:21-04:00"
+     "date": "2026-09-03T05:21-04:00",
+     "auteur": "Jean-François Thériault"
     },
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280429/bureaucratie-fonctionnaires-elections-provinciales",
-     "date": "2026-09-03T17:19-04:00"
+     "date": "2026-09-03T17:19-04:00",
+     "auteur": "Léa Morin-Letort"
     },
     {
      "media": "Radio-Canada",
@@ -4875,17 +5723,20 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280315/caq-engagement-autoroute-20-pont",
-     "date": "2026-09-03T14:25-04:00"
+     "date": "2026-09-03T14:25-04:00",
+     "auteur": "Camille Lacroix"
     },
     {
      "media": "Infodimanche",
      "url": "https://www.infodimanche.com/elections-quebec-2026/autoroute-20-la-caq-priorisera-le-troncon-entre-le-bic-et-trois-pistoles/",
-     "date": "2026-09-03T14:25-04:00"
+     "date": "2026-09-03T14:25-04:00",
+     "auteur": "Marc-Antoine Paquin"
     },
     {
      "media": "Le Soleil",
      "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/03/on-va-relancer-le-prolongement-de-la-20-promet-la-caq-VIMZZKBQIVFFXGVQH2IQ2S7BWA/",
-     "date": "2026-09-03T14:25-04:00"
+     "date": "2026-09-03T14:25-04:00",
+     "auteur": "Patricia Rainville"
     }
    ],
    "photo": "",
@@ -4912,7 +5763,8 @@
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/03/retire-de-la-liste-un-candidat-liberal-encore-membre-dun-parti-rival-jusquen-2029",
-     "date": "2026-09-03T16:25-04:00"
+     "date": "2026-09-03T16:25-04:00",
+     "auteur": "Francis Pilon"
     }
    ],
    "permalien": "un-candidat-liberal-toujours-membre-de-la-caq-jusqu-en-2029-a11194",
@@ -4936,7 +5788,8 @@
     {
      "media": "TVA Nouvelles",
      "url": "https://www.tvanouvelles.ca/2026/09/03/si-on-les-perd-on-meurt--les-droits-hydroelectriques-de-lusine-kenogami-sinvitent-dans-la-campagne-electorale",
-     "date": "2026-09-03T16:25-04:00"
+     "date": "2026-09-03T16:25-04:00",
+     "auteur": "Alex Martin"
     }
    ],
    "permalien": "les-travailleurs-de-domtar-kenogami-reclament-la-protection-afc19f",
@@ -4960,12 +5813,14 @@
     {
      "media": "Mon Saint-Sauveur",
      "url": "https://monsaintsauveur.com/2026/taschereau-christian-savard-crise-du-logement-et-de-litinerance/",
-     "date": "2026-09-03T16:25-04:00"
+     "date": "2026-09-03T16:25-04:00",
+     "auteur": "Thomas Verret"
     },
     {
      "media": "Mon Saint-Roch",
      "url": "https://monsaintroch.com/2026/taschereau-christian-savard-crise-du-logement-et-de-litinerance/",
-     "date": "2026-09-03T16:25-04:00"
+     "date": "2026-09-03T16:25-04:00",
+     "auteur": "Thomas Verret"
     }
    ],
    "permalien": "dans-taschereau-le-pequiste-christian-savard-fait-de-l-habit-c51877",
@@ -4994,7 +5849,8 @@
     {
      "media": "Journal Métro",
      "url": "https://journalmetro.com/actualites/elections/3226432/christine-frechette-ramene-lidee-dun-rem-de-lest-jusqua-repentigny/",
-     "date": "2026-09-03T16:25-04:00"
+     "date": "2026-09-03T16:25-04:00",
+     "auteur": "Olivier Robichaud"
     }
    ],
    "permalien": "projet-structurant-de-l-est-la-ccem-presse-les-partis-freche-1e39b8",
@@ -5023,7 +5879,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280396/redevances-mines-parti-quebecois-elections",
-     "date": "2026-09-03T16:25-04:00"
+     "date": "2026-09-03T16:25-04:00",
+     "auteur": "Renaud Chicoine-McKenzie"
     }
    ],
    "permalien": "le-pq-promet-de-hausser-a-10-les-redevances-minieres-versees-37bc6c",
@@ -5047,7 +5904,8 @@
     {
      "media": "Les 2 Rives",
      "url": "https://les2rives.com/quebec-solidaire-a-trouve-son-candidat-dans-richelieu/",
-     "date": "2026-09-03T16:25-04:00"
+     "date": "2026-09-03T16:25-04:00",
+     "auteur": "Jean-Philippe Morin"
     }
    ],
    "permalien": "quebec-solidaire-a-trouve-son-candidat-dans-richelieu-le-lut-bbcccc",
@@ -5071,17 +5929,20 @@
     {
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/03/le-pequiste-francois-gariepy-se-confie-a-richard-martineau-sur-ses--propos-regrettables",
-     "date": "2026-09-03T17:19-04:00"
+     "date": "2026-09-03T17:19-04:00",
+     "auteur": "Marc-André Gagnon"
     },
     {
      "media": "FM93",
      "url": "https://www.fm93.com/nouvelles/798470/francois-gariepy-est-un-allie-du-3e-lien-selon-une-candidate-du-pcq",
-     "date": "2026-09-04T03:28-04:00"
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Félix-Antoine Bétil"
     },
     {
      "media": "La Tribune",
      "url": "https://www.latribune.ca/chroniques/mickael-bergeron/2026/09/04/propos-controverses-distraction-ou-erreur-de-jugement-des-chefs-KED4HWR3ZJDLHPDEQDRKEXZPVQ/",
-     "date": "2026-09-04T05:00-04:00"
+     "date": "2026-09-04T05:00-04:00",
+     "auteur": "Mickaël Bergeron"
     }
    ],
    "permalien": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5",
@@ -5109,7 +5970,8 @@
     {
      "media": "Coops de l'information",
      "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/03/christine-frechette-promet-200-millions-de-dollars-dans-la-sepaq-SAUNQSPJ3ZBWVG6BHW5NH6RBUY/",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Tommy Brochu"
     }
    ],
    "horodate": "2026-09-03T17:55-04:00",
@@ -5134,7 +5996,8 @@
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1006376/duhaime-reclame-pleins-pouvoirs-matiere-immigration",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Sébastien Tanguay"
     }
    ],
    "image_auto": "aucune",
@@ -5158,7 +6021,8 @@
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/03/mauricie-et-centre-du-quebec-les-manufacturiers-veulent-leur-propre-ministere",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Marie-Michelle Martel"
     }
    ],
    "image_auto": "aucune",
@@ -5182,7 +6046,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280448/table-mrc-priorite-elections-provinciales",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Alex Delcourt"
     },
     {
      "media": "L'Express",
@@ -5211,12 +6076,14 @@
     {
      "media": "Journal Le Saint-François",
      "url": "https://journalsaint-francois.ca/le-communautaire-a-boutte-simmisce-dans-les-elections/",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Eric Tremblay"
     },
     {
      "media": "Le Soleil de Châteauguay",
      "url": "https://cybersoleil.com/le-communautaire-a-boutte-simmisce-dans-les-elections/",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Eric Tremblay"
     }
    ],
    "image_auto": "aucune",
@@ -5264,12 +6131,14 @@
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/799718/mark-carney-souffle-dans-les-voiles-de-christine-frechette",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Larry Dufresne et Alexandre Lebrun"
     },
     {
      "media": "FM93",
      "url": "https://www.fm93.com/balados/631115/episode/799758/3-septembre-2026-2e-heure-christine-frechette-peut-dire-merci-a-mark-carney",
-     "date": "2026-09-04T03:28-04:00"
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Sylvain Bouchard et Richard Courchesne"
     }
    ],
    "image_auto": "aucune",
@@ -5293,7 +6162,8 @@
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/799362/infrastructures-le-plq-promet-une-enveloppe-de-195-milliards-sur-10-ans",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Larry Dufresne et Alexandre Lebrun"
     }
    ],
    "permalien": "le-plq-promet-195-milliards-sur-10-ans-pour-les-infrastructu-2b7eb9",
@@ -5317,7 +6187,8 @@
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/799327/acces-a-la-propriete-quebec-solidaire-veut-financer-la-mise-de-fonds-des-jeunes",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Larry Dufresne et Alexandre Lebrun"
     }
    ],
    "permalien": "quebec-solidaire-veut-financer-la-mise-de-fonds-des-premiers-b4cd01",
@@ -5341,7 +6212,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280515/frechette-caq-orford-campagne-electorale",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Marie-Hélène Rousseau"
     }
    ],
    "permalien": "frechette-boucle-sa-8e-journee-de-campagne-dans-orford-la-ci-945182",
@@ -5365,7 +6237,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280511/agrandissement-chaur-trois-rivieres-hopital-drummondville",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Pascale Langlois"
     }
    ],
    "permalien": "l-agrandissement-promis-du-chaur-a-trois-rivieres-fait-reagi-d3916c",
@@ -5389,12 +6262,14 @@
     {
      "media": "Qc125 (Philippe J. Fournier)",
      "url": "https://www.qc125.ca/p/vers-une-fracture-generationnelle",
-     "date": "2026-09-03T22:08-04:00"
+     "date": "2026-09-03T22:08-04:00",
+     "auteur": "Philippe J. Fournier"
     },
     {
      "media": "Qc125.com",
      "url": "https://qc125.com/",
-     "date": "2026-09-03T22:08-04:00"
+     "date": "2026-09-03T22:08-04:00",
+     "auteur": "Philippe J. Fournier"
     }
    ],
    "permalien": "selon-qc125-les-gains-de-la-caq-dans-les-sondages-vienn-e4e76f",
@@ -5419,32 +6294,38 @@
     {
      "media": "QUB radio",
      "url": "https://www.qub.ca/2026/09/02/possible-fermeture-du-college-lasalle-un-climat-dinquietude-difficile-a-vivre",
-     "date": "2026-09-03T06:14-04:00"
+     "date": "2026-09-03T06:14-04:00",
+     "auteur": "Agence QMI"
     },
     {
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/03/rentree-suspendue-au-college-lasalle-on-veut-juste-rentrer-a-lecole",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Agence QMI"
     },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/actualites/justice/1006235/sort-college-lasalle-connu-jeudi-apres-midi",
-     "date": "2026-09-03T16:01-04:00"
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Léo Mercier-Ross"
     },
     {
      "media": "Québecor",
      "url": "https://www.journaldemontreal.com/2026/09/03/le-college-lasalle-pourra-rouvrir-des-demain-malgre-ses-dettes",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Marianne Lafleur"
     },
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12047365/montreals-lasalle-college-will-open-its-doors-as-judge-renews-creditor-protection/",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Marieke Glorieux-Stryckman"
     },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php",
-     "date": "2026-09-04T06:08-04:00"
+     "date": "2026-09-04T06:08-04:00",
+     "auteur": "Chloé Bourquin"
     }
    ],
    "resume": "Le Collège LaSalle a rouvert ses portes vendredi à ses 3200 étudiants après que la Cour supérieure a prolongé sa protection contre ses créanciers et forcé le rétablissement des subventions gouvernementales suspendues depuis juin. Le juge Martin Castonguay a reproché au gouvernement de ne pas avoir offert de porte de sortie à l'établissement, dont la dette totale envers Québec atteint près de 48 millions de dollars en raison d'un dépassement de ses quotas d'inscription en anglais.",
@@ -5483,27 +6364,32 @@
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12045015/elections-quebec-french-english-voter-documents-too-late/",
-     "date": "2026-09-02T14:24-04:00"
+     "date": "2026-09-02T14:24-04:00",
+     "auteur": "Erika Morris"
     },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1006220/frechette-ne-reculera-pas-documents-electoraux-francais-seulement",
-     "date": "2026-09-02T16:22-04:00"
+     "date": "2026-09-02T16:22-04:00",
+     "auteur": "Sandrine Vieira"
     },
     {
      "media": "Montreal Gazette",
      "url": "https://montrealgazette.com/quebec-elections/quebec-french-only-voter-cards-julius-grey-legal-challenges/",
-     "date": "2026-09-02T21:55-04:00"
+     "date": "2026-09-02T21:55-04:00",
+     "auteur": "Kalina Laframboise"
     },
     {
      "media": "CTV News",
      "url": "https://www.ctvnews.ca/montreal/article/elections-quebec-says-its-too-late-to-print-voter-documents-in-english/",
-     "date": "2026-09-03T08:57-04:00"
+     "date": "2026-09-03T08:57-04:00",
+     "auteur": "Robin Della Corte"
     },
     {
      "media": "Sherbrooke Record",
      "url": "https://www.sherbrookerecord.com/elections-quebec-to-send-pre-election-mailouts-in-french-only/",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Matthew McCully"
     },
     {
      "media": "CBC",
@@ -5513,7 +6399,8 @@
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12047363/quebec-election-frechette-french-only-voter-cards/",
-     "date": "2026-09-03T20:20-04:00"
+     "date": "2026-09-03T20:20-04:00",
+     "auteur": "Alessia Simona Maratta et Timothy Sargeant"
     }
    ],
    "permalien": "elections-quebec-enverra-pour-la-premiere-fois-ses-documents-e80519",
@@ -5536,17 +6423,20 @@
     {
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/03/fuck-you-ostie--a-trump--pspp-accuse-la-caq-davoir-orchestre-une-mise-en-scene-frechette-replique-quil-vit-dans-un--monde-imaginaire",
-     "date": "2026-09-02T19:24-04:00"
+     "date": "2026-09-02T19:24-04:00",
+     "auteur": "Nicolas Lachance"
     },
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/en-bref/90-17130/bernad-drainville-trump-radio",
-     "date": "2026-09-03T14:25-04:00"
+     "date": "2026-09-03T14:25-04:00",
+     "auteur": "Ariane Émond"
     },
     {
      "media": "L'actualité",
      "url": "https://lactualite.com/politique/une-question-dunite/",
-     "date": "2026-09-03T16:25-04:00"
+     "date": "2026-09-03T16:25-04:00",
+     "auteur": "Alexandre Robillard"
     },
     {
      "media": "CBC",
@@ -5556,7 +6446,8 @@
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/799390/f-you-h-stei-bernard-drainville-s-en-prend-a-trump",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Jean Fournier"
     }
    ],
    "horodate": "2026-09-03T14:23-04:00",
@@ -5583,12 +6474,14 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-02/l-ia-au-quotidien/l-ia-peut-elle-faire-maigrir-l-etat.php",
-     "date": "2026-09-02T21:19-04:00"
+     "date": "2026-09-02T21:19-04:00",
+     "auteur": "Jean-François Ouellet"
     },
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/799622/le-pcq-veut-remplacer-des-fonctionnaires-par-l-ia-une-vision-un-peu-limitee",
-     "date": "2026-09-03T21:27-04:00"
+     "date": "2026-09-03T21:27-04:00",
+     "auteur": "Maxim P. Paquet et Maxime Sarrasin"
     }
    ],
    "permalien": "le-pcq-promet-de-reduire-la-fonction-publique-de-20-000-post-795aba",
