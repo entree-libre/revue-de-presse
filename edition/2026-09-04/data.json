@@ -1,13 +1,324 @@
 {
  "date": "2026-09-04",
  "volets": [
+  "economie-opinions",
   "elections",
+  "hors-rss",
   "monde",
   "presse-regionale",
   "quebec-canada",
   "report"
  ],
  "articles": [
+  {
+   "titre": "La Banque du Canada maintient son taux directeur à 2,25 %",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Banque du Canada, Conseiller",
+   "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+   "resume": "La Banque du Canada a maintenu jeudi, pour une septième fois consécutive, son taux directeur à 2,25 %, invoquant la guerre commerciale avec les États-Unis et la hausse des prix de l'énergie liée au Moyen-Orient malgré un rebond du PIB canadien de 3,3 % au deuxième trimestre — une décision qui, selon Pierre-Benoît Gauthier, d'IG Gestion de patrimoine, signale surtout que les risques à la hausse sur l'inflation ont augmenté.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Banque du Canada",
+     "url": "https://www.banqueducanada.ca/2026/09/fad-communique-2026-09-02/",
+     "date": "2026-09-02T10:00-04:00"
+    },
+    {
+     "media": "Conseiller",
+     "url": "https://conseiller.ca/nouvelles/economie/la-banque-du-canada-joue-la-prudence/",
+     "date": "2026-09-02T00:00-04:00"
+    }
+   ],
+   "permalien": "la-banque-du-canada-maintient-son-taux-directeur-a-2-25-71be32",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "la-banque-du-canada-maintient-son-taux-directeur-a-2-25-71be32"
+  },
+  {
+   "titre": "L'emploi recule de 42 000 postes au Canada en août, le taux de chômage stable à 6,4 %",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Statistique Canada, La Presse",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260904/dq260904a-fra.htm",
+   "resume": "Statistique Canada a fait état vendredi d'un recul de 42 000 emplois au pays en août (-0,2 %), le taux de chômage demeurant à 6,4 % — au Québec, seule province à afficher un repli de l'emploi sur douze mois, 19 000 emplois ont été perdus en août, surtout dans la région de Montréal, et le taux de chômage y est resté à 5,6 %, le deuxième plus bas au pays.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Statistique Canada",
+     "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260904/dq260904a-fra.htm",
+     "date": "2026-09-04T08:30-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-04/aout/le-taux-de-chomage-demeure-inchange-au-canada-et-au-quebec.php",
+     "date": "2026-09-04T08:38-04:00"
+    }
+   ],
+   "permalien": "l-emploi-recule-de-42-000-postes-au-canada-en-aout-le-taux-d-44f6a8",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "l-emploi-recule-de-42-000-postes-au-canada-en-aout-le-taux-d-44f6a8"
+  },
+  {
+   "titre": "Le Canada affiche un excédent commercial de 769 millions $ en juillet",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Le Devoir, La Presse canadienne",
+   "url": "https://www.ledevoir.com/economie/1006451/canada-affiche-excedent-commercial-769-millions-juillet",
+   "resume": "Le Canada a enregistré en juillet un excédent commercial de 769 millions de dollars, en net repli par rapport aux 4,2 milliards de juin, sous l'effet d'une première baisse des exportations en six mois (-2,3 %, à 76,1 milliards), selon Statistique Canada — un résultat antérieur aux droits de douane américains entrés en vigueur en août, dont l'économiste Shelly Kaushik, de BMO, prévient qu'ils pèseront sur les exportations nettes au troisième trimestre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1006451/canada-affiche-excedent-commercial-769-millions-juillet",
+     "date": "2026-09-03T19:33-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-03/le-canada-affiche-un-excedent-commercial-de-769-millions-en-juillet.php",
+     "date": "2026-09-03T14:32-04:00"
+    }
+   ],
+   "permalien": "le-canada-affiche-un-excedent-commercial-de-769-millions-en-d87903",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "le-canada-affiche-un-excedent-commercial-de-769-millions-en-d87903"
+  },
+  {
+   "titre": "Quincaillerie Richelieu achète la division quincaillerie de l'américaine Penrod",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Le Journal de Montréal, InfoBref",
+   "url": "https://www.journaldemontreal.com/2026/09/03/richelieu-poursuit-son-expansion-aux-etats-unis-avec-une-importante-acquisition",
+   "resume": "Quincaillerie Richelieu a conclu l'acquisition de la division quincaillerie de l'américaine Penrod, distributeur centenaire de portes, ajoutant sept centres de distribution à son réseau nord-américain — désormais 131 — et 70 millions $ US à ses ventes annuelles, sa cinquième acquisition de l'exercice 2026; le prix n'a pas été dévoilé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/03/richelieu-poursuit-son-expansion-aux-etats-unis-avec-une-importante-acquisition",
+     "date": "2026-09-03T08:15-04:00"
+    },
+    {
+     "media": "InfoBref",
+     "url": "https://infobref.com/richelieu-penrod-2026-09/",
+     "date": "2026-09-04T00:36-04:00"
+    }
+   ],
+   "permalien": "quincaillerie-richelieu-achete-la-division-quincaillerie-de-de75b7",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "quincaillerie-richelieu-achete-la-division-quincaillerie-de-de75b7"
+  },
+  {
+   "titre": "Le chef de l'exploitation de la Banque TD, Taylan Turan, quitte son poste",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Finance et Investissement",
+   "url": "https://www.finance-investissement.com/le-chef-de-lexploitation-de-td-quitte-deja-son-poste/",
+   "resume": "Le chef de l'exploitation du Groupe Banque TD, Taylan Turan, quitte l'institution moins d'un an après son arrivée, sans qu'aucune raison n'ait été donnée ni de successeur nommé, selon La Presse Canadienne, dans la foulée d'autres nominations à la haute direction sous le PDG Raymond Chun.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Toronto_Dominion_Bank_Building_01.JPG/1280px-Toronto_Dominion_Bank_Building_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Un édifice de la Banque TD, à Toronto.",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Finance et Investissement",
+     "url": "https://www.finance-investissement.com/le-chef-de-lexploitation-de-td-quitte-deja-son-poste/",
+     "date": "2026-09-04T08:11-04:00"
+    }
+   ],
+   "permalien": "le-chef-de-l-exploitation-de-la-banque-td-taylan-turan-quitt-520d04",
+   "photo_auteur": "Jeangagnon",
+   "photo_licence": "CC BY-SA 3.0",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "le-chef-de-l-exploitation-de-la-banque-td-taylan-turan-quitt-520d04"
+  },
+  {
+   "titre": "Metro fermera son magasin fantôme de commandes en ligne à Montréal",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Le Devoir, La Presse canadienne",
+   "url": "https://www.ledevoir.com/economie/1005782/metro-fermera-magasin-fantome-montreal",
+   "resume": "Metro fermera son « magasin fantôme » dédié aux commandes en ligne à Montréal, une décision touchant plus de 150 employés — dont plusieurs seront redirigés vers 31 magasins de la région métropolitaine —, pour miser sur un traitement des commandes en succursale avec livraison par des tiers, a expliqué le futur chef de la direction, Marc Giroux, selon La Presse Canadienne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005782/metro-fermera-magasin-fantome-montreal",
+     "date": "2026-09-03T09:49-04:00"
+    }
+   ],
+   "permalien": "metro-fermera-son-magasin-fantome-de-commandes-en-ligne-a-mo-65bb71",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "metro-fermera-son-magasin-fantome-de-commandes-en-ligne-a-mo-65bb71"
+  },
+  {
+   "titre": "La Caisse investit 1,76 milliard $ dans des tours de télécommunications en Inde",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/economie/1005764/caisse-investit-1-76-milliard-tours-cellulaires-inde",
+   "resume": "La Caisse de dépôt et placement du Québec investit l'équivalent de 1,76 milliard de dollars pour acquérir une participation minoritaire dans un parc de tours de télécommunications en Inde, selon Le Devoir.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Edifice_Jacques-Parizeau_-_02.jpg/1280px-Edifice_Jacques-Parizeau_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'Édifice Jacques-Parizeau, siège social de la Caisse de dépôt et placement du Québec, à Montréal.",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1005764/caisse-investit-1-76-milliard-tours-cellulaires-inde",
+     "date": "2026-09-02T12:49-04:00"
+    }
+   ],
+   "permalien": "la-caisse-investit-1-76-milliard-dans-des-tours-de-telecommu-c47bf0",
+   "photo_auteur": "Jeangagnon",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "la-caisse-investit-1-76-milliard-dans-des-tours-de-telecommu-c47bf0"
+  },
+  {
+   "titre": "Les cols bleus de Montréal déposent un avis de grève de sept jours pendant les Mondiaux de cyclisme",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/03/les-cols-bleus-de-montreal-en-greve-pendant-les-mondiaux-de-cyclisme",
+   "resume": "Le syndicat des cols bleus de Montréal (SCFP 301–FTQ) a déposé un avis de grève de sept jours, du 22 au 28 septembre, en plein Championnats du monde UCI de cyclisme sur route, si aucune entente n'est conclue d'ici là; son président, Nicolas De Ciccio, reproche à la Ville d'offrir des hausses salariales inférieures à l'inflation.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/H%C3%B4tel_de_Ville_de_Montr%C3%A9al%2C_juin_2024.jpg/1280px-H%C3%B4tel_de_Ville_de_Montr%C3%A9al%2C_juin_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'hôtel de ville de Montréal, employeur des cols bleus municipaux.",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/03/les-cols-bleus-de-montreal-en-greve-pendant-les-mondiaux-de-cyclisme",
+     "date": "2026-09-03T06:48-04:00"
+    }
+   ],
+   "permalien": "les-cols-bleus-de-montreal-deposent-un-avis-de-greve-de-sept-367dad",
+   "photo_auteur": "Pierre5018",
+   "photo_licence": "CC BY 4.0",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "les-cols-bleus-de-montreal-deposent-un-avis-de-greve-de-sept-367dad"
+  },
+  {
+   "titre": "Abolir Santé Québec : un débat entre structure et usagers",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Le Journal de Montréal",
+   "url": "https://www.ledevoir.com/opinion/editoriaux/1005998/abolir-sante-quebec-lubie",
+   "resume": "Alors que le Parti québécois et le Parti conservateur du Québec proposent d'abolir Santé Québec, l'éditorialiste Marie-Andrée Chouinard juge la mesure prématurée dans Le Devoir, deux ans à peine après la création de l'organisme, avertissant qu'un nouveau démantèlement risque de démobiliser un personnel déjà à bout de souffle. La directrice générale du Regroupement provincial des comités des usagers, Sylvie Tremblay, réplique dans Le Journal de Montréal que ce débat sur la structure occulte l'essentiel : une réelle décentralisation vers les usagers et un meilleur accès à la première ligne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/opinion/editoriaux/1005998/abolir-sante-quebec-lubie",
+     "date": "2026-09-03T00:00-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/03/abolir-ou-non-sante-quebec-et-si-le-veritable-debat-portait-sur-les-usagers-du-reseau",
+     "date": "2026-09-03T11:04-04:00"
+    }
+   ],
+   "permalien": "abolir-sante-quebec-un-debat-entre-structure-et-usagers-ed74ca",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "abolir-sante-quebec-un-debat-entre-structure-et-usagers-ed74ca"
+  },
+  {
+   "titre": "IRIS : les réformes québécoises poussent les jeunes au travail plus tôt, les aînés plus tard",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "IRIS",
+   "url": "https://iris-recherche.qc.ca/blogue/travail-et-emploi/incitation-emploi/",
+   "resume": "Depuis le début des années 2000, une accumulation de réformes fiscales et de politiques publiques pousse implicitement les jeunes à entrer plus tôt sur le marché du travail et les aînés à en retarder la sortie, écrit le chercheur Pierre Tircher pour l'IRIS, qui plaide pour une intervention publique accrue et cite Statistique Canada, selon qui plus de la moitié des aînés en emploi au Canada disaient en 2018 travailler « par nécessité ».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "IRIS",
+     "url": "https://iris-recherche.qc.ca/blogue/travail-et-emploi/incitation-emploi/",
+     "date": "2026-09-04T00:00-04:00"
+    }
+   ],
+   "permalien": "iris-les-reformes-quebecoises-poussent-les-jeunes-au-travail-f2fe9d",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "iris-les-reformes-quebecoises-poussent-les-jeunes-au-travail-f2fe9d"
+  },
+  {
+   "titre": "Une coalition syndicale réclame la fin des échappatoires fiscales avant toute coupe",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-03/finances-publiques/attaquons-nous-aux-echappatoires-fiscales-avant-de-couper.php",
+   "resume": "Un collectif mené par le coordonnateur d'Échec aux paradis fiscaux, Émile Brassard, et cosigné par quinze organisations syndicales et étudiantes — dont la FTQ, la CSN et la CSQ —, demande à Québec de récupérer les sommes perdues en évasion fiscale avant de couper dans les services publics. Il cite un rapport de Canadiens pour une fiscalité équitable selon lequel les grandes entreprises et fortunes canadiennes détenaient au moins 682 milliards de dollars dans 15 paradis fiscaux en 2024 — une hausse de 165 % depuis 2014 —, pour des pertes fiscales annuelles estimées à 15 milliards au pays.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-03/finances-publiques/attaquons-nous-aux-echappatoires-fiscales-avant-de-couper.php",
+     "date": "2026-09-03T15:00-04:00"
+    }
+   ],
+   "permalien": "une-coalition-syndicale-reclame-la-fin-des-echappatoires-fis-5465e7",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "une-coalition-syndicale-reclame-la-fin-des-echappatoires-fis-5465e7"
+  },
+  {
+   "titre": "Guerre commerciale : un fellow du CIRANO plaide pour la solidarité et une sortie à long terme",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-04/guerre-commerciale/courage-lui-dit-sa-mere.php",
+   "resume": "Dans La Presse, Miville Tremblay, fellow invité au CIRANO, appelle le Canada à tenir bon face aux exigences américaines — accès exclusif aux minéraux critiques, droit de regard sur les futures ententes commerciales, abandon d'obligations sur le français — que Mark Carney a rejetées malgré le risque d'escalade. Il cite l'économiste Trevor Tombe, de l'Université de Calgary, selon qui l'Alberta pourrait à elle seule perdre 9000 emplois si les tarifs américains restent en vigueur, et souligne le plan fédéral de 7,5 milliards $, financé par les recettes tarifaires, pour soutenir les secteurs touchés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-04/guerre-commerciale/courage-lui-dit-sa-mere.php",
+     "date": "2026-09-04T03:00-04:00"
+    }
+   ],
+   "permalien": "guerre-commerciale-un-fellow-du-cirano-plaide-pour-la-solida-2c3de3",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-04.json",
+   "_slug": "guerre-commerciale-un-fellow-du-cirano-plaide-pour-la-solida-2c3de3"
+  },
   {
    "titre": "Éric Duhaime promet 6000 emplois en ouvrant la porte aux gaz de schiste",
    "cahier": "elections",
@@ -482,6 +793,465 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "les-candidats-caquistes-de-la-rive-sud-defendent-le-bilan-du-58c3fd"
+  },
+  {
+   "titre": "Le PCQ propose un pont à haubans entre l'île d'Orléans et Lévis comme troisième lien",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Québec / Lévis",
+   "medias": "Le Devoir, Les Affaires, Coops de l'information",
+   "url": "https://www.ledevoir.com/politique/quebec/1006565/conservateurs-veulent-troisieme-lien-imparfait-arreter-tourner-rond",
+   "resume": "Le chef conservateur Éric Duhaime propose, comme troisième lien, un pont à haubans de 2,15 kilomètres reliant l'île d'Orléans à Lévis, dont le PCQ évalue le coût à près de 3 milliards de dollars entièrement payés par l'État. Il accuse la première ministre Christine Fréchette d'avoir caché des travaux majeurs prévus sur le pont Pierre-Laporte, ce qu'elle dément tout en critiquant un projet qui, dit-elle, repose uniquement sur les finances publiques.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006565/conservateurs-veulent-troisieme-lien-imparfait-arreter-tourner-rond",
+     "date": "2026-09-04T10:16-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-9-le-pcq-presente-son-projet-de-3e-lien-evalue-a-3g/",
+     "date": "2026-09-04T09:25-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T10:30-04:00",
+   "permalien": "le-pcq-propose-un-pont-a-haubans-entre-l-ile-d-orleans-et-le-86a94c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "le-pcq-propose-un-pont-a-haubans-entre-l-ile-d-orleans-et-le-86a94c"
+  },
+  {
+   "titre": "La CAQ promet de déréglementer une partie de l'industrie de la construction",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "La Presse, Les Affaires",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/caq/moins-de-normes-pour-construire-plus-vite.php",
+   "resume": "Réélue, la Coalition avenir Québec promet de réviser les normes de sécurité en construction selon le risque réel de chaque bâtiment, d'éliminer les démarches en double avec les municipalités et de soustraire les rénovations légères des immeubles de moins de huit logements à la loi R-20. Christine Fréchette veut aussi réduire les délais pour les promoteurs tout en maintenant, assure-t-elle, les exigences de qualification et de sécurité des travailleurs.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/caq/moins-de-normes-pour-construire-plus-vite.php",
+     "date": "2026-09-04T09:00-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/jour-9-la-caq-veut-dereglementer-lindustrie-de-la-construction-pour-faire-face-a-la-crise-du-logement/",
+     "date": "2026-09-04T09:41-04:00"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T10:30-04:00",
+   "permalien": "la-caq-promet-de-dereglementer-une-partie-de-l-industrie-de-7f8417",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "la-caq-promet-de-dereglementer-une-partie-de-l-industrie-de-7f8417"
+  },
+  {
+   "titre": "La péquiste Odette Lavigne dénonce le bilan de la CAQ dans René-Lévesque",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Côte-Nord (René-Lévesque)",
+   "medias": "Le Manic, Le Haute-Côte-Nord",
+   "url": "https://www.lemanic.ca/2026/09/04/elections-2026-dans-rene-levesque-odette-lavigne-severe-face-au-bilan-de-la-caq/",
+   "resume": "La candidate péquiste dans René-Lévesque, Odette Lavigne, dénonce un bilan caquiste marqué selon elle par des « dépenses frivoles » — 1,1 milliard de dollars perdus dans SAAQclic et 710 millions dans Northvolt — et une gestion qu'elle juge déficiente de la foresterie et du droit de grève sur la Côte-Nord. Elle reproche au député sortant Yves Montigny d'avoir « relayé les messages » de François Legault plutôt que de défendre les travailleurs de la région.",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/04/elections-2026-dans-rene-levesque-odette-lavigne-severe-face-au-bilan-de-la-caq/",
+     "date": "2026-09-04T09:23-04:00"
+    },
+    {
+     "media": "Le Haute-Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/04/elections-2026-dans-rene-levesque-odette-lavigne-severe-face-au-bilan-de-la-caq/",
+     "date": "2026-09-04T09:23-04:00"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T10:30-04:00",
+   "permalien": "la-pequiste-odette-lavigne-denonce-le-bilan-de-la-caq-dans-r-b96046",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "la-pequiste-odette-lavigne-denonce-le-bilan-de-la-caq-dans-r-b96046"
+  },
+  {
+   "titre": "Le solidaire Philippe C.-Boudreau fait du logement un enjeu dans René-Lévesque",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Côte-Nord (René-Lévesque)",
+   "medias": "Le Manic, Le Haute-Côte-Nord",
+   "url": "https://www.lemanic.ca/2026/09/04/elections-2026-dans-rene-levesque-le-candidat-solidaire-veut-sattaquer-a-la-crise-du-logement/",
+   "resume": "Le candidat solidaire dans René-Lévesque, Philippe C.-Boudreau, propose de plafonner les hausses de loyer à 3 % par année et un programme de co-investissement de l'État pouvant atteindre 50 000 $ pour les premiers acheteurs, alors que les loyers de la circonscription auraient grimpé d'environ 7 % en 2025 selon lui. Il veut aussi forcer les plateformes comme Airbnb à vérifier la légalité de leurs annonces, évoquant un taux de 86 % d'annonces illégales sur la Côte-Nord en 2023 selon des données citées par Québec solidaire.",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/04/elections-2026-dans-rene-levesque-le-candidat-solidaire-veut-sattaquer-a-la-crise-du-logement/",
+     "date": "2026-09-04T09:37-04:00"
+    },
+    {
+     "media": "Le Haute-Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/04/elections-2026-dans-rene-levesque-le-candidat-solidaire-veut-sattaquer-a-la-crise-du-logement/",
+     "date": "2026-09-04T09:37-04:00"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T10:30-04:00",
+   "permalien": "le-solidaire-philippe-c-boudreau-fait-du-logement-un-enjeu-d-9e3c5c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "le-solidaire-philippe-c-boudreau-fait-du-logement-un-enjeu-d-9e3c5c"
+  },
+  {
+   "titre": "La mort d'une adolescente dans un silo de Shawinigan vaut quatre recommandations au ministère de l'Environnement",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Shawinigan (Mauricie)",
+   "medias": "Bureau du coroner",
+   "url": "https://www.coroner.gouv.qc.ca/rapports-et-recommandations/repertoire/detail/recommandation/664",
+   "resume": "Le coroner Jean-François Labadie demande au ministère de l'Environnement d'inspecter en continu l'ancienne usine de Shawinigan où une adolescente est morte le 11 avril 2025 après une chute de 25 mètres dans un silo, d'y éliminer les dangers et d'en interdire clairement l'accès, et d'appliquer enfin les articles de la Loi sur la qualité de l'environnement qui obligent les propriétaires de sites contaminés à fournir une garantie financière.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Bureau du coroner",
+     "url": "https://www.coroner.gouv.qc.ca/rapports-et-recommandations/repertoire/detail/recommandation/664",
+     "date": "2026-09-04T10:13-04:00"
+    },
+    {
+     "media": "Bureau du coroner",
+     "url": "https://www.coroner.gouv.qc.ca/medias/actualites/detail/actualite/298",
+     "date": "2026-09-03T06:14-04:00"
+    }
+   ],
+   "permalien": "la-mort-d-une-adolescente-dans-un-silo-de-shawinigan-vaut-qu-ff7f6c",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "la-mort-d-une-adolescente-dans-un-silo-de-shawinigan-vaut-qu-ff7f6c"
+  },
+  {
+   "titre": "Montréal porte en appel le jugement qui l'empêche de démanteler le campement du viaduc Van Horne",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Montréal (Le Plateau-Mont-Royal)",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/montreal-to-appeal-van-horne-homeless-encampment/",
+   "resume": "La Ville conteste en appel la décision de la Cour supérieure qui, en juin, lui a interdit de démanteler le campement d'une dizaine de personnes installé près du viaduc Van Horne, le juge ayant écarté les deux sites de relogement proposés — l'un sans eau ni toilettes ni éclairage sous le viaduc Rosemont, l'autre appelé à devenir une patinoire l'hiver venu.\n\nMontréal réclame parallèlement à Québec 3 200 places d'hébergement d'urgence ouvertes en tout temps, 2 000 logements de transition avec accompagnement et 45 % de l'enveloppe des programmes provinciaux d'habitation.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/montreal-to-appeal-van-horne-homeless-encampment/",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "montreal-porte-en-appel-le-jugement-qui-l-empeche-de-demante-347fc1",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "montreal-porte-en-appel-le-jugement-qui-l-empeche-de-demante-347fc1"
+  },
+  {
+   "titre": "La Cour d'appel ordonne à Montréal de rembourser 1,5 million $ aux promoteurs de Bois-Franc",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Montréal (Saint-Laurent)",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/city_news/appeals-court-orders-montreal-to-refund-saint-laurent-project-developers/article_3397a9b2-03cb-4d44-b86c-cfce4753a349.html",
+   "resume": "La Cour d'appel du Québec a infirmé le 20 août un jugement de 2025 favorable à la Ville et lui ordonne de rendre les 302 500 $ et 1,25 million $ versés sous protêt par les promoteurs du projet Bois-Franc, à Saint-Laurent, qui plaidaient que leur engagement de 2013 à réserver 12 % de logements sociaux et 12 % de logements abordables les soustrayait au règlement de 2021 imposant un paiement compensatoire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/city_news/appeals-court-orders-montreal-to-refund-saint-laurent-project-developers/article_3397a9b2-03cb-4d44-b86c-cfce4753a349.html",
+     "date": "2026-09-02T09:00-04:00"
+    }
+   ],
+   "permalien": "la-cour-d-appel-ordonne-a-montreal-de-rembourser-1-5-million-b0173a",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "la-cour-d-appel-ordonne-a-montreal-de-rembourser-1-5-million-b0173a"
+  },
+  {
+   "titre": "La station qui mesure les particules ultrafines de l'aéroport de Dorval est démontée depuis janvier",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Dorval (Montréal)",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/dorval-residents-press-for-answers-over-shutdown-of-airport-air-quality-station/article_5ba243a0-c105-4720-912c-77b442d73a3e.html",
+   "resume": "La station 66 du réseau de surveillance de la qualité de l'air de Montréal, installée sur le terrain de l'aéroport Montréal-Trudeau, est hors service depuis janvier pour cause de chantier et n'a pas été relocalisée malgré un retour annoncé pour le printemps ; le bilan municipal de 2024 y mesurait 23 873 particules ultrafines par centimètre cube en moyenne annuelle, contre 6 716 à une station résidentielle, et un dépassement du seuil élevé retenu par l'Organisation mondiale de la santé 330 jours sur l'année.\n\nAéroports de Montréal dit chercher un nouvel emplacement avec la Ville de Montréal ; ces particules ne sont encadrées par aucune norme québécoise.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/dorval-residents-press-for-answers-over-shutdown-of-airport-air-quality-station/article_5ba243a0-c105-4720-912c-77b442d73a3e.html",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "la-station-qui-mesure-les-particules-ultrafines-de-l-aeropor-f2d7a2",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "la-station-qui-mesure-les-particules-ultrafines-de-l-aeropor-f2d7a2"
+  },
+  {
+   "titre": "Longueuil veut empêcher la diffusion du nom du policier qui a tué Nooran Rezayi",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Longueuil (Montérégie)",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/city-opposes-release-of-name-of-longueuil-police-officer-who-shot-and-killed-teenager/",
+   "resume": "La Ville demande une ordonnance de confidentialité temporaire sur l'identité du policier qui a abattu Nooran Rezayi, 15 ans, le 21 septembre 2025, invoquant des menaces réelles — un adolescent a été déclaré coupable de harcèlement criminel en janvier pour avoir offert 2 000 $ sur Instagram pour l'assassiner —, alors que la famille, qui réclame 2,2 millions $ au service de police, veut faire connaître ce nom ; l'audience est reportée à octobre faute de temps de cour.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/city-opposes-release-of-name-of-longueuil-police-officer-who-shot-and-killed-teenager/",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "longueuil-veut-empecher-la-diffusion-du-nom-du-policier-qui-6e86c6",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "longueuil-veut-empecher-la-diffusion-du-nom-du-policier-qui-6e86c6"
+  },
+  {
+   "titre": "Des armes de fabrication artisanale saisies dans une remorque à Saint-Bernard-de-Lacolle",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Saint-Bernard-de-Lacolle (Montérégie)",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/cbsa-arrests-traveller-with-3d-printed-weapons-at-quebec-border-crossing/",
+   "resume": "Selon l'Agence des services frontaliers du Canada, des carcasses et des pièces d'armes à feu imprimées en trois dimensions ainsi que des armes prohibées ont été découvertes le 26 août dans la remorque d'un voyageur au poste frontalier de Saint-Bernard-de-Lacolle ; l'accusé, détenu en attendant son enquête sur remise en liberté, fait face à des accusations de fausse déclaration, de contrebande et de possession non autorisée de trois armes à feu prohibées au palais de justice de Saint-Jean-sur-Richelieu.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/cbsa-arrests-traveller-with-3d-printed-weapons-at-quebec-border-crossing/",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "des-armes-de-fabrication-artisanale-saisies-dans-une-remorqu-065fbf",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "des-armes-de-fabrication-artisanale-saisies-dans-une-remorqu-065fbf"
+  },
+  {
+   "titre": "Rivière-des-Prairies–Pointe-aux-Trembles autorise 296 logements sur trois terrains",
+   "cahier": "montreal",
+   "rubrique": "habitation",
+   "territoire": "Montréal (Rivière-des-Prairies–Pointe-aux-Trembles)",
+   "medias": "Arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
+   "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-rdp-pat-du-1er-septembre-2026-119810",
+   "resume": "Le conseil d'arrondissement a autorisé le 1er septembre un immeuble mixte de 45 logements sur le site d'un ancien salon funéraire du boulevard Maurice-Duplessis et l'agrandissement des immeubles des 15555 et 15655, rue Sherbrooke Est, qui ajoutera 251 logements, en exigeant dans les deux cas des mesures de verdissement, indique l'arrondissement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles",
+     "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-rdp-pat-du-1er-septembre-2026-119810",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "riviere-des-prairiespointe-aux-trembles-autorise-296-logemen-720e46",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "riviere-des-prairiespointe-aux-trembles-autorise-296-logemen-720e46"
+  },
+  {
+   "titre": "Les organismes de Côte-des-Neiges doutent des garanties d'abordabilité du projet Namur",
+   "cahier": "montreal",
+   "rubrique": "habitation",
+   "territoire": "Montréal (Côte-des-Neiges–Notre-Dame-de-Grâce)",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/city_news/housing-groups-have-doubts-about-the-namur-hippodrome-sector-project/article_76530e7a-54e9-4576-aa57-325a2d10824c.html",
+   "resume": "La Corporation de développement communautaire de Côte-des-Neiges réclame qu'un cinquième des 1 200 logements prévus sur la rue Namur, à l'est de l'autoroute Décarie, soit soustrait au marché, jugeant insuffisantes les assurances données lors de la consultation publique du 26 août ; l'arrondissement répond que le promoteur devra livrer au moins 20 % de logements abordables pendant vingt ans pour obtenir ses permis, et que la cible de plus de 50 % de logement hors marché tient toujours pour l'ensemble du secteur Namur-Hippodrome.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/city_news/housing-groups-have-doubts-about-the-namur-hippodrome-sector-project/article_76530e7a-54e9-4576-aa57-325a2d10824c.html",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "les-organismes-de-cote-des-neiges-doutent-des-garanties-d-ab-615c1f",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "les-organismes-de-cote-des-neiges-doutent-des-garanties-d-ab-615c1f"
+  },
+  {
+   "titre": "Une trentaine de résidents de la rue Notre-Dame réclament un feu de circulation à Repentigny",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Repentigny (Lanaudière)",
+   "medias": "Hebdo Rive Nord",
+   "url": "https://www.hebdorivenord.com/article/actualites/les-residents-demandent-de-laide-2/",
+   "resume": "Une trentaine de personnes ont manifesté devant le 230, rue Notre-Dame pour demander à la Ville d'y installer un feu de circulation, le locataire à l'origine du rassemblement, Jacques Jean, décrivant la traversée quotidienne de l'artère vers la pharmacie comme un danger.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Hebdo Rive Nord",
+     "url": "https://www.hebdorivenord.com/article/actualites/les-residents-demandent-de-laide-2/",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "une-trentaine-de-residents-de-la-rue-notre-dame-reclament-un-ba437a",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "une-trentaine-de-residents-de-la-rue-notre-dame-reclament-un-ba437a"
+  },
+  {
+   "titre": "Un Super C et un Jean Coutu en construction à Mascouche, 130 emplois annoncés",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Mascouche (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/montoni-superc-jean-coutu-mascouche/",
+   "resume": "Les travaux ont été lancés le 1er septembre sur l'avenue de l'Esplanade : le Super C de quelque 36 000 pieds carrés représente un investissement de 13,5 millions $ selon son vice-président aux opérations Éric Leclerc, la succursale de Jean Coutu couvrira près de 15 700 pieds carrés, et les deux commerces promettent ensemble plus de 130 emplois, une centaine et une trentaine respectivement.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Jean_Coutu_2010.jpg/1280px-Jean_Coutu_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Jean Coutu (pharmacien)",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/montoni-superc-jean-coutu-mascouche/",
+     "date": "2026-09-03T00:00-04:00"
+    }
+   ],
+   "permalien": "un-super-c-et-un-jean-coutu-en-construction-a-mascouche-130-76ff15",
+   "photo_auteur": "Asclepias",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-fr:Jean Coutu",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "un-super-c-et-un-jean-coutu-en-construction-a-mascouche-130-76ff15"
+  },
+  {
+   "titre": "Un casse-croûte de Beaumont dit son avenir menacé par la fermeture de son stationnement",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Beaumont (Bellechasse)",
+   "medias": "La Voix du Sud",
+   "url": "https://www.lavoixdusud.com/actualites/beaumont-un-casse-croute-menace/",
+   "resume": "Les propriétaires du Bus Stop et d'Helsy Traiteur, Noëlline Leduc-Paré et Patrick Arsenault, affirment que l'accès au stationnement arrière de leur commerce de la route 132 a été bloqué début juillet, en pleine saison forte, au nom de la réglementation municipale, et qu'ils sont depuis sans réponse de l'administration de Beaumont.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "La Voix du Sud",
+     "url": "https://www.lavoixdusud.com/actualites/beaumont-un-casse-croute-menace/",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "un-casse-croute-de-beaumont-dit-son-avenir-menace-par-la-fer-a3512a",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "un-casse-croute-de-beaumont-dit-son-avenir-menace-par-la-fer-a3512a"
+  },
+  {
+   "titre": "Un centre de réclamations ouvert à Saint-Isidore après la grêle du 24 août",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Saint-Isidore (Chaudière-Appalaches)",
+   "medias": "Beauce Média",
+   "url": "https://www.beaucemedia.ca/actualites/un-centre-de-grele-a-saint-isidore/",
+   "resume": "Promutuel Assurance a ouvert route du Président-Kennedy un centre où ses assurés touchés par les épisodes de grêle du 24 août font évaluer leurs dommages sur rendez-vous, sept jours d'ouverture étant prévus en septembre ; le local est partagé avec Beneva, qui y tient ses propres journées d'évaluation.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Beauce Média",
+     "url": "https://www.beaucemedia.ca/actualites/un-centre-de-grele-a-saint-isidore/",
+     "date": "2026-09-02T10:10-04:00"
+    }
+   ],
+   "permalien": "un-centre-de-reclamations-ouvert-a-saint-isidore-apres-la-gr-970c7d",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "un-centre-de-reclamations-ouvert-a-saint-isidore-apres-la-gr-970c7d"
+  },
+  {
+   "titre": "«On s'arrange entre nous» : plaidoyer pour une culture de création en région éloignée",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Rouyn-Noranda (Abitibi-Témiscamingue)",
+   "medias": "Le Journal de Québec",
+   "url": "https://www.journaldequebec.com/2026/09/04/les-regions-eloignees-meritent-aussi-une-culture-foisonnante",
+   "resume": "Émilise Lessard-Therrien oppose au refus répété des compagnies artistiques urbaines de tourner en région, faute de rentabilité, l'exemple de Beltane – La Feste païenne, un spectacle de cirque en forêt monté par des artistes établis près de Rouyn-Noranda et joué à guichets fermés cinq soirs de suite au lac Flavrian, à Évain.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Emilise_Lessard_Therrien_vertical_%28cropped%29.jpg/1280px-Emilise_Lessard_Therrien_vertical_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Émilise Lessard-Therrien",
+   "horodate": "2026-09-04T10:15-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/04/les-regions-eloignees-meritent-aussi-une-culture-foisonnante",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "on-s-arrange-entre-nous-plaidoyer-pour-une-culture-de-creati-f06252",
+   "photo_auteur": "Tad-Amie",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Émilise Lessard-Therrien",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-04.json",
+   "_slug": "on-s-arrange-entre-nous-plaidoyer-pour-une-culture-de-creati-f06252"
   },
   {
    "titre": "La Norvège saisit un navire russe dans l'Arctique pour faire exécuter une créance ukrainienne de 4,22 milliards de dollars",
@@ -3206,17 +3976,22 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "CBC, (canadafrancais.com)",
+   "medias": "CBC, (canadafrancais.com), CTV News Montréal",
    "url": "https://www.canadafrancais.com/nouvelles-nationales/conge-de-maternite-licenciement-et-assurance-emploi-victoire-des-travailleuses/",
-   "resume": "La Cour d'appel fédérale a rétabli une décision établissant que les dispositions de la Loi sur l'assurance-emploi privant certaines travailleuses en congé de maternité de prestations régulières, faute d'avoir accumulé assez d'heures assurables après un licenciement, violaient la Charte des droits et étaient discriminatoires.",
+   "resume": "La Cour d'appel fédérale a rétabli une décision établissant que les dispositions de la Loi sur l'assurance-emploi privant certaines travailleuses en congé de maternité de prestations régulières, faute d'avoir accumulé assez d'heures assurables après un licenciement, violaient la Charte des droits et étaient discriminatoires.\n\n**Mise à jour, 10 h 15** — La Cour d'appel fédérale a suspendu sa déclaration d'invalidité pour un an, le temps qu'Ottawa ajuste le régime, et renvoie les réclamations des six plaignantes à la Commission de l'assurance-emploi ; les personnes dans la même situation peuvent aussi demander réparation.",
    "sources": [
     {
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/montreal/federal-court-of-appeal-woman-mat-leave-no-ei-benefits-9.7331748?cmp=rss",
      "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/quebec-moms-win-appeal-over-ei-benefits-denied-after-maternity-job-loss/",
+     "date": "2026-09-03T21:52-04:00"
     }
    ],
-   "horodate": "2026-09-03T21:59-04:00",
+   "horodate": "2026-09-04T10:15-04:00",
    "permalien": "conge-de-maternite-et-assurance-emploi-victoire-des-travaill-1a771c",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-04.json",
