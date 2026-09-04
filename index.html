@@ -1,4 +1,14 @@
 <!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
+<script>
+/* Redirection immediate (4 sept. 2026) : la page de la racine ne doit jamais
+   se voir. location.replace ne laisse pas la racine dans l'historique (le
+   bouton Retour ne rebondit pas dessus), et la couleur de fond est celle du
+   theme du lecteur pour eviter un eclair beige sur un ecran sombre. */
+try{var t=(JSON.parse(localStorage.getItem('revue-prefs')||'{}').theme)||'';
+var b={'':'#ffffff',dark:'#111114',gris:'#8e8e94',beige:'#f1e7d2',jaune:'#ffe95e',contraste:'#000000'}[t]||'#ffffff';
+document.documentElement.style.background=b;}catch(e){}
+location.replace('edition/2026-09-04/'+(location.hash||''));
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://entreelibre.ca/">
@@ -11,8 +21,10 @@
 <meta property="og:title" content="Revue de presse — édition du 2026-09-04">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://entreelibre.ca/">
+<style>body{margin:0;padding:2rem;font-family:Georgia,serif;color:#2b2b2b;background:transparent;
+opacity:0;animation:v 0s 2s forwards}@keyframes v{to{opacity:1}}</style>
 </head>
-<body style="background:#f7f1e3;color:#2b2b2b;font-family:Georgia,serif;padding:2rem">
+<body>
 <h1>Revue de presse</h1>
 <p><a href="edition/2026-09-04/">Édition du 2026-09-04</a></p>
 <p><a href="edition/2026-09-04/flux.xml">Fil RSS</a></p>
