@@ -4,6 +4,7 @@
   "economie-opinions",
   "elections",
   "hors-rss",
+  "local",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -808,7 +809,7 @@
    "cahier": "elections",
    "rubrique": "transport",
    "territoire": "Québec / Lévis",
-   "medias": "Le Devoir, Les Affaires, Coops de l'information",
+   "medias": "Le Devoir, Les Affaires, Coops de l'information, Radio-Canada",
    "url": "https://www.ledevoir.com/politique/quebec/1006565/conservateurs-veulent-troisieme-lien-imparfait-arreter-tourner-rond",
    "resume": "Le chef conservateur Éric Duhaime propose, comme troisième lien, un pont à haubans de 2,15 kilomètres reliant l'île d'Orléans à Lévis, dont le PCQ évalue le coût à près de 3 milliards de dollars entièrement payés par l'État. Il accuse la première ministre Christine Fréchette d'avoir caché des travaux majeurs prévus sur le pont Pierre-Laporte, ce qu'elle dément tout en critiquant un projet qui, dit-elle, repose uniquement sur les finances publiques.",
    "sources": [
@@ -851,6 +852,11 @@
      "media": "La Voix de l'Est",
      "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
      "date": "2026-09-04T09:40-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280587/christine-frechette-pont-pierre-laporte-eric-duhaime",
+     "date": "2026-09-04T12:28-04:00"
     }
    ],
    "photo": "",
@@ -866,7 +872,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "La Presse, Les Affaires",
+   "medias": "La Presse, Les Affaires, Québecor",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/caq/moins-de-normes-pour-construire-plus-vite.php",
    "resume": "Réélue, la Coalition avenir Québec promet de réviser les normes de sécurité en construction selon le risque réel de chaque bâtiment, d'éliminer les démarches en double avec les municipalités et de soustraire les rénovations légères des immeubles de moins de huit logements à la loi R-20. Christine Fréchette veut aussi réduire les délais pour les promoteurs tout en maintenant, assure-t-elle, les exigences de qualification et de sécurité des travailleurs.",
    "sources": [
@@ -879,6 +885,11 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/bourse/jour-9-la-caq-veut-dereglementer-lindustrie-de-la-construction-pour-faire-face-a-la-crise-du-logement/",
      "date": "2026-09-04T09:41-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
+     "date": "2026-09-04T12:28-04:00"
     }
    ],
    "photo": "",
@@ -944,6 +955,168 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "le-solidaire-philippe-c-boudreau-fait-du-logement-un-enjeu-d-9e3c5c"
+  },
+  {
+   "titre": "Québec solidaire promet 510 millions $ par année pour la culture, dont un filet social pour les artistes",
+   "cahier": "elections",
+   "rubrique": "culture",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Québecor, LaPresse, Coops de l'information, Les Affaires",
+   "url": "https://www.ledevoir.com/politique/quebec/1006577/qs-veut-doubler-budget-soutien-creation-artistique-filet-social-artistes",
+   "resume": "Québec solidaire propose de doubler d'ici quatre ans les budgets du CALQ et de la SODEC, soit 380 millions $ de plus par année, et de mettre à l'essai à Québec un projet pilote de filet social pour les artistes à 130 millions $ par année, pour des investissements totaux de 510 millions $ annuellement, selon les co-porte-parole Ruba Ghazal et Sol Zanetti.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006577/qs-veut-doubler-budget-soutien-creation-artistique-filet-social-artistes",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/filet-social-pour-artistes/quebec-solidaire-ajouterait-un-demi-milliard-en-culture.php",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/qs-veut-tester-un-filet-social-pour-les-artistes-QPGWWMWAX5FSTDG3RICPPF6EDQ/",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/quebec-solidaire-investira-510-m-par-annee-pour-soutenir-nos-artistes/",
+     "date": "2026-09-04T12:28-04:00"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T12:28-04:00",
+   "image_auto": "aucune",
+   "permalien": "quebec-solidaire-promet-510-millions-par-annee-pour-la-cultu-200a9f",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "quebec-solidaire-promet-510-millions-par-annee-pour-la-cultu-200a9f"
+  },
+  {
+   "titre": "Le PQ demande au DGEQ d'enquêter sur l'organisme fédéraliste Mission Leadership Québec, lié à un contrat de la CAQ",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir, LaPresse, Québecor",
+   "url": "https://www.ledevoir.com/politique/quebec/1006574/pspp-inquiet-etre-face-plus-grande-ingerence-federal-depuis-1995",
+   "resume": "Le chef péquiste Paul St-Pierre Plamondon dénonce «la plus grande ingérence du fédéral» dans une élection québécoise depuis 1995 et demande au Directeur général des élections du Québec d'enquêter sur Mission Leadership Québec, un organisme fédéraliste ayant obtenu un contrat de la CAQ pour organiser des assemblées publiques de Christine Fréchette en début de campagne. Cette dernière réplique qu'il s'agit d'un «simple contrat» pour deux assemblées publiques et nie toute autre implication.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006574/pspp-inquiet-etre-face-plus-grande-ingerence-federal-depuis-1995",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/relation-quebec-ottawa/la-plus-grande-ingerence-du-federal-depuis-1995-s-inquiete-paul-st-pierre-plamondon.php",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldequebec.com/2026/09/04/le-pq-reclame-une-enquete-du-dgeq-sur-le-financement-du-camp-du-non",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
+     "date": "2026-09-04T12:28-04:00"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T12:28-04:00",
+   "image_auto": "aucune",
+   "permalien": "le-pq-demande-au-dgeq-d-enqueter-sur-l-organisme-federaliste-4d16ea",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "le-pq-demande-au-dgeq-d-enqueter-sur-l-organisme-federaliste-4d16ea"
+  },
+  {
+   "titre": "Kevin Grenier, du parti Démocratie directe du Québec, s'ajoute à la liste des candidats dans René-Lévesque",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Côte-Nord (René-Lévesque)",
+   "medias": "Le Manic, Le Nord-Côtier",
+   "url": "https://www.lemanic.ca/2026/09/04/elections-2026-dans-rene-levesque-kevin-grenier-sajoute-a-la-liste-des-candidats/",
+   "resume": "Le Baie-Comois Kevin Grenier devient candidat du parti Démocratie directe du Québec dans René-Lévesque, plaidant pour une plus grande transparence et un rapprochement des décisions vers les citoyens des régions comme la Côte-Nord.",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/04/elections-2026-dans-rene-levesque-kevin-grenier-sajoute-a-la-liste-des-candidats/",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://www.journalhcn.com/2026/09/04/elections-2026-dans-rene-levesque-kevin-grenier-sajoute-a-la-liste-des-candidats/",
+     "date": "2026-09-04T12:28-04:00"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T12:28-04:00",
+   "image_auto": "aucune",
+   "permalien": "kevin-grenier-du-parti-democratie-directe-du-quebec-s-ajoute-54c0de",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "kevin-grenier-du-parti-democratie-directe-du-quebec-s-ajoute-54c0de"
+  },
+  {
+   "titre": "Christine Fréchette doute de la viabilité financière d'un Québec indépendant",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "LaPresse, Québecor",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/frechette-doute-que-l-independance-soit-viable-financierement.php",
+   "resume": "La première ministre sortante Christine Fréchette juge qu'un Québec souverain comporterait «beaucoup de risques» et d'incertitude financière, contestant les chiffres avancés par le Parti québécois sur la viabilité économique de l'indépendance.",
+   "sources": [
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/frechette-doute-que-l-independance-soit-viable-financierement.php",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
+     "date": "2026-09-04T12:28-04:00"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T12:28-04:00",
+   "image_auto": "aucune",
+   "permalien": "christine-frechette-doute-de-la-viabilite-financiere-d-un-qu-84cfa9",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "christine-frechette-doute-de-la-viabilite-financiere-d-un-qu-84cfa9"
   },
   {
    "titre": "La mort d'une adolescente dans un silo de Shawinigan vaut quatre recommandations au ministère de l'Environnement",
@@ -1265,6 +1438,314 @@
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-04.json",
    "_slug": "on-s-arrange-entre-nous-plaidoyer-pour-une-culture-de-creati-f06252"
+  },
+  {
+   "titre": "Rivière-des-Prairies–Pointe-aux-Trembles accorde 192 475 $ pour un corridor vert entre deux parcs",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Rivière-des-Prairies–Pointe-aux-Trembles (Montréal)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/communiques-de-presse/faits-saillants-du-conseil-darrondissement-de-rdp-pat-du-1er-septembre-2026",
+   "resume": "Le conseil d'arrondissement de Rivière-des-Prairies–Pointe-aux-Trembles a accordé un contrat de 192 475 $ à Entreprises Daniel Robert pour aménager un corridor vert reliant le parc des Botanistes au parc Jean-Jacques-Rousseau, avec la plantation de 75 arbres et des travaux prévus à l'automne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "riviere-des-prairiespointe-aux-trembles-accorde-192-475-pour-ca7ccb",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "riviere-des-prairiespointe-aux-trembles-accorde-192-475-pour-ca7ccb"
+  },
+  {
+   "titre": "Outremont fermera des rues le 13 septembre pour le Grand Prix cycliste de Montréal",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Outremont (Montréal)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/communiques-de-presse/faits-saillants-du-conseil-darrondissement-doutremont-du-1er-septembre-2026",
+   "resume": "L'arrondissement d'Outremont a adopté une ordonnance fermant plusieurs rues à la circulation et interdisant le stationnement le dimanche 13 septembre, de 6 h à 17 h 30, pour la tenue du Grand Prix cycliste de Montréal.",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Prix_cycliste_de_Montr%C3%A9al_2024_-_22.jpg?width=1100",
+   "legende": "Le peloton du Grand Prix cycliste de Montréal, ici lors de l'édition 2024 : la course revient le 13 septembre.",
+   "photo_auteur": "Miguel Tremblay",
+   "photo_licence": "CC0 1.0",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "outremont-fermera-des-rues-le-13-septembre-pour-le-grand-pri-b3ad73",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "outremont-fermera-des-rues-le-13-septembre-pour-le-grand-pri-b3ad73"
+  },
+  {
+   "titre": "Terrebonne suspend sa campagne de consentement pour Alerte Terrebonne après un message erroné sur des frais",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Terrebonne",
+   "medias": "Ville de Terrebonne",
+   "url": "https://terrebonne.ca/nouvelle/26/09/02/campagne-de-consentement-alerte-terrebonne-mise-au-point/",
+   "resume": "La Ville de Terrebonne a interrompu sa campagne visant à obtenir, en vertu de la Loi 25, le consentement des abonnés à son système d'alerte, après qu'un message automatisé eut erronément mentionné des frais; le service demeure gratuit et un fournisseur externe est en cause, précise la Ville.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "terrebonne-suspend-sa-campagne-de-consentement-pour-alerte-t-96b88e",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "terrebonne-suspend-sa-campagne-de-consentement-pour-alerte-t-96b88e"
+  },
+  {
+   "titre": "Coaticook inaugure sa piscine municipale rénovée pour 1,3 M$",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Coaticook (Estrie)",
+   "medias": "Ville de Coaticook",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/parcs/79/1216720/coaticook-inaugure-sa-nouvelle-piscine-municipale-universellement-accessible.html",
+   "resume": "La Ville de Coaticook a procédé à l'inauguration officielle de sa piscine extérieure, un projet de modernisation universellement accessible au coût de 1 334 000 $.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "coaticook-inaugure-sa-piscine-municipale-renovee-pour-1-3-m-e9b4d4",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "coaticook-inaugure-sa-piscine-municipale-renovee-pour-1-3-m-e9b4d4"
+  },
+  {
+   "titre": "Compton maintient son avis d'ébullition de l'eau",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Compton (Estrie)",
+   "medias": "Municipalité de Compton",
+   "url": "https://www.compton.ca/2026/09/03/avis-debullition-preventif-toujours-en-cours/",
+   "resume": "La Municipalité de Compton demande toujours à la population de faire bouillir l'eau du robinet au moins une minute avant de la consommer, en raison de travaux sur ses conduites d'approvisionnement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "compton-maintient-son-avis-d-ebullition-de-l-eau-9027bf",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "compton-maintient-son-avis-d-ebullition-de-l-eau-9027bf"
+  },
+  {
+   "titre": "Compton fermera le chemin Robert pour des travaux du 8 au 15 septembre",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Compton (Estrie)",
+   "medias": "Municipalité de Compton",
+   "url": "https://www.compton.ca/2026/09/02/avis-de-travaux-et-fermeture-de-chemin/",
+   "resume": "La Municipalité de Compton fermera le chemin Robert, à l'intersection du chemin Vaillancourt, du 8 au 15 septembre pour des travaux de reconstruction, avec détour prévu par le chemin Gilbert.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "compton-fermera-le-chemin-robert-pour-des-travaux-du-8-au-15-37f318",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "compton-fermera-le-chemin-robert-pour-des-travaux-du-8-au-15-37f318"
+  },
+  {
+   "titre": "La MRC des Jardins-de-Napierville dépose son rapport financier 2025 le 9 septembre",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "MRC des Jardins-de-Napierville (Montérégie)",
+   "medias": "MRC des Jardins-de-Napierville",
+   "url": "https://mrcjardinsdenapierville.ca/depot-des-etats-financiers-2025/",
+   "resume": "La directrice générale de la MRC des Jardins-de-Napierville déposera le rapport financier de l'exercice 2025 et le rapport du vérificateur externe lors de la séance du conseil régional du 9 septembre, comme l'exige le Code municipal du Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "la-mrc-des-jardins-de-napierville-depose-son-rapport-financi-187e91",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "la-mrc-des-jardins-de-napierville-depose-son-rapport-financi-187e91"
+  },
+  {
+   "titre": "Carignan mettra aux enchères des immeubles pour taxes impayées le 14 octobre",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Carignan (Montérégie)",
+   "medias": "Ville de Carignan",
+   "url": "https://www.carignan.quebec/avis-public-diffuse-en-date-du-2-septembre-2026/",
+   "resume": "En vertu d'une résolution adoptée le 5 août, la Ville de Carignan vendra à l'enchère le 14 octobre les immeubles dont les taxes municipales et scolaires demeurent impayées, sauf règlement avant la vente.",
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hotel-de-ville_de_Carignan_(Qu%C3%A9bec)-2022-04-15_dans_le_Faubourg_Carignan.jpg?width=1100",
+   "legende": "L'hôtel de ville de Carignan, dans le Faubourg Carignan.",
+   "photo_auteur": "Veillg1",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "carignan-mettra-aux-encheres-des-immeubles-pour-taxes-impaye-a9ec71",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "carignan-mettra-aux-encheres-des-immeubles-pour-taxes-impaye-a9ec71"
+  },
+  {
+   "titre": "Carignan accorde 400 $ à un jeune trampoliniste de niveau national",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Carignan (Montérégie)",
+   "medias": "Ville de Carignan",
+   "url": "https://www.carignan.quebec/400-daide-financiere-pour-le-trampoliniste-mathias-croteau/",
+   "resume": "La Ville de Carignan a accordé une aide financière de 400 $ à Mathias Croteau, un athlète de niveau national en trampoline, pour souligner sa saison 2025-2026.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "carignan-accorde-400-a-un-jeune-trampoliniste-de-niveau-nati-370c9e",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "carignan-accorde-400-a-un-jeune-trampoliniste-de-niveau-nati-370c9e"
+  },
+  {
+   "titre": "Le DPCP rappelle que menacer des élus ou candidats municipaux peut mener à des accusations criminelles",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Directeur des poursuites criminelles et pénales",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/ethique/150/1216532/menaces-envers-les-elus-et-les-candidats-.html",
+   "resume": "Le Directeur des poursuites criminelles et pénales, se présentant comme une institution indépendante de toute considération politique, rappelle que proférer des menaces ou diffuser des propos ou images visant des élus ou candidats municipaux peut mener à des accusations criminelles.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "le-dpcp-rappelle-que-menacer-des-elus-ou-candidats-municipau-1e6262",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "le-dpcp-rappelle-que-menacer-des-elus-ou-candidats-municipau-1e6262"
+  },
+  {
+   "titre": "Le CERIU publie un premier rapport sur l'impact de la densification urbaine sur les réseaux d'eau",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "CERIU",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/infrastructure/15/1216434/un-premier-rapport-de-l-observatoire-du-ceriu.html",
+   "resume": "L'Observatoire de la gestion intégrée de l'espace public du CERIU publie le premier livrable de son mandat de recherche sur l'impact de la densification urbaine sur les réseaux d'eau municipaux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "le-ceriu-publie-un-premier-rapport-sur-l-impact-de-la-densif-c3e98b",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "le-ceriu-publie-un-premier-rapport-sur-l-impact-de-la-densif-c3e98b"
+  },
+  {
+   "titre": "Danaé Brissonnet choisie parmi 37 candidatures pour une murale monumentale à Drummondville",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Drummondville (Centre-du-Québec)",
+   "medias": "Ville de Drummondville",
+   "url": "https://www.drummondville.ca/lartiste-danae-brissonnet-realisera-une-murale-monumentale-avec-la-communaute/",
+   "resume": "La Ville de Drummondville a retenu la proposition de l'artiste Danaé Brissonnet, « Le Phénix habité », parmi 37 candidatures reçues, pour une murale participative qui prendra vie sur le mur du 232, rue Dorion.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "danae-brissonnet-choisie-parmi-37-candidatures-pour-une-mura-c454fd",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "danae-brissonnet-choisie-parmi-37-candidatures-pour-une-mura-c454fd"
+  },
+  {
+   "titre": "Marieville réaménagera deux terrains de baseball cet automne",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Marieville (Montérégie)",
+   "medias": "Ville de Marieville",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/parcs/79/1216662/deux-terrains-de-baseball-entierement-reamenages-cet-automne.html",
+   "resume": "La Ville de Marieville réaménagera cet automne les deux terrains de baseball situés au terrain des Loisirs et à l'école de Ramezay, à l'édifice Crevier.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "marieville-reamenagera-deux-terrains-de-baseball-cet-automne-f517b2",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "marieville-reamenagera-deux-terrains-de-baseball-cet-automne-f517b2"
+  },
+  {
+   "titre": "Saint-Eustache dévoile une plaque en hommage à trois bâtisseurs du plein air",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Saint-Eustache (Laurentides)",
+   "medias": "Ville de Saint-Eustache",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/culture/12/1216691/plaque-hommage-a-michel-besner-bernard-besner-et-richard-giroux-au-parc-nature-la-ville-honore-trois-batisseurs-du-plein-air-a-saint-eustache.html",
+   "resume": "La Ville de Saint-Eustache a dévoilé, le 2 septembre au parc Nature, la Plaque des bâtisseurs en l'honneur de Michel Besner, Bernard Besner et Richard Giroux, trois artisans du développement du plein air dans la municipalité.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "saint-eustache-devoile-une-plaque-en-hommage-a-trois-batisse-786e55",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "saint-eustache-devoile-une-plaque-en-hommage-a-trois-batisse-786e55"
+  },
+  {
+   "titre": "Mont-Saint-Michel inaugure le premier « Château des livres » du Québec",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Mont-Saint-Michel (Laurentides)",
+   "medias": "Municipalité de Mont-Saint-Michel",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/culture/12/1216449/mont-saint-michel-inaugure-le-premier-chateau-des-livres-du-quebec.html",
+   "resume": "La Municipalité de Mont-Saint-Michel a inauguré, le 28 août, le Château des livres au parc du Village, une boîte d'échange destinée à donner une seconde vie aux ouvrages retirés de la bibliothèque municipale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "mont-saint-michel-inaugure-le-premier-chateau-des-livres-du-eae6e6",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "mont-saint-michel-inaugure-le-premier-chateau-des-livres-du-eae6e6"
+  },
+  {
+   "titre": "La MRC des Collines-de-l'Outaouais souligne les 30 ans de son propre service de sécurité publique",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "MRC des Collines-de-l'Outaouais (Outaouais)",
+   "medias": "MRC des Collines-de-l'Outaouais",
+   "url": "https://mrcdescollinesdeloutaouais.qc.ca/la-securite-publique-de-la-mrc-des-collines-de-loutaouais-celebre-ses-30-ans/",
+   "resume": "La MRC des Collines-de-l'Outaouais souligne le 30e anniversaire de son Service de la sécurité publique, créé en 1996 par la mise en commun de ressources municipales, une formule que l'organisation présente comme unique au Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "la-mrc-des-collines-de-l-outaouais-souligne-les-30-ans-de-so-681509",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "la-mrc-des-collines-de-l-outaouais-souligne-les-30-ans-de-so-681509"
+  },
+  {
+   "titre": "Saint-Tite-des-Caps sonde sa population avant de moderniser son Centre des loisirs",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Saint-Tite-des-Caps (Capitale-Nationale)",
+   "medias": "Municipalité de Saint-Tite-des-Caps",
+   "url": "https://sainttitedescaps.com/2026/09/04/sondage-au-sujet-de-la-fresque-au-centre-des-loisirs/",
+   "resume": "La Municipalité de Saint-Tite-des-Caps sonde sa population sur une fresque avant d'entreprendre, dans les prochains mois, d'importants travaux de mise à niveau de son Centre des loisirs.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "saint-tite-des-caps-sonde-sa-population-avant-de-moderniser-bd6c98",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "saint-tite-des-caps-sonde-sa-population-avant-de-moderniser-bd6c98"
+  },
+  {
+   "titre": "Les caisses Desjardins du Littoral et du Centre-sud gaspésien votent leur fusion cette semaine",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Grande-Rivière, Gascons (Gaspésie)",
+   "medias": "Municipalité du Canton de Saint-Godefroi",
+   "url": "https://municipalitestgodefroi.com/2026/09/03/projet-de-regroupement-des-caisses/",
+   "resume": "Les membres de la Caisse Desjardins du Littoral gaspésien et de la Caisse populaire Desjardins du Centre-sud gaspésien votent les 8 et 9 septembre, en assemblée générale extraordinaire, sur un projet de fusion qui créerait le 1er janvier 2027 la Caisse Desjardins du Grand-Littoral gaspésien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "les-caisses-desjardins-du-littoral-et-du-centre-sud-gaspesie-af213c",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "les-caisses-desjardins-du-littoral-et-du-centre-sud-gaspesie-af213c"
+  },
+  {
+   "titre": "L'arrondissement de Saint-Laurent dépose son rapport financier 2025",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Saint-Laurent (Montréal)",
+   "medias": "Arrondissement de Saint-Laurent",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/finance/80/1216401/faits-saillants-du-rapport-financier-en-2025.html",
+   "resume": "L'arrondissement de Saint-Laurent a déposé, lors de sa séance ordinaire de septembre, le rapport de la mairesse sur sa situation financière au 31 décembre 2025, comme l'exige la Charte de la Ville de Montréal.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T12:41-04:00",
+   "permalien": "l-arrondissement-de-saint-laurent-depose-son-rapport-financi-f31769",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-04.json",
+   "_slug": "l-arrondissement-de-saint-laurent-depose-son-rapport-financi-f31769"
   },
   {
    "titre": "La Norvège saisit un navire russe dans l'Arctique pour faire exécuter une créance ukrainienne de 4,22 milliards de dollars",
