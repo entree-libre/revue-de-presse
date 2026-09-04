@@ -1261,7 +1261,7 @@
    "territoire": "Québec / Lévis",
    "medias": "Le Devoir, Les Affaires, Coops de l'information, Radio-Canada",
    "url": "https://www.ledevoir.com/politique/quebec/1006565/conservateurs-veulent-troisieme-lien-imparfait-arreter-tourner-rond",
-   "resume": "Le chef conservateur Éric Duhaime propose, comme troisième lien, un pont à haubans de 2,15 kilomètres reliant l'île d'Orléans à Lévis, dont le PCQ évalue le coût à près de 3 milliards de dollars entièrement payés par l'État. Il accuse la première ministre Christine Fréchette d'avoir caché des travaux majeurs prévus sur le pont Pierre-Laporte, ce qu'elle dément tout en critiquant un projet qui, dit-elle, repose uniquement sur les finances publiques.",
+   "resume": "Mise à jour, 16 h — Le prix à payer, pour des résidents de l'île, pour que le troisième lien voie le jour.",
    "sources": [
     {
      "media": "Le Devoir",
@@ -1314,10 +1314,22 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280587/christine-frechette-pont-pierre-laporte-eric-duhaime",
      "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280725/expropriation-pont-3e-lien-conservateurs-quebec",
+     "auteur": "Marie-Christine Gagnon",
+     "date": "2026-09-04T15:29-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226538/eric-duhaime-veut-un-3e-lien-qui-passe-par-lile-dorlans/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Sara Comadina"
     }
    ],
    "photo": "",
-   "horodate": "2026-09-04T10:30-04:00",
+   "horodate": "2026-09-04T16:30-04:00",
    "permalien": "le-pcq-propose-un-pont-a-haubans-entre-l-ile-d-orleans-et-le-86a94c",
    "image_auto": "aucune",
    "_volet": "elections",
@@ -1492,6 +1504,12 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/communique-de-presse/quebec-solidaire-investira-510-m-par-annee-pour-soutenir-nos-artistes/",
      "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/799971/qs-veut-doubler-les-investissements-en-culture",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Pierre Blais"
     }
    ],
    "photo": "",
@@ -1509,7 +1527,7 @@
    "territoire": "Québec",
    "medias": "Le Devoir, LaPresse, Québecor, Radio-Canada",
    "url": "https://www.ledevoir.com/politique/quebec/1006574/pspp-inquiet-etre-face-plus-grande-ingerence-federal-depuis-1995",
-   "resume": "Le chef péquiste Paul St-Pierre Plamondon dénonce «la plus grande ingérence du fédéral» dans une élection québécoise depuis 1995 et demande au Directeur général des élections du Québec d'enquêter sur Mission Leadership Québec, un organisme fédéraliste ayant obtenu un contrat de la CAQ pour organiser des assemblées publiques de Christine Fréchette en début de campagne. Cette dernière réplique qu'il s'agit d'un «simple contrat» pour deux assemblées publiques et nie toute autre implication.",
+   "resume": "Mise à jour, 16 h — Le nom de Donald Trump s'invite dans la joute entre Fréchette et le chef péquiste.",
    "sources": [
     {
      "media": "Le Devoir",
@@ -1540,10 +1558,46 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2280678/influence-federal-st-pierre-plamondon-pq",
      "date": "2026-09-04T14:23-04:00",
      "auteur": "Jean-François Thériault"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldequebec.com/2026/09/04/affaiblir-le-canada--frechette-constate-une--convergence-de-vues--entre-pspp-et-trump",
+     "auteur": "Marc-André Gagnon",
+     "date": "2026-09-04T15:33-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldequebec.com/2026/09/04/peut-etre-la-plus-importante-ingerence-du-federal-depuis-1995-sinquiete-le-chef-pequiste-paul-st-pierre-plamondon",
+     "auteur": "Nicolas Lachance",
+     "date": "2026-09-04T11:04-04:00"
+    },
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/convergence-de-vues-entre-trump-et-st-pierre-plamondon-dit-frechette.php",
+     "auteur": "Tommy Chouinard",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799994/ingerence-federale-potentielle-dans-l-election-quebecoise-le-pq-hausse-le-ton",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Vincent Simard et Vincent Pagé"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/799981/pspp-a-les-memes-objectifs-que-son-ami-trump-lance-frechette",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Félix-Antoine Turgeon"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/799951/pspp-sur-l-ingerence-je-n-aime-pas-ca-pantoute-dit-jonathan-trudeau",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Pierre Blais"
     }
    ],
    "photo": "",
-   "horodate": "2026-09-04T12:28-04:00",
+   "horodate": "2026-09-04T16:30-04:00",
    "image_auto": "aucune",
    "permalien": "le-pq-demande-au-dgeq-d-enqueter-sur-l-organisme-federaliste-4d16ea",
    "_volet": "elections",
@@ -1600,6 +1654,18 @@
      "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
      "date": "2026-09-04T12:28-04:00",
      "auteur": "Agence QMI"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226534/christine-frechette-sceptique-dun-quebec-independant/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Olivier Robichaud"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldequebec.com/2026/09/04/christine-frechette-remet-en-question-la-viabilite-financiere-dun-quebec-independant",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Nicolas Lachance et Patrick Bellerose"
     }
    ],
    "photo": "",
@@ -1627,6 +1693,42 @@
      "url": "https://www.ledevoir.com/politique/quebec/1006646/lutte-itinerance-limitee-deficit-selon-milliard",
      "auteur": "Isabelle Porter",
      "date": "2026-09-04T14:23-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
     }
    ],
    "permalien": "le-chef-liberal-charles-milliard-promet-60-millions-de-plus-6cff3a",
@@ -1676,6 +1778,11 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2280665/elections-rimouski-rdl-mitis-cote",
      "date": "2026-09-04T14:23-04:00",
      "auteur": "Laurence Gallant"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-quebec-solidaire-a-une-equipe-complete-dans-la-region-du-bas-saint-laurent/",
+     "date": "2026-09-04T16:32-04:00"
     }
    ],
    "permalien": "quebec-solidaire-complete-aussi-son-equipe-de-candidats-au-b-450809",
@@ -1813,6 +1920,85 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-04.json",
    "_slug": "la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-aa18ec"
+  },
+  {
+   "titre": "Québec solidaire dévoile sa feuille de route pour les 100 premiers jours d'un éventuel gouvernement solidaire",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québec solidaire (communiqué)",
+   "url": "https://api-wp.quebecsolidaire.net/articles/100-jours-pour-changer-le-quebec-ruba-ghazal-et-sol-zanetti-presentent-la-feuille-de-route-des-100-premiers-jours-dun-gouvernement-solidaire/",
+   "resume": "Logement, épicerie, école : ce que Québec solidaire promet pour ses cent premiers jours.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T16:30-04:00",
+   "sources": [
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/100-jours-pour-changer-le-quebec-ruba-ghazal-et-sol-zanetti-presentent-la-feuille-de-route-des-100-premiers-jours-dun-gouvernement-solidaire/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/un-gouvernement-de-quebec-solidaire-aidera-les-jeunes-a-devenir-proprietaires/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/cest-possible-quebec-solidaire-fera-campagne-sur-le-theme-de-lespoir-et-de-lambition/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/quebec-solidaire-veut-reparer-et-developper-le-transport-collectif/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/soutenir-riposter-et-batir-quebec-solidaire-devoile-son-plan-face-a-la-guerre-tarifaire-de-trump/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/quebec-solidaire-veut-reduire-la-facture-depicerie-des-quebecois/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/rentree-scolaire-un-gouvernement-de-quebec-solidaire-prendra-en-charge-les-fournitures-scolaires-pour-reduire-le-stress-des-parents/",
+     "date": "2026-09-04T16:32-04:00"
+    }
+   ],
+   "permalien": "quebec-solidaire-devoile-sa-feuille-de-route-pour-les-100-pr-f873be",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "quebec-solidaire-devoile-sa-feuille-de-route-pour-les-100-pr-f873be"
+  },
+  {
+   "titre": "L'ex-libérale Sona Lakhoyan Olivier recouvre de ruban adhésif le logo du PLQ sur ses pancartes",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/05/menacee-de-poursuite-par-le-plq-la-candidate-sona-lakhoyan-tente-de-sen-sortir-avec-du-ruban-adhesif",
+   "resume": "Une rupture avec son parti, visible sur chaque pancarte électorale de la candidate.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T16:30-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/05/menacee-de-poursuite-par-le-plq-la-candidate-sona-lakhoyan-tente-de-sen-sortir-avec-du-ruban-adhesif",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Annabelle Blais et Antoine Robitaille"
+    }
+   ],
+   "permalien": "l-ex-liberale-sona-lakhoyan-olivier-recouvre-de-ruban-adhesi-f1022e",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "l-ex-liberale-sona-lakhoyan-olivier-recouvre-de-ruban-adhesi-f1022e"
   },
   {
    "titre": "La mort d'une adolescente dans un silo de Shawinigan vaut quatre recommandations au ministère de l'Environnement",
