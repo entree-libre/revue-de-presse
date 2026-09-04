@@ -166,6 +166,13 @@ html[data-theme="contraste"] nav.cahiers .fac.on:not(.tout) .n{background:rgba(0
 html[data-theme="contraste"] .fac{border-width:2px}
 html[data-theme="contraste"] .fac.on{text-decoration:none}
 .fac.tout{font-weight:600}
+/* L'axe « Lecture » : chaque etat garde sa couleur de badge. */
+.fac.lect-neuf,.fac.lect-maj{color:var(--accent-txt)}
+.fac.lect-apercu,.fac.lect-lu{color:var(--muted)}
+.fac.lect-neuf.on,.fac.lect-maj.on,.fac.lect-apercu.on,.fac.lect-lu.on{color:var(--accent-fg)}
+.fac.oubli{color:var(--muted);font-weight:500;margin-left:.6rem;border-radius:.2rem;
+ box-shadow:inset 0 -1px 0 var(--rule-fort)}
+.fac.oubli:hover{color:var(--accent-txt);box-shadow:inset 0 -1px 0 var(--accent-txt)}
 .fac.raz{border:1px dashed color-mix(in srgb,var(--fg) 35%,transparent);font-weight:600}
 .fac.vue{border-radius:.2rem}
 

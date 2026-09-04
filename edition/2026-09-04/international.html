@@ -36,15 +36,8 @@
  <h1>International</h1>
  <div class="chapeau"><p>35 sujets, répartis en 7 rubriques.</p></div>
 </header>
-<nav class="facettes" id="facettes"><div class="fac-ligne fac-q"><label class="fac-lbl" for="q">Chercher</label><input id="q" type="search" placeholder="Titre, lieu, média…" oninput="filtrer()" autocomplete="off"><span class="res" id="res"></span><button type="button" class="fac raz" id="raz" onclick="facRaz()" title="Retirer tous les filtres" style="display:none">Tout afficher ×</button></div><div class="fac-ligne" data-dim="rubrique"><span class="fac-lbl">Rubriques</span><a class="fac tout on" href="#" data-fac="rubrique" data-val="" onclick="return facTout(this,event)">Toutes</a><a class="fac" data-rubrique="politique" data-fac="rubrique" data-val="politique" onclick="return facToggle(this,event)" href="rubrique-politique.html">Politique et vie municipale <span class="n">9</span></a><a class="fac" data-rubrique="economie" data-fac="rubrique" data-val="economie" onclick="return facToggle(this,event)" href="rubrique-economie.html">Économie et travail <span class="n">3</span></a><a class="fac" data-rubrique="environnement" data-fac="rubrique" data-val="environnement" onclick="return facToggle(this,event)" href="rubrique-environnement.html">Environnement et climat <span class="n">2</span></a><a class="fac" data-rubrique="justice" data-fac="rubrique" data-val="justice" onclick="return facToggle(this,event)" href="rubrique-justice.html">Justice et sécurité publique <span class="n">5</span></a><a class="fac" data-rubrique="conflits" data-fac="rubrique" data-val="conflits" onclick="return facToggle(this,event)" href="rubrique-conflits.html">Guerre et défense <span class="n">12</span></a><a class="fac" data-rubrique="societe" data-fac="rubrique" data-val="societe" onclick="return facToggle(this,event)" href="rubrique-societe.html">Société et culture <span class="n">3</span></a><a class="fac" data-rubrique="espace" data-fac="rubrique" data-val="espace" onclick="return facToggle(this,event)" href="rubrique-espace.html">Espace et astronomie <span class="n">1</span></a></div></nav>
+<nav class="facettes" id="facettes"><div class="fac-ligne fac-q"><label class="fac-lbl" for="q">Chercher</label><input id="q" type="search" placeholder="Titre, lieu, média…" oninput="filtrer()" autocomplete="off"><span class="res" id="res"></span><button type="button" class="fac raz" id="raz" onclick="facRaz()" title="Retirer tous les filtres" style="display:none">Tout afficher ×</button></div><div class="fac-ligne" data-dim="rubrique"><span class="fac-lbl">Rubriques</span><a class="fac tout on" href="#" data-fac="rubrique" data-val="" onclick="return facTout(this,event)">Toutes</a><a class="fac" data-rubrique="politique" data-fac="rubrique" data-val="politique" onclick="return facToggle(this,event)" href="rubrique-politique.html">Politique et vie municipale <span class="n">9</span></a><a class="fac" data-rubrique="economie" data-fac="rubrique" data-val="economie" onclick="return facToggle(this,event)" href="rubrique-economie.html">Économie et travail <span class="n">3</span></a><a class="fac" data-rubrique="environnement" data-fac="rubrique" data-val="environnement" onclick="return facToggle(this,event)" href="rubrique-environnement.html">Environnement et climat <span class="n">2</span></a><a class="fac" data-rubrique="justice" data-fac="rubrique" data-val="justice" onclick="return facToggle(this,event)" href="rubrique-justice.html">Justice et sécurité publique <span class="n">5</span></a><a class="fac" data-rubrique="conflits" data-fac="rubrique" data-val="conflits" onclick="return facToggle(this,event)" href="rubrique-conflits.html">Guerre et défense <span class="n">12</span></a><a class="fac" data-rubrique="societe" data-fac="rubrique" data-val="societe" onclick="return facToggle(this,event)" href="rubrique-societe.html">Société et culture <span class="n">3</span></a><a class="fac" data-rubrique="espace" data-fac="rubrique" data-val="espace" onclick="return facToggle(this,event)" href="rubrique-espace.html">Espace et astronomie <span class="n">1</span></a></div><div class="fac-ligne" data-dim="lecture"><span class="fac-lbl">Lecture</span><a class="fac tout on" href="#" data-fac="lecture" data-val="" onclick="return facTout(this,event)">Tous</a><a class="fac lect-neuf" href="#" data-fac="lecture" data-val="neuf" title="jamais vu" onclick="return facToggle(this,event)">● Nouveau <span class="n"></span></a><a class="fac lect-apercu" href="#" data-fac="lecture" data-val="apercu" title="passé sous vos yeux" onclick="return facToggle(this,event)">◔ Vu, non lu <span class="n"></span></a><a class="fac lect-lu" href="#" data-fac="lecture" data-val="lu" title="sujet ouvert" onclick="return facToggle(this,event)">✓ Lu <span class="n"></span></a><a class="fac lect-maj" href="#" data-fac="lecture" data-val="maj" title="relancé depuis votre lecture" onclick="return facToggle(this,event)">● Nouveaux articles <span class="n"></span></a><button type="button" class="fac oubli" onclick="vusOublier()" title="Effacer la mémoire de lecture de ce navigateur">Tout oublier</button></div></nav>
 
-<p class="legende">
- <span class="badge-vu b-neuf" title="jamais vu">● Nouveau</span>
- <span class="badge-vu b-apercu" title="passé sous vos yeux">◔ Vu, non lu</span>
- <span class="badge-vu b-lu" title="sujet ouvert">✓ Lu</span>
- <span class="badge-vu b-maj" title="relancé depuis votre lecture">● Nouveaux articles</span>
- <button type="button" onclick="vusOublier()" title="Effacer la mémoire de lecture de ce navigateur">Tout oublier</button>
-</p>
 <p class="vide" id="vide" style="display:none">Aucun sujet ne correspond.</p>
 <details class="index"><summary>Index des lieux — 26 territoires</summary><div class="liste"><a href="#" onclick="return ftr('Allemagne')">Allemagne <span class="n">3</span></a><a href="#" onclick="return ftr('Allemagne, Russie')">Allemagne, Russie <span class="n">1</span></a><a href="#" onclick="return ftr('Argentine, Royaume-Uni')">Argentine, Royaume-Uni <span class="n">1</span></a><a href="#" onclick="return ftr('Brésil')">Brésil <span class="n">1</span></a><a href="#" onclick="return ftr('Chine, France')">Chine, France <span class="n">1</span></a><a href="#" onclick="return ftr('Danemark')">Danemark <span class="n">1</span></a><a href="#" onclick="return ftr('Espagne')">Espagne <span class="n">1</span></a><a href="#" onclick="return ftr('Estonie')">Estonie <span class="n">1</span></a><a href="#" onclick="return ftr('États-Unis')">États-Unis <span class="n">5</span></a><a href="#" onclick="return ftr('Finlande')">Finlande <span class="n">1</span></a><a href="#" onclick="return ftr('France, États-Unis')">France, États-Unis <span class="n">1</span></a><a href="#" onclick="return ftr('International')">International <span class="n">2</span></a><a href="#" onclick="return ftr('Iran, États-Unis')">Iran, États-Unis <span class="n">1</span></a><a href="#" onclick="return ftr('Israël')">Israël <span class="n">1</span></a><a href="#" onclick="return ftr('Italie')">Italie <span class="n">1</span></a><a href="#" onclick="return ftr('Malte')">Malte <span class="n">1</span></a><a href="#" onclick="return ftr('Népal')">Népal <span class="n">1</span></a><a href="#" onclick="return ftr('Norvège, Russie')">Norvège, Russie <span class="n">1</span></a><a href="#" onclick="return ftr('République démocratique du Congo, Israël')">République démocratique du Congo, Israël <span class="n">1</span></a><a href="#" onclick="return ftr('Royaume-Uni, France')">Royaume-Uni, France <span class="n">1</span></a><a href="#" onclick="return ftr('Russie')">Russie <span class="n">1</span></a><a href="#" onclick="return ftr('Russie, Ukraine')">Russie, Ukraine <span class="n">1</span></a><a href="#" onclick="return ftr('Syrie')">Syrie <span class="n">1</span></a><a href="#" onclick="return ftr('Tunisie')">Tunisie <span class="n">1</span></a><a href="#" onclick="return ftr('Ukraine')">Ukraine <span class="n">3</span></a><a href="#" onclick="return ftr('Ukraine, Russie')">Ukraine, Russie <span class="n">1</span></a></div></details>
 <div id="sujets" data-vue="rubrique">
@@ -451,11 +444,12 @@ document.addEventListener('DOMContentLoaded',etat);
    avant de cliquer combien de sujets attendent derriere. L'etat tient dans
    l'adresse (#f=…) : un filtre se partage et survit a un rechargement. */
 function norm(s){return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
-var AXES=['cahier','rubrique','region'];
+var AXES=['cahier','rubrique','region','lecture'];
 function facActifs(axe){var s={};
  document.querySelectorAll('.fac.on[data-fac="'+axe+'"]').forEach(function(el){if(el.dataset.val)s[el.dataset.val]=1;});
  return s;}
 function carteVal(el,axe){
+ if(axe==='lecture'){var c=el.classList;return [c.contains('lu')?'lu':c.contains('maj')?'maj':c.contains('apercu')?'apercu':'neuf'];}
  if(axe==='region')return (el.dataset.region||'').split(' ').filter(Boolean);
  if(axe==='rubrique'){var r=el.dataset.rubrique||'';return [RUB.some(function(x){return x[0]===r;})?r:'autres'];}
  return [el.dataset.cahier||''];}
@@ -532,7 +526,7 @@ function ftr(t){var i=document.getElementById('q');if(!i)return;
 var facHashEnCours=false;
 function facHash(){
  if(facHashEnCours||!document.getElementById('facettes'))return;
- var parts=[],k={cahier:'c',rubrique:'r',region:'g'};
+ var parts=[],k={cahier:'c',rubrique:'r',region:'g',lecture:'l'};
  AXES.forEach(function(a){var v=Object.keys(facActifs(a));if(v.length)parts.push(k[a]+':'+v.join(','));});
  var q=(document.getElementById('q')||{}).value;if(q)parts.push('q:'+encodeURIComponent(q));
  var h=parts.length?'#f='+parts.join(';'):'';
@@ -542,7 +536,7 @@ function facHash(){
 function facLireHash(){
  var m=/^#f=(.*)$/.exec(location.hash||'');if(!m)return false;
  facHashEnCours=true;
- var k={c:'cahier',r:'rubrique',g:'region'};
+ var k={c:'cahier',r:'rubrique',g:'region',l:'lecture'};
  m[1].split(';').forEach(function(p){
   var i=p.indexOf(':');if(i<0)return;var a=p.slice(0,i),v=p.slice(i+1);
   if(a==='q'){var q=document.getElementById('q');if(q)q.value=decodeURIComponent(v);return;}
@@ -684,7 +678,9 @@ function vusAppliquer(){
    if(m.e===emp){el.classList.add('apercu');vuBadge(el,'◔ Vu, non lu','b-apercu');}
    else{el.classList.add('neuf');vuBadge(el,'● Nouveau','b-neuf');}
   }
- });}
+ });
+ /* les comptes de l'axe « Lecture » de la barre de filtrage en dependent */
+ if(document.getElementById('facettes')&&typeof filtrer==='function')filtrer();}
 /* Oublier l'historique de lecture : tout redevient neuf, ici et maintenant. */
 function vusOublier(){MAGASIN.oublier('revue-vus');MAGASIN.oublier('revue-sources');
  MAGASIN.oublier('revue-position');vusAppliquer();srcAppliquer();}

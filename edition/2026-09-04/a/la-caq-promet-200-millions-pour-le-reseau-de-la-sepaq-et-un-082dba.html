@@ -153,11 +153,12 @@ document.addEventListener('DOMContentLoaded',etat);
    avant de cliquer combien de sujets attendent derriere. L'etat tient dans
    l'adresse (#f=…) : un filtre se partage et survit a un rechargement. */
 function norm(s){return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
-var AXES=['cahier','rubrique','region'];
+var AXES=['cahier','rubrique','region','lecture'];
 function facActifs(axe){var s={};
  document.querySelectorAll('.fac.on[data-fac="'+axe+'"]').forEach(function(el){if(el.dataset.val)s[el.dataset.val]=1;});
  return s;}
 function carteVal(el,axe){
+ if(axe==='lecture'){var c=el.classList;return [c.contains('lu')?'lu':c.contains('maj')?'maj':c.contains('apercu')?'apercu':'neuf'];}
  if(axe==='region')return (el.dataset.region||'').split(' ').filter(Boolean);
  if(axe==='rubrique'){var r=el.dataset.rubrique||'';return [RUB.some(function(x){return x[0]===r;})?r:'autres'];}
  return [el.dataset.cahier||''];}
@@ -234,7 +235,7 @@ function ftr(t){var i=document.getElementById('q');if(!i)return;
 var facHashEnCours=false;
 function facHash(){
  if(facHashEnCours||!document.getElementById('facettes'))return;
- var parts=[],k={cahier:'c',rubrique:'r',region:'g'};
+ var parts=[],k={cahier:'c',rubrique:'r',region:'g',lecture:'l'};
  AXES.forEach(function(a){var v=Object.keys(facActifs(a));if(v.length)parts.push(k[a]+':'+v.join(','));});
  var q=(document.getElementById('q')||{}).value;if(q)parts.push('q:'+encodeURIComponent(q));
  var h=parts.length?'#f='+parts.join(';'):'';
@@ -244,7 +245,7 @@ function facHash(){
 function facLireHash(){
  var m=/^#f=(.*)$/.exec(location.hash||'');if(!m)return false;
  facHashEnCours=true;
- var k={c:'cahier',r:'rubrique',g:'region'};
+ var k={c:'cahier',r:'rubrique',g:'region',l:'lecture'};
  m[1].split(';').forEach(function(p){
   var i=p.indexOf(':');if(i<0)return;var a=p.slice(0,i),v=p.slice(i+1);
   if(a==='q'){var q=document.getElementById('q');if(q)q.value=decodeURIComponent(v);return;}
@@ -386,7 +387,9 @@ function vusAppliquer(){
    if(m.e===emp){el.classList.add('apercu');vuBadge(el,'◔ Vu, non lu','b-apercu');}
    else{el.classList.add('neuf');vuBadge(el,'● Nouveau','b-neuf');}
   }
- });}
+ });
+ /* les comptes de l'axe « Lecture » de la barre de filtrage en dependent */
+ if(document.getElementById('facettes')&&typeof filtrer==='function')filtrer();}
 /* Oublier l'historique de lecture : tout redevient neuf, ici et maintenant. */
 function vusOublier(){MAGASIN.oublier('revue-vus');MAGASIN.oublier('revue-sources');
  MAGASIN.oublier('revue-position');vusAppliquer();srcAppliquer();}
