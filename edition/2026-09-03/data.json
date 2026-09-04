@@ -17,7 +17,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Israël",
-   "medias": "Radio-Canada, Québecor, Le Monde",
+   "medias": "Radio-Canada, Québecor, Le Monde, RFI",
    "url": "https://ici.radio-canada.ca/nouvelle/2280385/ministre-israelien-vider-gaza-habitants",
    "resume": "Le ministre israélien de la Sécurité nationale, Itamar Ben Gvir, a présenté jeudi un plan de campagne visant à faire partir la population palestinienne de la bande de Gaza vers l'étranger, à quelques semaines d'élections législatives israéliennes qui s'annoncent très disputées.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Itamar_Ben_Gvir_%28portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -38,6 +38,11 @@
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/03/itamar-ben-gvir-ministre-israelien-supremaciste-presente-un-plan-pour-vider-la-bande-de-gaza-de-ses-habitants-durant-la-campagne-des-elections-legislatives_6765207_3210.html",
      "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20260903-isra%C3%ABl-le-ministre-ben-gvir-pr%C3%A9sente-son-plan-pour-vider-gaza-de-ses-habitants-palestiniens",
+     "date": "2026-09-03T21:59-04:00"
     }
    ],
    "photo_auteur": "דוד דנברג",
@@ -110,7 +115,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Global News, Québecor",
+   "medias": "Global News, Québecor, Le Devoir",
    "url": "https://globalnews.ca/news/12046322/new-20-dollar-bill-king-charles-iii-unveiled-canada/",
    "resume": "La Banque du Canada a dévoilé jeudi un nouveau billet vertical de 20 dollars portant le portrait du roi Charles III, qui remplace celui de la reine Elizabeth II et reprend des éléments botaniques évoquant son engagement pour l'environnement.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/The_Bank%27s_Head_Office_Si%C3%A8ge_de_la_Banque_du_Canada_%2846847690635%29.jpg/1280px-The_Bank%27s_Head_Office_Si%C3%A8ge_de_la_Banque_du_Canada_%2846847690635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -126,6 +131,11 @@
      "media": "Québecor",
      "url": "https://www.tvanouvelles.ca/2026/09/03/decouvrez-le-nouveau-billet-de-20--a-leffigie-du-roi-charles-iii",
      "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1006400/nouveau-billet-20-met-honneur-roi-charles",
+     "date": "2026-09-03T21:59-04:00"
     }
    ],
    "photo_auteur": "Bank of Canada - Banque du Canada from Canada",
@@ -169,7 +179,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Les Affaires, La Presse",
+   "medias": "Les Affaires, La Presse, Radio-Canada",
    "url": "https://www.lesaffaires.com/secteurs/politique/tarifs-douaniers-carney-evoque-plus-a-venir-pour-le-secteur-de-la-foresterie/",
    "resume": "Le premier ministre Mark Carney a affirmé jeudi que son gouvernement annoncera de nouvelles mesures dans les prochaines semaines pour l'industrie forestière, durement touchée par le conflit commercial avec les États-Unis, après avoir déjà engagé plus de 30 milliards de dollars en aide aux entreprises et travailleurs touchés depuis le début des tensions, selon la Presse Canadienne.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Mark_Carney_at_the_20th_EU-Canada_Summit_-_2025_-_P067331-112531.jpg/1280px-Mark_Carney_at_the_20th_EU-Canada_Summit_-_2025_-_P067331-112531.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -185,6 +195,11 @@
      "media": "La Presse",
      "url": "https://www.lapresse.ca/affaires/economie/2026-09-03/foresterie/d-autres-mesures-seront-annoncees-pour-aider-l-industrie-dit-carney.php",
      "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280423/guerre-commerciale-mark-carney-secteur-forestier",
+     "date": "2026-09-03T21:59-04:00"
     }
    ],
    "photo_auteur": "Dati Bendo / European Union",
@@ -419,6 +434,334 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-03.json",
    "_slug": "nvidia-officialise-le-rachat-de-hugging-face-pour-12-93-mill-3807c8"
+  },
+  {
+   "titre": "Guerre en Ukraine : des frappes russes font des blessés à Kiev, Poutine réfute tout « scénario » de mobilisation",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "Ouest-France, 20 Minutes, Enderi, BFMTV",
+   "url": "https://www.ouest-france.fr/europe/ukraine/carte-guerre-en-ukraine-des-blesses-a-kiev-poutine-refute-toute-nouvelle-mobilisation-le-point-du-jour-d7473a9a-a7b7-11f1-8a27-1e0c4eb5e395",
+   "resume": "Des frappes russes ont fait au moins six blessés à Kiev jeudi, alors que Vladimir Poutine a réfuté qu'un « scénario » de nouvelle mobilisation militaire soit à l'ordre du jour en Russie, en amont des élections législatives.\n\nLes chiffres du recrutement nuancent ce discours : les engagements militaires volontaires ont chuté de 6 % en 2025, à 422 000, alors que l'avancée russe stagne sur le terrain depuis plusieurs mois, selon des données citées par Enderi.",
+   "sources": [
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/europe/ukraine/carte-guerre-en-ukraine-des-blesses-a-kiev-poutine-refute-toute-nouvelle-mobilisation-le-point-du-jour-d7473a9a-a7b7-11f1-8a27-1e0c4eb5e395",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/ukraine/4242573-20260903-guerre-ukraine-poutine-nie-preparer-mobilisation-militaire-russie-berlin-nid-espions",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "Enderi",
+     "url": "https://enderi.fr/russie-poutine-dement-tout-scenario-de-mobilisation/",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/international/asie/russie/guerre-en-ukraine-vladimir-poutine-dement-tout-scenario-qui-necessiterait-une-mobilisation-face-a-l-ukraine_AD-202609030548.html",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "guerre-en-ukraine-des-frappes-russes-font-des-blesses-a-kiev-6f7743",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "guerre-en-ukraine-des-frappes-russes-font-des-blesses-a-kiev-6f7743"
+  },
+  {
+   "titre": "En Russie, une humanitaire poursuivie pour avoir critiqué l'armée est placée sous contrôle judiciaire",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Russie",
+   "medias": "Le Parisien, France 24, TV5MONDE, Orange Actualités",
+   "url": "https://www.leparisien.fr/international/que-la-guerre-se-termine-au-plus-vite-une-humanitaire-russe-poursuivie-pour-avoir-critique-larmee-03-09-2026-Q2BOOUOMH5ADTJSUTXPB6LMBUA.php",
+   "resume": "Un tribunal russe a placé sous contrôle judiciaire, jeudi, Lida Moniava, dirigeante de 38 ans d'une organisation humanitaire pour enfants malades, accusée d'avoir critiqué l'armée russe dans un message publié sur Telegram en février 2023 et passible de dix ans de prison, selon l'AFP.\n\nElle n'aura pas le droit de sortir de son domicile entre 20 h et 8 h ni d'utiliser Internet jusqu'au 30 octobre au moins, a précisé son avocat.",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/que-la-guerre-se-termine-au-plus-vite-une-humanitaire-russe-poursuivie-pour-avoir-critique-larmee-03-09-2026-Q2BOOUOMH5ADTJSUTXPB6LMBUA.php",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260903-russie-une-humanitaire-poursuivie-pour-avoir-critiqu%C3%A9-l-arm%C3%A9e-plac%C3%A9e-sous-contr%C3%B4le-judiciaire",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/russie-une-humanitaire-poursuivie-pour-avoir-critique-larmee-placee-sous-controle-judiciaire-2835987",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "Orange Actualités",
+     "url": "https://actu.orange.fr/monde/russie-une-humanitaire-poursuivie-pour-avoir-critique-l-armee-placee-sous-controle-judiciaire-CNT000002rHYXo.html",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "en-russie-une-humanitaire-poursuivie-pour-avoir-critique-l-a-5fe618",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "en-russie-une-humanitaire-poursuivie-pour-avoir-critique-l-a-5fe618"
+  },
+  {
+   "titre": "Tunisie : la Cour de cassation confirme les lourdes peines de l'« affaire du complot », dénoncées par Human Rights Watch",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Tunisie",
+   "medias": "Human Rights Watch, France 24",
+   "url": "https://www.hrw.org/fr/news/2026/09/03/tunisie-les-condamnations-injustes-pour-complot-confirmees-en-cassation",
+   "resume": "La Cour de cassation tunisienne a confirmé jeudi les condamnations et les lourdes peines prononcées en appel, en novembre 2025, contre une trentaine de personnes, dont des figures de l'opposition et des avocats, dans l'« affaire du complot contre la sûreté de l'État ».\n\nHuman Rights Watch dénonce un « simulacre de procès » et réclame la libération des personnes qu'elle considère arbitrairement détenues.",
+   "sources": [
+    {
+     "media": "Human Rights Watch",
+     "url": "https://www.hrw.org/fr/news/2026/09/03/tunisie-les-condamnations-injustes-pour-complot-confirmees-en-cassation",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260903-tunisie-la-cour-de-cassation-confirme-les-lourdes-peines-dans-l-affaire-du-complot-contre-l-%C3%A9tat",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "tunisie-la-cour-de-cassation-confirme-les-lourdes-peines-de-f0b8cc",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "tunisie-la-cour-de-cassation-confirme-les-lourdes-peines-de-f0b8cc"
+  },
+  {
+   "titre": "Volkswagen va supprimer 100 000 emplois d'ici 2030, soit environ 15 % de ses effectifs mondiaux",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Allemagne",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/%C3%A9co-tech/20260903-restructuration-historique-chez-volkswagen-100-000-suppressions-de-postes-d-ici-2030",
+   "resume": "Le conseil de surveillance de Volkswagen a approuvé jeudi à l'unanimité un plan de restructuration ajoutant 50 000 suppressions de postes à celles déjà actées depuis 2024 en Allemagne, pour un total de 100 000 emplois supprimés d'ici 2030, soit environ 15 % des effectifs mondiaux du groupe.",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20260903-restructuration-historique-chez-volkswagen-100-000-suppressions-de-postes-d-ici-2030",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "volkswagen-va-supprimer-100-000-emplois-d-ici-2030-soit-envi-233b42",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "volkswagen-va-supprimer-100-000-emplois-d-ici-2030-soit-envi-233b42"
+  },
+  {
+   "titre": "Québecor conserve les droits de diffusion de la LNH en français pour 12 ans",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "LaPresse, Le Devoir, Radio-Canada",
+   "url": "https://www.lapresse.ca/sports/hockey/2026-09-03/entente-avec-rogers/quebecor-diffusera-les-matchs-du-canadien-pour-12-annees-de-plus.php",
+   "resume": "Québecor a annoncé jeudi avoir conclu avec Rogers Communications une entente de 12 ans pour la diffusion en français des matchs de la LNH, dont 32 rencontres du Canadien cette saison, soit 10 de plus que dans l'entente précédente, à moins de quatre semaines du début de la saison 2026-2027.",
+   "sources": [
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/sports/hockey/2026-09-03/entente-avec-rogers/quebecor-diffusera-les-matchs-du-canadien-pour-12-annees-de-plus.php",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/medias/1006382/quebecor-conserve-droits-francophones-diffusion-lnh-12-ans",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/sports/2270630/canadien-montreal-droits-diffusion-francais",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "quebecor-conserve-les-droits-de-diffusion-de-la-lnh-en-franc-b6405d",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "quebecor-conserve-les-droits-de-diffusion-de-la-lnh-en-franc-b6405d"
+  },
+  {
+   "titre": "OpenAI lance GPT-6, son modèle le plus puissant, balisé pour limiter les risques",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280393/openai-lance-gpt-6-modele-plus-puissant-limiter-risques",
+   "resume": "OpenAI a lancé GPT-6, premier de ses modèles à atteindre le niveau de risque le plus élevé de sa propre grille d'évaluation en cybersécurité, capable en théorie de pirater seul des systèmes informatiques protégés, avec un dispositif de surveillance automatique pouvant interrompre ses tâches les plus sensibles, selon l'entreprise.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280393/openai-lance-gpt-6-modele-plus-puissant-limiter-risques",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "openai-lance-gpt-6-son-modele-le-plus-puissant-balise-pour-l-731fbe",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "openai-lance-gpt-6-son-modele-le-plus-puissant-balise-pour-l-731fbe"
+  },
+  {
+   "titre": "Un trésor caché des Habsbourg dévoilé en première mondiale au Musée national des beaux-arts du Québec",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "Québecor, Coops, Radio-Canada",
+   "url": "https://journalmetro.com/culture/3226387/un-tresor-cache-des-habsbourg-devoile-en-premiere-mondiale-au-mnbaq/",
+   "resume": "Le Musée national des beaux-arts du Québec présente à compter du 4 septembre l'exposition « Un trésor caché », qui montre pour la toute première fois au public quinze joyaux de la famille impériale des Habsbourg, dont le diamant Florentin de 137 carats longtemps considéré comme disparu, une collection liée à Zita de Bourbon-Parme, dernière impératrice d'Autriche-Hongrie, qui trouva refuge au Québec avec ses huit enfants.",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://journalmetro.com/culture/3226387/un-tresor-cache-des-habsbourg-devoile-en-premiere-mondiale-au-mnbaq/",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "un-tresor-cache-des-habsbourg-devoile-en-premiere-mondiale-a-a6065f",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "un-tresor-cache-des-habsbourg-devoile-en-premiere-mondiale-a-a6065f"
+  },
+  {
+   "titre": "Un juge ordonne à Ottawa de révéler des informations liées aux crimes de guerre nazis",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Canada",
+   "medias": "Radio-Canada, National Post",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280512/juge-ordonne-ottawa-reveler-informations-liees-crimes-guerre-nazis",
+   "resume": "La Cour fédérale a ordonné la déclassification de certains passages d'un rapport de 618 pages de 1986 sur l'arrivée au Canada, après la guerre, de personnes soupçonnées de crimes de guerre nazis, jugeant que l'intérêt public à préserver l'histoire l'emporte sur les motifs invoqués par Ottawa pour maintenir le secret.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280512/juge-ordonne-ottawa-reveler-informations-liees-crimes-guerre-nazis",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/nazis-canada-report-declassified",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "un-juge-ordonne-a-ottawa-de-reveler-des-informations-liees-a-641734",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "un-juge-ordonne-a-ottawa-de-reveler-des-informations-liees-a-641734"
+  },
+  {
+   "titre": "Carney conteste les accusations américaines concernant la fin des négociations commerciales",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Radio-Canada, Le Devoir",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280450/carney-conteste-accusations-americaines-negociations-commerciales",
+   "resume": "Le secrétaire américain au Commerce, Howard Lutnick, a affirmé cette semaine que le Canada avait ajouté des idées jugées irréalistes dans les dernières heures des négociations commerciales pour des raisons de politique interne profitant aux libéraux, des accusations que le premier ministre Mark Carney a rejetées, alors que les tensions entre Ottawa et Washington se sont intensifiées depuis l'échec des pourparlers le mois dernier.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280450/carney-conteste-accusations-americaines-negociations-commerciales",
+     "date": "2026-09-03T21:59-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/canada/1006316/carney-riposte-accusations-americaines-concernant-fin-negociations-commerciales",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "carney-conteste-les-accusations-americaines-concernant-la-fi-2a216e",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "carney-conteste-les-accusations-americaines-concernant-la-fi-2a216e"
+  },
+  {
+   "titre": "Congé de maternité et assurance-emploi : victoire des travailleuses en Cour d'appel fédérale",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "CBC, (canadafrancais.com)",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/conge-de-maternite-licenciement-et-assurance-emploi-victoire-des-travailleuses/",
+   "resume": "La Cour d'appel fédérale a rétabli une décision établissant que les dispositions de la Loi sur l'assurance-emploi privant certaines travailleuses en congé de maternité de prestations régulières, faute d'avoir accumulé assez d'heures assurables après un licenciement, violaient la Charte des droits et étaient discriminatoires.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/federal-court-of-appeal-woman-mat-leave-no-ei-benefits-9.7331748?cmp=rss",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "conge-de-maternite-et-assurance-emploi-victoire-des-travaill-1a771c",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "conge-de-maternite-et-assurance-emploi-victoire-des-travaill-1a771c"
+  },
+  {
+   "titre": "Les agriculteurs de Charlevoix obtiennent le statut de région périphérique",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Charlevoix (Capitale-Nationale)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280477/charlevoix-agriculture-region-peripherique-upa",
+   "resume": "Les producteurs agricoles de Charlevoix ont obtenu la désignation de région périphérique après quatre ans de démarches, ce qui leur donnera un meilleur accès à certains programmes d'aide gouvernementale, selon l'Union des producteurs agricoles.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280477/charlevoix-agriculture-region-peripherique-upa",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "les-agriculteurs-de-charlevoix-obtiennent-le-statut-de-regio-01ff19",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "les-agriculteurs-de-charlevoix-obtiennent-le-statut-de-regio-01ff19"
+  },
+  {
+   "titre": "Des citoyens inquiets d'un accroissement de sable dans la rivière Bécancour",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Bécancour (Centre-du-Québec)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10752209/citoyens-inquiets-par-deversements-dans-riviere-becancour",
+   "resume": "Des citoyens de la rive sud ont interpellé le ministre de l'Agriculture, Donald Martel, au sujet de l'accumulation de sable qu'ils observent dans la rivière Bécancour, selon Radio-Canada.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10752209/citoyens-inquiets-par-deversements-dans-riviere-becancour",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "des-citoyens-inquiets-d-un-accroissement-de-sable-dans-la-ri-766157",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "des-citoyens-inquiets-d-un-accroissement-de-sable-dans-la-ri-766157"
+  },
+  {
+   "titre": "Vague de fraudes par « faux représentants » dans la MRC de Brome-Missisquoi",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "MRC de Brome-Missisquoi (Estrie)",
+   "medias": "Sûreté du Québec",
+   "url": "https://frelighsburg.ca/surete-du-quebec-mrc-brome-missisquoi-vague-de-fraudes-de-type-faux-representants/",
+   "resume": "La Sûreté du Québec met en garde les citoyens de la MRC de Brome-Missisquoi, particulièrement les personnes aînées, contre une vague de fraudes où des individus se font passer pour des représentants d'entreprises ou d'organismes afin d'obtenir de l'argent ou des renseignements personnels.",
+   "sources": [
+    {
+     "media": "Sûreté du Québec",
+     "url": "https://frelighsburg.ca/surete-du-quebec-mrc-brome-missisquoi-vague-de-fraudes-de-type-faux-representants/",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "horodate": "2026-09-03T21:59-04:00",
+   "permalien": "vague-de-fraudes-par-faux-representants-dans-la-mrc-de-brome-5b19d2",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-03.json",
+   "_slug": "vague-de-fraudes-par-faux-representants-dans-la-mrc-de-brome-5b19d2"
   },
   {
    "titre": "Controverses de candidats : le PCQ, seul parti à n'avoir exclu personne",
@@ -1656,6 +1999,7 @@
     }
    ],
    "permalien": "le-plq-promet-195-milliards-sur-10-ans-pour-les-infrastructu-2b7eb9",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "le-plq-promet-195-milliards-sur-10-ans-pour-les-infrastructu-2b7eb9"
@@ -1679,6 +2023,7 @@
     }
    ],
    "permalien": "quebec-solidaire-veut-financer-la-mise-de-fonds-des-premiers-b4cd01",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "quebec-solidaire-veut-financer-la-mise-de-fonds-des-premiers-b4cd01"
@@ -1702,6 +2047,7 @@
     }
    ],
    "permalien": "frechette-boucle-sa-8e-journee-de-campagne-dans-orford-la-ci-945182",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "frechette-boucle-sa-8e-journee-de-campagne-dans-orford-la-ci-945182"
@@ -1725,6 +2071,7 @@
     }
    ],
    "permalien": "l-agrandissement-promis-du-chaur-a-trois-rivieres-fait-reagi-d3916c",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-03.json",
    "_slug": "l-agrandissement-promis-du-chaur-a-trois-rivieres-fait-reagi-d3916c"
