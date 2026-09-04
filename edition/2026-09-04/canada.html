@@ -39,10 +39,10 @@
 <nav class="facettes" id="facettes"><div class="fac-ligne fac-q"><label class="fac-lbl" for="q">Chercher</label><input id="q" type="search" placeholder="Titre, lieu, média…" oninput="filtrer()" autocomplete="off"><span class="res" id="res"></span><button type="button" class="fac raz" id="raz" onclick="facRaz()" title="Retirer tous les filtres" style="display:none">Tout afficher ×</button></div><div class="fac-ligne" data-dim="rubrique"><span class="fac-lbl">Rubriques</span><a class="fac tout on" href="#" data-fac="rubrique" data-val="" onclick="return facTout(this,event)">Toutes</a><a class="fac" data-rubrique="politique" data-fac="rubrique" data-val="politique" onclick="return facToggle(this,event)" href="rubrique-politique.html">Politique et vie municipale <span class="n">2</span></a><a class="fac" data-rubrique="economie" data-fac="rubrique" data-val="economie" onclick="return facToggle(this,event)" href="rubrique-economie.html">Économie et travail <span class="n">12</span></a><a class="fac" data-rubrique="transport" data-fac="rubrique" data-val="transport" onclick="return facToggle(this,event)" href="rubrique-transport.html">Transport et infrastructures <span class="n">1</span></a><a class="fac" data-rubrique="environnement" data-fac="rubrique" data-val="environnement" onclick="return facToggle(this,event)" href="rubrique-environnement.html">Environnement et climat <span class="n">1</span></a><a class="fac" data-rubrique="justice" data-fac="rubrique" data-val="justice" onclick="return facToggle(this,event)" href="rubrique-justice.html">Justice et sécurité publique <span class="n">2</span></a><a class="fac" data-rubrique="technologies" data-fac="rubrique" data-val="technologies" onclick="return facToggle(this,event)" href="rubrique-technologies.html">Technologies et numérique <span class="n">1</span></a><a class="fac" data-fac="rubrique" data-val="autres" href="#" onclick="return facToggle(this,event)">Autres <span class="n">2</span></a></div></nav>
 
 <p class="legende">
- <span class="badge-vu b-neuf">● Nouveau</span><span class="quoi">jamais vu</span>
- <span class="badge-vu b-apercu">◔ Vu, non lu</span><span class="quoi">passé sous vos yeux</span>
- <span class="badge-vu b-lu">✓ Lu</span><span class="quoi">sujet ouvert</span>
- <span class="badge-vu b-maj">● Nouveaux articles</span><span class="quoi">relancé depuis votre lecture</span>
+ <span class="badge-vu b-neuf" title="jamais vu">● Nouveau</span>
+ <span class="badge-vu b-apercu" title="passé sous vos yeux">◔ Vu, non lu</span>
+ <span class="badge-vu b-lu" title="sujet ouvert">✓ Lu</span>
+ <span class="badge-vu b-maj" title="relancé depuis votre lecture">● Nouveaux articles</span>
  <button type="button" onclick="vusOublier()" title="Effacer la mémoire de lecture de ce navigateur">Tout oublier</button>
 </p>
 <p class="vide" id="vide" style="display:none">Aucun sujet ne correspond.</p>

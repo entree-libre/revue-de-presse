@@ -111,8 +111,8 @@ html[data-theme="contraste"] .toolbar .btn-une{text-decoration:none;color:#000}
    nom, le compte. La rangee tient sur une ligne et laisse la place a la
    barre de filtrage qui la suit. */
 nav.cahiers{position:sticky;top:var(--h-barre-reelle,var(--h-barre));z-index:29;background:var(--bg);
- border-bottom:1px solid var(--rule);padding:.3rem 0 .45rem;display:flex;
- gap:.3rem;flex-wrap:wrap;align-items:center;font-family:var(--ui);font-size:.76rem}
+ border-bottom:0;padding:.25rem 0 .2rem;display:flex;
+ gap:.15rem;flex-wrap:wrap;align-items:center;font-family:var(--ui);font-size:.76rem}
 nav.cahiers a{text-decoration:none}
 
 /* ---- les pastilles de filtrage (3 sept. 2026) ----
@@ -124,22 +124,35 @@ nav.cahiers a{text-decoration:none}
    sujet ne repondrait a ce filtre combine aux autres) s'estompe. */
 .fac-lbl{font-family:var(--ui);font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;
  font-weight:800;color:var(--muted);margin-right:.35rem;white-space:nowrap}
-.fac{font-family:var(--ui);font-size:.76rem;font-weight:600;line-height:1.25;
- padding:.26rem .66rem;border-radius:999px;cursor:pointer;
- border:1px solid color-mix(in srgb,var(--fg) 24%,transparent);
- background:var(--card);color:var(--fg);text-decoration:none;
- display:inline-flex;align-items:center;gap:.38rem;white-space:nowrap;
+/* Allegees le 4 sept. 2026 (l'editeur : « naturel et invitant, moins lourd
+   visuellement ») : au repos, une pastille n'est que du texte — ni cadre ni
+   fond, le compte en petit chiffre nu ; le fond n'apparait qu'au survol. Le
+   jaune plein est reserve au vrai choix : un filtre coche. « Tous / Toutes »
+   et le mode de « Rassembler par » sont des etats neutres : un simple trait
+   jaune dessous, pas un bloc. */
+.fac{font-family:var(--ui);font-size:.76rem;font-weight:500;line-height:1.25;
+ padding:.22rem .55rem;border-radius:999px;cursor:pointer;
+ border:1px solid transparent;
+ background:transparent;color:var(--fg);text-decoration:none;
+ display:inline-flex;align-items:center;gap:.34rem;white-space:nowrap;
  transition:background-color .12s ease,border-color .12s ease,color .12s ease}
-.fac .n{font-size:.64rem;font-weight:700;color:var(--muted);
- background:color-mix(in srgb,var(--fg) 9%,transparent);border-radius:999px;
- padding:.04rem .42rem;min-width:1.5rem;text-align:center;font-variant-numeric:tabular-nums}
-.fac .code{font-size:.62rem;font-weight:800;letter-spacing:.06em;color:var(--accent-txt);
+.fac .n{font-size:.64rem;font-weight:600;color:var(--muted);
  font-variant-numeric:tabular-nums}
-.fac .pt{width:.58rem;height:.58rem;border-radius:50%;flex:0 0 auto;
+.fac .code{font-size:.6rem;font-weight:700;letter-spacing:.06em;color:var(--muted);
+ font-variant-numeric:tabular-nums}
+.fac .pt{width:.5rem;height:.5rem;border-radius:50%;flex:0 0 auto;
  background:var(--ca,var(--muted))}
-.fac:hover{border-color:var(--accent-txt);color:var(--accent-txt)}
+.fac:hover{background:color-mix(in srgb,var(--fg) 8%,transparent);color:var(--fg)}
 .fac.on{background:var(--accent);color:var(--accent-fg);border-color:var(--accent);font-weight:700}
-.fac.on .n,.fac.on .code{color:inherit;background:rgba(0,0,0,.14)}
+.fac.on .n,.fac.on .code{color:inherit;opacity:.8}
+/* Etat neutre coche (« Tous », « Toutes », le mode de rassemblement) :
+   souligne de jaune, texte de la page — rien de plein. */
+.fac.tout.on,.fac.vue.on{background:transparent;color:var(--fg);border-color:transparent;
+ box-shadow:inset 0 -2px 0 var(--accent);border-radius:.2rem}
+.fac.tout.on:hover,.fac.vue.on:hover{background:color-mix(in srgb,var(--fg) 8%,transparent)}
+html[data-theme="contraste"] .fac{border-color:var(--fg)}
+html[data-theme="contraste"] .fac.tout.on,html[data-theme="contraste"] .fac.vue.on{
+ border-color:var(--fg);box-shadow:inset 0 -3px 0 var(--accent)}
 .fac.zero{opacity:.38}
 .fac.zero:not(.on){pointer-events:none}
 /* La pastille de cahier cochee : la couleur du cahier en plein, pas le jaune
@@ -152,22 +165,24 @@ html[data-theme="contraste"] nav.cahiers .fac.on:not(.tout) .pt{background:#000}
 html[data-theme="contraste"] nav.cahiers .fac.on:not(.tout) .n{background:rgba(0,0,0,.18);color:#000}
 html[data-theme="contraste"] .fac{border-width:2px}
 html[data-theme="contraste"] .fac.on{text-decoration:none}
-.fac.tout{font-weight:700}
-.fac.raz{border-style:dashed;font-weight:600}
-.fac.vue{border-radius:.35rem}
+.fac.tout{font-weight:600}
+.fac.raz{border:1px dashed color-mix(in srgb,var(--fg) 35%,transparent);font-weight:600}
+.fac.vue{border-radius:.2rem}
 
 /* La barre de filtrage : recherche, rubriques, regions, rassembler par.
    Collante sous les cahiers ; une fois qu'on a defile (html.defile), elle se
    replie sur ses seules pastilles cochees et son libelle — l'outil reste sous
    la main sans manger l'ecran. Un clic sur un libelle la deplie. */
 nav.facettes{position:sticky;top:var(--h-cahiers-reelle,5rem);z-index:28;background:var(--bg);
- padding:.4rem 0 .5rem;border-bottom:2px solid var(--rule-fort);margin:0 0 .6rem;
- display:flex;flex-direction:column;gap:.32rem;font-family:var(--ui)}
-.fac-ligne{display:flex;flex-wrap:wrap;align-items:center;gap:.28rem;min-height:1.6rem}
+ padding:.35rem 0 .4rem;border-bottom:1px solid var(--rule);margin:0 0 .5rem;
+ display:flex;flex-direction:column;gap:.15rem;font-family:var(--ui)}
+.fac-ligne{display:flex;flex-wrap:wrap;align-items:center;gap:.1rem .15rem;min-height:1.5rem}
 .fac-ligne .fac-lbl{min-width:6.4rem;cursor:pointer}
-.fac-q input{font-family:var(--ui);font-size:.8rem;background:var(--card);color:var(--fg);
- border:1px solid color-mix(in srgb,var(--fg) 24%,transparent);border-radius:999px;
- padding:.32rem .8rem;flex:1 1 14rem;max-width:30rem;min-width:10rem}
+.fac-q input{font-family:var(--ui);font-size:.8rem;background:transparent;color:var(--fg);
+ border:1px solid color-mix(in srgb,var(--fg) 16%,transparent);border-radius:999px;
+ padding:.3rem .8rem;flex:1 1 14rem;max-width:26rem;min-width:10rem}
+.fac-q input::placeholder{color:var(--muted)}
+.fac-q input:hover{border-color:color-mix(in srgb,var(--fg) 32%,transparent)}
 .fac-q input:focus{outline:2px solid var(--accent);outline-offset:-1px}
 .fac-q .res{font-size:.74rem;color:var(--muted);font-weight:600}
 /* Repliee : une seule ligne — les quatre libelles a la suite, chacun suivi
@@ -725,11 +740,13 @@ article.lu h4.titre{font-weight:400}
 .b-maj{background:var(--accent);color:var(--accent-fg);border:0}
 
 /* Legende des pastilles, sous le filtre. */
-.legende{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;
- font-family:var(--ui);font-size:.7rem;color:var(--muted);margin:.2rem 0 1rem}
-.legende .badge-vu{margin:0}
-.legende .quoi{margin-right:.5rem}
-.legende button{font-family:var(--ui);font-size:.7rem;background:transparent;
- color:var(--muted);border:1px solid var(--rule);border-radius:.2rem;
- padding:.2rem .55rem;cursor:pointer}
+.legende{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;
+ font-family:var(--ui);font-size:.68rem;color:var(--muted);margin:.1rem 0 .8rem}
+.legende .badge-vu{margin:0;padding:0;border:0;background:transparent;
+ color:var(--muted);font-weight:600;letter-spacing:.06em;cursor:help}
+.legende .b-neuf,.legende .b-maj{color:var(--accent-txt);font-weight:800}
+.legende .quoi{display:none}
+.legende button{font-family:var(--ui);font-size:.68rem;background:transparent;
+ color:var(--muted);border:0;border-bottom:1px solid var(--rule-fort);border-radius:0;
+ padding:0 0 .05rem;cursor:pointer;letter-spacing:.02em}
 .legende button:hover{color:var(--accent-txt);border-color:var(--accent-txt)}
