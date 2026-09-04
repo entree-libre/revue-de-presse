@@ -1,9 +1,153 @@
 {
  "date": "2026-09-04",
  "volets": [
+  "elections",
   "report"
  ],
  "articles": [
+  {
+   "titre": "Éric Duhaime promet 6000 emplois en ouvrant la porte aux gaz de schiste",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "FM93",
+   "url": "https://www.fm93.com/audio/798690/le-parti-conservateur-ouvre-grand-la-porte-aux-gaz-de-schiste",
+   "resume": "Selon FM93, le chef conservateur Éric Duhaime promet la création de 6000 emplois en ouvrant la porte à l'exploitation des gaz de schiste au Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T07:28+00:00",
+   "sources": [
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/798690/le-parti-conservateur-ouvre-grand-la-porte-aux-gaz-de-schiste",
+     "date": "2026-09-04T03:28-04:00"
+    }
+   ],
+   "permalien": "eric-duhaime-promet-6000-emplois-en-ouvrant-la-porte-aux-gaz-db8368",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "eric-duhaime-promet-6000-emplois-en-ouvrant-la-porte-aux-gaz-db8368"
+  },
+  {
+   "titre": "Le PQ blâme la CAQ pour le déclin du français, PSPP évoque l'urgence linguistique",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "FM93",
+   "url": "https://www.fm93.com/nouvelles/798518/le-pq-blame-la-caq-pour-le-declin-du-francais",
+   "resume": "Selon FM93, le chef péquiste Paul St-Pierre Plamondon blâme la CAQ pour le déclin du français au Québec et évoque une «urgence linguistique».",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T07:28+00:00",
+   "sources": [
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/nouvelles/798518/le-pq-blame-la-caq-pour-le-declin-du-francais",
+     "date": "2026-09-04T03:28-04:00"
+    }
+   ],
+   "permalien": "le-pq-blame-la-caq-pour-le-declin-du-francais-pspp-evoque-l-a5519f",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "le-pq-blame-la-caq-pour-le-declin-du-francais-pspp-evoque-l-a5519f"
+  },
+  {
+   "titre": "La CAQ promet 1000 $ de plus aux familles québécoises en 2027",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "FM93",
+   "url": "https://www.fm93.com/audio/799045/1000-de-plus-pour-les-familles-quebecoises-en-2027",
+   "resume": "Selon FM93, la Coalition avenir Québec promet un nouveau versement de 1000 $ aux familles québécoises en 2027.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T07:28+00:00",
+   "sources": [
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/799045/1000-de-plus-pour-les-familles-quebecoises-en-2027",
+     "date": "2026-09-04T03:28-04:00"
+    }
+   ],
+   "permalien": "la-caq-promet-1000-de-plus-aux-familles-quebecoises-en-2027-90a607",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "la-caq-promet-1000-de-plus-aux-familles-quebecoises-en-2027-90a607"
+  },
+  {
+   "titre": "Charles Milliard rejette les maisons des aînés sous leur forme actuelle",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "FM93",
+   "url": "https://www.fm93.com/nouvelles/798514/non-aux-maisons-des-aines-sous-leur-forme-actuelle-dit-charles-milliard",
+   "resume": "Selon FM93, le chef libéral Charles Milliard rejette la formule actuelle des maisons des aînés dans son plan pour les personnes âgées.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T07:28+00:00",
+   "sources": [
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/nouvelles/798514/non-aux-maisons-des-aines-sous-leur-forme-actuelle-dit-charles-milliard",
+     "date": "2026-09-04T03:28-04:00"
+    }
+   ],
+   "permalien": "charles-milliard-rejette-les-maisons-des-aines-sous-leur-for-6ea465",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "charles-milliard-rejette-les-maisons-des-aines-sous-leur-for-6ea465"
+  },
+  {
+   "titre": "Transport à Québec : Québec solidaire promet le tramway sans troisième lien, le PCQ défend une autre approche",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Québec",
+   "medias": "FM93",
+   "url": "https://www.fm93.com/nouvelles/798466/les-trois-phases-du-tramway-et-aucun-troisieme-lien-pour-quebec-promet-qs",
+   "resume": "Selon FM93, Québec solidaire promet la réalisation des trois phases du tramway sans troisième lien pour la région de Québec, une position que conteste le Parti conservateur sur la congestion en banlieue.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T07:28+00:00",
+   "sources": [
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/nouvelles/798466/les-trois-phases-du-tramway-et-aucun-troisieme-lien-pour-quebec-promet-qs",
+     "date": "2026-09-04T03:28-04:00"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/799032/congestion-en-banlieue-de-quebec-les-visions-opposees-du-pcq-et-de-qs",
+     "date": "2026-09-04T03:28-04:00"
+    }
+   ],
+   "permalien": "transport-a-quebec-quebec-solidaire-promet-le-tramway-sans-t-d1bed3",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "transport-a-quebec-quebec-solidaire-promet-le-tramway-sans-t-d1bed3"
+  },
+  {
+   "titre": "Les partis québécois pas pressés de poursuivre Meta pour la santé mentale des jeunes",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1006349/partis-politiques-quebecois-pas-encore-prets-montrer-dents-face-meta",
+   "resume": "Les partis provinciaux ne comptent pas suivre l'exemple d'États américains ayant poursuivi Meta pour le tort causé à la santé mentale des adolescents par Facebook et Instagram, et préconisent d'autres solutions, rapporte Le Devoir.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T07:28+00:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006349/partis-politiques-quebecois-pas-encore-prets-montrer-dents-face-meta",
+     "date": "2026-09-04T03:28-04:00"
+    }
+   ],
+   "permalien": "les-partis-quebecois-pas-presses-de-poursuivre-meta-pour-la-e24004",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-04.json",
+   "_slug": "les-partis-quebecois-pas-presses-de-poursuivre-meta-pour-la-e24004"
+  },
   {
    "titre": "Itamar Ben Gvir présente un plan pour vider Gaza de sa population, en pleine campagne électorale israélienne",
    "cahier": "international",
@@ -374,12 +518,12 @@
    "cahier": "savoirs",
    "rubrique": "technologies",
    "territoire": "États-Unis",
-   "medias": "Québecor, The Verge",
+   "medias": "Québecor, The Verge, Radio-Canada",
    "url": "https://www.journaldemontreal.com/2026/09/03/openai-lance-gpt-6-son-modele-le-plus-puissant-concu-pour-limiter-les-risques",
-   "resume": "OpenAI a lancé jeudi son nouveau modèle GPT-6 Astra, doté de meilleures garanties de sécurité après le piratage de Hugging Face par un de ses modèles non publiés plus tôt cet été, un lancement que son président Greg Brockman associe à l'entrée dans « l'ère de l'intelligence artificielle générale ».",
+   "resume": "OpenAI a lancé jeudi son nouveau modèle GPT-6 Astra, que son président Greg Brockman associe à l'entrée dans « l'ère de l'intelligence artificielle générale », avec des garanties de sécurité renforcées après le piratage de Hugging Face par un de ses modèles non publiés plus tôt cet été. L'entreprise le classe elle-même au niveau de risque le plus élevé de sa grille d'évaluation en cybersécurité — capable en théorie de pirater seul des systèmes protégés —, ce qui active un dispositif de surveillance automatique pouvant interrompre ses tâches les plus sensibles.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-03T15:59-04:00",
+   "horodate": "2026-09-04T02:43-04:00",
    "sources": [
     {
      "media": "Québecor",
@@ -390,6 +534,11 @@
      "media": "The Verge",
      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
      "date": "2026-09-03T16:01-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280393/openai-lance-gpt-6-modele-plus-puissant-limiter-risques",
+     "date": "2026-09-03T21:59-04:00"
     }
    ],
    "permalien": "openai-lance-gpt-6-astra-presente-comme-l-entree-dans-l-ere-a75f5a",
@@ -583,28 +732,6 @@
    "_slug": "quebecor-conserve-les-droits-de-diffusion-de-la-lnh-en-franc-b6405d"
   },
   {
-   "titre": "OpenAI lance GPT-6, son modèle le plus puissant, balisé pour limiter les risques",
-   "cahier": "savoirs",
-   "rubrique": "technologies",
-   "territoire": "États-Unis",
-   "medias": "Radio-Canada",
-   "url": "https://ici.radio-canada.ca/nouvelle/2280393/openai-lance-gpt-6-modele-plus-puissant-limiter-risques",
-   "resume": "OpenAI a lancé GPT-6, premier de ses modèles à atteindre le niveau de risque le plus élevé de sa propre grille d'évaluation en cybersécurité, capable en théorie de pirater seul des systèmes informatiques protégés, avec un dispositif de surveillance automatique pouvant interrompre ses tâches les plus sensibles, selon l'entreprise.",
-   "sources": [
-    {
-     "media": "Radio-Canada",
-     "url": "https://ici.radio-canada.ca/nouvelle/2280393/openai-lance-gpt-6-modele-plus-puissant-limiter-risques",
-     "date": "2026-09-03T21:59-04:00"
-    }
-   ],
-   "horodate": "2026-09-03T21:59-04:00",
-   "permalien": "openai-lance-gpt-6-son-modele-le-plus-puissant-balise-pour-l-731fbe",
-   "image_auto": "aucune",
-   "_fichier": "revue-report-2026-09-04.json",
-   "_volet": "report",
-   "_slug": "openai-lance-gpt-6-son-modele-le-plus-puissant-balise-pour-l-731fbe"
-  },
-  {
    "titre": "Un trésor caché des Habsbourg dévoilé en première mondiale au Musée national des beaux-arts du Québec",
    "cahier": "quebec",
    "rubrique": "societe",
@@ -794,6 +921,11 @@
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-03/qu-on-arrete-d-analyser-les-sondages-lance-milliard.php",
      "date": "2026-09-03T14:25-04:00"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/798722/charles-milliard-est-officiellement-hors-jeu-affirme-jonathan-trudeau",
+     "date": "2026-09-04T03:28-04:00"
     }
    ],
    "permalien": "le-plq-inquiet-de-son-debut-de-campagne-face-a-une-caq-qui-m-72ce80",
@@ -1038,15 +1170,20 @@
    "territoire": "Québec (Charlevoix–Côte-de-Beaupré)",
    "medias": "Le Journal de Québec",
    "url": "https://www.journaldequebec.com/2026/09/03/le-pequiste-francois-gariepy-se-confie-a-richard-martineau-sur-ses--propos-regrettables",
-   "resume": "Le candidat péquiste dans Charlevoix–Côte-de-Beaupré François Gariépy a reconnu en entrevue à QUB radio avoir tenu des « propos regrettables » envers l'animatrice Anne-Marie Withenshaw et s'est dit prêt à s'excuser s'il la rencontre ; il a aussi convenu que le mot « squaw », qu'il avait employé, ne convient pas, sans revenir sur sa critique des subventions aux artistes.",
+   "resume": "Le candidat péquiste dans Charlevoix–Côte-de-Beaupré François Gariépy a reconnu en entrevue à QUB radio avoir tenu des « propos regrettables » envers l'animatrice Anne-Marie Withenshaw et s'est dit prêt à s'excuser s'il la rencontre ; il a aussi convenu que le mot « squaw », qu'il avait employé, ne convient pas, sans revenir sur sa critique des subventions aux artistes.\n\n**Mise à jour, 7h28** — La candidate conservatrice Caroline Simard qualifie François Gariépy d'« allié » du troisième lien, selon FM93.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-03T17:19-04:00",
+   "horodate": "2026-09-04T07:28+00:00",
    "sources": [
     {
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/03/le-pequiste-francois-gariepy-se-confie-a-richard-martineau-sur-ses--propos-regrettables",
      "date": "2026-09-03T17:19-04:00"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/nouvelles/798470/francois-gariepy-est-un-allie-du-3e-lien-selon-une-candidate-du-pcq",
+     "date": "2026-09-04T03:28-04:00"
     }
    ],
    "permalien": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5",
@@ -1230,6 +1367,11 @@
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/799718/mark-carney-souffle-dans-les-voiles-de-christine-frechette",
      "date": "2026-09-03T21:27-04:00"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/balados/631115/episode/799758/3-septembre-2026-2e-heure-christine-frechette-peut-dire-merci-a-mark-carney",
+     "date": "2026-09-04T03:28-04:00"
     }
    ],
    "image_auto": "aucune",
