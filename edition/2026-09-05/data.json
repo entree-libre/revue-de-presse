@@ -1,6 +1,7 @@
 {
  "date": "2026-09-05",
  "volets": [
+  "economie-opinions",
   "elections",
   "monde",
   "presse-regionale",
@@ -9,6 +10,327 @@
   "savoirs"
  ],
  "articles": [
+  {
+   "titre": "Une étude sur les inégalités de santé entre élèves relance le débat sur les trois voies du système scolaire québécois",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal, La Presse",
+   "url": "https://www.journaldemontreal.com/2026/09/04/lecole-a-trois-vitesses-source-dinegalites-ou-faux-debat",
+   "resume": "Deux chroniqueurs du même quotidien y voient une leçon radicalement différente.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%C3%89cole_secondaire_de_D%C3%A9gelis.jpg/1280px-%C3%89cole_secondaire_de_D%C3%A9gelis.jpg",
+   "legende": "Une école secondaire au Québec.",
+   "photo_auteur": "Gabriel Picard",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/04/lecole-a-trois-vitesses-source-dinegalites-ou-faux-debat",
+     "auteur": "Josée Legault et Mario Dumont",
+     "date": "2026-09-05T09:39-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-04/propos-de-christine-frechette/et-soudain-l-ecole-a-trois-vitesses-disparut.php",
+     "auteur": "Alexandre Sirois",
+     "date": "2026-09-05T09:39-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "une-etude-sur-les-inegalites-de-sante-entre-eleves-relance-l-ab8ae7",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "une-etude-sur-les-inegalites-de-sante-entre-eleves-relance-l-ab8ae7"
+  },
+  {
+   "titre": "Deux décennies de réformes du marché du travail ont fait entrer les jeunes plus tôt en emploi et retardé la sortie des aînés",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "IRIS",
+   "url": "https://iris-recherche.qc.ca/blogue/travail-et-emploi/incitation-emploi/",
+   "resume": "L'IRIS, qui défend une intervention publique accrue, y voit une politique implicite plutôt qu'une suite de mesures isolées.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "sources": [
+    {
+     "media": "IRIS",
+     "url": "https://iris-recherche.qc.ca/blogue/travail-et-emploi/incitation-emploi/",
+     "auteur": "Pierre Tircher",
+     "date": "2026-09-04T00:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "deux-decennies-de-reformes-du-marche-du-travail-ont-fait-ent-f2fe9d",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "deux-decennies-de-reformes-du-marche-du-travail-ont-fait-ent-f2fe9d"
+  },
+  {
+   "titre": "Un collectif de seize organisations exhorte Québec à s'attaquer aux paradis fiscaux avant de couper dans les services publics",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-03/finances-publiques/attaquons-nous-aux-echappatoires-fiscales-avant-de-couper.php",
+   "resume": "Avant de sabrer dans les services, un collectif de syndicats veut d'abord qu'on aille chercher l'argent ailleurs.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-03/finances-publiques/attaquons-nous-aux-echappatoires-fiscales-avant-de-couper.php",
+     "auteur": "Émile Brassard",
+     "date": "2026-09-03T15:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "un-collectif-de-seize-organisations-exhorte-quebec-a-s-attaq-5465e7",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "un-collectif-de-seize-organisations-exhorte-quebec-a-s-attaq-5465e7"
+  },
+  {
+   "titre": "Une chercheuse américaine soutient que l'économie du care est devenue un nouveau moteur d'accumulation du capital",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis",
+   "medias": "À bâbord!",
+   "url": "https://www.ababord.org/Le-capitalisme-a-son-apogee",
+   "resume": "La revue À bâbord!, qui milite à gauche, y voit un prolongement du capitalisme racial.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "sources": [
+    {
+     "media": "À bâbord!",
+     "url": "https://www.ababord.org/Le-capitalisme-a-son-apogee",
+     "auteur": "Premilla Nadasen",
+     "date": "2026-09-05T09:39-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "une-chercheuse-americaine-soutient-que-l-economie-du-care-es-f2661d",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "une-chercheuse-americaine-soutient-que-l-economie-du-care-es-f2661d"
+  },
+  {
+   "titre": "Volkswagen s'entend avec ses syndicats sur la suppression de 100 000 emplois d'ici 2030",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Allemagne",
+   "medias": "TVA Nouvelles",
+   "url": "https://www.tvanouvelles.ca/2026/09/03/volkswagen-prevoit-la-supression-de-50-000-postes",
+   "resume": "Le syndicat IG Metall parle d'un compromis arraché de haute lutte, quatre usines restent en sursis.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wolfsburg_Jun_2012_015_%28Volkswagen_factory%29.JPG/1280px-Wolfsburg_Jun_2012_015_%28Volkswagen_factory%29.JPG",
+   "legende": "L'usine Volkswagen de Wolfsbourg, en Allemagne.",
+   "photo_auteur": "Michael Barera",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/03/volkswagen-prevoit-la-supression-de-50-000-postes",
+     "auteur": "AFP",
+     "date": "2026-09-05T09:39-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "volkswagen-s-entend-avec-ses-syndicats-sur-la-suppression-de-4b8cce",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "volkswagen-s-entend-avec-ses-syndicats-sur-la-suppression-de-4b8cce"
+  },
+  {
+   "titre": "Le surplus commercial du Canada s'effondre à 769 millions de dollars en juillet, juste avant l'entrée en vigueur des nouveaux tarifs",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/economie/1006451/canada-affiche-excedent-commercial-769-millions-juillet",
+   "resume": "L'économiste de BMO qui commente ces chiffres prévient que le pire est encore à venir.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Containers_at_the_Port_of_Montreal.jpg/1280px-Containers_at_the_Port_of_Montreal.jpg",
+   "legende": "Des conteneurs au port de Montréal.",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC BY 4.0",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1006451/canada-affiche-excedent-commercial-769-millions-juillet",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-03T19:33-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "le-surplus-commercial-du-canada-s-effondre-a-769-millions-de-d87903",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "le-surplus-commercial-du-canada-s-effondre-a-769-millions-de-d87903"
+  },
+  {
+   "titre": "La Banque du Canada dévoile son nouveau billet de 20 dollars à l'effigie du roi Charles III",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Banque du Canada",
+   "url": "https://www.bankofcanada.ca/2026/09/bank-canada-unveils-new-vertical-20-bank-note/",
+   "resume": "Le nouveau billet adopte un format vertical, une orientation encore rare pour la monnaie canadienne.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ottawa_-_ON_-_Bank_of_Canada.jpg/1280px-Ottawa_-_ON_-_Bank_of_Canada.jpg",
+   "legende": "Le siège de la Banque du Canada, à Ottawa.",
+   "photo_auteur": "Wladyslaw",
+   "photo_licence": "CC BY-SA 3.0",
+   "sources": [
+    {
+     "media": "Banque du Canada",
+     "url": "https://www.bankofcanada.ca/2026/09/bank-canada-unveils-new-vertical-20-bank-note/",
+     "date": "2026-09-05T09:39-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "la-banque-du-canada-devoile-son-nouveau-billet-de-20-dollars-ddc3a7",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "la-banque-du-canada-devoile-son-nouveau-billet-de-20-dollars-ddc3a7"
+  },
+  {
+   "titre": "Ottawa investit 4,7 milliards de dollars pour construire au Canada plus de 300 voitures de Via Rail, notamment à La Pocatière",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Thunder Bay (Ontario), La Pocatière (Bas-Saint-Laurent)",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-via-rail-carney-investment-summit-ottawa-ai-data-centres-september-5/",
+   "resume": "Carney en profite pour rappeler que le Canada n'est prêt à renégocier que si le ton américain change.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Brampton_ON_VIA-Rail-Canada_Passenger-Train_2025-01-12.jpg/1280px-Brampton_ON_VIA-Rail-Canada_Passenger-Train_2025-01-12.jpg",
+   "legende": "Un train de Via Rail, au Canada.",
+   "photo_auteur": "Milan Suvajac",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-via-rail-carney-investment-summit-ottawa-ai-data-centres-september-5/",
+     "date": "2026-09-05T09:39-04:00",
+     "auteur": "Abigale Subdhan"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "ottawa-investit-4-7-milliards-de-dollars-pour-construire-au-813d78",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "ottawa-investit-4-7-milliards-de-dollars-pour-construire-au-813d78"
+  },
+  {
+   "titre": "Le détaillant Meubles JC Perreault choisit d'absorber lui-même le coût des contre-tarifs plutôt que de le transmettre à sa clientèle",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "TVA Nouvelles",
+   "url": "https://www.tvanouvelles.ca/2026/09/04/tarifs-sur-les-meubles-et-electromenagers-americains-le-detaillant-jc-perreault-refuse-de-refiler-la-facture-a-ses-clients",
+   "resume": "Il craint surtout la suite, une escalade commerciale qui finirait par toucher toute l'économie, dit son vice-président.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/tarifs-sur-les-meubles-et-electromenagers-americains-le-detaillant-jc-perreault-refuse-de-refiler-la-facture-a-ses-clients",
+     "auteur": "Marie-Laurence Delainey",
+     "date": "2026-09-05T09:39-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "le-detaillant-meubles-jc-perreault-choisit-d-absorber-lui-me-c3dacc",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "le-detaillant-meubles-jc-perreault-choisit-d-absorber-lui-me-c3dacc"
+  },
+  {
+   "titre": "Le bœuf australien gagne du terrain dans les épiceries québécoises aux dépens des producteurs d'ici",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/04/le-buf-australien-sinvite-dans-les-paniers---il-est-moins-cher-en-plus",
+   "resume": "Un chercheur de Dalhousie y voit un signe que la concurrence internationale sur la viande rouge s'intensifie.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Angus_beef_cattle.jpg/1280px-Angus_beef_cattle.jpg",
+   "legende": "Du bétail destiné à la production de bœuf.",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC BY 4.0",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/04/le-buf-australien-sinvite-dans-les-paniers---il-est-moins-cher-en-plus",
+     "auteur": "Francis Halin",
+     "date": "2026-09-05T09:39-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "le-buf-australien-gagne-du-terrain-dans-les-epiceries-quebec-792b84",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "le-buf-australien-gagne-du-terrain-dans-les-epiceries-quebec-792b84"
+  },
+  {
+   "titre": "Un économiste de l'IEDM rappelle que les tarifs de représailles canadiens des années 1930 n'ont rien réglé",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "IEDM",
+   "url": "https://www.iedm.org/fr/a-century-ago-canada-tried-tariff-retaliation-it-did-nothing/",
+   "resume": "L'institut, qui prône le marché libre, y voit un remake d'un scénario déjà raté.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Canada_-_United_States_border_crossing_at_Vanceboro%2C_Maine_from_St._Croix%2C_New_Brunswick.jpg/1280px-Canada_-_United_States_border_crossing_at_Vanceboro%2C_Maine_from_St._Croix%2C_New_Brunswick.jpg",
+   "legende": "Un poste frontalier entre le Canada et les États-Unis.",
+   "photo_auteur": "DShaw20",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "IEDM",
+     "url": "https://www.iedm.org/fr/a-century-ago-canada-tried-tariff-retaliation-it-did-nothing/",
+     "auteur": "Vincent Geloso",
+     "date": "2026-09-05T09:39-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "un-economiste-de-l-iedm-rappelle-que-les-tarifs-de-represail-ba1feb",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "un-economiste-de-l-iedm-rappelle-que-les-tarifs-de-represail-ba1feb"
+  },
+  {
+   "titre": "Le fabricant québécois de remorques-citernes Tremcar dénonce les contre-tarifs qu'Ottawa doit imposer mardi",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Soleil",
+   "url": "https://www.lesoleil.com/affaires/2026/09/05/contre-tarifs-tremcar-forcee-dinvestir-dans-ses-usines-americaines-W3MQGF33EJGG5OPJVRLLYOGPRM/",
+   "resume": "Son président affirme que la mesure le pousse à investir davantage aux États-Unis plutôt qu'au Québec.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cement_tanker_trailer_at_the_A692_roundabout_-_geograph.org.uk_-_8182130.jpg/1280px-Cement_tanker_trailer_at_the_A692_roundabout_-_geograph.org.uk_-_8182130.jpg",
+   "legende": "Une remorque-citerne, le type de véhicule que fabrique Tremcar.",
+   "photo_auteur": "Robert Graham",
+   "photo_licence": "CC BY-SA 2.0",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/affaires/2026/09/05/contre-tarifs-tremcar-forcee-dinvestir-dans-ses-usines-americaines-W3MQGF33EJGG5OPJVRLLYOGPRM/",
+     "auteur": "Jean-Luc Lorry",
+     "date": "2026-09-05T09:39-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T09:33-04:00",
+   "permalien": "le-fabricant-quebecois-de-remorques-citernes-tremcar-denonce-40f048",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-05.json",
+   "_slug": "le-fabricant-quebecois-de-remorques-citernes-tremcar-denonce-40f048"
+  },
   {
    "titre": "Dans Bellechasse, des villages à l'étroit lorgnent les terres agricoles avant le vote du 5 octobre",
    "cahier": "elections",
