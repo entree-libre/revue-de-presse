@@ -1,6 +1,7 @@
 {
  "date": "2026-09-05",
  "volets": [
+  "continu",
   "economie-opinions",
   "elections",
   "hors-rss",
@@ -12,6 +13,397 @@
   "savoirs"
  ],
  "articles": [
+  {
+   "titre": "Les émissaires de Donald Trump rencontrent Vladimir Poutine à Moscou avant une première visite à Kyiv, dans le cadre des pourparlers sur l'Ukraine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Russie, Ukraine",
+   "medias": "BBC, The Associated Press",
+   "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo",
+   "resume": "Les deux camps épargnent leurs capitales trois jours, mais les frappes continuent de faire des morts ailleurs.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Moscow_Kremlin_Towers_of_south_wall.jpg/1280px-Moscow_Kremlin_Towers_of_south_wall.jpg",
+   "legende": "Les tours de la muraille sud du Kremlin, à Moscou.",
+   "photo_auteur": "Dmitry Ivanov",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo",
+     "auteur": "Jaroslav Lukiv et Imogen James",
+     "date": "2026-09-05T16:15-04:00"
+    },
+    {
+     "media": "The Associated Press",
+     "url": "https://apnews.com/article/russia-ukraine-war-kushner-witkoff-visit-36a991feaff241bb8f24857ac159202a",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea"
+  },
+  {
+   "titre": "Washington affirme avoir visé trois navires-citernes iraniens dans le golfe d'Oman, Téhéran promet des représailles",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran",
+   "medias": "Boursorama",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/les-etats-unis-disent-avoir-frappe-trois-petroliers-iraniens-teheran-menace-de-represailles-30a4b546bf66c6fb894f4c4ee16c3bdd",
+   "resume": "L'armée américaine dit avoir agi après des tirs iraniens contre un navire de guerre, selon l'AFP.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Boursorama",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/les-etats-unis-disent-avoir-frappe-trois-petroliers-iraniens-teheran-menace-de-represailles-30a4b546bf66c6fb894f4c4ee16c3bdd",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "washington-affirme-avoir-vise-trois-navires-citernes-iranien-8300a6",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "washington-affirme-avoir-vise-trois-navires-citernes-iranien-8300a6"
+  },
+  {
+   "titre": "En Allemagne, l'Alternative pour l'Allemagne pourrait remporter dimanche sa première victoire régionale depuis 1945, en Saxe-Anhalt",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Allemagne",
+   "medias": "Le Devoir, TV5MONDE",
+   "url": "https://www.ledevoir.com/monde/europe/1006853/allemagne-6000-personnes-manifestent-democratie-avant-scrutin-saxe-anhalt",
+   "resume": "Malgré une manifestation de six mille personnes, tous les partis sauf un excluent de gouverner avec l'extrême droite.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Aerial_view_of_Magdeburg%2C_seen_from_Buckau_06.jpg/1280px-Aerial_view_of_Magdeburg%2C_seen_from_Buckau_06.jpg",
+   "legende": "Vue aérienne de Magdebourg, capitale du Land de Saxe-Anhalt.",
+   "photo_auteur": "Olivier Cleynen",
+   "photo_licence": "CC BY 4.0",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/europe/1006853/allemagne-6000-personnes-manifestent-democratie-avant-scrutin-saxe-anhalt",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-05T16:15-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/allemagne-les-craintes-dune-victoire-de-lafd-parti-dextreme-droite-aux-elections-en-saxe-anhalt-augmentent-2836259",
+     "auteur": "TV5MONDE Info",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "en-allemagne-l-alternative-pour-l-allemagne-pourrait-remport-9d4c72",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "en-allemagne-l-alternative-pour-l-allemagne-pourrait-remport-9d4c72"
+  },
+  {
+   "titre": "Une cinquantaine de responsables du Pentagone ont subi un test polygraphique après des fuites, selon le New York Times",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Le Parisien",
+   "url": "https://www.leparisien.fr/international/etats-unis/etats-unis-pourquoi-une-cinquantaine-de-membres-de-letat-major-americain-ont-ete-recemment-soumis-au-detecteur-de-mensonges-05-09-2026-HSEM6H3XFFBBRF6SKAMINI4BZY.php",
+   "resume": "Selon le New York Times, l'objectif était de débusquer d'éventuelles taupes dans les rangs de l'état-major.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Pentagon_US_Department_of_Defense_building.jpg/1280px-The_Pentagon_US_Department_of_Defense_building.jpg",
+   "legende": "Le Pentagone, siège du département de la Défense des États-Unis.",
+   "photo_auteur": "DoD photo by Master Sgt. Ken Hammond, U.S. Air Force",
+   "photo_licence": "Public domain",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/etats-unis-pourquoi-une-cinquantaine-de-membres-de-letat-major-americain-ont-ete-recemment-soumis-au-detecteur-de-mensonges-05-09-2026-HSEM6H3XFFBBRF6SKAMINI4BZY.php",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "une-cinquantaine-de-responsables-du-pentagone-ont-subi-un-te-2499f8",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "une-cinquantaine-de-responsables-du-pentagone-ont-subi-un-te-2499f8"
+  },
+  {
+   "titre": "Au Népal, une femme est sortie vivante des décombres plus d'une semaine après des inondations meurtrières",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Népal",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/nepal-une-femme-de-64-retrouvee-vivante-sous-les-decombres-dix-jours-apres-la-catastrophe_8179019.html",
+   "resume": "Plus de 5 000 personnes restent portées disparues, mais les secours continuent d'y croire.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/nepal-une-femme-de-64-retrouvee-vivante-sous-les-decombres-dix-jours-apres-la-catastrophe_8179019.html",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "au-nepal-une-femme-est-sortie-vivante-des-decombres-plus-d-u-d7b4a5",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "au-nepal-une-femme-est-sortie-vivante-des-decombres-plus-d-u-d7b4a5"
+  },
+  {
+   "titre": "Près de 130 pays s'entendent à Genève sur une première définition des armes autonomes, sans en interdire l'usage",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Suisse (Genève)",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/europe/20260905-en-plein-essor-l-onu-parvient-%C3%A0-un-premier-accord-sur-les-armes-autonomes",
+   "resume": "Le texte, encore non publié, exige un contrôle humain réel, mais des ONG réclament déjà une interdiction contraignante.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Palais_des_nations.jpg/1280px-Palais_des_nations.jpg",
+   "legende": "Le Palais des Nations, à Genève, siège européen de l'ONU.",
+   "photo_auteur": "Yann Forget",
+   "photo_licence": "CC BY-SA 3.0",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260905-en-plein-essor-l-onu-parvient-%C3%A0-un-premier-accord-sur-les-armes-autonomes",
+     "auteur": "RFI avec AFP",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "pres-de-130-pays-s-entendent-a-geneve-sur-une-premiere-defin-4b10c3",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "pres-de-130-pays-s-entendent-a-geneve-sur-une-premiere-defin-4b10c3"
+  },
+  {
+   "titre": "Stanislav Volo, porté disparu depuis six jours près de Squamish en Colombie-Britannique, est retrouvé vivant",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Squamish (Colombie-Britannique)",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12048962/bc-man-found-alive-bc/",
+   "resume": "Il est sorti seul des bois après l'une des recherches les plus vastes menées dans la région.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Squamish_Top.jpg/1280px-Squamish_Top.jpg",
+   "legende": "Les montagnes près de Squamish, en Colombie-Britannique.",
+   "photo_auteur": "Shafik Diwan",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12048962/bc-man-found-alive-bc/",
+     "auteur": "Prisha Dev",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "stanislav-volo-porte-disparu-depuis-six-jours-pres-de-squami-594305",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "stanislav-volo-porte-disparu-depuis-six-jours-pres-de-squami-594305"
+  },
+  {
+   "titre": "La Côte-Nord, deuxième région la plus contributrice au PIB du Québec, dénonce son dépeuplement grandissant",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Côte-Nord",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/800063/les-gens-quittent-la-cote-nord-martin-thomas-cote",
+   "resume": "Selon Martin-Thomas Côté à 98,5FM, la région mérite des investissements à sa mesure.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pourvoirie_Mabec_%C3%A0_Sept-%C3%AEles_Duplessis_%28C%C3%B4te-Nord%29_Qu%C3%A9bec.jpg",
+   "legende": "Un secteur de la Côte-Nord, près de Sept-Îles.",
+   "photo_auteur": "Cloutier, Grégory",
+   "photo_licence": "CC BY-SA 3.0",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/800063/les-gens-quittent-la-cote-nord-martin-thomas-cote",
+     "date": "2026-09-05T16:15-04:00",
+     "auteur": "Vincent Simard et Félix-Antoine Bétil"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "la-cote-nord-deuxieme-region-la-plus-contributrice-au-pib-du-349f4d",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "la-cote-nord-deuxieme-region-la-plus-contributrice-au-pib-du-349f4d"
+  },
+  {
+   "titre": "À Salaberry-de-Valleyfield, un homme est atteint par balle en pleine heure de souper, les suspects toujours recherchés",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Salaberry-de-Valleyfield (Montérégie)",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/homme-abattu-sur-lheure-du-souper-dans-un-restaurant-de-salaberry-de-valleyfield/",
+   "resume": "Les services d'urgence sont intervenus vendredi soir rue Alexandre, mais les circonstances exactes restent à préciser.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/homme-abattu-sur-lheure-du-souper-dans-un-restaurant-de-salaberry-de-valleyfield/",
+     "date": "2026-09-05T16:15-04:00",
+     "auteur": "La Presse Canadienne"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "a-salaberry-de-valleyfield-un-homme-est-atteint-par-balle-en-740cbc",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "a-salaberry-de-valleyfield-un-homme-est-atteint-par-balle-en-740cbc"
+  },
+  {
+   "titre": "Un conducteur entre la vie et la mort après une sortie de route à Rouyn-Noranda",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Rouyn-Noranda (Abitibi-Témiscamingue)",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/un-conducteur-se-trouve-dans-un-etat-critique-a-rouyn-noranda/",
+   "resume": "Le passager s'en tire avec des blessures légères, mais les causes de l'accident restent à déterminer.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/MRC_Rouyn-Noranda_1.jpg",
+   "legende": "Un secteur de la MRC de Rouyn-Noranda, en Abitibi-Témiscamingue.",
+   "photo_auteur": "Zorion",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/un-conducteur-se-trouve-dans-un-etat-critique-a-rouyn-noranda/",
+     "date": "2026-09-05T16:15-04:00",
+     "auteur": "La Presse Canadienne"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "un-conducteur-entre-la-vie-et-la-mort-apres-une-sortie-de-ro-682a3a",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "un-conducteur-entre-la-vie-et-la-mort-apres-une-sortie-de-ro-682a3a"
+  },
+  {
+   "titre": "Moins de traversées cet été pour la liaison du lac Témiscouata, plombée par le coût du carburant et la baisse d'achalandage",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Témiscouata-sur-le-Lac (Bas-Saint-Laurent)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280985/coregone-traverse-temiscouata-lac-service",
+   "resume": "Plusieurs allers-retours se faisaient à perte, ce qui force une réduction du service.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/T%C3%A9miscouata1.jpg/1280px-T%C3%A9miscouata1.jpg",
+   "legende": "Le lac Témiscouata, dans le Bas-Saint-Laurent.",
+   "photo_auteur": "Nicogag",
+   "photo_licence": "Public domain",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280985/coregone-traverse-temiscouata-lac-service",
+     "date": "2026-09-05T16:15-04:00",
+     "auteur": "Sophie Martin"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "moins-de-traversees-cet-ete-pour-la-liaison-du-lac-temiscoua-c1e938",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "moins-de-traversees-cet-ete-pour-la-liaison-du-lac-temiscoua-c1e938"
+  },
+  {
+   "titre": "Une professeure de l'Université de Sherbrooke se penche sur la médication du TDAH chez les jeunes Québécois, à FM93",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "FM93",
+   "url": "https://www.fm93.com/audio/799624/est-ce-qu-au-quebec-on-surmedicamente-les-enfants-pour-le-tdah",
+   "resume": "La docteure Mélissa Généreux, spécialiste en santé publique, répond à la question à FM93.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/799624/est-ce-qu-au-quebec-on-surmedicamente-les-enfants-pour-le-tdah",
+     "auteur": "Samuel Bédard",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "une-professeure-de-l-universite-de-sherbrooke-se-penche-sur-5a98dc",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "une-professeure-de-l-universite-de-sherbrooke-se-penche-sur-5a98dc"
+  },
+  {
+   "titre": "Rappel du Vegan Protein Puff saveur chili-lime de Smarter Snacks : du lait non mentionné à l'étiquette",
+   "cahier": "canada",
+   "rubrique": "sante",
+   "territoire": "Canada",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/rappel-de-vegan-protein-puff-chili-lime-flavored-de-marque-smarter-snacks-en-raison-de-la-presence-non-declaree-de-lait/",
+   "resume": "L'allergène pourrait représenter un risque sérieux, voire mortel, pour les personnes allergiques aux produits laitiers.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/rappel-de-vegan-protein-puff-chili-lime-flavored-de-marque-smarter-snacks-en-raison-de-la-presence-non-declaree-de-lait/",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "rappel-du-vegan-protein-puff-saveur-chili-lime-de-smarter-sn-b5c35f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "rappel-du-vegan-protein-puff-saveur-chili-lime-de-smarter-sn-b5c35f"
+  },
+  {
+   "titre": "Céline Dion entame une série de vingt-six concerts à Paris, dans une industrie du spectacle vivant en pleine surenchère",
+   "cahier": "savoirs",
+   "rubrique": "culture",
+   "territoire": "France, États-Unis",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/culture/megaconcerts-residences-l-industrie-du-live-repousse-ses-limites_8177453.html",
+   "resume": "Metallica cumule une vingtaine de représentations à la Sphere de Las Vegas, Orelsan quinze à l'Accor Arena.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Celine_Dion_Concert_Singing_%27Taking_Chances%27_2008.jpg/1280px-Celine_Dion_Concert_Singing_%27Taking_Chances%27_2008.jpg",
+   "legende": "Céline Dion en concert.",
+   "photo_auteur": "Anirudh Koul",
+   "photo_licence": "CC BY 2.0",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/megaconcerts-residences-l-industrie-du-live-repousse-ses-limites_8177453.html",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "celine-dion-entame-une-serie-de-vingt-six-concerts-a-paris-d-9b4d37",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "celine-dion-entame-une-serie-de-vingt-six-concerts-a-paris-d-9b4d37"
+  },
+  {
+   "titre": "Un homme de 41 ans est hospitalisé après avoir tenté de traiter lui-même son incontinence urinaire",
+   "cahier": "savoirs",
+   "rubrique": "sante",
+   "territoire": "",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/sante/actualites/vessie-patient-bizarre-stopper-fuites-urinaires-il-injecte-glue-uretre-finit-hopital-137517/",
+   "resume": "Pendant deux semaines, sa solution improvisée était un tube de colle industrielle injecté dans l'urètre.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sante/actualites/vessie-patient-bizarre-stopper-fuites-urinaires-il-injecte-glue-uretre-finit-hopital-137517/",
+     "auteur": "Annabelle Iglesias",
+     "date": "2026-09-05T16:15-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T16:08-04:00",
+   "permalien": "un-homme-de-41-ans-est-hospitalise-apres-avoir-tente-de-trai-2b2998",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-05.json",
+   "_slug": "un-homme-de-41-ans-est-hospitalise-apres-avoir-tente-de-trai-2b2998"
+  },
   {
    "titre": "Une étude sur les inégalités de santé entre élèves relance le débat sur les trois voies du système scolaire québécois",
    "cahier": "quebec",
@@ -690,7 +1082,7 @@
    "cahier": "elections",
    "rubrique": "sante",
    "territoire": "Saguenay–Lac-Saint-Jean",
-   "medias": "Radio-Canada, La Presse",
+   "medias": "Radio-Canada, La Presse, Coops de l'information",
    "url": "https://ici.radio-canada.ca/nouvelle/2280937/promesse-quebec-solidaire-sante-election-campagne",
    "resume": "Ce que ça changerait pour qui erre aujourd'hui entre 811, GAP et cliniques privées.",
    "photo": "",
@@ -713,6 +1105,42 @@
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/chantier-de-1-8-milliard-par-annee/plus-de-250-nouveaux-clsc-pour-la-premiere-ligne-propose-qs.php",
      "auteur": "William Thériault",
      "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/05/quebec-solidaire-veut-creer-une-nouvelle-porte-dentree-dans-le-reseau-de-la-sante-EALGW3LMUJFYNIIUO5QM2O6HTU/",
+     "auteur": "Laurence Richard",
+     "date": "2026-09-05T16:31-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/05/quebec-solidaire-veut-creer-une-nouvelle-porte-dentree-dans-le-reseau-de-la-sante-EALGW3LMUJFYNIIUO5QM2O6HTU/",
+     "auteur": "Laurence Richard",
+     "date": "2026-09-05T16:31-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/politique/2026/09/05/quebec-solidaire-veut-creer-une-nouvelle-porte-dentree-dans-le-reseau-de-la-sante-EALGW3LMUJFYNIIUO5QM2O6HTU/",
+     "auteur": "Laurence Richard",
+     "date": "2026-09-05T16:31-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/05/quebec-solidaire-veut-creer-une-nouvelle-porte-dentree-dans-le-reseau-de-la-sante-EALGW3LMUJFYNIIUO5QM2O6HTU/",
+     "auteur": "Laurence Richard",
+     "date": "2026-09-05T16:31-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/05/quebec-solidaire-veut-creer-une-nouvelle-porte-dentree-dans-le-reseau-de-la-sante-EALGW3LMUJFYNIIUO5QM2O6HTU/",
+     "auteur": "Laurence Richard",
+     "date": "2026-09-05T16:31-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/05/quebec-solidaire-veut-creer-une-nouvelle-porte-dentree-dans-le-reseau-de-la-sante-EALGW3LMUJFYNIIUO5QM2O6HTU/",
+     "auteur": "Laurence Richard",
+     "date": "2026-09-05T16:31-04:00"
     }
    ],
    "permalien": "quebec-solidaire-promet-un-reseau-de-400-clsc-pour-desengorg-2194ff",
@@ -726,9 +1154,9 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "La Presse, Le Soleil",
+   "medias": "La Presse, Coops de l'information, Radio-Canada, Les Affaires",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/le-pq-cache-le-mot-referendum-pour-paraitre-plus-soft-accuse-frechette.php",
-   "resume": "Mise à jour, 14 h — Le chef péquiste jure ne rien cacher, et retourne l'accusation vers le nouveau logo de ses rivaux.",
+   "resume": "Mise à jour, 16 h — Milliard s'invite dans la dispute et accuse Fréchette de récupérer la guerre commerciale américaine.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -773,9 +1201,20 @@
      "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/05/je-ne-cache-pas-le-nom-de-mon-parti-replique-pspp-3NGTMBDHFRELTOBLQLRTMWGAV4/",
      "auteur": "Rémi Léonard",
      "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280992/frechette-election-referendum-pspp-pq-caq",
+     "date": "2026-09-05T16:31-04:00",
+     "auteur": "Pierre Chapdelaine de Montvalon"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-10-frechette-accuse-pspp-de-ne-pas-parler-de-referendum/",
+     "date": "2026-09-05T16:31-04:00"
     }
    ],
-   "horodate": "2026-09-05T14:26-04:00",
+   "horodate": "2026-09-05T16:26-04:00",
    "permalien": "frechette-accuse-le-pq-de-camoufler-le-mot-referendum-0a5321",
    "image_auto": "aucune",
    "_volet": "elections",
@@ -883,9 +1322,15 @@
      "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/05/milliard-accuse-frechette-detre-prete-a-dire-nimporte-quoi-CLYJPWJ6BBC5PN5M6UDXVJEZ5M/",
      "auteur": "Gabrielle Cantin",
      "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Noovo Info",
+     "url": "https://www.youtube.com/watch?v=0ZE_z3-s6tM",
+     "date": "2026-09-05T16:31-04:00"
     }
    ],
    "permalien": "milliard-dit-que-frechette-gonfle-a-25-000-ses-places-en-gar-4bc0bf",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "milliard-dit-que-frechette-gonfle-a-25-000-ses-places-en-gar-4bc0bf"
@@ -895,7 +1340,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Le Devoir, La Presse",
+   "medias": "Le Devoir, La Presse, Québecor, Les Affaires",
    "url": "https://www.ledevoir.com/politique/quebec/1006847/pq-gelerait-salaires-deputes-ministres-p-g-societes-etat",
    "resume": "Certains dirigeants touchent leur boni même quand les résultats de leur société reculent, dénonce le chef péquiste.",
    "photo": "",
@@ -913,9 +1358,20 @@
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/efficacite-de-l-etat/le-pq-promet-de-geler-le-salaire-des-elus-et-des-hauts-dirigeants.php",
      "auteur": "Fanny Lévesque et Tommy Chouinard",
      "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/05/pspp-promet-un-gel-du-salaire-des-elus-et-des-dirigeants-des-societes-detat",
+     "date": "2026-09-05T16:31-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-10-le-parti-quebecois-veut-imposer-des-mesures-dexemplarite-a-letat/",
+     "date": "2026-09-05T16:31-04:00"
     }
    ],
    "permalien": "le-parti-quebecois-s-engage-a-bloquer-les-salaires-des-elus-3e6945",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "le-parti-quebecois-s-engage-a-bloquer-les-salaires-des-elus-3e6945"
@@ -940,9 +1396,112 @@
     }
    ],
    "permalien": "le-pq-veut-evincer-le-gestionnaire-actuel-du-mont-sainte-ann-aa4f80",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "le-pq-veut-evincer-le-gestionnaire-actuel-du-mont-sainte-ann-aa4f80"
+  },
+  {
+   "titre": "Duhaime propose 100 $ par semaine aux parents à la maison, Fréchette dénonce une attaque à l'autonomie des femmes",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor, La Presse",
+   "url": "https://www.journaldequebec.com/2026/09/05/discorde-sur-les-services-de-garde-frechette-promet-une-prime-de-10-000--aux-nouvelles-educatrices-duhaime-laccuse-detre-une--feministe-du-passe",
+   "resume": "Chacun accuse l'autre de mal comprendre l'égalité des sexes en pleine campagne électorale.",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/05/discorde-sur-les-services-de-garde-frechette-promet-une-prime-de-10-000--aux-nouvelles-educatrices-duhaime-laccuse-detre-une--feministe-du-passe",
+     "date": "2026-09-05T16:31-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/le-feminisme-de-frechette-est-depasse-lance-duhaime.php",
+     "auteur": "Charles Lecavalier",
+     "date": "2026-09-05T16:31-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T16:26-04:00",
+   "permalien": "duhaime-propose-100-par-semaine-aux-parents-a-la-maison-frec-20aea0",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "duhaime-propose-100-par-semaine-aux-parents-a-la-maison-frec-20aea0"
+  },
+  {
+   "titre": "Une photo truquée avec Fréchette pousse la police à mettre en garde la CAQ",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/05/chauffeur-attitre--dolivier-primeau--un-proche-des-hells-angels-sinvite-dans-la-campagne-de-la-caq-et-mobilise-la-police-avec-ses-fausses-images-generees-par-lia",
+   "resume": "Un homme au casier judiciaire s'est dit chauffeur d'un allié de la CAQ, images truquées à l'appui.",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/05/chauffeur-attitre--dolivier-primeau--un-proche-des-hells-angels-sinvite-dans-la-campagne-de-la-caq-et-mobilise-la-police-avec-ses-fausses-images-generees-par-lia",
+     "date": "2026-09-05T16:31-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T16:26-04:00",
+   "permalien": "une-photo-truquee-avec-frechette-pousse-la-police-a-mettre-e-91192b",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "une-photo-truquee-avec-frechette-pousse-la-police-a-mettre-e-91192b"
+  },
+  {
+   "titre": "Vlogueurs et publications ciblées : les partis québécois soignent leur image sur les réseaux sociaux",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.tvanouvelles.ca/2026/09/05/premiere-dame-en-attente-vlogs-et-influenceurs-les-reseaux-sociaux-sinserent-dans-la-campagne-electorale",
+   "resume": "Un tour d'horizon de ce que les comptes numériques changent à la course électorale.",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/05/premiere-dame-en-attente-vlogs-et-influenceurs-les-reseaux-sociaux-sinserent-dans-la-campagne-electorale",
+     "date": "2026-09-05T16:31-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T16:26-04:00",
+   "permalien": "vlogueurs-et-publications-ciblees-les-partis-quebecois-soign-bd5133",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "vlogueurs-et-publications-ciblees-les-partis-quebecois-soign-bd5133"
+  },
+  {
+   "titre": "Le Parti conservateur du Québec dévoile une plateforme numérique inspirée du fiasco SAAQclic",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/secteurs/politique/jour-10-le-pcq-mise-sur-laccessibilite-en-ligne/",
+   "resume": "Reste à savoir si la solution proposée éviterait un nouveau ratage informatique gouvernemental.",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-10-le-pcq-mise-sur-laccessibilite-en-ligne/",
+     "date": "2026-09-05T16:31-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T16:26-04:00",
+   "permalien": "le-parti-conservateur-du-quebec-devoile-une-plateforme-numer-212863",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "le-parti-conservateur-du-quebec-devoile-une-plateforme-numer-212863"
   },
   {
    "titre": "Ville-Marie célébrera des mariages dans son bureau Accès Montréal et autorise une tour de 18 étages",
@@ -4667,7 +5226,7 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "International",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, TV5MONDE",
    "url": "https://ici.radio-canada.ca/nouvelle/2280766/nouvelle-carte-monde-onu",
    "resume": "Le Canada y paraît enfin aussi petit qu'il l'est vraiment, à côté d'une Afrique bien plus grande.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Equal-Earth-Map-0.jpg/1280px-Equal-Earth-Map-0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -4681,6 +5240,12 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2280766/nouvelle-carte-monde-onu",
      "auteur": "Ariane Émond",
      "date": "2026-09-04T22:07-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/video/lonu-adopte-une-nouvelle-carte-du-monde-redonnant-lafrique-sa-juste-proportion-une-initiative-portee-par-le-togo-2836265",
+     "auteur": "TV5MONDE Info",
+     "date": "2026-09-05T16:08-04:00"
     }
    ],
    "permalien": "l-onu-adopte-une-nouvelle-carte-du-monde-plus-fidele-a-la-ta-9d30b4",
@@ -5537,7 +6102,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec (Capitale-Nationale)",
-   "medias": "Coops de l'information, LaPresse",
+   "medias": "Coops de l'information, LaPresse, Québecor",
    "url": "https://www.lavoixdelest.ca/chroniques/valerie-gaudreau/2026/09/04/dungava-a-limoilou-les-militants-pequistes-convergent-vers-quebec-LYTICUUTYJA4LBGP7D2ZWBJ6RU/",
    "resume": "Mise à jour, 21 h — Il a fallu attendre la 18e minute de son discours pour qu'il nomme son engagement phare.",
    "sources": [
@@ -5552,6 +6117,12 @@
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/troisieme-referendum-sur-la-souverainete/je-vais-tenir-parole-promet-paul-st-pierre-plamondon.php",
      "date": "2026-09-04T21:22-04:00",
      "auteur": "Fanny Lévesque"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/04/pspp-joue-la-carte-du-bon-gouvernement-et-attaque-uniquement-frechette-lors-dun-rassemblement-a-quebec",
+     "date": "2026-09-05T16:31-04:00",
+     "auteur": "Marc-André Gagnon"
     }
    ],
    "photo": "",
