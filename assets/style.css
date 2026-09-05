@@ -610,6 +610,9 @@ html.l-36 .src-action{flex:0 0 auto}
 .voisins a:hover{color:var(--accent-txt)}
 .voisins .lbl{display:block;font-family:var(--ui);color:var(--muted);font-size:.68rem;
  text-transform:uppercase;letter-spacing:.12em;margin-bottom:.3rem;font-weight:700}
+.voisins{flex-wrap:wrap}
+.voisins-note{flex-basis:100%;text-align:center;font-family:var(--ui);font-size:.68rem;
+ color:var(--muted);letter-spacing:.04em;margin-top:.2rem}
 
 /* ------------------------------------------------------------------- pied */
 footer.pied{margin-top:4rem;border-top:2px solid var(--rule-fort);padding-top:1.4rem;

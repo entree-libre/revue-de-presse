@@ -715,6 +715,76 @@
    "_slug": "quebec-solidaire-promet-un-reseau-de-400-clsc-pour-desengorg-2194ff"
   },
   {
+   "titre": "Fréchette accuse le PQ de camoufler le mot référendum",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/le-pq-cache-le-mot-referendum-pour-paraitre-plus-soft-accuse-frechette.php",
+   "resume": "Elle dénonce l'euphémisme du PQ mais refuse toute alliance pour empêcher la tenue de ce référendum.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/le-pq-cache-le-mot-referendum-pour-paraitre-plus-soft-accuse-frechette.php",
+     "auteur": "Tommy Chouinard",
+     "date": "2026-09-05T11:56-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T12:18-04:00",
+   "permalien": "frechette-accuse-le-pq-de-camoufler-le-mot-referendum-0a5321",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "frechette-accuse-le-pq-de-camoufler-le-mot-referendum-0a5321"
+  },
+  {
+   "titre": "Québec solidaire propose de fixer le seuil d'immigration permanente à 70 000 par année",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Québec solidaire",
+   "url": "https://api-wp.quebecsolidaire.net/articles/quebec-solidaire-veut-une-immigration-permanente-plus-humaine-et-mieux-regionalisee/",
+   "resume": "Reste à savoir ce qui changerait vraiment pour les nouveaux arrivants en région.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Québec solidaire",
+     "url": "https://api-wp.quebecsolidaire.net/articles/quebec-solidaire-veut-une-immigration-permanente-plus-humaine-et-mieux-regionalisee/",
+     "date": "2026-09-01T06:18-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T12:18-04:00",
+   "permalien": "quebec-solidaire-propose-de-fixer-le-seuil-d-immigration-per-e8d04c",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "quebec-solidaire-propose-de-fixer-le-seuil-d-immigration-per-e8d04c"
+  },
+  {
+   "titre": "Québec solidaire complète ses candidatures en Centre-du-Québec et en Chaudière-Appalaches",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Centre-du-Québec, Chaudière-Appalaches",
+   "medias": "Québec solidaire",
+   "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-mise-a-jour-des-candidatures-de-quebec-solidaire-dans-la-region-du-centre-du-quebec-chaudiere-appalaches/",
+   "resume": "Huit nouveaux noms qui complètent la carte électorale solidaire entre Bois-Francs et la Beauce.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Québec solidaire",
+     "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-mise-a-jour-des-candidatures-de-quebec-solidaire-dans-la-region-du-centre-du-quebec-chaudiere-appalaches/",
+     "date": "2026-09-04T06:12-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T12:18-04:00",
+   "permalien": "quebec-solidaire-complete-ses-candidatures-en-centre-du-queb-9547d2",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "quebec-solidaire-complete-ses-candidatures-en-centre-du-queb-9547d2"
+  },
+  {
    "titre": "Ville-Marie célébrera des mariages dans son bureau Accès Montréal et autorise une tour de 18 étages",
    "cahier": "montreal",
    "rubrique": "societe",

@@ -6,6 +6,42 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/frechette-accuse-le-pq-de-camoufler-le-mot-referendum-0a5321.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/frechette-accuse-le-pq-de-camoufler-le-mot-referendum-0a5321.html",
+   "title": "Fréchette accuse le PQ de camoufler le mot référendum",
+   "content_text": "Elle dénonce l'euphémisme du PQ mais refuse toute alliance pour empêcher la tenue de ce référendum.",
+   "date_modified": "2026-09-05T12:18:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-propose-de-fixer-le-seuil-d-immigration-per-e8d04c.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-propose-de-fixer-le-seuil-d-immigration-per-e8d04c.html",
+   "title": "Québec solidaire propose de fixer le seuil d'immigration permanente à 70 000 par année",
+   "content_text": "Reste à savoir ce qui changerait vraiment pour les nouveaux arrivants en région.",
+   "date_modified": "2026-09-05T12:18:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-complete-ses-candidatures-en-centre-du-queb-9547d2.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-complete-ses-candidatures-en-centre-du-queb-9547d2.html",
+   "title": "Québec solidaire complète ses candidatures en Centre-du-Québec et en Chaudière-Appalaches",
+   "content_text": "Huit nouveaux noms qui complètent la carte électorale solidaire entre Bois-Francs et la Beauce.",
+   "date_modified": "2026-09-05T12:18:00-04:00",
+   "tags": [
+    "Centre-du-Québec, Chaudière-Appalaches",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-promet-un-reseau-de-400-clsc-pour-desengorg-2194ff.html",
    "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-promet-un-reseau-de-400-clsc-pour-desengorg-2194ff.html",
    "title": "Québec solidaire promet un réseau de 400 CLSC pour désengorger l'accès aux soins de santé",
@@ -939,43 +975,6 @@
     "Moncton (Nouveau-Brunswick)",
     "Canada",
     "Justice et sécurité publique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-05/a/une-enquete-revele-un-reseau-de-faux-sites-propageant-le-sep-f43394.html",
-   "url": "https://entreelibre.ca/edition/2026-09-05/a/une-enquete-revele-un-reseau-de-faux-sites-propageant-le-sep-f43394.html",
-   "title": "Une enquête révèle un réseau de faux sites propageant le séparatisme albertain aux robots conversationnels",
-   "content_text": "Des dates de vote inventées et des électeurs fictifs y sont conçus pour être cités par l'intelligence artificielle.",
-   "date_modified": "2026-09-05T05:54:00-04:00",
-   "tags": [
-    "Alberta",
-    "Canada",
-    "Politique et vie municipale"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-05/a/dix-huit-fenetres-ont-eclate-spontanement-depuis-2024-sur-de-4382d9.html",
-   "url": "https://entreelibre.ca/edition/2026-09-05/a/dix-huit-fenetres-ont-eclate-spontanement-depuis-2024-sur-de-4382d9.html",
-   "title": "Dix-huit fenêtres ont éclaté spontanément depuis 2024 sur deux immeubles résidentiels du Quartier des spectacles",
-   "content_text": "Le mystère persiste sur la cause exacte, entre copropriétaires inquiets et promoteur qui cherche des réponses.",
-   "date_modified": "2026-09-05T05:54:00-04:00",
-   "tags": [
-    "Montréal",
-    "Montréal et sa région",
-    "Société et culture"
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Quartier_des_Spectacles_%40_Montreal_%2829773185893%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-coroner-recommande-un-meilleur-jumelage-des-patients-apre-d629cd.html",
-   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-coroner-recommande-un-meilleur-jumelage-des-patients-apre-d629cd.html",
-   "title": "Le coroner recommande un meilleur jumelage des patients après une agression mortelle en Beauce",
-   "content_text": "Le DPCP n'a pas établi de lien entre l'agression et le décès, l'assaillant étant mort depuis.",
-   "date_modified": "2026-09-05T05:54:00-04:00",
-   "tags": [
-    "Saint-Georges (Chaudière-Appalaches)",
-    "Québec et ses régions",
-    "Santé et services sociaux"
    ]
   }
  ]
