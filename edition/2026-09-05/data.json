@@ -1,10 +1,91 @@
 {
  "date": "2026-09-05",
  "volets": [
+  "elections",
   "report",
   "savoirs"
  ],
  "articles": [
+  {
+   "titre": "Dans Bellechasse, des villages à l'étroit lorgnent les terres agricoles avant le vote du 5 octobre",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Bellechasse (Chaudière-Appalaches)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1006712/bellechasse-villages-veulent-prendre-cle-champs",
+   "resume": "D'un village qui manque de terrain à un autre presque vide, la même circonscription cherche un compromis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T03:24-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006712/bellechasse-villages-veulent-prendre-cle-champs",
+     "auteur": "Sébastien Tanguay",
+     "date": "2026-09-05T03:25-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "dans-bellechasse-des-villages-a-l-etroit-lorgnent-les-terres-dd0864",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "dans-bellechasse-des-villages-a-l-etroit-lorgnent-les-terres-dd0864"
+  },
+  {
+   "titre": "Québec solidaire propose une taxe de 1 % à 2 % sur les grandes fortunes de plus de 25 millions",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Radio-Canada",
+   "url": "https://www.ledevoir.com/politique/quebec/1006799/taxer-riches-proposition-realiste-ou-demagogie-electorale",
+   "resume": "Ni les économistes ni l'entrepreneur visé ne savent vraiment comment on chiffrerait une telle fortune.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T03:24-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006799/taxer-riches-proposition-realiste-ou-demagogie-electorale",
+     "auteur": "Mathieu Carbasse et Alex Fontaine",
+     "date": "2026-09-05T03:25-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10753300/verif-realistes-5-milliards-$-qs-en-taxant-ultrariches",
+     "date": "2026-09-05T03:25-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "quebec-solidaire-propose-une-taxe-de-1-a-2-sur-les-grandes-f-6ef5ec",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "quebec-solidaire-propose-une-taxe-de-1-a-2-sur-les-grandes-f-6ef5ec"
+  },
+  {
+   "titre": "Une remontée fulgurante de la CAQ dans les sondages relance le débat sur l'influence des coups de sonde",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1006781/sondages-instantanes-ou-outils-influence",
+   "resume": "Un sondage peut-il, à lui seul, provoquer la remontée qu'il annonce ?",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T03:24-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006781/sondages-instantanes-ou-outils-influence",
+     "auteur": "Marco Bélair-Cirino",
+     "date": "2026-09-05T03:25-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-remontee-fulgurante-de-la-caq-dans-les-sondages-relance-a765d2",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "une-remontee-fulgurante-de-la-caq-dans-les-sondages-relance-a765d2"
+  },
   {
    "titre": "Un drone russe touche le quartier général du SBU en plein Kyiv",
    "cahier": "international",
@@ -199,7 +280,7 @@
    "territoire": "",
    "medias": "The Verge",
    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-   "resume": "Le fabricant Roland lance Melody Flip, un plugiciel pour stations de travail audionumériques qui génère mélodies, accords et rythmes à partir de courtes trames thématiques ou d'une chanson de référence, sans toutefois produire de chansons complètes avec voix comme le font ses concurrents.",
+   "resume": "Contrairement à ses rivaux, l'outil ne chante pas : il s'arrête à la mélodie et au rythme.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-04T15:54-04:00",
