@@ -3,6 +3,7 @@
  "volets": [
   "economie-opinions",
   "elections",
+  "hors-rss",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -682,6 +683,224 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "bernard-drainville-qualifie-d-inapproprie-un-juron-lance-a-d-ab8039"
+  },
+  {
+   "titre": "Québec solidaire promet un réseau de 400 CLSC pour désengorger l'accès aux soins de santé",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Saguenay–Lac-Saint-Jean",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280937/promesse-quebec-solidaire-sante-election-campagne",
+   "resume": "Ce que ça changerait pour qui erre aujourd'hui entre 811, GAP et cliniques privées.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T10:18-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280937/promesse-quebec-solidaire-sante-election-campagne",
+     "auteur": "Gabrielle Morissette",
+     "date": "2026-09-05T10:19-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/quebec-solidaire-va-refaire-des-clsc-la-porte-dentree-du-systeme-de-sante/",
+     "date": "2026-09-05T10:19-04:00"
+    }
+   ],
+   "permalien": "quebec-solidaire-promet-un-reseau-de-400-clsc-pour-desengorg-2194ff",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "quebec-solidaire-promet-un-reseau-de-400-clsc-pour-desengorg-2194ff"
+  },
+  {
+   "titre": "Ville-Marie célébrera des mariages dans son bureau Accès Montréal et autorise une tour de 18 étages",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Montréal (Ville-Marie)",
+   "medias": "Arrondissement de Ville-Marie",
+   "url": "https://montreal.ca/actualites/resume-du-conseil-darrondissement-de-ville-marie-du-1er-septembre-2026-119689",
+   "resume": "Deux décisions d'une même séance, dont l'une transformera un comptoir de permis en salle de noces.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T10:09-04:00",
+   "sources": [
+    {
+     "media": "Arrondissement de Ville-Marie",
+     "url": "https://montreal.ca/actualites/resume-du-conseil-darrondissement-de-ville-marie-du-1er-septembre-2026-119689",
+     "date": "2026-09-05T10:09-04:00"
+    }
+   ],
+   "permalien": "ville-marie-celebrera-des-mariages-dans-son-bureau-acces-mon-d14da4",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-05.json",
+   "_slug": "ville-marie-celebrera-des-mariages-dans-son-bureau-acces-mon-d14da4"
+  },
+  {
+   "titre": "Anjou plantera plus de 200 arbres de grand calibre d'ici la fin de septembre",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Montréal (Anjou)",
+   "medias": "Arrondissement d'Anjou",
+   "url": "https://montreal.ca/actualites/200-nouveaux-arbres-dans-nos-quartiers-119929",
+   "resume": "De l'ombre pour les chiens et un écran de verdure devant un boulevard passant.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T10:09-04:00",
+   "sources": [
+    {
+     "media": "Arrondissement d'Anjou",
+     "url": "https://montreal.ca/actualites/200-nouveaux-arbres-dans-nos-quartiers-119929",
+     "date": "2026-09-05T10:09-04:00"
+    }
+   ],
+   "permalien": "anjou-plantera-plus-de-200-arbres-de-grand-calibre-d-ici-la-a0a7a5",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-05.json",
+   "_slug": "anjou-plantera-plus-de-200-arbres-de-grand-calibre-d-ici-la-a0a7a5"
+  },
+  {
+   "titre": "Investissements amputés et transport scolaire en rodage à la rentrée du centre de services scolaire de la Beauce-Etchemin",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Beauce, Les Etchemins (Chaudière-Appalaches)",
+   "medias": "La Voix du Sud",
+   "url": "https://www.lavoixdusud.com/actualites/cssbe-plusieurs-nouveaux-visages-sur-le-conseil/",
+   "resume": "L'entretien des bâtiments paie la note, pendant que les demandes de transport s'accumulent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T10:09-04:00",
+   "sources": [
+    {
+     "media": "La Voix du Sud",
+     "url": "https://www.lavoixdusud.com/actualites/cssbe-plusieurs-nouveaux-visages-sur-le-conseil/",
+     "date": "2026-09-05T10:09-04:00",
+     "auteur": "Mathieu Fournier"
+    }
+   ],
+   "permalien": "investissements-amputes-et-transport-scolaire-en-rodage-a-la-dcf395",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-05.json",
+   "_slug": "investissements-amputes-et-transport-scolaire-en-rodage-a-la-dcf395"
+  },
+  {
+   "titre": "Le Cégep Beauce-Appalaches bat son record d'inscriptions avec 2 473 étudiants",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Saint-Georges, Sainte-Marie (Chaudière-Appalaches), Lac-Mégantic (Estrie)",
+   "medias": "Beauce Média",
+   "url": "https://www.beaucemedia.ca/actualites/nouveau-sommet-dinscriptions-au-cegep-beauce-appalaches/",
+   "resume": "La direction se réjouit du plein, tout en calculant déjà combien de temps ses locaux suffiront.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T10:09-04:00",
+   "sources": [
+    {
+     "media": "Beauce Média",
+     "url": "https://www.beaucemedia.ca/actualites/nouveau-sommet-dinscriptions-au-cegep-beauce-appalaches/",
+     "date": "2026-09-05T10:09-04:00",
+     "auteur": "Frédéric Desjardins"
+    }
+   ],
+   "permalien": "le-cegep-beauce-appalaches-bat-son-record-d-inscriptions-ave-090e83",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-05.json",
+   "_slug": "le-cegep-beauce-appalaches-bat-son-record-d-inscriptions-ave-090e83"
+  },
+  {
+   "titre": "Saint-Côme-Linière prévoit 200 nouveaux logements d'ici la fin de 2027",
+   "cahier": "quebec",
+   "rubrique": "habitation",
+   "territoire": "Saint-Côme-Linière (Beauce, Chaudière-Appalaches)",
+   "medias": "L'Éclaireur Progrès",
+   "url": "https://www.leclaireurprogres.ca/actualites/saint-come-liniere-se-developpe-a-vitesse-grand-v/",
+   "resume": "Un village privé de construction résidentielle pendant des années se met à bâtir, aréna et caserne compris.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T10:09-04:00",
+   "sources": [
+    {
+     "media": "L'Éclaireur Progrès",
+     "url": "https://www.leclaireurprogres.ca/actualites/saint-come-liniere-se-developpe-a-vitesse-grand-v/",
+     "date": "2026-09-05T10:09-04:00",
+     "auteur": "Mathieu Fournier"
+    }
+   ],
+   "permalien": "saint-come-liniere-prevoit-200-nouveaux-logements-d-ici-la-f-68b92b",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-05.json",
+   "_slug": "saint-come-liniere-prevoit-200-nouveaux-logements-d-ici-la-f-68b92b"
+  },
+  {
+   "titre": "Saint-Roch-Ouest louera huit heures d'inspecteur municipal par semaine à Saint-Roch-de-l'Achigan",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Saint-Roch-Ouest, Saint-Roch-de-l'Achigan (MRC de Montcalm)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/mrc-montcalm-un-partage-de-services-entre-les-deux-saint-roch/",
+   "resume": "Ce qui arrive à une municipalité de quelques centaines d'habitants quand son inspecteur s'en va.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T10:09-04:00",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/mrc-montcalm-un-partage-de-services-entre-les-deux-saint-roch/",
+     "date": "2026-09-05T10:09-04:00",
+     "auteur": "Alec Brideau"
+    }
+   ],
+   "permalien": "saint-roch-ouest-louera-huit-heures-d-inspecteur-municipal-p-de9d08",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-05.json",
+   "_slug": "saint-roch-ouest-louera-huit-heures-d-inspecteur-municipal-p-de9d08"
+  },
+  {
+   "titre": "Terrebonne inaugure deux parcs réaménagés, dont un parc canin né d'une proposition citoyenne",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Terrebonne (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/deux-parc-inaugures-a-terrebonne/",
+   "resume": "Ce que des résidents obtiennent quand la ville leur demande d'abord ce qu'ils veulent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T10:09-04:00",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/deux-parc-inaugures-a-terrebonne/",
+     "date": "2026-09-05T10:09-04:00",
+     "auteur": "Raphaël Isselet"
+    }
+   ],
+   "permalien": "terrebonne-inaugure-deux-parcs-reamenages-dont-un-parc-canin-150586",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-05.json",
+   "_slug": "terrebonne-inaugure-deux-parcs-reamenages-dont-un-parc-canin-150586"
+  },
+  {
+   "titre": "Saint-Joseph-de-Beauce aménage un parcours de disc golf dans ses sentiers de ski de fond",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Saint-Joseph-de-Beauce (Chaudière-Appalaches)",
+   "medias": "Beauce Média",
+   "url": "https://www.beaucemedia.ca/actualites/du-disc-golf-a-saint-joseph/",
+   "resume": "Des sentiers déserts l'été, l'idée d'un conseiller, et un sport qui ne coûte qu'un disque.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T10:09-04:00",
+   "sources": [
+    {
+     "media": "Beauce Média",
+     "url": "https://www.beaucemedia.ca/actualites/du-disc-golf-a-saint-joseph/",
+     "date": "2026-09-05T10:09-04:00"
+    }
+   ],
+   "permalien": "saint-joseph-de-beauce-amenage-un-parcours-de-disc-golf-dans-d5ba7f",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-05.json",
+   "_slug": "saint-joseph-de-beauce-amenage-un-parcours-de-disc-golf-dans-d5ba7f"
   },
   {
    "titre": "L'Ukraine affirme avoir détruit un lanceur de missiles russe Bastion en Crimée occupée",
