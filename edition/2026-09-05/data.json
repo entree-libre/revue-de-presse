@@ -1,7 +1,8 @@
 {
  "date": "2026-09-05",
  "volets": [
-  "report"
+  "report",
+  "savoirs"
  ],
  "articles": [
   {
@@ -221,13 +222,19 @@
    "cahier": "savoirs",
    "rubrique": "cinema",
    "territoire": "France",
-   "medias": "Le Journal de Montréal, Le Monde",
-   "url": "https://www.tvanouvelles.ca/2026/09/04/deces-du-realisateur-francais-tony-gatlif-a-77-ans",
-   "resume": "Tony Gatlif, qui a consacré une grande partie de son œuvre au peuple rom notamment dans Gadjo Dilo et Latcho Drom, s'est éteint mercredi en Provence à l'âge de 77 ans.",
+   "medias": "Le Monde, Le Journal de Montréal, Le Devoir, RFI, franceinfo, Libération",
+   "url": "https://www.lemonde.fr/disparitions/article/2026/09/04/tony-gatlif-cineaste-des-marges-et-heraut-de-la-musique-rom-est-mort_6765847_3382.html",
+   "resume": "Récompensé à Cannes pour son regard sur un peuple qu'il filmait depuis l'intérieur, pas de l'extérieur.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tony_Gatlif.jpg/1280px-Tony_Gatlif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "legende": "Tony Gatlif",
    "horodate": "2026-09-04T15:54-04:00",
    "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/disparitions/article/2026/09/04/tony-gatlif-cineaste-des-marges-et-heraut-de-la-musique-rom-est-mort_6765847_3382.html",
+     "date": "2026-09-04T13:30-04:00",
+     "auteur": "Thomas Sotinel"
+    },
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.tvanouvelles.ca/2026/09/04/deces-du-realisateur-francais-tony-gatlif-a-77-ans",
@@ -235,10 +242,27 @@
      "auteur": "Agence France-Presse"
     },
     {
-     "media": "Le Monde",
-     "url": "https://www.lemonde.fr/disparitions/article/2026/09/04/tony-gatlif-cineaste-des-marges-et-heraut-de-la-musique-rom-est-mort_6765847_3382.html",
-     "date": "2026-09-04T13:30-04:00",
-     "auteur": "Thomas Sotinel"
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/cinema/1006568/cineaste-francais-tony-gatlif-chantre-culture-gitane-est-mort",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/culture/20260904-d%C3%A9c%C3%A8s-du-cin%C3%A9aste-tony-gatlif-r%C3%A9alisateur-de-gadjo-dilo-%C3%A0-77-ans",
+     "auteur": "RFI avec AFP",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/cinema/l-uvre-de-tony-gatlif-mort-a-l-age-de-77-ans-survivra-dans-le-monde-entier-reagit-la-distributrice-de-ses-films_8176955.html",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/culture/cinema/mort-de-tony-gatlif-cineaste-de-la-fievre-gitane-20260904_557MB6KBXVCGPKL4K7UVYSLGQU/",
+     "auteur": "Léo Soesanto",
+     "date": "2026-09-05T03:01-04:00"
     }
    ],
    "photo_auteur": "Original uploader was Miyazma at tr.wikipedia",
@@ -396,18 +420,51 @@
    "cahier": "savoirs",
    "rubrique": "espace",
    "territoire": "États-Unis",
-   "medias": "Agence Science-Presse",
-   "url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/2026/09/01/telescope-spatial-ne-espionnage",
-   "resume": "Le télescope spatial Nancy Grace Roman, lancé cette semaine par la NASA pour étudier l'énergie noire, doit son origine à deux télescopes espions inutilisés que le renseignement américain a cédés à l'agence spatiale dans les années 1990, rapporte l'Agence Science-Presse.",
+   "medias": "Radio-Canada, NASA, Agence Science-Presse, Ciel et Espace, The Verge, Sciences et Avenir, franceinfo",
+   "url": "https://ici.radio-canada.ca/nouvelle/2278927/nasa-lancement-telescope-roman-espace",
+   "resume": "Il doit maintenant parcourir 1,5 million de kilomètres jusqu'au poste d'où il sondera l'énergie noire.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ROMANNewModelV8RomanStill00049.png/1280px-ROMANNewModelV8RomanStill00049.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "legende": "Nancy-Grace-Roman (télescope spatial)",
+   "legende": "Représentation du télescope spatial Nancy Grace Roman, lancé le 30 août 2026.",
    "horodate": "2026-09-04T15:54-04:00",
    "sources": [
     {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2278927/nasa-lancement-telescope-roman-espace",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+     "auteur": "Jennifer M. Dooren",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
      "media": "Agence Science-Presse",
      "url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/2026/09/01/telescope-spatial-ne-espionnage",
-     "date": "2026-09-04T14:14-04:00",
-     "auteur": "Pascal Lapointe"
+     "auteur": "Pascal Lapointe",
+     "date": "2026-09-04T14:14-04:00"
+    },
+    {
+     "media": "Ciel et Espace",
+     "url": "https://www.cieletespace.fr/article/nancy-grace-roman-trace-sa-route-dans-l-espace",
+     "date": "2026-09-03T02:34-04:00",
+     "auteur": "Guillaume Langin"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+     "auteur": "Terrence O'Brien",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/espace/exploration/telescope-roman-la-nasa-lance-son-nouvel-observatoire-pour-etudier-l-energie-noire-et-les-exoplanetes_194489?xtor=RSS-9",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sciences/espace/nous-sommes-peut-etre-le-jour-d-apres-einstein-le-telescope-spatial-nancy-grace-roman-va-tenter-de-percer-le-mystere-de-l-energie-sombre_8168552.html",
+     "date": "2026-09-05T03:01-04:00"
     }
    ],
    "photo_auteur": "NASA",
@@ -1565,6 +1622,1102 @@
    "_fichier": "revue-report-2026-09-05.json",
    "_volet": "report",
    "_slug": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5"
+  },
+  {
+   "titre": "La sonde BepiColombo se sépare en deux pour son approche finale de Mercure",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "resume": "Elle vient de larguer un module pour amorcer l'étape la plus risquée de toute la mission.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BepiColombo_hugs_Mercury_ESA24939504.png/1280px-BepiColombo_hugs_Mercury_ESA24939504.png",
+   "legende": "La sonde européano-japonaise BepiColombo à l'approche de Mercure.",
+   "photo_auteur": "ESA/BepiColombo/MTM",
+   "photo_licence": "CC BY-SA 3.0 IGO",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sciences/espace/apres-huit-ans-de-voyage-la-sonde-bepicolombo-va-se-separer-en-deux-pour-se-rapprocher-encore-de-mercure_8174984.html",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/sciences/espace/apres-10-milliards-de-kilometres-parcourus-la-mission-bepicolombo-amorce-une-arrivee-a-haut-risque-vers-mercure-20260903_SLBVDAAIXJCNNF6JZOLYUAZ2X4/",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280245/bepicolombo-mission-arrivee-mercure",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628069-bepicolombo-entre-dans-sa-phase-d-arrivee-vers-mercure-une-etape-decisive-pour-la-mission-esa-jaxa.html",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Mathilde Rochefort"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "franceinfo, Libération, Radio-Canada, Clubic",
+   "url": "https://www.franceinfo.fr/sciences/espace/apres-huit-ans-de-voyage-la-sonde-bepicolombo-va-se-separer-en-deux-pour-se-rapprocher-encore-de-mercure_8174984.html",
+   "permalien": "la-sonde-bepicolombo-se-separe-en-deux-pour-son-approche-fin-4d895f",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "la-sonde-bepicolombo-se-separe-en-deux-pour-son-approche-fin-4d895f"
+  },
+  {
+   "titre": "Des astronomes amateurs, dont un Français, ont repéré les premiers l'étrange décagone du pôle Sud de Saturne",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "resume": "La NASA en attribue pourtant la découverte à son propre télescope sur les réseaux sociaux.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Top_view_of_the_rings_of_Saturn_by_Cassini_-_October_10%2C_2013.jpg/1280px-Top_view_of_the_rings_of_Saturn_by_Cassini_-_October_10%2C_2013.jpg",
+   "legende": "Saturne et son système d'anneaux, photographiée par la sonde Cassini.",
+   "photo_auteur": "NASA/JPL-Caltech/SSI/Cornell",
+   "photo_licence": "Domaine public",
+   "sources": [
+    {
+     "media": "Ciel et Espace",
+     "url": "https://www.cieletespace.fr/article/le-decagone-de-saturne-confirme-grace-a-hubble",
+     "auteur": "Philippe Henarejos",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "NASA",
+     "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
+     "auteur": "NASA Hubble Mission Team",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Science Advances",
+     "url": "https://www.science.org/doi/10.1126/sciadv.aee4251",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Ciel et Espace, NASA, Science Advances",
+   "url": "https://www.cieletespace.fr/article/le-decagone-de-saturne-confirme-grace-a-hubble",
+   "permalien": "des-astronomes-amateurs-dont-un-francais-ont-repere-les-prem-0c7a91",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "des-astronomes-amateurs-dont-un-francais-ont-repere-les-prem-0c7a91"
+  },
+  {
+   "titre": "La NASA choisit Blue Origin pour bâtir son réseau de télécommunications martien",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "resume": "Le contrat, qui dépasse 700 millions de dollars, doit relier Mars à la Terre d'ici 2030.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Blue_Origin_New_Glenn_Rocket_Successful_Launch_%289387523%29.jpg/1280px-Blue_Origin_New_Glenn_Rocket_Successful_Launch_%289387523%29.jpg",
+   "legende": "Un lanceur New Glenn de Blue Origin, l'entreprise choisie par la NASA.",
+   "photo_auteur": "U.S. Space Force / Samuel Becker",
+   "photo_licence": "Domaine public",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+     "auteur": "Jessica Taveau",
+     "date": "2026-09-01T22:35-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627832-une-victoire-decisive-blue-origin-decroche-le-tres-convoite-contrat-pour-connecter-mars-a-la-terre.html",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Mathilde Rochefort"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "NASA, Clubic",
+   "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+   "permalien": "la-nasa-choisit-blue-origin-pour-batir-son-reseau-de-telecom-543167",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "la-nasa-choisit-blue-origin-pour-batir-son-reseau-de-telecom-543167"
+  },
+  {
+   "titre": "Le télescope Swift reprend ses observations tout en continuant de chuter vers la Terre",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "resume": "Lancé en 2004 pour traquer les sursauts gamma, l'engin vieillissant a reçu une rallonge de mission inhabituelle.",
+   "sources": [
+    {
+     "media": "techno-science.net",
+     "url": "https://www.techno-science.net/fr/actualites/swift-observations-chute-orbite-mission-29375",
+     "auteur": "Adrien",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "techno-science.net",
+   "url": "https://www.techno-science.net/fr/actualites/swift-observations-chute-orbite-mission-29375",
+   "permalien": "le-telescope-swift-reprend-ses-observations-tout-en-continua-adf096",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "le-telescope-swift-reprend-ses-observations-tout-en-continua-adf096"
+  },
+  {
+   "titre": "Une fuite sur la capsule qui doit relever Sophie Adenot menace de retarder son retour de l'ISS",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "France",
+   "resume": "L'astronaute française venait pourtant de réussir sa troisième sortie dans l'espace en une semaine.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_portrait_of_ESA_astronaut_Sophie_Adenot_wearing_a_spacesuit_%28jsc2025e073892_alt%29.jpg/1280px-Official_portrait_of_ESA_astronaut_Sophie_Adenot_wearing_a_spacesuit_%28jsc2025e073892_alt%29.jpg",
+   "legende": "L'astronaute de l'ESA Sophie Adenot en tenue de sortie extravéhiculaire.",
+   "photo_auteur": "NASA Johnson Space Center / Helen Arase Vargas",
+   "photo_licence": "Domaine public",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197798-ce-probleme-pourrait-prolonger-le-sejour-de-sophie-adenot-dans-l-iss",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Vincent Lautier"
+    },
+    {
+     "media": "ESA",
+     "url": "https://www.esa.int/Space_in_Member_States/France/Sophie_Adenot_a_effectue_sa_troisieme_sortie_extravehiculaire",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Mac4Ever, ESA",
+   "url": "https://www.mac4ever.com/divers/197798-ce-probleme-pourrait-prolonger-le-sejour-de-sophie-adenot-dans-l-iss",
+   "permalien": "une-fuite-sur-la-capsule-qui-doit-relever-sophie-adenot-mena-d4807d",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "une-fuite-sur-la-capsule-qui-doit-relever-sophie-adenot-mena-d4807d"
+  },
+  {
+   "titre": "Un impact colossal explique l'aspect poussiéreux de Deimos, la lune de Mars",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "Suisse",
+   "resume": "Des simulations menées à l'Université de Berne referment une énigme posée depuis la découverte de la lune.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/8/86/NASA-Deimos-MarsMoon-20090221.jpg",
+   "legende": "Deimos, la plus petite des deux lunes de Mars.",
+   "photo_auteur": "NASA/JPL/University of Arizona",
+   "photo_licence": "Domaine public",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sciences/actualites/mars-cette-lune-mars-cache-traces-impact-colossal-simulations-revelent-enfin-son-histoire-137401/",
+     "auteur": "Laurent Sacco",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Université de Berne",
+     "url": "https://mediarelations.unibe.ch/media_releases/2026/media_releases_2026/impact_deimos/index_eng.html",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Nature Astronomy",
+     "url": "https://www.nature.com/articles/s41550-026-02956-w",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Futura, Université de Berne, Nature Astronomy",
+   "url": "https://www.futura-sciences.com/sciences/actualites/mars-cette-lune-mars-cache-traces-impact-colossal-simulations-revelent-enfin-son-histoire-137401/",
+   "permalien": "un-impact-colossal-explique-l-aspect-poussiereux-de-deimos-l-8fb562",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "un-impact-colossal-explique-l-aspect-poussiereux-de-deimos-l-8fb562"
+  },
+  {
+   "titre": "Une galaxie sans la moindre étoile visible conforte le modèle standard de l'Univers",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "resume": "Sa matière ne serait faite que de gaz et de matière noire, un cas resté longtemps théorique.",
+   "sources": [
+    {
+     "media": "Ciel et Espace",
+     "url": "https://www.cieletespace.fr/article/cloud-9-la-galaxie-sans-etoile-qui-renforce-le-modele-standard-de-l-univers",
+     "auteur": "Brice Haziza",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "ESA",
+     "url": "https://www.esa.int/Science_Exploration/Space_Science/Cloud-9_a_new_celestial_object_found_by_Hubble",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Ciel et Espace, ESA",
+   "url": "https://www.cieletespace.fr/article/cloud-9-la-galaxie-sans-etoile-qui-renforce-le-modele-standard-de-l-univers",
+   "permalien": "une-galaxie-sans-la-moindre-etoile-visible-conforte-le-model-4b7b08",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "une-galaxie-sans-la-moindre-etoile-visible-conforte-le-model-4b7b08"
+  },
+  {
+   "titre": "Les prix Ig Nobel 2026 récompensent des sous-vêtements enterrés et un urinoir anti-éclaboussures",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Suisse",
+   "resume": "Marcher sur des serpents pour savoir quand ils mordent fait aussi partie des travaux honorés cette année.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/36th_Ig_Nobel_Prize_Ceremony_Zurich.jpg_05.jpg/1280px-36th_Ig_Nobel_Prize_Ceremony_Zurich.jpg_05.jpg",
+   "legende": "La 36e cérémonie des prix Ig Nobel, tenue à Zurich.",
+   "photo_auteur": "Albinfo",
+   "photo_licence": "CC BY 4.0",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280505/urinoirs-optimises-sous-vetements-enterres-anti-nobel-2026",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02650-x",
+     "auteur": "Chris Simms",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/sciences/urinoirs-optimises-et-slips-enterres-au-menu-des-anti-nobel-2026_194649",
+     "auteur": "Sciences et Avenir avec AFP",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/sciences/bols-de-bonbons-et-individualisme-des-riches-urinoirs-anti-eclaboussures-les-anti-nobel-decernent-leurs-prix-2026-20260904_NM7WMGDFHRE47ARCJCCU7UNR4I/",
+     "auteur": "Libération ., AFP .",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Radio-Canada, Nature, Sciences et Avenir, Libération",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280505/urinoirs-optimises-sous-vetements-enterres-anti-nobel-2026",
+   "permalien": "les-prix-ig-nobel-2026-recompensent-des-sous-vetements-enter-2e62d0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "les-prix-ig-nobel-2026-recompensent-des-sous-vetements-enter-2e62d0"
+  },
+  {
+   "titre": "Des chercheurs percent le secret du mouvement en deux temps de la dionée attrape-mouche",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "resume": "La plante commence par s'armer lentement avant un claquement final capturé grâce à des mesures en trois dimensions.",
+   "sources": [
+    {
+     "media": "Pour la Science",
+     "url": "https://www.pourlascience.fr/sd/biologie-vegetale/comment-le-piege-de-la-dionee-attrape-mouche-se-referme-en-moins-d-une-seconde-29467.php",
+     "auteur": "Isabelle Bellin",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Pour la Science",
+   "url": "https://www.pourlascience.fr/sd/biologie-vegetale/comment-le-piege-de-la-dionee-attrape-mouche-se-referme-en-moins-d-une-seconde-29467.php",
+   "permalien": "des-chercheurs-percent-le-secret-du-mouvement-en-deux-temps-23e351",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "des-chercheurs-percent-le-secret-du-mouvement-en-deux-temps-23e351"
+  },
+  {
+   "titre": "Une côte fossilisée du plus grand Tyrannosaure connu révèle des tissus mous intacts",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Canada",
+   "resume": "Scotty, retrouvé en Saskatchewan et long de treize mètres, livre un instantané figé au moment de sa mort.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tyrannosaurus_Rex_Skeleton_%289974258606%29.jpg/1280px-Tyrannosaurus_Rex_Skeleton_%289974258606%29.jpg",
+   "legende": "Squelette de Tyrannosaurus rex (illustration générique de l'espèce).",
+   "photo_auteur": "Gary Todd",
+   "photo_licence": "CC0",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/planete/actualites/t-rex-premiere-cette-echelle-cote-plus-grand-t-rex-connu-livre-secret-fige-moment-mort-137525/",
+     "auteur": "Morgane Gillard",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/planete/actualites/t-rex-premiere-cette-echelle-cote-plus-grand-t-rex-connu-livre-secret-fige-moment-mort-137525/",
+   "permalien": "une-cote-fossilisee-du-plus-grand-tyrannosaure-connu-revele-b1bee0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "une-cote-fossilisee-du-plus-grand-tyrannosaure-connu-revele-b1bee0"
+  },
+  {
+   "titre": "OpenAI classe son nouveau modèle Astra au plus haut niveau de risque en cybersécurité jamais attribué",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "resume": "Avant lui, un modèle expérimental avait exploité une faille pour s'introduire dans les systèmes de Hugging Face.",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-nouveau-gpt-6-atteint-niveau-surpuissant-meme-openai-qualifie-critique-137529/",
+     "auteur": "Sylvain Biget",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "OpenAI",
+     "url": "https://openai.com/index/path-to-astra/",
+     "auteur": "OpenAI",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Futura, OpenAI",
+   "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-nouveau-gpt-6-atteint-niveau-surpuissant-meme-openai-qualifie-critique-137529/",
+   "permalien": "openai-classe-son-nouveau-modele-astra-au-plus-haut-niveau-d-e06754",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "openai-classe-son-nouveau-modele-astra-au-plus-haut-niveau-d-e06754"
+  },
+  {
+   "titre": "Mort d'Ada Yonath, prix Nobel de chimie qui a percé la structure du ribosome",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Israël",
+   "resume": "Des années de moqueries n'ont pas empêché cette autodidacte de la cristallographie de prouver tout le monde tort.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Yonath_Weizmann_Institute_of_Science.jpg/1280px-Ada_Yonath_Weizmann_Institute_of_Science.jpg",
+   "legende": "La biologiste structurale israélienne Ada Yonath, à l'Institut Weizmann.",
+   "photo_auteur": "Miki Koren, Weizmann Institute of Science",
+   "photo_licence": "CC BY-SA 3.0",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02801-0",
+     "auteur": "Georgina Ferry",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-02801-0",
+   "permalien": "mort-d-ada-yonath-prix-nobel-de-chimie-qui-a-perce-la-struct-96bed4",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "mort-d-ada-yonath-prix-nobel-de-chimie-qui-a-perce-la-struct-96bed4"
+  },
+  {
+   "titre": "Un composé actif des champignons hallucinogènes atténue un effet secondaire redouté de la chimiothérapie",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "resume": "Chez la souris, la psilocybine agit sur les nerfs pour prévenir des douleurs qui durent parfois des années.",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02744-6",
+     "auteur": "Max Kozlov",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/sante/et-si-les-psychedeliques-nous-permettaient-de-lutter-contre-les-effets-deleteres-de-la-chimio_194652",
+     "auteur": "Sciences et Avenir avec AFP",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Nature, Sciences et Avenir",
+   "url": "https://www.nature.com/articles/d41586-026-02744-6",
+   "permalien": "un-compose-actif-des-champignons-hallucinogenes-attenue-un-e-2a282b",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "un-compose-actif-des-champignons-hallucinogenes-attenue-un-e-2a282b"
+  },
+  {
+   "titre": "Une étude chez la souris éclaire pourquoi l'arrêt de l'alcool peut favoriser la rechute",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "États-Unis",
+   "resume": "L'équipe de recherche a localisé la zone du cerveau qui s'active juste avant l'envie irrépressible de boire.",
+   "sources": [
+    {
+     "media": "The Conversation",
+     "url": "https://theconversation.com/une-etude-chez-la-souris-eclaire-les-changements-cerebraux-qui-pourraient-favoriser-la-rechute-apres-larret-de-lalcool-291181",
+     "auteur": "Danny G. Winder",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "The Conversation",
+   "url": "https://theconversation.com/une-etude-chez-la-souris-eclaire-les-changements-cerebraux-qui-pourraient-favoriser-la-rechute-apres-larret-de-lalcool-291181",
+   "permalien": "une-etude-chez-la-souris-eclaire-pourquoi-l-arret-de-l-alcoo-4b6708",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "une-etude-chez-la-souris-eclaire-pourquoi-l-arret-de-l-alcoo-4b6708"
+  },
+  {
+   "titre": "Le directeur par intérim des CDC, Jay Bhattacharya, bloque la publication d'une étude sur un vaccin",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "États-Unis",
+   "resume": "Le geste relance un débat plus large sur qui a le pouvoir de juger la valeur d'une recherche.",
+   "sources": [
+    {
+     "media": "Pour la Science",
+     "url": "https://www.pourlascience.fr/sr/les-sciences-a-la-loupe/evaluation-par-les-pairs-le-choix-des-experts-peut-il-biaiser-la-validation-des-resultats-scientifiques-29505.php",
+     "auteur": "Yves Gingras",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Pour la Science",
+   "url": "https://www.pourlascience.fr/sr/les-sciences-a-la-loupe/evaluation-par-les-pairs-le-choix-des-experts-peut-il-biaiser-la-validation-des-resultats-scientifiques-29505.php",
+   "permalien": "le-directeur-par-interim-des-cdc-jay-bhattacharya-bloque-la-eafa42",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "le-directeur-par-interim-des-cdc-jay-bhattacharya-bloque-la-eafa42"
+  },
+  {
+   "titre": "Une géomorphologue française décortique le glissement de terrain qui a frappé le Népal",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Népal",
+   "resume": "Au moins cent millions de mètres cubes de roches ont entraîné tout un glacier dans leur chute.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Machermo%2C_Kyajo_Ri%2C_Nepal.jpg/1280px-Machermo%2C_Kyajo_Ri%2C_Nepal.jpg",
+   "legende": "Le relief himalayen du Népal, où s'est produit le glissement de terrain étudié.",
+   "photo_auteur": "Vyacheslav Argenberg",
+   "photo_licence": "CC BY 4.0",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/planete/actualites/crues-nepal-moins-100-millions-metres-cubes-chercheuse-revele-scenario-catastrophe-nepal-137493/",
+     "auteur": "Morgane Gillard",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/planete/actualites/crues-nepal-moins-100-millions-metres-cubes-chercheuse-revele-scenario-catastrophe-nepal-137493/",
+   "permalien": "une-geomorphologue-francaise-decortique-le-glissement-de-ter-c3bce9",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "une-geomorphologue-francaise-decortique-le-glissement-de-ter-c3bce9"
+  },
+  {
+   "titre": "Anthropic lance Claude Fable 5.1 et Claude Mythos 5.1, moins chers sur les tâches longues",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "resume": "L'entreprise dit avoir réduit la facture des agents qui relisent sans cesse le même contexte.",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+     "auteur": "Stevie Bonifield",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/intelligence-artificielle/2026/09/anthropic-annonce-mythos-51-et-claude-fable-51-310789",
+     "auteur": "Greg Onizuka",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/ia/197811-claude-fable-5-1-moins-cher-sur-le-papier-plus-cher-quand-il-reflechit-vraiment",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Vincent Lautier"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627820-anthropic-devoile-claude-fable-5-1-et-claude-mythos-5-1-peut-etre-ses-ia-les-plus-abouties.html",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Alexandre Boero"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "The Verge, MacGeneration, Mac4Ever, Clubic",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+   "permalien": "anthropic-lance-claude-fable-5-1-et-claude-mythos-5-1-moins-e05e11",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "anthropic-lance-claude-fable-5-1-et-claude-mythos-5-1-moins-e05e11"
+  },
+  {
+   "titre": "John Ternus devient le nouveau PDG d'Apple, en succession de Tim Cook",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "resume": "Il met fin à un règne de quinze ans à la tête de la plus tentaculaire des entreprises.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1280px-Aerial_view_of_Apple_Park_dllu.jpg",
+   "legende": "Le siège social d'Apple, à Cupertino.",
+   "photo_auteur": "Daniel L. Lu (dllu)",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/economie-numerique/nouvelle-ere-chez-apple-avec-lintronisation-de-son-nouveau-boss-john-ternus-apres-quinze-ans-de-regne-de-tim-cook-20260831_CB7MIOLCVZEZJHXEGCWQZ725DY/",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/aapl/2026/09/john-ternus-est-le-nouveau-ceo-dapple-310771",
+     "auteur": "Stéphane Moussie",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/987150/apple-ceo-john-ternus",
+     "auteur": "Richard Lawler",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279586/apple-john-ternus-nouveau-chef-direction-successeur-tim-cook",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197810-john-ternus-tim-cook-combien-apple-va-les-payer",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Libération, MacGeneration, The Verge, Radio-Canada, Mac4Ever",
+   "url": "https://www.liberation.fr/economie/economie-numerique/nouvelle-ere-chez-apple-avec-lintronisation-de-son-nouveau-boss-john-ternus-apres-quinze-ans-de-regne-de-tim-cook-20260831_CB7MIOLCVZEZJHXEGCWQZ725DY/",
+   "permalien": "john-ternus-devient-le-nouveau-pdg-d-apple-en-succession-de-f3917d",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "john-ternus-devient-le-nouveau-pdg-d-apple-en-succession-de-f3917d"
+  },
+  {
+   "titre": "NVIDIA rachète Hugging Face pour environ 13 milliards de dollars",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "resume": "La plateforme de partage de modèles d'intelligence artificielle passe ainsi sous le contrôle du géant des puces graphiques.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg",
+   "legende": "Le siège social de NVIDIA, en Californie.",
+   "photo_auteur": "Coolcaesar",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628171-enorme-coup-de-nvidia-qui-rachete-hugging-face-pour-12-93-milliards-de-dollars-jensen-huang-s-explique.html",
+     "date": "2026-09-03T16:01-04:00",
+     "auteur": "Alexandre Boero"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-628171-enorme-coup-de-nvidia-qui-rachete-hugging-face-pour-12-93-milliards-de-dollars-jensen-huang-s-explique.html",
+   "permalien": "nvidia-rachete-hugging-face-pour-environ-13-milliards-de-dol-f67a51",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "nvidia-rachete-hugging-face-pour-environ-13-milliards-de-dol-f67a51"
+  },
+  {
+   "titre": "GoPro accepte d'être racheté pour 285 millions de dollars par un fabricant de composants",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "resume": "Le pionnier de la caméra d'action, en difficulté depuis des années, garderait son nom et ses produits actuels.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/GoPro_Hero_9_Black_-_Front_2.jpg/1280px-GoPro_Hero_9_Black_-_Front_2.jpg",
+   "legende": "Une caméra GoPro Hero.",
+   "photo_auteur": "Greyfiveys",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197818-gopro-rachete-pour-285-millions-de-dollars-apres-des-annees-de-difficultes",
+     "date": "2026-09-02T14:24-04:00"
+    },
+    {
+     "media": "iGeneration",
+     "url": "https://www.igen.fr/accessoires/2026/09/les-cameras-gopro-rachetees-par-un-fabricant-de-composants-pour-centres-de-donnees-lies-des-accessoiristes-bien-connus-157773",
+     "auteur": "Pierre Dandumont",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Mac4Ever, iGeneration",
+   "url": "https://www.mac4ever.com/divers/197818-gopro-rachete-pour-285-millions-de-dollars-apres-des-annees-de-difficultes",
+   "permalien": "gopro-accepte-d-etre-rachete-pour-285-millions-de-dollars-pa-4bf6fa",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "gopro-accepte-d-etre-rachete-pour-285-millions-de-dollars-pa-4bf6fa"
+  },
+  {
+   "titre": "Une juge fédérale refuse d'imposer à Google la vente forcée de sa régie publicitaire",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "resume": "Un an plus tôt pourtant, la même cour avait jugé que l'entreprise abusait bel et bien d'un monopole.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628006-google-echappe-au-demantelement-de-sa-tres-lucrative-activite-pub-malgre-sa-condamnation-pour-monopole.html",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Mathilde Rochefort"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-628006-google-echappe-au-demantelement-de-sa-tres-lucrative-activite-pub-malgre-sa-condamnation-pour-monopole.html",
+   "permalien": "une-juge-federale-refuse-d-imposer-a-google-la-vente-forcee-82cc26",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "une-juge-federale-refuse-d-imposer-a-google-la-vente-forcee-82cc26"
+  },
+  {
+   "titre": "Uber met en service ses premiers robotaxis à Londres, avec chauffeur de sécurité à bord",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Royaume-Uni",
+   "resume": "Un conducteur licencié reste prêt à reprendre le volant si le système de conduite autonome se retrouve dépassé.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Uber_autonomous_vehicle_prototype_testing_in_San_Francisco.jpg/1280px-Uber_autonomous_vehicle_prototype_testing_in_San_Francisco.jpg",
+   "legende": "Un véhicule autonome de test exploité par Uber (illustration).",
+   "photo_auteur": "Dllu",
+   "photo_licence": "CC BY-SA 4.0",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/a-londres-uber-inaugure-ses-robotaxis-avec-chauffeur-de-securite-a-bord-501097.htm",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/a-londres-uber-inaugure-ses-robotaxis-avec-chauffeur-de-securite-a-bord-501097.htm",
+   "permalien": "uber-met-en-service-ses-premiers-robotaxis-a-londres-avec-ch-867fe0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "uber-met-en-service-ses-premiers-robotaxis-a-londres-avec-ch-867fe0"
+  },
+  {
+   "titre": "SpaceX rachète l'éditeur de l'outil de programmation Cursor, très employé par les développeurs",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "resume": "OpenAI a aussitôt annoncé qu'elle cesserait d'alimenter l'outil en intelligence artificielle, invoquant un manque de confiance.",
+   "sources": [
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/logiciels/2026/08/openai-veut-retirer-ses-modeles-de-cursor-apres-son-rachat-par-spacex-310739",
+     "auteur": "Félix Cattafesta",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/openai-rompt-avec-cursor-apres-son-rachat-par-spacex-quelles-consequences-pour-votre-generation-de-code-501107.htm",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Korben",
+     "url": "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk.html",
+     "auteur": "Vincent Lautier",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627358-la-guerre-entre-openai-et-spacex-s-intensifie-et-c-est-cursor-qui-en-paie-le-prix.html",
+     "date": "2026-09-03T02:34-04:00",
+     "auteur": "Samir Rahmoune"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "MacGeneration, ZDNet, Korben, Clubic",
+   "url": "https://www.macg.co/logiciels/2026/08/openai-veut-retirer-ses-modeles-de-cursor-apres-son-rachat-par-spacex-310739",
+   "permalien": "spacex-rachete-l-editeur-de-l-outil-de-programmation-cursor-6b3a71",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "spacex-rachete-l-editeur-de-l-outil-de-programmation-cursor-6b3a71"
+  },
+  {
+   "titre": "Le lecteur multimédia français VLC franchit les sept milliards de téléchargements",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "resume": "Le projet est né d'étudiants qui voulaient surtout un réseau assez puissant pour jouer à Doom entre eux.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/VLC_media_player_3.0.12_%28released_in_2021-01%29.png/1280px-VLC_media_player_3.0.12_%28released_in_2021-01%29.png",
+   "legende": "L'interface du lecteur VLC.",
+   "photo_auteur": "VideoLAN and Blender Foundation",
+   "photo_licence": "CC BY 4.0",
+   "sources": [
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/logiciels/2026/09/vlc-un-logiciel-francais-passe-les-7-milliards-de-telechargements-310837",
+     "auteur": "Pierre Dandumont",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "MacGeneration",
+   "url": "https://www.macg.co/logiciels/2026/09/vlc-un-logiciel-francais-passe-les-7-milliards-de-telechargements-310837",
+   "permalien": "le-lecteur-multimedia-francais-vlc-franchit-les-sept-milliar-06d667",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "le-lecteur-multimedia-francais-vlc-franchit-les-sept-milliar-06d667"
+  },
+  {
+   "titre": "Jean-François Leroy, qui dirigeait depuis 1989 le festival Visa pour l'image, meurt à 69 ans",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "resume": "Avant de mourir, il a laissé aux jeunes reporters une leçon : se demander pourquoi avant de photographier.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/culture/article/2026/09/01/au-festival-visa-pour-l-image-tristesse-et-inquietude-apres-la-mort-du-fondateur-jean-francois-leroy_6763495_3246.html",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Claire Guillot"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/culture/20260831-visa-pour-l-image-mort-de-jean-fran%C3%A7ois-leroy-fondateur-du-festival-de-photojournalisme",
+     "auteur": "Siegfried Forster",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Geo",
+     "url": "https://www.geo.fr/geopolitique/mort-de-jean-francois-leroy-figure-du-photojournalisme-et-fondateur-de-visa-pour-limage-233431",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/culture/photographie/mort-de-jean-francois-leroy-fondateur-du-festival-de-photojournalisme-visa-pour-limage-20260831_XT73CLDMPNBZFEXE5332O5DGZQ/",
+     "auteur": "Gilles Renault",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Le Monde, RFI, Geo, Libération",
+   "url": "https://www.lemonde.fr/culture/article/2026/09/01/au-festival-visa-pour-l-image-tristesse-et-inquietude-apres-la-mort-du-fondateur-jean-francois-leroy_6763495_3246.html",
+   "permalien": "jean-francois-leroy-qui-dirigeait-depuis-1989-le-festival-vi-2b3fd7",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "jean-francois-leroy-qui-dirigeait-depuis-1989-le-festival-vi-2b3fd7"
+  },
+  {
+   "titre": "Mort de Gloria Steinem, une des figures fondatrices du féminisme américain, à 92 ans",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "États-Unis",
+   "resume": "Elle a d'abord été journaliste, avant qu'un reportage sur l'avortement ne fasse d'elle une militante malgré elle.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gloria_Steinem_%2829126367513%29_%28cropped%29.jpg/1280px-Gloria_Steinem_%2829126367513%29_%28cropped%29.jpg",
+   "legende": "Gloria Steinem, journaliste et figure du mouvement féministe américain.",
+   "photo_auteur": "Gage Skidmore",
+   "photo_licence": "CC BY-SA 2.0",
+   "sources": [
+    {
+     "media": "Geo",
+     "url": "https://www.geo.fr/histoire/qui-etait-gloria-steinem-figure-majeure-du-feminisme-americain-morte-a-92-ans-233499",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/usa/la-journaliste-americaine-gloria-steinem-figure-majeure-du-feminisme-est-morte-a-l-age-de-92-ans_8175320.html",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/mort-de-gloria-steinem-infatigable-feministe-et-journaliste-americaine-20260903_NNWXEK4NQJAW7DVDQTIRP2R7CE/",
+     "auteur": "Isabelle Hanne",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/culture/20260903-journaliste-am%C3%A9ricaine-gloria-steinem-icone-f%C3%A9minisme-morte-92-ans",
+     "auteur": "FRANCE 24",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Geo, franceinfo, Libération, France 24",
+   "url": "https://www.geo.fr/histoire/qui-etait-gloria-steinem-figure-majeure-du-feminisme-americain-morte-a-92-ans-233499",
+   "permalien": "mort-de-gloria-steinem-une-des-figures-fondatrices-du-femini-7dd792",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "mort-de-gloria-steinem-une-des-figures-fondatrices-du-femini-7dd792"
+  },
+  {
+   "titre": "Le cahier de notes d'un lycéen fait redécouvrir les cours de philosophie de Jean-Paul Sartre",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "resume": "Sartre enseignait à Condorcet en pleine Occupation, la même année où il achevait d'écrire L'Être et le Néant.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jean_Paul_Sartre_1965.jpg/1280px-Jean_Paul_Sartre_1965.jpg",
+   "legende": "Le philosophe Jean-Paul Sartre.",
+   "photo_auteur": "Inconnu",
+   "photo_licence": "CC BY-SA 3.0 NL",
+   "sources": [
+    {
+     "media": "Les Livres de Philosophie",
+     "url": "http://les-livres-de-philosophie.blogspot.com/2026/08/jean-paul-sartre-cours-de-philosophie.html",
+     "auteur": "dm",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Philosophie magazine",
+     "url": "https://www.philomag.com/articles/quel-prof-de-philo-ete-jean-paul-sartre-lun-de-ses-anciens-eleves-temoigne",
+     "auteur": "nfoiry",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Les Livres de Philosophie, Philosophie magazine",
+   "url": "http://les-livres-de-philosophie.blogspot.com/2026/08/jean-paul-sartre-cours-de-philosophie.html",
+   "permalien": "le-cahier-de-notes-d-un-lyceen-fait-redecouvrir-les-cours-de-c1000a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "le-cahier-de-notes-d-un-lyceen-fait-redecouvrir-les-cours-de-c1000a"
+  },
+  {
+   "titre": "Le philosophe Frédéric Gros publie un essai qui propose de repenser la propriété",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "resume": "Habiter, apprendre et accueillir sans tout accaparer : trois façons de renouer avec un sens perdu du mot.",
+   "sources": [
+    {
+     "media": "Les Livres de Philosophie",
+     "url": "http://les-livres-de-philosophie.blogspot.com/2026/09/frederic-gros-violence-de-la-propriete.html",
+     "auteur": "dm",
+     "date": "2026-09-03T02:34-04:00"
+    },
+    {
+     "media": "Philosophie magazine",
+     "url": "https://www.philomag.com/articles/violence-de-la-propriete-de-frederic-gros-de-la-predation-la-relation",
+     "auteur": "nfoiry",
+     "date": "2026-09-01T22:36-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Les Livres de Philosophie, Philosophie magazine",
+   "url": "http://les-livres-de-philosophie.blogspot.com/2026/09/frederic-gros-violence-de-la-propriete.html",
+   "permalien": "le-philosophe-frederic-gros-publie-un-essai-qui-propose-de-r-fd2662",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "le-philosophe-frederic-gros-publie-un-essai-qui-propose-de-r-fd2662"
+  },
+  {
+   "titre": "Une résolution votée à l'ONU rapproche les cartes du monde de la taille réelle des continents",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "",
+   "resume": "Le vote, quasi unanime, entérine une projection où l'Afrique retrouve enfin une taille conforme à la réalité.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mercator-projection.jpg/1280px-Mercator-projection.jpg",
+   "legende": "La projection de Mercator, qui agrandit les régions situées aux hautes latitudes.",
+   "photo_auteur": "Mdf",
+   "photo_licence": "Domaine public",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/onu/l-onu-adopte-une-reforme-de-la-cartographie-mondiale-plus-proche-de-la-realite_8177771.html",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/monde/20260905-l-onu-adopte-une-r%C3%A9forme-de-la-cartographie-mondiale-plus-proche-de-la-r%C3%A9alit%C3%A9",
+     "auteur": "RFI",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/2026-09-04/plus-proche-de-la-realite/l-onu-adopte-une-reforme-d-ampleur-de-la-cartographie-mondiale.php",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/lafrique-est-en-realite-environ-quatorze-fois-plus-grande-que-le-groenland-paris-soutient-une-reforme-de-la-cartographie-mondiale-20260904_F642SQ7AARC2HEK4WWVNSVKI5M/",
+     "auteur": "Libération ., AFP .",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "franceinfo, RFI, La Presse, Libération",
+   "url": "https://www.franceinfo.fr/monde/onu/l-onu-adopte-une-reforme-de-la-cartographie-mondiale-plus-proche-de-la-realite_8177771.html",
+   "permalien": "une-resolution-votee-a-l-onu-rapproche-les-cartes-du-monde-d-9fa4eb",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "une-resolution-votee-a-l-onu-rapproche-les-cartes-du-monde-d-9fa4eb"
+  },
+  {
+   "titre": "Xavier Niel rachète le magazine de défense des consommateurs 60 Millions de Consommateurs",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "resume": "Un symbole s'ajoute ainsi au vaste empire médiatique déjà bâti par le fondateur de Free.",
+   "sources": [
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/rachat-o-combien-symbolique-xavier-niel-serait-en-passe-absorber-60-millions-de-consommateurs/",
+     "auteur": "Mathilde Rochefort",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627898-xavier-niel-s-offre-le-magazine-60-millions-de-consommateurs.html",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Samir Rahmoune"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "Presse-citron, Clubic",
+   "url": "https://www.presse-citron.net/rachat-o-combien-symbolique-xavier-niel-serait-en-passe-absorber-60-millions-de-consommateurs/",
+   "permalien": "xavier-niel-rachete-le-magazine-de-defense-des-consommateurs-8ab18e",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "xavier-niel-rachete-le-magazine-de-defense-des-consommateurs-8ab18e"
+  },
+  {
+   "titre": "Le prix Première Plume distingue un roman migratoire de l'auteur québécois Thélyson Orélien",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Québec",
+   "resume": "Son récit, inspiré de son propre parcours migratoire, retient déjà l'attention pour le prix Goncourt.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/litterature/2026-09-03/c-etait-ca-ou-mourir/thelyson-orelien-remporte-le-prix-premiere-plume-en-france.php",
+     "auteur": "Laila Maalouf",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/arts/litterature/2026-09-03/c-etait-ca-ou-mourir/thelyson-orelien-remporte-le-prix-premiere-plume-en-france.php",
+   "permalien": "le-prix-premiere-plume-distingue-un-roman-migratoire-de-l-au-59ea99",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "le-prix-premiere-plume-distingue-un-roman-migratoire-de-l-au-59ea99"
+  },
+  {
+   "titre": "Des bijoux longtemps cachés de la famille impériale des Habsbourg s'exposent au Musée de Québec",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Québec (Capitale-Nationale)",
+   "resume": "Restés dissimulés dans une mallette pendant près d'un siècle, les héritiers en ignoraient même l'existence.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Musee_national_des_beaux-arts_du_Quebec_building.jpg/1280px-Musee_national_des_beaux-arts_du_Quebec_building.jpg",
+   "legende": "Le Musée national des beaux-arts du Québec, où l'exposition est présentée.",
+   "photo_auteur": "Wilfredor",
+   "photo_licence": "CC0",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/arts-visuels/2026-09-04/un-tresor-retrouve-un-siecle-de-mystere/les-celebres-bijoux-de-la-famille-habsbourg-exposes-a-quebec.php",
+     "auteur": "Jean-Christophe Laurence",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/arts/arts-visuels/2026-09-04/un-tresor-retrouve-un-siecle-de-mystere/les-celebres-bijoux-de-la-famille-habsbourg-exposes-a-quebec.php",
+   "permalien": "des-bijoux-longtemps-caches-de-la-famille-imperiale-des-habs-867898",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "des-bijoux-longtemps-caches-de-la-famille-imperiale-des-habs-867898"
+  },
+  {
+   "titre": "Maggie Gyllenhaal critique la faible place des cinéastes femmes dans la sélection de la Mostra",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Italie",
+   "resume": "Sur vingt-et-un films en lice cette année, deux seulement portent la signature d'une femme, dont un coréalisé.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Maggie_Gyllenhaal_%2851628461772%29.jpg/1280px-Maggie_Gyllenhaal_%2851628461772%29.jpg",
+   "legende": "L'actrice et réalisatrice Maggie Gyllenhaal, présidente du jury de la 83e Mostra de Venise.",
+   "photo_auteur": "Montclair Film",
+   "photo_licence": "CC BY 2.0",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/cinema/mostra-de-venise-la-presidente-du-jury-maggie-gyllenhaal-tacle-la-faible-presence-de-realisatrices-en-competition_8175110.html",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/culture/cinema/qui-decide-de-ce-qui-a-de-la-valeur-presidente-du-jury-de-la-mostra-de-venise-maggie-gyllenhaal-questionne-la-rarete-des-realisatrices-20260902_WMQVJSYPIBG5RFFNVSMNIKXHCU/",
+     "auteur": "Libération ., AFP .",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-09-02/la-presse-a-la-83e-mostra-de-venise/george-clooney-livre-ses-etats-d-ame.php",
+     "auteur": "Manon Dumais",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T02:31-04:00",
+   "medias": "franceinfo, Libération, La Presse",
+   "url": "https://www.franceinfo.fr/culture/cinema/mostra-de-venise-la-presidente-du-jury-maggie-gyllenhaal-tacle-la-faible-presence-de-realisatrices-en-competition_8175110.html",
+   "permalien": "maggie-gyllenhaal-critique-la-faible-place-des-cineastes-fem-a2257a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-05.json",
+   "_slug": "maggie-gyllenhaal-critique-la-faible-place-des-cineastes-fem-a2257a"
   }
  ]
 }
