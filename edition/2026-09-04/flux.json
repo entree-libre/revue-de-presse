@@ -6,6 +6,104 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/l-onu-adopte-une-nouvelle-carte-du-monde-plus-fidele-a-la-ta-9d30b4.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/l-onu-adopte-une-nouvelle-carte-du-monde-plus-fidele-a-la-ta-9d30b4.html",
+   "title": "L'ONU adopte une nouvelle carte du monde, plus fidèle à la taille réelle des continents",
+   "content_text": "Le Canada y paraît enfin aussi petit qu'il l'est vraiment, à côté d'une Afrique bien plus grande.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "International",
+    "International",
+    "Société et culture"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Equal-Earth-Map-0.jpg/1280px-Equal-Earth-Map-0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/un-rapport-federal-juge-les-impacts-climatiques-deja-irrever-d4159f.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/un-rapport-federal-juge-les-impacts-climatiques-deja-irrever-d4159f.html",
+   "title": "Un rapport fédéral juge les impacts climatiques déjà irréversibles au Canada",
+   "content_text": "Le constat est accablant, alors même qu'Ottawa recule sur plusieurs engagements climatiques pris il y a deux ans.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "Canada",
+    "Canada",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/la-juge-en-chef-de-l-alberta-ritu-khullar-meurt-a-la-suite-d-3052e4.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/la-juge-en-chef-de-l-alberta-ritu-khullar-meurt-a-la-suite-d-3052e4.html",
+   "title": "La juge en chef de l'Alberta, Ritu Khullar, meurt à la suite d'une maladie",
+   "content_text": "Elle présidait à elle seule trois cours d'appel, de l'Arctique aux Rocheuses.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "Alberta",
+    "Canada",
+    "Justice et sécurité publique"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ritu_Khullar_in_2018.jpg/1280px-Ritu_Khullar_in_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/les-paramedics-maintiennent-leurs-moyens-de-pression-la-nego-6a726b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/les-paramedics-maintiennent-leurs-moyens-de-pression-la-nego-6a726b.html",
+   "title": "Les paramédics maintiennent leurs moyens de pression, la négociation doit reprendre sous peu",
+   "content_text": "Trois fédérations différentes négocient séparément, mais toutes butent sur la même question salariale.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/quebec-s-entend-en-principe-avec-les-sages-femmes-de-la-prov-7f8855.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/quebec-s-entend-en-principe-avec-les-sages-femmes-de-la-prov-7f8855.html",
+   "title": "Québec s'entend en principe avec les sages-femmes de la province",
+   "content_text": "Une entente de quatre ans touche plus de 300 sages-femmes et pourrait faciliter l'accès aux suivis de grossesse.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/la-maison-blanche-s-inspire-de-tetris-pour-un-jeu-video-sur-c83736.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/la-maison-blanche-s-inspire-de-tetris-pour-un-jeu-video-sur-c83736.html",
+   "title": "La Maison-Blanche s'inspire de Tetris pour un jeu vidéo sur l'immigration, au grand dam de l'éditeur",
+   "content_text": "L'éditeur affirme n'avoir rien autorisé, alors que la Maison-Blanche reste silencieuse sur l'origine du jeu.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "États-Unis",
+    "International",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/un-collectif-de-vingt-organismes-presse-quebec-d-agir-sur-le-868680.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/un-collectif-de-vingt-organismes-presse-quebec-d-agir-sur-le-868680.html",
+   "title": "Un collectif de vingt organismes presse Québec d'agir sur le soutien à domicile des aînés",
+   "content_text": "Un sondage Léger confirme que la majorité préférerait vieillir chez soi, reste à savoir si Québec suivra.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-04/a/a-deux-mois-des-elections-de-mi-mandat-l-administration-trum-f6544b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-04/a/a-deux-mois-des-elections-de-mi-mandat-l-administration-trum-f6544b.html",
+   "title": "Vote par correspondance : l'administration Trump retourne devant la Cour suprême à deux mois des législatives de mi-mandat",
+   "content_text": "Mise à jour, 22 h 03 — Une juge prolonge le blocage jusqu'au scrutin, sans garantie que les bulletins arrivent à temps.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "États-Unis",
+    "International",
+    "Politique et vie municipale"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-04/a/le-parti-quebecois-lance-sa-campagne-devant-plus-de-2000-mil-6598ae.html",
    "url": "https://entreelibre.ca/edition/2026-09-04/a/le-parti-quebecois-lance-sa-campagne-devant-plus-de-2000-mil-6598ae.html",
    "title": "Le Parti québécois lance sa campagne devant plus de 2000 militants à Québec",
@@ -876,101 +974,6 @@
     "Québec",
     "Québec et ses régions",
     "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/guerre-commerciale-un-fellow-du-cirano-plaide-pour-la-solida-2c3de3.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/guerre-commerciale-un-fellow-du-cirano-plaide-pour-la-solida-2c3de3.html",
-   "title": "Guerre commerciale : un fellow du CIRANO plaide pour la solidarité et une sortie à long terme",
-   "content_text": "Dans La Presse, Miville Tremblay, fellow invité au CIRANO, appelle le Canada à tenir bon face aux exigences américaines — accès exclusif aux minéraux critiques, droit de regard sur les futures ententes commerciales, abandon d'obligations sur le français — que Mark Carney a rejetées malgré le risque d'escalade. Il cite l'économiste Trevor Tombe, de l'Université de Calgary, selon qui l'Alberta pourrait à elle seule perdre 9000 emplois si les tarifs américains restent en vigueur, et souligne le plan fédéral de 7,5 milliards $, financé par les recettes tarifaires, pour soutenir les secteurs touchés.",
-   "date_modified": "2026-09-04T10:15:00-04:00",
-   "tags": [
-    "Canada",
-    "Canada",
-    "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/la-mort-d-une-adolescente-dans-un-silo-de-shawinigan-vaut-qu-ff7f6c.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/la-mort-d-une-adolescente-dans-un-silo-de-shawinigan-vaut-qu-ff7f6c.html",
-   "title": "La mort d'une adolescente dans un silo de Shawinigan vaut quatre recommandations au ministère de l'Environnement",
-   "content_text": "Le coroner Jean-François Labadie demande au ministère de l'Environnement d'inspecter en continu l'ancienne usine de Shawinigan où une adolescente est morte le 11 avril 2025 après une chute de 25 mètres dans un silo, d'y éliminer les dangers et d'en interdire clairement l'accès, et d'appliquer enfin les articles de la Loi sur la qualité de l'environnement qui obligent les propriétaires de sites contaminés à fournir une garantie financière.",
-   "date_modified": "2026-09-04T10:15:00-04:00",
-   "tags": [
-    "Shawinigan (Mauricie)",
-    "Québec et ses régions",
-    "Justice et sécurité publique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/montreal-porte-en-appel-le-jugement-qui-l-empeche-de-demante-347fc1.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/montreal-porte-en-appel-le-jugement-qui-l-empeche-de-demante-347fc1.html",
-   "title": "Montréal porte en appel le jugement qui l'empêche de démanteler le campement du viaduc Van Horne",
-   "content_text": "La Ville conteste en appel la décision de la Cour supérieure qui, en juin, lui a interdit de démanteler le campement d'une dizaine de personnes installé près du viaduc Van Horne, le juge ayant écarté les deux sites de relogement proposés — l'un sans eau ni toilettes ni éclairage sous le viaduc Rosemont, l'autre appelé à devenir une patinoire l'hiver venu.\n\nMontréal réclame parallèlement à Québec 3 200 places d'hébergement d'urgence ouvertes en tout temps, 2 000 logements de transition avec accompagnement et 45 % de l'enveloppe des programmes provinciaux d'habitation.",
-   "date_modified": "2026-09-04T10:15:00-04:00",
-   "tags": [
-    "Montréal (Le Plateau-Mont-Royal)",
-    "Montréal et sa région",
-    "Société et culture"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/la-cour-d-appel-ordonne-a-montreal-de-rembourser-1-5-million-b0173a.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/la-cour-d-appel-ordonne-a-montreal-de-rembourser-1-5-million-b0173a.html",
-   "title": "La Cour d'appel ordonne à Montréal de rembourser 1,5 million $ aux promoteurs de Bois-Franc",
-   "content_text": "La Cour d'appel du Québec a infirmé le 20 août un jugement de 2025 favorable à la Ville et lui ordonne de rendre les 302 500 $ et 1,25 million $ versés sous protêt par les promoteurs du projet Bois-Franc, à Saint-Laurent, qui plaidaient que leur engagement de 2013 à réserver 12 % de logements sociaux et 12 % de logements abordables les soustrayait au règlement de 2021 imposant un paiement compensatoire.",
-   "date_modified": "2026-09-04T10:15:00-04:00",
-   "tags": [
-    "Montréal (Saint-Laurent)",
-    "Montréal et sa région",
-    "Justice et sécurité publique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/la-station-qui-mesure-les-particules-ultrafines-de-l-aeropor-f2d7a2.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/la-station-qui-mesure-les-particules-ultrafines-de-l-aeropor-f2d7a2.html",
-   "title": "La station qui mesure les particules ultrafines de l'aéroport de Dorval est démontée depuis janvier",
-   "content_text": "La station 66 du réseau de surveillance de la qualité de l'air de Montréal, installée sur le terrain de l'aéroport Montréal-Trudeau, est hors service depuis janvier pour cause de chantier et n'a pas été relocalisée malgré un retour annoncé pour le printemps ; le bilan municipal de 2024 y mesurait 23 873 particules ultrafines par centimètre cube en moyenne annuelle, contre 6 716 à une station résidentielle, et un dépassement du seuil élevé retenu par l'Organisation mondiale de la santé 330 jours sur l'année.\n\nAéroports de Montréal dit chercher un nouvel emplacement avec la Ville de Montréal ; ces particules ne sont encadrées par aucune norme québécoise.",
-   "date_modified": "2026-09-04T10:15:00-04:00",
-   "tags": [
-    "Dorval (Montréal)",
-    "Montréal et sa région",
-    "Environnement et climat"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/longueuil-veut-empecher-la-diffusion-du-nom-du-policier-qui-6e86c6.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/longueuil-veut-empecher-la-diffusion-du-nom-du-policier-qui-6e86c6.html",
-   "title": "Longueuil veut empêcher la diffusion du nom du policier qui a tué Nooran Rezayi",
-   "content_text": "La Ville demande une ordonnance de confidentialité temporaire sur l'identité du policier qui a abattu Nooran Rezayi, 15 ans, le 21 septembre 2025, invoquant des menaces réelles — un adolescent a été déclaré coupable de harcèlement criminel en janvier pour avoir offert 2 000 $ sur Instagram pour l'assassiner —, alors que la famille, qui réclame 2,2 millions $ au service de police, veut faire connaître ce nom ; l'audience est reportée à octobre faute de temps de cour.",
-   "date_modified": "2026-09-04T10:15:00-04:00",
-   "tags": [
-    "Longueuil (Montérégie)",
-    "Montréal et sa région",
-    "Justice et sécurité publique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/des-armes-de-fabrication-artisanale-saisies-dans-une-remorqu-065fbf.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/des-armes-de-fabrication-artisanale-saisies-dans-une-remorqu-065fbf.html",
-   "title": "Des armes de fabrication artisanale saisies dans une remorque à Saint-Bernard-de-Lacolle",
-   "content_text": "Selon l'Agence des services frontaliers du Canada, des carcasses et des pièces d'armes à feu imprimées en trois dimensions ainsi que des armes prohibées ont été découvertes le 26 août dans la remorque d'un voyageur au poste frontalier de Saint-Bernard-de-Lacolle ; l'accusé, détenu en attendant son enquête sur remise en liberté, fait face à des accusations de fausse déclaration, de contrebande et de possession non autorisée de trois armes à feu prohibées au palais de justice de Saint-Jean-sur-Richelieu.",
-   "date_modified": "2026-09-04T10:15:00-04:00",
-   "tags": [
-    "Saint-Bernard-de-Lacolle (Montérégie)",
-    "Montréal et sa région",
-    "Justice et sécurité publique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-04/a/riviere-des-prairiespointe-aux-trembles-autorise-296-logemen-720e46.html",
-   "url": "https://entreelibre.ca/edition/2026-09-04/a/riviere-des-prairiespointe-aux-trembles-autorise-296-logemen-720e46.html",
-   "title": "Rivière-des-Prairies–Pointe-aux-Trembles autorise 296 logements sur trois terrains",
-   "content_text": "Le conseil d'arrondissement a autorisé le 1er septembre un immeuble mixte de 45 logements sur le site d'un ancien salon funéraire du boulevard Maurice-Duplessis et l'agrandissement des immeubles des 15555 et 15655, rue Sherbrooke Est, qui ajoutera 251 logements, en exigeant dans les deux cas des mesures de verdissement, indique l'arrondissement.",
-   "date_modified": "2026-09-04T10:15:00-04:00",
-   "tags": [
-    "Montréal (Rivière-des-Prairies–Pointe-aux-Trembles)",
-    "Montréal et sa région"
    ]
   }
  ]
