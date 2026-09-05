@@ -1,0 +1,568 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "Entrée-Libre — Revue de presse",
+ "home_page_url": "https://entreelibre.ca/edition/2026-09-05/index.html",
+ "feed_url": "https://entreelibre.ca/flux.json",
+ "language": "fr-CA",
+ "items": [
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/une-coalition-sportive-presse-les-partis-de-s-engager-avant-36ee62.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/une-coalition-sportive-presse-les-partis-de-s-engager-avant-36ee62.html",
+   "title": "Une coalition sportive presse les partis de s'engager avant le vote sur l'avenir du sport québécois",
+   "content_text": "Une coalition sportive presse les partis de s'engager avant le vote sur l'avenir du sport québécois.",
+   "date_modified": "2026-09-04T23:23:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-fondateur-de-qc125-estime-qu-aucun-parti-n-est-pleinement-15aa71.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-fondateur-de-qc125-estime-qu-aucun-parti-n-est-pleinement-15aa71.html",
+   "title": "Le fondateur de Qc125 estime qu'aucun parti n'est pleinement satisfait de ses appuis en campagne",
+   "content_text": "Chaque parti aurait sa propre raison d'être mécontent de ses appuis, selon le fondateur de Qc125.",
+   "date_modified": "2026-09-04T23:23:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/l-onu-adopte-une-nouvelle-carte-du-monde-plus-fidele-a-la-ta-9d30b4.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/l-onu-adopte-une-nouvelle-carte-du-monde-plus-fidele-a-la-ta-9d30b4.html",
+   "title": "L'ONU adopte une nouvelle carte du monde, plus fidèle à la taille réelle des continents",
+   "content_text": "Le Canada y paraît enfin aussi petit qu'il l'est vraiment, à côté d'une Afrique bien plus grande.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "International",
+    "International",
+    "Société et culture"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Equal-Earth-Map-0.jpg/1280px-Equal-Earth-Map-0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/un-rapport-federal-juge-les-impacts-climatiques-deja-irrever-d4159f.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/un-rapport-federal-juge-les-impacts-climatiques-deja-irrever-d4159f.html",
+   "title": "Un rapport fédéral juge les impacts climatiques déjà irréversibles au Canada",
+   "content_text": "Le constat est accablant, alors même qu'Ottawa recule sur plusieurs engagements climatiques pris il y a deux ans.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "Canada",
+    "Canada",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/la-juge-en-chef-de-l-alberta-ritu-khullar-meurt-a-la-suite-d-3052e4.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/la-juge-en-chef-de-l-alberta-ritu-khullar-meurt-a-la-suite-d-3052e4.html",
+   "title": "La juge en chef de l'Alberta, Ritu Khullar, meurt à la suite d'une maladie",
+   "content_text": "Elle présidait à elle seule trois cours d'appel, de l'Arctique aux Rocheuses.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "Alberta",
+    "Canada",
+    "Justice et sécurité publique"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ritu_Khullar_in_2018.jpg/1280px-Ritu_Khullar_in_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/les-paramedics-maintiennent-leurs-moyens-de-pression-la-nego-6a726b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/les-paramedics-maintiennent-leurs-moyens-de-pression-la-nego-6a726b.html",
+   "title": "Les paramédics maintiennent leurs moyens de pression, la négociation doit reprendre sous peu",
+   "content_text": "Trois fédérations différentes négocient séparément, mais toutes butent sur la même question salariale.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-s-entend-en-principe-avec-les-sages-femmes-de-la-prov-7f8855.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-s-entend-en-principe-avec-les-sages-femmes-de-la-prov-7f8855.html",
+   "title": "Québec s'entend en principe avec les sages-femmes de la province",
+   "content_text": "Une entente de quatre ans touche plus de 300 sages-femmes et pourrait faciliter l'accès aux suivis de grossesse.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/la-maison-blanche-s-inspire-de-tetris-pour-un-jeu-video-sur-c83736.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/la-maison-blanche-s-inspire-de-tetris-pour-un-jeu-video-sur-c83736.html",
+   "title": "La Maison-Blanche s'inspire de Tetris pour un jeu vidéo sur l'immigration, au grand dam de l'éditeur",
+   "content_text": "L'éditeur affirme n'avoir rien autorisé, alors que la Maison-Blanche reste silencieuse sur l'origine du jeu.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "États-Unis",
+    "International",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/un-collectif-de-vingt-organismes-presse-quebec-d-agir-sur-le-868680.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/un-collectif-de-vingt-organismes-presse-quebec-d-agir-sur-le-868680.html",
+   "title": "Un collectif de vingt organismes presse Québec d'agir sur le soutien à domicile des aînés",
+   "content_text": "Un sondage Léger confirme que la majorité préférerait vieillir chez soi, reste à savoir si Québec suivra.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/a-deux-mois-des-elections-de-mi-mandat-l-administration-trum-f6544b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/a-deux-mois-des-elections-de-mi-mandat-l-administration-trum-f6544b.html",
+   "title": "Vote par correspondance : l'administration Trump retourne devant la Cour suprême à deux mois des législatives de mi-mandat",
+   "content_text": "Mise à jour, 22 h 03 — Une juge prolonge le blocage jusqu'au scrutin, sans garantie que les bulletins arrivent à temps.",
+   "date_modified": "2026-09-04T22:03:00-04:00",
+   "tags": [
+    "États-Unis",
+    "International",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-parti-quebecois-lance-sa-campagne-devant-plus-de-2000-mil-6598ae.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-parti-quebecois-lance-sa-campagne-devant-plus-de-2000-mil-6598ae.html",
+   "title": "Le Parti québécois lance sa campagne devant plus de 2000 militants à Québec",
+   "content_text": "Mise à jour, 21 h — Il a fallu attendre la 18e minute de son discours pour qu'il nomme son engagement phare.",
+   "date_modified": "2026-09-04T21:22:00-04:00",
+   "tags": [
+    "Québec (Capitale-Nationale)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/conseiller-municipal-du-canton-de-roxton-tony-martel-brigue-03b417.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/conseiller-municipal-du-canton-de-roxton-tony-martel-brigue-03b417.html",
+   "title": "Conseiller municipal du Canton de Roxton, Tony Martel brigue Daniel-Johnson pour Québec solidaire",
+   "content_text": "Conseiller municipal du Canton de Roxton, il fait de la protection des terres agricoles son cheval de bataille.",
+   "date_modified": "2026-09-04T21:22:00-04:00",
+   "tags": [
+    "Québec (Daniel-Johnson)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-pq-dit-vouloir-une-politique-d-immigration-plus-nuancee-p-0aeb3a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-pq-dit-vouloir-une-politique-d-immigration-plus-nuancee-p-0aeb3a.html",
+   "title": "Le PQ dit vouloir une politique d'immigration plus nuancée pour les PME",
+   "content_text": "St-Pierre Plamondon assouplit le ton, mais reste flou sur le sort des multinationales.",
+   "date_modified": "2026-09-04T19:27:00-04:00",
+   "tags": [
+    "Québec (Saguenay–Lac-Saint-Jean)",
+    "Élections Québec 2026",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/plus-de-40-acteurs-forestiers-reclament-un-pacte-electoral-p-3c7693.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/plus-de-40-acteurs-forestiers-reclament-un-pacte-electoral-p-3c7693.html",
+   "title": "Plus de 40 acteurs forestiers réclament un pacte électoral pour le bois québécois",
+   "content_text": "Frappée par les tarifs américains et le dumping asiatique, la filière presse les partis d'en faire une priorité.",
+   "date_modified": "2026-09-04T19:27:00-04:00",
+   "tags": [
+    "Bas-Saint-Laurent",
+    "Élections Québec 2026",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/en-visite-a-gatineau-christine-frechette-evite-de-se-prononc-d70870.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/en-visite-a-gatineau-christine-frechette-evite-de-se-prononc-d70870.html",
+   "title": "En visite à Gatineau, Christine Fréchette évite de se prononcer sur l'avenir du tramway",
+   "content_text": "Pendant que Québec attend l'analyse du dossier, le cégep et l'hôpital de la région réclament aussi leur tour.",
+   "date_modified": "2026-09-04T19:27:00-04:00",
+   "tags": [
+    "Gatineau (Outaouais)",
+    "Élections Québec 2026",
+    "Transport et infrastructures"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-promet-de-remunerer-tous-les-stages-obligat-29ef69.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-promet-de-remunerer-tous-les-stages-obligat-29ef69.html",
+   "title": "Québec solidaire promet de rémunérer tous les stages obligatoires aux études",
+   "content_text": "Un engagement chiffré à un demi-milliard, que plusieurs étudiants attendaient depuis longtemps selon la co-porte-parole solidaire.",
+   "date_modified": "2026-09-04T19:27:00-04:00",
+   "tags": [
+    "Saguenay (Saguenay–Lac-Saint-Jean)",
+    "Élections Québec 2026",
+    "Éducation"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/la-caq-trouve-une-nouvelle-candidate-dans-ungava-apres-le-re-7d73fe.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/la-caq-trouve-une-nouvelle-candidate-dans-ungava-apres-le-re-7d73fe.html",
+   "title": "La CAQ trouve une nouvelle candidate dans Ungava après le retrait de Paul Dadie",
+   "content_text": "L'ingénieure forestière Amélie Béchard hérite d'une circonscription que son prédécesseur a quittée après des propos jugés embarrassants.",
+   "date_modified": "2026-09-04T19:27:00-04:00",
+   "tags": [
+    "Ungava (Nord-du-Québec)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5.html",
+   "title": "Le péquiste François Gariépy s'excuse pour ses « propos regrettables » envers une animatrice",
+   "content_text": "Mise à jour, 19 h — Une chronique radio de juillet ressurgit, et le PQ accuse la CAQ de fouiller ses archives pour distraire.",
+   "date_modified": "2026-09-04T19:27:00-04:00",
+   "tags": [
+    "Québec (Charlevoix–Côte-de-Beaupré)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/la-caq-promet-650-millions-pour-le-sport-les-gymnases-et-les-314b26.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/la-caq-promet-650-millions-pour-le-sport-les-gymnases-et-les-314b26.html",
+   "title": "La CAQ promet 650 millions $ pour le sport, les gymnases et les cours d'école",
+   "content_text": "Combien de gymnases et de cours d'école rénovées ces 650 millions changeront-ils vraiment ?",
+   "date_modified": "2026-09-04T18:05:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Éducation"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-pq-veut-annuler-la-baisse-de-tvq-de-la-caq-pour-financer-51b4aa.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-pq-veut-annuler-la-baisse-de-tvq-de-la-caq-pour-financer-51b4aa.html",
+   "title": "Le PQ veut annuler la baisse de TVQ de la CAQ pour financer l'aide alimentaire",
+   "content_text": "Ce que ça changerait pour les enfants qui arrivent à l'école le ventre vide.",
+   "date_modified": "2026-09-04T18:05:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/christine-frechette-promet-un-bulletin-de-vote-bilingue-elec-e26690.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/christine-frechette-promet-un-bulletin-de-vote-bilingue-elec-e26690.html",
+   "title": "Christine Fréchette promet un bulletin de vote bilingue, Élections Québec dit ne rien avoir à traduire",
+   "content_text": "Reste à savoir si cette promesse suffira à éteindre la contestation qui monte.",
+   "date_modified": "2026-09-04T18:05:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-pcq-propose-un-pont-a-haubans-entre-l-ile-d-orleans-et-le-86a94c.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-pcq-propose-un-pont-a-haubans-entre-l-ile-d-orleans-et-le-86a94c.html",
+   "title": "Le PCQ propose un pont à haubans entre l'île d'Orléans et Lévis comme troisième lien",
+   "content_text": "Mise à jour, 16 h — Le prix à payer, pour des résidents de l'île, pour que le troisième lien voie le jour.",
+   "date_modified": "2026-09-04T16:30:00-04:00",
+   "tags": [
+    "Québec / Lévis",
+    "Élections Québec 2026",
+    "Transport et infrastructures"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-pq-demande-au-dgeq-d-enqueter-sur-l-organisme-federaliste-4d16ea.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-pq-demande-au-dgeq-d-enqueter-sur-l-organisme-federaliste-4d16ea.html",
+   "title": "Le PQ demande au DGEQ d'enquêter sur l'organisme fédéraliste Mission Leadership Québec, lié à un contrat de la CAQ",
+   "content_text": "Mise à jour, 16 h — Le nom de Donald Trump s'invite dans la joute entre Fréchette et le chef péquiste.",
+   "date_modified": "2026-09-04T16:30:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-devoile-sa-feuille-de-route-pour-les-100-pr-f873be.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-devoile-sa-feuille-de-route-pour-les-100-pr-f873be.html",
+   "title": "Québec solidaire dévoile sa feuille de route pour les 100 premiers jours d'un éventuel gouvernement solidaire",
+   "content_text": "Logement, épicerie, école : ce que Québec solidaire promet pour ses cent premiers jours.",
+   "date_modified": "2026-09-04T16:30:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/l-ex-liberale-sona-lakhoyan-olivier-recouvre-de-ruban-adhesi-f1022e.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/l-ex-liberale-sona-lakhoyan-olivier-recouvre-de-ruban-adhesi-f1022e.html",
+   "title": "L'ex-libérale Sona Lakhoyan Olivier recouvre de ruban adhésif le logo du PLQ sur ses pancartes",
+   "content_text": "Une rupture avec son parti, visible sur chaque pancarte électorale de la candidate.",
+   "date_modified": "2026-09-04T16:30:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/un-drone-russe-touche-le-quartier-general-du-sbu-en-plein-ky-7c7ebe.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/un-drone-russe-touche-le-quartier-general-du-sbu-en-plein-ky-7c7ebe.html",
+   "title": "Un drone russe touche le quartier général du SBU en plein Kyiv",
+   "content_text": "Un drone russe a touché vendredi le quartier général du Service de sécurité ukrainien (SBU) en plein centre de Kyiv, endommageant le bureau de son chef par intérim et blessant plusieurs personnes, selon les autorités ukrainiennes.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Ukraine",
+    "International",
+    "Guerre et défense"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/washington-relance-sa-mediation-entre-la-russie-et-l-ukraine-d6ffa1.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/washington-relance-sa-mediation-entre-la-russie-et-l-ukraine-d6ffa1.html",
+   "title": "Washington relance sa médiation entre la Russie et l'Ukraine",
+   "content_text": "Les émissaires américains Steve Witkoff et Jared Kushner doivent se rendre à Moscou puis à Kyiv dès ce week-end pour tenter de relancer les négociations en vue de mettre fin à la guerre, a annoncé le président Volodymyr Zelensky.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Ukraine, Russie",
+    "International",
+    "Guerre et défense"
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff%2C_May_6%2C_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/la-presidente-du-syndicat-fiq-monteregie-ouest-destituee-sur-4a8f6e.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/la-presidente-du-syndicat-fiq-monteregie-ouest-destituee-sur-4a8f6e.html",
+   "title": "La présidente du syndicat FIQ-Montérégie-Ouest destituée sur fond d'allégations de fraude",
+   "content_text": "La présidente du syndicat des infirmières de la Montérégie-Ouest, Mélanie Gignac, a été démise de ses fonctions le 2 septembre après la découverte de problèmes dans la comptabilité du syndicat, que ses dirigeants qualifient d'irrégularités pouvant constituer une fraude.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Montérégie-Ouest (Montérégie)",
+    "Québec et ses régions",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/la-stm-teste-l-intelligence-artificielle-pour-reperer-les-pe-094a24.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/la-stm-teste-l-intelligence-artificielle-pour-reperer-les-pe-094a24.html",
+   "title": "La STM teste l'intelligence artificielle pour repérer les personnes qui flânent dans le métro",
+   "content_text": "La Société de transport de Montréal expérimente, dans deux stations de métro, un outil d'intelligence artificielle qui analyse les images de vidéosurveillance pour repérer plus vite les personnes qui s'attardent après la fermeture et prévenir les agents de la sécurité.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Montréal",
+    "Montréal et sa région",
+    "Transport et infrastructures"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/recul-de-19-000-emplois-au-quebec-en-aout-6015b3.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/recul-de-19-000-emplois-au-quebec-en-aout-6015b3.html",
+   "title": "Recul de 19 000 emplois au Québec en août",
+   "content_text": "En août, le marché du travail québécois a reculé de 19 000 emplois tandis que le taux de chômage est demeuré pratiquement inchangé, à 5,6 %, par rapport à juillet, selon Statistique Canada.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/recul-de-13-des-ventes-de-proprietes-a-montreal-en-aout-b77785.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/recul-de-13-des-ventes-de-proprietes-a-montreal-en-aout-b77785.html",
+   "title": "Recul de 13 % des ventes de propriétés à Montréal en août",
+   "content_text": "Les ventes résidentielles ont reculé de 13,1 % à Montréal en août par rapport à l'an dernier, même si les prix ont continué d'augmenter dans toutes les catégories de propriétés, selon la Presse canadienne.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Montréal",
+    "Montréal et sa région",
+    "Économie et travail"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1822%2C_boulevard_de_Maisonneuve_Ouest_-_09.JPG/1280px-1822%2C_boulevard_de_Maisonneuve_Ouest_-_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/roland-lance-melody-flip-un-plugiciel-de-composition-musical-480cff.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/roland-lance-melody-flip-un-plugiciel-de-composition-musical-480cff.html",
+   "title": "Roland lance Melody Flip, un plugiciel de composition musicale par IA",
+   "content_text": "Le fabricant Roland lance Melody Flip, un plugiciel pour stations de travail audionumériques qui génère mélodies, accords et rythmes à partir de courtes trames thématiques ou d'une chanson de référence, sans toutefois produire de chansons complètes avec voix comme le font ses concurrents.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Savoirs",
+    "Technologies et numérique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/mort-du-cineaste-tony-gatlif-chantre-du-cinema-rom-a-77-ans-df65fa.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/mort-du-cineaste-tony-gatlif-chantre-du-cinema-rom-a-77-ans-df65fa.html",
+   "title": "Mort du cinéaste Tony Gatlif, chantre du cinéma rom, à 77 ans",
+   "content_text": "Tony Gatlif, qui a consacré une grande partie de son œuvre au peuple rom notamment dans Gadjo Dilo et Latcho Drom, s'est éteint mercredi en Provence à l'âge de 77 ans.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "France",
+    "Savoirs",
+    "Cinéma et culture"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tony_Gatlif.jpg/1280px-Tony_Gatlif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/726-patients-hospitalises-faute-d-hebergement-en-chsld-968a59.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/726-patients-hospitalises-faute-d-hebergement-en-chsld-968a59.html",
+   "title": "726 patients hospitalisés faute d'hébergement en CHSLD",
+   "content_text": "Faute d'hébergement en CHSLD, 726 personnes occupaient un lit d'hôpital au Québec au début du mois d'août, un total à la hausse que le ministère de la Santé a transmis à La Presse Canadienne en vertu de la loi sur l'accès à l'information.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Santé et services sociaux"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/H%C3%B4tel-Dieu_de_Montr%C3%A9al%2C_Montr%C3%A9al%2C_Qu%C3%A9bec_%2829955020002%29.jpg/1280px-H%C3%B4tel-Dieu_de_Montr%C3%A9al%2C_Montr%C3%A9al%2C_Qu%C3%A9bec_%2829955020002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/la-banque-du-canada-devoile-un-billet-a-l-effigie-du-roi-cha-c2a1a4.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/la-banque-du-canada-devoile-un-billet-a-l-effigie-du-roi-cha-c2a1a4.html",
+   "title": "La Banque du Canada dévoile un billet à l'effigie du roi Charles III",
+   "content_text": "La Banque du Canada dévoile un billet de 20 dollars à l'effigie du roi Charles III, une première pour la monnaie canadienne, qui succède ainsi à Elizabeth II.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Canada",
+    "Canada",
+    "Société et culture"
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-grand-chef-de-la-nation-innue-reclame-un-corps-policier-a-6f5547.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-grand-chef-de-la-nation-innue-reclame-un-corps-policier-a-6f5547.html",
+   "title": "Le grand chef de la Nation innue réclame un corps policier autochtone après une arrestation violente",
+   "content_text": "Le grand chef de la Nation innue, Jodie Ashini, réclame la création d'un corps policier dirigé par les Premières Nations après la diffusion d'une vidéo montrant des agents de la GRC frapper et utiliser une arme paralysante contre un homme lors d'une arrestation à Sheshatshiu, au Labrador.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Sheshatshiu (Terre-Neuve-et-Labrador)",
+    "Canada",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-rogers-stadium-de-toronto-endommage-par-un-violent-orage-d09081.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-rogers-stadium-de-toronto-endommage-par-un-violent-orage-d09081.html",
+   "title": "Le Rogers Stadium de Toronto endommagé par un violent orage",
+   "content_text": "Une partie des gradins du Rogers Stadium à Toronto a été détruite en raison des violentes intempéries qui se sont abattues sur la ville mercredi, et l'organisateur du spectacle, Live Nation, n'a pas confirmé si le concert d'AC/DC prévu le 16 septembre pourra avoir lieu.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Toronto (Ontario)",
+    "Canada",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/pierre-fortin-plaide-pour-une-strategie-nationale-de-l-ia-en-cd5aaa.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/pierre-fortin-plaide-pour-une-strategie-nationale-de-l-ia-en-cd5aaa.html",
+   "title": "Pierre Fortin plaide pour une stratégie nationale de l'IA en éducation",
+   "content_text": "L'économiste Pierre Fortin et Jonathan Perrier estiment que le Québec doit se doter d'une stratégie nationale sur l'intelligence artificielle en éducation, au moment où l'idée d'un grand forum public sur l'école gagne du terrain.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Éducation"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-telescope-spatial-roman-doit-son-existence-a-des-surplus-33e17b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-telescope-spatial-roman-doit-son-existence-a-des-surplus-33e17b.html",
+   "title": "Le télescope spatial Roman doit son existence à des surplus de l'espionnage américain",
+   "content_text": "Le télescope spatial Nancy Grace Roman, lancé cette semaine par la NASA pour étudier l'énergie noire, doit son origine à deux télescopes espions inutilisés que le renseignement américain a cédés à l'agence spatiale dans les années 1990, rapporte l'Agence Science-Presse.",
+   "date_modified": "2026-09-04T15:54:00-04:00",
+   "tags": [
+    "États-Unis",
+    "Savoirs",
+    "Espace et astronomie"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ROMANNewModelV8RomanStill00049.png/1280px-ROMANNewModelV8RomanStill00049.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-chef-liberal-charles-milliard-promet-60-millions-de-plus-6cff3a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-chef-liberal-charles-milliard-promet-60-millions-de-plus-6cff3a.html",
+   "title": "Le chef libéral Charles Milliard promet 60 millions $ de plus par année contre l'itinérance",
+   "content_text": "Le chef du Parti libéral du Québec, Charles Milliard, promet d'investir 60 millions $ de plus par année pour lutter contre l'itinérance, en compagnie du directeur de la Mission Old Brewery, James Hugues, candidat libéral dans Vaudreuil.",
+   "date_modified": "2026-09-04T14:21:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-complete-son-equipe-de-candidats-en-maurici-ba5e34.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-complete-son-equipe-de-candidats-en-maurici-ba5e34.html",
+   "title": "Québec solidaire complète son équipe de candidats en Mauricie",
+   "content_text": "Québec solidaire annonce avoir complété son équipe de candidats dans les circonscriptions de la région de la Mauricie en vue du scrutin du 5 octobre.",
+   "date_modified": "2026-09-04T14:21:00-04:00",
+   "tags": [
+    "Mauricie",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-complete-aussi-son-equipe-de-candidats-au-b-450809.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-complete-aussi-son-equipe-de-candidats-au-b-450809.html",
+   "title": "Québec solidaire complète aussi son équipe de candidats au Bas-Saint-Laurent",
+   "content_text": "Québec solidaire confirme que les quatre circonscriptions couvrant le Bas-Saint-Laurent ont désormais chacune leur candidat solidaire pour le scrutin du 5 octobre.",
+   "date_modified": "2026-09-04T14:21:00-04:00",
+   "tags": [
+    "Bas-Saint-Laurent",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/sol-zanetti-l-autre-porte-parole-de-quebec-solidaire-dans-ce-627da6.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/sol-zanetti-l-autre-porte-parole-de-quebec-solidaire-dans-ce-627da6.html",
+   "title": "Sol Zanetti, second visage de Québec solidaire dans cette campagne",
+   "content_text": "Sol Zanetti, qui appuie Ruba Ghazal sans lui-même briguer le poste de premier ministre, se décrit à La Presse, mi-blague, comme un aspirant au poste de vice-premier ministre de Québec solidaire.",
+   "date_modified": "2026-09-04T14:21:00-04:00",
+   "tags": [
+    "Québec (Jean-Lesage)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/un-restaurateur-denonce-l-ironie-environnementale-des-pancar-82fa7c.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/un-restaurateur-denonce-l-ironie-environnementale-des-pancar-82fa7c.html",
+   "title": "Un restaurateur dénonce l'ironie environnementale des pancartes électorales",
+   "content_text": "Un entrepreneur copropriétaire de plusieurs chaînes de restaurants dénonce l'incohérence des partis qui réclament la fin des ustensiles en plastique tout en tapissant la province de pancartes électorales.",
+   "date_modified": "2026-09-04T14:21:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/a-sept-iles-et-en-minganie-les-elus-municipaux-attendent-les-3d9a93.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/a-sept-iles-et-en-minganie-les-elus-municipaux-attendent-les-3d9a93.html",
+   "title": "À Sept-Îles et en Minganie, les élus municipaux attendent les partis sur le financement",
+   "content_text": "Le maire de Sept-Îles souhaite que la campagne aborde l'accès aux programmes d'aide financière du gouvernement pour les municipalités, une attente partagée par la mairesse de Port-Cartier et le préfet suppléant de la MRC de Minganie.",
+   "date_modified": "2026-09-04T14:21:00-04:00",
+   "tags": [
+    "Sept-Îles, Minganie (Côte-Nord)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-aa18ec.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-aa18ec.html",
+   "title": "La CAQ promet de relancer le prolongement de l'autoroute 20 dans le Bas-Saint-Laurent",
+   "content_text": "Les candidates caquistes Julia Brillant-Ruest (Rimouski) et Amélie Dionne (Rivière-du-Loup–Témiscouata–Les Basques) s'engagent à relancer les études pour prolonger l'autoroute 20 depuis Le Bic, sans toutefois avancer d'échéancier, de tracé ni de coût, ce qui laisse un comité de citoyens sur sa faim.",
+   "date_modified": "2026-09-04T14:21:00-04:00",
+   "tags": [
+    "Rimouski, Rivière-du-Loup (Bas-Saint-Laurent)",
+    "Élections Québec 2026",
+    "Transport et infrastructures"
+   ]
+  }
+ ]
+}

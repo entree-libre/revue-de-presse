@@ -1,0 +1,1570 @@
+{
+ "date": "2026-09-05",
+ "volets": [
+  "report"
+ ],
+ "articles": [
+  {
+   "titre": "Un drone russe touche le quartier général du SBU en plein Kyiv",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Le Figaro, BFM, franceinfo, Euronews",
+   "url": "https://www.lefigaro.fr/international/la-russie-frappe-en-plein-jour-le-siege-du-service-de-securite-ukrainien-le-reportage-de-notre-envoyee-speciale-a-kiev-20260904",
+   "resume": "Un drone russe a touché vendredi le quartier général du Service de sécurité ukrainien (SBU) en plein centre de Kyiv, endommageant le bureau de son chef par intérim et blessant plusieurs personnes, selon les autorités ukrainiennes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/la-russie-frappe-en-plein-jour-le-siege-du-service-de-securite-ukrainien-le-reportage-de-notre-envoyee-speciale-a-kiev-20260904",
+     "date": "2026-09-04T12:37-04:00",
+     "auteur": "Elisabeth Pierson"
+    },
+    {
+     "media": "BFM",
+     "url": "https://www.bfmtv.com/international/asie/russie/video-ukraine-le-siege-des-services-de-securite-touche-par-une-frappe-russe-dans-le-centre-de-kiev_VN-202609040714.html",
+     "date": "2026-09-04T11:37-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-siege-des-services-de-securite-ukrainiens-touche-par-une-frappe-russe-dans-le-centre-de-kiev_8177279.html",
+     "date": "2026-09-04T09:38-04:00"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://www.euronews.com/my-europe/2026/09/04/russian-drone-strikes-ukraine-security-service-headquarters-in-central-kyiv",
+     "date": "2026-09-04T09:51-04:00",
+     "auteur": "Sasha Vakulina"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-drone-russe-touche-le-quartier-general-du-sbu-en-plein-ky-7c7ebe",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "un-drone-russe-touche-le-quartier-general-du-sbu-en-plein-ky-7c7ebe"
+  },
+  {
+   "titre": "Washington relance sa médiation entre la Russie et l'Ukraine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "U.S. News & World Report, franceinfo",
+   "url": "https://www.usnews.com/news/world/articles/2026-09-04/trump-says-witkoff-kushner-heading-to-russia-ukraine-to-present-peace-proposal",
+   "resume": "Les émissaires américains Steve Witkoff et Jared Kushner doivent se rendre à Moscou puis à Kyiv dès ce week-end pour tenter de relancer les négociations en vue de mettre fin à la guerre, a annoncé le président Volodymyr Zelensky.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff%2C_May_6%2C_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Steve Witkoff",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "U.S. News & World Report",
+     "url": "https://www.usnews.com/news/world/articles/2026-09-04/trump-says-witkoff-kushner-heading-to-russia-ukraine-to-present-peace-proposal",
+     "date": "2026-09-04T15:03-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-propose-a-la-russie-un-arret-des-frappes-lors-des-visites-des-emissaires-de-donald-trump-a-moscou-et-kiev_8177756.html",
+     "date": "2026-09-04T13:28-04:00"
+    }
+   ],
+   "photo_auteur": "The White House",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Steve Witkoff",
+   "permalien": "washington-relance-sa-mediation-entre-la-russie-et-l-ukraine-d6ffa1",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "washington-relance-sa-mediation-entre-la-russie-et-l-ukraine-d6ffa1"
+  },
+  {
+   "titre": "La présidente du syndicat FIQ-Montérégie-Ouest destituée sur fond d'allégations de fraude",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Montérégie-Ouest (Montérégie)",
+   "medias": "Le Soleil de Châteauguay",
+   "url": "https://cybersoleil.com/allegation-de-fraude-contre-la-presidente-de-la-fiq-monteregie-ouest/",
+   "resume": "La présidente du syndicat des infirmières de la Montérégie-Ouest, Mélanie Gignac, a été démise de ses fonctions le 2 septembre après la découverte de problèmes dans la comptabilité du syndicat, que ses dirigeants qualifient d'irrégularités pouvant constituer une fraude.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil de Châteauguay",
+     "url": "https://cybersoleil.com/allegation-de-fraude-contre-la-presidente-de-la-fiq-monteregie-ouest/",
+     "date": "2026-09-04T13:43-04:00",
+     "auteur": "Éric Tremblay"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-presidente-du-syndicat-fiq-monteregie-ouest-destituee-sur-4a8f6e",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "la-presidente-du-syndicat-fiq-monteregie-ouest-destituee-sur-4a8f6e"
+  },
+  {
+   "titre": "La STM teste l'intelligence artificielle pour repérer les personnes qui flânent dans le métro",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Montréal",
+   "medias": "CBC, La Presse",
+   "url": "https://www.cbc.ca/news/canada/montreal/ai-stm-montreal-metro-surveillance-loitering-9.7332212?cmp=rss",
+   "resume": "La Société de transport de Montréal expérimente, dans deux stations de métro, un outil d'intelligence artificielle qui analyse les images de vidéosurveillance pour repérer plus vite les personnes qui s'attardent après la fermeture et prévenir les agents de la sécurité.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/ai-stm-montreal-metro-surveillance-loitering-9.7332212?cmp=rss",
+     "date": "2026-09-04T13:36-04:00",
+     "auteur": "Patricia Kozicka"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-04/metro-de-montreal/l-ia-pour-detecter-plus-rapidement-les-flaneurs.php",
+     "date": "2026-09-04T13:05-04:00",
+     "auteur": "Henri Ouellette-Vézina"
+    }
+   ],
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "la-stm-teste-l-intelligence-artificielle-pour-reperer-les-pe-094a24",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "la-stm-teste-l-intelligence-artificielle-pour-reperer-les-pe-094a24"
+  },
+  {
+   "titre": "Recul de 19 000 emplois au Québec en août",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Québecor, Les Affaires",
+   "url": "https://www.journaldemontreal.com/2026/09/04/le-quebec-perd-19-000-emplois-en-aout",
+   "resume": "En août, le marché du travail québécois a reculé de 19 000 emplois tandis que le taux de chômage est demeuré pratiquement inchangé, à 5,6 %, par rapport à juillet, selon Statistique Canada.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/04/le-quebec-perd-19-000-emplois-en-aout",
+     "date": "2026-09-04T09:55-04:00",
+     "auteur": "David Descôteaux"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/opinions/le-marche-du-travail-montre-ses-premiers-veritables-signes-de-faiblesse/",
+     "date": "2026-09-04T12:35-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "recul-de-19-000-emplois-au-quebec-en-aout-6015b3",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "recul-de-19-000-emplois-au-quebec-en-aout-6015b3"
+  },
+  {
+   "titre": "Recul de 13 % des ventes de propriétés à Montréal en août",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/economie/1006658/ventes-residentielles-montreal-ont-chute-13-1-aout",
+   "resume": "Les ventes résidentielles ont reculé de 13,1 % à Montréal en août par rapport à l'an dernier, même si les prix ont continué d'augmenter dans toutes les catégories de propriétés, selon la Presse canadienne.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/1822%2C_boulevard_de_Maisonneuve_Ouest_-_09.JPG/1280px-1822%2C_boulevard_de_Maisonneuve_Ouest_-_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Un immeuble résidentiel à Montréal.",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1006658/ventes-residentielles-montreal-ont-chute-13-1-aout",
+     "date": "2026-09-04T13:51-04:00",
+     "auteur": "La Presse canadienne"
+    }
+   ],
+   "image_auto": "aucune",
+   "photo_auteur": "Jeangagnon",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "recul-de-13-des-ventes-de-proprietes-a-montreal-en-aout-b77785",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "recul-de-13-des-ventes-de-proprietes-a-montreal-en-aout-b77785"
+  },
+  {
+   "titre": "Roland lance Melody Flip, un plugiciel de composition musicale par IA",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+   "resume": "Le fabricant Roland lance Melody Flip, un plugiciel pour stations de travail audionumériques qui génère mélodies, accords et rythmes à partir de courtes trames thématiques ou d'une chanson de référence, sans toutefois produire de chansons complètes avec voix comme le font ses concurrents.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+     "date": "2026-09-04T13:51-04:00",
+     "auteur": "Terrence O’Brien"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "roland-lance-melody-flip-un-plugiciel-de-composition-musical-480cff",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "roland-lance-melody-flip-un-plugiciel-de-composition-musical-480cff"
+  },
+  {
+   "titre": "Mort du cinéaste Tony Gatlif, chantre du cinéma rom, à 77 ans",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "Le Journal de Montréal, Le Monde",
+   "url": "https://www.tvanouvelles.ca/2026/09/04/deces-du-realisateur-francais-tony-gatlif-a-77-ans",
+   "resume": "Tony Gatlif, qui a consacré une grande partie de son œuvre au peuple rom notamment dans Gadjo Dilo et Latcho Drom, s'est éteint mercredi en Provence à l'âge de 77 ans.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Tony_Gatlif.jpg/1280px-Tony_Gatlif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Tony Gatlif",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/deces-du-realisateur-francais-tony-gatlif-a-77-ans",
+     "date": "2026-09-04T13:13-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/disparitions/article/2026/09/04/tony-gatlif-cineaste-des-marges-et-heraut-de-la-musique-rom-est-mort_6765847_3382.html",
+     "date": "2026-09-04T13:30-04:00",
+     "auteur": "Thomas Sotinel"
+    }
+   ],
+   "photo_auteur": "Original uploader was Miyazma at tr.wikipedia",
+   "photo_licence": "CC BY 2.5",
+   "image_auto": "wikipedia-fr:Tony Gatlif",
+   "permalien": "mort-du-cineaste-tony-gatlif-chantre-du-cinema-rom-a-77-ans-df65fa",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "mort-du-cineaste-tony-gatlif-chantre-du-cinema-rom-a-77-ans-df65fa"
+  },
+  {
+   "titre": "726 patients hospitalisés faute d'hébergement en CHSLD",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "L'Écho de Laval",
+   "url": "https://www.chamblyexpress.ca/actualites/societe/673843/en-attente-dun-chsld-726-patients-occupent-des-lits-dhopitaux-au-quebec",
+   "resume": "Faute d'hébergement en CHSLD, 726 personnes occupaient un lit d'hôpital au Québec au début du mois d'août, un total à la hausse que le ministère de la Santé a transmis à La Presse Canadienne en vertu de la loi sur l'accès à l'information.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/H%C3%B4tel-Dieu_de_Montr%C3%A9al%2C_Montr%C3%A9al%2C_Qu%C3%A9bec_%2829955020002%29.jpg/1280px-H%C3%B4tel-Dieu_de_Montr%C3%A9al%2C_Montr%C3%A9al%2C_Qu%C3%A9bec_%2829955020002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'Hôtel-Dieu de Montréal, un hôpital du réseau de la santé québécois.",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "L'Écho de Laval",
+     "url": "https://www.chamblyexpress.ca/actualites/societe/673843/en-attente-dun-chsld-726-patients-occupent-des-lits-dhopitaux-au-quebec",
+     "date": "2026-09-03T12:00-04:00",
+     "auteur": "La Presse canadienne"
+    }
+   ],
+   "image_auto": "aucune",
+   "photo_auteur": "Ken Lund from Reno, Nevada, USA",
+   "photo_licence": "CC BY-SA 2.0",
+   "permalien": "726-patients-hospitalises-faute-d-hebergement-en-chsld-968a59",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "726-patients-hospitalises-faute-d-hebergement-en-chsld-968a59"
+  },
+  {
+   "titre": "La Banque du Canada dévoile un billet à l'effigie du roi Charles III",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "L'Écho de Laval",
+   "url": "https://www.chamblyexpress.ca/actualites/societe/673865/un-nouveau-billet-de-20-mettra-a-lhonneur-le-roi-charles",
+   "resume": "La Banque du Canada dévoile un billet de 20 dollars à l'effigie du roi Charles III, une première pour la monnaie canadienne, qui succède ainsi à Elizabeth II.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Charles III (roi du Royaume-Uni)",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "L'Écho de Laval",
+     "url": "https://www.chamblyexpress.ca/actualites/societe/673865/un-nouveau-billet-de-20-mettra-a-lhonneur-le-roi-charles",
+     "date": "2026-09-03T15:00-04:00",
+     "auteur": "La Presse Canadienne"
+    }
+   ],
+   "photo_auteur": "White House",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Charles III",
+   "permalien": "la-banque-du-canada-devoile-un-billet-a-l-effigie-du-roi-cha-c2a1a4",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "la-banque-du-canada-devoile-un-billet-a-l-effigie-du-roi-cha-c2a1a4"
+  },
+  {
+   "titre": "Le grand chef de la Nation innue réclame un corps policier autochtone après une arrestation violente",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Sheshatshiu (Terre-Neuve-et-Labrador)",
+   "medias": "APTN News, Radio-Canada",
+   "url": "https://www.aptnnews.ca/featured/grand-chief-calls-for-innu-police-force-after-violent-n-l-arrest/",
+   "resume": "Le grand chef de la Nation innue, Jodie Ashini, réclame la création d'un corps policier dirigé par les Premières Nations après la diffusion d'une vidéo montrant des agents de la GRC frapper et utiliser une arme paralysante contre un homme lors d'une arrestation à Sheshatshiu, au Labrador.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "APTN News",
+     "url": "https://www.aptnnews.ca/featured/grand-chief-calls-for-innu-police-force-after-violent-n-l-arrest/",
+     "date": "2026-09-04T14:35-04:00",
+     "auteur": "La Presse canadienne"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280644/grc-innu-labrador-video-police",
+     "date": "2026-09-04T12:29-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-grand-chef-de-la-nation-innue-reclame-un-corps-policier-a-6f5547",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-grand-chef-de-la-nation-innue-reclame-un-corps-policier-a-6f5547"
+  },
+  {
+   "titre": "Le Rogers Stadium de Toronto endommagé par un violent orage",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Toronto (Ontario)",
+   "medias": "Québecor, Radio-Canada",
+   "url": "https://www.tvanouvelles.ca/2026/09/04/en-images--le-rogers-stadium-victime-de-la-tempete-du-siecle-a-toronto",
+   "resume": "Une partie des gradins du Rogers Stadium à Toronto a été détruite en raison des violentes intempéries qui se sont abattues sur la ville mercredi, et l'organisateur du spectacle, Live Nation, n'a pas confirmé si le concert d'AC/DC prévu le 16 septembre pourra avoir lieu.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/en-images--le-rogers-stadium-victime-de-la-tempete-du-siecle-a-toronto",
+     "date": "2026-09-04T10:11-04:00",
+     "auteur": "Agence QMI"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280639/stade-rogers-toronto-securite-orage",
+     "date": "2026-09-04T12:32-04:00",
+     "auteur": "Michel Bolduc"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-rogers-stadium-de-toronto-endommage-par-un-violent-orage-d09081",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-rogers-stadium-de-toronto-endommage-par-un-violent-orage-d09081"
+  },
+  {
+   "titre": "Pierre Fortin plaide pour une stratégie nationale de l'IA en éducation",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-04/l-education-a-l-ere-de-l-ia/le-prochain-grand-chantier-du-quebec.php",
+   "resume": "L'économiste Pierre Fortin et Jonathan Perrier estiment que le Québec doit se doter d'une stratégie nationale sur l'intelligence artificielle en éducation, au moment où l'idée d'un grand forum public sur l'école gagne du terrain.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-04/l-education-a-l-ere-de-l-ia/le-prochain-grand-chantier-du-quebec.php",
+     "date": "2026-09-04T13:00-04:00",
+     "auteur": "Pierre Fortin et Jonathan Perrier"
+    }
+   ],
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
+   "permalien": "pierre-fortin-plaide-pour-une-strategie-nationale-de-l-ia-en-cd5aaa",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "pierre-fortin-plaide-pour-une-strategie-nationale-de-l-ia-en-cd5aaa"
+  },
+  {
+   "titre": "Le télescope spatial Roman doit son existence à des surplus de l'espionnage américain",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "Agence Science-Presse",
+   "url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/2026/09/01/telescope-spatial-ne-espionnage",
+   "resume": "Le télescope spatial Nancy Grace Roman, lancé cette semaine par la NASA pour étudier l'énergie noire, doit son origine à deux télescopes espions inutilisés que le renseignement américain a cédés à l'agence spatiale dans les années 1990, rapporte l'Agence Science-Presse.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ROMANNewModelV8RomanStill00049.png/1280px-ROMANNewModelV8RomanStill00049.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Nancy-Grace-Roman (télescope spatial)",
+   "horodate": "2026-09-04T15:54-04:00",
+   "sources": [
+    {
+     "media": "Agence Science-Presse",
+     "url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/2026/09/01/telescope-spatial-ne-espionnage",
+     "date": "2026-09-04T14:14-04:00",
+     "auteur": "Pascal Lapointe"
+    }
+   ],
+   "photo_auteur": "NASA",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Nancy Grace Roman",
+   "permalien": "le-telescope-spatial-roman-doit-son-existence-a-des-surplus-33e17b",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-telescope-spatial-roman-doit-son-existence-a-des-surplus-33e17b"
+  },
+  {
+   "titre": "L'ONU adopte une nouvelle carte du monde, plus fidèle à la taille réelle des continents",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "International",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280766/nouvelle-carte-monde-onu",
+   "resume": "Le Canada y paraît enfin aussi petit qu'il l'est vraiment, à côté d'une Afrique bien plus grande.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Equal-Earth-Map-0.jpg/1280px-Equal-Earth-Map-0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Tom Patterson",
+   "photo_licence": "Public domain",
+   "legende": "La projection Equal Earth, désormais promue par l'ONU.",
+   "horodate": "2026-09-04T22:03-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280766/nouvelle-carte-monde-onu",
+     "auteur": "Ariane Émond",
+     "date": "2026-09-04T22:07-04:00"
+    }
+   ],
+   "permalien": "l-onu-adopte-une-nouvelle-carte-du-monde-plus-fidele-a-la-ta-9d30b4",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "l-onu-adopte-une-nouvelle-carte-du-monde-plus-fidele-a-la-ta-9d30b4"
+  },
+  {
+   "titre": "Un rapport fédéral juge les impacts climatiques déjà irréversibles au Canada",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Canada",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280831/changements-climatiques-canada-irreversibles-rapport",
+   "resume": "Le constat est accablant, alors même qu'Ottawa recule sur plusieurs engagements climatiques pris il y a deux ans.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T22:03-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280831/changements-climatiques-canada-irreversibles-rapport",
+     "auteur": "La Presse canadienne",
+     "date": "2026-09-04T22:07-04:00"
+    }
+   ],
+   "permalien": "un-rapport-federal-juge-les-impacts-climatiques-deja-irrever-d4159f",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "un-rapport-federal-juge-les-impacts-climatiques-deja-irrever-d4159f"
+  },
+  {
+   "titre": "La juge en chef de l'Alberta, Ritu Khullar, meurt à la suite d'une maladie",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Alberta",
+   "medias": "CBC, ministère de la Justice du Canada",
+   "url": "https://www.cbc.ca/news/canada/edmonton/alberta-chief-justice-ritu-khullar-death-9.7333217",
+   "resume": "Elle présidait à elle seule trois cours d'appel, de l'Arctique aux Rocheuses.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ritu_Khullar_in_2018.jpg/1280px-Ritu_Khullar_in_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Ritu Khullar",
+   "horodate": "2026-09-04T22:03-04:00",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/edmonton/alberta-chief-justice-ritu-khullar-death-9.7333217",
+     "date": "2026-09-04T22:07-04:00"
+    },
+    {
+     "media": "ministère de la Justice du Canada",
+     "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/09/declaration-du-ministre-de-la-justice-sur-le-deces-de-lhonorable-ritu-khullar.html",
+     "date": "2026-09-04T22:07-04:00"
+    }
+   ],
+   "permalien": "la-juge-en-chef-de-l-alberta-ritu-khullar-meurt-a-la-suite-d-3052e4",
+   "photo_auteur": "Lisha2037",
+   "photo_licence": "CC BY 4.0",
+   "image_auto": "wikipedia-en:Ritu Khullar",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "la-juge-en-chef-de-l-alberta-ritu-khullar-meurt-a-la-suite-d-3052e4"
+  },
+  {
+   "titre": "Les paramédics maintiennent leurs moyens de pression, la négociation doit reprendre sous peu",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Le Canada Français",
+   "url": "https://www.ledevoir.com/actualites/sante/1006790/paramedics-quebecois-maintiennent-greves",
+   "resume": "Trois fédérations différentes négocient séparément, mais toutes butent sur la même question salariale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T22:03-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/sante/1006790/paramedics-quebecois-maintiennent-greves",
+     "auteur": "Lia Lévesque, La Presse canadienne",
+     "date": "2026-09-04T22:07-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/paramedics-relance-de-la-nego-dans-les-prochains-jours-greves-maintenues/",
+     "auteur": "La Presse canadienne",
+     "date": "2026-09-04T22:07-04:00"
+    }
+   ],
+   "permalien": "les-paramedics-maintiennent-leurs-moyens-de-pression-la-nego-6a726b",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "les-paramedics-maintiennent-leurs-moyens-de-pression-la-nego-6a726b"
+  },
+  {
+   "titre": "Québec s'entend en principe avec les sages-femmes de la province",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/negociations-pour-le-renouvellement-des-ententes-collectives-dans-les-secteurs-public-et-parapublic-quebec-annonce-une-entente-de-principe-avec-le-regroupement-les-sages-femmes-du-quebec/",
+   "resume": "Une entente de quatre ans touche plus de 300 sages-femmes et pourrait faciliter l'accès aux suivis de grossesse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T22:03-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/negociations-pour-le-renouvellement-des-ententes-collectives-dans-les-secteurs-public-et-parapublic-quebec-annonce-une-entente-de-principe-avec-le-regroupement-les-sages-femmes-du-quebec/",
+     "date": "2026-09-04T22:07-04:00"
+    }
+   ],
+   "permalien": "quebec-s-entend-en-principe-avec-les-sages-femmes-de-la-prov-7f8855",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "quebec-s-entend-en-principe-avec-les-sages-femmes-de-la-prov-7f8855"
+  },
+  {
+   "titre": "La Maison-Blanche s'inspire de Tetris pour un jeu vidéo sur l'immigration, au grand dam de l'éditeur",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/monde/etats-unis/1006796/tetris-prend-distances-jeu-video-polemique-maison-blanche",
+   "resume": "L'éditeur affirme n'avoir rien autorisé, alors que la Maison-Blanche reste silencieuse sur l'origine du jeu.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T22:03-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/etats-unis/1006796/tetris-prend-distances-jeu-video-polemique-maison-blanche",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-04T22:07-04:00"
+    }
+   ],
+   "permalien": "la-maison-blanche-s-inspire-de-tetris-pour-un-jeu-video-sur-c83736",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "la-maison-blanche-s-inspire-de-tetris-pour-un-jeu-video-sur-c83736"
+  },
+  {
+   "titre": "Un collectif de vingt organismes presse Québec d'agir sur le soutien à domicile des aînés",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/04/soutenir-enfin-le-maintien-a-domicile-pour-les-aines",
+   "resume": "Un sondage Léger confirme que la majorité préférerait vieillir chez soi, reste à savoir si Québec suivra.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T22:03-04:00",
+   "sources": [
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/04/soutenir-enfin-le-maintien-a-domicile-pour-les-aines",
+     "auteur": "Michel Clair et Rémy Trudel, anciens ministres, au nom d'un collectif de 20 organismes",
+     "date": "2026-09-04T22:07-04:00"
+    }
+   ],
+   "permalien": "un-collectif-de-vingt-organismes-presse-quebec-d-agir-sur-le-868680",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "un-collectif-de-vingt-organismes-presse-quebec-d-agir-sur-le-868680"
+  },
+  {
+   "titre": "Le PCQ propose un pont à haubans entre l'île d'Orléans et Lévis comme troisième lien",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Québec / Lévis",
+   "medias": "Parti conservateur du Québec, Le Devoir, Les Affaires, Coops de l'information, Radio-Canada",
+   "url": "https://www.ledevoir.com/politique/quebec/1006565/conservateurs-veulent-troisieme-lien-imparfait-arreter-tourner-rond",
+   "resume": "Mise à jour, 16 h — Le prix à payer, pour des résidents de l'île, pour que le troisième lien voie le jour.",
+   "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/le-pcq-presente-un-projet-concret-de-3e-lien-autoroutier/",
+     "date": "2026-09-04T00:00-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006565/conservateurs-veulent-troisieme-lien-imparfait-arreter-tourner-rond",
+     "date": "2026-09-04T10:16-04:00",
+     "auteur": "Sébastien Tanguay"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-9-le-pcq-presente-son-projet-de-3e-lien-evalue-a-3g/",
+     "date": "2026-09-04T09:25-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/duhaime-detaille-son-3e-lien-un-pont-a-hauban-a-3-milliards-6ZPOFDCNZFFBDO2DDOTE5ACWXU/",
+     "date": "2026-09-04T09:40-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280587/christine-frechette-pont-pierre-laporte-eric-duhaime",
+     "date": "2026-09-04T12:28-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280725/expropriation-pont-3e-lien-conservateurs-quebec",
+     "auteur": "Marie-Christine Gagnon",
+     "date": "2026-09-04T15:29-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226538/eric-duhaime-veut-un-3e-lien-qui-passe-par-lile-dorlans/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Sara Comadina"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T16:30-04:00",
+   "permalien": "le-pcq-propose-un-pont-a-haubans-entre-l-ile-d-orleans-et-le-86a94c",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-pcq-propose-un-pont-a-haubans-entre-l-ile-d-orleans-et-le-86a94c"
+  },
+  {
+   "titre": "Le PQ demande au DGEQ d'enquêter sur l'organisme fédéraliste Mission Leadership Québec, lié à un contrat de la CAQ",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir, LaPresse, Québecor, Radio-Canada, Montreal Gazette",
+   "url": "https://www.ledevoir.com/politique/quebec/1006574/pspp-inquiet-etre-face-plus-grande-ingerence-federal-depuis-1995",
+   "resume": "Mise à jour, 16 h — Le nom de Donald Trump s'invite dans la joute entre Fréchette et le chef péquiste.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006574/pspp-inquiet-etre-face-plus-grande-ingerence-federal-depuis-1995",
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "François Carabin"
+    },
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/relation-quebec-ottawa/la-plus-grande-ingerence-du-federal-depuis-1995-s-inquiete-paul-st-pierre-plamondon.php",
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Fanny Lévesque"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldequebec.com/2026/09/04/le-pq-reclame-une-enquete-du-dgeq-sur-le-financement-du-camp-du-non",
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Nicolas Lachance"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/en-direct--quebec-2026-voici-ce-qui-attend-les-chefs-aujourdhui",
+     "date": "2026-09-04T12:28-04:00",
+     "auteur": "Agence QMI"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280678/influence-federal-st-pierre-plamondon-pq",
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Jean-François Thériault"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldequebec.com/2026/09/04/affaiblir-le-canada--frechette-constate-une--convergence-de-vues--entre-pspp-et-trump",
+     "auteur": "Marc-André Gagnon",
+     "date": "2026-09-04T15:33-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldequebec.com/2026/09/04/peut-etre-la-plus-importante-ingerence-du-federal-depuis-1995-sinquiete-le-chef-pequiste-paul-st-pierre-plamondon",
+     "auteur": "Nicolas Lachance",
+     "date": "2026-09-04T11:04-04:00"
+    },
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/convergence-de-vues-entre-trump-et-st-pierre-plamondon-dit-frechette.php",
+     "auteur": "Tommy Chouinard",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799994/ingerence-federale-potentielle-dans-l-election-quebecoise-le-pq-hausse-le-ton",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Vincent Simard et Vincent Pagé"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/799981/pspp-a-les-memes-objectifs-que-son-ami-trump-lance-frechette",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Félix-Antoine Turgeon"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/799951/pspp-sur-l-ingerence-je-n-aime-pas-ca-pantoute-dit-jonathan-trudeau",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Pierre Blais"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10753135/plus-grande-ingerence-federal-depuis-1995-elections-quebec-2026",
+     "date": "2026-09-04T19:00-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-9-ottawa-se-met-au-service-de-la-caq-dit-pspp/",
+     "date": "2026-09-04T19:00-04:00",
+     "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/psppp-interference-allegations-quebec-9.7333292",
+     "date": "2026-09-04T19:00-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006736/frechette-plamondon-ecorchent-viabilite-quebec-souverain",
+     "date": "2026-09-04T19:00-04:00",
+     "auteur": "Sébastien Tanguay, Isabelle Porter, François Carabin, Léo Mercier-Ross et Marie-Michèle Sioui"
+    },
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/quebec-elections/paul-st-pierre-plamondon-donald-trump-comparison-christine-frechette-weaker-canada/",
+     "date": "2026-09-04T19:31-04:00",
+     "auteur": "Abby McLaughlin"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T16:30-04:00",
+   "image_auto": "aucune",
+   "permalien": "le-pq-demande-au-dgeq-d-enqueter-sur-l-organisme-federaliste-4d16ea",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-pq-demande-au-dgeq-d-enqueter-sur-l-organisme-federaliste-4d16ea"
+  },
+  {
+   "titre": "Le chef libéral Charles Milliard promet 60 millions $ de plus par année contre l'itinérance",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Le Devoir, LaPresse",
+   "url": "https://www.ledevoir.com/politique/quebec/1006646/lutte-itinerance-limitee-deficit-selon-milliard",
+   "resume": "Le chef du Parti libéral du Québec, Charles Milliard, promet d'investir 60 millions $ de plus par année pour lutter contre l'itinérance, en compagnie du directeur de la Mission Old Brewery, James Hugues, candidat libéral dans Vaudreuil.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006646/lutte-itinerance-limitee-deficit-selon-milliard",
+     "auteur": "Isabelle Porter",
+     "date": "2026-09-04T14:23-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/milliard-promet-60-millions-par-annee-en-itinerance-HFSTLZ2EBNGBZFGHYBRRNJN2ZI/",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-9-charles-milliard-promet-60m-par-annee-pour-atteindre-litinerance-zero/",
+     "date": "2026-09-04T19:00-04:00",
+     "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "Monsaintroch",
+     "url": "https://monsaintroch.com/2026/le-parti-liberal-du-quebec-promet-60-m-de-plus-par-annee-pour-lutter-contre-litinerance/",
+     "date": "2026-09-04T19:00-04:00",
+     "auteur": "Christophe Gagnon-Fortin"
+    },
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/l-itinerance-a-double-sous-la-caq-rappelle-le-plq.php",
+     "date": "2026-09-04T21:22-04:00",
+     "auteur": "Gabriel Béland"
+    }
+   ],
+   "permalien": "le-chef-liberal-charles-milliard-promet-60-millions-de-plus-6cff3a",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-chef-liberal-charles-milliard-promet-60-millions-de-plus-6cff3a"
+  },
+  {
+   "titre": "Québec solidaire complète son équipe de candidats en Mauricie",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Mauricie",
+   "medias": "Québec solidaire (communiqué)",
+   "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-quebec-solidaire-a-une-equipe-complete-dans-la-region-de-la-mauricie/",
+   "resume": "Québec solidaire annonce avoir complété son équipe de candidats dans les circonscriptions de la région de la Mauricie en vue du scrutin du 5 octobre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-quebec-solidaire-a-une-equipe-complete-dans-la-region-de-la-mauricie/",
+     "date": "2026-09-04T14:23-04:00"
+    }
+   ],
+   "permalien": "quebec-solidaire-complete-son-equipe-de-candidats-en-maurici-ba5e34",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "quebec-solidaire-complete-son-equipe-de-candidats-en-maurici-ba5e34"
+  },
+  {
+   "titre": "Québec solidaire complète aussi son équipe de candidats au Bas-Saint-Laurent",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280665/elections-rimouski-rdl-mitis-cote",
+   "resume": "Québec solidaire confirme que les quatre circonscriptions couvrant le Bas-Saint-Laurent ont désormais chacune leur candidat solidaire pour le scrutin du 5 octobre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280665/elections-rimouski-rdl-mitis-cote",
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Laurence Gallant"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-quebec-solidaire-a-une-equipe-complete-dans-la-region-du-bas-saint-laurent/",
+     "date": "2026-09-04T16:32-04:00"
+    }
+   ],
+   "permalien": "quebec-solidaire-complete-aussi-son-equipe-de-candidats-au-b-450809",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "quebec-solidaire-complete-aussi-son-equipe-de-candidats-au-b-450809"
+  },
+  {
+   "titre": "Sol Zanetti, second visage de Québec solidaire dans cette campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Jean-Lesage)",
+   "medias": "LaPresse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/quebec-solidaire/sol-zanetti-ou-aspirant-vice-premier-ministre.php",
+   "resume": "Sol Zanetti, qui appuie Ruba Ghazal sans lui-même briguer le poste de premier ministre, se décrit à La Presse, mi-blague, comme un aspirant au poste de vice-premier ministre de Québec solidaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/quebec-solidaire/sol-zanetti-ou-aspirant-vice-premier-ministre.php",
+     "auteur": "William Thériault",
+     "date": "2026-09-04T14:23-04:00"
+    }
+   ],
+   "permalien": "sol-zanetti-l-autre-porte-parole-de-quebec-solidaire-dans-ce-627da6",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "sol-zanetti-l-autre-porte-parole-de-quebec-solidaire-dans-ce-627da6"
+  },
+  {
+   "titre": "Un restaurateur dénonce l'ironie environnementale des pancartes électorales",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "24 heures",
+   "url": "https://www.24heures.ca/2026/09/04/les-pancartes-electorales-sont-elles-vraiment-aussi-polluantes-que-les-fourchettes-et-les-pailles-en-plastique",
+   "resume": "Un entrepreneur copropriétaire de plusieurs chaînes de restaurants dénonce l'incohérence des partis qui réclament la fin des ustensiles en plastique tout en tapissant la province de pancartes électorales.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "24 heures",
+     "url": "https://www.24heures.ca/2026/09/04/les-pancartes-electorales-sont-elles-vraiment-aussi-polluantes-que-les-fourchettes-et-les-pailles-en-plastique",
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Geneviève Abran"
+    }
+   ],
+   "permalien": "un-restaurateur-denonce-l-ironie-environnementale-des-pancar-82fa7c",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "un-restaurateur-denonce-l-ironie-environnementale-des-pancar-82fa7c"
+  },
+  {
+   "titre": "À Sept-Îles et en Minganie, les élus municipaux attendent les partis sur le financement",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Sept-Îles, Minganie (Côte-Nord)",
+   "medias": "Le Nord-Côtier",
+   "url": "https://lenord-cotier.com/2026/09/04/elections-provinciales-2026-les-attentes-dans-sept-rivieres-et-en-minganie/",
+   "resume": "Le maire de Sept-Îles souhaite que la campagne aborde l'accès aux programmes d'aide financière du gouvernement pour les municipalités, une attente partagée par la mairesse de Port-Cartier et le préfet suppléant de la MRC de Minganie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/04/elections-provinciales-2026-les-attentes-dans-sept-rivieres-et-en-minganie/",
+     "auteur": "Vincent Rioux-Berrouard",
+     "date": "2026-09-04T14:23-04:00"
+    }
+   ],
+   "permalien": "a-sept-iles-et-en-minganie-les-elus-municipaux-attendent-les-3d9a93",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "a-sept-iles-et-en-minganie-les-elus-municipaux-attendent-les-3d9a93"
+  },
+  {
+   "titre": "La CAQ promet de relancer le prolongement de l'autoroute 20 dans le Bas-Saint-Laurent",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Rimouski, Rivière-du-Loup (Bas-Saint-Laurent)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+   "resume": "Les candidates caquistes Julia Brillant-Ruest (Rimouski) et Amélie Dionne (Rivière-du-Loup–Témiscouata–Les Basques) s'engagent à relancer les études pour prolonger l'autoroute 20 depuis Le Bic, sans toutefois avancer d'échéancier, de tracé ni de coût, ce qui laisse un comité de citoyens sur sa faim.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:21-04:00",
+   "sources": [
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "auteur": "Patricia Rainville",
+     "date": "2026-09-04T14:23-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Patricia Rainville"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Patricia Rainville"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Patricia Rainville"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Patricia Rainville"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/prolongement-de-la-20-des-citoyens-veulent-un-calendrier-pas-seulement-des-etudes-7CUKTPEQ5JAPPGGR5CO6T5RWJ4/",
+     "date": "2026-09-04T14:23-04:00",
+     "auteur": "Patricia Rainville"
+    }
+   ],
+   "permalien": "la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-aa18ec",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "la-caq-promet-de-relancer-le-prolongement-de-l-autoroute-20-aa18ec"
+  },
+  {
+   "titre": "Québec solidaire dévoile sa feuille de route pour les 100 premiers jours d'un éventuel gouvernement solidaire",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québec solidaire (communiqué)",
+   "url": "https://api-wp.quebecsolidaire.net/articles/100-jours-pour-changer-le-quebec-ruba-ghazal-et-sol-zanetti-presentent-la-feuille-de-route-des-100-premiers-jours-dun-gouvernement-solidaire/",
+   "resume": "Logement, épicerie, école : ce que Québec solidaire promet pour ses cent premiers jours.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T16:30-04:00",
+   "sources": [
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/100-jours-pour-changer-le-quebec-ruba-ghazal-et-sol-zanetti-presentent-la-feuille-de-route-des-100-premiers-jours-dun-gouvernement-solidaire/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/un-gouvernement-de-quebec-solidaire-aidera-les-jeunes-a-devenir-proprietaires/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/cest-possible-quebec-solidaire-fera-campagne-sur-le-theme-de-lespoir-et-de-lambition/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/quebec-solidaire-veut-reparer-et-developper-le-transport-collectif/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/soutenir-riposter-et-batir-quebec-solidaire-devoile-son-plan-face-a-la-guerre-tarifaire-de-trump/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/quebec-solidaire-veut-reduire-la-facture-depicerie-des-quebecois/",
+     "date": "2026-09-04T16:32-04:00"
+    },
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/rentree-scolaire-un-gouvernement-de-quebec-solidaire-prendra-en-charge-les-fournitures-scolaires-pour-reduire-le-stress-des-parents/",
+     "date": "2026-09-04T16:32-04:00"
+    }
+   ],
+   "permalien": "quebec-solidaire-devoile-sa-feuille-de-route-pour-les-100-pr-f873be",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "quebec-solidaire-devoile-sa-feuille-de-route-pour-les-100-pr-f873be"
+  },
+  {
+   "titre": "L'ex-libérale Sona Lakhoyan Olivier recouvre de ruban adhésif le logo du PLQ sur ses pancartes",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/05/menacee-de-poursuite-par-le-plq-la-candidate-sona-lakhoyan-tente-de-sen-sortir-avec-du-ruban-adhesif",
+   "resume": "Une rupture avec son parti, visible sur chaque pancarte électorale de la candidate.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T16:30-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/05/menacee-de-poursuite-par-le-plq-la-candidate-sona-lakhoyan-tente-de-sen-sortir-avec-du-ruban-adhesif",
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Annabelle Blais et Antoine Robitaille"
+    }
+   ],
+   "permalien": "l-ex-liberale-sona-lakhoyan-olivier-recouvre-de-ruban-adhesi-f1022e",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "l-ex-liberale-sona-lakhoyan-olivier-recouvre-de-ruban-adhesi-f1022e"
+  },
+  {
+   "titre": "La CAQ promet 650 millions $ pour le sport, les gymnases et les cours d'école",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Coalition avenir Québec",
+   "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/04/lequipe-christine-frechette-augmentera-linvestissement-dans-les-infrastructures-recreatives-sportives-et-de-plein-air/",
+   "resume": "Combien de gymnases et de cours d'école rénovées ces 650 millions changeront-ils vraiment ?",
+   "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/04/lequipe-christine-frechette-augmentera-linvestissement-dans-les-infrastructures-recreatives-sportives-et-de-plein-air/",
+     "date": "2026-09-04T00:00-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T18:05-04:00",
+   "image_auto": "aucune",
+   "permalien": "la-caq-promet-650-millions-pour-le-sport-les-gymnases-et-les-314b26",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "la-caq-promet-650-millions-pour-le-sport-les-gymnases-et-les-314b26"
+  },
+  {
+   "titre": "Le PQ veut annuler la baisse de TVQ de la CAQ pour financer l'aide alimentaire",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Parti Québécois",
+   "url": "https://pq.org/nouvelles/le-parti-quebecois-va-investir-100-millions-de-dollars-supplementaire-pour-financer-laide-et-la-securite-alimentaire/",
+   "resume": "Ce que ça changerait pour les enfants qui arrivent à l'école le ventre vide.",
+   "sources": [
+    {
+     "media": "Parti Québécois",
+     "url": "https://pq.org/nouvelles/le-parti-quebecois-va-investir-100-millions-de-dollars-supplementaire-pour-financer-laide-et-la-securite-alimentaire/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Emmanuel Renaud"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T18:05-04:00",
+   "image_auto": "aucune",
+   "permalien": "le-pq-veut-annuler-la-baisse-de-tvq-de-la-caq-pour-financer-51b4aa",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-pq-veut-annuler-la-baisse-de-tvq-de-la-caq-pour-financer-51b4aa"
+  },
+  {
+   "titre": "Christine Fréchette promet un bulletin de vote bilingue, Élections Québec dit ne rien avoir à traduire",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Montreal Gazette",
+   "url": "https://montrealgazette.com/quebec-elections/quebec-election-bilingual-ballot-french-mailouts-frechette/",
+   "resume": "Reste à savoir si cette promesse suffira à éteindre la contestation qui monte.",
+   "sources": [
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/quebec-elections/quebec-election-bilingual-ballot-french-mailouts-frechette/",
+     "date": "2026-09-04T15:20-04:00",
+     "auteur": "Kalina Laframboise"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T18:05-04:00",
+   "image_auto": "aucune",
+   "permalien": "christine-frechette-promet-un-bulletin-de-vote-bilingue-elec-e26690",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "christine-frechette-promet-un-bulletin-de-vote-bilingue-elec-e26690"
+  },
+  {
+   "titre": "Le PQ dit vouloir une politique d'immigration plus nuancée pour les PME",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec (Saguenay–Lac-Saint-Jean)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+   "resume": "St-Pierre Plamondon assouplit le ton, mais reste flou sur le sort des multinationales.",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/immigration-et-economie-pspp-sengage-a-y-aller-de-maniere-plus-granulaire-C2QVBARCTZFMDIBNURPL77AC2U/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Mickaël Meunier"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "le-pq-dit-vouloir-une-politique-d-immigration-plus-nuancee-p-0aeb3a",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-pq-dit-vouloir-une-politique-d-immigration-plus-nuancee-p-0aeb3a"
+  },
+  {
+   "titre": "Le Parti québécois lance sa campagne devant plus de 2000 militants à Québec",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "Coops de l'information, LaPresse",
+   "url": "https://www.lavoixdelest.ca/chroniques/valerie-gaudreau/2026/09/04/dungava-a-limoilou-les-militants-pequistes-convergent-vers-quebec-LYTICUUTYJA4LBGP7D2ZWBJ6RU/",
+   "resume": "Mise à jour, 21 h — Il a fallu attendre la 18e minute de son discours pour qu'il nomme son engagement phare.",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/chroniques/valerie-gaudreau/2026/09/04/dungava-a-limoilou-les-militants-pequistes-convergent-vers-quebec-LYTICUUTYJA4LBGP7D2ZWBJ6RU/",
+     "date": "2026-09-04T19:15-04:00",
+     "auteur": "Valérie Gaudreau"
+    },
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-04/troisieme-referendum-sur-la-souverainete/je-vais-tenir-parole-promet-paul-st-pierre-plamondon.php",
+     "date": "2026-09-04T21:22-04:00",
+     "auteur": "Fanny Lévesque"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T21:22-04:00",
+   "permalien": "le-parti-quebecois-lance-sa-campagne-devant-plus-de-2000-mil-6598ae",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-parti-quebecois-lance-sa-campagne-devant-plus-de-2000-mil-6598ae"
+  },
+  {
+   "titre": "Plus de 40 acteurs forestiers réclament un pacte électoral pour le bois québécois",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280825/election-industrie-forestiere-tarifs-dumping",
+   "resume": "Frappée par les tarifs américains et le dumping asiatique, la filière presse les partis d'en faire une priorité.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280825/election-industrie-forestiere-tarifs-dumping",
+     "date": "2026-09-04T17:18-04:00",
+     "auteur": "Véronique Duval"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "plus-de-40-acteurs-forestiers-reclament-un-pacte-electoral-p-3c7693",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "plus-de-40-acteurs-forestiers-reclament-un-pacte-electoral-p-3c7693"
+  },
+  {
+   "titre": "En visite à Gatineau, Christine Fréchette évite de se prononcer sur l'avenir du tramway",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Le Droit",
+   "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/projet-de-tramway-christine-frechette-ne-sengage-pas-GTHIZ6ZZLNAPXKYVAAYX7AZF64/",
+   "resume": "Pendant que Québec attend l'analyse du dossier, le cégep et l'hôpital de la région réclament aussi leur tour.",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/04/projet-de-tramway-christine-frechette-ne-sengage-pas-GTHIZ6ZZLNAPXKYVAAYX7AZF64/",
+     "date": "2026-09-04T19:05-04:00",
+     "auteur": "Sarah-Jeanne Tremblay"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/education/2026/09/04/pas-de-cegep-pas-dhopital-loutaouais-simpatiente-77EN3KAQTJBAXORFMIYFAL4Y4I/",
+     "date": "2026-09-04T15:53-04:00",
+     "auteur": "Daniel LeBlanc"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "en-visite-a-gatineau-christine-frechette-evite-de-se-prononc-d70870",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "en-visite-a-gatineau-christine-frechette-evite-de-se-prononc-d70870"
+  },
+  {
+   "titre": "Québec solidaire promet de rémunérer tous les stages obligatoires aux études",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Saguenay (Saguenay–Lac-Saint-Jean)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/des-stages-obligatoires-remuneres-promet-quebec-solidaire-MNK7YJD3Q5G6JBSRSVMGJZ4GQI/",
+   "resume": "Un engagement chiffré à un demi-milliard, que plusieurs étudiants attendaient depuis longtemps selon la co-porte-parole solidaire.",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/04/des-stages-obligatoires-remuneres-promet-quebec-solidaire-MNK7YJD3Q5G6JBSRSVMGJZ4GQI/",
+     "date": "2026-09-04T19:18-04:00",
+     "auteur": "Pierre-Olivier Poulin"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "quebec-solidaire-promet-de-remunerer-tous-les-stages-obligat-29ef69",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "quebec-solidaire-promet-de-remunerer-tous-les-stages-obligat-29ef69"
+  },
+  {
+   "titre": "La CAQ trouve une nouvelle candidate dans Ungava après le retrait de Paul Dadie",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Ungava (Nord-du-Québec)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280784/election-quebec2026-amelie-bechard-caq-ungava",
+   "resume": "L'ingénieure forestière Amélie Béchard hérite d'une circonscription que son prédécesseur a quittée après des propos jugés embarrassants.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280784/election-quebec2026-amelie-bechard-caq-ungava",
+     "date": "2026-09-04T16:51-04:00",
+     "auteur": "Marc-André Landry"
+    }
+   ],
+   "photo": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "permalien": "la-caq-trouve-une-nouvelle-candidate-dans-ungava-apres-le-re-7d73fe",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "la-caq-trouve-une-nouvelle-candidate-dans-ungava-apres-le-re-7d73fe"
+  },
+  {
+   "titre": "Conseiller municipal du Canton de Roxton, Tony Martel brigue Daniel-Johnson pour Québec solidaire",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Daniel-Johnson)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280869/tony-martel-candidat-qs-daniel-johnson",
+   "resume": "Conseiller municipal du Canton de Roxton, il fait de la protection des terres agricoles son cheval de bataille.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T21:22-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280869/tony-martel-candidat-qs-daniel-johnson",
+     "date": "2026-09-04T21:22-04:00",
+     "auteur": "Sarah Arsenault"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "conseiller-municipal-du-canton-de-roxton-tony-martel-brigue-03b417",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "conseiller-municipal-du-canton-de-roxton-tony-martel-brigue-03b417"
+  },
+  {
+   "titre": "Une coalition sportive presse les partis de s'engager avant le vote sur l'avenir du sport québécois",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10753230/enjeu-campagne-rendre-quebec-plus-actif",
+   "resume": "Une coalition sportive presse les partis de s'engager avant le vote sur l'avenir du sport québécois.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T23:23-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10753230/enjeu-campagne-rendre-quebec-plus-actif",
+     "date": "2026-09-04T21:42-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-coalition-sportive-presse-les-partis-de-s-engager-avant-36ee62",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "une-coalition-sportive-presse-les-partis-de-s-engager-avant-36ee62"
+  },
+  {
+   "titre": "Le fondateur de Qc125 estime qu'aucun parti n'est pleinement satisfait de ses appuis en campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/799967/les-electeurs-quebecois-ne-sont-pas-encore-embarques-dans-la-campagne",
+   "resume": "Chaque parti aurait sa propre raison d'être mécontent de ses appuis, selon le fondateur de Qc125.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T23:23-04:00",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799967/les-electeurs-quebecois-ne-sont-pas-encore-embarques-dans-la-campagne",
+     "date": "2026-09-04T16:37-04:00",
+     "auteur": "Larry Dufresne et Alexandre Lebrun"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-fondateur-de-qc125-estime-qu-aucun-parti-n-est-pleinement-15aa71",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-fondateur-de-qc125-estime-qu-aucun-parti-n-est-pleinement-15aa71"
+  },
+  {
+   "titre": "Vote par correspondance : l'administration Trump retourne devant la Cour suprême à deux mois des législatives de mi-mandat",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada, Le Monde, La Presse",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280479/donald-trump-vote-correspondance-restrictions",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280479/donald-trump-vote-correspondance-restrictions",
+     "date": "2026-09-04T05:12-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/a-deux-mois-des-elections-de-mi-mandat-l-administration-trump-repart-a-l-offensive-sur-le-vote-par-correspondance_6765288_3210.html",
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-03/devant-la-cour-supreme/l-administration-trump-redemande-la-restriction-du-vote-par-correspondance.php",
+     "date": "2026-09-04T05:12-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/05/aux-etats-unis-une-bataille-juridique-intense-se-joue-autour-du-vote-par-correspondance-pour-les-midterms_6765962_3210.html",
+     "date": "2026-09-04T22:03-04:00",
+     "auteur": "Agence France-Presse et Associated Press"
+    }
+   ],
+   "resume": "Mise à jour, 22 h 03 — Une juge prolonge le blocage jusqu'au scrutin, sans garantie que les bulletins arrivent à temps.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T22:03-04:00",
+   "permalien": "a-deux-mois-des-elections-de-mi-mandat-l-administration-trum-f6544b",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "a-deux-mois-des-elections-de-mi-mandat-l-administration-trum-f6544b"
+  },
+  {
+   "titre": "Le péquiste François Gariépy s'excuse pour ses « propos regrettables » envers une animatrice",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Charlevoix–Côte-de-Beaupré)",
+   "medias": "Le Journal de Québec",
+   "url": "https://www.journaldequebec.com/2026/09/03/le-pequiste-francois-gariepy-se-confie-a-richard-martineau-sur-ses--propos-regrettables",
+   "resume": "Mise à jour, 19 h — Une chronique radio de juillet ressurgit, et le PQ accuse la CAQ de fouiller ses archives pour distraire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T19:27-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/03/le-pequiste-francois-gariepy-se-confie-a-richard-martineau-sur-ses--propos-regrettables",
+     "date": "2026-09-03T17:19-04:00",
+     "auteur": "Marc-André Gagnon"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/nouvelles/798470/francois-gariepy-est-un-allie-du-3e-lien-selon-une-candidate-du-pcq",
+     "date": "2026-09-04T03:28-04:00",
+     "auteur": "Félix-Antoine Bétil"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/chroniques/mickael-bergeron/2026/09/04/propos-controverses-distraction-ou-erreur-de-jugement-des-chefs-KED4HWR3ZJDLHPDEQDRKEXZPVQ/",
+     "date": "2026-09-04T05:00-04:00",
+     "auteur": "Mickaël Bergeron"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280724/francois-gariepy-trump-radio-x-charlevoix",
+     "date": "2026-09-04T16:30-04:00",
+     "auteur": "Jonathan Lavoie"
+    }
+   ],
+   "permalien": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5",
+   "image_auto": "aucune",
+   "_fichier": "revue-report-2026-09-05.json",
+   "_volet": "report",
+   "_slug": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5"
+  }
+ ]
+}
