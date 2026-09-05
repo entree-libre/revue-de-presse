@@ -184,6 +184,8 @@ html[data-theme="contraste"] .fac.on{text-decoration:none}
    Collante sous les cahiers ; une fois qu'on a defile (html.defile), elle se
    replie sur ses seules pastilles cochees et son libelle — l'outil reste sous
    la main sans manger l'ecran. Un clic sur un libelle la deplie. */
+.fac-sentinelle{height:0;margin:0;padding:0;border:0}
+html{overflow-anchor:none}
 nav.facettes{position:sticky;top:var(--h-cahiers-reelle,5rem);z-index:28;background:var(--bg);
  padding:.35rem 0 .4rem;border-bottom:1px solid var(--rule);margin:0 0 .5rem;
  display:flex;flex-direction:column;gap:.15rem;font-family:var(--ui)}

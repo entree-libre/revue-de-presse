@@ -283,13 +283,39 @@ function regrouper(mode,silencieux){
    naturelle — jamais avant qu'elle ne se colle : un lecteur qui descend vers
    la liste la trouve entiere. Un clic sur un libelle la deplie sur place. */
 var defileEtat=false;
+/* Repli de la barre — refait le 5 sept. 2026. L'ancienne regle (« collee si
+   son bord haut touche sa butee ») se mordait la queue : la barre repliee
+   perd cent pixels de haut, le contenu remonte d'autant, le navigateur (ou
+   le lecteur) compense, la barre se decolle, se redeplie, recolle... et la
+   page sautille tant qu'on reste a cet endroit. Trois changements :
+   1. la decision se prend sur une SENTINELLE placee juste avant la barre,
+      dans le flux : sa position ne depend pas de la hauteur de la barre ;
+   2. hysteresis : on replie quand la sentinelle passe sous la butee, on
+      redeplie seulement quand elle est redescendue de toute la hauteur
+      perdue plus une marge — les deux seuils ne peuvent pas se toucher ;
+   3. on compense nous-memes le defilement de la hauteur perdue ou reprise,
+      pour que le texte sous la barre ne bouge pas d'un pixel — et
+      overflow-anchor:none (CSS) empeche le navigateur d'en faire autant. */
+var defileDelta=0, defileGarde=false;
 function defiler(){
+ if(defileGarde)return;
  var f=document.getElementById('facettes');if(!f)return;
  if(getComputedStyle(f).position!=='sticky'){if(defileEtat){defileEtat=false;H.classList.remove('defile');}return;}
- var haut=f.getBoundingClientRect().top, cible=parseFloat(getComputedStyle(f).top)||0;
- var colle=haut<=cible+1;
- if(colle&&!defileEtat){defileEtat=true;H.classList.add('defile');setTimeout(hauteurEntete,30);}
- else if(!colle&&defileEtat){defileEtat=false;H.classList.remove('defile');f.classList.remove('ouvert');setTimeout(hauteurEntete,30);}}
+ var s=document.getElementById('fac-sentinelle'), rep=s?s.getBoundingClientRect().top:f.getBoundingClientRect().top;
+ var cible=parseFloat(getComputedStyle(f).top)||0;
+ if(!defileEtat&&rep<=cible){
+   var h0=f.getBoundingClientRect().height;
+   defileEtat=true;H.classList.add('defile');
+   var h1=f.getBoundingClientRect().height;
+   defileDelta=Math.max(0,Math.round(h0-h1));
+   if(defileDelta){defileGarde=true;window.scrollBy(0,-defileDelta);setTimeout(function(){defileGarde=false;},50);}
+   setTimeout(hauteurEntete,30);}
+ else if(defileEtat&&rep>cible+defileDelta+24){
+   var h2=f.getBoundingClientRect().height;
+   defileEtat=false;H.classList.remove('defile');f.classList.remove('ouvert');
+   var h3=f.getBoundingClientRect().height, d=Math.max(0,Math.round(h3-h2));
+   if(d){defileGarde=true;window.scrollBy(0,d);setTimeout(function(){defileGarde=false;},50);}
+   defileDelta=0;setTimeout(hauteurEntete,30);}}
 window.addEventListener('scroll',defiler,{passive:true});
 /* Une barre depliee a la main (ou gardee ouverte apres un filtre) se referme
    des que le lecteur reprend le defilement lui-meme. */
