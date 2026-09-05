@@ -6,6 +6,31 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-presse-les-quatre-autres-chefs-d-agir-pour-ec970c.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-solidaire-presse-les-quatre-autres-chefs-d-agir-pour-ec970c.html",
+   "title": "Québec solidaire presse les quatre autres chefs d'agir pour la sécurité des femmes autochtones",
+   "content_text": "Reste à savoir si les autres chefs répondront avant la fin de la campagne.",
+   "date_modified": "2026-09-05T17:20:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Justice et sécurité publique"
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Sol_Zanetti_-_2019-09-27.jpg"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5.html",
+   "title": "Le péquiste François Gariépy, absent de tous les événements de campagne de son chef depuis dix jours",
+   "content_text": "Mise à jour, 17 h — Paul St-Pierre Plamondon nie l'avoir écarté, mais le candidat reste invisible sur le terrain.",
+   "date_modified": "2026-09-05T17:20:00-04:00",
+   "tags": [
+    "Québec (Charlevoix–Côte-de-Beaupré)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-05/a/frechette-accuse-le-pq-de-camoufler-le-mot-referendum-0a5321.html",
    "url": "https://entreelibre.ca/edition/2026-09-05/a/frechette-accuse-le-pq-de-camoufler-le-mot-referendum-0a5321.html",
    "title": "Fréchette accuse le PQ de camoufler le mot référendum",
@@ -962,30 +987,6 @@
     "Stornoway (Estrie)",
     "Québec et ses régions",
     "Justice et sécurité publique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-05/a/magog-ouvre-la-voie-a-une-future-maison-de-soins-palliatifs-f0cb4c.html",
-   "url": "https://entreelibre.ca/edition/2026-09-05/a/magog-ouvre-la-voie-a-une-future-maison-de-soins-palliatifs-f0cb4c.html",
-   "title": "Magog ouvre la voie à une future maison de soins palliatifs",
-   "content_text": "Le terrain n’a pas encore de projet déposé, mais la Ville modifie déjà son zonage pour l’accueillir.",
-   "date_modified": "2026-09-05T07:26:00-04:00",
-   "tags": [
-    "Magog (Estrie)",
-    "Québec et ses régions",
-    "Santé et services sociaux"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-cegep-de-loutaouais-reclame-lespace-pour-tripler-sa-capac-d82008.html",
-   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-cegep-de-loutaouais-reclame-lespace-pour-tripler-sa-capac-d82008.html",
-   "title": "Le Cégep de l’Outaouais réclame l’espace pour tripler sa capacité en santé",
-   "content_text": "Près d’une demande sur trois est refusée depuis trois ans, faute de place dans les programmes de santé.",
-   "date_modified": "2026-09-05T07:26:00-04:00",
-   "tags": [
-    "Gatineau (Outaouais)",
-    "Québec et ses régions",
-    "Éducation"
    ]
   }
  ]
