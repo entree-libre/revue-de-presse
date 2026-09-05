@@ -690,7 +690,7 @@
    "cahier": "elections",
    "rubrique": "sante",
    "territoire": "Saguenay–Lac-Saint-Jean",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, La Presse",
    "url": "https://ici.radio-canada.ca/nouvelle/2280937/promesse-quebec-solidaire-sante-election-campagne",
    "resume": "Ce que ça changerait pour qui erre aujourd'hui entre 811, GAP et cliniques privées.",
    "photo": "",
@@ -707,6 +707,12 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/communique-de-presse/quebec-solidaire-va-refaire-des-clsc-la-porte-dentree-du-systeme-de-sante/",
      "date": "2026-09-05T10:19-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/chantier-de-1-8-milliard-par-annee/plus-de-250-nouveaux-clsc-pour-la-premiere-ligne-propose-qs.php",
+     "auteur": "William Thériault",
+     "date": "2026-09-05T14:26-04:00"
     }
    ],
    "permalien": "quebec-solidaire-promet-un-reseau-de-400-clsc-pour-desengorg-2194ff",
@@ -720,9 +726,9 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "La Presse",
+   "medias": "La Presse, Le Soleil",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/le-pq-cache-le-mot-referendum-pour-paraitre-plus-soft-accuse-frechette.php",
-   "resume": "Elle dénonce l'euphémisme du PQ mais refuse toute alliance pour empêcher la tenue de ce référendum.",
+   "resume": "Mise à jour, 14 h — Le chef péquiste jure ne rien cacher, et retourne l'accusation vers le nouveau logo de ses rivaux.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -731,9 +737,45 @@
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/le-pq-cache-le-mot-referendum-pour-paraitre-plus-soft-accuse-frechette.php",
      "auteur": "Tommy Chouinard",
      "date": "2026-09-05T11:56-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/05/je-ne-cache-pas-le-nom-de-mon-parti-replique-pspp-3NGTMBDHFRELTOBLQLRTMWGAV4/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/05/je-ne-cache-pas-le-nom-de-mon-parti-replique-pspp-3NGTMBDHFRELTOBLQLRTMWGAV4/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/05/je-ne-cache-pas-le-nom-de-mon-parti-replique-pspp-3NGTMBDHFRELTOBLQLRTMWGAV4/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/05/je-ne-cache-pas-le-nom-de-mon-parti-replique-pspp-3NGTMBDHFRELTOBLQLRTMWGAV4/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/05/je-ne-cache-pas-le-nom-de-mon-parti-replique-pspp-3NGTMBDHFRELTOBLQLRTMWGAV4/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/05/je-ne-cache-pas-le-nom-de-mon-parti-replique-pspp-3NGTMBDHFRELTOBLQLRTMWGAV4/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-05T14:26-04:00"
     }
    ],
-   "horodate": "2026-09-05T12:18-04:00",
+   "horodate": "2026-09-05T14:26-04:00",
    "permalien": "frechette-accuse-le-pq-de-camoufler-le-mot-referendum-0a5321",
    "image_auto": "aucune",
    "_volet": "elections",
@@ -787,6 +829,120 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "quebec-solidaire-complete-ses-candidatures-en-centre-du-queb-9547d2"
+  },
+  {
+   "titre": "Milliard dit que Fréchette gonfle à 25 000 ses places en garderie",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "La Presse, Le Soleil",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/milliard-accuse-frechette-de-mentir-sur-les-garderies.php",
+   "resume": "Reste à savoir combien de ces places seront vraiment neuves d'ici le jour du vote.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T14:26-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/milliard-accuse-frechette-de-mentir-sur-les-garderies.php",
+     "auteur": "Gabriel Béland et Tommy Chouinard",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/05/milliard-accuse-frechette-detre-prete-a-dire-nimporte-quoi-CLYJPWJ6BBC5PN5M6UDXVJEZ5M/",
+     "auteur": "Gabrielle Cantin",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/05/milliard-accuse-frechette-detre-prete-a-dire-nimporte-quoi-CLYJPWJ6BBC5PN5M6UDXVJEZ5M/",
+     "auteur": "Gabrielle Cantin",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/05/milliard-accuse-frechette-detre-prete-a-dire-nimporte-quoi-CLYJPWJ6BBC5PN5M6UDXVJEZ5M/",
+     "auteur": "Gabrielle Cantin",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/05/milliard-accuse-frechette-detre-prete-a-dire-nimporte-quoi-CLYJPWJ6BBC5PN5M6UDXVJEZ5M/",
+     "auteur": "Gabrielle Cantin",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/05/milliard-accuse-frechette-detre-prete-a-dire-nimporte-quoi-CLYJPWJ6BBC5PN5M6UDXVJEZ5M/",
+     "auteur": "Gabrielle Cantin",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/05/milliard-accuse-frechette-detre-prete-a-dire-nimporte-quoi-CLYJPWJ6BBC5PN5M6UDXVJEZ5M/",
+     "auteur": "Gabrielle Cantin",
+     "date": "2026-09-05T14:26-04:00"
+    }
+   ],
+   "permalien": "milliard-dit-que-frechette-gonfle-a-25-000-ses-places-en-gar-4bc0bf",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "milliard-dit-que-frechette-gonfle-a-25-000-ses-places-en-gar-4bc0bf"
+  },
+  {
+   "titre": "Le Parti québécois s'engage à bloquer les salaires des élus jusqu'à l'équilibre budgétaire",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir, La Presse",
+   "url": "https://www.ledevoir.com/politique/quebec/1006847/pq-gelerait-salaires-deputes-ministres-p-g-societes-etat",
+   "resume": "Certains dirigeants touchent leur boni même quand les résultats de leur société reculent, dénonce le chef péquiste.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T14:26-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006847/pq-gelerait-salaires-deputes-ministres-p-g-societes-etat",
+     "auteur": "Mathilde Beaulieu-Lépine",
+     "date": "2026-09-05T14:26-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/efficacite-de-l-etat/le-pq-promet-de-geler-le-salaire-des-elus-et-des-hauts-dirigeants.php",
+     "auteur": "Fanny Lévesque et Tommy Chouinard",
+     "date": "2026-09-05T14:26-04:00"
+    }
+   ],
+   "permalien": "le-parti-quebecois-s-engage-a-bloquer-les-salaires-des-elus-3e6945",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "le-parti-quebecois-s-engage-a-bloquer-les-salaires-des-elus-3e6945"
+  },
+  {
+   "titre": "Le PQ veut évincer le gestionnaire actuel du Mont-Sainte-Anne",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Mont-Sainte-Anne (Côte-de-Beaupré)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280977/promesse-gestion-msa-resorts-canadian-rockies",
+   "resume": "Reste à voir jusqu'où Québec ira pour écarter l'actuel gestionnaire de la montagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T14:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280977/promesse-gestion-msa-resorts-canadian-rockies",
+     "auteur": "Marie-Christine Gagnon",
+     "date": "2026-09-05T14:26-04:00"
+    }
+   ],
+   "permalien": "le-pq-veut-evincer-le-gestionnaire-actuel-du-mont-sainte-ann-aa4f80",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "le-pq-veut-evincer-le-gestionnaire-actuel-du-mont-sainte-ann-aa4f80"
   },
   {
    "titre": "Ville-Marie célébrera des mariages dans son bureau Accès Montréal et autorise une tour de 18 étages",
