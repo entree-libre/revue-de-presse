@@ -735,6 +735,7 @@
    ],
    "horodate": "2026-09-05T12:18-04:00",
    "permalien": "frechette-accuse-le-pq-de-camoufler-le-mot-referendum-0a5321",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "frechette-accuse-le-pq-de-camoufler-le-mot-referendum-0a5321"
@@ -758,6 +759,7 @@
    ],
    "horodate": "2026-09-05T12:18-04:00",
    "permalien": "quebec-solidaire-propose-de-fixer-le-seuil-d-immigration-per-e8d04c",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "quebec-solidaire-propose-de-fixer-le-seuil-d-immigration-per-e8d04c"
@@ -781,6 +783,7 @@
    ],
    "horodate": "2026-09-05T12:18-04:00",
    "permalien": "quebec-solidaire-complete-ses-candidatures-en-centre-du-queb-9547d2",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "quebec-solidaire-complete-ses-candidatures-en-centre-du-queb-9547d2"
@@ -1001,6 +1004,7 @@
     }
    ],
    "permalien": "kruger-procedera-a-des-tirs-de-dynamitage-la-semaine-prochai-f527f2",
+   "image_auto": "aucune",
    "_volet": "local",
    "_fichier": "revue-local-2026-09-05.json",
    "_slug": "kruger-procedera-a-des-tirs-de-dynamitage-la-semaine-prochai-f527f2"
@@ -1175,6 +1179,7 @@
     }
    ],
    "permalien": "le-boulevard-thibeau-fermera-a-quatre-reprises-la-semaine-pr-984266",
+   "image_auto": "aucune",
    "_volet": "local",
    "_fichier": "revue-local-2026-09-05.json",
    "_slug": "le-boulevard-thibeau-fermera-a-quatre-reprises-la-semaine-pr-984266"
@@ -1198,9 +1203,159 @@
     }
    ],
    "permalien": "une-entrave-routiere-touchera-un-secteur-de-saint-armand-jus-f69807",
+   "image_auto": "aucune",
    "_volet": "local",
    "_fichier": "revue-local-2026-09-05.json",
    "_slug": "une-entrave-routiere-touchera-un-secteur-de-saint-armand-jus-f69807"
+  },
+  {
+   "titre": "Une partie de la rue Saint-Laurent sera fermée au stationnement à Lévis le 12 septembre",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Lévis (Chaudière-Appalaches)",
+   "medias": "Ville de Lévis",
+   "url": "https://levis.ca/fr/ville/decouvrir-levis/nos-actualites/entraves-a-la-circulation-lors-de-levenement-levis-interculturelle-le-12-septembre-secteur-levis",
+   "resume": "Le secteur reste sujet à des changements de dernière minute, prévient la Ville de Lévis.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rue_Saint-Laurent%2C_Levis_004.JPG",
+   "legende": "La rue Saint-Laurent, à Lévis.",
+   "photo_auteur": "Jeangagnon",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-05T13:42-04:00",
+   "sources": [
+    {
+     "media": "Ville de Lévis",
+     "url": "https://levis.ca/fr/ville/decouvrir-levis/nos-actualites/entraves-a-la-circulation-lors-de-levenement-levis-interculturelle-le-12-septembre-secteur-levis",
+     "date": "2026-09-05T13:42-04:00"
+    }
+   ],
+   "permalien": "une-partie-de-la-rue-saint-laurent-sera-fermee-au-stationnem-9b7664",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-05.json",
+   "_slug": "une-partie-de-la-rue-saint-laurent-sera-fermee-au-stationnem-9b7664"
+  },
+  {
+   "titre": "L'Université de Montréal accueille sa première cohorte en médecine au campus des Laurentides, à Saint-Jérôme",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Saint-Jérôme (Laurentides)",
+   "medias": "Université de Montréal",
+   "url": "https://medecine.umontreal.ca/2026/09/03/le-campus-des-laurentides-prend-son-envol/",
+   "resume": "Le reste de la première cohorte termine sa préparation à Montréal avant de s'installer l'an prochain.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/20181016_-_59_-_Saint-J%C3%A9r%C3%B4me.jpg",
+   "legende": "La cathédrale de Saint-Jérôme, vue du parc Labelle.",
+   "photo_auteur": "Andre Carrotflower",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-05T13:42-04:00",
+   "sources": [
+    {
+     "media": "Université de Montréal",
+     "url": "https://medecine.umontreal.ca/2026/09/03/le-campus-des-laurentides-prend-son-envol/",
+     "date": "2026-09-05T13:42-04:00"
+    }
+   ],
+   "permalien": "l-universite-de-montreal-accueille-sa-premiere-cohorte-en-me-c454a4",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-05.json",
+   "_slug": "l-universite-de-montreal-accueille-sa-premiere-cohorte-en-me-c454a4"
+  },
+  {
+   "titre": "Sherbrooke nomme Élyse Ménard directrice générale adjointe, responsable de l'aménagement du territoire",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Sherbrooke (Estrie)",
+   "medias": "Ville de Sherbrooke",
+   "url": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/1223/la-ville-de-sherbrooke-accueille-elyse-menard-a-la-direction-generale-adjointe",
+   "resume": "Elle prendra en main l'aménagement, l'environnement et le développement économique de la ville.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/9/98/H%C3%B4tel_de_ville_de_Sherbrooke_-_1.jpg",
+   "legende": "L'hôtel de ville de Sherbrooke.",
+   "photo_auteur": "Cantons-de-l'Est",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-05T13:42-04:00",
+   "sources": [
+    {
+     "media": "Ville de Sherbrooke",
+     "url": "https://www.sherbrooke.ca/fr/vie-municipale/actualites/communiques-de-presse/1223/la-ville-de-sherbrooke-accueille-elyse-menard-a-la-direction-generale-adjointe",
+     "date": "2026-09-05T13:42-04:00"
+    }
+   ],
+   "permalien": "sherbrooke-nomme-elyse-menard-directrice-generale-adjointe-r-cc7d59",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-05.json",
+   "_slug": "sherbrooke-nomme-elyse-menard-directrice-generale-adjointe-r-cc7d59"
+  },
+  {
+   "titre": "Ottawa et la Fédération canadienne des municipalités offrent 67,8 millions pour planter des arbres en ville",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Ensemble du Québec",
+   "medias": "Fonds municipal vert",
+   "url": "https://fondsmunicipalvert.ca/arbres",
+   "resume": "Les municipalités québécoises ont jusqu'au 15 septembre pour présenter une demande à ce fonds fédéral.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Urban_Forestry_%2820240919-FS-LL-017%29.jpg",
+   "legende": "Des arbres nouvellement plantés en milieu urbain.",
+   "photo_auteur": "Forest Service (États-Unis)",
+   "photo_licence": "Public domain",
+   "horodate": "2026-09-05T13:42-04:00",
+   "sources": [
+    {
+     "media": "Fonds municipal vert",
+     "url": "https://fondsmunicipalvert.ca/arbres",
+     "date": "2026-09-05T13:42-04:00"
+    }
+   ],
+   "permalien": "ottawa-et-la-federation-canadienne-des-municipalites-offrent-21ed11",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-05.json",
+   "_slug": "ottawa-et-la-federation-canadienne-des-municipalites-offrent-21ed11"
+  },
+  {
+   "titre": "Saint-Philippe plafonne désormais la longueur des rangées de maisons dans un secteur résidentiel",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Saint-Philippe (Montérégie)",
+   "medias": "Ville de Saint-Philippe",
+   "url": "https://ville.saintphilippe.quebec/2026/09/02/avis-public-entree-en-vigueur-du-reglement-501-35/",
+   "resume": "Le même règlement permet aussi de plus grands perrons sur deux rues du secteur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T13:42-04:00",
+   "sources": [
+    {
+     "media": "Ville de Saint-Philippe",
+     "url": "https://ville.saintphilippe.quebec/2026/09/02/avis-public-entree-en-vigueur-du-reglement-501-35/",
+     "date": "2026-09-05T13:42-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "saint-philippe-plafonne-desormais-la-longueur-des-rangees-de-ef2d83",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-05.json",
+   "_slug": "saint-philippe-plafonne-desormais-la-longueur-des-rangees-de-ef2d83"
+  },
+  {
+   "titre": "Richelieu revoit ses règles sur les logements accessoires, les piscines et les bâtiments de cour",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Richelieu (Montérégie)",
+   "medias": "Ville de Richelieu",
+   "url": "https://ville.richelieu.qc.ca/avis-public-assemblee-publique-de-consultation/",
+   "resume": "Le règlement pourrait faire l'objet d'un référendum si le nombre requis de signatures est atteint.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Richelieu_%28Qu%C3%A9bec%29-R%C3%A9sidence_sur_la_1i%C3%A8re_rue_%28face_%C3%A0_la_rivi%C3%A8re_Richelieu%29-2022-10-20.jpg",
+   "legende": "Une résidence à Richelieu, face à la rivière Richelieu.",
+   "photo_auteur": "Veillg1",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-05T14:04-04:00",
+   "sources": [
+    {
+     "media": "Ville de Richelieu",
+     "url": "https://ville.richelieu.qc.ca/avis-public-assemblee-publique-de-consultation/",
+     "date": "2026-09-05T14:04-04:00"
+    }
+   ],
+   "permalien": "richelieu-revoit-ses-regles-sur-les-logements-accessoires-le-10aea0",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-05.json",
+   "_slug": "richelieu-revoit-ses-regles-sur-les-logements-accessoires-le-10aea0"
   },
   {
    "titre": "L'Ukraine affirme avoir détruit un lanceur de missiles russe Bastion en Crimée occupée",
