@@ -2,6 +2,7 @@
  "date": "2026-09-05",
  "volets": [
   "elections",
+  "monde",
   "report",
   "savoirs"
  ],
@@ -87,16 +88,1272 @@
    "_slug": "une-remontee-fulgurante-de-la-caq-dans-les-sondages-relance-a765d2"
   },
   {
+   "titre": "Un bassin record de 325 000 jeunes pourra voter pour la première fois le 5 octobre",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280701/nouveaux-adultes-droit-vote-elections-quebec",
+   "resume": "Reste à savoir si cette nouvelle génération d'électeurs bravera son désintérêt pour se rendre aux urnes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T05:27-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280701/nouveaux-adultes-droit-vote-elections-quebec",
+     "auteur": "Benoît Chapdelaine",
+     "date": "2026-09-05T04:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-bassin-record-de-325-000-jeunes-pourra-voter-pour-la-prem-276662",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "un-bassin-record-de-325-000-jeunes-pourra-voter-pour-la-prem-276662"
+  },
+  {
+   "titre": "En Charlevoix, une ex-libérale devenue candidate du PCQ mise sur les régions pour justifier son virage",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Charlevoix",
+   "medias": "Le Soleil",
+   "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/05/caroline-simard-la-candidate-regionaliste-S6YSSZKWDBD5FCYOZUHDNEHOZ4/",
+   "resume": "Reste à savoir si les électeurs de Charlevoix jugeront la candidate sur ses idées ou sur son parcours.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T05:27-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/05/caroline-simard-la-candidate-regionaliste-S6YSSZKWDBD5FCYOZUHDNEHOZ4/",
+     "auteur": "Félix Lajoie",
+     "date": "2026-09-05T04:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "en-charlevoix-une-ex-liberale-devenue-candidate-du-pcq-mise-c4306e",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "en-charlevoix-une-ex-liberale-devenue-candidate-du-pcq-mise-c4306e"
+  },
+  {
+   "titre": "Dans les coulisses de la CAQ, une soixantaine d'employés orchestrent chaque minute de la tournée de Christine Fréchette",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "LaPresse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/incursion-dans-les-war-rooms/la-ou-la-bataille-s-organise/2026-09-05/coalition-avenir-quebec/l-energie-du-miracule.php",
+   "resume": "Jusqu'au choix de rouler ses manches ou d'enlever un bijou, tout est scénarisé pour la cheffe caquiste.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T05:27-04:00",
+   "sources": [
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/incursion-dans-les-war-rooms/la-ou-la-bataille-s-organise/2026-09-05/coalition-avenir-quebec/l-energie-du-miracule.php",
+     "auteur": "Paul Journet",
+     "date": "2026-09-05T05:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "dans-les-coulisses-de-la-caq-une-soixantaine-d-employes-orch-b310a5",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "dans-les-coulisses-de-la-caq-une-soixantaine-d-employes-orch-b310a5"
+  },
+  {
+   "titre": "Le climat, absent des discours de campagne, façonnerait déjà la santé, le logement et l'épicerie",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280667/elections-quebec-climat-environnement-absent-partout",
+   "resume": "Reste à savoir combien de promesses électorales tiendront compte d'une réalité que personne ne nomme.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T05:27-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280667/elections-quebec-climat-environnement-absent-partout",
+     "auteur": "Étienne Leblanc",
+     "date": "2026-09-05T04:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-climat-absent-des-discours-de-campagne-faconnerait-deja-l-56a67b",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "le-climat-absent-des-discours-de-campagne-faconnerait-deja-l-56a67b"
+  },
+  {
+   "titre": "L'Ukraine affirme avoir détruit un lanceur de missiles russe Bastion en Crimée occupée",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "Kyiv Post, Euromaidan Press",
+   "url": "https://www.kyivpost.com/post/83744",
+   "sources": [
+    {
+     "media": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/83744",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Kateryna Zakharchenko"
+    },
+    {
+     "media": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/09/04/ukraine-says-it-struck-a-bastion-in-crimea-the-launcher-russia-pairs-zircon-and-oniks-missiles-on/",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Yuri Zoria"
+    }
+   ],
+   "resume": "Kyiv revendique ce coup au moment même où Washington tente de relancer les pourparlers de paix.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "l-ukraine-affirme-avoir-detruit-un-lanceur-de-missiles-russe-53372f",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "l-ukraine-affirme-avoir-detruit-un-lanceur-de-missiles-russe-53372f"
+  },
+  {
+   "titre": "Kyiv sanctionne deux de ses propres services de sécurité après une fusillade entre agents",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "TV5Monde Info, CNEWS, RFI, TVA Nouvelles",
+   "url": "https://information.tv5monde.com/international/video/guerre-en-ukraine-fusillade-kiev-entre-deux-services-de-securite-volodymyr-zelensky-denonce-une-honte-absolue-2836131",
+   "sources": [
+    {
+     "media": "TV5Monde Info",
+     "url": "https://information.tv5monde.com/international/video/guerre-en-ukraine-fusillade-kiev-entre-deux-services-de-securite-volodymyr-zelensky-denonce-une-honte-absolue-2836131",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-04/ukraine-une-fusillade-eclate-entre-deux-services-de-renseignement-volodymyr",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Benjamin Hausser"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260904-ukraine-apr%C3%A8s-une-fusillade-entre-ses-membres-volodymyr-zelensky-recadre-les-deux-agences-de-renseignement",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/zelensky-recadre-des-services-de-renseignement-rivaux-apres-une-fusillade-entre-agents",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "La rivalité entre espions ukrainiens éclate au grand jour, en pleine semaine de tension avec Moscou.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "kyiv-sanctionne-deux-de-ses-propres-services-de-securite-apr-6614c8",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "kyiv-sanctionne-deux-de-ses-propres-services-de-securite-apr-6614c8"
+  },
+  {
+   "titre": "Les enquêteurs anticorruption ukrainiens visent un haut responsable du parquet général",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Ukraine",
+   "medias": "Euromaidan Press, Ukrinform, Interfax-Ukraine",
+   "url": "https://euromaidanpress.com/2026/09/04/ukraines-anti-corruption-agencies-target-prosecutor-generals-office-official/",
+   "sources": [
+    {
+     "media": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/09/04/ukraines-anti-corruption-agencies-target-prosecutor-generals-office-official/",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Benjamin Murdoch"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-crime/4161001-nabu-sapo-launch-special-operation-to-expose-group-led-by-prosecutor-generals-office-official.html",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1199010.html",
+     "date": "2026-09-05T04:56-04:00"
+    }
+   ],
+   "resume": "Même en pleine guerre, Kyiv continue de traquer la corruption dans ses propres institutions.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "les-enqueteurs-anticorruption-ukrainiens-visent-un-haut-resp-707790",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "les-enqueteurs-anticorruption-ukrainiens-visent-un-haut-resp-707790"
+  },
+  {
+   "titre": "Des responsables européens redoutent une intensification du sabotage russe après l'attaque de Leipzig",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Allemagne, Lituanie, Russie",
+   "medias": "The Guardian, BBC, Euromaidan Press, Le Monde",
+   "url": "https://www.theguardian.com/world/2026/sep/04/germany-russian-visas-eu-countries",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/sep/04/germany-russian-visas-eu-countries",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Kate Connolly, Lorenzo Tondo et Pjotr Sauer"
+    },
+    {
+     "media": "BBC",
+     "url": "https://www.bbc.com/news/articles/c5y4g6meekro",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Sarah Rainsford"
+    },
+    {
+     "media": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/09/05/suspected-sabotage-hits-german-defense-firm/",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Benjamin Murdoch"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/apres-la-tentative-d-attentat-de-leipzig-en-allemagne-l-europe-cherche-a-dissuader-la-russie_6765732_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Sophie Fay et Philippe Jacqué"
+    }
+   ],
+   "resume": "L'Europe cherche encore comment répondre à des attaques qui restent, exprès, sous le seuil de la guerre ouverte.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "des-responsables-europeens-redoutent-une-intensification-du-cf1a46",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "des-responsables-europeens-redoutent-une-intensification-du-cf1a46"
+  },
+  {
+   "titre": "L'Ukraine frappe un dépôt pétrolier russe à Sotchi, une compagnie tanzanienne évite désormais Moscou",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Russie, Ukraine, Tanzanie",
+   "medias": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/sep/05/ukraine-war-briefing-zelenskyy-calls-air-truce-as-kushner-and-witkoff-head-for-kyiv-via-moscow",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/sep/05/ukraine-war-briefing-zelenskyy-calls-air-truce-as-kushner-and-witkoff-head-for-kyiv-via-moscow",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Warren Murray"
+    }
+   ],
+   "resume": "Le ciel russe est devenu assez risqué pour qu'un transporteur d'Afrique de l'Est change sa route.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "l-ukraine-frappe-un-depot-petrolier-russe-a-sotchi-une-compa-4006fd",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "l-ukraine-frappe-un-depot-petrolier-russe-a-sotchi-une-compa-4006fd"
+  },
+  {
+   "titre": "Plus de 120 morts au Yémen dans l'offensive des rebelles houthistes vers un détroit stratégique",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Yémen",
+   "medias": "France 24, TV5Monde Info, Le Monde, La Presse",
+   "url": "https://www.france24.com/fr/info-en-continu/20260904-y%C3%A9men-plus-de-120-morts-dans-l-offensive-des-rebelles-houthis-vers-un-d%C3%A9troit-cl%C3%A9-en-mer-rouge",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260904-y%C3%A9men-plus-de-120-morts-dans-l-offensive-des-rebelles-houthis-vers-un-d%C3%A9troit-cl%C3%A9-en-mer-rouge",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "TV5Monde Info",
+     "url": "https://information.tv5monde.com/international/yemen-plus-de-120-morts-dans-loffensive-des-rebelles-houthis-vers-un-detroit-cle-en-mer-rouge-2836109",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/au-yemen-plus-de-120-morts-depuis-jeudi-dans-l-offensive-des-rebelles-houthistes_6765805_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-04/yemen/plus-de-120-morts-dans-l-offensive-des-rebelles-vers-un-detroit-cle-en-mer-rouge.php",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Le contrôle de ce passage maritime vaut, à lui seul, des centaines de vies depuis jeudi.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Bab-el-Mandeb_Strait%2C_Africa-Arabia_%28ASTER%29.jpg/1280px-Bab-el-Mandeb_Strait%2C_Africa-Arabia_%28ASTER%29.jpg",
+   "legende": "Le détroit de Bab-el-Mandeb, vu par satellite, verrou stratégique entre la mer Rouge et le golfe d'Aden.",
+   "horodate": "2026-09-05T04:56-04:00",
+   "photo_auteur": "NASA/METI/AIST/Japan Space Systems, équipe scientifique ASTER",
+   "photo_licence": "Domaine public",
+   "permalien": "plus-de-120-morts-au-yemen-dans-l-offensive-des-rebelles-hou-ff1efb",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "plus-de-120-morts-au-yemen-dans-l-offensive-des-rebelles-hou-ff1efb"
+  },
+  {
+   "titre": "L'ONU évoque un possible crime contre l'humanité dans le déplacement forcé de Palestiniens en Cisjordanie",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Cisjordanie, Israël",
+   "medias": "France Info, France 24, Le Monde",
+   "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-onu-evoque-la-possibilite-d-un-crime-contre-l-humanite-et-d-un-nettoyage-ethnique-commis-par-israel-apres-le-deplacement-de-palestiniens-de-cisjordanie_8177957.html",
+   "sources": [
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-onu-evoque-la-possibilite-d-un-crime-contre-l-humanite-et-d-un-nettoyage-ethnique-commis-par-israel-apres-le-deplacement-de-palestiniens-de-cisjordanie_8177957.html",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/moyen-orient/20260904-op%C3%A9ration-mur-de-fer-cisjordanie-occup%C3%A9e-onu-%C3%A9voque-crime-contre-humanit%C3%A9-nettoyage-ethnique",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/palestiniens-deplaces-en-cisjordanie-l-agence-de-l-onu-pour-les-droits-humains-evoque-crime-contre-l-humanite-et-nettoyage-ethnique-commis-par-israel_6765816_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Israël accuse aussitôt l'ONU d'abandonner toute neutralité, quand l'agence parle d'épuration ethnique possible.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "l-onu-evoque-un-possible-crime-contre-l-humanite-dans-le-dep-bcfa4d",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "l-onu-evoque-un-possible-crime-contre-l-humanite-dans-le-dep-bcfa4d"
+  },
+  {
+   "titre": "Une frappe qui a tué quatre personnes lors d'un mariage en Iran porte les marques d'une arme américaine",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran, États-Unis",
+   "medias": "France Info",
+   "url": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/ce-que-l-on-sait-de-la-frappe-contre-un-mariage-en-iran-grace-aux-analyses-d-images_8177627.html",
+   "sources": [
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/ce-que-l-on-sait-de-la-frappe-contre-un-mariage-en-iran-grace-aux-analyses-d-images_8177627.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Simon Cardona et Valentine Joubin, Agence de vérification de l'information Radio France"
+    }
+   ],
+   "resume": "Washington enquête, mais l'armée américaine ne confirme toujours pas avoir visé cette maison précise.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "une-frappe-qui-a-tue-quatre-personnes-lors-d-un-mariage-en-i-eaa9c8",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "une-frappe-qui-a-tue-quatre-personnes-lors-d-un-mariage-en-i-eaa9c8"
+  },
+  {
+   "titre": "Israël dit contrôler une position stratégique au Liban, le Hezbollah dément toute victoire",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Liban, Israël",
+   "medias": "Le Monde, France 24, TV5Monde Info",
+   "url": "https://www.lemonde.fr/international/article/2026/09/04/liban-israel-annonce-avoir-pris-une-colline-strategique-au-hezbollah-et-parachever-son-controle-sur-la-zone_6765838_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/liban-israel-annonce-avoir-pris-une-colline-strategique-au-hezbollah-et-parachever-son-controle-sur-la-zone_6765838_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Hélène Sallon"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/moyen-orient/20260904-isra%C3%ABl-affirme-contr%C3%B4ler-cr%C3%AAte-ali-taher-zone-strat%C3%A9gique-hezbollah-liban-moyen-orient",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "TV5Monde Info",
+     "url": "https://information.tv5monde.com/international/le-cicr-transfere-au-liban-quatre-civils-liberes-par-israel-2836136",
+     "date": "2026-09-05T04:56-04:00"
+    }
+   ],
+   "resume": "Quatre civils libérés ont, entre-temps, changé de camp grâce à une médiation discrète du CICR.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "israel-dit-controler-une-position-strategique-au-liban-le-he-7d65d2",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "israel-dit-controler-une-position-strategique-au-liban-le-he-7d65d2"
+  },
+  {
+   "titre": "Milei relance la revendication argentine sur les Malouines, Londres réaffirme sa souveraineté",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Argentine, Royaume-Uni",
+   "medias": "France 24, La Presse, Libération",
+   "url": "https://www.france24.com/fr/am%C3%A9riques/20260904-entre-le-royaume-uni-et-l-argentine-le-match-sans-fin-autour-des-%C3%AEles-malouines",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260904-entre-le-royaume-uni-et-l-argentine-le-match-sans-fin-autour-des-%C3%AEles-malouines",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Grégoire Sauvage"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/2026-09-04/malouines/milei-durcit-le-ton-londres-reaffirme-sa-souverainete.php",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Caroline Taix et Nicolas Biederman"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/milei-sent-des-vents-favorables-pour-les-revendications-de-largentine-sur-les-malouines-boostees-par-trump-20260904_QWYSD3QNC5GNTDZTREVQ4IK4EA/",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Le président argentin dit sentir des vents favorables depuis que Washington se range à ses côtés.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Port_Stanley_1961_-_NOAA_-_Corp1373.jpg/1280px-Port_Stanley_1961_-_NOAA_-_Corp1373.jpg",
+   "legende": "Port Stanley, capitale des îles Malouines, dont la souveraineté oppose Buenos Aires et Londres.",
+   "horodate": "2026-09-05T04:56-04:00",
+   "photo_auteur": "Harley D. Nygren / NOAA",
+   "photo_licence": "Domaine public",
+   "permalien": "milei-relance-la-revendication-argentine-sur-les-malouines-l-2f4079",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "milei-relance-la-revendication-argentine-sur-les-malouines-l-2f4079"
+  },
+  {
+   "titre": "Un scandale de collusion présumée fragilise un juge de la Cour suprême du Brésil",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Brésil",
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/international/article/2026/09/04/au-bresil-un-scandale-politico-financier-fait-vaciller-le-tribunal-supreme-federal_6765786_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/au-bresil-un-scandale-politico-financier-fait-vaciller-le-tribunal-supreme-federal_6765786_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Raphaël Bernard"
+    }
+   ],
+   "resume": "L'homme qui a fait condamner Bolsonaro se retrouve à son tour dans la ligne de mire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "un-scandale-de-collusion-presumee-fragilise-un-juge-de-la-co-0547bd",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "un-scandale-de-collusion-presumee-fragilise-un-juge-de-la-co-0547bd"
+  },
+  {
+   "titre": "Le diesel atteint un prix record aux États-Unis, sous l'effet des guerres en Ukraine et en Iran",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "CNBC, NBC News, BFMTV, Sud Ouest",
+   "url": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
+   "sources": [
+    {
+     "media": "CNBC",
+     "url": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Spencer Kimball"
+    },
+    {
+     "media": "NBC News",
+     "url": "https://www.nbcnews.com/business/energy/diesel-hits-all-time-high-iran-ukraine-trump-rcna595998",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Rob Wile"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/economie/international/a-5-85-dollars-le-gallon-le-diesel-est-au-plus-haut-historique-aux-etats-unis-les-prix-du-carburant-flambent-et-la-popularite-de-trump-s-effondre_AV-202609040628.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Sud Ouest",
+     "url": "https://www.sudouest.fr/economie/energie/etats-unis-a-5-85-dollars-le-gallon-le-diesel-a-un-prix-record-30481749.php",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Deux guerres à l'autre bout du monde se répercutent directement sur la facture des camionneurs américains.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "le-diesel-atteint-un-prix-record-aux-etats-unis-sous-l-effet-e3a987",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "le-diesel-atteint-un-prix-record-aux-etats-unis-sous-l-effet-e3a987"
+  },
+  {
+   "titre": "Le procès pour triple infanticide de Lindsay Clancy s'achève sans verdict, faute d'unanimité du jury",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "Le Monde, ICI Radio-Canada, Le Journal de Montréal, France Info",
+   "url": "https://www.lemonde.fr/societe/article/2026/09/05/le-proces-de-lindsay-clancy-accusee-de-triple-infanticide-annule-faute-d-unanimite-du-jury_6765963_3224.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/article/2026/09/05/le-proces-de-lindsay-clancy-accusee-de-triple-infanticide-annule-faute-d-unanimite-du-jury_6765963_3224.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "ICI Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280736/clancy-juge-sursis-annulation-proces-infanticide",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Associated Press"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/04/une-situation-exceptionnelle-voici-ce-qui-pourrait-se-passer-apres-lannulation-du-proces-de-lindsay-clancy",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence QMI"
+    },
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-juge-annule-le-proces-de-lindsay-clancy-accusee-d-un-triple-infanticide-les-jures-n-etant-pas-parvenus-a-s-entendre-sur-un-verdict_8177852.html",
+     "date": "2026-09-05T04:56-04:00"
+    }
+   ],
+   "resume": "Un seul juré sur douze a suffi à bloquer un verdict que onze autres jugeaient acquis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "le-proces-pour-triple-infanticide-de-lindsay-clancy-s-acheve-79807b",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "le-proces-pour-triple-infanticide-de-lindsay-clancy-s-acheve-79807b"
+  },
+  {
+   "titre": "Le seul Français condamné pour les attentats du 11-Septembre réclame un transfert vers la France",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis, France",
+   "medias": "Le Journal de Montréal, France Info, La Dépêche",
+   "url": "https://www.journaldemontreal.com/2026/09/04/11-septembre--moussaoui-seul-condamne-aux-etats-unis-demande-a-purger-sa-peine-en-france",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/04/11-septembre--moussaoui-seul-condamne-aux-etats-unis-demande-a-purger-sa-peine-en-france",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/seule-personne-a-avoir-ete-condamnee-pour-les-attentats-du-11-septembre-zacarias-moussaoui-demande-a-purger-sa-peine-en-france_8177171.html",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "La Dépêche",
+     "url": "https://www.ladepeche.fr/2026/09/04/entretien-attentats-du-11-septembre-un-citoyen-dont-les-droits-ont-ete-bafoues-le-narbonnais-zacarias-moussaoui-condamne-a-vie-aux-etats-unis-bientot-13535528.php",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Mathilde Luczak"
+    }
+   ],
+   "resume": "Le seul condamné américain des attentats invoque des liens familiaux qu'aucune visite ne peut plus nourrir.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "le-seul-francais-condamne-pour-les-attentats-du-11-septembre-886628",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "le-seul-francais-condamne-pour-les-attentats-du-11-septembre-886628"
+  },
+  {
+   "titre": "Le Cybercab de Tesla, lancé sans volant ni pédales, attire déjà l'attention du régulateur américain",
+   "cahier": "international",
+   "rubrique": "transport",
+   "territoire": "États-Unis",
+   "medias": "TVA Nouvelles, Boursorama, France 24",
+   "url": "https://www.tvanouvelles.ca/2026/09/04/lagence-de-securite-routiere-ouvre-une-enquete-sur-le-cybercab-de-tesla",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/04/lagence-de-securite-routiere-ouvre-une-enquete-sur-le-cybercab-de-tesla",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/les-etats-unis-ouvrent-une-enquete-sur-l-autocertification-par-tesla-de-ses-robotaxis-cybercab-601c8b425bb7548b8f72a29947133d21",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Reuters"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260904-d%C3%A8s-son-d%C3%A9marrage-commercial-le-cybercab-de-tesla-sous-la-loupe-du-r%C3%A9gulateur-am%C3%A9ricain",
+     "date": "2026-09-05T04:56-04:00"
+    }
+   ],
+   "resume": "Le robotaxi sans volant ni pédales s'est autocertifié conforme, sans attendre le feu vert du régulateur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "le-cybercab-de-tesla-lance-sans-volant-ni-pedales-attire-dej-b26b03",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "le-cybercab-de-tesla-lance-sans-volant-ni-pedales-attire-dej-b26b03"
+  },
+  {
+   "titre": "L'accord pétrolier entre Washington et Caracas suscite des craintes de corruption au Venezuela",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Venezuela, États-Unis",
+   "medias": "La Presse, France 24, TV5Monde Info",
+   "url": "https://www.lapresse.ca/international/amerique-latine/2026-09-05/venezuela/un-accord-petrolier-qui-fait-craindre-la-corruption.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/amerique-latine/2026-09-05/venezuela/un-accord-petrolier-qui-fait-craindre-la-corruption.php",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Marc Thibodeau"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-accord-p%C3%A9trolier-%C3%A9tats-unis-venezuela-des-remerciements-forc%C3%A9s",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "TV5Monde Info",
+     "url": "https://information.tv5monde.com/international/accord-petrolier-avec-les-etats-unis-le-venezuela-besoin-de-plus-que-de-largent-declare-la-prix-nobel-machado-2835971",
+     "date": "2026-09-05T04:56-04:00"
+    }
+   ],
+   "resume": "La prix Nobel de la paix vénézuélienne juge que son pays a besoin de bien plus que d'argent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "l-accord-petrolier-entre-washington-et-caracas-suscite-des-c-e16b86",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "l-accord-petrolier-entre-washington-et-caracas-suscite-des-c-e16b86"
+  },
+  {
+   "titre": "L'AfD pourrait diriger la région de Saxe-Anhalt dès dimanche, une première depuis 1945",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Allemagne",
+   "medias": "TF1 Info, RTS, La Croix",
+   "url": "https://www.tf1info.fr/international/elections-regionales-en-allemagne-l-extreme-droite-aux-portes-du-pouvoir-une-premiere-depuis-1945-2462407.html",
+   "sources": [
+    {
+     "media": "TF1 Info",
+     "url": "https://www.tf1info.fr/international/elections-regionales-en-allemagne-l-extreme-droite-aux-portes-du-pouvoir-une-premiere-depuis-1945-2462407.html",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "RTS",
+     "url": "https://www.rts.ch/info/monde/2026/article/saxe-anhalt-l-afd-aux-portes-du-pouvoir-avec-ulrich-siegmund-29345755.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Anne Mailliet"
+    },
+    {
+     "media": "La Croix",
+     "url": "https://www.la-croix.com/culture/elections-allemandes-en-saxe-anhalt-l-extreme-droite-sen-prend-au-bauhaus-20260903",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Delphine Nerbollier"
+    }
+   ],
+   "resume": "Tous les partis, sauf un allié de Moscou, avaient juré de ne jamais gouverner avec lui.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Magdeburg%2C_Landtag_von_Sachsen-Anhalt%2CMagdeburg%2C_Domplatz.jpg/1280px-Magdeburg%2C_Landtag_von_Sachsen-Anhalt%2CMagdeburg%2C_Domplatz.jpg",
+   "legende": "Le Landtag de Saxe-Anhalt, à Magdebourg, où se joue dimanche une élection régionale scrutée dans toute l'Allemagne.",
+   "horodate": "2026-09-05T04:56-04:00",
+   "photo_auteur": "Peter H. Feist",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "l-afd-pourrait-diriger-la-region-de-saxe-anhalt-des-dimanche-32e7fa",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "l-afd-pourrait-diriger-la-region-de-saxe-anhalt-des-dimanche-32e7fa"
+  },
+  {
+   "titre": "Bardella et Farage signent un pacte migratoire et rêvent chacun de diriger leur pays",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "France, Royaume-Uni",
+   "medias": "Le Monde, France Info, Euronews",
+   "url": "https://www.lemonde.fr/international/article/2026/09/05/jordan-bardella-soutient-son-allie-britannique-nigel-farage-fragilise-par-des-soupcons-de-financements-irreguliers_6766063_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/05/jordan-bardella-soutient-son-allie-britannique-nigel-farage-fragilise-par-des-soupcons-de-financements-irreguliers_6766063_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Stéphanie Le Bars"
+    },
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-critique-par-ses-adversaires-pour-avoir-signe-un-protocole-d-accord-symbolique-avec-l-extreme-droite-anglaise-pour-renvoyer-des-migrants-vers-la-france_8177786.html",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/my-europe/2026/09/04/nouvelle-entent-cordiale-jordan-bardella-signe-un-pacte-migratoire-avec-nigel-farage",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Estelle Nilsson-Julien"
+    }
+   ],
+   "resume": "Les migrants refoulés par Londres devraient transiter par la France, un détail qui fâche déjà.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "bardella-et-farage-signent-un-pacte-migratoire-et-revent-cha-d67d1b",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "bardella-et-farage-signent-un-pacte-migratoire-et-revent-cha-d67d1b"
+  },
+  {
+   "titre": "Vincent Bolloré étend son influence médiatique en prenant pied dans Frontières",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "France",
+   "medias": "France Info, DH Les Sports+, Boursorama",
+   "url": "https://www.franceinfo.fr/economie/medias/le-groupe-lagardere-entre-au-capital-du-media-d-extreme-droite-frontieres-qui-rejoint-la-galaxie-de-vincent-bollore_8176484.html",
+   "sources": [
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/economie/medias/le-groupe-lagardere-entre-au-capital-du-media-d-extreme-droite-frontieres-qui-rejoint-la-galaxie-de-vincent-bollore_8176484.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "DH Les Sports+",
+     "url": "https://www.dhnet.be/actu/monde/2026/09/04/lempire-bollore-sagrandit-lagardere-news-entre-au-capital-de-frontieres-media-dextreme-droite-FY5O6SIM65HWHAVGYMFMOZKUUU/",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites-amp/lagardere-acquiert-une-participation-dans-le-media-d-extreme-droite-frontieres-0ede488c29bfc07ab43736ea1c30043d",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Reuters"
+    }
+   ],
+   "resume": "Ce média classé à l'extrême droite s'installera bientôt dans la même tour que CNews et Europe 1.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "vincent-bollore-etend-son-influence-mediatique-en-prenant-pi-ce319e",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "vincent-bollore-etend-son-influence-mediatique-en-prenant-pi-ce319e"
+  },
+  {
+   "titre": "En Italie, le gouvernement de Giorgia Meloni devient le plus stable depuis l'après-guerre",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Italie",
+   "medias": "TV5Monde Info, France Info, Le Monde, France 24",
+   "url": "https://information.tv5monde.com/international/video/italie-giorgia-meloni-bat-le-record-de-longevite-au-pouvoir-de-son-pays-apres-quatre-ans-2836126",
+   "sources": [
+    {
+     "media": "TV5Monde Info",
+     "url": "https://information.tv5monde.com/international/video/italie-giorgia-meloni-bat-le-record-de-longevite-au-pouvoir-de-son-pays-apres-quatre-ans-2836126",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/monde/italie/en-italie-giorgia-meloni-bat-un-record-de-longevite-au-pouvoir-depuis-l-apres-guerre_8177318.html",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/05/en-italie-giorgia-meloni-celebre-pres-de-quatre-annees-au-pouvoir-malgre-les-crises-et-les-revers_6766318_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Allan Kaval"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-italie-record-de-long%C3%A9vit%C3%A9-pour-giorgia-meloni-qui-a-su-vendre-son-image-de-stabilit%C3%A9",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Caroline DE Camaret"
+    }
+   ],
+   "resume": "Sa stabilité, rare en Italie, devient déjà l'argument central de sa future campagne pour 2027.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Giorgia_Meloni_Official_2024.jpg/1280px-Giorgia_Meloni_Official_2024.jpg",
+   "legende": "Giorgia Meloni, présidente du Conseil italien depuis octobre 2022, portrait officiel.",
+   "horodate": "2026-09-05T04:56-04:00",
+   "photo_auteur": "Governo Italiano",
+   "photo_licence": "CC BY 3.0 IT",
+   "permalien": "en-italie-le-gouvernement-de-giorgia-meloni-devient-le-plus-442554",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "en-italie-le-gouvernement-de-giorgia-meloni-devient-le-plus-442554"
+  },
+  {
+   "titre": "La dépouille du criminel de guerre Ratko Mladic rapatriée à Belgrade, l'UE dénonce sa glorification",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Serbie, Bosnie",
+   "medias": "RFI, Le Monde",
+   "url": "https://www.rfi.fr/fr/europe/20260904-hommages-%C3%A0-ratko-mladic-le-conseil-de-l-europe-d%C3%A9nonce-la-glorification-d-un-criminel-de-guerre",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260904-hommages-%C3%A0-ratko-mladic-le-conseil-de-l-europe-d%C3%A9nonce-la-glorification-d-un-criminel-de-guerre",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/la-glorification-de-ratko-mladic-ancien-general-serbe-condamne-pour-genocide-est-un-crime-au-regard-de-la-loi-en-bosnie-rappelle-le-conseil-de-l-europe_6765779_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Des honneurs militaires pour un homme condamné pour génocide constituent un délit selon la loi bosnienne.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/ICTY_Open_Day%2C_The_Hague_-_25_September_2016.jpg/1280px-ICTY_Open_Day%2C_The_Hague_-_25_September_2016.jpg",
+   "legende": "Le Tribunal pénal international pour l'ex-Yougoslavie, à La Haye, qui a condamné Ratko Mladic pour génocide.",
+   "horodate": "2026-09-05T04:56-04:00",
+   "photo_auteur": "TPIY / ONU",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "la-depouille-du-criminel-de-guerre-ratko-mladic-rapatriee-a-651547",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "la-depouille-du-criminel-de-guerre-ratko-mladic-rapatriee-a-651547"
+  },
+  {
+   "titre": "Deux fils rompus détectés sur la tapisserie de Bayeux après son transfert à Londres",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "France, Royaume-Uni",
+   "medias": "CNEWS, France Info, Le Monde",
+   "url": "https://www.cnews.fr/france/2026-09-04/tapisserie-de-bayeux-deux-fils-rompus-constates-apres-son-transfert-londres",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-09-04/tapisserie-de-bayeux-deux-fils-rompus-constates-apres-son-transfert-londres",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/culture/patrimoine/tapisserie-de-bayeux-les-experts-constatent-une-rupture-de-deux-fils-apres-le-transfert-a-londres-selon-la-ministre-de-la-culture-catherine-pegard_8177324.html",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/culture/article/2026/09/04/tapisserie-de-bayeux-une-rupture-de-deux-fils-signalee-apres-le-transfert-de-l-uvre-a-londres-sans-degradation-majeure-son-etat_6765802_3246.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "L'œuvre du XIe siècle doit s'exposer à Londres dès le 10 septembre malgré cet incident.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tapisserie_de_Bayeux%2C_p1.jpg/1280px-Tapisserie_de_Bayeux%2C_p1.jpg",
+   "legende": "Un fragment de la tapisserie de Bayeux, broderie du XIe siècle actuellement transférée à Londres.",
+   "horodate": "2026-09-05T04:56-04:00",
+   "photo_auteur": "",
+   "photo_licence": "Domaine public",
+   "permalien": "deux-fils-rompus-detectes-sur-la-tapisserie-de-bayeux-apres-0c5184",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "deux-fils-rompus-detectes-sur-la-tapisserie-de-bayeux-apres-0c5184"
+  },
+  {
+   "titre": "Plus de 500 000 hectares ont brûlé en Europe cet été, un record depuis 2006",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Europe",
+   "medias": "Le Journal de Montréal, France 24, Al-Manar",
+   "url": "https://www.journaldemontreal.com/2026/09/04/ete-europeen-plus-de-500-000-hectares-brules-par-des-feux-hors-norme",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/04/ete-europeen-plus-de-500-000-hectares-brules-par-des-feux-hors-norme",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260904-et%C3%A9-europ%C3%A9en-plus-de-500-000-hectares-br%C3%BBl%C3%A9s-par-des-feux-hors-normes",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/121532/",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Leila Mazboudi"
+    }
+   ],
+   "resume": "Une seule semaine de juillet a suffi à dépasser tout ce qu'on avait vu depuis vingt ans.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "plus-de-500-000-hectares-ont-brule-en-europe-cet-ete-un-reco-bd9eba",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "plus-de-500-000-hectares-ont-brule-en-europe-cet-ete-un-reco-bd9eba"
+  },
+  {
+   "titre": "Un militant du climat soupçonné après des sabotages visant le réseau électrique allemand",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Allemagne",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/europe/20260904-allemagne-militant-climat-soup%C3%A7onn%C3%A9-actes-sabotage-postes-%C3%A9lectriques",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/europe/20260904-allemagne-militant-climat-soup%C3%A7onn%C3%A9-actes-sabotage-postes-%C3%A9lectriques",
+     "date": "2026-09-05T04:56-04:00"
+    }
+   ],
+   "resume": "Les lettres retrouvées chez le suspect invoquent la lutte contre les combustibles fossiles comme seul motif.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "un-militant-du-climat-soupconne-apres-des-sabotages-visant-l-f1326a",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "un-militant-du-climat-soupconne-apres-des-sabotages-visant-l-f1326a"
+  },
+  {
+   "titre": "Les Pays-Bas rapatrient des tonnes d'or de New York et d'Ottawa vers Zeist",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Pays-Bas, États-Unis, Canada",
+   "medias": "BBC Afrique",
+   "url": "https://www.bbc.com/afrique/articles/cp84vp9e78eo",
+   "sources": [
+    {
+     "media": "BBC Afrique",
+     "url": "https://www.bbc.com/afrique/articles/cp84vp9e78eo",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Henry Moore"
+    }
+   ],
+   "resume": "Quatre-vingt-six tonnes de lingots ont changé de continent en silence, entre mars et août.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Amsterdam_Nederlandsche_Bank_001.JPG/1280px-Amsterdam_Nederlandsche_Bank_001.JPG",
+   "legende": "Le siège de la Banque des Pays-Bas (DNB) à Amsterdam.",
+   "horodate": "2026-09-05T04:56-04:00",
+   "photo_auteur": "Janericloebe",
+   "photo_licence": "Domaine public",
+   "permalien": "les-pays-bas-rapatrient-des-tonnes-d-or-de-new-york-et-d-ott-1792af",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "les-pays-bas-rapatrient-des-tonnes-d-or-de-new-york-et-d-ott-1792af"
+  },
+  {
+   "titre": "Le Nigeria limoge une quarantaine d'agents de son organisme anticorruption pour corruption",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Nigéria",
+   "medias": "BBC Afrique",
+   "url": "https://www.bbc.com/afrique/articles/c5yd42k7pdpo?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "media": "BBC Afrique",
+     "url": "https://www.bbc.com/afrique/articles/c5yd42k7pdpo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Chris Ewokor"
+    }
+   ],
+   "resume": "Ceux chargés de traquer la corruption font désormais eux-mêmes l'objet de poursuites judiciaires.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "le-nigeria-limoge-une-quarantaine-d-agents-de-son-organisme-e716e6",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "le-nigeria-limoge-une-quarantaine-d-agents-de-son-organisme-e716e6"
+  },
+  {
+   "titre": "La RD Congo va transférer son ambassade en Israël de Tel-Aviv à Jérusalem",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "RD Congo, Israël",
+   "medias": "France 24, TV5Monde Info",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-rd-congo-kinshasa-annonce-le-transfert-de-son-ambassade-%C3%A0-jerusalem",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-rd-congo-kinshasa-annonce-le-transfert-de-son-ambassade-%C3%A0-jerusalem",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Georges Abel"
+    },
+    {
+     "media": "TV5Monde Info",
+     "url": "https://information.tv5monde.com/afrique/visite-de-felix-tshisekedi-en-israel-pourquoi-la-rd-congo-va-deplacer-son-ambassade-de-tel-aviv-jerusalem-2836064",
+     "date": "2026-09-05T04:56-04:00"
+    }
+   ],
+   "resume": "Peu de pays africains ont franchi ce pas diplomatique très sensible pour les capitales arabes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "la-rd-congo-va-transferer-son-ambassade-en-israel-de-tel-avi-124e73",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "la-rd-congo-va-transferer-son-ambassade-en-israel-de-tel-avi-124e73"
+  },
+  {
+   "titre": "L'Algérie envoie des avions militaires au Niger après une tentative de putsch",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Algérie, Niger",
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/afrique/video/2026/09/04/l-algerie-marque-une-rupture-de-doctrine-en-envoyant-des-avions-militaires-au-niger_6765789_3212.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/afrique/video/2026/09/04/l-algerie-marque-une-rupture-de-doctrine-en-envoyant-des-avions-militaires-au-niger_6765789_3212.html",
+     "date": "2026-09-05T04:56-04:00"
+    }
+   ],
+   "resume": "Alger rompt avec des décennies de prudence en s'engageant militairement chez son voisin du Sahel.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "l-algerie-envoie-des-avions-militaires-au-niger-apres-une-te-e4b4aa",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "l-algerie-envoie-des-avions-militaires-au-niger-apres-une-te-e4b4aa"
+  },
+  {
+   "titre": "Un troisième rescapé extrait vivant d'un tunnel au Népal, neuf jours après la crue",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Népal",
+   "medias": "Le Monde, France Info, ICI Radio-Canada, RFI, La Presse",
+   "url": "https://www.lemonde.fr/international/article/2026/09/05/au-nepal-les-recherches-se-poursuivent-pour-tenter-de-localiser-de-nouveaux-survivants-dans-les-tunnels_6766313_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/05/au-nepal-les-recherches-se-poursuivent-pour-tenter-de-localiser-de-nouveaux-survivants-dans-les-tunnels_6766313_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/crues-au-nepal-deux-ouvriers-retrouves-en-vie-apres-neuf-jours-dans-un-tunnel_8178410.html",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "ICI Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280537/crue-nepal-deux-miracules-vivants-tunnel-ouvriers",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20260904-crues-meurtri%C3%A8re-au-n%C3%A9pal-deux-ouvriers-miracul%C3%A9s-sortis-vivants-d-un-tunnel-9-jours-apr%C3%A8s",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/asie-et-oceanie/2026-09-04/crue-dans-l-himalaya/deux-ouvriers-miracules-sortis-vivants-d-un-tunnel.php",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Paavan Mathema"
+    }
+   ],
+   "resume": "Plus personne n'y croyait vraiment, et pourtant les secours continuent d'en sortir vivants.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "un-troisieme-rescape-extrait-vivant-d-un-tunnel-au-nepal-neu-0112da",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "un-troisieme-rescape-extrait-vivant-d-un-tunnel-au-nepal-neu-0112da"
+  },
+  {
+   "titre": "La Malaisie déclare l'état d'urgence à Bornéo à cause des fumées venues d'Indonésie",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Malaisie, Indonésie",
+   "medias": "TV5Monde Info, France 24, Le Monde",
+   "url": "https://information.tv5monde.com/international/malaisie-etat-durgence-dans-un-etat-de-borneo-face-aux-fumees-venant-dindonesie-2836091",
+   "sources": [
+    {
+     "media": "TV5Monde Info",
+     "url": "https://information.tv5monde.com/international/malaisie-etat-durgence-dans-un-etat-de-borneo-face-aux-fumees-venant-dindonesie-2836091",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260904-malaisie-%C3%A9tat-d-urgence-dans-un-etat-de-born%C3%A9o-face-aux-fum%C3%A9es-venant-d-indon%C3%A9sie",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/malaisie-l-etat-d-urgence-aux-fumees-declare-sur-une-large-partie-de-l-ile-de-borneo-en-raison-des-gigantesques-incendies-qui-sevissent-toujours-en-indonesie_6765783_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Le brouillard toxique d'un pays voisin suffit, chaque année, à paralyser tout un district malaisien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "la-malaisie-declare-l-etat-d-urgence-a-borneo-a-cause-des-fu-b946ba",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "la-malaisie-declare-l-etat-d-urgence-a-borneo-a-cause-des-fu-b946ba"
+  },
+  {
+   "titre": "Un mandat d'arrêt vise la vice-présidente philippine Sara Duterte pour menaces de mort",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Philippines",
+   "medias": "Le Monde, France 24, TV5Monde Info",
+   "url": "https://www.lemonde.fr/international/article/2026/09/04/aux-philippines-la-vice-presidente-sara-duterte-visee-par-un-mandat-d-arret-pour-des-menaces-contre-le-president-ferdinand-marcos-jr_6765770_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/aux-philippines-la-vice-presidente-sara-duterte-visee-par-un-mandat-d-arret-pour-des-menaces-contre-le-president-ferdinand-marcos-jr_6765770_3210.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260905-philippines-vis%C3%A9e-par-un-mandat-d-arr%C3%AAt-la-vice-pr%C3%A9sidente-duterte-a-pay%C3%A9-sa-caution",
+     "date": "2026-09-05T04:56-04:00"
+    },
+    {
+     "media": "TV5Monde Info",
+     "url": "https://information.tv5monde.com/international/philippines-visee-par-un-mandat-darret-la-vice-presidente-duterte-paye-sa-caution-2836188",
+     "date": "2026-09-05T04:56-04:00"
+    }
+   ],
+   "resume": "Elle aurait engagé un tueur à gages pour trois personnes, dont le président lui-même.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "un-mandat-d-arret-vise-la-vice-presidente-philippine-sara-du-0495b5",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "un-mandat-d-arret-vise-la-vice-presidente-philippine-sara-du-0495b5"
+  },
+  {
+   "titre": "Le journaliste nigérien Moussa Kaka reste introuvable, une semaine après sa dernière apparition publique",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Niger",
+   "medias": "RFI, Human Rights Watch, Le Monde",
+   "url": "https://www.rfi.fr/fr/afrique/20260904-niger-le-comit%C3%A9-pour-la-protection-des-journalistes-tr%C3%A8s-pr%C3%A9occup%C3%A9-par-la-disparition-de-moussa-kaka",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/afrique/20260904-niger-le-comit%C3%A9-pour-la-protection-des-journalistes-tr%C3%A8s-pr%C3%A9occup%C3%A9-par-la-disparition-de-moussa-kaka",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Moussa Kaka"
+    },
+    {
+     "media": "Human Rights Watch",
+     "url": "https://www.hrw.org/fr/news/2026/09/04/un-eminent-journaliste-nigerien-vraisemblablement-victime-dune-disparition-forcee",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Ilaria Allegrozzi"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/afrique/article/2026/09/04/au-niger-la-disparition-du-journaliste-moussa-kaka-provoque-de-vives-inquietudes_6765858_3212.html",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Pierre Lepidi"
+    }
+   ],
+   "resume": "Il avait déjà été arrêté une première fois pour avoir annoncé une simple conférence de presse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "le-journaliste-nigerien-moussa-kaka-reste-introuvable-une-se-510357",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "le-journaliste-nigerien-moussa-kaka-reste-introuvable-une-se-510357"
+  },
+  {
+   "titre": "Le corps du plus jeune roi traditionnel du monde rapatrié en Ouganda",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Ouganda",
+   "medias": "BBC Afrique",
+   "url": "https://www.bbc.com/afrique/articles/crm931kze8po?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "media": "BBC Afrique",
+     "url": "https://www.bbc.com/afrique/articles/crm931kze8po?at_medium=RSS&at_campaign=rss",
+     "date": "2026-09-05T04:56-04:00",
+     "auteur": "Wycliffe Muia"
+    }
+   ],
+   "resume": "Mort à 34 ans aux États-Unis, il laisse derrière lui une succession déjà très disputée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "le-corps-du-plus-jeune-roi-traditionnel-du-monde-rapatrie-en-a7568c",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "le-corps-du-plus-jeune-roi-traditionnel-du-monde-rapatrie-en-a7568c"
+  },
+  {
+   "titre": "L'OPCW confirme la première destruction vérifiée d'armes chimiques syriennes depuis 2014",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Syrie",
+   "medias": "ONU – Conseil de sécurité (couverture des réunions)",
+   "url": "https://press.un.org/en/2026/sc16445.doc.htm",
+   "sources": [
+    {
+     "media": "ONU – Conseil de sécurité (couverture des réunions)",
+     "url": "https://press.un.org/en/2026/sc16445.doc.htm",
+     "date": "2026-09-05T04:56-04:00"
+    }
+   ],
+   "resume": "Quarante-deux bombes aériennes déclarées par Damas ont enfin été détruites sous supervision internationale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T04:56-04:00",
+   "permalien": "l-opcw-confirme-la-premiere-destruction-verifiee-d-armes-chi-db6a92",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-05.json",
+   "_slug": "l-opcw-confirme-la-premiere-destruction-verifiee-d-armes-chi-db6a92"
+  },
+  {
    "titre": "Un drone russe touche le quartier général du SBU en plein Kyiv",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Ukraine",
-   "medias": "Le Figaro, BFM, franceinfo, Euronews",
+   "medias": "Le Figaro, BFM, franceinfo, Euronews, The Guardian, Reuters",
    "url": "https://www.lefigaro.fr/international/la-russie-frappe-en-plein-jour-le-siege-du-service-de-securite-ukrainien-le-reportage-de-notre-envoyee-speciale-a-kiev-20260904",
-   "resume": "Un drone russe a touché vendredi le quartier général du Service de sécurité ukrainien (SBU) en plein centre de Kyiv, endommageant le bureau de son chef par intérim et blessant plusieurs personnes, selon les autorités ukrainiennes.",
+   "resume": "Mise à jour, 05 h 18 — Kyiv évoque neuf blessés et promet une riposte dont elle refuse pour l'instant de préciser la forme.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-04T15:54-04:00",
+   "horodate": "2026-09-05T05:18-04:00",
    "sources": [
     {
      "media": "Le Figaro",
@@ -119,6 +1376,18 @@
      "url": "https://www.euronews.com/my-europe/2026/09/04/russian-drone-strikes-ukraine-security-service-headquarters-in-central-kyiv",
      "date": "2026-09-04T09:51-04:00",
      "auteur": "Sasha Vakulina"
+    },
+    {
+     "media": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
+     "date": "2026-09-04T11:37-04:00",
+     "auteur": "Amy Hawkins"
+    },
+    {
+     "media": "Reuters",
+     "url": "https://www.reuters.com/world/smoke-rises-central-kyiv-after-russian-drone-attack-2026-09-04/",
+     "date": "2026-09-04T16:00-04:00",
+     "auteur": "Olena Harmash et Yuliia Dysa"
     }
    ],
    "image_auto": "aucune",
@@ -134,7 +1403,7 @@
    "territoire": "Ukraine, Russie",
    "medias": "U.S. News & World Report, franceinfo",
    "url": "https://www.usnews.com/news/world/articles/2026-09-04/trump-says-witkoff-kushner-heading-to-russia-ukraine-to-present-peace-proposal",
-   "resume": "Les émissaires américains Steve Witkoff et Jared Kushner doivent se rendre à Moscou puis à Kyiv dès ce week-end pour tenter de relancer les négociations en vue de mettre fin à la guerre, a annoncé le président Volodymyr Zelensky.",
+   "resume": "Zelensky lie l'accueil des émissaires américains à Moscou à une pause dans les bombardements russes.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff%2C_May_6%2C_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "legende": "Steve Witkoff",
    "horodate": "2026-09-04T15:54-04:00",
@@ -1649,12 +2918,18 @@
      "url": "https://www.lemonde.fr/international/article/2026/09/05/aux-etats-unis-une-bataille-juridique-intense-se-joue-autour-du-vote-par-correspondance-pour-les-midterms_6765962_3210.html",
      "date": "2026-09-04T22:03-04:00",
      "auteur": "Agence France-Presse et Associated Press"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280872/etats-unis-elections-mi-mandat-confusion",
+     "date": "2026-09-04T20:14-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
-   "resume": "Mise à jour, 22 h 03 — Une juge prolonge le blocage jusqu'au scrutin, sans garantie que les bulletins arrivent à temps.",
+   "resume": "Mise à jour, 05 h 18 — Les premiers bulletins sont partis alors que personne ne sait encore quelles règles s'appliqueront au vote par correspondance.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-04T22:03-04:00",
+   "horodate": "2026-09-05T05:18-04:00",
    "permalien": "a-deux-mois-des-elections-de-mi-mandat-l-administration-trum-f6544b",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-05.json",
