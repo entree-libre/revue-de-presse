@@ -3,6 +3,7 @@
  "volets": [
   "elections",
   "monde",
+  "quebec-canada",
   "report",
   "savoirs"
  ],
@@ -1344,6 +1345,682 @@
    "_slug": "l-opcw-confirme-la-premiere-destruction-verifiee-d-armes-chi-db6a92"
   },
   {
+   "titre": "L'économie canadienne perd 42 000 emplois en août, le taux de chômage reste stable à 6,4 %",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Global News, Le Devoir, Radio-Canada, Conseiller",
+   "url": "https://globalnews.ca/news/12047702/economy-sheds-42000-jobs-unemployment-rate-steady-august-statcan/",
+   "resume": "Le secteur public recule un troisième mois de suite, et les salaires ralentissent au plus bas depuis 2017.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12047702/economy-sheds-42000-jobs-unemployment-rate-steady-august-statcan/",
+     "date": "2026-09-05T06:27-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1006535/taux-chomage-canada-quebec-aout-statistique-canada",
+     "auteur": "Craig Lord, La Presse canadienne",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "l-economie-canadienne-perd-42-000-emplois-en-aout-le-taux-de-47549a",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "l-economie-canadienne-perd-42-000-emplois-en-aout-le-taux-de-47549a"
+  },
+  {
+   "titre": "Trois entreprises épinglées le même jour pour des manquements à la loi linguistique québécoise",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Gouvernement du Québec",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/infraction-a-la-charte-de-la-langue-francaise-les-produits-de-lentreprise-supermarche-walter-inc-72390",
+   "resume": "Emballages, site web ou affichage unilingue anglais : chacune écope d'une amende de 3000 $.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Office_qu%C3%A9b%C3%A9cois_de_la_langue_fran%C3%A7aise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "Les bureaux de l'Office québécois de la langue française, qui a rendu les décisions contre les trois entreprises.",
+   "sources": [
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/infraction-a-la-charte-de-la-langue-francaise-les-produits-de-lentreprise-supermarche-walter-inc-72390",
+     "date": "2026-09-05T06:27-04:00"
+    },
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/infraction-a-la-charte-de-la-langue-francaise-le-site-web-de-lentreprise-natural-scents-incense-oils-inc-72389",
+     "date": "2026-09-05T06:27-04:00"
+    },
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/infraction-a-la-charte-de-la-langue-francaise-le-site-web-de-lentreprise-esprit-rafting-adventures-inc-72388",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "photo_auteur": "Jean-Pierre G.",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "trois-entreprises-epinglees-le-meme-jour-pour-des-manquement-4afda8",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "trois-entreprises-epinglees-le-meme-jour-pour-des-manquement-4afda8"
+  },
+  {
+   "titre": "Les conservateurs fédéraux lancent une campagne pour garder l'Alberta dans le Canada avant le vote du 19 octobre",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12048490/conservatives-for-canada-alberta-referendum/",
+   "resume": "Poilievre mise sur la fierté née de la guerre commerciale pour mobiliser 1,4 million d'électeurs conservateurs.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Alberta-Legislature-Building-Edmonton-Alberta-Canada-01A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "L'Assemblée législative de l'Alberta, à Edmonton, où se tiendra le référendum sur la séparation le 19 octobre.",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12048490/conservatives-for-canada-alberta-referendum/",
+     "date": "2026-09-05T06:27-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12047670/jann-arden-to-appear-at-pro-canada-concert-ahead-of-alberta-separation-vote/",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "photo_auteur": "WinterE229 WinterforceMedia",
+   "photo_licence": "CC0",
+   "permalien": "les-conservateurs-federaux-lancent-une-campagne-pour-garder-9cd5d3",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "les-conservateurs-federaux-lancent-une-campagne-pour-garder-9cd5d3"
+  },
+  {
+   "titre": "Voitures incendiées chez une députée libérale de Toronto : la police annonce une première arrestation",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Toronto (Ontario)",
+   "medias": "Radio-Canada, CBC, Global News",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280819/salma-zahid-incendie-criminelle-inculpation",
+   "resume": "Un deuxième suspect reste recherché, et Mark Carney lui-même s'était dit indigné de l'incendie.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280819/salma-zahid-incendie-criminelle-inculpation",
+     "auteur": "Florence Bolduc",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "voitures-incendiees-chez-une-deputee-liberale-de-toronto-la-1a1bd9",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "voitures-incendiees-chez-une-deputee-liberale-de-toronto-la-1a1bd9"
+  },
+  {
+   "titre": "Un officier vedette du VPD accusé d'avoir fraudé 19 victimes de 3 millions de dollars",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Vancouver (Colombie-Britannique)",
+   "medias": "CBC, Radio-Canada, Global News",
+   "url": "https://www.cbc.ca/news/canada/british-columbia/vpd-press-conference-high-profile-arrest-9.7332773",
+   "resume": "L'épouse du policier a dû retirer sa candidature aux élections municipales de Surrey dans la foulée.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/british-columbia/vpd-press-conference-high-profile-arrest-9.7332773",
+     "auteur": "Simon Little",
+     "date": "2026-09-05T06:27-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12048109/kalwinder-dosanjh-charges/",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "un-officier-vedette-du-vpd-accuse-d-avoir-fraude-19-victimes-68ed96",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "un-officier-vedette-du-vpd-accuse-d-avoir-fraude-19-victimes-68ed96"
+  },
+  {
+   "titre": "Une cyberattaque contre la CCQ a exposé les données personnelles de 350 000 personnes",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/2026-09-04/cyberattaque-a-la-ccq/des-pirates-russes-ont-vole-les-donnees-de-350-000-personnes.php",
+   "resume": "Le groupe russophone Qilin revendique le coup, la commission promet une surveillance de crédit gratuite aux victimes.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/2026-09-04/cyberattaque-a-la-ccq/des-pirates-russes-ont-vole-les-donnees-de-350-000-personnes.php",
+     "auteur": "Ulysse Bergeron",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "une-cyberattaque-contre-la-ccq-a-expose-les-donnees-personne-ddb7e7",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "une-cyberattaque-contre-la-ccq-a-expose-les-donnees-personne-ddb7e7"
+  },
+  {
+   "titre": "Un service russe met en vente 153 millions de pièces d'identité, dont 1,1 million canadiennes",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/affaires/techno/2026-09-04/cybersecurite/des-millions-de-permis-de-conduire-a-vendre-sur-le-web-obscur.php",
+   "resume": "Québec dit surveiller la situation sans confirmer si des permis de conduire de la province sont touchés.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/techno/2026-09-04/cybersecurite/des-millions-de-permis-de-conduire-a-vendre-sur-le-web-obscur.php",
+     "auteur": "Alain McKenna",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "un-service-russe-met-en-vente-153-millions-de-pieces-d-ident-3490ac",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "un-service-russe-met-en-vente-153-millions-de-pieces-d-ident-3490ac"
+  },
+  {
+   "titre": "Le BEI ferme son enquête sur la chute d'un blessé pendant une intervention policière à Val-d'Or",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Val-d'Or (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280713/bei-enquete-police-val-dor",
+   "resume": "Le bureau conclut que les gestes des policiers de la Sûreté du Québec n'ont pas contribué aux blessures.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280713/bei-enquete-police-val-dor",
+     "auteur": "Marc-André Landry",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "le-bei-ferme-son-enquete-sur-la-chute-d-un-blesse-pendant-un-2a360a",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "le-bei-ferme-son-enquete-sur-la-chute-d-un-blesse-pendant-un-2a360a"
+  },
+  {
+   "titre": "Priver d'assurance-emploi des mères mises à pied après un congé de maternité viole la Charte, tranche un tribunal",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Canada",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12048194/ei-maternity-leave-court-of-appeal/",
+   "resume": "Six Québécoises ont porté la cause ; Ottawa a maintenant un an pour réécrire la loi.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12048194/ei-maternity-leave-court-of-appeal/",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "priver-d-assurance-emploi-des-meres-mises-a-pied-apres-un-co-9cf137",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "priver-d-assurance-emploi-des-meres-mises-a-pied-apres-un-co-9cf137"
+  },
+  {
+   "titre": "L'Alberta lance un régime de chirurgies mixtes public-privé, Ottawa doute de sa conformité à la loi fédérale",
+   "cahier": "canada",
+   "rubrique": "sante",
+   "territoire": "Alberta",
+   "medias": "National Post",
+   "url": "https://nationalpost.com/news/alberta-thinks-it-has-a-health-care-fix-ottawa-as-always-is-skeptical",
+   "resume": "La ministre albertaine dénonce la menace de pénalités ; sa collègue fédérale réclame des garanties écrites.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/alberta-thinks-it-has-a-health-care-fix-ottawa-as-always-is-skeptical",
+     "auteur": "Donna Kennedy-Glans",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "l-alberta-lance-un-regime-de-chirurgies-mixtes-public-prive-469e48",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "l-alberta-lance-un-regime-de-chirurgies-mixtes-public-prive-469e48"
+  },
+  {
+   "titre": "Un maire républicain de l'État de New York refuse d'appeler le lac Ontario « Lake America »",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Ontario",
+   "medias": "National Post, Radio-Canada",
+   "url": "https://nationalpost.com/news/canada/republican-mayor-rejects-trumps-lake-america",
+   "resume": "Le tourisme canadien vers sa ville a chuté, et un nom vieux de 400 ans n'y changera rien.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lake_Ontario_Shoreline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "Le lac Ontario, au centre d'un différend sur un renommage proposé par le président américain.",
+   "sources": [
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/canada/republican-mayor-rejects-trumps-lake-america",
+     "auteur": "Ellie Hutchings",
+     "date": "2026-09-05T06:27-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/long-format/2280532/lac-ontario-autochtones-etats-unis",
+     "date": "2026-09-05T06:27-04:00",
+     "auteur": "Ismaël Houdassine"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "photo_auteur": "SAF1999",
+   "photo_licence": "CC0",
+   "permalien": "un-maire-republicain-de-l-etat-de-new-york-refuse-d-appeler-a440ae",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "un-maire-republicain-de-l-etat-de-new-york-refuse-d-appeler-a440ae"
+  },
+  {
+   "titre": "La Fondation québécoise du cancer réclame la vaccination gratuite contre le VPH jusqu'à 26 ans",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/sante/1006559/vaccination-gratuite-contre-vph-reclamee-tous-quebecois-26-ans-moins",
+   "resume": "Québec répond ne pas prévoir élargir le programme actuel, plus restrictif que celui de plusieurs provinces.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/sante/1006559/vaccination-gratuite-contre-vph-reclamee-tous-quebecois-26-ans-moins",
+     "auteur": "Florence Morin-Martel",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "la-fondation-quebecoise-du-cancer-reclame-la-vaccination-gra-85463e",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "la-fondation-quebecoise-du-cancer-reclame-la-vaccination-gra-85463e"
+  },
+  {
+   "titre": "Des députés autochtones de tous les partis dénoncent une campagne de vêtements niant les pensionnats",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "APTN News",
+   "url": "https://www.aptnnews.ca/national-news/indigenous-mps-disgusted-by-residential-school-denialist-shirt-campaign/",
+   "resume": "Le caucus autochtone libéral et un député conservateur condamnent ensemble une collection vendue avant le 30 septembre.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "APTN News",
+     "url": "https://www.aptnnews.ca/national-news/indigenous-mps-disgusted-by-residential-school-denialist-shirt-campaign/",
+     "auteur": "Emma Honeybun",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "des-deputes-autochtones-de-tous-les-partis-denoncent-une-cam-3ee7aa",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "des-deputes-autochtones-de-tous-les-partis-denoncent-une-cam-3ee7aa"
+  },
+  {
+   "titre": "Le Nunavut augmente de 45 % la rémunération des familles d'accueil",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Nunavut",
+   "medias": "APTN News",
+   "url": "https://www.aptnnews.ca/national-news/government-of-nunavut-will-pay-foster-parents-45-more/",
+   "resume": "C'est la première hausse depuis 2020 pour ce réseau qui prend en charge des enfants du territoire.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Aerial_view_of_Iqaluit%2C_Nunavut_%28Quintin_Soloviev%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "Iqaluit, capitale du Nunavut, dont le gouvernement territorial bonifie la rémunération des familles d'accueil.",
+   "sources": [
+    {
+     "media": "APTN News",
+     "url": "https://www.aptnnews.ca/national-news/government-of-nunavut-will-pay-foster-parents-45-more/",
+     "date": "2026-09-05T06:27-04:00",
+     "auteur": "Local Journalism Initiative"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "le-nunavut-augmente-de-45-la-remuneration-des-familles-d-acc-63e818",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "le-nunavut-augmente-de-45-la-remuneration-des-familles-d-acc-63e818"
+  },
+  {
+   "titre": "Le forum des dirigeants du Pacifique échoue à condamner unanimement un tir de missile chinois",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Canada",
+   "medias": "Canada's National Observer, Gouvernement du Canada",
+   "url": "https://www.nationalobserver.com/2026/09/04/news/pacific-leaders-summit-fail-reach-unanimous-condemnation-chinas-ballistic-missile",
+   "resume": "Un secrétaire d'État canadien y défendait la stabilité régionale, jusqu'aux Palaos, sans obtenir de position commune.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/04/news/pacific-leaders-summit-fail-reach-unanimous-condemnation-chinas-ballistic-missile",
+     "auteur": "The Canadian Press",
+     "date": "2026-09-05T06:27-04:00"
+    },
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-secretaire-detat-sarai-conclut-sa-participation-a-la-reunion-des-dirigeants-du-forum-des-iles-du-pacifique.html",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "le-forum-des-dirigeants-du-pacifique-echoue-a-condamner-unan-5adfbd",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "le-forum-des-dirigeants-du-pacifique-echoue-a-condamner-unan-5adfbd"
+  },
+  {
+   "titre": "Un sondage place Québec en tête des villes canadiennes où l'on se sent le plus en sécurité",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "National Post",
+   "url": "https://nationalpost.com/news/perceived-safety-canadian-cities-survey",
+   "resume": "Winnipeg ferme la marche du classement, qui mesure la perception plutôt que les statistiques de criminalité.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Chateau_Frontenac_illuminated_at_night_in_Quebec_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "Québec, qui arrive en tête d'un palmarès des villes canadiennes où l'on se sent le plus en sécurité.",
+   "sources": [
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/perceived-safety-canadian-cities-survey",
+     "date": "2026-09-05T06:27-04:00",
+     "auteur": "Chris Knight"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "photo_auteur": "Wilfredor",
+   "photo_licence": "CC0",
+   "permalien": "un-sondage-place-quebec-en-tete-des-villes-canadiennes-ou-l-b3e117",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "un-sondage-place-quebec-en-tete-des-villes-canadiennes-ou-l-b3e117"
+  },
+  {
+   "titre": "Les progressistes-conservateurs et le NPD conservent leurs sièges aux partielles ontariennes",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Ontario",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12047657/ontario-september-byelection-results/",
+   "resume": "Peu de choses changent à Queen's Park, mais Doug Ford promet de poursuivre le combat qu'il mène.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Legislative_Assembly_of_Ontario_-_Queen%27s_Park%2C_Toronto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "L'Assemblée législative de l'Ontario, à Queen's Park, où l'équilibre des sièges n'a pas changé.",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12047657/ontario-september-byelection-results/",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "photo_auteur": "Spudgun67",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "les-progressistes-conservateurs-et-le-npd-conservent-leurs-s-433fb4",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "les-progressistes-conservateurs-et-le-npd-conservent-leurs-s-433fb4"
+  },
+  {
+   "titre": "Prison à vie pour l'homme reconnu coupable d'un incendie meurtrier à Ottawa",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Ottawa (Ontario)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280887/sentence-perpetuite-incendie-criminel-ottawa",
+   "resume": "Une fillette de trois ans est morte dans ce feu allumé dans un immeuble à logements en 2024.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280887/sentence-perpetuite-incendie-criminel-ottawa",
+     "date": "2026-09-05T06:27-04:00",
+     "auteur": "Tom Chazelle Schulze"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "prison-a-vie-pour-l-homme-reconnu-coupable-d-un-incendie-meu-700046",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "prison-a-vie-pour-l-homme-reconnu-coupable-d-un-incendie-meu-700046"
+  },
+  {
+   "titre": "La plaignante principale d'un recours collectif sur des accouchements forcés à Moncton est décédée",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Moncton (Nouveau-Brunswick)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280649/recours-collectif-accouchements-hopital-moncton",
+   "resume": "Sa mère pourrait reprendre le flambeau devant la Cour du Banc du Roi, où l'affaire se poursuit.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280649/recours-collectif-accouchements-hopital-moncton",
+     "date": "2026-09-05T06:27-04:00",
+     "auteur": "Pascal Raiche-Nogue"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "la-plaignante-principale-d-un-recours-collectif-sur-des-acco-3cb6af",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "la-plaignante-principale-d-un-recours-collectif-sur-des-acco-3cb6af"
+  },
+  {
+   "titre": "Une enquête révèle un réseau de faux sites propageant le séparatisme albertain aux robots conversationnels",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "Canada's National Observer",
+   "url": "https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots",
+   "resume": "Des dates de vote inventées et des électeurs fictifs y sont conçus pour être cités par l'intelligence artificielle.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots",
+     "auteur": "Rory White",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "une-enquete-revele-un-reseau-de-faux-sites-propageant-le-sep-f43394",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "une-enquete-revele-un-reseau-de-faux-sites-propageant-le-sep-f43394"
+  },
+  {
+   "titre": "Dix-huit fenêtres ont éclaté spontanément depuis 2024 sur deux immeubles résidentiels du Quartier des spectacles",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Montréal",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/montreal/2026-09-04/quartier-des-spectacles-dix-huit-vitres-de-deux-tours-residentielles-ont-eclate-depuis-2024.php",
+   "resume": "Le mystère persiste sur la cause exacte, entre copropriétaires inquiets et promoteur qui cherche des réponses.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Quartier_des_Spectacles_%40_Montreal_%2829773185893%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "Le Quartier des spectacles de Montréal, où des fenêtres de deux tours résidentielles ont éclaté spontanément.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/montreal/2026-09-04/quartier-des-spectacles-dix-huit-vitres-de-deux-tours-residentielles-ont-eclate-depuis-2024.php",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "photo_auteur": "Guilhem Vellut from Paris, France",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "dix-huit-fenetres-ont-eclate-spontanement-depuis-2024-sur-de-4382d9",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "dix-huit-fenetres-ont-eclate-spontanement-depuis-2024-sur-de-4382d9"
+  },
+  {
+   "titre": "Le coroner recommande un meilleur jumelage des patients après une agression mortelle en Beauce",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Saint-Georges (Chaudière-Appalaches)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280617/octogenaire-marchette-mort-saint-georges-coroner",
+   "resume": "Le DPCP n'a pas établi de lien entre l'agression et le décès, l'assaillant étant mort depuis.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280617/octogenaire-marchette-mort-saint-georges-coroner",
+     "auteur": "Audrey Paris",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "le-coroner-recommande-un-meilleur-jumelage-des-patients-apre-d629cd",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "le-coroner-recommande-un-meilleur-jumelage-des-patients-apre-d629cd"
+  },
+  {
+   "titre": "La GRC prévient les conducteurs de Tesla qu'elle sévira contre ceux qui dorment au volant en mode autonome",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Colombie-Britannique",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280607/tesla-conducteur-automobiliste-grc-autonome",
+   "resume": "Deux cas ont été captés en août sur la Transcanadienne, près de Vancouver, en pleine circulation.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/70/A_RCMP_Car_-_Royal_Canadian_Mounted_Police%2C_Depot_Division%2C_Regina_%2844014076972%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "Un véhicule de la Gendarmerie royale du Canada, qui met en garde les conducteurs de Tesla en mode autonome.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280607/tesla-conducteur-automobiliste-grc-autonome",
+     "date": "2026-09-05T06:27-04:00",
+     "auteur": "Dominique Lévesque"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "photo_auteur": "Haydn Blackey from Cardiff, Wales",
+   "photo_licence": "CC BY-SA 2.0",
+   "permalien": "la-grc-previent-les-conducteurs-de-tesla-qu-elle-sevira-cont-f811ef",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "la-grc-previent-les-conducteurs-de-tesla-qu-elle-sevira-cont-f811ef"
+  },
+  {
+   "titre": "L'avocat Daniel Rochefort, visé par des accusations d'agression sexuelle sur une mineure, demeure détenu en attendant son procès",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Montréal",
+   "medias": "Le Journal de Montréal, Le Devoir, La Presse",
+   "url": "https://www.ledevoir.com/actualites/justice/1006649/accuses-crimes-sexuels-avocat-daniel-rochefort-restera-detenu-attendant-proces",
+   "resume": "Le tribunal a tranché après une audience sur la remise en liberté de l'ancien bâtonnier adjoint.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Palais_de_Justice_de_Montreal_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "Le palais de justice de Montréal, où l'avocat Daniel Rochefort demeure détenu en attendant son procès.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/justice/1006649/accuses-crimes-sexuels-avocat-daniel-rochefort-restera-detenu-attendant-proces",
+     "date": "2026-09-05T06:27-04:00",
+     "auteur": "Stéphanie Marin"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-04/accuse-de-crimes-sexuels-sur-une-mineure/l-avocat-daniel-rochefort-demeure-detenu.php",
+     "date": "2026-09-05T06:27-04:00",
+     "auteur": "Mayssa Ferah"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "photo_auteur": "Jean Gagnon",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "l-avocat-daniel-rochefort-vise-par-des-accusations-d-agressi-9eed0b",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "l-avocat-daniel-rochefort-vise-par-des-accusations-d-agressi-9eed0b"
+  },
+  {
+   "titre": "Les profits d'Hydro-Québec chutent de 23 % au deuxième trimestre",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Québecor, La Presse",
+   "url": "https://www.journaldemontreal.com/2026/09/04/les-profits-dhydro-quebec-plongent-de-23",
+   "resume": "La société d'État blâme la hausse de ses achats d'électricité ailleurs et l'alourdissement de sa facture d'intérêts.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/04/les-profits-dhydro-quebec-plongent-de-23",
+     "date": "2026-09-05T06:27-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-04/profits-en-baisse-pour-hydro-quebec.php",
+     "auteur": "Hélène Baril",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T05:54-04:00",
+   "permalien": "les-profits-d-hydro-quebec-chutent-de-23-au-deuxieme-trimest-d4a9d7",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-05.json",
+   "_slug": "les-profits-d-hydro-quebec-chutent-de-23-au-deuxieme-trimest-d4a9d7"
+  },
+  {
    "titre": "Un drone russe touche le quartier général du SBU en plein Kyiv",
    "cahier": "international",
    "rubrique": "conflits",
@@ -1434,7 +2111,7 @@
    "territoire": "Montérégie-Ouest (Montérégie)",
    "medias": "Le Soleil de Châteauguay",
    "url": "https://cybersoleil.com/allegation-de-fraude-contre-la-presidente-de-la-fiq-monteregie-ouest/",
-   "resume": "La présidente du syndicat des infirmières de la Montérégie-Ouest, Mélanie Gignac, a été démise de ses fonctions le 2 septembre après la découverte de problèmes dans la comptabilité du syndicat, que ses dirigeants qualifient d'irrégularités pouvant constituer une fraude.",
+   "resume": "Des irrégularités comptables pourraient constituer une fraude, selon les dirigeants du syndicat qui l'ont démise de ses fonctions.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-04T15:54-04:00",
@@ -1490,12 +2167,12 @@
    "cahier": "quebec",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Québecor, Les Affaires",
+   "medias": "Québecor, Les Affaires, La Presse, Radio-Canada",
    "url": "https://www.journaldemontreal.com/2026/09/04/le-quebec-perd-19-000-emplois-en-aout",
-   "resume": "En août, le marché du travail québécois a reculé de 19 000 emplois tandis que le taux de chômage est demeuré pratiquement inchangé, à 5,6 %, par rapport à juillet, selon Statistique Canada.",
+   "resume": "Le Québec est la seule province canadienne à afficher un recul de l'emploi sur douze mois.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-04T15:54-04:00",
+   "horodate": "2026-09-05T05:54-04:00",
    "sources": [
     {
      "media": "Québecor",
@@ -1507,6 +2184,18 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/opinions/le-marche-du-travail-montre-ses-premiers-veritables-signes-de-faiblesse/",
      "date": "2026-09-04T12:35-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-04/aout/le-taux-de-chomage-demeure-inchange-au-canada-et-au-quebec.php",
+     "auteur": "Hélène Baril",
+     "date": "2026-09-04T08:38-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280573/taux-chomage-inchange-aout",
+     "date": "2026-09-05T06:27-04:00",
+     "auteur": "Stéphane Bordeleau"
     }
    ],
    "image_auto": "aucune",
@@ -1630,7 +2319,7 @@
    "territoire": "Québec",
    "medias": "L'Écho de Laval",
    "url": "https://www.chamblyexpress.ca/actualites/societe/673843/en-attente-dun-chsld-726-patients-occupent-des-lits-dhopitaux-au-quebec",
-   "resume": "Faute d'hébergement en CHSLD, 726 personnes occupaient un lit d'hôpital au Québec au début du mois d'août, un total à la hausse que le ministère de la Santé a transmis à La Presse Canadienne en vertu de la loi sur l'accès à l'information.",
+   "resume": "Ce total est en hausse, et le ministère ne l'a communiqué qu'après une demande d'accès à l'information.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/H%C3%B4tel-Dieu_de_Montr%C3%A9al%2C_Montr%C3%A9al%2C_Qu%C3%A9bec_%2829955020002%29.jpg/1280px-H%C3%B4tel-Dieu_de_Montr%C3%A9al%2C_Montr%C3%A9al%2C_Qu%C3%A9bec_%2829955020002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "legende": "L'Hôtel-Dieu de Montréal, un hôpital du réseau de la santé québécois.",
    "horodate": "2026-09-04T15:54-04:00",
@@ -1657,7 +2346,7 @@
    "territoire": "Canada",
    "medias": "L'Écho de Laval",
    "url": "https://www.chamblyexpress.ca/actualites/societe/673865/un-nouveau-billet-de-20-mettra-a-lhonneur-le-roi-charles",
-   "resume": "La Banque du Canada dévoile un billet de 20 dollars à l'effigie du roi Charles III, une première pour la monnaie canadienne, qui succède ainsi à Elizabeth II.",
+   "resume": "Combien de temps avant de voir ce nouveau visage circuler dans les portefeuilles du pays ?",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "legende": "Charles III (roi du Royaume-Uni)",
    "horodate": "2026-09-04T15:54-04:00",
@@ -1684,7 +2373,7 @@
    "territoire": "Sheshatshiu (Terre-Neuve-et-Labrador)",
    "medias": "APTN News, Radio-Canada",
    "url": "https://www.aptnnews.ca/featured/grand-chief-calls-for-innu-police-force-after-violent-n-l-arrest/",
-   "resume": "Le grand chef de la Nation innue, Jodie Ashini, réclame la création d'un corps policier dirigé par les Premières Nations après la diffusion d'une vidéo montrant des agents de la GRC frapper et utiliser une arme paralysante contre un homme lors d'une arrestation à Sheshatshiu, au Labrador.",
+   "resume": "La diffusion d'une vidéo d'arrestation musclée relance le débat sur des services policiers dirigés par les Premières Nations.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-04T15:54-04:00",
@@ -1712,12 +2401,12 @@
    "cahier": "canada",
    "rubrique": "societe",
    "territoire": "Toronto (Ontario)",
-   "medias": "Québecor, Radio-Canada",
+   "medias": "Québecor, Radio-Canada, Global News",
    "url": "https://www.tvanouvelles.ca/2026/09/04/en-images--le-rogers-stadium-victime-de-la-tempete-du-siecle-a-toronto",
-   "resume": "Une partie des gradins du Rogers Stadium à Toronto a été détruite en raison des violentes intempéries qui se sont abattues sur la ville mercredi, et l'organisateur du spectacle, Live Nation, n'a pas confirmé si le concert d'AC/DC prévu le 16 septembre pourra avoir lieu.",
-   "photo": "",
-   "legende": "",
-   "horodate": "2026-09-04T15:54-04:00",
+   "resume": "Mise à jour, 5 h 54 — Toronto ordonne à Live Nation d'engager un ingénieur avant le concert d'AC/DC prévu le 16 septembre.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Rogers_Stadium_Grandstands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "Les gradins du Rogers Stadium de Toronto, endommagé par un orage avant le concert prévu le 16 septembre.",
+   "horodate": "2026-09-05T05:54-04:00",
    "sources": [
     {
      "media": "Québecor",
@@ -1730,11 +2419,18 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2280639/stade-rogers-toronto-securite-orage",
      "date": "2026-09-04T12:32-04:00",
      "auteur": "Michel Bolduc"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12048266/rogers-stadium-repair-order/",
+     "date": "2026-09-05T06:27-04:00"
     }
    ],
    "image_auto": "aucune",
    "permalien": "le-rogers-stadium-de-toronto-endommage-par-un-violent-orage-d09081",
    "_fichier": "revue-report-2026-09-05.json",
+   "photo_auteur": "Kyy0602",
+   "photo_licence": "CC0",
    "_volet": "report",
    "_slug": "le-rogers-stadium-de-toronto-endommage-par-un-violent-orage-d09081"
   },
@@ -1745,7 +2441,7 @@
    "territoire": "Québec",
    "medias": "La Presse",
    "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-04/l-education-a-l-ere-de-l-ia/le-prochain-grand-chantier-du-quebec.php",
-   "resume": "L'économiste Pierre Fortin et Jonathan Perrier estiment que le Québec doit se doter d'une stratégie nationale sur l'intelligence artificielle en éducation, au moment où l'idée d'un grand forum public sur l'école gagne du terrain.",
+   "resume": "Les deux signataires publient leur appel alors que l'idée d'un grand forum public sur l'école gagne du terrain.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-04T15:54-04:00",
@@ -1857,23 +2553,31 @@
    "cahier": "canada",
    "rubrique": "environnement",
    "territoire": "Canada",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, La Presse, Canada's National Observer, APTN News",
    "url": "https://ici.radio-canada.ca/nouvelle/2280831/changements-climatiques-canada-irreversibles-rapport",
-   "resume": "Le constat est accablant, alors même qu'Ottawa recule sur plusieurs engagements climatiques pris il y a deux ans.",
-   "photo": "",
-   "legende": "",
-   "horodate": "2026-09-04T22:03-04:00",
+   "resume": "Mise à jour, 5 h 54 — Le communiqué d'Ottawa passait sous silence l'essentiel : un réchauffement de 5°C est possible d'ici 2100.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Centre_Block_-_Parliament_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "legende": "La colline du Parlement, à Ottawa, d'où provient le rapport fédéral sur les impacts climatiques.",
+   "horodate": "2026-09-05T05:54-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280831/changements-climatiques-canada-irreversibles-rapport",
      "auteur": "La Presse canadienne",
      "date": "2026-09-04T22:07-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-09-04/climat-canadien/ottawa-publie-en-sourdine-un-rapport-majeur.php",
+     "auteur": "Éric-Pierre Champagne",
+     "date": "2026-09-05T06:27-04:00"
     }
    ],
    "permalien": "un-rapport-federal-juge-les-impacts-climatiques-deja-irrever-d4159f",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-05.json",
+   "photo_auteur": "Saffron Blaze",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "report",
    "_slug": "un-rapport-federal-juge-les-impacts-climatiques-deja-irrever-d4159f"
   },
@@ -1944,7 +2648,7 @@
    "cahier": "quebec",
    "rubrique": "sante",
    "territoire": "Québec",
-   "medias": "Les Affaires",
+   "medias": "Les Affaires, Gouvernement du Québec",
    "url": "https://www.lesaffaires.com/communique-de-presse/negociations-pour-le-renouvellement-des-ententes-collectives-dans-les-secteurs-public-et-parapublic-quebec-annonce-une-entente-de-principe-avec-le-regroupement-les-sages-femmes-du-quebec/",
    "resume": "Une entente de quatre ans touche plus de 300 sages-femmes et pourrait faciliter l'accès aux suivis de grossesse.",
    "photo": "",
@@ -1955,6 +2659,11 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/communique-de-presse/negociations-pour-le-renouvellement-des-ententes-collectives-dans-les-secteurs-public-et-parapublic-quebec-annonce-une-entente-de-principe-avec-le-regroupement-les-sages-femmes-du-quebec/",
      "date": "2026-09-04T22:07-04:00"
+    },
+    {
+     "media": "Gouvernement du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/negociations-pour-le-renouvellement-des-ententes-collectives-dans-les-secteurs-public-et-parapublic-quebec-annonce-une-entente-de-principe-avec-le-regroupement-les-sages-femmes-du-quebec-72394",
+     "date": "2026-09-05T06:27-04:00"
     }
    ],
    "permalien": "quebec-s-entend-en-principe-avec-les-sages-femmes-de-la-prov-7f8855",
