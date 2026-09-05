@@ -3,6 +3,7 @@
  "volets": [
   "elections",
   "monde",
+  "presse-regionale",
   "quebec-canada",
   "report",
   "savoirs"
@@ -187,6 +188,131 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "le-climat-absent-des-discours-de-campagne-faconnerait-deja-l-56a67b"
+  },
+  {
+   "titre": "Des paramédics de Beauce-Sud interpellent Christine Fréchette en pleine tournée électorale",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Chaudière-Appalaches (Beauce-Sud)",
+   "medias": "EnBeauce.com",
+   "url": "https://www.enbeauce.com/actualites/societe/673829/les-paramedics-ont-interpelle-la-premiere-ministre-lors-de-sa-visite-a-saint-georges",
+   "resume": "Reste à savoir si l'engagement pris sur le vif se traduira en gestes concrets.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "EnBeauce.com",
+     "url": "https://www.enbeauce.com/actualites/societe/673829/les-paramedics-ont-interpelle-la-premiere-ministre-lors-de-sa-visite-a-saint-georges",
+     "auteur": "Germain Chartier",
+     "date": "2026-09-05T07:21-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T11:21+00:00",
+   "permalien": "des-paramedics-de-beauce-sud-interpellent-christine-frechett-d0669e",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "des-paramedics-de-beauce-sud-interpellent-christine-frechett-d0669e"
+  },
+  {
+   "titre": "Le PCQ promet jusqu'à 5200 $ par an aux parents sans place en garderie subventionnée",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Chaudière-Appalaches (Beauce)",
+   "medias": "EnBeauce.com",
+   "url": "https://www.enbeauce.com/actualites/elections-provinciales-2026/673811/une-journee-toute-en-beauce-pour-eric-duhaime",
+   "resume": "De quoi changer le calcul pour des milliers de familles qui jonglent encore avec une liste d'attente.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "EnBeauce.com",
+     "url": "https://www.enbeauce.com/actualites/elections-provinciales-2026/673811/une-journee-toute-en-beauce-pour-eric-duhaime",
+     "auteur": "Sylvio Morin",
+     "date": "2026-09-05T07:21-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T11:21+00:00",
+   "permalien": "le-pcq-promet-jusqu-a-5200-par-an-aux-parents-sans-place-en-47a567",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "le-pcq-promet-jusqu-a-5200-par-an-aux-parents-sans-place-en-47a567"
+  },
+  {
+   "titre": "Dans Beauce-Sud, Samuel Poulin attaque le PCQ sur les tarifs et le PQ sur un référendum",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Chaudière-Appalaches (Beauce-Sud)",
+   "medias": "EnBeauce.com",
+   "url": "https://www.enbeauce.com/actualites/elections-provinciales-2026/673752/un-referendum-c-est-un-tarif-dit-le-candidat-samuel-poulin",
+   "resume": "Selon le ministre sortant, un référendum coûterait cher à une Beauce déjà frappée par les tarifs américains.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "EnBeauce.com",
+     "url": "https://www.enbeauce.com/actualites/elections-provinciales-2026/673752/un-referendum-c-est-un-tarif-dit-le-candidat-samuel-poulin",
+     "auteur": "Sylvio Morin",
+     "date": "2026-09-05T07:21-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T11:21+00:00",
+   "permalien": "dans-beauce-sud-samuel-poulin-attaque-le-pcq-sur-les-tarifs-201b18",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "dans-beauce-sud-samuel-poulin-attaque-le-pcq-sur-les-tarifs-201b18"
+  },
+  {
+   "titre": "Dans Papineau, les élus locaux réclament santé, routes et logement au futur gouvernement",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Outaouais (Papineau)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280853/elections-provinicales-papineau-2026-priorites",
+   "resume": "Un débat électoral est prévu le 21 septembre, mais deux partis ont déjà décliné d'y participer.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280853/elections-provinicales-papineau-2026-priorites",
+     "auteur": "Clément Lechat",
+     "date": "2026-09-05T07:21-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T11:21+00:00",
+   "permalien": "dans-papineau-les-elus-locaux-reclament-sante-routes-et-loge-096e5d",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "dans-papineau-les-elus-locaux-reclament-sante-routes-et-loge-096e5d"
+  },
+  {
+   "titre": "Au Lac-Saint-Jean, des municipalités unissent leurs voix pour réclamer du financement d'infrastructures",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Saguenay–Lac-Saint-Jean",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280862/elections-provinciales-demandes-municipalite-subvention-regions",
+   "resume": "De l'eau potable à l'itinérance, les maires font front commun avant de rencontrer les candidats.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280862/elections-provinciales-demandes-municipalite-subvention-regions",
+     "auteur": "Justine Bertrand",
+     "date": "2026-09-05T07:21-04:00"
+    }
+   ],
+   "horodate": "2026-09-05T11:21+00:00",
+   "permalien": "au-lac-saint-jean-des-municipalites-unissent-leurs-voix-pour-31c49b",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "au-lac-saint-jean-des-municipalites-unissent-leurs-voix-pour-31c49b"
   },
   {
    "titre": "L'Ukraine affirme avoir détruit un lanceur de missiles russe Bastion en Crimée occupée",
@@ -1345,6 +1471,805 @@
    "_slug": "l-opcw-confirme-la-premiere-destruction-verifiee-d-armes-chi-db6a92"
   },
   {
+   "titre": "Tadoussac et Sacré-Cœur se préparent pour la 7e édition du Béluga Ultra Trail",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Tadoussac, Sacré-Cœur (Côte-Nord)",
+   "medias": "Le Manic, Le Nord-Côtier, Le Haute Côte-Nord",
+   "url": "https://www.lemanic.ca/2026/09/05/beluga-ultra-trail-la-7e-edition-sen-vient/",
+   "resume": "Les inscriptions s’annoncent si nombreuses que l’organisation prépare sa plus grosse édition à ce jour.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/05/beluga-ultra-trail-la-7e-edition-sen-vient/",
+     "auteur": "Renaud Cyr",
+     "date": "2026-09-05T07:33-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/05/beluga-ultra-trail-la-7e-edition-sen-vient/",
+     "auteur": "Renaud Cyr",
+     "date": "2026-09-05T07:33-04:00"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/05/beluga-ultra-trail-la-7e-edition-sen-vient/",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Renaud Cyr"
+    }
+   ],
+   "permalien": "tadoussac-et-sacre-cur-se-preparent-pour-la-7e-edition-du-be-4a628c",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "tadoussac-et-sacre-cur-se-preparent-pour-la-7e-edition-du-be-4a628c"
+  },
+  {
+   "titre": "Le traversier Matane–Godbout redirigé vers Baie-Comeau ce samedi",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Matane (Bas-Saint-Laurent), Baie-Comeau, Godbout (Côte-Nord)",
+   "medias": "Le Haute Côte-Nord, Le Manic",
+   "url": "https://www.journalhcn.com/2026/09/04/la-traversee-matane-godbout-redirigee-vers-baie-comeau/",
+   "resume": "Les voyageurs qui avaient réservé pour Godbout devront revoir leur itinéraire à la dernière minute.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/04/la-traversee-matane-godbout-redirigee-vers-baie-comeau/",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Morgane Busson"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/04/la-traversee-matane-godbout-redirigee-vers-baie-comeau/",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Morgane Busson"
+    }
+   ],
+   "permalien": "le-traversier-matanegodbout-redirige-vers-baie-comeau-ce-sam-511742",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "le-traversier-matanegodbout-redirige-vers-baie-comeau-ce-sam-511742"
+  },
+  {
+   "titre": "Des citoyens de Tadoussac forment une coopérative pour racheter leurs commerces",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Tadoussac (Côte-Nord)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280674/auberge-galouine-tadoussac-cooperative-achat-logement",
+   "resume": "Un village de 800 habitants refuse de laisser ses commerces filer vers des investisseurs extérieurs.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280674/auberge-galouine-tadoussac-cooperative-achat-logement",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Lucas Sanniti"
+    }
+   ],
+   "permalien": "des-citoyens-de-tadoussac-forment-une-cooperative-pour-rache-8cbdfe",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "des-citoyens-de-tadoussac-forment-une-cooperative-pour-rache-8cbdfe"
+  },
+  {
+   "titre": "Un relevé scientifique en mer détermine dès maintenant le quota de crabe de 2027",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Côte-Nord",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280491/releve-scientifique-crabe-neiges-zone-16",
+   "resume": "Chaque crabe compté cet été pèsera directement sur ce que les pêcheurs pourront remonter dans deux ans.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280491/releve-scientifique-crabe-neiges-zone-16",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Lucas Handschuh"
+    }
+   ],
+   "permalien": "un-releve-scientifique-en-mer-determine-des-maintenant-le-qu-8f9863",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "un-releve-scientifique-en-mer-determine-des-maintenant-le-qu-8f9863"
+  },
+  {
+   "titre": "Sept-Îles ajuste sa réponse aux campements de personnes itinérantes",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Sept-Îles (Côte-Nord)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280823/sans-abri-tentes-pauvrete-cout-vie",
+   "resume": "La ville doit composer avec près d’une soixantaine de personnes sans domicile pour une poignée de places d’hébergement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280823/sans-abri-tentes-pauvrete-cout-vie",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Michèle Bouchard"
+    }
+   ],
+   "permalien": "sept-iles-ajuste-sa-reponse-aux-campements-de-personnes-itin-af7058",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "sept-iles-ajuste-sa-reponse-aux-campements-de-personnes-itin-af7058"
+  },
+  {
+   "titre": "L’avis d’ébullition de l’eau se prolonge à La Sarre",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "La Sarre (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280600/eau-test-bacteries-ebullition-aqueduc",
+   "resume": "Les résidents pourraient devoir faire bouillir leur eau jusqu’au milieu du mois, sans date de fin confirmée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280600/eau-test-bacteries-ebullition-aqueduc",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Emily Blais"
+    }
+   ],
+   "permalien": "lavis-debullition-de-leau-se-prolonge-a-la-sarre-b80398",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "lavis-debullition-de-leau-se-prolonge-a-la-sarre-b80398"
+  },
+  {
+   "titre": "Le Bureau des enquêtes indépendantes blanchit la police après une chute grave à Val-d’Or",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Val-d’Or (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280713/bei-enquete-police-val-dor",
+   "resume": "L’enquête indépendante conclut que l’intervention des patrouilleurs n’a pas contribué aux blessures graves subies.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280713/bei-enquete-police-val-dor",
+     "auteur": "Marc-André Landry",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "permalien": "le-bureau-des-enquetes-independantes-blanchit-la-police-apre-2a360a",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "le-bureau-des-enquetes-independantes-blanchit-la-police-apre-2a360a"
+  },
+  {
+   "titre": "Murdochville amorce ses propres consultations sur l’avenir de la mine de cuivre",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Murdochville (Gaspésie–Îles-de-la-Madeleine)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280840/consultation-information-scenarios-preoccupation-relance-mine-cuivre",
+   "resume": "Le scénario le plus radical envisagerait de déménager toutes les résidences pour maximiser l’exploitation du site.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280840/consultation-information-scenarios-preoccupation-relance-mine-cuivre",
+     "auteur": "Roxanne Langlois",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "murdochville-amorce-ses-propres-consultations-sur-lavenir-de-87187d",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "murdochville-amorce-ses-propres-consultations-sur-lavenir-de-87187d"
+  },
+  {
+   "titre": "Le Cégep de la Gaspésie construira une résidence étudiante à Grande-Rivière",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Grande-Rivière (Gaspésie–Îles-de-la-Madeleine)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280673/residence-etudiante-grande-riviere-cegep",
+   "resume": "L’établissement reprend les plans d’un projet réussi ailleurs en Gaspésie plutôt que de repartir de zéro.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280673/residence-etudiante-grande-riviere-cegep",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Stéphanie Rousseau"
+    }
+   ],
+   "permalien": "le-cegep-de-la-gaspesie-construira-une-residence-etudiante-a-9d539b",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "le-cegep-de-la-gaspesie-construira-une-residence-etudiante-a-9d539b"
+  },
+  {
+   "titre": "Rivière-du-Loup lance une première Grande rentrée culturelle",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Rivière-du-Loup (Bas-Saint-Laurent)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280483/rentree-culturelle-riviere-du-loup-organismes-artistes",
+   "resume": "L’événement gratuit a largement dépassé les attentes de ses organismes culturels, portés par des bénévoles.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280483/rentree-culturelle-riviere-du-loup-organismes-artistes",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Véronique Duval"
+    }
+   ],
+   "permalien": "riviere-du-loup-lance-une-premiere-grande-rentree-culturelle-2c4045",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "riviere-du-loup-lance-une-premiere-grande-rentree-culturelle-2c4045"
+  },
+  {
+   "titre": "Des résidus d’amiante font évacuer une partie de l’hôpital de Roberval",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Roberval (Saguenay–Lac-Saint-Jean)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/en-bref/1-10752912/amiante-dans-une-partie-hopital-roberval",
+   "resume": "Un centre de la petite enfance logé dans l’édifice a dû être relogé le temps des vérifications.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/1-10752912/amiante-dans-une-partie-hopital-roberval",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Rosalie Dumais-Beaulieu"
+    }
+   ],
+   "permalien": "des-residus-damiante-font-evacuer-une-partie-de-lhopital-de-c5ee79",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "des-residus-damiante-font-evacuer-une-partie-de-lhopital-de-c5ee79"
+  },
+  {
+   "titre": "Un campement militaire des années 1940 recréé à Arvida",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Arvida, Saguenay (Saguenay–Lac-Saint-Jean)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280560/arvida-patrimoine-campement-militaire",
+   "resume": "Un avion de chasse survolera le ciel du secteur pour compléter la reconstitution historique du week-end.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280560/arvida-patrimoine-campement-militaire",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Mélyssa Gagnon"
+    }
+   ],
+   "permalien": "un-campement-militaire-des-annees-1940-recree-a-arvida-78a8c6",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "un-campement-militaire-des-annees-1940-recree-a-arvida-78a8c6"
+  },
+  {
+   "titre": "La reconstruction du pavillon des Seigneurs de Trois-Rivières est lancée",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Pointe-du-Lac, Trois-Rivières (Mauricie)",
+   "medias": "Radio-Canada, Le Nouvelliste",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280809/pavillon-seigneurs-pointe-du-lac-trois-rivieres-reconstruction",
+   "resume": "L’édifice renaît plus de quatre ans après avoir été rasé par un incendie criminel à Pointe-du-Lac.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280809/pavillon-seigneurs-pointe-du-lac-trois-rivieres-reconstruction",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Pascale Langlois"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/actualites-locales/trois-rivieres/2026/09/04/detruit-par-le-vandalisme-le-pavillon-des-seigneurs-est-reconstruit-WREYQB4KWBGFBEGJK2ZDPHY2SM/",
+     "auteur": "Gabriel Delisle",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "la-reconstruction-du-pavillon-des-seigneurs-de-trois-riviere-062ddf",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "la-reconstruction-du-pavillon-des-seigneurs-de-trois-riviere-062ddf"
+  },
+  {
+   "titre": "Québec donne son feu vert à la relance de la centrale de Saint-Narcisse",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Saint-Narcisse (Mauricie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280867/refection-centrale-st-narcisse-mauricie-hydroelectricite",
+   "resume": "Les promoteurs craignaient que le déclenchement des élections ne vienne retarder encore ce projet hydroélectrique communautaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280867/refection-centrale-st-narcisse-mauricie-hydroelectricite",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Pascale Langlois"
+    }
+   ],
+   "permalien": "quebec-donne-son-feu-vert-a-la-relance-de-la-centrale-de-sai-9ef0c4",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "quebec-donne-son-feu-vert-a-la-relance-de-la-centrale-de-sai-9ef0c4"
+  },
+  {
+   "titre": "Une automobiliste meurt dans une collision frontale avec un camion lourd à Stornoway",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Stornoway (Estrie)",
+   "medias": "Radio-Canada, La Tribune, Zone 911",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280805/accident-stornoway-fermeture-route-161",
+   "resume": "Le véhicule aurait dévié dans la voie inverse pour une raison encore inconnue de la Sûreté du Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280805/accident-stornoway-fermeture-route-161",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Charlotte Dubois et Laurence Trahan"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/justice-et-faits-divers/2026/09/04/un-camion-lourd-implique-dans-une-collision-mortelle-a-stornoway-5426VNW3MFFZZNJ464BBE4CRLM/",
+     "auteur": "Charles Ferron",
+     "date": "2026-09-05T07:33-04:00"
+    },
+    {
+     "media": "Zone 911",
+     "url": "https://zone911.com/accidents/accident-mortel-sur-la-route-161-a-stornoway",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "une-automobiliste-meurt-dans-une-collision-frontale-avec-un-8f7a92",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "une-automobiliste-meurt-dans-une-collision-frontale-avec-un-8f7a92"
+  },
+  {
+   "titre": "Magog ouvre la voie à une future maison de soins palliatifs",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Magog (Estrie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280676/projet-maison-soins-palliatifs-magog",
+   "resume": "Le terrain n’a pas encore de projet déposé, mais la Ville modifie déjà son zonage pour l’accueillir.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280676/projet-maison-soins-palliatifs-magog",
+     "auteur": "Charlotte Dubois et Guylaine Charette",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "magog-ouvre-la-voie-a-une-future-maison-de-soins-palliatifs-f0cb4c",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "magog-ouvre-la-voie-a-une-future-maison-de-soins-palliatifs-f0cb4c"
+  },
+  {
+   "titre": "Le Cégep de l’Outaouais réclame l’espace pour tripler sa capacité en santé",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Le Droit, Radio-Canada",
+   "url": "https://www.ledroit.com/actualites/education/2026/09/04/pas-de-cegep-pas-dhopital-loutaouais-simpatiente-77EN3KAQTJBAXORFMIYFAL4Y4I/",
+   "resume": "Près d’une demande sur trois est refusée depuis trois ans, faute de place dans les programmes de santé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/education/2026/09/04/pas-de-cegep-pas-dhopital-loutaouais-simpatiente-77EN3KAQTJBAXORFMIYFAL4Y4I/",
+     "auteur": "Daniel LeBlanc",
+     "date": "2026-09-04T15:53-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280691/cegep-outaouais-demandes-sante-elections",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Martin Comtois"
+    }
+   ],
+   "permalien": "le-cegep-de-loutaouais-reclame-lespace-pour-tripler-sa-capac-d82008",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "le-cegep-de-loutaouais-reclame-lespace-pour-tripler-sa-capac-d82008"
+  },
+  {
+   "titre": "Une entreprise familiale ontarienne pèse ses options face aux tarifs américains de 50 %",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Kemptville (Ontario)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280735/dfc-woodworks-tarifs-douaniers-etats-unis",
+   "resume": "Rester, hausser les prix au risque de tout perdre, ou déménager sa production au sud.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280735/dfc-woodworks-tarifs-douaniers-etats-unis",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "une-entreprise-familiale-ontarienne-pese-ses-options-face-au-6ee31a",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "une-entreprise-familiale-ontarienne-pese-ses-options-face-au-6ee31a"
+  },
+  {
+   "titre": "Le virus de la rage du raton laveur inquiète après deux cas félins cet été",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/episodes/1220962/vendredi-4-septembre-2026",
+   "resume": "Un vétérinaire fait le point sur ce qu’il faut savoir avant de s’inquiéter pour de bon.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/episodes/1220962/vendredi-4-septembre-2026",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "le-virus-de-la-rage-du-raton-laveur-inquiete-apres-deux-cas-21bcf5",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "le-virus-de-la-rage-du-raton-laveur-inquiete-apres-deux-cas-21bcf5"
+  },
+  {
+   "titre": "Le DPCP ne portera pas d’accusations dans la mort violente d’une octogénaire à Saint-Georges",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Saint-Georges (Chaudière-Appalaches)",
+   "medias": "Radio-Canada, Le Soleil, EnBeauce.com",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280617/octogenaire-marchette-mort-saint-georges-coroner",
+   "resume": "Le coroner n’a pas pu établir de lien direct entre l’agression et son décès à l’hôpital.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280617/octogenaire-marchette-mort-saint-georges-coroner",
+     "auteur": "Audrey Paris",
+     "date": "2026-09-05T06:27-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/04/un-deces-violent-pour-loctogenaire-agressee-a-lhopital-de-saint-georges-DHPHBV63NVHZTFB2L2ZXP7MUGA/",
+     "auteur": "Mégan Harvey",
+     "date": "2026-09-05T07:33-04:00"
+    },
+    {
+     "media": "EnBeauce.com",
+     "url": "https://www.enbeauce.com/actualites/faits-divers/673887/octogenaire-tuee-a-l-hopital-de-saint-georges-le-coroner-publie-son-rapport-d-enquete",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Sylvio Morin"
+    }
+   ],
+   "permalien": "le-dpcp-ne-portera-pas-daccusations-dans-la-mort-violente-du-d629cd",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "le-dpcp-ne-portera-pas-daccusations-dans-la-mort-violente-du-d629cd"
+  },
+  {
+   "titre": "Une pétition de mille noms juge incomplètes les réparations du pont à Saint-Joseph-de-Beauce",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Saint-Joseph-de-Beauce (Chaudière-Appalaches)",
+   "medias": "EnBeauce.com",
+   "url": "https://www.enbeauce.com/actualites/travaux-et-circulation/673920/pont-de-saint-joseph-de-beauce-des-ajustements-incomplets",
+   "resume": "Plus de mille signataires avaient réclamé ces correctifs, que l’auteur de la pétition juge encore insuffisants.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "EnBeauce.com",
+     "url": "https://www.enbeauce.com/actualites/travaux-et-circulation/673920/pont-de-saint-joseph-de-beauce-des-ajustements-incomplets",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Sylvio Morin"
+    }
+   ],
+   "permalien": "une-petition-de-mille-noms-juge-incompletes-les-reparations-963f3d",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "une-petition-de-mille-noms-juge-incompletes-les-reparations-963f3d"
+  },
+  {
+   "titre": "Charlevoix veut cartographier ce qui reste de ses anciennes pêches à fascine",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Charlevoix",
+   "medias": "Le Charlevoisien",
+   "url": "https://www.lecharlevoisien.com/2026/09/05/charlevoix-veut-retrouver-les-traces-de-ses-anciennes-pecheries/",
+   "resume": "Les deux MRC espèrent faire reconnaître cette technique ancestrale comme patrimoine immatériel de la région.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/05/charlevoix-veut-retrouver-les-traces-de-ses-anciennes-pecheries/",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Félix Côté"
+    }
+   ],
+   "permalien": "charlevoix-veut-cartographier-ce-qui-reste-de-ses-anciennes-cddd52",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "charlevoix-veut-cartographier-ce-qui-reste-de-ses-anciennes-cddd52"
+  },
+  {
+   "titre": "Les élus du Centre-du-Québec réclament plus d’investissements pour soutenir la croissance régionale",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Centre-du-Québec",
+   "medias": "La Tribune, Le Nouvelliste",
+   "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/centre-du-quebec-croissance-economie-et-sante-au-coeur-des-priorites-XPHJPYT5RRCQFAFLMLZPBN3BBM/",
+   "resume": "La région la plus manufacturière du Québec, au prorata de sa population, réclame un ministre dédié à l’industrie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/04/centre-du-quebec-croissance-economie-et-sante-au-coeur-des-priorites-XPHJPYT5RRCQFAFLMLZPBN3BBM/",
+     "auteur": "Sébastien Lacroix",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "les-elus-du-centre-du-quebec-reclament-plus-dinvestissements-ebe637",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "les-elus-du-centre-du-quebec-reclament-plus-dinvestissements-ebe637"
+  },
+  {
+   "titre": "Plus de 100 000 $ de drogue saisis près du métro Longueuil",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Longueuil (Montérégie)",
+   "medias": "Le Courrier du Sud",
+   "url": "https://lecourrierdusud.ca/longueuil-plus-de-100-000-de-stupefiants-saisis/",
+   "resume": "Une enquête déclenchée par des signalements citoyens a mené à une perquisition appuyée par une unité tactique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Le Courrier du Sud",
+     "url": "https://lecourrierdusud.ca/longueuil-plus-de-100-000-de-stupefiants-saisis/",
+     "auteur": "Sylvain Daignault",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "plus-de-100-000-de-drogue-saisis-pres-du-metro-longueuil-b33eb1",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "plus-de-100-000-de-drogue-saisis-pres-du-metro-longueuil-b33eb1"
+  },
+  {
+   "titre": "À Boucherville, deux travailleurs de milieu vont à la rencontre des ados dans la rue",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Boucherville (Montérégie)",
+   "medias": "La Relève",
+   "url": "https://lareleve.qc.ca/2026/09/05/pour-aller-a-la-rencontre-des-jeunes-des-travailleurs-de-milieu-a-boucherville/",
+   "resume": "Écoles, parcs, skatepark : le duo rejoint ceux qui ne franchissent jamais la porte d’une maison des jeunes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "La Relève",
+     "url": "https://lareleve.qc.ca/2026/09/05/pour-aller-a-la-rencontre-des-jeunes-des-travailleurs-de-milieu-a-boucherville/",
+     "auteur": "Diane Lapointe",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "a-boucherville-deux-travailleurs-de-milieu-vont-a-la-rencont-e911f5",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "a-boucherville-deux-travailleurs-de-milieu-vont-a-la-rencont-e911f5"
+  },
+  {
+   "titre": "Un immeuble de 142 logements sort de terre dans le quartier Auteuil à Laval",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Laval (Auteuil)",
+   "medias": "Courrier Laval",
+   "url": "https://courrierlaval.com/56-m-pour-142-logements-dans-auteuil/",
+   "resume": "Le projet de 56 millions promet piscine, gym et terrasse sur le toit dès l’été prochain.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/56-m-pour-142-logements-dans-auteuil/",
+     "auteur": "Stéphane St-Amour",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "un-immeuble-de-142-logements-sort-de-terre-dans-le-quartier-6f6bf1",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "un-immeuble-de-142-logements-sort-de-terre-dans-le-quartier-6f6bf1"
+  },
+  {
+   "titre": "Des coups de feu tirés vers une résidence de Sainte-Dorothée à Laval",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Laval (Sainte-Dorothée)",
+   "medias": "Courrier Laval",
+   "url": "https://courrierlaval.com/coups-de-feu-vers-une-maison-de-louest-de-laval/",
+   "resume": "Plusieurs détonations entendues vers 1 h 30 ont mobilisé des patrouilleurs du Service de police de Laval.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/coups-de-feu-vers-une-maison-de-louest-de-laval/",
+     "auteur": "Benoit LeBlanc",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "des-coups-de-feu-tires-vers-une-residence-de-sainte-dorothee-3d81d6",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "des-coups-de-feu-tires-vers-une-residence-de-sainte-dorothee-3d81d6"
+  },
+  {
+   "titre": "Une femme meurt dans un accident sur l’autoroute 640 à Bois-des-Filion",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Bois-des-Filion (Laurentides)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280557/femme-morte-accident-autoroute-640-bois-filion",
+   "resume": "Toutes les voies en direction est ont dû être fermées à la circulation pendant l’intervention des secours.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280557/femme-morte-accident-autoroute-640-bois-filion",
+     "date": "2026-09-05T07:33-04:00",
+     "auteur": "Félix-Antoine Beauchemin"
+    }
+   ],
+   "permalien": "une-femme-meurt-dans-un-accident-sur-lautoroute-640-a-bois-d-16a674",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "une-femme-meurt-dans-un-accident-sur-lautoroute-640-a-bois-d-16a674"
+  },
+  {
+   "titre": "Un tribunal force Québec à maintenir le financement du Collège LaSalle",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Montréal",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/player/play/video/9.7332921",
+   "resume": "Les cours reprennent normalement après une suspension déclenchée par une demande de protection contre les créanciers.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/player/play/video/9.7332921",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "un-tribunal-force-quebec-a-maintenir-le-financement-du-colle-733ac6",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "un-tribunal-force-quebec-a-maintenir-le-financement-du-colle-733ac6"
+  },
+  {
+   "titre": "Montréal conteste en appel le jugement qui bloque le démantèlement d’un campement au Mile End",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Montréal (Mile End)",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/montreal-appeals-encampment-van-horne-skatepark-basketball-court-9.7332788?cmp=rss",
+   "resume": "Une clinique juridique itinérante avait fait bloquer les évictions prévues près d’un skatepark et d’un terrain de basketball.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T07:26-04:00",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-appeals-encampment-van-horne-skatepark-basketball-court-9.7332788?cmp=rss",
+     "date": "2026-09-05T07:33-04:00"
+    }
+   ],
+   "permalien": "montreal-conteste-en-appel-le-jugement-qui-bloque-le-demante-81ccca",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-05.json",
+   "_slug": "montreal-conteste-en-appel-le-jugement-qui-bloque-le-demante-81ccca"
+  },
+  {
    "titre": "L'économie canadienne perd 42 000 emplois en août, le taux de chômage reste stable à 6,4 %",
    "cahier": "canada",
    "rubrique": "economie",
@@ -2109,7 +3034,7 @@
    "cahier": "quebec",
    "rubrique": "justice",
    "territoire": "Montérégie-Ouest (Montérégie)",
-   "medias": "Le Soleil de Châteauguay",
+   "medias": "Le Soleil de Châteauguay, Le Reflet, Le Saint-François",
    "url": "https://cybersoleil.com/allegation-de-fraude-contre-la-presidente-de-la-fiq-monteregie-ouest/",
    "resume": "Des irrégularités comptables pourraient constituer une fraude, selon les dirigeants du syndicat qui l'ont démise de ses fonctions.",
    "photo": "",
@@ -2120,6 +3045,18 @@
      "media": "Le Soleil de Châteauguay",
      "url": "https://cybersoleil.com/allegation-de-fraude-contre-la-presidente-de-la-fiq-monteregie-ouest/",
      "date": "2026-09-04T13:43-04:00",
+     "auteur": "Éric Tremblay"
+    },
+    {
+     "media": "Le Reflet",
+     "url": "https://lereflet.qc.ca/allegation-de-fraude-contre-la-presidente-de-la-fiq-monteregie-ouest/",
+     "date": "2026-09-05T07:29-04:00",
+     "auteur": "Éric Tremblay"
+    },
+    {
+     "media": "Le Saint-François",
+     "url": "https://journalsaint-francois.ca/allegation-de-fraude-contre-la-presidente-de-la-fiq-monteregie-ouest/",
+     "date": "2026-09-05T07:29-04:00",
      "auteur": "Éric Tremblay"
     }
    ],
