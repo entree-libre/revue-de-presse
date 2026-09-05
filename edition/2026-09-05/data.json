@@ -1274,13 +1274,18 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "La Presse, Le Soleil",
+   "medias": "Coalition avenir Québec, La Presse, Le Soleil",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/milliard-accuse-frechette-de-mentir-sur-les-garderies.php",
-   "resume": "Reste à savoir combien de ces places seront vraiment neuves d'ici le jour du vote.",
+   "resume": "Mise à jour, 18 h — Reste à savoir si la prime de 10 000 $ suffira à recruter assez d'éducatrices.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-05T14:26-04:00",
+   "horodate": "2026-09-05T17:58-04:00",
    "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/05/lequipe-frechette-ajoutera-encore-plus-de-places-en-garderie/",
+     "date": "2026-09-05T18:00-04:00"
+    },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/milliard-accuse-frechette-de-mentir-sur-les-garderies.php",
@@ -1340,13 +1345,19 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Le Devoir, La Presse, Québecor, Les Affaires",
+   "medias": "Parti québécois, Le Devoir, La Presse, Québecor, Les Affaires",
    "url": "https://www.ledevoir.com/politique/quebec/1006847/pq-gelerait-salaires-deputes-ministres-p-g-societes-etat",
    "resume": "Certains dirigeants touchent leur boni même quand les résultats de leur société reculent, dénonce le chef péquiste.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-05T14:26-04:00",
    "sources": [
+    {
+     "media": "Parti québécois",
+     "url": "https://pq.org/nouvelles/exemplarite-de-letat-un-gouvernement-du-parti-quebecois-gelera-le-salaire-des-deputes-ministres-et-dirigeants-des-societes-detat/",
+     "auteur": "Emmanuel Renaud",
+     "date": "2026-09-05T18:00-04:00"
+    },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1006847/pq-gelerait-salaires-deputes-ministres-p-g-societes-etat",
@@ -1484,10 +1495,15 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Les Affaires",
+   "medias": "Parti conservateur du Québec, Les Affaires",
    "url": "https://www.lesaffaires.com/secteurs/politique/jour-10-le-pcq-mise-sur-laccessibilite-en-ligne/",
-   "resume": "Reste à savoir si la solution proposée éviterait un nouveau ratage informatique gouvernemental.",
+   "resume": "Mise à jour, 18 h — Reste à savoir si les 3,45 milliards d'économies promis résisteront à un vrai chantier informatique.",
    "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/les-conservateurs-misent-sur-le-numerique-pour-economiser-345-milliards-de-dollars-et-accelerer-lacces-aux-services-publics/",
+     "date": "2026-09-05T18:00-04:00"
+    },
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-10-le-pcq-mise-sur-laccessibilite-en-ligne/",
@@ -1496,7 +1512,7 @@
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-05T16:26-04:00",
+   "horodate": "2026-09-05T17:58-04:00",
    "permalien": "le-parti-conservateur-du-quebec-devoile-une-plateforme-numer-212863",
    "image_auto": "aucune",
    "_volet": "elections",
