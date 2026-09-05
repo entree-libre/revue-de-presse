@@ -6,6 +6,31 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/frechette-rejette-les-accusations-d-attiser-l-anxiete-avec-t-8d8c6a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/frechette-rejette-les-accusations-d-attiser-l-anxiete-avec-t-8d8c6a.html",
+   "title": "Fréchette rejette les accusations d'attiser l'anxiété avec Trump",
+   "content_text": "PSPP l'accuse de brandir Trump pour attiser la peur, elle renvoie l'accusation aux autres partis.",
+   "date_modified": "2026-09-05T19:19:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/a-verdun-un-candidat-liberal-denonce-l-absence-de-l-environn-739667.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/a-verdun-un-candidat-liberal-denonce-l-absence-de-l-environn-739667.html",
+   "title": "À Verdun, un candidat libéral dénonce l'absence de l'environnement dans le débat électoral",
+   "content_text": "Un rapport fédéral promet des degrés en plus, mais l'environnement reste hors radar des chefs de parti.",
+   "date_modified": "2026-09-05T19:19:00-04:00",
+   "tags": [
+    "Québec (Verdun)",
+    "Élections Québec 2026",
+    "Environnement et climat"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-05/a/milliard-dit-que-frechette-gonfle-a-25-000-ses-places-en-gar-4bc0bf.html",
    "url": "https://entreelibre.ca/edition/2026-09-05/a/milliard-dit-que-frechette-gonfle-a-25-000-ses-places-en-gar-4bc0bf.html",
    "title": "Milliard dit que Fréchette gonfle à 25 000 ses places en garderie",
@@ -963,30 +988,6 @@
     "Pointe-du-Lac, Trois-Rivières (Mauricie)",
     "Québec et ses régions",
     "Société et culture"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-donne-son-feu-vert-a-la-relance-de-la-centrale-de-sai-9ef0c4.html",
-   "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-donne-son-feu-vert-a-la-relance-de-la-centrale-de-sai-9ef0c4.html",
-   "title": "Québec donne son feu vert à la relance de la centrale de Saint-Narcisse",
-   "content_text": "Les promoteurs craignaient que le déclenchement des élections ne vienne retarder encore ce projet hydroélectrique communautaire.",
-   "date_modified": "2026-09-05T07:26:00-04:00",
-   "tags": [
-    "Saint-Narcisse (Mauricie)",
-    "Québec et ses régions",
-    "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-05/a/une-automobiliste-meurt-dans-une-collision-frontale-avec-un-8f7a92.html",
-   "url": "https://entreelibre.ca/edition/2026-09-05/a/une-automobiliste-meurt-dans-une-collision-frontale-avec-un-8f7a92.html",
-   "title": "Une automobiliste meurt dans une collision frontale avec un camion lourd à Stornoway",
-   "content_text": "Le véhicule aurait dévié dans la voie inverse pour une raison encore inconnue de la Sûreté du Québec.",
-   "date_modified": "2026-09-05T07:26:00-04:00",
-   "tags": [
-    "Stornoway (Estrie)",
-    "Québec et ses régions",
-    "Justice et sécurité publique"
    ]
   }
  ]

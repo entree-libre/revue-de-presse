@@ -1141,6 +1141,11 @@
      "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/05/quebec-solidaire-veut-creer-une-nouvelle-porte-dentree-dans-le-reseau-de-la-sante-EALGW3LMUJFYNIIUO5QM2O6HTU/",
      "auteur": "Laurence Richard",
      "date": "2026-09-05T16:31-04:00"
+    },
+    {
+     "media": "Québec solidaire",
+     "url": "https://api-wp.quebecsolidaire.net/articles/quebec-solidaire-va-refaire-des-clsc-la-porte-dentree-du-systeme-de-sante/",
+     "date": "2026-09-05T19:19-04:00"
     }
    ],
    "permalien": "quebec-solidaire-promet-un-reseau-de-400-clsc-pour-desengorg-2194ff",
@@ -1154,7 +1159,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "La Presse, Coops de l'information, Radio-Canada, Les Affaires",
+   "medias": "La Presse, Coops de l'information, Radio-Canada, Les Affaires, CBC",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/le-pq-cache-le-mot-referendum-pour-paraitre-plus-soft-accuse-frechette.php",
    "resume": "Mise à jour, 16 h — Milliard s'invite dans la dispute et accuse Fréchette de récupérer la guerre commerciale américaine.",
    "photo": "",
@@ -1212,6 +1217,11 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-10-frechette-accuse-pspp-de-ne-pas-parler-de-referendum/",
      "date": "2026-09-05T16:31-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/health-care-affordability-quebec-election-9.7334011",
+     "date": "2026-09-05T19:19-04:00"
     }
    ],
    "horodate": "2026-09-05T16:26-04:00",
@@ -1417,7 +1427,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Québecor, La Presse",
+   "medias": "Québecor, La Presse, Radio-Canada",
    "url": "https://www.journaldequebec.com/2026/09/05/discorde-sur-les-services-de-garde-frechette-promet-une-prime-de-10-000--aux-nouvelles-educatrices-duhaime-laccuse-detre-une--feministe-du-passe",
    "resume": "Chacun accuse l'autre de mal comprendre l'égalité des sexes en pleine campagne électorale.",
    "sources": [
@@ -1431,6 +1441,12 @@
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-05/le-feminisme-de-frechette-est-depasse-lance-duhaime.php",
      "auteur": "Charles Lecavalier",
      "date": "2026-09-05T16:31-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281013/duhaime-accuse-frechette-feminisme-depasse-duel-cpe",
+     "date": "2026-09-05T19:19-04:00",
+     "auteur": "Adrien Banville"
     }
    ],
    "photo": "",
@@ -1454,7 +1470,8 @@
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/05/chauffeur-attitre--dolivier-primeau--un-proche-des-hells-angels-sinvite-dans-la-campagne-de-la-caq-et-mobilise-la-police-avec-ses-fausses-images-generees-par-lia",
-     "date": "2026-09-05T16:31-04:00"
+     "date": "2026-09-05T16:31-04:00",
+     "auteur": "Félix Séguin et Eric Thibault"
     }
    ],
    "photo": "",
@@ -1574,6 +1591,61 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "quebec-solidaire-presse-les-quatre-autres-chefs-d-agir-pour-ec970c"
+  },
+  {
+   "titre": "Fréchette rejette les accusations d'attiser l'anxiété avec Trump",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1006862/frechette-defend-creer-anxiete",
+   "resume": "PSPP l'accuse de brandir Trump pour attiser la peur, elle renvoie l'accusation aux autres partis.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006862/frechette-defend-creer-anxiete",
+     "auteur": "Isabelle Porter et Mathilde Beaulieu-Lépine",
+     "date": "2026-09-05T19:19-04:00"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Christine_Fr%C3%A9chette_2024.jpg",
+   "legende": "Christine Fréchette, première ministre sortante et cheffe de la Coalition avenir Québec.",
+   "horodate": "2026-09-05T19:19-04:00",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "permalien": "frechette-rejette-les-accusations-d-attiser-l-anxiete-avec-t-8d8c6a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "frechette-rejette-les-accusations-d-attiser-l-anxiete-avec-t-8d8c6a"
+  },
+  {
+   "titre": "À Verdun, un candidat libéral dénonce l'absence de l'environnement dans le débat électoral",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec (Verdun)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10753595/environnement-un-angle-mort-campagne-electorale",
+   "resume": "Un rapport fédéral promet des degrés en plus, mais l'environnement reste hors radar des chefs de parti.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10753595/environnement-un-angle-mort-campagne-electorale",
+     "date": "2026-09-05T19:19-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10753598/question-climatique-absente-campagne-provinciale",
+     "date": "2026-09-05T19:19-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T19:19-04:00",
+   "permalien": "a-verdun-un-candidat-liberal-denonce-l-absence-de-l-environn-739667",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-05.json",
+   "_slug": "a-verdun-un-candidat-liberal-denonce-l-absence-de-l-environn-739667"
   },
   {
    "titre": "Ville-Marie célébrera des mariages dans son bureau Accès Montréal et autorise une tour de 18 étages",
