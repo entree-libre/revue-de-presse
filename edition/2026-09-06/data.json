@@ -1,6 +1,7 @@
 {
  "date": "2026-09-06",
  "volets": [
+  "economie-opinions",
   "elections",
   "monde",
   "presse-regionale",
@@ -8,6 +9,261 @@
   "report"
  ],
  "articles": [
+  {
+   "titre": "Les ventes de maisons chutent de 13 % à Montréal, mais les prix continuent de grimper",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Le Devoir, The Globe and Mail",
+   "url": "https://www.ledevoir.com/economie/1006658/ventes-residentielles-montreal-ont-chute-13-1-aout",
+   "resume": "L'offre grimpe, les acheteurs attendent, et pourtant les prix montent dans toutes les catégories.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Appartements_Bishop_Court%2C_1463%2C_rue_Bishop%2C_Montr%C3%A9al_vue_d%27ensemble%2C_fa%C3%A7ade_et_c%C3%B4t%C3%A9_gauche_11-d.na.civile-91-134.jpg/1280px-Appartements_Bishop_Court%2C_1463%2C_rue_Bishop%2C_Montr%C3%A9al_vue_d%27ensemble%2C_fa%C3%A7ade_et_c%C3%B4t%C3%A9_gauche_11-d.na.civile-91-134.jpg",
+   "photo_auteur": "Groupe de recherche en art du Québec",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Un immeuble résidentiel du centre-ville de Montréal.",
+   "horodate": "2026-09-06T09:29-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1006658/ventes-residentielles-montreal-ont-chute-13-1-aout",
+     "auteur": "La Presse canadienne",
+     "date": "2026-09-04T13:51-04:00"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-montreal-home-sales-fell-13-in-august-as-market-goes-through/",
+     "date": "2026-09-06T09:34-04:00"
+    }
+   ],
+   "permalien": "les-ventes-de-maisons-chutent-de-13-a-montreal-mais-les-prix-b77785",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-06.json",
+   "_slug": "les-ventes-de-maisons-chutent-de-13-a-montreal-mais-les-prix-b77785"
+  },
+  {
+   "titre": "Sucre, blé, maïs : la FAO chiffre la hausse des prix alimentaires observée en août",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Nations Unies",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/economie/consommation/1006655/secheresse-guerres-font-bondir-prix-alimentaires-aout-selon-fao",
+   "resume": "La sécheresse en Europe et la guerre en mer Noire poussent la facture d'épicerie vers le haut.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Wheat_field_in_early_summer_2.jpg/1280px-Wheat_field_in_early_summer_2.jpg",
+   "photo_auteur": "Lars Krogh Berg",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Un champ de blé, l'une des céréales dont le prix a bondi en août selon la FAO.",
+   "horodate": "2026-09-06T09:29-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/consommation/1006655/secheresse-guerres-font-bondir-prix-alimentaires-aout-selon-fao",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-06T09:34-04:00"
+    }
+   ],
+   "permalien": "sucre-ble-mais-la-fao-chiffre-la-hausse-des-prix-alimentaire-f72e79",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-06.json",
+   "_slug": "sucre-ble-mais-la-fao-chiffre-la-hausse-des-prix-alimentaire-f72e79"
+  },
+  {
+   "titre": "Jean Charest soutient que les politiques de Trump forceront le Canada à devenir plus fort",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-05/le-canada-remerciera-un-jour-donald-trump.php",
+   "resume": "L'ex-premier ministre y voit un mal pour un bien, si le pays cesse de dépendre d'un seul partenaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T09:29-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-05/le-canada-remerciera-un-jour-donald-trump.php",
+     "auteur": "Jean Charest",
+     "date": "2026-09-06T09:34-04:00"
+    }
+   ],
+   "permalien": "jean-charest-soutient-que-les-politiques-de-trump-forceront-8e37dc",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-06.json",
+   "_slug": "jean-charest-soutient-que-les-politiques-de-trump-forceront-8e37dc"
+  },
+  {
+   "titre": "Protéger la nature rapporterait plus de 22 milliards $ au Québec, selon une étude",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-05/la-nature-travaille-pour-nous-protegeons-la.php",
+   "resume": "Chaque dollar investi dans la conservation en générerait 0,92 $ de plus ailleurs dans l'économie québécoise.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/CascadeInQuebec.jpg/1280px-CascadeInQuebec.jpg",
+   "photo_auteur": "DenisStPierre",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Un milieu naturel au Québec.",
+   "horodate": "2026-09-06T09:29-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-05/la-nature-travaille-pour-nous-protegeons-la.php",
+     "auteur": "François Delorme et Maryline Charbonneau",
+     "date": "2026-09-06T09:34-04:00"
+    }
+   ],
+   "permalien": "proteger-la-nature-rapporterait-plus-de-22-milliards-au-queb-a7d3c0",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-06.json",
+   "_slug": "proteger-la-nature-rapporterait-plus-de-22-milliards-au-queb-a7d3c0"
+  },
+  {
+   "titre": "Selon l'IRIS, la crise du logement s'aggrave depuis trente ans de choix favorables au marché",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "IRIS",
+   "url": "https://iris-recherche.qc.ca/blogue/logement/serie-neoliberalisme-logement/",
+   "resume": "Un critère si généreux qu'un cinq et demi à 1975 $ par mois compte désormais comme abordable.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T09:29-04:00",
+   "sources": [
+    {
+     "media": "IRIS",
+     "url": "https://iris-recherche.qc.ca/blogue/logement/serie-neoliberalisme-logement/",
+     "auteur": "Louis Gaudreau",
+     "date": "2026-09-01T22:36-04:00"
+    }
+   ],
+   "permalien": "selon-l-iris-la-crise-du-logement-s-aggrave-depuis-trente-an-a595d8",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-06.json",
+   "_slug": "selon-l-iris-la-crise-du-logement-s-aggrave-depuis-trente-an-a595d8"
+  },
+  {
+   "titre": "Face aux tarifs américains, l'économie sociale propose de miser sur les biens déjà ici",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Journal de Québec",
+   "url": "https://www.journaldequebec.com/2026/09/06/des-solutions-dici-pour-faire-face-aux-tarifs",
+   "resume": "Réparer, reconditionner et partager coûterait moins cher que d'attendre le retour des bas prix d'avant.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T09:29-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/06/des-solutions-dici-pour-faire-face-aux-tarifs",
+     "auteur": "Marie-France Bellemare et Dave Gosselin",
+     "date": "2026-09-06T09:34-04:00"
+    }
+   ],
+   "permalien": "face-aux-tarifs-americains-l-economie-sociale-propose-de-mis-7fc683",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-06.json",
+   "_slug": "face-aux-tarifs-americains-l-economie-sociale-propose-de-mis-7fc683"
+  },
+  {
+   "titre": "Selon un analyste, l'impasse iranienne nourrit la flambée des taux obligataires mondiaux",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/commentary/article-trump-wanted-to-blow-up-iran-he-may-have-detonated-the-bond-market/",
+   "resume": "Entre pétrole plus cher et dette occidentale qui explose, l'inflation pourrait revenir hanter l'automne.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Lower_Manhattan_from_Governors_Island_with_a_fishing_boat_%2846294p%29.jpg/1280px-Lower_Manhattan_from_Governors_Island_with_a_fishing_boat_%2846294p%29.jpg",
+   "photo_auteur": "Rhododendrites",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Le quartier financier de Manhattan, à New York.",
+   "horodate": "2026-09-06T09:29-04:00",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/commentary/article-trump-wanted-to-blow-up-iran-he-may-have-detonated-the-bond-market/",
+     "auteur": "John Rapley",
+     "date": "2026-09-06T09:34-04:00"
+    }
+   ],
+   "permalien": "selon-un-analyste-l-impasse-iranienne-nourrit-la-flambee-des-a4ef9a",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-06.json",
+   "_slug": "selon-un-analyste-l-impasse-iranienne-nourrit-la-flambee-des-a4ef9a"
+  },
+  {
+   "titre": "Le plus grand fonds souverain au monde propose de réduire de 80 milliards $ US ses obligations américaines",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Norvège",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-norways-23-trillion-sovereign-fund-proposes-large-cuts-to-us-treasury/",
+   "resume": "Diversifier loin des bons du Trésor américain, tout en gardant la moitié de son portefeuille en dollars US.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T09:29-04:00",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-norways-23-trillion-sovereign-fund-proposes-large-cuts-to-us-treasury/",
+     "auteur": "Iain Withers et Tommy Reggiori Wilkes",
+     "date": "2026-09-06T09:34-04:00"
+    }
+   ],
+   "permalien": "le-plus-grand-fonds-souverain-au-monde-propose-de-reduire-de-2ae93d",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-06.json",
+   "_slug": "le-plus-grand-fonds-souverain-au-monde-propose-de-reduire-de-2ae93d"
+  },
+  {
+   "titre": "À Toronto, une entrepreneuse autonome a dû se donner une augmentation pour obtenir son hypothèque",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Toronto (Ontario)",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/investing/personal-finance/article-toronto-solo-condo-buyer-my-first-home-september-6/",
+   "resume": "Travailleuse autonome, elle a dû hausser son propre salaire pour convaincre la banque de lui prêter.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/INDX_Condos_%2870_Temperance_Street%29%2C_Toronto%2C_Ontario%2C_2025-08-25.jpg/1280px-INDX_Condos_%2870_Temperance_Street%29%2C_Toronto%2C_Ontario%2C_2025-08-25.jpg",
+   "photo_auteur": "Chris Woodrich",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Un immeuble de condominiums à Toronto.",
+   "horodate": "2026-09-06T09:29-04:00",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/investing/personal-finance/article-toronto-solo-condo-buyer-my-first-home-september-6/",
+     "auteur": "Zahra Khozema",
+     "date": "2026-09-06T09:34-04:00"
+    }
+   ],
+   "permalien": "a-toronto-une-entrepreneuse-autonome-a-du-se-donner-une-augm-4e6fb8",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-06.json",
+   "_slug": "a-toronto-une-entrepreneuse-autonome-a-du-se-donner-une-augm-4e6fb8"
+  },
+  {
+   "titre": "Le concept de care, un travail resté largement invisible et porté par des femmes",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "À bâbord!",
+   "url": "https://www.ababord.org/L-ethique-du-care-partout-tout-le-temps",
+   "resume": "Un mot qu'on ne traduit pas vraiment en français, pour un travail qu'on ne voit presque jamais.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T09:29-04:00",
+   "sources": [
+    {
+     "media": "À bâbord!",
+     "url": "https://www.ababord.org/L-ethique-du-care-partout-tout-le-temps",
+     "auteur": "Isabelle Bouchard, Alicia Leclerc, Selena Philips-Boyle et Angelo Soares",
+     "date": "2026-09-06T09:34-04:00"
+    }
+   ],
+   "permalien": "le-concept-de-care-un-travail-reste-largement-invisible-et-p-513f86",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-06.json",
+   "_slug": "le-concept-de-care-un-travail-reste-largement-invisible-et-p-513f86"
+  },
   {
    "titre": "Un ingénieur doute que le pont à 3 milliards proposé par Duhaime soit réalisable",
    "cahier": "elections",
@@ -381,6 +637,31 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "le-pq-et-le-plq-s-engagent-a-relancer-une-grande-reforme-de-fb9a8a"
+  },
+  {
+   "titre": "Québec solidaire propose une taxe de 1 % à 2 % sur les grandes fortunes pour financer l'école publique",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/chroniques/1006730/revenir-jeu",
+   "resume": "Le pari finira-t-il comme les taxes orange qui avaient plombé la formation en 2022 ?",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T09:19-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/opinion/chroniques/1006730/revenir-jeu",
+     "auteur": "Konrad Yakabuski",
+     "date": "2026-09-06T09:19-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "quebec-solidaire-propose-une-taxe-de-1-a-2-sur-les-grandes-f-df5cc1",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "quebec-solidaire-propose-une-taxe-de-1-a-2-sur-les-grandes-f-df5cc1"
   },
   {
    "titre": "L'armée ukrainienne dit avoir neutralisé un radar et un système de brouillage russes dans la région de Bryansk",
