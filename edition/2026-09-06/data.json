@@ -1433,7 +1433,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada, LaPresse, Coops de l'information, Le Devoir, Le Charlevoisien, Les Affaires, Le Canada Français",
+   "medias": "Radio-Canada, LaPresse, Coops de l'information, Le Devoir, Le Charlevoisien, Les Affaires, Le Canada Français, CBC, Global News, The Globe and Mail, Le Nord-Côtier",
    "url": "https://ici.radio-canada.ca/nouvelle/2281055/frechette-conseil-ministre-tarifs-trump",
    "resume": "Mise à jour, 12 h — Ses adversaires y dénoncent une manœuvre électorale à quatre semaines du scrutin.",
    "sources": [
@@ -1514,6 +1514,30 @@
      "url": "https://www.canadafrancais.com/nouvelles-nationales/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi/",
      "date": "2026-09-06T15:05-04:00",
      "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/frechette-calls-meeting-to-discuss-impending-canadian-tariffs-9.7334487",
+     "auteur": "Charlotte Glorieux",
+     "date": "2026-09-06T18:45-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12049778/quebec-election-frechette-cabinet-meeting-trade-war/",
+     "auteur": "Globalnews Digital",
+     "date": "2026-09-06T17:40-04:00"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/article-quebec-premier-frechette-calls-cabinet-meeting-ahead-of-tariffs/",
+     "auteur": "Charlotte Glorieux",
+     "date": "2026-09-06T17:25-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/06/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi/",
+     "auteur": "Sylvain Turcotte",
+     "date": "2026-09-06T17:06-04:00"
     }
    ],
    "photo": "",
@@ -2161,6 +2185,56 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "vingt-neuf-candidatures-dont-celle-de-christine-frechette-of-9c9564"
+  },
+  {
+   "titre": "Présence Québec, un nouveau parti, présente deux candidates au Saguenay–Lac-Saint-Jean",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Lac-Saint-Jean, Dubuc)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281204/presence-quebec-stefany-tremblay",
+   "resume": "Sans étiquette idéologique, le mouvement veut réveiller l'envie de s'impliquer en politique.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281204/presence-quebec-stefany-tremblay",
+     "auteur": "Jean-François Coulombe",
+     "date": "2026-09-06T18:23-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T19:32-04:00",
+   "permalien": "presence-quebec-un-nouveau-parti-presente-deux-candidates-au-ad38b1",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "presence-quebec-un-nouveau-parti-presente-deux-candidates-au-ad38b1"
+  },
+  {
+   "titre": "À Rimouski, Québec solidaire cherche enfin la victoire qui lui échappe depuis 2014",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Rimouski)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281168/qs-rimouski-quebec-solidaire",
+   "resume": "Le parti y devance sa moyenne nationale depuis dix ans, sans jamais y être élu.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281168/qs-rimouski-quebec-solidaire",
+     "auteur": "Alix Villeneuve",
+     "date": "2026-09-06T16:32-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T19:32-04:00",
+   "permalien": "a-rimouski-quebec-solidaire-cherche-enfin-la-victoire-qui-lu-801507",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "a-rimouski-quebec-solidaire-cherche-enfin-la-victoire-qui-lu-801507"
   },
   {
    "titre": "La brûlure bactérienne a déjà fait abattre un verger à Sainte-Famille",

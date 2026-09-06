@@ -6,6 +6,30 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/presence-quebec-un-nouveau-parti-presente-deux-candidates-au-ad38b1.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/presence-quebec-un-nouveau-parti-presente-deux-candidates-au-ad38b1.html",
+   "title": "Présence Québec, un nouveau parti, présente deux candidates au Saguenay–Lac-Saint-Jean",
+   "content_text": "Sans étiquette idéologique, le mouvement veut réveiller l'envie de s'impliquer en politique.",
+   "date_modified": "2026-09-06T19:32:00-04:00",
+   "tags": [
+    "Québec (Lac-Saint-Jean, Dubuc)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/a-rimouski-quebec-solidaire-cherche-enfin-la-victoire-qui-lu-801507.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/a-rimouski-quebec-solidaire-cherche-enfin-la-victoire-qui-lu-801507.html",
+   "title": "À Rimouski, Québec solidaire cherche enfin la victoire qui lui échappe depuis 2014",
+   "content_text": "Le parti y devance sa moyenne nationale depuis dix ans, sans jamais y être élu.",
+   "date_modified": "2026-09-06T19:32:00-04:00",
+   "tags": [
+    "Québec (Rimouski)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-06/a/un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259.html",
    "url": "https://entreelibre.ca/edition/2026-09-06/a/un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259.html",
    "title": "Un cargo d'Amazon quitte la piste en flammes à l'aéroport de Miami : au moins cinq morts",
@@ -937,32 +961,6 @@
     "Espace et astronomie"
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/SpaceX_Crew_1_capsule_window_view.jpg/1280px-SpaceX_Crew_1_capsule_window_view.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/spacex-et-blue-origin-boudent-le-sommet-spatial-organise-par-96d4af.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/spacex-et-blue-origin-boudent-le-sommet-spatial-organise-par-96d4af.html",
-   "title": "SpaceX et Blue Origin boudent le sommet spatial organisé par Emmanuel Macron",
-   "content_text": "Une absence remarquée qui en dit long sur les tensions commerciales entre Paris et Washington.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "France",
-    "Savoirs",
-    "Espace et astronomie"
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_Origin_New_Glenn_Rocket_Successful_Launch_%289387522%29.jpg/1280px-Blue_Origin_New_Glenn_Rocket_Successful_Launch_%289387522%29.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/la-nasa-choisit-blue-origin-pour-batir-son-futur-reseau-de-t-543167.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/la-nasa-choisit-blue-origin-pour-batir-son-futur-reseau-de-t-543167.html",
-   "title": "La NASA choisit Blue Origin pour bâtir son futur réseau de télécommunications sur Mars",
-   "content_text": "Un contrat qui doit garantir aux missions martiennes une liaison constante avec la Terre, même à distance maximale.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "États-Unis",
-    "Savoirs",
-    "Espace et astronomie"
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Mars_Reconnaissance_Orbiter_spacecraft_model.png/1280px-Mars_Reconnaissance_Orbiter_spacecraft_model.png"
   }
  ]
 }

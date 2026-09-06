@@ -4,10 +4,28 @@
 <title>Entrée-Libre — Revue de presse — 6 septembre 2026</title>
 <link>https://entreelibre.ca/edition/2026-09-06/index.html</link>
 <atom:link href="https://entreelibre.ca/flux.xml" rel="self" type="application/rss+xml"/>
-<description>Entrée-Libre — revue de presse, l'actualité par thème, mise à jour quatre fois par jour. 260 sujets, 103 médias.</description>
+<description>Entrée-Libre — revue de presse, l'actualité par thème, mise à jour quatre fois par jour. 262 sujets, 103 médias.</description>
 <language>fr-CA</language>
-<lastBuildDate>Sun, 06 Sep 2026 18:50:00 -0400</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 19:32:00 -0400</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>Présence Québec, un nouveau parti, présente deux candidates au Saguenay–Lac-Saint-Jean</title>
+<link>https://entreelibre.ca/edition/2026-09-06/a/presence-quebec-un-nouveau-parti-presente-deux-candidates-au-ad38b1.html</link>
+<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-06/a/presence-quebec-un-nouveau-parti-presente-deux-candidates-au-ad38b1.html</guid>
+<pubDate>Sun, 06 Sep 2026 19:32:00 -0400</pubDate>
+<description>Sans étiquette idéologique, le mouvement veut réveiller l&#x27;envie de s&#x27;impliquer en politique.</description>
+<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
+<category>Élections Québec 2026</category><category>Politique et vie municipale</category>
+</item>
+<item>
+<title>À Rimouski, Québec solidaire cherche enfin la victoire qui lui échappe depuis 2014</title>
+<link>https://entreelibre.ca/edition/2026-09-06/a/a-rimouski-quebec-solidaire-cherche-enfin-la-victoire-qui-lu-801507.html</link>
+<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-06/a/a-rimouski-quebec-solidaire-cherche-enfin-la-victoire-qui-lu-801507.html</guid>
+<pubDate>Sun, 06 Sep 2026 19:32:00 -0400</pubDate>
+<description>Le parti y devance sa moyenne nationale depuis dix ans, sans jamais y être élu.</description>
+<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
+<category>Élections Québec 2026</category><category>Politique et vie municipale</category>
+</item>
 <item>
 <title>Un cargo d&#x27;Amazon quitte la piste en flammes à l&#x27;aéroport de Miami : au moins cinq morts</title>
 <link>https://entreelibre.ca/edition/2026-09-06/a/un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259.html</link>
@@ -709,24 +727,6 @@
 <description>Tant que son équipage de relève n&#x27;a pas décollé, la Française et ses coéquipiers restent cloués à bord.</description>
 <source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
 <category>Savoirs</category><category>Espace et astronomie</category><enclosure url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/SpaceX_Crew_1_capsule_window_view.jpg/1280px-SpaceX_Crew_1_capsule_window_view.jpg" type="image/jpeg" length="0"/>
-</item>
-<item>
-<title>SpaceX et Blue Origin boudent le sommet spatial organisé par Emmanuel Macron</title>
-<link>https://entreelibre.ca/edition/2026-09-06/a/spacex-et-blue-origin-boudent-le-sommet-spatial-organise-par-96d4af.html</link>
-<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-06/a/spacex-et-blue-origin-boudent-le-sommet-spatial-organise-par-96d4af.html</guid>
-<pubDate>Sun, 06 Sep 2026 09:46:00 -0400</pubDate>
-<description>Une absence remarquée qui en dit long sur les tensions commerciales entre Paris et Washington.</description>
-<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
-<category>Savoirs</category><category>Espace et astronomie</category><enclosure url="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_Origin_New_Glenn_Rocket_Successful_Launch_%289387522%29.jpg/1280px-Blue_Origin_New_Glenn_Rocket_Successful_Launch_%289387522%29.jpg" type="image/jpeg" length="0"/>
-</item>
-<item>
-<title>La NASA choisit Blue Origin pour bâtir son futur réseau de télécommunications sur Mars</title>
-<link>https://entreelibre.ca/edition/2026-09-06/a/la-nasa-choisit-blue-origin-pour-batir-son-futur-reseau-de-t-543167.html</link>
-<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-06/a/la-nasa-choisit-blue-origin-pour-batir-son-futur-reseau-de-t-543167.html</guid>
-<pubDate>Sun, 06 Sep 2026 09:46:00 -0400</pubDate>
-<description>Un contrat qui doit garantir aux missions martiennes une liaison constante avec la Terre, même à distance maximale.</description>
-<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
-<category>Savoirs</category><category>Espace et astronomie</category><enclosure url="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Mars_Reconnaissance_Orbiter_spacecraft_model.png/1280px-Mars_Reconnaissance_Orbiter_spacecraft_model.png" type="image/jpeg" length="0"/>
 </item>
 </channel>
 </rss>
