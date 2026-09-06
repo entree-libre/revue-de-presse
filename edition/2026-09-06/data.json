@@ -453,13 +453,13 @@
    "_slug": "le-parti-conservateur-du-quebec-est-le-seul-absent-du-nouvea-7c8ac4"
   },
   {
-   "titre": "Christine Fréchette réunit son conseil des ministres en pleine campagne pour parler tarifs",
+   "titre": "Christine Fréchette interrompt sa campagne pour gérer la guerre tarifaire avec Washington",
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada, LaPresse, Coops de l'information",
+   "medias": "Radio-Canada, LaPresse, Coops de l'information, Le Devoir, Le Charlevoisien",
    "url": "https://ici.radio-canada.ca/nouvelle/2281055/frechette-conseil-ministre-tarifs-trump",
-   "resume": "Mise à jour, 10 h — Elle aurait déjà averti Ottawa que des mesures de sa réplique tarifaire lui posent problème.",
+   "resume": "Mise à jour, 12 h — Ses adversaires y dénoncent une manœuvre électorale à quatre semaines du scrutin.",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -508,11 +508,29 @@
      "url": "https://www.lequotidien.com/actualites/politique/2026/09/06/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi-ZTHBOV3DVJFXFIHRQFI6QDZTBE/",
      "auteur": "La Presse Canadienne",
      "date": "2026-09-06T10:21-04:00"
+    },
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/riposte-aux-droits-de-douane/il-n-est-pas-justifie-de-suspendre-la-campagne-croit-le-pq.php",
+     "auteur": "Fanny Lévesque et Tommy Chouinard",
+     "date": "2026-09-06T12:01-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006889/christine-frechette-suspend-campagne",
+     "auteur": "Marco Bélair-Cirino et Sarah Collardey",
+     "date": "2026-09-06T10:59-04:00"
+    },
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/06/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T10:21-04:00"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-06T10:19-04:00",
+   "horodate": "2026-09-06T12:24-04:00",
    "permalien": "christine-frechette-reunit-son-conseil-des-ministres-en-plei-76537b",
    "image_auto": "aucune",
    "_volet": "elections",
@@ -736,6 +754,88 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "le-pcq-promet-100-par-annee-aux-familles-sous-100-000-et-un-aa31a0"
+  },
+  {
+   "titre": "Le Parti libéral promet de compléter l'élargissement de l'autoroute 50 d'ici dix ans",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Outaouais, Laurentides",
+   "medias": "Radio-Canada, LaPresse",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281098/election-outaouais-promesse-autouroute-50-elargissement",
+   "resume": "Reste à savoir si cette promesse survivra mieux que celle, brisée, de la dernière campagne.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281098/election-outaouais-promesse-autouroute-50-elargissement",
+     "auteur": "Antoine Fontaine",
+     "date": "2026-09-06T10:08-04:00"
+    },
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/nombre-important-d-accidents-mortels/le-plq-promet-d-elargir-la-funeste-autoroute-50.php",
+     "auteur": "Gabriel Béland",
+     "date": "2026-09-06T10:21-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Autoroute_50_%28Qu%C3%A9bec%29-Vue_du_trac%C3%A9_de_l%27A50_%C3%A0_la_hauteur_de_Calumet_%28MRC_d%27Argenteuil%29-2023-01-21.jpg/1280px-Autoroute_50_%28Qu%C3%A9bec%29-Vue_du_trac%C3%A9_de_l%27A50_%C3%A0_la_hauteur_de_Calumet_%28MRC_d%27Argenteuil%29-2023-01-21.jpg",
+   "legende": "L'autoroute 50 en Outaouais, que le Parti libéral promet d'élargir à quatre voies.",
+   "photo_auteur": "Gaétan Veillette",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-06T12:24-04:00",
+   "permalien": "le-parti-liberal-promet-de-completer-l-elargissement-de-l-au-a96c1e",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "le-parti-liberal-promet-de-completer-l-elargissement-de-l-au-a96c1e"
+  },
+  {
+   "titre": "Milliard refuse de s'engager fermement sur la réalisation du troisième lien",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Québec / Lévis",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281116/parti-liberal-quebec-troisieme-lien",
+   "resume": "Reste à savoir si cette position bienveillante deviendra un engagement ferme avant le scrutin.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281116/parti-liberal-quebec-troisieme-lien",
+     "auteur": "Marie-Christine Gagnon",
+     "date": "2026-09-06T11:52-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T12:24-04:00",
+   "permalien": "milliard-refuse-de-s-engager-fermement-sur-la-realisation-du-2f661b",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "milliard-refuse-de-s-engager-fermement-sur-la-realisation-du-2f661b"
+  },
+  {
+   "titre": "Québec solidaire exige des autres partis un engagement à réformer le mode de scrutin",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "LaPresse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/mode-de-scrutin/quebec-solidaire-demande-a-tous-les-partis-de-s-engager-a-une-reforme-electorale.php",
+   "resume": "Reste à savoir si les partis tiendront cette fois une promesse électorale déjà brisée par le passé.",
+   "sources": [
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/mode-de-scrutin/quebec-solidaire-demande-a-tous-les-partis-de-s-engager-a-une-reforme-electorale.php",
+     "auteur": "William Thériault",
+     "date": "2026-09-06T11:53-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec_-_facade-1.jpg/1280px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec_-_facade-1.jpg",
+   "legende": "L'Assemblée nationale du Québec, où Québec solidaire a lancé son appel aux autres partis.",
+   "photo_auteur": "Bouchecl",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-09-06T12:24-04:00",
+   "permalien": "quebec-solidaire-exige-des-autres-partis-un-engagement-a-ref-80105a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "quebec-solidaire-exige-des-autres-partis-un-engagement-a-ref-80105a"
   },
   {
    "titre": "La brûlure bactérienne a déjà fait abattre un verger à Sainte-Famille",
