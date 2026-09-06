@@ -486,11 +486,11 @@
    "_slug": "une-start-up-bavaroise-place-en-orbite-la-premiere-fusee-ent-1fdcd0"
   },
   {
-   "titre": "Un cargo d'Amazon quitte la piste en flammes à l'aéroport de Miami",
+   "titre": "Un cargo d'Amazon quitte la piste en flammes à l'aéroport de Miami : au moins cinq morts",
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Miami (Floride)",
-   "medias": "La Presse",
+   "medias": "La Presse, Europe 1, Ouest-France, Coops de l'information, The Verge",
    "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
    "sources": [
     {
@@ -498,12 +498,35 @@
      "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
      "auteur": "Associated Press",
      "date": "2026-09-06T16:04-04:00"
+    },
+    {
+     "media": "Europe 1",
+     "url": "https://www.europe1.fr/international/etats-unis-un-avion-cargo-sort-de-piste-a-miami-et-percute-des-vehicules-1059551",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:57-04:00"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/etats-unis/etats-unis-un-avion-cargo-sort-de-piste-a-miami-et-percute-des-vehicules-effbdf1c-aa2a-11f1-a3f7-c4f38a0eaa1c",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/affaires/2026/09/06/un-avion-d-amazon-sort-de-la-piste-d-atterrissage-et-percute-des-vehicules-a-miami-UOI3BA5QSFDZNMFVVIFTB7YV3U/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T16:13-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+     "auteur": "Terrence O'Brien",
+     "date": "2026-09-06T16:56-04:00"
     }
    ],
-   "resume": "Le trafic aérien est resté interrompu dans l'un des plus grands aéroports du pays.",
+   "resume": "Mise à jour, 18 h 30 — Le bilan s'alourdit, et la FAA dépêche ses enquêteurs auprès d'un vieux Boeing converti au fret.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-06T15:56-04:00",
+   "horodate": "2026-09-06T18:50-04:00",
    "permalien": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259",
    "image_auto": "aucune",
    "_volet": "continu",
@@ -584,6 +607,385 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-06.json",
    "_slug": "un-motocycliste-septuagenaire-luttait-dimanche-pour-sa-vie-p-c5aef7"
+  },
+  {
+   "titre": "Fermetures de consulats, drone de Leipzig : Lavrov compare Berlin à l'Allemagne d'avant 1939",
+   "cahier": "international",
+   "rubrique": "diplomatie",
+   "territoire": "Russie, Allemagne",
+   "medias": "CNEWS, RFI",
+   "url": "https://www.cnews.fr/monde/2026-09-06/le-ministre-russe-des-affaires-etrangeres-accuse-berlin-de-vouloir-nouveau-la",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-06/le-ministre-russe-des-affaires-etrangeres-accuse-berlin-de-vouloir-nouveau-la",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:42-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260906-russie-sergue%C3%AF-lavrov-accuse-l-allemagne-de-vouloir-%C3%A0-nouveau-la-guerre",
+     "auteur": "Jean-Didier Revoin",
+     "date": "2026-09-06T17:27-04:00"
+    }
+   ],
+   "resume": "Derrière l'invective, un drone découvert à Leipzig et des représentations diplomatiques qui ferment des deux côtés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "fermetures-de-consulats-drone-de-leipzig-lavrov-compare-berl-0efda3",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "fermetures-de-consulats-drone-de-leipzig-lavrov-compare-berl-0efda3"
+  },
+  {
+   "titre": "Von der Leyen, Frederiksen et Nielsen s'affichent ensemble au Groenland, sept mois après les menaces de Trump",
+   "cahier": "international",
+   "rubrique": "diplomatie",
+   "territoire": "Groenland",
+   "medias": "TV5MONDE",
+   "url": "https://information.tv5monde.com/international/au-milieu-des-icebergs-trois-dirigeants-unis-pour-le-groenland-2836428",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/au-milieu-des-icebergs-trois-dirigeants-unis-pour-le-groenland-2836428",
+     "auteur": "Camille Camdessus (AFP)",
+     "date": "2026-09-06T16:53-04:00"
+    }
+   ],
+   "resume": "Une croisière entre les icebergs pensée comme un message, pendant qu'un villageois avoue encore sa peur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "von-der-leyen-frederiksen-et-nielsen-s-affichent-ensemble-au-fd098a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "von-der-leyen-frederiksen-et-nielsen-s-affichent-ensemble-au-fd098a"
+  },
+  {
+   "titre": "Contre les tueries scolaires, un drone télépiloté depuis le Texas qui traque l'assaillant dans les couloirs",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis (Texas)",
+   "medias": "TF1 Info",
+   "url": "https://www.tf1info.fr/international/reportage-etats-unis-face-au-fleau-des-fusillades-scolaires-des-ecoles-americaines-testent-des-drones-anti-tireurs-2462636.html",
+   "sources": [
+    {
+     "media": "TF1 Info",
+     "url": "https://www.tf1info.fr/international/reportage-etats-unis-face-au-fleau-des-fusillades-scolaires-des-ecoles-americaines-testent-des-drones-anti-tireurs-2462636.html",
+     "date": "2026-09-06T16:42-04:00",
+     "auteur": "Louan Deniel"
+    }
+   ],
+   "resume": "Billes au poivre et charge frontale, faute de toucher au droit de porter une arme.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "contre-les-tueries-scolaires-un-drone-telepilote-depuis-le-t-fd82a7",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "contre-les-tueries-scolaires-un-drone-telepilote-depuis-le-t-fd82a7"
+  },
+  {
+   "titre": "Des banques centrales européennes rapatrient leur or entreposé aux États-Unis, les Pays-Bas en dernier",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Europe, États-Unis",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281076/or-dollar-trump-europe-geopolitique",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281076/or-dollar-trump-europe-geopolitique",
+     "date": "2026-09-06T15:43-04:00",
+     "auteur": "Ariane Fournier"
+    }
+   ],
+   "resume": "Quand la confiance envers un allié s'effrite, même les lingots déménagent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "des-banques-centrales-europeennes-rapatrient-leur-or-entrepo-f3843e",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "des-banques-centrales-europeennes-rapatrient-leur-or-entrepo-f3843e"
+  },
+  {
+   "titre": "Le renseignement extérieur ukrainien affirme que Moscou accumule des missiles hypersoniques pour l'hiver et prépare des provocations contre l'OTAN",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Russie",
+   "medias": "Ukrinform",
+   "url": "https://www.ukrinform.net/rubric-polytics/4161468-ukrainian-intelligence-warns-of-russian-missile-buildup-and-potential-provocations-against-nato.html",
+   "sources": [
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4161468-ukrainian-intelligence-warns-of-russian-missile-buildup-and-potential-provocations-against-nato.html",
+     "date": "2026-09-06T16:06-04:00"
+    }
+   ],
+   "resume": "Un chiffre avancé à Kyiv, et une liste d'entreprises à sanctionner glissée aux conseillers européens.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "le-renseignement-exterieur-ukrainien-affirme-que-moscou-accu-6704bd",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "le-renseignement-exterieur-ukrainien-affirme-que-moscou-accu-6704bd"
+  },
+  {
+   "titre": "Félix Tshisekedi veut un dialogue national en trois mois, dont une partie de l'opposition rejette déjà le cadre",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "République démocratique du Congo",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260906-visite-de-xi-jinping-en-chine-la-chine-se-veut-un-contrepoids-des-%C3%A9tats-unis",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260906-visite-de-xi-jinping-en-chine-la-chine-se-veut-un-contrepoids-des-%C3%A9tats-unis",
+     "auteur": "Fatimata Wane",
+     "date": "2026-09-06T17:06-04:00"
+    }
+   ],
+   "resume": "Toutes les provinces à consulter pour un pacte national, et des garanties de neutralité réclamées avant le départ.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "felix-tshisekedi-veut-un-dialogue-national-en-trois-mois-don-58d45b",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "felix-tshisekedi-veut-un-dialogue-national-en-trois-mois-don-58d45b"
+  },
+  {
+   "titre": "Otto Jelinek, réfugié tchèque devenu patineur olympique puis ministre du Revenu, s'éteint à 86 ans",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Ontario",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/2026-09-06/mort-d-otto-jelinek-ancien-ministre-federal-et-champion-du-monde-de-patinage-artistique.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/2026-09-06/mort-d-otto-jelinek-ancien-ministre-federal-et-champion-du-monde-de-patinage-artistique.php",
+     "auteur": "Dylan Robertson (La Presse Canadienne)",
+     "date": "2026-09-06T18:19-04:00"
+    }
+   ],
+   "resume": "De la fuite de Prague à Squaw Valley, puis vingt ans aux Communes pour Oakville.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "otto-jelinek-refugie-tcheque-devenu-patineur-olympique-puis-c6561b",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "otto-jelinek-refugie-tcheque-devenu-patineur-olympique-puis-c6561b"
+  },
+  {
+   "titre": "La cinéaste et actrice crie Georgina Lightning est morte à 63 ans, un décès que des proches lient à une course de relais à Enoch",
+   "cahier": "canada",
+   "rubrique": "culture",
+   "territoire": "Enoch (Alberta)",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/edmonton/georgina-lightning-death-9.7334442?cmp=rss",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/edmonton/georgina-lightning-death-9.7334442?cmp=rss",
+     "auteur": "Kelsie Johnston",
+     "date": "2026-09-06T17:20-04:00"
+    }
+   ],
+   "resume": "Aucune cause annoncée, et une enquête sur un décès survenu dans l'aire des médias d'un hippodrome.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "la-cineaste-et-actrice-crie-georgina-lightning-est-morte-a-6-eb2d23",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "la-cineaste-et-actrice-crie-georgina-lightning-est-morte-a-6-eb2d23"
+  },
+  {
+   "titre": "À deux jours des contre-tarifs canadiens, Trump juge inacceptable l'écart entre le huard et le dollar américain",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada, États-Unis",
+   "medias": "National Post",
+   "url": "https://nationalpost.com/news/trump-says-canada-u-s-dollar-imbalance-is-unacceptable",
+   "sources": [
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/trump-says-canada-u-s-dollar-imbalance-is-unacceptable",
+     "auteur": "National Post Staff",
+     "date": "2026-09-06T16:34-04:00"
+    }
+   ],
+   "resume": "Une salve dominicale sur Truth Social, entre images générées par IA et un lac rebaptisé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "a-deux-jours-des-contre-tarifs-canadiens-trump-juge-inaccept-81267a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "a-deux-jours-des-contre-tarifs-canadiens-trump-juge-inaccept-81267a"
+  },
+  {
+   "titre": "Élections Québec enverra des bilingues dépouiller à la main les bulletins du référendum albertain du 19 octobre",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281195/appui-personnel-organisation-consultation-referendaire",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281195/appui-personnel-organisation-consultation-referendaire",
+     "auteur": "Bassirou Bâ",
+     "date": "2026-09-06T17:53-04:00"
+    }
+   ],
+   "resume": "Un savoir-faire référendaire prêté à une province qui a banni les tabulatrices et redoute l'ingérence.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "elections-quebec-enverra-des-bilingues-depouiller-a-la-main-686605",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "elections-quebec-enverra-des-bilingues-depouiller-a-la-main-686605"
+  },
+  {
+   "titre": "Saguenay étudie l'installation de caméras de surveillance dans ses centres-villes après une série de méfaits",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Saguenay (Saguenay–Lac-Saint-Jean)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281196/camera-surveillance-centre-ville-securite",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281196/camera-surveillance-centre-ville-securite",
+     "date": "2026-09-06T17:33-04:00",
+     "auteur": "Anissa Leduc et Mireille Chayer"
+    }
+   ],
+   "resume": "Sherbrooke a montré la voie, et des commerçants de Jonquière réclament la même vue d'ensemble.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "saguenay-etudie-l-installation-de-cameras-de-surveillance-da-ca9e09",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "saguenay-etudie-l-installation-de-cameras-de-surveillance-da-ca9e09"
+  },
+  {
+   "titre": "Un motocycliste meurt à La Tuque après une collision avec une camionnette conduite par un mineur sans permis, selon la SQ",
+   "cahier": "quebec",
+   "rubrique": "faits-divers",
+   "territoire": "La Tuque (Haute-Mauricie)",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/teenage-driver-motorcyclist-collision-la-tuque-que-9.7334403?cmp=rss",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/teenage-driver-motorcyclist-collision-la-tuque-que-9.7334403?cmp=rss",
+     "date": "2026-09-06T16:24-04:00"
+    }
+   ],
+   "resume": "Pourquoi le jeune conducteur, sans permis, n'a pas pu être retenu par la police.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "un-motocycliste-meurt-a-la-tuque-apres-une-collision-avec-un-0639dc",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "un-motocycliste-meurt-a-la-tuque-apres-une-collision-avec-un-0639dc"
+  },
+  {
+   "titre": "Montréal pleure Susan Moss, photographe de concerts qui a immortalisé Prince, Nirvana et des décennies de scène locale",
+   "cahier": "montreal",
+   "rubrique": "culture",
+   "territoire": "Montréal",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/susan-moss-concert-photographer-9.7334130?cmp=rss",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/susan-moss-concert-photographer-9.7334130?cmp=rss",
+     "auteur": "Hayley Carolan",
+     "date": "2026-09-06T17:01-04:00"
+    }
+   ],
+   "resume": "Du bar Bifteck aux fosses d'Evenko, une main tendue aux débutants et un doigt d'honneur affectueux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "montreal-pleure-susan-moss-photographe-de-concerts-qui-a-imm-b0b776",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "montreal-pleure-susan-moss-photographe-de-concerts-qui-a-imm-b0b776"
+  },
+  {
+   "titre": "Des déchets européens déclarés réutilisables finissent dans les fours à ciment marocains, selon une enquête de Basel Action Network",
+   "cahier": "savoirs",
+   "rubrique": "environnement",
+   "territoire": "Maroc, Europe",
+   "medias": "Global Voices",
+   "url": "https://fr.globalvoices.org/2026/09/07/302961/",
+   "sources": [
+    {
+     "media": "Global Voices",
+     "url": "https://fr.globalvoices.org/2026/09/07/302961/",
+     "auteur": "Khalid Bencherif et Federica Rossi",
+     "date": "2026-09-06T18:24-04:00"
+    }
+   ],
+   "resume": "Une mère de Médiouna compte les nuits de toux de son fils, à portée de fumée des fours.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "des-dechets-europeens-declares-reutilisables-finissent-dans-143095",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "des-dechets-europeens-declares-reutilisables-finissent-dans-143095"
+  },
+  {
+   "titre": "Police écologique et mesures d'urgence : l'Asie centrale cherche la parade à un smog parmi les pires du monde",
+   "cahier": "savoirs",
+   "rubrique": "environnement",
+   "territoire": "Ouzbékistan, Kirghizistan, Kazakhstan",
+   "medias": "Global Voices",
+   "url": "https://fr.globalvoices.org/2026/09/07/303098/",
+   "sources": [
+    {
+     "media": "Global Voices",
+     "url": "https://fr.globalvoices.org/2026/09/07/303098/",
+     "auteur": "Olga Loginova et Oliver Fisk",
+     "date": "2026-09-06T18:25-04:00"
+    }
+   ],
+   "resume": "Des raids nocturnes contre les pollueurs plutôt qu'un plan, sous un ciel jaune à Tachkent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T18:50-04:00",
+   "permalien": "police-ecologique-et-mesures-d-urgence-l-asie-centrale-cherc-c0db2f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "police-ecologique-et-mesures-d-urgence-l-asie-centrale-cherc-c0db2f"
   },
   {
    "titre": "Les ventes de maisons chutent de 13 % à Montréal, mais les prix continuent de grimper",
@@ -2306,9 +2708,9 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Allemagne (Saxe-Anhalt)",
-   "medias": "France 24, Le Monde, Radio-Canada, RTS, La Libre.be, TV5MONDE, Coops de l'information, La Croix, Libération, Le Temps, franceinfo",
+   "medias": "France 24, Le Monde, Radio-Canada, RTS, La Libre.be, TV5MONDE, Coops de l'information, La Croix, Libération, Le Temps, franceinfo, Le Parisien, RTL, 20 Minutes",
    "url": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-du-scrutin-local-en-saxe-anhalt_6766352_3210.html",
-   "resume": "Mise à jour, 15 h 30 — À quelques sièges de gouverner seule, l'AfD bute sur le pare-feu des autres partis.",
+   "resume": "Mise à jour, 18 h 30 — Le pare-feu se fissure : le BSW de Sahra Wagenknecht n'exclut pas de gouverner avec elle.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -2390,9 +2792,26 @@
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/monde/europe/allemagne/allemagne-l-extreme-droite-signe-une-victoire-historique-en-saxe-anhalt_8180114.html",
      "date": "2026-09-06T16:04-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/allemagne/nous-avons-ecrit-lhistoire-lafd-triomphe-en-saxe-anhalt-et-envisage-une-alliance-inedite-avec-lextreme-gauche-06-09-2026-BCC74DJD2RFANGVBWH3WZWOHGI.php",
+     "date": "2026-09-06T15:39-04:00"
+    },
+    {
+     "media": "RTL",
+     "url": "https://www.rtl.fr/actu/international/victoire-de-l-afd-en-saxe-anhalt-une-demonstration-de-l-aveuglement-des-politiques-centristes-selon-melenchon-7900669393",
+     "date": "2026-09-06T15:37-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/politique/4243051-20260906-victoire-extreme-droite-allemagne-melenchon-accuse-aveuglement-politiques-europeennes-centristes",
+     "date": "2026-09-06T16:36-04:00",
+     "auteur": "Romarik Le Dourneuf"
     }
    ],
-   "horodate": "2026-09-06T15:58-04:00",
+   "horodate": "2026-09-06T18:50-04:00",
    "permalien": "en-saxe-anhalt-l-afd-pourrait-devenir-dimanche-le-premier-pa-e66567",
    "image_auto": "aucune",
    "_volet": "monde",
@@ -4937,13 +5356,13 @@
    "_slug": "les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea"
   },
   {
-   "titre": "Washington revendique la destruction de trois pétroliers iraniens au cœur du détroit d'Ormuz ; Téhéran promet des représailles contre des embarcations proches de Washington",
+   "titre": "Après les frappes croisées dans le détroit d'Ormuz, Téhéran annonce une zone interdite en mer et menace d'une riposte plus intense",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Iran, États-Unis",
-   "medias": "Boursorama, franceinfo, RFI, France 24, Libération (AFP)",
+   "medias": "Boursorama, franceinfo, RFI, France 24, Libération (AFP), Le Figaro, Le Parisien, Europe 1",
    "url": "https://www.boursorama.com/actualite-economique/actualites/l-iran-replique-apres-les-frappes-americaines-sur-trois-de-ses-petroliers-30a4b546bf66c6fb894f4c4ee16c3bdd",
-   "resume": "Mise à jour, 5 h 30 — Chaque camp durcit ses affirmations, ravivant la crainte d'un embrasement du trafic pétrolier dans le détroit.",
+   "resume": "Mise à jour, 18 h 30 — Le tracé partirait de la ligne du blocus américain, et tout navire qui le franchit serait sanctionné.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -4973,9 +5392,27 @@
      "url": "https://www.liberation.fr/international/moyen-orient/washington-affirme-avoir-detruit-trois-petroliers-iraniens-20260905_LC57MSQPJBECZGNX6OMDED35MI/",
      "auteur": "Agence France-Presse",
      "date": "2026-09-06T05:30-04:00"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/guerre-en-iran-teheran-va-declarer-une-zone-interdite-pres-du-detroit-d-ormuz-dans-les-prochains-jours-20260906",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:30-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/iran/guerre-au-moyen-orient-liran-va-declarer-une-zone-interdite-pres-du-detroit-dormuz-dans-les-prochains-jours-06-09-2026-2IE7ISP6F5GJ3FQYWQDXLYGYVA.php",
+     "auteur": "AFP",
+     "date": "2026-09-06T16:22-04:00"
+    },
+    {
+     "media": "Europe 1",
+     "url": "https://www.europe1.fr/international/guerre-au-moyen-orient-liran-menace-dintensifier-sa-riposte-aux-attaques-americaines-1059533",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:31-04:00"
     }
    ],
-   "horodate": "2026-09-06T05:30-04:00",
+   "horodate": "2026-09-06T18:50-04:00",
    "permalien": "washington-affirme-avoir-vise-trois-navires-citernes-iranien-8300a6",
    "image_auto": "aucune",
    "_volet": "report",
