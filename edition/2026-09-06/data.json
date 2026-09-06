@@ -3,6 +3,7 @@
  "volets": [
   "elections",
   "monde",
+  "presse-regionale",
   "quebec-canada",
   "report"
  ],
@@ -350,6 +351,7 @@
    "photo_auteur": "",
    "photo_licence": "",
    "permalien": "en-cote-nord-le-milieu-communautaire-reclame-10-millions-d-u-46045a",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "en-cote-nord-le-milieu-communautaire-reclame-10-millions-d-u-46045a"
@@ -1270,6 +1272,1128 @@
    "_slug": "un-troisieme-entrepot-de-l-oms-en-ukraine-a-ete-endommage-pa-07ea3a"
   },
   {
+   "titre": "L'Orchestre symphonique nord-côtier mise sur la musique pour raconter l'imaginaire collectif de la région",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Côte-Nord",
+   "medias": "Le Manic, Le Haute Côte-Nord, Le Nord-Côtier",
+   "url": "https://www.lemanic.ca/2026/09/05/orchestre-symphonique-de-la-cote-nord-un-concert-qui-joue-entre-le-reel-et-limaginaire/",
+   "resume": "Le directeur artistique veut raconter, par la musique, des récits qui font partie de l'imaginaire collectif nord-côtier.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/05/orchestre-symphonique-de-la-cote-nord-un-concert-qui-joue-entre-le-reel-et-limaginaire/",
+     "auteur": "Karianne Nepton-Philippe",
+     "date": "2026-09-05T11:00-04:00"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/05/orchestre-symphonique-de-la-cote-nord-un-concert-qui-joue-entre-le-reel-et-limaginaire/",
+     "auteur": "Karianne Nepton-Philippe",
+     "date": "2026-09-05T11:00-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/05/orchestre-symphonique-de-la-cote-nord-un-concert-qui-joue-entre-le-reel-et-limaginaire/",
+     "auteur": "Karianne Nepton-Philippe",
+     "date": "2026-09-05T11:00-04:00"
+    }
+   ],
+   "permalien": "l-orchestre-symphonique-nord-cotier-mise-sur-la-musique-pour-28cb26",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "l-orchestre-symphonique-nord-cotier-mise-sur-la-musique-pour-28cb26"
+  },
+  {
+   "titre": "Des organismes culturels nord-côtiers réclament plus d'équité et de stabilité dans leur financement",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Côte-Nord",
+   "medias": "Le Manic, Le Haute Côte-Nord, Le Nord-Côtier",
+   "url": "https://www.lemanic.ca/2026/09/05/les-organismes-culturels-de-la-cote-nord-demandent-plus-dequite-et-de-stabilite/",
+   "resume": "Une directrice d'organisme juge que les programmes actuels ignorent la réalité particulière des régions éloignées des grands centres.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/05/les-organismes-culturels-de-la-cote-nord-demandent-plus-dequite-et-de-stabilite/",
+     "auteur": "Léo Langlois",
+     "date": "2026-09-05T11:00-04:00"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/05/les-organismes-culturels-de-la-cote-nord-demandent-plus-dequite-et-de-stabilite/",
+     "auteur": "Léo Langlois",
+     "date": "2026-09-05T11:00-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/05/les-organismes-culturels-de-la-cote-nord-demandent-plus-dequite-et-de-stabilite/",
+     "auteur": "Léo Langlois",
+     "date": "2026-09-05T11:00-04:00"
+    }
+   ],
+   "permalien": "des-organismes-culturels-nord-cotiers-reclament-plus-d-equit-9e8e31",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "des-organismes-culturels-nord-cotiers-reclament-plus-d-equit-9e8e31"
+  },
+  {
+   "titre": "Deux véhicules entrent en collision à Portneuf-sur-Mer",
+   "cahier": "quebec",
+   "rubrique": "faits-divers",
+   "territoire": "Portneuf-sur-Mer (Côte-Nord)",
+   "medias": "Le Manic, Le Haute Côte-Nord",
+   "url": "https://www.lemanic.ca/2026/09/05/une-collision-survient-a-portneuf-sur-mer/",
+   "resume": "Deux véhicules se sont percutés vendredi dans ce village de la Haute-Côte-Nord, sans que la gravité soit précisée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/05/une-collision-survient-a-portneuf-sur-mer/",
+     "date": "2026-09-05T18:56-04:00",
+     "auteur": "Morgane Busson"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/05/une-collision-survient-a-portneuf-sur-mer/",
+     "date": "2026-09-05T18:56-04:00",
+     "auteur": "Morgane Busson"
+    }
+   ],
+   "permalien": "deux-vehicules-entrent-en-collision-a-portneuf-sur-mer-19a7b0",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "deux-vehicules-entrent-en-collision-a-portneuf-sur-mer-19a7b0"
+  },
+  {
+   "titre": "Le parc éolien Apuiat tourne à plein régime sur la Côte-Nord",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Côte-Nord",
+   "medias": "Le Manic, Le Nord-Côtier",
+   "url": "https://www.lemanic.ca/2026/09/05/une-production-optimale-au-parc-eolien-apuiat/",
+   "resume": "Le responsable des communications attribue ce rendement à l'excellence du site venteux et à l'emplacement des éoliennes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/05/une-production-optimale-au-parc-eolien-apuiat/",
+     "auteur": "Vincent Rioux-Berrouard",
+     "date": "2026-09-05T13:00-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/05/une-production-optimale-au-parc-eolien-apuiat/",
+     "auteur": "Vincent Rioux-Berrouard",
+     "date": "2026-09-05T13:00-04:00"
+    }
+   ],
+   "permalien": "le-parc-eolien-apuiat-tourne-a-plein-regime-sur-la-cote-nord-c54083",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "le-parc-eolien-apuiat-tourne-a-plein-regime-sur-la-cote-nord-c54083"
+  },
+  {
+   "titre": "Le KRTB multiplie les activités contre le suicide tout au long de septembre",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Rivière-du-Loup (Bas-Saint-Laurent)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/actualite/prevention-du-suicide-le-krtb-se-mobilise-tout-au-long-de-septembre/",
+   "resume": "Une course, un kiosque et des tournois doivent rappeler que parler de santé psychologique reste un geste simple.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/actualite/prevention-du-suicide-le-krtb-se-mobilise-tout-au-long-de-septembre/",
+     "date": "2026-09-06T06:45-04:00"
+    }
+   ],
+   "permalien": "le-krtb-multiplie-les-activites-contre-le-suicide-tout-au-lo-d57da4",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "le-krtb-multiplie-les-activites-contre-le-suicide-tout-au-lo-d57da4"
+  },
+  {
+   "titre": "Deux artistes en résidence choisis pour un projet culturel au Témiscouata",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Témiscouata-sur-le-Lac (Bas-Saint-Laurent)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/culturel/temiscouata-en-residence-est-de-retour/",
+   "resume": "Le duo Alfa Rococo agira comme mentor auprès de quatre artistes à l'univers distinctif pour cette deuxième édition.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/culturel/temiscouata-en-residence-est-de-retour/",
+     "date": "2026-09-06T06:30-04:00"
+    }
+   ],
+   "permalien": "deux-artistes-en-residence-choisis-pour-un-projet-culturel-a-9f5007",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "deux-artistes-en-residence-choisis-pour-un-projet-culturel-a-9f5007"
+  },
+  {
+   "titre": "Un ancien biathlète olympique de Gatineau s'illustre maintenant à vélo",
+   "cahier": "quebec",
+   "rubrique": "sport",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280707/jean-nicolas-de-broeck-biathlon-cyclisme",
+   "resume": "Déçu de ne pas s'être qualifié pour les Jeux olympiques, l'athlète a réorienté sa carrière vers le cyclisme.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280707/jean-nicolas-de-broeck-biathlon-cyclisme",
+     "date": "2026-09-06T05:17-04:00",
+     "auteur": "Martin Comtois"
+    }
+   ],
+   "permalien": "un-ancien-biathlete-olympique-de-gatineau-s-illustre-mainten-886c63",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "un-ancien-biathlete-olympique-de-gatineau-s-illustre-mainten-886c63"
+  },
+  {
+   "titre": "Le bruit du MET jugé stable ou en amélioration par un sondage citoyen",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Boucherville (Montérégie)",
+   "medias": "La Relève de Boucherville",
+   "url": "https://lareleve.qc.ca/2026/09/06/bruit-met-juge-stable-ou-amelioration-majorite-citoyens/",
+   "resume": "Un sondage mené auprès de 604 résidents de quatre municipalités relativise les plaintes sur le bruit des avions.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "La Relève de Boucherville",
+     "url": "https://lareleve.qc.ca/2026/09/06/bruit-met-juge-stable-ou-amelioration-majorite-citoyens/",
+     "auteur": "Sylvain Daignault",
+     "date": "2026-09-06T05:06-04:00"
+    }
+   ],
+   "permalien": "le-bruit-du-met-juge-stable-ou-en-amelioration-par-un-sondag-9a3a49",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "le-bruit-du-met-juge-stable-ou-en-amelioration-par-un-sondag-9a3a49"
+  },
+  {
+   "titre": "Des chercheurs plongent dans le lac Témiscamingue pour étudier une moule menacée",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Témiscamingue (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/en-bref/90-17139/moules-esturgeon-lac-temiscamingue-recherches",
+   "resume": "Spécialistes et plongeurs documentent la présence d'une espèce de moule d'eau douce menacée dans ce lac frontalier.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/90-17139/moules-esturgeon-lac-temiscamingue-recherches",
+     "date": "2026-09-06T05:00-04:00"
+    }
+   ],
+   "permalien": "des-chercheurs-plongent-dans-le-lac-temiscamingue-pour-etudi-5ebf1e",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "des-chercheurs-plongent-dans-le-lac-temiscamingue-pour-etudi-5ebf1e"
+  },
+  {
+   "titre": "Memphrémagog veut protéger et mieux faire connaître ses paysages",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Memphrémagog (Estrie)",
+   "medias": "La Tribune",
+   "url": "https://www.latribune.ca/actualites/actualites-locales/estrie-et-regions/2026/09/06/la-mrc-de-memphremagog-veut-mieux-mettre-en-valeur-ses-paysages-DMQOEMQBGZFGLCR6K7ZRJTMFFA/",
+   "resume": "Une aide financière pourrait être offerte aux propriétaires de sept municipalités pour préserver la valeur paysagère des terrains.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/actualites-locales/estrie-et-regions/2026/09/06/la-mrc-de-memphremagog-veut-mieux-mettre-en-valeur-ses-paysages-DMQOEMQBGZFGLCR6K7ZRJTMFFA/",
+     "auteur": "Charles Ferron",
+     "date": "2026-09-06T04:05-04:00"
+    }
+   ],
+   "permalien": "memphremagog-veut-proteger-et-mieux-faire-connaitre-ses-pays-e163ce",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "memphremagog-veut-proteger-et-mieux-faire-connaitre-ses-pays-e163ce"
+  },
+  {
+   "titre": "Des chercheurs de Harvard visiteront Gatineau en octobre pour un projet urbain",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Le Droit",
+   "url": "https://www.ledroit.com/actualites/actualites-locales/gatineau/2026/09/06/des-experts-de-luniversite-harvard-de-passage-a-pointe-gatineau-en-octobre-N6SCXATTPNCG3H345SPC56QONI/",
+   "resume": "La Ville a choisi un enjeu qui la préoccupe pour obtenir l'appui d'experts d'un centre de recherche urbain.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/actualites-locales/gatineau/2026/09/06/des-experts-de-luniversite-harvard-de-passage-a-pointe-gatineau-en-octobre-N6SCXATTPNCG3H345SPC56QONI/",
+     "auteur": "Mathieu Bélanger",
+     "date": "2026-09-06T04:05-04:00"
+    }
+   ],
+   "permalien": "des-chercheurs-de-harvard-visiteront-gatineau-en-octobre-pou-bc46b0",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "des-chercheurs-de-harvard-visiteront-gatineau-en-octobre-pou-bc46b0"
+  },
+  {
+   "titre": "L'Isle-aux-Coudres retrouve ses touristes après des années de grèves et de bris",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "L'Isle-aux-Coudres (Charlevoix)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280379/traverse-coudres-tourisme-charlevoix-stq",
+   "resume": "Le seul lien maritime vers l'île avait connu plusieurs années difficiles, mais l'achalandage touristique reprend enfin cet été.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/013_076_sur_le_traversier_vers_Isle_aux-Coudres.jpg",
+   "legende": "Le traversier reliant L'Isle-aux-Coudres à Saint-Joseph-de-la-Rive, dans Charlevoix.",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280379/traverse-coudres-tourisme-charlevoix-stq",
+     "date": "2026-09-06T04:00-04:00",
+     "auteur": "Frédéric Audet"
+    }
+   ],
+   "photo_auteur": "Nichole Ouellette",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "l-isle-aux-coudres-retrouve-ses-touristes-apres-des-annees-d-4c0514",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "l-isle-aux-coudres-retrouve-ses-touristes-apres-des-annees-d-4c0514"
+  },
+  {
+   "titre": "Des résidents de Saint-Lambert s'organisent pour sauver leur gare de Via Rail",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Saint-Lambert (Montérégie)",
+   "medias": "CBC Montreal",
+   "url": "https://www.cbc.ca/news/canada/montreal/saint-lambert-via-rail-train-station-met-saint-hubert-airport-9.7329901",
+   "resume": "Une nouvelle halte projetée près de l'aéroport métropolitain inquiète des riverains qui craignent la fermeture de leur gare.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "CBC Montreal",
+     "url": "https://www.cbc.ca/news/canada/montreal/saint-lambert-via-rail-train-station-met-saint-hubert-airport-9.7329901",
+     "auteur": "Chris Kurys",
+     "date": "2026-09-06T04:00-04:00"
+    }
+   ],
+   "permalien": "des-residents-de-saint-lambert-s-organisent-pour-sauver-leur-7379bf",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "des-residents-de-saint-lambert-s-organisent-pour-sauver-leur-7379bf"
+  },
+  {
+   "titre": "Pourquoi le doublage québécois des Simpsons reste indéboulonnable pour ses fans",
+   "cahier": "montreal",
+   "rubrique": "culture",
+   "territoire": "Québec",
+   "medias": "CBC Montreal",
+   "url": "https://www.cbc.ca/radio/sunday/the-simpsons-disney-television-quebec-language-culture-9.7324132",
+   "resume": "Ce doublage né après-guerre et ses expressions ont façonné un attachement culturel que le public refuse de perdre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "CBC Montreal",
+     "url": "https://www.cbc.ca/radio/sunday/the-simpsons-disney-television-quebec-language-culture-9.7324132",
+     "auteur": "Catherine Zhu",
+     "date": "2026-09-06T04:00-04:00"
+    }
+   ],
+   "permalien": "pourquoi-le-doublage-quebecois-des-simpsons-reste-indeboulon-d8b8a9",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "pourquoi-le-doublage-quebecois-des-simpsons-reste-indeboulon-d8b8a9"
+  },
+  {
+   "titre": "Un motocycliste tente d'échapper à la police sur l'autoroute 15 à La Prairie",
+   "cahier": "montreal",
+   "rubrique": "faits-divers",
+   "territoire": "La Prairie (Montérégie)",
+   "medias": "Le Reflet",
+   "url": "https://lereflet.qc.ca/la-prairie-candiac-moto-poursuite-policiere-actu/",
+   "resume": "La Sûreté du Québec a lancé une poursuite vendredi après-midi avant d'arrêter un conducteur de 44 ans.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Reflet",
+     "url": "https://lereflet.qc.ca/la-prairie-candiac-moto-poursuite-policiere-actu/",
+     "auteur": "Michel Hersir",
+     "date": "2026-09-05T19:53-04:00"
+    }
+   ],
+   "permalien": "un-motocycliste-tente-d-echapper-a-la-police-sur-l-autoroute-e1e66b",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "un-motocycliste-tente-d-echapper-a-la-police-sur-l-autoroute-e1e66b"
+  },
+  {
+   "titre": "Une centaine de bénévoles plantent 24 000 végétaux sur une plage de la Baie-des-Chaleurs",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Maria (Gaspésie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281040/mobilisation-recharge-plage-maria-plantes",
+   "resume": "Une bénévole explique vouloir protéger cette recharge de plage, une cause qui lui tient particulièrement à cœur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281040/mobilisation-recharge-plage-maria-plantes",
+     "date": "2026-09-05T18:56-04:00",
+     "auteur": "Flavie Durette"
+    }
+   ],
+   "permalien": "une-centaine-de-benevoles-plantent-24-000-vegetaux-sur-une-p-a09558",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "une-centaine-de-benevoles-plantent-24-000-vegetaux-sur-une-p-a09558"
+  },
+  {
+   "titre": "Le directeur du développement économique de Sept-Îles quitte pour relever d'autres défis",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Sept-Îles (Côte-Nord)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281033/developpement-economique-sept-iles-dg",
+   "resume": "Paul Lavoie souligne l'importance croissante de la Côte-Nord dans les stratégies de développement des minéraux critiques et stratégiques.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281033/developpement-economique-sept-iles-dg",
+     "date": "2026-09-05T18:00-04:00",
+     "auteur": "Laurana Genest"
+    }
+   ],
+   "permalien": "le-directeur-du-developpement-economique-de-sept-iles-quitte-64b88a",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "le-directeur-du-developpement-economique-de-sept-iles-quitte-64b88a"
+  },
+  {
+   "titre": "Un premier festival de moto voit le jour en Estrie ce week-end",
+   "cahier": "quebec",
+   "rubrique": "sport",
+   "territoire": "Richmond (Estrie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281036/festival-moto-estrie-securite-route",
+   "resume": "L'événement, présenté sur le terrain de l'Exposition agricole, veut aussi sensibiliser les motocyclistes aux enjeux de sécurité routière.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281036/festival-moto-estrie-securite-route",
+     "date": "2026-09-05T17:59-04:00",
+     "auteur": "Cédric Bérubé et Étienne Meunier"
+    }
+   ],
+   "permalien": "un-premier-festival-de-moto-voit-le-jour-en-estrie-ce-week-e-bdd28d",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "un-premier-festival-de-moto-voit-le-jour-en-estrie-ce-week-e-bdd28d"
+  },
+  {
+   "titre": "La 93e édition d'une course de canots réputée est lancée en Mauricie",
+   "cahier": "quebec",
+   "rubrique": "sport",
+   "territoire": "Mauricie",
+   "medias": "Le Nouvelliste",
+   "url": "https://www.lenouvelliste.ca/actualites/2026/09/05/la-93e-classique-internationale-de-canots-de-la-mauricie-est-lancee-IC6SXSJSVJHMHLPLHA4ZCTHZFM/",
+   "resume": "Les équipes de canoteurs s'élancent depuis vendredi sur ce parcours d'endurance devenu une institution sportive régionale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/2026/09/05/la-93e-classique-internationale-de-canots-de-la-mauricie-est-lancee-IC6SXSJSVJHMHLPLHA4ZCTHZFM/",
+     "auteur": "Rébecca Pépin",
+     "date": "2026-09-05T17:56-04:00"
+    }
+   ],
+   "permalien": "la-93e-edition-d-une-course-de-canots-reputee-est-lancee-en-bbb94f",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "la-93e-edition-d-une-course-de-canots-reputee-est-lancee-en-bbb94f"
+  },
+  {
+   "titre": "L'école de danse Les Farandoles souffle 60 bougies au Saguenay",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Saguenay (Saguenay-Lac-Saint-Jean)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281032/anniversaire-60-ans-farandoles-danse",
+   "resume": "Spécialisée en folklore québécois, l'école transmet toujours une passion pour la danse née il y a six décennies.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281032/anniversaire-60-ans-farandoles-danse",
+     "date": "2026-09-05T17:26-04:00",
+     "auteur": "Mireille Chayer"
+    }
+   ],
+   "permalien": "l-ecole-de-danse-les-farandoles-souffle-60-bougies-au-saguen-0a73cf",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "l-ecole-de-danse-les-farandoles-souffle-60-bougies-au-saguen-0a73cf"
+  },
+  {
+   "titre": "Arvida souligne son centenaire avec des tirs de canon et un survol de CF-18",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Arvida, Saguenay (Saguenay-Lac-Saint-Jean)",
+   "medias": "Le Quotidien",
+   "url": "https://www.lequotidien.com/actualites/actualites-locales/2026/09/05/arvida-fete-ses-100-ans-sous-le-bruit-de-canons-et-dun-cf-18-CD22CS4J6FB4PEEEMQ3PJUDOBI/",
+   "resume": "Des comédiens en costume militaire ont recréé l'époque avec des fusils Lee-Enfield devant les résidents rassemblés pour l'occasion.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/20090111_Usine_Rio_Tinto_Alcan_d%27Arvida.JPG",
+   "legende": "L'usine Rio Tinto Alcan d'Arvida, secteur historique de Saguenay.",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/actualites-locales/2026/09/05/arvida-fete-ses-100-ans-sous-le-bruit-de-canons-et-dun-cf-18-CD22CS4J6FB4PEEEMQ3PJUDOBI/",
+     "auteur": "Laurence Richard",
+     "date": "2026-09-05T16:49-04:00"
+    }
+   ],
+   "photo_auteur": "Khayman",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "arvida-souligne-son-centenaire-avec-des-tirs-de-canon-et-un-192e68",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "arvida-souligne-son-centenaire-avec-des-tirs-de-canon-et-un-192e68"
+  },
+  {
+   "titre": "Québec lance l'appel d'offres pour la rénovation du Stade Canac",
+   "cahier": "quebec",
+   "rubrique": "sport",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281005/appel-offres-renovation-chantier-stade-capitales",
+   "resume": "L'avis vise le cœur d'un chantier qui doit moderniser d'ici 2028 les installations des Capitales de Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281005/appel-offres-renovation-chantier-stade-capitales",
+     "date": "2026-09-05T16:00-04:00",
+     "auteur": "Marie-Christine Gagnon"
+    }
+   ],
+   "permalien": "quebec-lance-l-appel-d-offres-pour-la-renovation-du-stade-ca-55f57f",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "quebec-lance-l-appel-d-offres-pour-la-renovation-du-stade-ca-55f57f"
+  },
+  {
+   "titre": "À Rouyn-Noranda, un projet vidéo recueille les vœux des citoyens pour les 100 prochaines années",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Rouyn-Noranda (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280997/megaphone-video-futur-rouyn-noranda-100e",
+   "resume": "Le projet Mégaphone a profité du Festival de musique émergente pour recueillir les souhaits des participants sur écran.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280997/megaphone-video-futur-rouyn-noranda-100e",
+     "date": "2026-09-05T15:46-04:00",
+     "auteur": "Annabel Ouellet"
+    }
+   ],
+   "permalien": "a-rouyn-noranda-un-projet-video-recueille-les-vux-des-citoye-ef61c1",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "a-rouyn-noranda-un-projet-video-recueille-les-vux-des-citoye-ef61c1"
+  },
+  {
+   "titre": "Un oiseau rarissime en Amérique du Nord repéré à Carleton-sur-Mer",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Carleton-sur-Mer (Gaspésie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281000/oiseau-rare-gaspesie-courlis-siberie",
+   "resume": "Un courlis de Sibérie, jamais vu à l'est du continent, a été observé près de la marina.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281000/oiseau-rare-gaspesie-courlis-siberie",
+     "date": "2026-09-05T15:32-04:00",
+     "auteur": "Flavie Durette"
+    }
+   ],
+   "permalien": "un-oiseau-rarissime-en-amerique-du-nord-repere-a-carleton-su-c51a84",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "un-oiseau-rarissime-en-amerique-du-nord-repere-a-carleton-su-c51a84"
+  },
+  {
+   "titre": "Le public répond en grand nombre à une activité portes ouvertes du Moulin Bouchard, à Baie-Saint-Paul",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Baie-Saint-Paul (Charlevoix)",
+   "medias": "Le Charlevoisien",
+   "url": "https://www.lecharlevoisien.com/2026/09/05/un-franc-succes-pour-la-porte-ouverte-du-moulin-bouchard/",
+   "resume": "La propriétaire voit la preuve que son travail de mise en valeur du patrimoine trouve son public.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/05/un-franc-succes-pour-la-porte-ouverte-du-moulin-bouchard/",
+     "auteur": "Victor Carré",
+     "date": "2026-09-05T15:15-04:00"
+    }
+   ],
+   "permalien": "le-public-repond-en-grand-nombre-a-une-activite-portes-ouver-b2dff2",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "le-public-repond-en-grand-nombre-a-une-activite-portes-ouver-b2dff2"
+  },
+  {
+   "titre": "Une friperie de la Mauricie se réorganise après un incendie",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Mauricie",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280990/friperie-chez-marie-4-poches-reorganise-incendie",
+   "resume": "En attendant un local pour entreposer les dons reçus, l'organisme continue de recueillir des vêtements dans un conteneur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280990/friperie-chez-marie-4-poches-reorganise-incendie",
+     "date": "2026-09-05T15:14-04:00",
+     "auteur": "Corinne Goulet et Molly Béland"
+    }
+   ],
+   "permalien": "une-friperie-de-la-mauricie-se-reorganise-apres-un-incendie-b0d235",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "une-friperie-de-la-mauricie-se-reorganise-apres-un-incendie-b0d235"
+  },
+  {
+   "titre": "Après le rapport accablant du coroner sur la Belgo, des entrepreneurs offrent de démolir le silo dangereux",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Shawinigan (Mauricie)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2026/09/05/derriere-vos-dossiers-et-vos-paperasses-il-y-a-un-visage-et-un-prenom-victoria-AWTRI36QQBCY5IL2KKIFLIGJQQ/",
+   "resume": "Trois entreprises se proposent de démolir gratuitement une structure jugée dangereuse par le coroner depuis des mois.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2026/09/05/derriere-vos-dossiers-et-vos-paperasses-il-y-a-un-visage-et-un-prenom-victoria-AWTRI36QQBCY5IL2KKIFLIGJQQ/",
+     "auteur": "Rébecca Pépin",
+     "date": "2026-09-05T14:28-04:00"
+    }
+   ],
+   "permalien": "apres-le-rapport-accablant-du-coroner-sur-la-belgo-des-entre-64a54d",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "apres-le-rapport-accablant-du-coroner-sur-la-belgo-des-entre-64a54d"
+  },
+  {
+   "titre": "Tous les postes d'enseignants sont pourvus au centre de services scolaire de Kamouraska–Rivière-du-Loup",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Rivière-du-Loup (Bas-Saint-Laurent)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/actualite/les-postes-denseignants-sont-tous-pourvus-au-css-de-kamouraska-riviere-du-loup/",
+   "resume": "La direction générale s'en réjouit, alors que le recrutement demeure difficile pour plusieurs centres de services scolaires ailleurs.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/actualite/les-postes-denseignants-sont-tous-pourvus-au-css-de-kamouraska-riviere-du-loup/",
+     "auteur": "Marc-Antoine Paquin",
+     "date": "2026-09-05T13:28-04:00"
+    }
+   ],
+   "permalien": "tous-les-postes-d-enseignants-sont-pourvus-au-centre-de-serv-3e4cb5",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "tous-les-postes-d-enseignants-sont-pourvus-au-centre-de-serv-3e4cb5"
+  },
+  {
+   "titre": "Rohan Jones, choix de premier tour, signe officiellement avec les Alouettes",
+   "cahier": "montreal",
+   "rubrique": "sport",
+   "territoire": "Montréal",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/sports/2280975/rohan-jones-signe-alouettes-de-montreal",
+   "resume": "L'ailier rapproché québécois, qui cherchait récemment à percer aux États-Unis, revient plutôt tenter sa chance chez les Alouettes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/sports/2280975/rohan-jones-signe-alouettes-de-montreal",
+     "date": "2026-09-05T13:24-04:00"
+    }
+   ],
+   "permalien": "rohan-jones-choix-de-premier-tour-signe-officiellement-avec-09d54a",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "rohan-jones-choix-de-premier-tour-signe-officiellement-avec-09d54a"
+  },
+  {
+   "titre": "Une survivante du cancer du sein gravira 585 marches à Shawinigan pour la cause",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Shawinigan (Mauricie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280955/survivante-cancer-sein-monter-tour-hydro-quebec",
+   "resume": "Une bénévole montera la tour de la Cité de l'Énergie pour amasser des fonds contre le cancer.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tour_de_la_Cit%C3%A9_de_l%27%C3%89nergie%2C_Shawinigan.jpg",
+   "legende": "La tour d'observation de la Cité de l'Énergie, à Shawinigan.",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280955/survivante-cancer-sein-monter-tour-hydro-quebec",
+     "date": "2026-09-05T11:12-04:00",
+     "auteur": "Corinne Goulet"
+    }
+   ],
+   "photo_auteur": "Asclepias",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "une-survivante-du-cancer-du-sein-gravira-585-marches-a-shawi-4fff19",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "une-survivante-du-cancer-du-sein-gravira-585-marches-a-shawi-4fff19"
+  },
+  {
+   "titre": "De jeunes campeurs de Sainte-Julie remettent leurs profits d'été à la Fondation Enfant Soleil",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Sainte-Julie (Montérégie)",
+   "medias": "La Relève de Boucherville",
+   "url": "https://lareleve.qc.ca/2026/09/05/jeunes-entrepreneurs-sainte-julie-aident-fondation-enfant-soleil/",
+   "resume": "Plutôt que de profiter de l'été, des enfants des camps de jour ont géré leur petit commerce caritatif.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "La Relève de Boucherville",
+     "url": "https://lareleve.qc.ca/2026/09/05/jeunes-entrepreneurs-sainte-julie-aident-fondation-enfant-soleil/",
+     "auteur": "Daniel Bastin",
+     "date": "2026-09-05T10:30-04:00"
+    }
+   ],
+   "permalien": "de-jeunes-campeurs-de-sainte-julie-remettent-leurs-profits-d-e7093f",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "de-jeunes-campeurs-de-sainte-julie-remettent-leurs-profits-d-e7093f"
+  },
+  {
+   "titre": "Une enquête pour incendie criminel ouverte à Granby",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Granby (Montérégie)",
+   "medias": "La Voix de l'Est",
+   "url": "https://www.lavoixdelest.ca/actualites/justice-et-faits-divers/2026/09/05/une-enquete-est-ouverte-pour-incendie-criminel-a-granby-M3KQNPDQUFGNZJTW4BFAD3KMQQ/",
+   "resume": "Les policiers sont intervenus vendredi après-midi et soupçonnent maintenant un acte volontaire à l'origine du sinistre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/actualites/justice-et-faits-divers/2026/09/05/une-enquete-est-ouverte-pour-incendie-criminel-a-granby-M3KQNPDQUFGNZJTW4BFAD3KMQQ/",
+     "date": "2026-09-05T09:40-04:00"
+    }
+   ],
+   "permalien": "une-enquete-pour-incendie-criminel-ouverte-a-granby-e0be62",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "une-enquete-pour-incendie-criminel-ouverte-a-granby-e0be62"
+  },
+  {
+   "titre": "L'école secondaire Loyola renoncera à ses subventions plutôt que d'appliquer la loi sur la laïcité",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Montréal",
+   "medias": "CBC Montreal",
+   "url": "https://www.cbc.ca/news/canada/montreal/loyola-quebec-secularism-subsidies-9.7333756",
+   "resume": "L'institution catholique jésuite, vieille de 130 ans, deviendra entièrement indépendante pour préserver son identité religieuse d'ici 2029.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "CBC Montreal",
+     "url": "https://www.cbc.ca/news/canada/montreal/loyola-quebec-secularism-subsidies-9.7333756",
+     "date": "2026-09-05T09:34-04:00"
+    }
+   ],
+   "permalien": "l-ecole-secondaire-loyola-renoncera-a-ses-subventions-plutot-a40761",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "l-ecole-secondaire-loyola-renoncera-a-ses-subventions-plutot-a40761"
+  },
+  {
+   "titre": "Blessé à une clavicule, Tadej Pogačar ratera les Mondiaux de cyclisme à Montréal",
+   "cahier": "montreal",
+   "rubrique": "sport",
+   "territoire": "Montréal",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/sports/2280927/tadej-pogacar-ratera-mondiaux-cyclisme-montreal",
+   "resume": "Le meilleur cycliste du moment préfère se concentrer sur sa récupération plutôt que de reprendre la compétition.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/sports/2280927/tadej-pogacar-ratera-mondiaux-cyclisme-montreal",
+     "date": "2026-09-05T09:06-04:00"
+    }
+   ],
+   "permalien": "blesse-a-une-clavicule-tadej-pogacar-ratera-les-mondiaux-de-0bb1a0",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "blesse-a-une-clavicule-tadej-pogacar-ratera-les-mondiaux-de-0bb1a0"
+  },
+  {
+   "titre": "Laval cible une seule rue pour sa prochaine campagne de plantation d'arbres",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Laval",
+   "medias": "Courrier Laval",
+   "url": "https://courrierlaval.com/la-rue-edith-dans-la-mire-de-plantaction/",
+   "resume": "Le mouvement change de méthode en concentrant ses efforts de verdissement sur une seule rue plutôt qu'un quartier.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/la-rue-edith-dans-la-mire-de-plantaction/",
+     "auteur": "Stéphane St-Amour",
+     "date": "2026-09-05T08:30-04:00"
+    }
+   ],
+   "permalien": "laval-cible-une-seule-rue-pour-sa-prochaine-campagne-de-plan-fe80db",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "laval-cible-une-seule-rue-pour-sa-prochaine-campagne-de-plan-fe80db"
+  },
+  {
+   "titre": "Sept-Îles souligne ses 75 ans par une grande fête au Vieux-Poste",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Sept-Îles (Côte-Nord)",
+   "medias": "Le Nord-Côtier",
+   "url": "https://lenord-cotier.com/2026/09/05/75-ans-de-la-ville-de-sept-iles-cest-la-fete-au-vieux-poste/",
+   "resume": "Visite guidée, pique-nique et repas offerts sont au programme de cette célébration du 75e anniversaire de la ville.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/3/30/QC_Uashat_VieuxPosteCieBaieHudson.jpg",
+   "legende": "Le Vieux-Poste, poste de traite historique de la Compagnie de la Baie d'Hudson à Uashat, près de Sept-Îles.",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/05/75-ans-de-la-ville-de-sept-iles-cest-la-fete-au-vieux-poste/",
+     "auteur": "Sylvain Turcotte",
+     "date": "2026-09-05T08:30-04:00"
+    }
+   ],
+   "photo_auteur": "Emdx",
+   "photo_licence": "CC BY-SA 2.0 ca",
+   "permalien": "sept-iles-souligne-ses-75-ans-par-une-grande-fete-au-vieux-p-bde6c9",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "sept-iles-souligne-ses-75-ans-par-une-grande-fete-au-vieux-p-bde6c9"
+  },
+  {
+   "titre": "Une patrouille mixte SQ-SPUM voit finalement le jour à Ekuanitshit, mais sans financement additionnel",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Ekuanitshit (Côte-Nord)",
+   "medias": "Radio-Canada, Le Nord-Côtier",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280843/patrouille-mixte-ekuanitshit-spum-sq",
+   "resume": "Le chef de la communauté innue accepte l'entente temporaire, en réclamant le retour d'un corps de police financé.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/2/23/013_040_Ekuanitshit.jpg",
+   "legende": "La communauté innue d'Ekuanitshit, sur la Côte-Nord.",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280843/patrouille-mixte-ekuanitshit-spum-sq",
+     "auteur": "Lucas Handschuh, Laurana Genest",
+     "date": "2026-09-05T17:54-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/05/la-spum-et-la-sq-patrouilleront-a-ekuanitshit/",
+     "auteur": "Sylvain Turcotte",
+     "date": "2026-09-05T09:09-04:00"
+    }
+   ],
+   "photo_auteur": "G. Lapointe/Nichole Ouellette",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "une-patrouille-mixte-sq-spum-voit-finalement-le-jour-a-ekuan-b61760",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "une-patrouille-mixte-sq-spum-voit-finalement-le-jour-a-ekuan-b61760"
+  },
+  {
+   "titre": "Une collision frontale fait deux morts sur le boulevard des Allumettières à Gatineau",
+   "cahier": "quebec",
+   "rubrique": "faits-divers",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Radio-Canada, Coops de l'information",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280959/veronique-plourde-deces-allumettieres-collision",
+   "resume": "Une femme d'affaires bien connue à Aylmer et l'automobiliste venant en sens inverse ont péri dans l'accident.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Gatineau_%28secteur_Aylmer%29-2023-05-26.jpg",
+   "legende": "Le secteur Aylmer, à Gatineau, où habitait l'une des victimes.",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280959/veronique-plourde-deces-allumettieres-collision",
+     "auteur": "Clément Lechat",
+     "date": "2026-09-05T11:50-04:00"
+    },
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.ledroit.com/actualites/2026/09/06/la-communaute-daylmer-marquee-par-le-deces-de-veronique-plourde",
+     "auteur": "Sarah-Jeanne Tremblay",
+     "date": "2026-09-06T04:00-04:00"
+    }
+   ],
+   "photo_auteur": "Veillg1",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "une-collision-frontale-fait-deux-morts-sur-le-boulevard-des-bbd96c",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "une-collision-frontale-fait-deux-morts-sur-le-boulevard-des-bbd96c"
+  },
+  {
+   "titre": "Sherbrooke avait raison de congédier un col bleu filaté par des enquêteurs privés, tranche un arbitre",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Sherbrooke (Estrie)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/05/sherbrooke-a-utilise-la-filature-pour-congedier-un-col-bleu-GEB7LEIVYRBPVEZ24PKKOHDBSE/",
+   "resume": "L'arbitre a jugé la surveillance légale et confirmé le renvoi de l'employé, souvent au téléphone plutôt qu'au travail.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/05/sherbrooke-a-utilise-la-filature-pour-congedier-un-col-bleu-GEB7LEIVYRBPVEZ24PKKOHDBSE/",
+     "date": "2026-09-04T20:00-04:00",
+     "auteur": "Tommy Brochu"
+    }
+   ],
+   "permalien": "sherbrooke-avait-raison-de-congedier-un-col-bleu-filate-par-bb2640",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "sherbrooke-avait-raison-de-congedier-un-col-bleu-filate-par-bb2640"
+  },
+  {
+   "titre": "Un fabricant de citernes de Granby accuse Ottawa de le pousser à investir aux États-Unis",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Granby (Montérégie)",
+   "medias": "La Voix de l'Est",
+   "url": "https://www.lesoleil.com/affaires/2026/09/05/contre-tarifs-tremcar-forcee-dinvestir-dans-ses-usines-americaines-W3MQGF33EJGG5OPJVRLLYOGPRM/",
+   "resume": "Le dirigeant dénonce les contre-tarifs sur l'aluminium et l'acier, une matière première que ses usines n'achètent qu'aux États-Unis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lesoleil.com/affaires/2026/09/05/contre-tarifs-tremcar-forcee-dinvestir-dans-ses-usines-americaines-W3MQGF33EJGG5OPJVRLLYOGPRM/",
+     "date": "2026-09-04T20:00-04:00",
+     "auteur": "Jean-Luc Lorry"
+    }
+   ],
+   "permalien": "un-fabricant-de-citernes-de-granby-accuse-ottawa-de-le-pouss-40f048",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "un-fabricant-de-citernes-de-granby-accuse-ottawa-de-le-pouss-40f048"
+  },
+  {
+   "titre": "Une pétition réclame de réduire la vitesse permise sur un tronçon dangereux à Bromont",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Bromont (Estrie)",
+   "medias": "La Voix de l'Est",
+   "url": "https://www.lavoixdelest.ca/actualites/actualites-locales/2026/09/05/drapeau-rouge-sur-la-vitesse-sur-pierre-laporte-a-bromont-XNEVCLIW7NEU5N6KYVIO4UBIH4/",
+   "resume": "Un résident dénonce des excès de vitesse et lance une pétition pour abaisser la limite sur ce tronçon.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/actualites/actualites-locales/2026/09/05/drapeau-rouge-sur-la-vitesse-sur-pierre-laporte-a-bromont-XNEVCLIW7NEU5N6KYVIO4UBIH4/",
+     "date": "2026-09-04T20:00-04:00",
+     "auteur": "Jean-François Guillet"
+    }
+   ],
+   "permalien": "une-petition-reclame-de-reduire-la-vitesse-permise-sur-un-tr-2dd03f",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "une-petition-reclame-de-reduire-la-vitesse-permise-sur-un-tr-2dd03f"
+  },
+  {
+   "titre": "Une résidence pour aînés de Sherbrooke ferme temporairement après des dégâts d'eau",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Sherbrooke (Estrie)",
+   "medias": "La Tribune",
+   "url": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2026/09/05/la-residence-brooks-fermee-pour-les-prochains-mois-YM4SYFRNYJHTPOXVZ7QQEPPREE/",
+   "resume": "Un système déclenché par un matelas qui brûlait a inondé deux étages, forçant le déménagement des résidents.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2026/09/05/la-residence-brooks-fermee-pour-les-prochains-mois-YM4SYFRNYJHTPOXVZ7QQEPPREE/",
+     "date": "2026-09-04T20:00-04:00",
+     "auteur": "Rosalie Croteau"
+    }
+   ],
+   "permalien": "une-residence-pour-aines-de-sherbrooke-ferme-temporairement-0f3cb7",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "une-residence-pour-aines-de-sherbrooke-ferme-temporairement-0f3cb7"
+  },
+  {
+   "titre": "Simple Plan soulève une foule immense au festival musical de Gatineau",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Le Droit",
+   "url": "https://www.ledroit.com/arts/nos-festivals/2026/09/05/une-foule-monstre-pour-simple-plan-au-fmg-U2D62D2MARC7HE656MOFWOVVWA/",
+   "resume": "Le groupe pop punk a misé sur la nostalgie de 2002 pour offrir une soirée jugée impeccable.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T08:09-04:00",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/arts/nos-festivals/2026/09/05/une-foule-monstre-pour-simple-plan-au-fmg-U2D62D2MARC7HE656MOFWOVVWA/",
+     "date": "2026-09-04T20:00-04:00",
+     "auteur": "Claudia Blais-Thompson"
+    }
+   ],
+   "permalien": "simple-plan-souleve-une-foule-immense-au-festival-musical-de-4b1404",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-06.json",
+   "_slug": "simple-plan-souleve-une-foule-immense-au-festival-musical-de-4b1404"
+  },
+  {
    "titre": "Un homme de 26 ans arrêté après avoir agressé son père et sa mère à l'arme blanche à Saint-Léonard",
    "cahier": "montreal",
    "rubrique": "justice",
@@ -1293,6 +2417,11 @@
      "media": "TVA Nouvelles",
      "url": "https://www.tvanouvelles.ca/2026/09/05/trois-personnes-poignardees-a-saint-leonard-un-suspect-arrete-apres-avoir-pris-la-fuite",
      "date": "2026-09-06T06:22-04:00"
+    },
+    {
+     "media": "CBC Montreal",
+     "url": "https://www.cbc.ca/news/canada/montreal/stabbing-st-leonard-9.7333830",
+     "date": "2026-09-05T08:54-04:00"
     }
    ],
    "horodate": "2026-09-06T06:04-04:00",
@@ -1317,6 +2446,11 @@
      "media": "TVA Nouvelles",
      "url": "https://www.tvanouvelles.ca/2026/09/05/un-hummer-et-une-residence-vises-par-des-coups-de-feu-a-dollard-des-ormeaux",
      "date": "2026-09-06T06:22-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280929/coups-feu-dollard-ormeaux-nuit",
+     "date": "2026-09-05T08:56-04:00"
     }
    ],
    "horodate": "2026-09-06T06:04-04:00",
@@ -2002,6 +3136,12 @@
      "url": "https://www.tvanouvelles.ca/2026/09/05/un-jeune-homme-succombe-a-ses-blessures-apres-des-coups-de-feu-dans-une-belle-province-a-salaberry-de-valleyfield",
      "date": "2026-09-05T22:06-04:00",
      "auteur": "Flavie Gauthier"
+    },
+    {
+     "media": "Le Saint-François",
+     "url": "https://journalsaint-francois.ca/coups-feu-salaberry-de-valleyfield-homme-deces-actu/",
+     "auteur": "Michel Hersir",
+     "date": "2026-09-05T08:32-04:00"
     }
    ],
    "horodate": "2026-09-05T22:06-04:00",
@@ -2029,6 +3169,12 @@
      "url": "https://www.canadafrancais.com/nouvelles-nationales/un-conducteur-se-trouve-dans-un-etat-critique-a-rouyn-noranda/",
      "date": "2026-09-05T16:15-04:00",
      "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280949/accident-sortie-route-rouyn-noranda",
+     "date": "2026-09-05T11:18-04:00",
+     "auteur": "Annabel Ouellet"
     }
    ],
    "horodate": "2026-09-05T16:08-04:00",
@@ -2327,6 +3473,12 @@
      "media": "Le Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/05/lanimateur-jean-brisson-accroche-son-micro-apres-plus-de-70-ans-de-carriere",
      "date": "2026-09-05T22:06-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280944/jean-brisson-retraite-radio",
+     "date": "2026-09-05T10:53-04:00",
+     "auteur": "Sophie Martin"
     }
    ],
    "horodate": "2026-09-05T22:06-04:00",
