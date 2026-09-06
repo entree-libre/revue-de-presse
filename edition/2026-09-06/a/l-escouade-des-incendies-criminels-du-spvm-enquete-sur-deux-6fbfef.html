@@ -38,7 +38,7 @@
 <div class="terr">Saint-Léonard (Montréal), Montréal-Est</div>
 <h1>L&#x27;escouade des incendies criminels du SPVM enquête sur deux VUS brûlés la même nuit</h1>
 <div class="chapo">CTV News Montréal · <time datetime="2026-09-06T10:16-04:00">6 septembre 2026, 10 h 16</time></div>
-<div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ctvnews.ca/montreal/article/arson-squad-investigating-2-vehicle-fires-at-2-residences-40-minutes-apart/" target="_blank" rel="noopener" data-media="CTV News Montréal"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.ctvnews.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-txt"><span class="src-nom">CTV News Montréal</span></span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">10 h 16</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le résumé est une seule phrase, écrite dans nos mots, qui ouvre le sujet ; le texte des articles d'origine n'est pas reproduit. Chaque rédaction a son angle : les lire toutes est la lecture complète.</p></div>
+<div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.ctvnews.ca/montreal/article/arson-squad-investigating-2-vehicle-fires-at-2-residences-40-minutes-apart/" target="_blank" rel="noopener" data-media="CTV News Montréal"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.ctvnews.ca&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-txt"><span class="src-nom">CTV News Montréal</span></span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">10 h 16</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le résumé est une accroche d'une phrase, écrite dans nos mots ; le texte des articles d'origine n'est pas reproduit. Chaque rédaction a son angle : les lire toutes est la lecture complète.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>Quinze kilomètres et quarante minutes séparent les deux résidences, et la police ne conclut rien.</p></div>
@@ -50,7 +50,7 @@
 <a href="../region-06.html"><span class="code">06</span> Montréal</a>
 <a href="../index.html">Saint-Léonard (Montréal), Montréal-Est</a>
 </div>
-<div class="lies"><h5>Sur le même sujet, ailleurs</h5><ul><li><a href="un-homme-de-26-ans-arrete-apres-avoir-agresse-son-pere-et-sa-41a41a.html?v=25ea1e4ec46cc6"><span class="lie-terr"><u class="lie-clef">Saint-Léonard (Montréal)</u></span><span class="lie-titre">Un homme de 26 ans arrêté après avoir agressé son père et sa mère à l&#x27;arme blanche à Saint-Léonard</span><span class="lie-src">Le Devoir, Radio-Canada, TVA Nouvelles</span></a></li></ul></div>
+<div class="lies"><h5>Sur le même sujet, ailleurs</h5><ul><li><a href="un-homme-de-26-ans-arrete-apres-avoir-agresse-son-pere-et-sa-41a41a.html?v=25ea1e4ec46cc6"><span class="lie-terr"><u class="lie-clef">Saint-Léonard (Montréal)</u></span><span class="lie-titre">Un homme de 26 ans arrêté après avoir agressé son père et sa mère à l&#x27;arme blanche à Saint-Léonard</span><span class="lie-src">Le Devoir, Radio-Canada, TVA Nouvelles, CBC Montreal</span></a></li></ul></div>
 <div class="voisins">
 <a href="laval-cible-une-seule-rue-pour-sa-prochaine-campagne-de-plan-fe80db.html?v=36b7a17bfe45bd"><span class="lbl">Sujet précédent</span>Laval cible une seule rue pour sa prochaine campagne de plantation d&#x27;arbres</a>
 <a style="text-align:right" href="une-enquete-pour-incendie-criminel-ouverte-a-granby-e0be62.html?v=1f3588938a45bd"><span class="lbl">Sujet suivant</span>Une enquête pour incendie criminel ouverte à Granby</a>
@@ -61,7 +61,7 @@
 <p>217 sujets. 100 % des résumés tiennent en une phrase.
 29 % des sujets reposent sur deux médias ou plus.
 Dépouillement : économie et opinions, elections, chasse hors RSS, vie municipale, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>93 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
+<h5>Sources</h5><p>90 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>51 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -356,7 +356,7 @@ window.addEventListener('scroll',defiler,{passive:true});
 /* Une barre depliee a la main (ou gardee ouverte apres un filtre) se referme
    des que le lecteur reprend le defilement lui-meme. */
 ['wheel','touchstart'].forEach(function(ev){window.addEventListener(ev,function(){
- var f=document.getElementById('facettes');if(f&&defileEtat&&f.classList.contains('ouvert'))
+ var f=document.getElementById('facettes');if(f&&(defileEtat||H.classList.contains('l-36'))&&f.classList.contains('ouvert'))
   setTimeout(function(){f.classList.remove('ouvert');hauteurEntete();},400);},{passive:true});});
 document.addEventListener('click',function(e){
  var l=e.target&&e.target.closest?e.target.closest('nav.facettes .fac-lbl'):null;

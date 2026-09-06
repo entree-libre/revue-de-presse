@@ -58,7 +58,7 @@
 <div>
 <div class="terr"><span class="cah-tag" data-cahier="elections">Élections Québec 2026</span>Outaouais, Laurentides</div>
 <h4 class="titre"><a href="a/le-parti-liberal-promet-de-completer-l-elargissement-de-l-au-a96c1e.html?v=96a2653fd784aa">Le Parti libéral promet de compléter l&#x27;élargissement de l&#x27;autoroute 50 d&#x27;ici dix ans</a></h4>
-<div class="credit">Radio-Canada, LaPresse, Coops de l&#x27;information <span class="src-n" title="Articles d'origine liés sous ce sujet">3 articles</span> <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
+<div class="credit">Radio-Canada, La Presse, Le Droit <span class="src-n" title="Articles d'origine liés sous ce sujet">3 articles</span> <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
 <div class="extrait">Reste à savoir si cette promesse survivra mieux que celle, brisée, de la dernière campagne.</div>
 <div class="plus"><a href="a/le-parti-liberal-promet-de-completer-l-elargissement-de-l-au-a96c1e.html?v=96a2653fd784aa">Lire le sujet →</a></div>
 </div></article>
@@ -89,7 +89,7 @@
 <div>
 <div class="terr"><span class="cah-tag" data-cahier="quebec">Québec et ses régions</span>Gatineau (Outaouais)</div>
 <h4 class="titre"><a href="a/une-collision-frontale-fait-deux-morts-sur-le-boulevard-des-bbd96c.html?v=3b1486155745bd">Une collision frontale fait deux morts sur le boulevard des Allumettières à Gatineau</a></h4>
-<div class="credit">Radio-Canada, Coops de l&#x27;information <span class="src-n" title="Articles d'origine liés sous ce sujet">2 articles</span> <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
+<div class="credit">Radio-Canada, Le Droit <span class="src-n" title="Articles d'origine liés sous ce sujet">2 articles</span> <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
 <div class="extrait">Une femme d&#x27;affaires bien connue à Aylmer et l&#x27;automobiliste venant en sens inverse ont péri dans l&#x27;accident.</div>
 <div class="plus"><a href="a/une-collision-frontale-fait-deux-morts-sur-le-boulevard-des-bbd96c.html?v=3b1486155745bd">Lire le sujet →</a></div>
 </div></article>
@@ -109,7 +109,7 @@
 <p>217 sujets. 100 % des résumés tiennent en une phrase.
 29 % des sujets reposent sur deux médias ou plus.
 Dépouillement : économie et opinions, elections, chasse hors RSS, vie municipale, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>93 médias dépouillés pour cette édition — <a href="sources.html">la liste complète et la démarche</a>.</p>
+<h5>Sources</h5><p>90 médias dépouillés pour cette édition — <a href="sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>51 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -404,7 +404,7 @@ window.addEventListener('scroll',defiler,{passive:true});
 /* Une barre depliee a la main (ou gardee ouverte apres un filtre) se referme
    des que le lecteur reprend le defilement lui-meme. */
 ['wheel','touchstart'].forEach(function(ev){window.addEventListener(ev,function(){
- var f=document.getElementById('facettes');if(f&&defileEtat&&f.classList.contains('ouvert'))
+ var f=document.getElementById('facettes');if(f&&(defileEtat||H.classList.contains('l-36'))&&f.classList.contains('ouvert'))
   setTimeout(function(){f.classList.remove('ouvert');hauteurEntete();},400);},{passive:true});});
 document.addEventListener('click',function(e){
  var l=e.target&&e.target.closest?e.target.closest('nav.facettes .fac-lbl'):null;

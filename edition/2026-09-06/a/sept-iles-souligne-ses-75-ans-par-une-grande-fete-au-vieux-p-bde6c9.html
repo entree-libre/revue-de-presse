@@ -39,7 +39,7 @@
 <div class="terr">Sept-Îles (Côte-Nord)</div>
 <h1>Sept-Îles souligne ses 75 ans par une grande fête au Vieux-Poste</h1>
 <div class="chapo">Le Nord-Côtier · <time datetime="2026-09-06T08:09-04:00">6 septembre 2026, 8 h 09</time></div>
-<div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://lenord-cotier.com/2026/09/05/75-ans-de-la-ville-de-sept-iles-cest-la-fete-au-vieux-poste/" target="_blank" rel="noopener" data-media="Le Nord-Côtier"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=lenord-cotier.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-txt"><span class="src-nom">Le Nord-Côtier</span><span class="src-auteur">Sylvain Turcotte</span></span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">5 septembre, 8 h 30</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le résumé est une seule phrase, écrite dans nos mots, qui ouvre le sujet ; le texte des articles d'origine n'est pas reproduit. Chaque rédaction a son angle : les lire toutes est la lecture complète.</p></div>
+<div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://lenord-cotier.com/2026/09/05/75-ans-de-la-ville-de-sept-iles-cest-la-fete-au-vieux-poste/" target="_blank" rel="noopener" data-media="Le Nord-Côtier"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=lenord-cotier.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-txt"><span class="src-nom">Le Nord-Côtier</span><span class="src-auteur">Sylvain Turcotte</span></span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">5 septembre, 8 h 30</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le résumé est une accroche d'une phrase, écrite dans nos mots ; le texte des articles d'origine n'est pas reproduit. Chaque rédaction a son angle : les lire toutes est la lecture complète.</p></div>
 </div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/3/30/QC_Uashat_VieuxPosteCieBaieHudson.jpg" onerror="this.closest('figure').remove()"><figcaption>Le Vieux-Poste, poste de traite historique de la Compagnie de la Baie d&#x27;Hudson à Uashat, près de Sept-Îles. Photo : Emdx, CC BY-SA 2.0 ca, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="col-texte">
@@ -62,7 +62,7 @@
 <p>217 sujets. 100 % des résumés tiennent en une phrase.
 29 % des sujets reposent sur deux médias ou plus.
 Dépouillement : économie et opinions, elections, chasse hors RSS, vie municipale, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>93 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
+<h5>Sources</h5><p>90 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>51 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -357,7 +357,7 @@ window.addEventListener('scroll',defiler,{passive:true});
 /* Une barre depliee a la main (ou gardee ouverte apres un filtre) se referme
    des que le lecteur reprend le defilement lui-meme. */
 ['wheel','touchstart'].forEach(function(ev){window.addEventListener(ev,function(){
- var f=document.getElementById('facettes');if(f&&defileEtat&&f.classList.contains('ouvert'))
+ var f=document.getElementById('facettes');if(f&&(defileEtat||H.classList.contains('l-36'))&&f.classList.contains('ouvert'))
   setTimeout(function(){f.classList.remove('ouvert');hauteurEntete();},400);},{passive:true});});
 document.addEventListener('click',function(e){
  var l=e.target&&e.target.closest?e.target.closest('nav.facettes .fac-lbl'):null;

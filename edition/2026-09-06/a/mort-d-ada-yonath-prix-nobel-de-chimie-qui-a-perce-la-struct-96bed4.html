@@ -39,7 +39,7 @@
 <div class="terr">Israël</div>
 <h1>Mort d&#x27;Ada Yonath, prix Nobel de chimie qui a percé la structure du ribosome malgré des décennies de scepticisme</h1>
 <div class="chapo">Nature · <time datetime="2026-09-06T09:46-04:00">6 septembre 2026, 9 h 46</time></div>
-<div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.nature.com/articles/d41586-026-02801-0" target="_blank" rel="noopener" data-media="Nature"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.nature.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-txt"><span class="src-nom">Nature</span><span class="src-auteur">Georgina Ferry</span></span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">4 septembre, 0 h 00</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le résumé est une seule phrase, écrite dans nos mots, qui ouvre le sujet ; le texte des articles d'origine n'est pas reproduit. Chaque rédaction a son angle : les lire toutes est la lecture complète.</p></div>
+<div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.nature.com/articles/d41586-026-02801-0" target="_blank" rel="noopener" data-media="Nature"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.nature.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-txt"><span class="src-nom">Nature</span><span class="src-auteur">Georgina Ferry</span></span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">4 septembre, 0 h 00</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le résumé est une accroche d'une phrase, écrite dans nos mots ; le texte des articles d'origine n'est pas reproduit. Chaque rédaction a son angle : les lire toutes est la lecture complète.</p></div>
 </div>
 <figure><img loading="lazy" alt="" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ada_Yonath.jpg" onerror="this.closest('figure').remove()"><figcaption>Ada Yonath, prix Nobel de chimie 2009. Photo : Alain Herzog, CC BY-SA 4.0, via Wikimedia Commons — image d&#x27;illustration, et non la photographie publiée par le média cité.</figcaption></figure>
 <div class="col-texte">
@@ -62,7 +62,7 @@
 <p>217 sujets. 100 % des résumés tiennent en une phrase.
 29 % des sujets reposent sur deux médias ou plus.
 Dépouillement : économie et opinions, elections, chasse hors RSS, vie municipale, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>93 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
+<h5>Sources</h5><p>90 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>51 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -357,7 +357,7 @@ window.addEventListener('scroll',defiler,{passive:true});
 /* Une barre depliee a la main (ou gardee ouverte apres un filtre) se referme
    des que le lecteur reprend le defilement lui-meme. */
 ['wheel','touchstart'].forEach(function(ev){window.addEventListener(ev,function(){
- var f=document.getElementById('facettes');if(f&&defileEtat&&f.classList.contains('ouvert'))
+ var f=document.getElementById('facettes');if(f&&(defileEtat||H.classList.contains('l-36'))&&f.classList.contains('ouvert'))
   setTimeout(function(){f.classList.remove('ouvert');hauteurEntete();},400);},{passive:true});});
 document.addEventListener('click',function(e){
  var l=e.target&&e.target.closest?e.target.closest('nav.facettes .fac-lbl'):null;

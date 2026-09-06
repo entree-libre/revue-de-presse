@@ -48,7 +48,7 @@
 <div>
 <div class="terr"><span class="cah-tag" data-cahier="quebec">Québec et ses régions</span>Rouyn-Noranda (Abitibi-Témiscamingue)</div>
 <h4 class="titre"><a href="a/un-conducteur-entre-la-vie-et-la-mort-apres-une-sortie-de-ro-682a3a.html?v=4eca748b14e310">Un conducteur entre la vie et la mort après une sortie de route à Rouyn-Noranda</a></h4>
-<div class="credit">Le Canada Français <span class="src-n" title="Articles d'origine liés sous ce sujet">2 articles</span> <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
+<div class="credit">Le Canada Français, Radio-Canada <span class="src-n" title="Articles d'origine liés sous ce sujet">2 articles</span> <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
 <div class="extrait">Le passager s&#x27;en tire avec des blessures légères, mais les causes de l&#x27;accident restent à déterminer.</div>
 <div class="plus"><a href="a/un-conducteur-entre-la-vie-et-la-mort-apres-une-sortie-de-ro-682a3a.html?v=4eca748b14e310">Lire le sujet →</a></div>
 </div></article>
@@ -80,7 +80,7 @@
 <p>217 sujets. 100 % des résumés tiennent en une phrase.
 29 % des sujets reposent sur deux médias ou plus.
 Dépouillement : économie et opinions, elections, chasse hors RSS, vie municipale, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>93 médias dépouillés pour cette édition — <a href="sources.html">la liste complète et la démarche</a>.</p>
+<h5>Sources</h5><p>90 médias dépouillés pour cette édition — <a href="sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>51 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -375,7 +375,7 @@ window.addEventListener('scroll',defiler,{passive:true});
 /* Une barre depliee a la main (ou gardee ouverte apres un filtre) se referme
    des que le lecteur reprend le defilement lui-meme. */
 ['wheel','touchstart'].forEach(function(ev){window.addEventListener(ev,function(){
- var f=document.getElementById('facettes');if(f&&defileEtat&&f.classList.contains('ouvert'))
+ var f=document.getElementById('facettes');if(f&&(defileEtat||H.classList.contains('l-36'))&&f.classList.contains('ouvert'))
   setTimeout(function(){f.classList.remove('ouvert');hauteurEntete();},400);},{passive:true});});
 document.addEventListener('click',function(e){
  var l=e.target&&e.target.closest?e.target.closest('nav.facettes .fac-lbl'):null;

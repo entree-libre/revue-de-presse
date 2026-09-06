@@ -48,7 +48,7 @@
 <div>
 <div class="terr"><span class="cah-tag" data-cahier="elections">Élections Québec 2026</span>Québec (Capitale-Nationale)</div>
 <h4 class="titre"><a href="a/un-chroniqueur-juge-que-le-prochain-gouvernement-du-quebec-s-7a9724.html?v=4074ddd730d142">Un chroniqueur juge que le prochain gouvernement du Québec sera presque assurément minoritaire</a></h4>
-<div class="credit">LaPresse <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
+<div class="credit">La Presse <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
 <div class="extrait">Selon lui, la région de Québec, où le PCQ concentre ses efforts, décidera de tout.</div>
 <div class="plus"><a href="a/un-chroniqueur-juge-que-le-prochain-gouvernement-du-quebec-s-7a9724.html?v=4074ddd730d142">Lire le sujet →</a></div>
 </div></article>
@@ -84,7 +84,7 @@
 <div>
 <div class="terr"><span class="cah-tag" data-cahier="elections">Élections Québec 2026</span>Québec (Capitale-Nationale)</div>
 <h4 class="titre"><a href="a/un-ingenieur-doute-que-le-pont-a-3-milliards-propose-par-duh-48438a.html?v=d5797e9e2020aa">Un ingénieur doute que le pont à 3 milliards proposé par Duhaime soit réalisable</a></h4>
-<div class="credit">98,5FM <span class="src-n" title="Articles d'origine liés sous ce sujet">2 articles</span> <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
+<div class="credit">98,5 FM <span class="src-n" title="Articles d'origine liés sous ce sujet">2 articles</span> <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
 <div class="extrait">Reste à savoir si le chef conservateur ajustera son projet avant la fin de la campagne.</div>
 <div class="plus"><a href="a/un-ingenieur-doute-que-le-pont-a-3-milliards-propose-par-duh-48438a.html?v=d5797e9e2020aa">Lire le sujet →</a></div>
 </div></article>
@@ -127,7 +127,7 @@
 <div>
 <div class="terr"><span class="cah-tag" data-cahier="quebec">Québec et ses régions</span>Portneuf-sur-Mer (Côte-Nord)</div>
 <h4 class="titre"><a href="a/deux-vehicules-entrent-en-collision-a-portneuf-sur-mer-19a7b0.html?v=929d85eef045bd">Deux véhicules entrent en collision à Portneuf-sur-Mer</a></h4>
-<div class="credit">Le Manic, Le Haute Côte-Nord <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
+<div class="credit">Le Manic <span class="ia-tag" title="Résumé rédigé par une intelligence artificielle, sous responsabilité éditoriale — voir À propos et méthodes">IA</span></div>
 <div class="extrait">Deux véhicules se sont percutés vendredi dans ce village de la Haute-Côte-Nord, sans que la gravité soit précisée.</div>
 <div class="plus"><a href="a/deux-vehicules-entrent-en-collision-a-portneuf-sur-mer-19a7b0.html?v=929d85eef045bd">Lire le sujet →</a></div>
 </div></article>
@@ -147,7 +147,7 @@
 <p>217 sujets. 100 % des résumés tiennent en une phrase.
 29 % des sujets reposent sur deux médias ou plus.
 Dépouillement : économie et opinions, elections, chasse hors RSS, vie municipale, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>93 médias dépouillés pour cette édition — <a href="sources.html">la liste complète et la démarche</a>.</p>
+<h5>Sources</h5><p>90 médias dépouillés pour cette édition — <a href="sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>51 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -442,7 +442,7 @@ window.addEventListener('scroll',defiler,{passive:true});
 /* Une barre depliee a la main (ou gardee ouverte apres un filtre) se referme
    des que le lecteur reprend le defilement lui-meme. */
 ['wheel','touchstart'].forEach(function(ev){window.addEventListener(ev,function(){
- var f=document.getElementById('facettes');if(f&&defileEtat&&f.classList.contains('ouvert'))
+ var f=document.getElementById('facettes');if(f&&(defileEtat||H.classList.contains('l-36'))&&f.classList.contains('ouvert'))
   setTimeout(function(){f.classList.remove('ouvert');hauteurEntete();},400);},{passive:true});});
 document.addEventListener('click',function(e){
  var l=e.target&&e.target.closest?e.target.closest('nav.facettes .fac-lbl'):null;

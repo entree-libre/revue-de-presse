@@ -37,7 +37,7 @@
 <div class="fil"><a href="../index.html">La une</a> › <a href="../savoirs.html">Savoirs</a> › Sciences et santé</div>
 <h1>Un homme de 41 ans est hospitalisé après avoir tenté de traiter lui-même son incontinence urinaire</h1>
 <div class="chapo">Futura · <time datetime="2026-09-05T16:08-04:00">5 septembre 2026, 16 h 08</time></div>
-<div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.futura-sciences.com/sante/actualites/vessie-patient-bizarre-stopper-fuites-urinaires-il-injecte-glue-uretre-finit-hopital-137517/" target="_blank" rel="noopener" data-media="Futura"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.futura-sciences.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-txt"><span class="src-nom">Futura</span><span class="src-auteur">Annabelle Iglesias</span></span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">5 septembre, 16 h 15</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le résumé est une seule phrase, écrite dans nos mots, qui ouvre le sujet ; le texte des articles d'origine n'est pas reproduit. Chaque rédaction a son angle : les lire toutes est la lecture complète.</p></div>
+<div class="sources"><h5>Lire à la source</h5><ul class="src-liste"><li><a class="src-btn" href="https://www.futura-sciences.com/sante/actualites/vessie-patient-bizarre-stopper-fuites-urinaires-il-injecte-glue-uretre-finit-hopital-137517/" target="_blank" rel="noopener" data-media="Futura"><span class="src-id"><img class="src-logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=www.futura-sciences.com&amp;sz=64" onerror="this.closest('.src-id').classList.add('sans');this.remove()"><span class="src-txt"><span class="src-nom">Futura</span><span class="src-auteur">Annabelle Iglesias</span></span></span><span class="src-heure" title="Entré dans le journal à cette heure — pas l'heure de publication par le média">5 septembre, 16 h 15</span><span class="src-action">Lire le texte original →</span></a></li></ul><p class="src-note">Le résumé est une accroche d'une phrase, écrite dans nos mots ; le texte des articles d'origine n'est pas reproduit. Chaque rédaction a son angle : les lire toutes est la lecture complète.</p></div>
 </div>
 <div class="col-texte">
 <div class="resume"><p>Pendant deux semaines, sa solution improvisée était un tube de colle industrielle injecté dans l&#x27;urètre.</p></div>
@@ -58,7 +58,7 @@
 <p>217 sujets. 100 % des résumés tiennent en une phrase.
 29 % des sujets reposent sur deux médias ou plus.
 Dépouillement : économie et opinions, elections, chasse hors RSS, vie municipale, Monde, presse régionale, Québec et Canada, suite de la veille, savoirs.</p>
-<h5>Sources</h5><p>93 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
+<h5>Sources</h5><p>90 médias dépouillés pour cette édition — <a href="../sources.html">la liste complète et la démarche</a>.</p>
 <h5>Images</h5><p>51 illustrations issues de Wikimedia Commons ou
 d'archives publiques (NASA, ESA), créditées avec leur auteur et leur licence
 lorsque ces mentions sont requises. Elles illustrent le sujet et ne sont jamais
@@ -353,7 +353,7 @@ window.addEventListener('scroll',defiler,{passive:true});
 /* Une barre depliee a la main (ou gardee ouverte apres un filtre) se referme
    des que le lecteur reprend le defilement lui-meme. */
 ['wheel','touchstart'].forEach(function(ev){window.addEventListener(ev,function(){
- var f=document.getElementById('facettes');if(f&&defileEtat&&f.classList.contains('ouvert'))
+ var f=document.getElementById('facettes');if(f&&(defileEtat||H.classList.contains('l-36'))&&f.classList.contains('ouvert'))
   setTimeout(function(){f.classList.remove('ouvert');hauteurEntete();},400);},{passive:true});});
 document.addEventListener('click',function(e){
  var l=e.target&&e.target.closest?e.target.closest('nav.facettes .fac-lbl'):null;
