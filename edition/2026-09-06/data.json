@@ -20,15 +20,18 @@
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/800002/projet-de-3e-lien-du-parti-conservateur-est-ce-realiste",
-     "date": "2026-09-06T03:34-04:00"
+     "date": "2026-09-06T03:34-04:00",
+     "auteur": "Vincent Simard et Félix-Antoine Bétil"
     },
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/800069/c-est-le-pire-des-projets-de-3-lien-qu-on-peut-presenter-jerome-landry",
-     "date": "2026-09-06T03:34-04:00"
+     "date": "2026-09-06T03:34-04:00",
+     "auteur": "Vincent Simard et Félix-Antoine Bétil"
     }
    ],
    "permalien": "un-ingenieur-doute-que-le-pont-a-3-milliards-propose-par-duh-48438a",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "un-ingenieur-doute-que-le-pont-a-3-milliards-propose-par-duh-48438a"
@@ -48,10 +51,12 @@
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/799994/ingerence-federale-potentielle-dans-l-election-quebecoise-le-pq-hausse-le-ton",
-     "date": "2026-09-04T16:32-04:00"
+     "date": "2026-09-04T16:32-04:00",
+     "auteur": "Vincent Simard et Vincent Pagé"
     }
    ],
    "permalien": "le-pq-accuse-le-federal-de-multiplier-les-annonces-pour-pese-19074a",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "le-pq-accuse-le-federal-de-multiplier-les-annonces-pour-pese-19074a"
@@ -71,10 +76,12 @@
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/balados/647908/episode/799827/hausse-des-seuils-d-immigration-les-chiffres-peuvent-dire-une-chose-mais-soyons-prudents",
-     "date": "2026-09-06T03:34-04:00"
+     "date": "2026-09-06T03:34-04:00",
+     "auteur": "Mathieu Boivin"
     }
    ],
    "permalien": "un-chroniqueur-donne-raison-chiffres-a-l-appui-a-paul-st-pie-2dd859",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "un-chroniqueur-donne-raison-chiffres-a-l-appui-a-paul-st-pie-2dd859"
@@ -94,10 +101,12 @@
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/799967/les-electeurs-quebecois-ne-sont-pas-encore-embarques-dans-la-campagne",
-     "date": "2026-09-04T16:37-04:00"
+     "date": "2026-09-04T16:37-04:00",
+     "auteur": "Larry Dufresne et Alexandre Lebrun"
     }
    ],
    "permalien": "un-analyste-juge-qu-aucun-parti-n-est-pleinement-satisfait-d-15aa71",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "un-analyste-juge-qu-aucun-parti-n-est-pleinement-satisfait-d-15aa71"
@@ -117,10 +126,12 @@
     {
      "media": "98,5FM",
      "url": "https://www.985fm.ca/audio/800081/il-y-a-eu-tellement-de-promesses-qu-on-en-est-etourdis-christian-dufour",
-     "date": "2026-09-06T03:34-04:00"
+     "date": "2026-09-06T03:34-04:00",
+     "auteur": "Vincent Simard et Félix-Antoine Bétil"
     }
    ],
    "permalien": "un-chroniqueur-juge-que-plamondon-et-duhaime-ont-connu-la-me-065669",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "un-chroniqueur-juge-que-plamondon-et-duhaime-ont-connu-la-me-065669"
