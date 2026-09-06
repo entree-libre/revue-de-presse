@@ -458,7 +458,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada, LaPresse, Coops de l'information, Le Devoir, Le Charlevoisien",
+   "medias": "Radio-Canada, LaPresse, Coops de l'information, Le Devoir, Le Charlevoisien, Les Affaires",
    "url": "https://ici.radio-canada.ca/nouvelle/2281055/frechette-conseil-ministre-tarifs-trump",
    "resume": "Mise à jour, 12 h — Ses adversaires y dénoncent une manœuvre électorale à quatre semaines du scrutin.",
    "sources": [
@@ -527,6 +527,12 @@
      "url": "https://www.lecharlevoisien.com/2026/09/06/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi/",
      "auteur": "La Presse Canadienne",
      "date": "2026-09-06T10:21-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-11-milliard-accuse-frechette-de-faire-du-theatre-a-la-veille-des-contre-tarifs-canadiens/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T14:20-04:00"
     }
    ],
    "photo": "",
@@ -761,7 +767,7 @@
    "cahier": "elections",
    "rubrique": "transport",
    "territoire": "Outaouais, Laurentides",
-   "medias": "Radio-Canada, LaPresse",
+   "medias": "Radio-Canada, LaPresse, Coops de l'information",
    "url": "https://ici.radio-canada.ca/nouvelle/2281098/election-outaouais-promesse-autouroute-50-elargissement",
    "resume": "Reste à savoir si cette promesse survivra mieux que celle, brisée, de la dernière campagne.",
    "sources": [
@@ -776,6 +782,12 @@
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/nombre-important-d-accidents-mortels/le-plq-promet-d-elargir-la-funeste-autoroute-50.php",
      "auteur": "Gabriel Béland",
      "date": "2026-09-06T10:21-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/06/quatre-voies-pour-lautoroute-50-et-un-peu-plus-dincertitude-pour-le-tramway-JYMNHPF2GJA33BLC7VNV6OHVGI/",
+     "auteur": "Sarah-Jeanne Tremblay",
+     "date": "2026-09-06T14:20-04:00"
     }
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Autoroute_50_%28Qu%C3%A9bec%29-Vue_du_trac%C3%A9_de_l%27A50_%C3%A0_la_hauteur_de_Calumet_%28MRC_d%27Argenteuil%29-2023-01-21.jpg/1280px-Autoroute_50_%28Qu%C3%A9bec%29-Vue_du_trac%C3%A9_de_l%27A50_%C3%A0_la_hauteur_de_Calumet_%28MRC_d%27Argenteuil%29-2023-01-21.jpg",
@@ -818,26 +830,170 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "LaPresse",
+   "medias": "LaPresse, Le Devoir, Les Affaires, Coops de l'information",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/mode-de-scrutin/quebec-solidaire-demande-a-tous-les-partis-de-s-engager-a-une-reforme-electorale.php",
-   "resume": "Reste à savoir si les partis tiendront cette fois une promesse électorale déjà brisée par le passé.",
+   "resume": "Mise à jour, 14 h — Le parti veut aussi que les citoyens puissent eux-mêmes déclencher un vote.",
    "sources": [
     {
      "media": "LaPresse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/mode-de-scrutin/quebec-solidaire-demande-a-tous-les-partis-de-s-engager-a-une-reforme-electorale.php",
      "auteur": "William Thériault",
      "date": "2026-09-06T11:53-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006898/qs-veut-donner-plus-pouvoir-citoyens-proteger-renforcer-democratie",
+     "auteur": "Sarah Collardey",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-11-qs-veut-reformer-le-mode-de-scrutin-pour-une-meilleure-representation-des-voix/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/06/qs-veut-des-referendums-mais-pas-ceux-auxquels-vous-pensez-VCXVQ7QXSVCXBPMEP4FQDFOQJA/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/06/qs-veut-des-referendums-mais-pas-ceux-auxquels-vous-pensez-VCXVQ7QXSVCXBPMEP4FQDFOQJA/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/06/qs-veut-des-referendums-mais-pas-ceux-auxquels-vous-pensez-VCXVQ7QXSVCXBPMEP4FQDFOQJA/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/06/qs-veut-des-referendums-mais-pas-ceux-auxquels-vous-pensez-VCXVQ7QXSVCXBPMEP4FQDFOQJA/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/06/qs-veut-des-referendums-mais-pas-ceux-auxquels-vous-pensez-VCXVQ7QXSVCXBPMEP4FQDFOQJA/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/06/qs-veut-des-referendums-mais-pas-ceux-auxquels-vous-pensez-VCXVQ7QXSVCXBPMEP4FQDFOQJA/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
     }
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec_-_facade-1.jpg/1280px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec_-_facade-1.jpg",
    "legende": "L'Assemblée nationale du Québec, où Québec solidaire a lancé son appel aux autres partis.",
    "photo_auteur": "Bouchecl",
    "photo_licence": "CC BY-SA 3.0",
-   "horodate": "2026-09-06T12:24-04:00",
+   "horodate": "2026-09-06T14:20-04:00",
    "permalien": "quebec-solidaire-exige-des-autres-partis-un-engagement-a-ref-80105a",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "quebec-solidaire-exige-des-autres-partis-un-engagement-a-ref-80105a"
+  },
+  {
+   "titre": "Le PCQ remplacerait le crédit d'impôt sportif des familles par un rabais fixe de 100 $",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Les Affaires, Coops de l'information",
+   "url": "https://www.ledevoir.com/politique/quebec/1006907/pcq-veut-offrir-rabais-100-favoriser-pratique-sport",
+   "resume": "Un changement de programme qui ne profitera pas à toutes les familles de la même façon.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006907/pcq-veut-offrir-rabais-100-favoriser-pratique-sport",
+     "auteur": "Audrey Sanikopoulos",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-11-duhaime-promet-un-rabais-pour-les-activites-sportives/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/06/100-pour-faire-du-sport-promet-le-pcq-mais-pas-pour-tout-le-monde-I34BKKIGORHOZMJKNQQ434CX6Y/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/06/100-pour-faire-du-sport-promet-le-pcq-mais-pas-pour-tout-le-monde-I34BKKIGORHOZMJKNQQ434CX6Y/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/06/100-pour-faire-du-sport-promet-le-pcq-mais-pas-pour-tout-le-monde-I34BKKIGORHOZMJKNQQ434CX6Y/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/06/100-pour-faire-du-sport-promet-le-pcq-mais-pas-pour-tout-le-monde-I34BKKIGORHOZMJKNQQ434CX6Y/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/06/100-pour-faire-du-sport-promet-le-pcq-mais-pas-pour-tout-le-monde-I34BKKIGORHOZMJKNQQ434CX6Y/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/06/100-pour-faire-du-sport-promet-le-pcq-mais-pas-pour-tout-le-monde-I34BKKIGORHOZMJKNQQ434CX6Y/",
+     "auteur": "Philippe Chabot",
+     "date": "2026-09-06T14:20-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T14:20-04:00",
+   "permalien": "le-pcq-remplacerait-le-credit-d-impot-sportif-des-familles-p-997483",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "le-pcq-remplacerait-le-credit-d-impot-sportif-des-familles-p-997483"
+  },
+  {
+   "titre": "Le PQ propose d'imposer 30 % de contenu francophone aux grandes plateformes numériques",
+   "cahier": "elections",
+   "rubrique": "culture",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Les Affaires",
+   "url": "https://www.ledevoir.com/politique/quebec/1006904/pq-viserait-imposer-30-contenu-francophone-grandes-plateformes",
+   "resume": "Reste à savoir comment Québec ferait plier les géants du numérique à cette règle.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1006904/pq-viserait-imposer-30-contenu-francophone-grandes-plateformes",
+     "auteur": "Caroline Plante",
+     "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-11-le-pq-veut-que-les-grandes-plateformes-diffusent-30-de-contenu-francophone/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T14:20-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T14:20-04:00",
+   "permalien": "le-pq-propose-d-imposer-30-de-contenu-francophone-aux-grande-d16d9f",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "le-pq-propose-d-imposer-30-de-contenu-francophone-aux-grande-d16d9f"
   },
   {
    "titre": "La brûlure bactérienne a déjà fait abattre un verger à Sainte-Famille",
