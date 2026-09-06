@@ -1713,6 +1713,54 @@
    "_slug": "le-pq-propose-de-fusionner-radio-canada-et-tele-quebec-adven-5d84f8"
   },
   {
+   "titre": "Le Parti libéral du Québec promet 560 millions $ sur quatre ans aux agriculteurs",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Laurentides (Argenteuil)",
+   "medias": "PLQ",
+   "url": "https://plq.org/communique/560-m-pour-donner-aux-agriculteurs-les-moyens-de-produire-dinvestir-et-de-developper-leurs-entreprises/",
+   "resume": "De la ferme à l'assiette, un plan qui mise sur le transfert des entreprises à la relève.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T17:55-04:00",
+   "sources": [
+    {
+     "media": "PLQ",
+     "url": "https://plq.org/communique/560-m-pour-donner-aux-agriculteurs-les-moyens-de-produire-dinvestir-et-de-developper-leurs-entreprises/",
+     "date": "2026-09-06T13:21-04:00"
+    }
+   ],
+   "permalien": "le-parti-liberal-du-quebec-promet-560-millions-sur-quatre-an-62dcf5",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "le-parti-liberal-du-quebec-promet-560-millions-sur-quatre-an-62dcf5"
+  },
+  {
+   "titre": "Vingt-neuf candidatures, dont celle de Christine Fréchette, officiellement acceptées par Élections Québec en une journée",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Élections Québec",
+   "url": "https://donnees.electionsquebec.qc.ca/production/provincial/candidatures/candidatures.json",
+   "resume": "Parmi les nouveaux dossiers validés, une autrice bien connue troque la plume pour un bulletin de vote.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T17:55-04:00",
+   "sources": [
+    {
+     "media": "Élections Québec",
+     "url": "https://donnees.electionsquebec.qc.ca/production/provincial/candidatures/candidatures.json",
+     "date": "2026-09-06T17:55-04:00"
+    }
+   ],
+   "permalien": "vingt-neuf-candidatures-dont-celle-de-christine-frechette-of-9c9564",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "vingt-neuf-candidatures-dont-celle-de-christine-frechette-of-9c9564"
+  },
+  {
    "titre": "La brûlure bactérienne a déjà fait abattre un verger à Sainte-Famille",
    "cahier": "quebec",
    "rubrique": "environnement",

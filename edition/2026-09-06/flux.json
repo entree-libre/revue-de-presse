@@ -6,6 +6,30 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/le-parti-liberal-du-quebec-promet-560-millions-sur-quatre-an-62dcf5.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/le-parti-liberal-du-quebec-promet-560-millions-sur-quatre-an-62dcf5.html",
+   "title": "Le Parti libéral du Québec promet 560 millions $ sur quatre ans aux agriculteurs",
+   "content_text": "De la ferme à l'assiette, un plan qui mise sur le transfert des entreprises à la relève.",
+   "date_modified": "2026-09-06T17:55:00-04:00",
+   "tags": [
+    "Laurentides (Argenteuil)",
+    "Élections Québec 2026",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/vingt-neuf-candidatures-dont-celle-de-christine-frechette-of-9c9564.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/vingt-neuf-candidatures-dont-celle-de-christine-frechette-of-9c9564.html",
+   "title": "Vingt-neuf candidatures, dont celle de Christine Fréchette, officiellement acceptées par Élections Québec en une journée",
+   "content_text": "Parmi les nouveaux dossiers validés, une autrice bien connue troque la plume pour un bulletin de vote.",
+   "date_modified": "2026-09-06T17:55:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-06/a/le-conseil-de-l-industrie-forestiere-reclame-un-nouveau-regi-147c66.html",
    "url": "https://entreelibre.ca/edition/2026-09-06/a/le-conseil-de-l-industrie-forestiere-reclame-un-nouveau-regi-147c66.html",
    "title": "Le Conseil de l'industrie forestière réclame un nouveau régime forestier aux partis en campagne",
@@ -941,30 +965,6 @@
    "date_modified": "2026-09-06T09:46:00-04:00",
    "tags": [
     "France",
-    "Savoirs",
-    "Technologies et numérique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/un-pirate-de-18-ans-presume-membre-du-groupe-zerobytes-et-de-d4b2bd.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/un-pirate-de-18-ans-presume-membre-du-groupe-zerobytes-et-de-d4b2bd.html",
-   "title": "Un pirate de 18 ans, présumé membre du groupe Zerobytes et déjà connu de la justice, est mis en examen",
-   "content_text": "Détenu depuis son arrestation, il avait déjà été mis en examen deux fois pour piratage lorsqu'il était mineur.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "France",
-    "Savoirs",
-    "Technologies et numérique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/new-york-impose-une-interdiction-quasi-totale-de-l-intellige-36ccc8.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/new-york-impose-une-interdiction-quasi-totale-de-l-intellige-36ccc8.html",
-   "title": "New York impose une interdiction quasi totale de l'intelligence artificielle aux élèves du public jusqu'au lycée",
-   "content_text": "Les chatbots présentés comme des compagnons offrant un soutien psychologique aux jeunes seront eux aussi bannis.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "États-Unis",
     "Savoirs",
     "Technologies et numérique"
    ]
