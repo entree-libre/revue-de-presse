@@ -14,6 +14,478 @@
  ],
  "articles": [
   {
+   "titre": "Nétanyahou aurait ordonné le retrait de certains avant-postes juifs, affirme son ministre Smotrich",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Israël, Cisjordanie",
+   "medias": "franceinfo, Libération",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-a-donne-l-ordre-d-evacuer-des-implantations-de-colons-en-cisjordanie-occupee-selon-l-un-de-ses-ministres_8180066.html",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/cisjordanie-netanyahou-a-ordonne-devacuer-des-implantations-de-colons-20260906_FNJ7C5CTBBGFLDHH65AWEB3I6E/",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Une volte-face que des médias israéliens attribuent à la pression de Washington.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "netanyahou-aurait-ordonne-le-retrait-de-certains-avant-poste-3a964c",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "netanyahou-aurait-ordonne-le-retrait-de-certains-avant-poste-3a964c"
+  },
+  {
+   "titre": "Fabien Roussel se lance dans la course à l'Élysée avec un Parti communiste résolu à faire cavalier seul",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "France",
+   "medias": "franceinfo, Libération, France 24",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/politique/presidentielle-2027-fabien-roussel-repart-en-campagne-20260906_LNP67N3RFJGH5AWISUMBPUHHO4/",
+     "auteur": "Arthur Louis",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Une candidature que La France insoumise n'a toujours pas pardonnée depuis 2022.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Roussel_Fabien_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Fabien Roussel",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "fabien-roussel-se-lance-dans-la-course-a-l-elysee-avec-un-pa-0e799a",
+   "photo_auteur": "Zouhair NAKARA",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Fabien Roussel",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "fabien-roussel-se-lance-dans-la-course-a-l-elysee-avec-un-pa-0e799a"
+  },
+  {
+   "titre": "L'administration Trump retourne devant la Cour suprême pour restreindre le vote par correspondance aux élections de mi-mandat",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "La Presse",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/elections-de-mi-mandat/l-administration-trump-depose-un-nouveau-recours-sur-le-vote-par-correspondance.php",
+     "auteur": "Lindsay Whitehurst et Gary Fields",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Les bulletins commencent déjà à partir par la poste, et le calendrier joue contre Washington.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "l-administration-trump-retourne-devant-la-cour-supreme-pour-54e168",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "l-administration-trump-retourne-devant-la-cour-supreme-pour-54e168"
+  },
+  {
+   "titre": "Des milliers de fidèles consacrent près de Paris le plus grand temple hindou de style traditionnel d'Europe continentale",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Bussy-Saint-Georges (France)",
+   "medias": "TV5MONDE, France 24",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/foule-linauguration-dun-temple-embleme-de-lhindouisme-en-france-2836403",
+     "auteur": "Laurence Boutreux, AFP",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260906-foule-%C3%A0-l-inauguration-d-un-temple-embl%C3%A8me-de-l-hindouisme-en-france",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Une cérémonie réservée aux moines et aux hommes, retransmise sous un chapiteau géant.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "des-milliers-de-fideles-consacrent-pres-de-paris-le-plus-gra-9ac7f4",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "des-milliers-de-fideles-consacrent-pres-de-paris-le-plus-gra-9ac7f4"
+  },
+  {
+   "titre": "À un an des élections, Athènes promet 2,2 milliards d'euros d'aides et d'allégements fiscaux contre la vie chère",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Grèce",
+   "medias": "RFI",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260906-gr%C3%A8ce-le-premier-ministre-annonce-des-aides-et-all%C3%A9gements-fiscaux-face-%C3%A0-l-inflation",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Les comptes publics vont mieux, mais une partie des Grecs n'en voit pas la couleur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "a-un-an-des-elections-athenes-promet-2-2-milliards-d-euros-d-0e8205",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "a-un-an-des-elections-athenes-promet-2-2-milliards-d-euros-d-0e8205"
+  },
+  {
+   "titre": "Records de chaleur pour un mois de septembre en France, six départements du Sud en vigilance orange lundi",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "France",
+   "medias": "France 24",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260906-sud-six-d%C3%A9partements-en-vigilance-orange-canicule-lundi",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Même la Bretagne a battu ses marques de septembre, selon Météo-France.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "records-de-chaleur-pour-un-mois-de-septembre-en-france-six-d-7fbd45",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "records-de-chaleur-pour-un-mois-de-septembre-en-france-six-d-7fbd45"
+  },
+  {
+   "titre": "Plusieurs bélugas transférés de Marineland à Chicago sont malades, indique l'aquarium Shedd",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Ontario",
+   "medias": "Global News",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12049658/beluga-whales-marineland-health-issues-shedd-aquarium/",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Un premier béluga était mort deux semaines après son déménagement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "plusieurs-belugas-transferes-de-marineland-a-chicago-sont-ma-fc445a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "plusieurs-belugas-transferes-de-marineland-a-chicago-sont-ma-fc445a"
+  },
+  {
+   "titre": "Les taux de vaccination des enfants sont trop bas au Nouveau-Brunswick, s'alarme une chercheuse",
+   "cahier": "canada",
+   "rubrique": "sante",
+   "territoire": "Nouveau-Brunswick",
+   "medias": "Acadie Nouvelle",
+   "sources": [
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/?p=555172",
+     "auteur": "Cédric Thévenin",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Reste à savoir ce que Fredericton compte faire d'un signal qu'elle juge inquiétant.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "les-taux-de-vaccination-des-enfants-sont-trop-bas-au-nouveau-7b8acc",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "les-taux-de-vaccination-des-enfants-sont-trop-bas-au-nouveau-7b8acc"
+  },
+  {
+   "titre": "Le logo de Radio-Canada s'est retrouvé sur un costume du jeu vidéo Arc Raiders, une erreur selon le studio Embark",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "Radio-Canada",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/90-17154/arc-raiders-radio-canada",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Un emblème public glissé dans un jeu à succès, et un studio qui plaide la maladresse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "le-logo-de-radio-canada-s-est-retrouve-sur-un-costume-du-jeu-a54f0b",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "le-logo-de-radio-canada-s-est-retrouve-sur-un-costume-du-jeu-a54f0b"
+  },
+  {
+   "titre": "Contre-tarifs canadiens : l'Ohio serait l'État américain le plus touché et les détaillants d'ici redoutent la facture",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada, États-Unis",
+   "medias": "The Globe and Mail, Québecor, 98,5FM",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-canada-us-countertariffs-breakdown-charts-ohio-pennsylvania-michigan/",
+     "auteur": "Jason Kirby et Dexter McMillan",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/06/nos-detaillants-bientot-plonges-dans-ladversite-quotidienne-et-pas-seulement-a-cause-de-la-guerre-commerciale",
+     "date": "2026-09-06T15:55-04:00",
+     "auteur": "Yannick Beaudoin"
+    },
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/800131/ceux-qui-vont-payer-le-prix-des-contre-tarifs-ce-sont-les-canadiens",
+     "date": "2026-09-06T15:55-04:00",
+     "auteur": "Vincent Simard et Vincent Pagé"
+    }
+   ],
+   "resume": "D'un côté les cartes des États visés, de l'autre les commerçants d'ici qui font leurs comptes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "contre-tarifs-canadiens-l-ohio-serait-l-etat-americain-le-pl-f3535a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "contre-tarifs-canadiens-l-ohio-serait-l-etat-americain-le-pl-f3535a"
+  },
+  {
+   "titre": "Un cardiologue défend l'auscultation de routine que Choisir avec soin Québec propose d'abandonner",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-06/pourquoi-l-auscultation-de-routine-reste-essentielle.php",
+     "auteur": "Philippe Pibarot",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Il y voit un risque de sous-dépistage qui déborde largement le cœur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "un-cardiologue-defend-l-auscultation-de-routine-que-choisir-a6aa9a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "un-cardiologue-defend-l-auscultation-de-routine-que-choisir-a6aa9a"
+  },
+  {
+   "titre": "Criblée de dettes, la malterie Innomalt de Bécancour met son usine en vente deux ans après son ouverture",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Bécancour (Centre-du-Québec)",
+   "medias": "Radio-Canada",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281145/innomalt-becancour-vente-dettes",
+     "auteur": "Pascale Langlois",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Les microbrasseries, elles, jurent que la bière locale ne manquera pas de malt.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "criblee-de-dettes-la-malterie-innomalt-de-becancour-met-son-73695f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "criblee-de-dettes-la-malterie-innomalt-de-becancour-met-son-73695f"
+  },
+  {
+   "titre": "Les joyaux des Habsbourg, cachés à Québec depuis 1940, sont exposés au Musée national des beaux-arts du Québec",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Ville de Québec",
+   "medias": "CBC",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/player/play/9.7334228?cmp=rss",
+     "auteur": "Sonali Karnick",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Une valise de pierres précieuses sortie de sa cachette seulement l'an dernier.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "les-joyaux-des-habsbourg-caches-a-quebec-depuis-1940-sont-ex-132684",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "les-joyaux-des-habsbourg-caches-a-quebec-depuis-1940-sont-ex-132684"
+  },
+  {
+   "titre": "À Longueuil, l'école Jacques-Ouellette reste la seule au Québec vouée aux élèves francophones ayant une déficience visuelle",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Longueuil (Montérégie)",
+   "medias": "Le Canada Français",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/deficience-visuelle-une-ecole-unique-en-son-genre-au-quebec/",
+     "date": "2026-09-06T15:55-04:00",
+     "auteur": "Audrey Sanikopoulos et La Presse Canadienne"
+    }
+   ],
+   "resume": "Une équipe qui doit réinventer chaque apprentissage pour des élèves de la maternelle à l'âge adulte.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "a-longueuil-l-ecole-jacques-ouellette-reste-la-seule-au-queb-6963a0",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "a-longueuil-l-ecole-jacques-ouellette-reste-la-seule-au-queb-6963a0"
+  },
+  {
+   "titre": "La relève des donneurs de sang progresse plus vite sur la Côte-Nord qu'ailleurs au Québec, selon Héma-Québec",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Côte-Nord",
+   "medias": "Radio-Canada",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281129/jeunes-dons-sang-cote-nord",
+     "date": "2026-09-06T15:55-04:00",
+     "auteur": "Laurana Genest"
+    }
+   ],
+   "resume": "Ce qui attire la jeune génération de la région vers les collectes mobiles.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "la-releve-des-donneurs-de-sang-progresse-plus-vite-sur-la-co-d311e5",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "la-releve-des-donneurs-de-sang-progresse-plus-vite-sur-la-co-d311e5"
+  },
+  {
+   "titre": "À la Mostra de Venise, Susan Sarandon affirme perdre des rôles à cause de ses critiques d'Israël",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Venise (Italie)",
+   "medias": "Libération",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/des-agences-continuent-de-dissuader-les-gens-de-mengager-susan-sarandon-assure-perdre-des-roles-en-raison-de-ses-critiques-a-legard-disrael-20260906_3MC6FXXRYBBVNLLTJMJNAZ27NI/",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Des agences dissuaderaient encore les producteurs de l'engager, soutient l'actrice.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg/1280px-Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Susan Sarandon",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "a-la-mostra-de-venise-susan-sarandon-affirme-perdre-des-role-d980a9",
+   "photo_auteur": "Pedro J Pacheco",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Susan Sarandon",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "a-la-mostra-de-venise-susan-sarandon-affirme-perdre-des-role-d980a9"
+  },
+  {
+   "titre": "Notre perception visuelle est saccadée et dépend aussi de la position de l'information dans l'espace, selon de nouvelles recherches",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Birmingham (Royaume-Uni)",
+   "medias": "The Conversation",
+   "sources": [
+    {
+     "media": "The Conversation",
+     "url": "https://theconversation.com/notre-cerveau-ne-percoit-pas-le-monde-de-maniere-continue-mais-par-vagues-274081",
+     "auteur": "Camille Fakche",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Ce que le cinématographe des frères Lumière avait déjà compris de notre œil.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "notre-perception-visuelle-est-saccadee-et-depend-aussi-de-la-f0af4b",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "notre-perception-visuelle-est-saccadee-et-depend-aussi-de-la-f0af4b"
+  },
+  {
+   "titre": "Une start-up bavaroise place en orbite la première fusée entièrement privée d'Europe, lancée depuis la Norvège",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "Allemagne, Norvège",
+   "medias": "Le Monde, The Verge",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/economie/article/2026/09/06/en-lancant-sa-fusee-en-orbite-la-start-up-bavaroise-isar-aerospace-bouleverse-l-ecosysteme-spatial-europeen_6767457_3234.html",
+     "date": "2026-09-06T15:55-04:00",
+     "auteur": "Cécile Boutelet"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+     "auteur": "Terrence O’Brien",
+     "date": "2026-09-06T15:55-04:00"
+    }
+   ],
+   "resume": "Après un premier essai qui avait fini en mer au bout de trente secondes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:30-04:00",
+   "permalien": "une-start-up-bavaroise-place-en-orbite-la-premiere-fusee-ent-1fdcd0",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "une-start-up-bavaroise-place-en-orbite-la-premiere-fusee-ent-1fdcd0"
+  },
+  {
    "titre": "Un cargo d'Amazon quitte la piste en flammes à l'aéroport de Miami",
    "cahier": "international",
    "rubrique": "transport",
@@ -33,6 +505,7 @@
    "legende": "",
    "horodate": "2026-09-06T15:56-04:00",
    "permalien": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-06.json",
    "_slug": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259"
@@ -57,6 +530,7 @@
    "legende": "",
    "horodate": "2026-09-06T15:56-04:00",
    "permalien": "la-nouvelle-pdg-de-lululemon-heidi-o-neill-herite-d-une-marq-c47bd1",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-06.json",
    "_slug": "la-nouvelle-pdg-de-lululemon-heidi-o-neill-herite-d-une-marq-c47bd1"
@@ -81,6 +555,7 @@
    "legende": "",
    "horodate": "2026-09-06T15:56-04:00",
    "permalien": "un-documentaire-presente-a-venise-revele-la-froideur-des-ret-560c30",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-06.json",
    "_slug": "un-documentaire-presente-a-venise-revele-la-froideur-des-ret-560c30"
@@ -105,6 +580,7 @@
    "legende": "",
    "horodate": "2026-09-06T15:56-04:00",
    "permalien": "un-motocycliste-septuagenaire-luttait-dimanche-pour-sa-vie-p-c5aef7",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-06.json",
    "_slug": "un-motocycliste-septuagenaire-luttait-dimanche-pour-sa-vie-p-c5aef7"
@@ -555,7 +1031,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada, LaPresse, Coops de l'information, Le Devoir, Le Charlevoisien, Les Affaires",
+   "medias": "Radio-Canada, LaPresse, Coops de l'information, Le Devoir, Le Charlevoisien, Les Affaires, Le Canada Français",
    "url": "https://ici.radio-canada.ca/nouvelle/2281055/frechette-conseil-ministre-tarifs-trump",
    "resume": "Mise à jour, 12 h — Ses adversaires y dénoncent une manœuvre électorale à quatre semaines du scrutin.",
    "sources": [
@@ -630,6 +1106,12 @@
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-11-milliard-accuse-frechette-de-faire-du-theatre-a-la-veille-des-contre-tarifs-canadiens/",
      "auteur": "La Presse Canadienne",
      "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi/",
+     "date": "2026-09-06T15:05-04:00",
+     "auteur": "La Presse Canadienne"
     }
    ],
    "photo": "",
@@ -1001,7 +1483,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Le Devoir, Les Affaires, Coops de l'information",
+   "medias": "Le Devoir, Les Affaires, Coops de l'information, Quebecor",
    "url": "https://www.ledevoir.com/politique/quebec/1006907/pcq-veut-offrir-rabais-100-favoriser-pratique-sport",
    "resume": "Un changement de programme qui ne profitera pas à toutes les familles de la même façon.",
    "sources": [
@@ -1052,6 +1534,11 @@
      "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/06/100-pour-faire-du-sport-promet-le-pcq-mais-pas-pour-tout-le-monde-I34BKKIGORHOZMJKNQQ434CX6Y/",
      "auteur": "Philippe Chabot",
      "date": "2026-09-06T14:20-04:00"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/06/duhaime-veut-offrir-un-rabais-de-100-par-an-pour-favoriser-lactivite-physique",
+     "date": "2026-09-06T14:06-04:00"
     }
    ],
    "photo": "",
@@ -1093,6 +1580,137 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "le-pq-propose-d-imposer-30-de-contenu-francophone-aux-grande-d16d9f"
+  },
+  {
+   "titre": "Le Conseil de l'industrie forestière réclame un nouveau régime forestier aux partis en campagne",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281153/conseil-industrie-forestiere-bois-michel-vincent",
+   "resume": "Dix ans de tarifs américains plus tard, un pan entier de l'économie régionale attend une réponse électorale.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281153/conseil-industrie-forestiere-bois-michel-vincent",
+     "date": "2026-09-06T16:20-04:00",
+     "auteur": "Mireille Chayer"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T16:20-04:00",
+   "permalien": "le-conseil-de-l-industrie-forestiere-reclame-un-nouveau-regi-147c66",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "le-conseil-de-l-industrie-forestiere-reclame-un-nouveau-regi-147c66"
+  },
+  {
+   "titre": "St-Pierre Plamondon réplique à Fréchette sur le référendum lors d'un arrêt dans le Bas-Saint-Laurent",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Bas-Saint-Laurent (Kamouraska)",
+   "medias": "Coops de l'information",
+   "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/06/le-chef-du-pq-saventure-dans-le-labyrinthe-du-oui-H653STSMZRA4LAYTLB2RRKHECE/",
+   "resume": "Champ de maïs, immense inscription et symboles référendaires : la réplique inattendue d'un chef en tournée.",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/06/le-chef-du-pq-saventure-dans-le-labyrinthe-du-oui-H653STSMZRA4LAYTLB2RRKHECE/",
+     "auteur": "Patricia Rainville",
+     "date": "2026-09-06T16:20-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/06/le-chef-du-pq-saventure-dans-le-labyrinthe-du-oui-H653STSMZRA4LAYTLB2RRKHECE/",
+     "auteur": "Patricia Rainville",
+     "date": "2026-09-06T16:20-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/06/le-chef-du-pq-saventure-dans-le-labyrinthe-du-oui-H653STSMZRA4LAYTLB2RRKHECE/",
+     "auteur": "Patricia Rainville",
+     "date": "2026-09-06T16:20-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/06/le-chef-du-pq-saventure-dans-le-labyrinthe-du-oui-H653STSMZRA4LAYTLB2RRKHECE/",
+     "auteur": "Patricia Rainville",
+     "date": "2026-09-06T16:20-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/06/le-chef-du-pq-saventure-dans-le-labyrinthe-du-oui-H653STSMZRA4LAYTLB2RRKHECE/",
+     "auteur": "Patricia Rainville",
+     "date": "2026-09-06T16:20-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/06/le-chef-du-pq-saventure-dans-le-labyrinthe-du-oui-H653STSMZRA4LAYTLB2RRKHECE/",
+     "auteur": "Patricia Rainville",
+     "date": "2026-09-06T16:20-04:00"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Paul.St-Pierre.Plamondon.cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Paul St-Pierre Plamondon",
+   "horodate": "2026-09-06T16:20-04:00",
+   "permalien": "st-pierre-plamondon-replique-a-frechette-sur-le-referendum-l-02d4c2",
+   "photo_auteur": "UnPingouin",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:St-Pierre Plamondon",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "st-pierre-plamondon-replique-a-frechette-sur-le-referendum-l-02d4c2"
+  },
+  {
+   "titre": "Christian Hébert renonce à représenter le Parti québécois dans la circonscription de Portneuf",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Capitale-Nationale (Portneuf)",
+   "medias": "Quebecor",
+   "url": "https://www.journaldequebec.com/2026/09/06/le-candidat-du-parti-quebecois-dans-portneuf-christian-hebert-retire-sa-candidature",
+   "resume": "Un écueil de plus pour le Parti québécois dans la Capitale-Nationale, à quatre semaines du scrutin.",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/06/le-candidat-du-parti-quebecois-dans-portneuf-christian-hebert-retire-sa-candidature",
+     "date": "2026-09-06T16:20-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T16:20-04:00",
+   "permalien": "christian-hebert-renonce-a-representer-le-parti-quebecois-da-b12c80",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "christian-hebert-renonce-a-representer-le-parti-quebecois-da-b12c80"
+  },
+  {
+   "titre": "Le PQ propose de fusionner Radio-Canada et Télé-Québec advenant l'indépendance du Québec",
+   "cahier": "elections",
+   "rubrique": "culture",
+   "territoire": "Québec",
+   "medias": "LaPresse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/dans-un-quebec-independant/radio-canada-fusionnerait-avec-tele-quebec-propose-le-pq.php",
+   "resume": "Un pan de sa vision culturelle pour un Québec souverain, dévoilé par le chef péquiste en tournée.",
+   "sources": [
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/dans-un-quebec-independant/radio-canada-fusionnerait-avec-tele-quebec-propose-le-pq.php",
+     "auteur": "Fanny Lévesque",
+     "date": "2026-09-06T16:20-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T16:20-04:00",
+   "permalien": "le-pq-propose-de-fusionner-radio-canada-et-tele-quebec-adven-5d84f8",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "le-pq-propose-de-fusionner-radio-canada-et-tele-quebec-adven-5d84f8"
   },
   {
    "titre": "La brûlure bactérienne a déjà fait abattre un verger à Sainte-Famille",
@@ -1636,13 +2254,13 @@
    "_slug": "l-armee-ukrainienne-dit-avoir-neutralise-un-radar-et-un-syst-768559"
   },
   {
-   "titre": "En Saxe-Anhalt, l'AfD signe une victoire historique avec plus de 44 % des voix, mais sans majorité pour gouverner seule",
+   "titre": "En Saxe-Anhalt, l'AfD remporte une victoire historique avec près de 44 % des voix, mais devra attendre pour savoir si elle dirigera le Land",
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Allemagne (Saxe-Anhalt)",
    "medias": "France 24, Le Monde, Radio-Canada, RTS, La Libre.be, TV5MONDE, Coops de l'information, La Croix, Libération, Le Temps, franceinfo",
    "url": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-du-scrutin-local-en-saxe-anhalt_6766352_3210.html",
-   "resume": "Mise à jour, 15 h 30 — Reste à savoir si un parti forgera une coalition avec l'extrême droite.",
+   "resume": "Mise à jour, 15 h 30 — À quelques sièges de gouverner seule, l'AfD bute sur le pare-feu des autres partis.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -1700,7 +2318,8 @@
     {
      "media": "La Croix",
      "url": "https://www.la-croix.com/international/allemagne-l-extreme-droite-de-lafd-realise-un-score-historique-en-saxe-anhalt-20260906",
-     "date": "2026-09-06T15:55-04:00"
+     "date": "2026-09-06T15:55-04:00",
+     "auteur": "Delphine Nerbollier"
     },
     {
      "media": "Libération",
@@ -1716,7 +2335,8 @@
     {
      "media": "Le Temps",
      "url": "https://www.letemps.ch/monde/europe/l-extreme-droite-allemande-remporte-une-victoire-electorale-historique-en-saxe-anhalt",
-     "date": "2026-09-06T15:55-04:00"
+     "date": "2026-09-06T15:55-04:00",
+     "auteur": "Delphine Nerbollier"
     },
     {
      "media": "franceinfo",
@@ -1891,7 +2511,7 @@
    "territoire": "Cisjordanie",
    "medias": "France 24, Libération, TV5MONDE, ONU Info",
    "url": "https://www.france24.com/fr/moyen-orient/20260905-cisjordanie-occup%C3%A9e-l-ambassadeur-am%C3%A9ricain-tient-isra%C3%ABl-responsable-de-la-s%C3%A9curit%C3%A9-des-palestiniens",
-   "resume": "Mise à jour, 15 h 30 — Selon un ministre, Nétanyahou aurait cédé sur certains avant-postes, sans le confirmer lui-même.",
+   "resume": "Sa visite intervient alors que les Nations Unies dénoncent des expulsions forcées dans les territoires occupés.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -1915,14 +2535,9 @@
      "media": "ONU Info",
      "url": "https://news.un.org/fr/story/2026/09/1159413",
      "date": "2026-09-06T05:34-04:00"
-    },
-    {
-     "media": "Libération",
-     "url": "https://www.liberation.fr/international/moyen-orient/cisjordanie-netanyahou-a-ordonne-devacuer-des-implantations-de-colons-20260906_FNJ7C5CTBBGFLDHH65AWEB3I6E/",
-     "date": "2026-09-06T15:55-04:00"
     }
    ],
-   "horodate": "2026-09-06T15:58-04:00",
+   "horodate": "2026-09-06T04:55-04:00",
    "permalien": "de-passage-en-cisjordanie-occupee-le-representant-diplomatiq-2c0604",
    "image_auto": "aucune",
    "_volet": "monde",
@@ -4016,7 +4631,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2281123/deces-femme-inondation-cap-breton",
-     "date": "2026-09-06T15:55-04:00"
+     "date": "2026-09-06T15:55-04:00",
+     "auteur": "Agathe Boucart"
     },
     {
      "media": "Radio-Canada",
@@ -4180,7 +4796,7 @@
    "territoire": "Russie, Ukraine",
    "medias": "BBC, The Associated Press, Le Parisien, Radio-Canada, RFI, Libération, Al Jazeera, The Kyiv Independent, franceinfo, La Libre.be, IntelliNews, Ukrinform, Ukrinform",
    "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo",
-   "resume": "Mise à jour, 15 h 30 — Kyiv réclame des garanties de sécurité concrètes avant d'envisager un compromis avec Moscou.",
+   "resume": "Mise à jour, 15 h 30 — Kyiv réclame un paquet d'hiver et une rencontre entre présidents avant toute concession territoriale.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Moscow_Kremlin_Towers_of_south_wall.jpg/1280px-Moscow_Kremlin_Towers_of_south_wall.jpg",
    "legende": "Les tours de la muraille sud du Kremlin, à Moscou.",
    "photo_auteur": "Dmitry Ivanov",
@@ -4221,7 +4837,8 @@
     {
      "media": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv",
-     "date": "2026-09-06T15:55-04:00"
+     "date": "2026-09-06T15:55-04:00",
+     "auteur": "Agence France-Presse et Reuters"
     },
     {
      "media": "The Kyiv Independent",
@@ -4236,7 +4853,8 @@
     {
      "media": "La Libre.be",
      "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/09/06/guerre-en-ukraine-pour-zelensky-la-guerre-va-continuer-cet-hiver-KNJQP25P4RDTNF55JOOEZ737ZE/",
-     "date": "2026-09-06T15:55-04:00"
+     "date": "2026-09-06T15:55-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "IntelliNews",

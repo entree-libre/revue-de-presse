@@ -6,10 +6,58 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/le-conseil-de-l-industrie-forestiere-reclame-un-nouveau-regi-147c66.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/le-conseil-de-l-industrie-forestiere-reclame-un-nouveau-regi-147c66.html",
+   "title": "Le Conseil de l'industrie forestière réclame un nouveau régime forestier aux partis en campagne",
+   "content_text": "Dix ans de tarifs américains plus tard, un pan entier de l'économie régionale attend une réponse électorale.",
+   "date_modified": "2026-09-06T16:20:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/st-pierre-plamondon-replique-a-frechette-sur-le-referendum-l-02d4c2.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/st-pierre-plamondon-replique-a-frechette-sur-le-referendum-l-02d4c2.html",
+   "title": "St-Pierre Plamondon réplique à Fréchette sur le référendum lors d'un arrêt dans le Bas-Saint-Laurent",
+   "content_text": "Champ de maïs, immense inscription et symboles référendaires : la réplique inattendue d'un chef en tournée.",
+   "date_modified": "2026-09-06T16:20:00-04:00",
+   "tags": [
+    "Bas-Saint-Laurent (Kamouraska)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Paul.St-Pierre.Plamondon.cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/christian-hebert-renonce-a-representer-le-parti-quebecois-da-b12c80.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/christian-hebert-renonce-a-representer-le-parti-quebecois-da-b12c80.html",
+   "title": "Christian Hébert renonce à représenter le Parti québécois dans la circonscription de Portneuf",
+   "content_text": "Un écueil de plus pour le Parti québécois dans la Capitale-Nationale, à quatre semaines du scrutin.",
+   "date_modified": "2026-09-06T16:20:00-04:00",
+   "tags": [
+    "Capitale-Nationale (Portneuf)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/le-pq-propose-de-fusionner-radio-canada-et-tele-quebec-adven-5d84f8.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/le-pq-propose-de-fusionner-radio-canada-et-tele-quebec-adven-5d84f8.html",
+   "title": "Le PQ propose de fusionner Radio-Canada et Télé-Québec advenant l'indépendance du Québec",
+   "content_text": "Un pan de sa vision culturelle pour un Québec souverain, dévoilé par le chef péquiste en tournée.",
+   "date_modified": "2026-09-06T16:20:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-06/a/en-saxe-anhalt-l-afd-pourrait-devenir-dimanche-le-premier-pa-e66567.html",
    "url": "https://entreelibre.ca/edition/2026-09-06/a/en-saxe-anhalt-l-afd-pourrait-devenir-dimanche-le-premier-pa-e66567.html",
-   "title": "En Saxe-Anhalt, l'AfD signe une victoire historique avec plus de 44 % des voix, mais sans majorité pour gouverner seule",
-   "content_text": "Mise à jour, 15 h 30 — Reste à savoir si un parti forgera une coalition avec l'extrême droite.",
+   "title": "En Saxe-Anhalt, l'AfD remporte une victoire historique avec près de 44 % des voix, mais devra attendre pour savoir si elle dirigera le Land",
+   "content_text": "Mise à jour, 15 h 30 — À quelques sièges de gouverner seule, l'AfD bute sur le pare-feu des autres partis.",
    "date_modified": "2026-09-06T15:58:00-04:00",
    "tags": [
     "Allemagne (Saxe-Anhalt)",
@@ -18,21 +66,10 @@
    ]
   },
   {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/de-passage-en-cisjordanie-occupee-le-representant-diplomatiq-2c0604.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/de-passage-en-cisjordanie-occupee-le-representant-diplomatiq-2c0604.html",
-   "title": "De passage en Cisjordanie occupée, le représentant diplomatique de Washington fait porter à Israël la responsabilité de protéger les Palestiniens",
-   "content_text": "Mise à jour, 15 h 30 — Selon un ministre, Nétanyahou aurait cédé sur certains avant-postes, sans le confirmer lui-même.",
-   "date_modified": "2026-09-06T15:58:00-04:00",
-   "tags": [
-    "Cisjordanie",
-    "International"
-   ]
-  },
-  {
    "id": "https://entreelibre.ca/edition/2026-09-06/a/les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea.html",
    "url": "https://entreelibre.ca/edition/2026-09-06/a/les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea.html",
    "title": "Reçus à Moscou puis à Kyiv, les émissaires de Trump repartent sans accord et Zelensky se prépare à un hiver de guerre",
-   "content_text": "Mise à jour, 15 h 30 — Kyiv réclame des garanties de sécurité concrètes avant d'envisager un compromis avec Moscou.",
+   "content_text": "Mise à jour, 15 h 30 — Kyiv réclame un paquet d'hiver et une rencontre entre présidents avant toute concession territoriale.",
    "date_modified": "2026-09-06T15:58:00-04:00",
    "tags": [
     "Russie, Ukraine",
@@ -125,6 +162,224 @@
     "Environnement et climat"
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cape_Breton%2C_Nova_Scotia_%2838581270800%29.jpg"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/netanyahou-aurait-ordonne-le-retrait-de-certains-avant-poste-3a964c.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/netanyahou-aurait-ordonne-le-retrait-de-certains-avant-poste-3a964c.html",
+   "title": "Nétanyahou aurait ordonné le retrait de certains avant-postes juifs, affirme son ministre Smotrich",
+   "content_text": "Une volte-face que des médias israéliens attribuent à la pression de Washington.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Israël, Cisjordanie",
+    "International",
+    "Guerre et défense"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/fabien-roussel-se-lance-dans-la-course-a-l-elysee-avec-un-pa-0e799a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/fabien-roussel-se-lance-dans-la-course-a-l-elysee-avec-un-pa-0e799a.html",
+   "title": "Fabien Roussel se lance dans la course à l'Élysée avec un Parti communiste résolu à faire cavalier seul",
+   "content_text": "Une candidature que La France insoumise n'a toujours pas pardonnée depuis 2022.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "France",
+    "International",
+    "Politique et vie municipale"
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Roussel_Fabien_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/l-administration-trump-retourne-devant-la-cour-supreme-pour-54e168.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/l-administration-trump-retourne-devant-la-cour-supreme-pour-54e168.html",
+   "title": "L'administration Trump retourne devant la Cour suprême pour restreindre le vote par correspondance aux élections de mi-mandat",
+   "content_text": "Les bulletins commencent déjà à partir par la poste, et le calendrier joue contre Washington.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "États-Unis",
+    "International",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/des-milliers-de-fideles-consacrent-pres-de-paris-le-plus-gra-9ac7f4.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/des-milliers-de-fideles-consacrent-pres-de-paris-le-plus-gra-9ac7f4.html",
+   "title": "Des milliers de fidèles consacrent près de Paris le plus grand temple hindou de style traditionnel d'Europe continentale",
+   "content_text": "Une cérémonie réservée aux moines et aux hommes, retransmise sous un chapiteau géant.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Bussy-Saint-Georges (France)",
+    "International",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/a-un-an-des-elections-athenes-promet-2-2-milliards-d-euros-d-0e8205.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/a-un-an-des-elections-athenes-promet-2-2-milliards-d-euros-d-0e8205.html",
+   "title": "À un an des élections, Athènes promet 2,2 milliards d'euros d'aides et d'allégements fiscaux contre la vie chère",
+   "content_text": "Les comptes publics vont mieux, mais une partie des Grecs n'en voit pas la couleur.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Grèce",
+    "International",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/records-de-chaleur-pour-un-mois-de-septembre-en-france-six-d-7fbd45.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/records-de-chaleur-pour-un-mois-de-septembre-en-france-six-d-7fbd45.html",
+   "title": "Records de chaleur pour un mois de septembre en France, six départements du Sud en vigilance orange lundi",
+   "content_text": "Même la Bretagne a battu ses marques de septembre, selon Météo-France.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "France",
+    "International",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/plusieurs-belugas-transferes-de-marineland-a-chicago-sont-ma-fc445a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/plusieurs-belugas-transferes-de-marineland-a-chicago-sont-ma-fc445a.html",
+   "title": "Plusieurs bélugas transférés de Marineland à Chicago sont malades, indique l'aquarium Shedd",
+   "content_text": "Un premier béluga était mort deux semaines après son déménagement.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Ontario",
+    "Canada",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/les-taux-de-vaccination-des-enfants-sont-trop-bas-au-nouveau-7b8acc.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/les-taux-de-vaccination-des-enfants-sont-trop-bas-au-nouveau-7b8acc.html",
+   "title": "Les taux de vaccination des enfants sont trop bas au Nouveau-Brunswick, s'alarme une chercheuse",
+   "content_text": "Reste à savoir ce que Fredericton compte faire d'un signal qu'elle juge inquiétant.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Nouveau-Brunswick",
+    "Canada",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/le-logo-de-radio-canada-s-est-retrouve-sur-un-costume-du-jeu-a54f0b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/le-logo-de-radio-canada-s-est-retrouve-sur-un-costume-du-jeu-a54f0b.html",
+   "title": "Le logo de Radio-Canada s'est retrouvé sur un costume du jeu vidéo Arc Raiders, une erreur selon le studio Embark",
+   "content_text": "Un emblème public glissé dans un jeu à succès, et un studio qui plaide la maladresse.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Canada",
+    "Canada",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/contre-tarifs-canadiens-l-ohio-serait-l-etat-americain-le-pl-f3535a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/contre-tarifs-canadiens-l-ohio-serait-l-etat-americain-le-pl-f3535a.html",
+   "title": "Contre-tarifs canadiens : l'Ohio serait l'État américain le plus touché et les détaillants d'ici redoutent la facture",
+   "content_text": "D'un côté les cartes des États visés, de l'autre les commerçants d'ici qui font leurs comptes.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Canada, États-Unis",
+    "Canada",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/un-cardiologue-defend-l-auscultation-de-routine-que-choisir-a6aa9a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/un-cardiologue-defend-l-auscultation-de-routine-que-choisir-a6aa9a.html",
+   "title": "Un cardiologue défend l'auscultation de routine que Choisir avec soin Québec propose d'abandonner",
+   "content_text": "Il y voit un risque de sous-dépistage qui déborde largement le cœur.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/criblee-de-dettes-la-malterie-innomalt-de-becancour-met-son-73695f.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/criblee-de-dettes-la-malterie-innomalt-de-becancour-met-son-73695f.html",
+   "title": "Criblée de dettes, la malterie Innomalt de Bécancour met son usine en vente deux ans après son ouverture",
+   "content_text": "Les microbrasseries, elles, jurent que la bière locale ne manquera pas de malt.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Bécancour (Centre-du-Québec)",
+    "Québec et ses régions",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/les-joyaux-des-habsbourg-caches-a-quebec-depuis-1940-sont-ex-132684.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/les-joyaux-des-habsbourg-caches-a-quebec-depuis-1940-sont-ex-132684.html",
+   "title": "Les joyaux des Habsbourg, cachés à Québec depuis 1940, sont exposés au Musée national des beaux-arts du Québec",
+   "content_text": "Une valise de pierres précieuses sortie de sa cachette seulement l'an dernier.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Ville de Québec",
+    "Québec et ses régions",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/a-longueuil-l-ecole-jacques-ouellette-reste-la-seule-au-queb-6963a0.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/a-longueuil-l-ecole-jacques-ouellette-reste-la-seule-au-queb-6963a0.html",
+   "title": "À Longueuil, l'école Jacques-Ouellette reste la seule au Québec vouée aux élèves francophones ayant une déficience visuelle",
+   "content_text": "Une équipe qui doit réinventer chaque apprentissage pour des élèves de la maternelle à l'âge adulte.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Longueuil (Montérégie)",
+    "Montréal et sa région",
+    "Éducation"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/la-releve-des-donneurs-de-sang-progresse-plus-vite-sur-la-co-d311e5.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/la-releve-des-donneurs-de-sang-progresse-plus-vite-sur-la-co-d311e5.html",
+   "title": "La relève des donneurs de sang progresse plus vite sur la Côte-Nord qu'ailleurs au Québec, selon Héma-Québec",
+   "content_text": "Ce qui attire la jeune génération de la région vers les collectes mobiles.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Côte-Nord",
+    "Québec et ses régions",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/a-la-mostra-de-venise-susan-sarandon-affirme-perdre-des-role-d980a9.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/a-la-mostra-de-venise-susan-sarandon-affirme-perdre-des-role-d980a9.html",
+   "title": "À la Mostra de Venise, Susan Sarandon affirme perdre des rôles à cause de ses critiques d'Israël",
+   "content_text": "Des agences dissuaderaient encore les producteurs de l'engager, soutient l'actrice.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Venise (Italie)",
+    "Savoirs",
+    "Cinéma et culture"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg/1280px-Premios_Goya_2026_-_Susan_Sarandon_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/notre-perception-visuelle-est-saccadee-et-depend-aussi-de-la-f0af4b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/notre-perception-visuelle-est-saccadee-et-depend-aussi-de-la-f0af4b.html",
+   "title": "Notre perception visuelle est saccadée et dépend aussi de la position de l'information dans l'espace, selon de nouvelles recherches",
+   "content_text": "Ce que le cinématographe des frères Lumière avait déjà compris de notre œil.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Birmingham (Royaume-Uni)",
+    "Savoirs",
+    "Sciences et santé"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/une-start-up-bavaroise-place-en-orbite-la-premiere-fusee-ent-1fdcd0.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/une-start-up-bavaroise-place-en-orbite-la-premiere-fusee-ent-1fdcd0.html",
+   "title": "Une start-up bavaroise place en orbite la première fusée entièrement privée d'Europe, lancée depuis la Norvège",
+   "content_text": "Après un premier essai qui avait fini en mer au bout de trente secondes.",
+   "date_modified": "2026-09-06T15:30:00-04:00",
+   "tags": [
+    "Allemagne, Norvège",
+    "Savoirs",
+    "Espace et astronomie"
+   ]
   },
   {
    "id": "https://entreelibre.ca/edition/2026-09-06/a/quebec-solidaire-exige-des-autres-partis-un-engagement-a-ref-80105a.html",
@@ -712,265 +967,6 @@
     "États-Unis",
     "Savoirs",
     "Technologies et numérique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/la-coree-du-sud-choisit-d-integrer-l-intelligence-artificiel-b5b010.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/la-coree-du-sud-choisit-d-integrer-l-intelligence-artificiel-b5b010.html",
-   "title": "La Corée du Sud choisit d'intégrer l'intelligence artificielle directement dans son application de messagerie nationale",
-   "content_text": "Entre le laisser-faire américain et la réglementation européenne, Séoul dit vouloir tracer une troisième voie.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "Corée du Sud",
-    "Savoirs",
-    "Technologies et numérique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/chatgpt-bascule-dans-une-nouvelle-categorie-reglementaire-eu-6fbd67.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/chatgpt-bascule-dans-une-nouvelle-categorie-reglementaire-eu-6fbd67.html",
-   "title": "ChatGPT bascule dans une nouvelle catégorie réglementaire européenne en dépassant 45 millions d'utilisateurs mensuels dans l'UE",
-   "content_text": "Reddit et Roblox basculent au même moment sous des obligations renforcées de modération et de transparence.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "Union européenne",
-    "Savoirs",
-    "Technologies et numérique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/mort-d-ada-yonath-prix-nobel-de-chimie-qui-a-perce-la-struct-96bed4.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/mort-d-ada-yonath-prix-nobel-de-chimie-qui-a-perce-la-struct-96bed4.html",
-   "title": "Mort d'Ada Yonath, prix Nobel de chimie qui a percé la structure du ribosome malgré des décennies de scepticisme",
-   "content_text": "Ses pairs jugeaient la tâche impossible, mais elle y a consacré l'essentiel d'une carrière commencée dans la pauvreté.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "Israël",
-    "Savoirs",
-    "Idées, philosophie et histoire"
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ada_Yonath.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/des-chercheurs-s-inquietent-de-voir-l-intelligence-artificie-08ed3e.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/des-chercheurs-s-inquietent-de-voir-l-intelligence-artificie-08ed3e.html",
-   "title": "Des chercheurs s'inquiètent de voir l'intelligence artificielle uniformiser peu à peu la culture et la pensée",
-   "content_text": "Un doctorant raconte avoir plusieurs fois l'impression d'avoir déjà lu un article, comme si tout se ressemblait.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "Savoirs",
-    "Idées, philosophie et histoire"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/qui-est-responsable-des-erreurs-quand-l-intelligence-artific-03918e.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/qui-est-responsable-des-erreurs-quand-l-intelligence-artific-03918e.html",
-   "title": "Qui est responsable des erreurs quand l'intelligence artificielle participe à la rédaction d'un article scientifique",
-   "content_text": "La question devient urgente à mesure que les revues peinent à définir des règles claires d'attribution des fautes.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "Savoirs",
-    "Idées, philosophie et histoire"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/la-justice-argentine-ordonne-la-restitution-d-une-toile-spol-cb7c64.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/la-justice-argentine-ordonne-la-restitution-d-une-toile-spol-cb7c64.html",
-   "title": "La justice argentine ordonne la restitution d'une toile spoliée par les nazis, retrouvée grâce à une petite annonce immobilière",
-   "content_text": "Le couple qui détenait l'œuvre y renonce et versera une compensation à des hôpitaux locaux.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "Argentine",
-    "Savoirs",
-    "Idées, philosophie et histoire"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/les-bijoux-caches-pendant-un-siecle-par-l-imperatrice-zita-d-867898.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/les-bijoux-caches-pendant-un-siecle-par-l-imperatrice-zita-d-867898.html",
-   "title": "Les bijoux cachés pendant un siècle par l'impératrice Zita dans une banque de Québec sont enfin exposés",
-   "content_text": "Le plus précieux, un diamant en forme de poire, aurait appartenu à Charles le Téméraire puis à Napoléon.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "Québec",
-    "Savoirs",
-    "Idées, philosophie et histoire"
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Empress_Zita_of_Austria_-_Hungary.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/le-roi-charles-iii-et-emmanuel-macron-inaugurent-l-expositio-393b8d.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/le-roi-charles-iii-et-emmanuel-macron-inaugurent-l-expositio-393b8d.html",
-   "title": "Le roi Charles III et Emmanuel Macron inaugurent l'exposition de la tapisserie de Bayeux au British Museum",
-   "content_text": "Prêtée par la France, l'œuvre millénaire ne sera visible du public britannique qu'à partir du 10 septembre.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "Royaume-Uni",
-    "Savoirs",
-    "Idées, philosophie et histoire"
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tapisserie_de_Bayeux%2C_p1.jpg/1280px-Tapisserie_de_Bayeux%2C_p1.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/le-cours-de-philosophie-donne-par-jean-paul-sartre-au-lycee-56b8cd.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/le-cours-de-philosophie-donne-par-jean-paul-sartre-au-lycee-56b8cd.html",
-   "title": "Le cours de philosophie donné par Jean-Paul Sartre au lycée pendant l'Occupation ressurgit grâce à un centenaire",
-   "content_text": "Cet ancien élève avait gardé ces notes de cours dans de vieux cartons pendant plus de quatre-vingts ans.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "France",
-    "Savoirs",
-    "Idées, philosophie et histoire"
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Jean_Paul_Sartre_1967.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/treize-classiques-du-cinema-quebecois-restaures-par-elephant-4f466e.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/treize-classiques-du-cinema-quebecois-restaures-par-elephant-4f466e.html",
-   "title": "Treize classiques du cinéma québécois restaurés par Éléphant deviennent accessibles gratuitement à tous les élèves de la province",
-   "content_text": "Des guides pédagogiques accompagnent chaque œuvre, d'une reconstitution historique de 1839 jusqu'au récit d'enfance de Léolo.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "Québec",
-    "Savoirs",
-    "Cinéma et culture"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/le-cinema-francais-vit-son-meilleur-mois-d-aout-depuis-le-de-32f841.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/le-cinema-francais-vit-son-meilleur-mois-d-aout-depuis-le-de-32f841.html",
-   "title": "Le cinéma français vit son meilleur mois d'août depuis le début des statistiques en 1980",
-   "content_text": "La fréquentation a doublé par rapport à l'an dernier, dopée par la chaleur et deux superproductions américaines.",
-   "date_modified": "2026-09-06T09:46:00-04:00",
-   "tags": [
-    "France",
-    "Savoirs",
-    "Cinéma et culture"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/les-ventes-de-maisons-chutent-de-13-a-montreal-mais-les-prix-b77785.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/les-ventes-de-maisons-chutent-de-13-a-montreal-mais-les-prix-b77785.html",
-   "title": "Les ventes de maisons chutent de 13 % à Montréal, mais les prix continuent de grimper",
-   "content_text": "L'offre grimpe, les acheteurs attendent, et pourtant les prix montent dans toutes les catégories.",
-   "date_modified": "2026-09-06T09:29:00-04:00",
-   "tags": [
-    "Montréal",
-    "Montréal et sa région",
-    "Économie et travail"
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Appartements_Bishop_Court%2C_1463%2C_rue_Bishop%2C_Montr%C3%A9al_vue_d%27ensemble%2C_fa%C3%A7ade_et_c%C3%B4t%C3%A9_gauche_11-d.na.civile-91-134.jpg/1280px-Appartements_Bishop_Court%2C_1463%2C_rue_Bishop%2C_Montr%C3%A9al_vue_d%27ensemble%2C_fa%C3%A7ade_et_c%C3%B4t%C3%A9_gauche_11-d.na.civile-91-134.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/sucre-ble-mais-la-fao-chiffre-la-hausse-des-prix-alimentaire-f72e79.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/sucre-ble-mais-la-fao-chiffre-la-hausse-des-prix-alimentaire-f72e79.html",
-   "title": "Sucre, blé, maïs : la FAO chiffre la hausse des prix alimentaires observée en août",
-   "content_text": "La sécheresse en Europe et la guerre en mer Noire poussent la facture d'épicerie vers le haut.",
-   "date_modified": "2026-09-06T09:29:00-04:00",
-   "tags": [
-    "Nations Unies",
-    "International",
-    "Économie et travail"
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Wheat_field_in_early_summer_2.jpg/1280px-Wheat_field_in_early_summer_2.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/jean-charest-soutient-que-les-politiques-de-trump-forceront-8e37dc.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/jean-charest-soutient-que-les-politiques-de-trump-forceront-8e37dc.html",
-   "title": "Jean Charest soutient que les politiques de Trump forceront le Canada à devenir plus fort",
-   "content_text": "L'ex-premier ministre y voit un mal pour un bien, si le pays cesse de dépendre d'un seul partenaire.",
-   "date_modified": "2026-09-06T09:29:00-04:00",
-   "tags": [
-    "Canada",
-    "Canada",
-    "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/proteger-la-nature-rapporterait-plus-de-22-milliards-au-queb-a7d3c0.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/proteger-la-nature-rapporterait-plus-de-22-milliards-au-queb-a7d3c0.html",
-   "title": "Protéger la nature rapporterait plus de 22 milliards $ au Québec, selon une étude",
-   "content_text": "Chaque dollar investi dans la conservation en générerait 0,92 $ de plus ailleurs dans l'économie québécoise.",
-   "date_modified": "2026-09-06T09:29:00-04:00",
-   "tags": [
-    "Québec",
-    "Québec et ses régions",
-    "Environnement et climat"
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/CascadeInQuebec.jpg/1280px-CascadeInQuebec.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/selon-l-iris-la-crise-du-logement-s-aggrave-depuis-trente-an-a595d8.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/selon-l-iris-la-crise-du-logement-s-aggrave-depuis-trente-an-a595d8.html",
-   "title": "Selon l'IRIS, la crise du logement s'aggrave depuis trente ans de choix favorables au marché",
-   "content_text": "Un critère si généreux qu'un cinq et demi à 1975 $ par mois compte désormais comme abordable.",
-   "date_modified": "2026-09-06T09:29:00-04:00",
-   "tags": [
-    "Québec",
-    "Québec et ses régions",
-    "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/face-aux-tarifs-americains-l-economie-sociale-propose-de-mis-7fc683.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/face-aux-tarifs-americains-l-economie-sociale-propose-de-mis-7fc683.html",
-   "title": "Face aux tarifs américains, l'économie sociale propose de miser sur les biens déjà ici",
-   "content_text": "Réparer, reconditionner et partager coûterait moins cher que d'attendre le retour des bas prix d'avant.",
-   "date_modified": "2026-09-06T09:29:00-04:00",
-   "tags": [
-    "Québec",
-    "Québec et ses régions",
-    "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/selon-un-analyste-l-impasse-iranienne-nourrit-la-flambee-des-a4ef9a.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/selon-un-analyste-l-impasse-iranienne-nourrit-la-flambee-des-a4ef9a.html",
-   "title": "Selon un analyste, l'impasse iranienne nourrit la flambée des taux obligataires mondiaux",
-   "content_text": "Entre pétrole plus cher et dette occidentale qui explose, l'inflation pourrait revenir hanter l'automne.",
-   "date_modified": "2026-09-06T09:29:00-04:00",
-   "tags": [
-    "États-Unis",
-    "International",
-    "Économie et travail"
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Lower_Manhattan_from_Governors_Island_with_a_fishing_boat_%2846294p%29.jpg/1280px-Lower_Manhattan_from_Governors_Island_with_a_fishing_boat_%2846294p%29.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/le-plus-grand-fonds-souverain-au-monde-propose-de-reduire-de-2ae93d.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/le-plus-grand-fonds-souverain-au-monde-propose-de-reduire-de-2ae93d.html",
-   "title": "Le plus grand fonds souverain au monde propose de réduire de 80 milliards $ US ses obligations américaines",
-   "content_text": "Diversifier loin des bons du Trésor américain, tout en gardant la moitié de son portefeuille en dollars US.",
-   "date_modified": "2026-09-06T09:29:00-04:00",
-   "tags": [
-    "Norvège",
-    "International",
-    "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/a-toronto-une-entrepreneuse-autonome-a-du-se-donner-une-augm-4e6fb8.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/a-toronto-une-entrepreneuse-autonome-a-du-se-donner-une-augm-4e6fb8.html",
-   "title": "À Toronto, une entrepreneuse autonome a dû se donner une augmentation pour obtenir son hypothèque",
-   "content_text": "Travailleuse autonome, elle a dû hausser son propre salaire pour convaincre la banque de lui prêter.",
-   "date_modified": "2026-09-06T09:29:00-04:00",
-   "tags": [
-    "Toronto (Ontario)",
-    "Canada",
-    "Économie et travail"
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/INDX_Condos_%2870_Temperance_Street%29%2C_Toronto%2C_Ontario%2C_2025-08-25.jpg/1280px-INDX_Condos_%2870_Temperance_Street%29%2C_Toronto%2C_Ontario%2C_2025-08-25.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/le-concept-de-care-un-travail-reste-largement-invisible-et-p-513f86.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/le-concept-de-care-un-travail-reste-largement-invisible-et-p-513f86.html",
-   "title": "Le concept de care, un travail resté largement invisible et porté par des femmes",
-   "content_text": "Un mot qu'on ne traduit pas vraiment en français, pour un travail qu'on ne voit presque jamais.",
-   "date_modified": "2026-09-06T09:29:00-04:00",
-   "tags": [
-    "Québec",
-    "Québec et ses régions",
-    "Société et culture"
    ]
   }
  ]
