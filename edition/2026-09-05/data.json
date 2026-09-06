@@ -1642,6 +1642,7 @@
     }
    ],
    "permalien": "une-candidate-du-plq-denonce-la-fin-des-cartes-electorales-b-3e79c8",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "une-candidate-du-plq-denonce-la-fin-des-cartes-electorales-b-3e79c8"
@@ -1666,6 +1667,7 @@
     }
    ],
    "permalien": "deux-experts-contestent-l-exemple-international-cite-par-chr-2c5bbb",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-05.json",
    "_slug": "deux-experts-contestent-l-exemple-international-cite-par-chr-2c5bbb"
@@ -5756,11 +5758,16 @@
    "territoire": "Québec",
    "medias": "Le Devoir, LaPresse",
    "url": "https://www.ledevoir.com/politique/quebec/1006646/lutte-itinerance-limitee-deficit-selon-milliard",
-   "resume": "Le chef du Parti libéral du Québec, Charles Milliard, promet d'investir 60 millions $ de plus par année pour lutter contre l'itinérance, en compagnie du directeur de la Mission Old Brewery, James Hugues, candidat libéral dans Vaudreuil.",
+   "resume": "Le directeur d'un grand refuge se présente pour le parti qui promet d'endiguer l'itinérance.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-04T14:21-04:00",
    "sources": [
+    {
+     "media": "Parti libéral du Québec",
+     "url": "https://plq.org/communique/le-parti-liberal-du-quebec-veut-investir-60-m-de-plus-par-annee-pour-faire-un-premier-pas-vers-litinerance-zero/",
+     "date": "2026-09-04T00:00-04:00"
+    },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1006646/lutte-itinerance-limitee-deficit-selon-milliard",
