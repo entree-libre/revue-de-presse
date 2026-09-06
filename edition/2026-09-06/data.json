@@ -1,9 +1,130 @@
 {
  "date": "2026-09-06",
  "volets": [
+  "elections",
   "report"
  ],
  "articles": [
+  {
+   "titre": "Un ingénieur doute que le pont à 3 milliards proposé par Duhaime soit réalisable",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/800002/projet-de-3e-lien-du-parti-conservateur-est-ce-realiste",
+   "resume": "Reste à savoir si le chef conservateur ajustera son projet avant la fin de la campagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T03:30-04:00",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/800002/projet-de-3e-lien-du-parti-conservateur-est-ce-realiste",
+     "date": "2026-09-06T03:34-04:00"
+    },
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/800069/c-est-le-pire-des-projets-de-3-lien-qu-on-peut-presenter-jerome-landry",
+     "date": "2026-09-06T03:34-04:00"
+    }
+   ],
+   "permalien": "un-ingenieur-doute-que-le-pont-a-3-milliards-propose-par-duh-48438a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "un-ingenieur-doute-que-le-pont-a-3-milliards-propose-par-duh-48438a"
+  },
+  {
+   "titre": "Le PQ accuse le fédéral de multiplier les annonces pour peser sur la campagne québécoise",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/799994/ingerence-federale-potentielle-dans-l-election-quebecoise-le-pq-hausse-le-ton",
+   "resume": "Reste à voir si Ottawa change de rythme d'ici le jour du vote.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T03:30-04:00",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799994/ingerence-federale-potentielle-dans-l-election-quebecoise-le-pq-hausse-le-ton",
+     "date": "2026-09-04T16:32-04:00"
+    }
+   ],
+   "permalien": "le-pq-accuse-le-federal-de-multiplier-les-annonces-pour-pese-19074a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "le-pq-accuse-le-federal-de-multiplier-les-annonces-pour-pese-19074a"
+  },
+  {
+   "titre": "Un chroniqueur donne raison, chiffres à l'appui, à Paul St-Pierre Plamondon sur l'immigration à l'école",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/balados/647908/episode/799827/hausse-des-seuils-d-immigration-les-chiffres-peuvent-dire-une-chose-mais-soyons-prudents",
+   "resume": "Reste à savoir si la prudence demandée par le chroniqueur infléchira le débat de campagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T03:30-04:00",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/balados/647908/episode/799827/hausse-des-seuils-d-immigration-les-chiffres-peuvent-dire-une-chose-mais-soyons-prudents",
+     "date": "2026-09-06T03:34-04:00"
+    }
+   ],
+   "permalien": "un-chroniqueur-donne-raison-chiffres-a-l-appui-a-paul-st-pie-2dd859",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "un-chroniqueur-donne-raison-chiffres-a-l-appui-a-paul-st-pie-2dd859"
+  },
+  {
+   "titre": "Un analyste juge qu'aucun parti n'est pleinement satisfait de ses appuis à un mois du vote",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/799967/les-electeurs-quebecois-ne-sont-pas-encore-embarques-dans-la-campagne",
+   "resume": "Reste à voir quel parti cédera le premier à l'impatience d'ici le scrutin.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T03:30-04:00",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/799967/les-electeurs-quebecois-ne-sont-pas-encore-embarques-dans-la-campagne",
+     "date": "2026-09-04T16:37-04:00"
+    }
+   ],
+   "permalien": "un-analyste-juge-qu-aucun-parti-n-est-pleinement-satisfait-d-15aa71",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "un-analyste-juge-qu-aucun-parti-n-est-pleinement-satisfait-d-15aa71"
+  },
+  {
+   "titre": "Un chroniqueur juge que Plamondon et Duhaime ont connu la meilleure semaine de la campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/800081/il-y-a-eu-tellement-de-promesses-qu-on-en-est-etourdis-christian-dufour",
+   "resume": "Il se demande si Christine Fréchette retrouvera bientôt le ton nationaliste qui lui manque.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T03:30-04:00",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/800081/il-y-a-eu-tellement-de-promesses-qu-on-en-est-etourdis-christian-dufour",
+     "date": "2026-09-06T03:34-04:00"
+    }
+   ],
+   "permalien": "un-chroniqueur-juge-que-plamondon-et-duhaime-ont-connu-la-me-065669",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "un-chroniqueur-juge-que-plamondon-et-duhaime-ont-connu-la-me-065669"
+  },
   {
    "titre": "Les émissaires de Donald Trump rencontrent Vladimir Poutine à Moscou avant une première visite à Kyiv, dans le cadre des pourparlers sur l'Ukraine",
    "cahier": "international",
