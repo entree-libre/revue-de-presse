@@ -4,6 +4,7 @@
   "economie-opinions",
   "elections",
   "hors-rss",
+  "local",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -807,6 +808,7 @@
    "legende": "",
    "horodate": "2026-09-06T12:24-04:00",
    "permalien": "milliard-refuse-de-s-engager-fermement-sur-la-realisation-du-2f661b",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "milliard-refuse-de-s-engager-fermement-sur-la-realisation-du-2f661b"
@@ -1158,6 +1160,190 @@
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-06.json",
    "_slug": "l-escouade-des-incendies-criminels-du-spvm-enquete-sur-deux-6fbfef"
+  },
+  {
+   "titre": "Ce qu'a décidé le conseil d'arrondissement de Ville-Marie",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Ville-Marie (Montréal)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/actualites/resume-du-conseil-darrondissement-de-ville-marie-du-1er-septembre-2026-119689",
+   "resume": "Un refuge pour femmes, trois collectifs culturels et la rue Saint-Jacques se partagent l'attention du conseil.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T12:55-04:00",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/resume-du-conseil-darrondissement-de-ville-marie-du-1er-septembre-2026-119689",
+     "date": "2026-09-04T10:38-04:00"
+    }
+   ],
+   "permalien": "ce-qu-a-decide-le-conseil-d-arrondissement-de-ville-marie-6188cb",
+   "image_auto": "aucune",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-06.json",
+   "_slug": "ce-qu-a-decide-le-conseil-d-arrondissement-de-ville-marie-6188cb"
+  },
+  {
+   "titre": "RDP-PAT fait construire un corridor vert entre deux parcs",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Rivière-des-Prairies–Pointe-aux-Trembles (Montréal)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-rdp-pat-du-1er-septembre-2026-119810",
+   "resume": "Un sentier et 75 arbres relieront bientôt deux parcs de Rivière-des-Prairies pour environ 192 000 $.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T12:55-04:00",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-rdp-pat-du-1er-septembre-2026-119810",
+     "date": "2026-09-03T07:47-04:00"
+    }
+   ],
+   "permalien": "rdp-pat-fait-construire-un-corridor-vert-entre-deux-parcs-a6254f",
+   "image_auto": "aucune",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-06.json",
+   "_slug": "rdp-pat-fait-construire-un-corridor-vert-entre-deux-parcs-a6254f"
+  },
+  {
+   "titre": "Outremont refait le marquage cyclable de deux avenues",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Outremont (Montréal)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-doutremont-du-1er-septembre-2026-119757",
+   "resume": "Bloomfield et Saint-Viateur passent à sens unique avec voie cyclable, pour un peu plus de 150 000 $.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T12:55-04:00",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-doutremont-du-1er-septembre-2026-119757",
+     "date": "2026-09-02T12:48-04:00"
+    }
+   ],
+   "permalien": "outremont-refait-le-marquage-cyclable-de-deux-avenues-30ff6b",
+   "image_auto": "aucune",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-06.json",
+   "_slug": "outremont-refait-le-marquage-cyclable-de-deux-avenues-30ff6b"
+  },
+  {
+   "titre": "Verdun annonce comment elle informera la population avant l'UCI",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "L'Île-des-Sœurs, Verdun (Montréal)",
+   "medias": "Nouvelles d'Ici · Ville de Montréal",
+   "url": "https://nouvellesdici.com/actu/conseil-de-verdun-1er-septembre-demande-dengagement-ferme-pour-une-ecole-secondaire-a-lids-demandes-pour-les-candidats-et-candidates-aux-elections-et-entraves-annoncees-pour-le-c/",
+   "resume": "L'Île-des-Sœurs recevra un avis à chaque adresse avant les fermetures du mondial de cyclisme.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T12:55-04:00",
+   "sources": [
+    {
+     "media": "Nouvelles d'Ici",
+     "url": "https://nouvellesdici.com/actu/conseil-de-verdun-1er-septembre-demande-dengagement-ferme-pour-une-ecole-secondaire-a-lids-demandes-pour-les-candidats-et-candidates-aux-elections-et-entraves-annoncees-pour-le-c/",
+     "auteur": "Raphaël Gendron-Martin",
+     "date": "2026-09-04T06:49-04:00"
+    },
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-verdun-1er-septembre-2026-119764",
+     "auteur": "Mélanie Dusseault",
+     "date": "2026-09-02T14:29-04:00"
+    }
+   ],
+   "permalien": "verdun-annonce-comment-elle-informera-la-population-avant-l-d82d25",
+   "image_auto": "aucune",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-06.json",
+   "_slug": "verdun-annonce-comment-elle-informera-la-population-avant-l-d82d25"
+  },
+  {
+   "titre": "Un espace pour bouger en plein air arrive à Verdun",
+   "cahier": "montreal",
+   "rubrique": "sport",
+   "territoire": "Verdun (Montréal)",
+   "medias": "Ville de Montréal · Nouvelles d'Ici",
+   "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-verdun-1er-septembre-2026-119764",
+   "resume": "Un premier gym extérieur du budget participatif prend forme au parc Beurling, deux autres suivront à Verdun.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T12:55-04:00",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-verdun-1er-septembre-2026-119764",
+     "auteur": "Mélanie Dusseault",
+     "date": "2026-09-02T14:29-04:00"
+    },
+    {
+     "media": "Nouvelles d'Ici",
+     "url": "https://nouvellesdici.com/actu/conseil-de-verdun-1er-septembre-demande-dengagement-ferme-pour-une-ecole-secondaire-a-lids-demandes-pour-les-candidats-et-candidates-aux-elections-et-entraves-annoncees-pour-le-c/",
+     "auteur": "Raphaël Gendron-Martin",
+     "date": "2026-09-04T06:49-04:00"
+    }
+   ],
+   "permalien": "un-espace-pour-bouger-en-plein-air-arrive-a-verdun-bd5bd1",
+   "image_auto": "aucune",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-06.json",
+   "_slug": "un-espace-pour-bouger-en-plein-air-arrive-a-verdun-bd5bd1"
+  },
+  {
+   "titre": "Ce qu'a retenu le conseil d'arrondissement de Lachine",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Lachine (Montréal)",
+   "medias": "Nouvelles d'Ici",
+   "url": "https://nouvellesdici.com/actu/conseil-de-lachine-1er-septembre-surplus-financier-de-36-m-des-chevres-contre-les-mauvaises-herbes-et-nomination-de-la-nouvelle-directrice-darrondissement/",
+   "resume": "Lachine boucle 2025 avec un surplus de 3,6 M$, une nouvelle directrice et des chèvres au parc.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T12:55-04:00",
+   "sources": [
+    {
+     "media": "Nouvelles d'Ici",
+     "url": "https://nouvellesdici.com/actu/conseil-de-lachine-1er-septembre-surplus-financier-de-36-m-des-chevres-contre-les-mauvaises-herbes-et-nomination-de-la-nouvelle-directrice-darrondissement/",
+     "auteur": "Raphaël Gendron-Martin",
+     "date": "2026-09-02T17:51-04:00"
+    }
+   ],
+   "permalien": "ce-qu-a-retenu-le-conseil-d-arrondissement-de-lachine-57ad09",
+   "image_auto": "aucune",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-06.json",
+   "_slug": "ce-qu-a-retenu-le-conseil-d-arrondissement-de-lachine-57ad09"
+  },
+  {
+   "titre": "Une œuvre collective repeint un terrain de basketball à Lévis",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Lévis (Chaudière-Appalaches)",
+   "medias": "Ville de Lévis",
+   "url": "https://levis.ca/fr/ville/decouvrir-levis/nos-actualites/le-terrain-de-basketball-du-parc-daubigny-transforme-en-oeuvre-dart",
+   "resume": "Des adolescents du quartier ont mis la main à la murale qui recouvre maintenant le terrain d'Aubigny.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T12:55-04:00",
+   "sources": [
+    {
+     "media": "Ville de Lévis",
+     "url": "https://levis.ca/fr/ville/decouvrir-levis/nos-actualites/le-terrain-de-basketball-du-parc-daubigny-transforme-en-oeuvre-dart",
+     "auteur": "Annie Labbé (artiste)",
+     "date": "2026-09-02T00:00-04:00"
+    }
+   ],
+   "permalien": "une-oeuvre-collective-repeint-un-terrain-de-basketball-a-lev-6fdadc",
+   "image_auto": "aucune",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-06.json",
+   "_slug": "une-oeuvre-collective-repeint-un-terrain-de-basketball-a-lev-6fdadc"
   },
   {
    "titre": "L'armée ukrainienne dit avoir neutralisé un radar et un système de brouillage russes dans la région de Bryansk",

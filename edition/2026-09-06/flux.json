@@ -6,6 +6,88 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/ce-qu-a-decide-le-conseil-d-arrondissement-de-ville-marie-6188cb.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/ce-qu-a-decide-le-conseil-d-arrondissement-de-ville-marie-6188cb.html",
+   "title": "Ce qu'a décidé le conseil d'arrondissement de Ville-Marie",
+   "content_text": "Un refuge pour femmes, trois collectifs culturels et la rue Saint-Jacques se partagent l'attention du conseil.",
+   "date_modified": "2026-09-06T12:55:00-04:00",
+   "tags": [
+    "Ville-Marie (Montréal)",
+    "Montréal et sa région",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/rdp-pat-fait-construire-un-corridor-vert-entre-deux-parcs-a6254f.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/rdp-pat-fait-construire-un-corridor-vert-entre-deux-parcs-a6254f.html",
+   "title": "RDP-PAT fait construire un corridor vert entre deux parcs",
+   "content_text": "Un sentier et 75 arbres relieront bientôt deux parcs de Rivière-des-Prairies pour environ 192 000 $.",
+   "date_modified": "2026-09-06T12:55:00-04:00",
+   "tags": [
+    "Rivière-des-Prairies–Pointe-aux-Trembles (Montréal)",
+    "Montréal et sa région",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/outremont-refait-le-marquage-cyclable-de-deux-avenues-30ff6b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/outremont-refait-le-marquage-cyclable-de-deux-avenues-30ff6b.html",
+   "title": "Outremont refait le marquage cyclable de deux avenues",
+   "content_text": "Bloomfield et Saint-Viateur passent à sens unique avec voie cyclable, pour un peu plus de 150 000 $.",
+   "date_modified": "2026-09-06T12:55:00-04:00",
+   "tags": [
+    "Outremont (Montréal)",
+    "Montréal et sa région",
+    "Transport et infrastructures"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/verdun-annonce-comment-elle-informera-la-population-avant-l-d82d25.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/verdun-annonce-comment-elle-informera-la-population-avant-l-d82d25.html",
+   "title": "Verdun annonce comment elle informera la population avant l'UCI",
+   "content_text": "L'Île-des-Sœurs recevra un avis à chaque adresse avant les fermetures du mondial de cyclisme.",
+   "date_modified": "2026-09-06T12:55:00-04:00",
+   "tags": [
+    "L'Île-des-Sœurs, Verdun (Montréal)",
+    "Montréal et sa région",
+    "Transport et infrastructures"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/un-espace-pour-bouger-en-plein-air-arrive-a-verdun-bd5bd1.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/un-espace-pour-bouger-en-plein-air-arrive-a-verdun-bd5bd1.html",
+   "title": "Un espace pour bouger en plein air arrive à Verdun",
+   "content_text": "Un premier gym extérieur du budget participatif prend forme au parc Beurling, deux autres suivront à Verdun.",
+   "date_modified": "2026-09-06T12:55:00-04:00",
+   "tags": [
+    "Verdun (Montréal)",
+    "Montréal et sa région"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/ce-qu-a-retenu-le-conseil-d-arrondissement-de-lachine-57ad09.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/ce-qu-a-retenu-le-conseil-d-arrondissement-de-lachine-57ad09.html",
+   "title": "Ce qu'a retenu le conseil d'arrondissement de Lachine",
+   "content_text": "Lachine boucle 2025 avec un surplus de 3,6 M$, une nouvelle directrice et des chèvres au parc.",
+   "date_modified": "2026-09-06T12:55:00-04:00",
+   "tags": [
+    "Lachine (Montréal)",
+    "Montréal et sa région",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-06/a/une-oeuvre-collective-repeint-un-terrain-de-basketball-a-lev-6fdadc.html",
+   "url": "https://entreelibre.ca/edition/2026-09-06/a/une-oeuvre-collective-repeint-un-terrain-de-basketball-a-lev-6fdadc.html",
+   "title": "Une œuvre collective repeint un terrain de basketball à Lévis",
+   "content_text": "Des adolescents du quartier ont mis la main à la murale qui recouvre maintenant le terrain d'Aubigny.",
+   "date_modified": "2026-09-06T12:55:00-04:00",
+   "tags": [
+    "Lévis (Chaudière-Appalaches)",
+    "Québec et ses régions"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-06/a/christine-frechette-reunit-son-conseil-des-ministres-en-plei-76537b.html",
    "url": "https://entreelibre.ca/edition/2026-09-06/a/christine-frechette-reunit-son-conseil-des-ministres-en-plei-76537b.html",
    "title": "Christine Fréchette interrompt sa campagne pour gérer la guerre tarifaire avec Washington",
@@ -884,88 +966,6 @@
     "Gatineau (Outaouais)",
     "Québec et ses régions",
     "Société et culture"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/l-isle-aux-coudres-retrouve-ses-touristes-apres-des-annees-d-4c0514.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/l-isle-aux-coudres-retrouve-ses-touristes-apres-des-annees-d-4c0514.html",
-   "title": "L'Isle-aux-Coudres retrouve ses touristes après des années de grèves et de bris",
-   "content_text": "Le seul lien maritime vers l'île avait connu plusieurs années difficiles, mais l'achalandage touristique reprend enfin cet été.",
-   "date_modified": "2026-09-06T08:09:00-04:00",
-   "tags": [
-    "L'Isle-aux-Coudres (Charlevoix)",
-    "Québec et ses régions",
-    "Économie et travail"
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/013_076_sur_le_traversier_vers_Isle_aux-Coudres.jpg"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/des-residents-de-saint-lambert-s-organisent-pour-sauver-leur-7379bf.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/des-residents-de-saint-lambert-s-organisent-pour-sauver-leur-7379bf.html",
-   "title": "Des résidents de Saint-Lambert s'organisent pour sauver leur gare de Via Rail",
-   "content_text": "Une nouvelle halte projetée près de l'aéroport métropolitain inquiète des riverains qui craignent la fermeture de leur gare.",
-   "date_modified": "2026-09-06T08:09:00-04:00",
-   "tags": [
-    "Saint-Lambert (Montérégie)",
-    "Montréal et sa région",
-    "Transport et infrastructures"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/pourquoi-le-doublage-quebecois-des-simpsons-reste-indeboulon-d8b8a9.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/pourquoi-le-doublage-quebecois-des-simpsons-reste-indeboulon-d8b8a9.html",
-   "title": "Pourquoi le doublage québécois des Simpsons reste indéboulonnable pour ses fans",
-   "content_text": "Ce doublage né après-guerre et ses expressions ont façonné un attachement culturel que le public refuse de perdre.",
-   "date_modified": "2026-09-06T08:09:00-04:00",
-   "tags": [
-    "Québec",
-    "Montréal et sa région"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/un-motocycliste-tente-d-echapper-a-la-police-sur-l-autoroute-e1e66b.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/un-motocycliste-tente-d-echapper-a-la-police-sur-l-autoroute-e1e66b.html",
-   "title": "Un motocycliste tente d'échapper à la police sur l'autoroute 15 à La Prairie",
-   "content_text": "La Sûreté du Québec a lancé une poursuite vendredi après-midi avant d'arrêter un conducteur de 44 ans.",
-   "date_modified": "2026-09-06T08:09:00-04:00",
-   "tags": [
-    "La Prairie (Montérégie)",
-    "Montréal et sa région"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/une-centaine-de-benevoles-plantent-24-000-vegetaux-sur-une-p-a09558.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/une-centaine-de-benevoles-plantent-24-000-vegetaux-sur-une-p-a09558.html",
-   "title": "Une centaine de bénévoles plantent 24 000 végétaux sur une plage de la Baie-des-Chaleurs",
-   "content_text": "Une bénévole explique vouloir protéger cette recharge de plage, une cause qui lui tient particulièrement à cœur.",
-   "date_modified": "2026-09-06T08:09:00-04:00",
-   "tags": [
-    "Maria (Gaspésie)",
-    "Québec et ses régions",
-    "Environnement et climat"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/le-directeur-du-developpement-economique-de-sept-iles-quitte-64b88a.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/le-directeur-du-developpement-economique-de-sept-iles-quitte-64b88a.html",
-   "title": "Le directeur du développement économique de Sept-Îles quitte pour relever d'autres défis",
-   "content_text": "Paul Lavoie souligne l'importance croissante de la Côte-Nord dans les stratégies de développement des minéraux critiques et stratégiques.",
-   "date_modified": "2026-09-06T08:09:00-04:00",
-   "tags": [
-    "Sept-Îles (Côte-Nord)",
-    "Québec et ses régions",
-    "Économie et travail"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-06/a/un-premier-festival-de-moto-voit-le-jour-en-estrie-ce-week-e-bdd28d.html",
-   "url": "https://entreelibre.ca/edition/2026-09-06/a/un-premier-festival-de-moto-voit-le-jour-en-estrie-ce-week-e-bdd28d.html",
-   "title": "Un premier festival de moto voit le jour en Estrie ce week-end",
-   "content_text": "L'événement, présenté sur le terrain de l'Exposition agricole, veut aussi sensibiliser les motocyclistes aux enjeux de sécurité routière.",
-   "date_modified": "2026-09-06T08:09:00-04:00",
-   "tags": [
-    "Richmond (Estrie)",
-    "Québec et ses régions"
    ]
   }
  ]
