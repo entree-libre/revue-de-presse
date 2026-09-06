@@ -3,6 +3,7 @@
  "volets": [
   "elections",
   "monde",
+  "quebec-canada",
   "report"
  ],
  "articles": [
@@ -1179,6 +1180,471 @@
    "_slug": "un-troisieme-entrepot-de-l-oms-en-ukraine-a-ete-endommage-pa-07ea3a"
   },
   {
+   "titre": "Un homme de 26 ans arrêté après avoir agressé son père et sa mère à l'arme blanche à Saint-Léonard",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Saint-Léonard (Montréal)",
+   "medias": "Le Devoir, Radio-Canada, TVA Nouvelles",
+   "url": "https://www.ledevoir.com/actualites/1006832/couple-sexagenaires-poignardes-appartement-montreal",
+   "resume": "Arrivées à l'hôpital en état critique, les deux victimes reposent maintenant hors de danger, précise le SPVM.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/1006832/couple-sexagenaires-poignardes-appartement-montreal",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T06:22-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280923/deux-personnes-poignardees-dans-saint-leonard-montreal",
+     "date": "2026-09-06T06:22-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/05/trois-personnes-poignardees-a-saint-leonard-un-suspect-arrete-apres-avoir-pris-la-fuite",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "un-homme-de-26-ans-arrete-apres-avoir-agresse-son-pere-et-sa-41a41a",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "un-homme-de-26-ans-arrete-apres-avoir-agresse-son-pere-et-sa-41a41a"
+  },
+  {
+   "titre": "Un VUS et une résidence criblés de balles en pleine nuit à Dollard-des-Ormeaux",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Dollard-des-Ormeaux (Montréal)",
+   "medias": "TVA Nouvelles",
+   "url": "https://www.tvanouvelles.ca/2026/09/05/un-hummer-et-une-residence-vises-par-des-coups-de-feu-a-dollard-des-ormeaux",
+   "resume": "Aucun blessé n'est à déplorer, mais les motifs de cette flambée de violence restent entièrement à éclaircir.",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/05/un-hummer-et-une-residence-vises-par-des-coups-de-feu-a-dollard-des-ormeaux",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "un-vus-et-une-residence-cribles-de-balles-en-pleine-nuit-a-d-6b6189",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "un-vus-et-une-residence-cribles-de-balles-en-pleine-nuit-a-d-6b6189"
+  },
+  {
+   "titre": "La conduite chez les personnes très âgées relance le débat après une semaine noire sur les routes du Québec",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/05/cinq-collisions-impliquant-des-octogenaires-en-quelques-jours",
+   "resume": "Le Québec exige un examen médical dès 80 ans ; ailleurs, l'âge limite arrive parfois bien plus tôt.",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/05/cinq-collisions-impliquant-des-octogenaires-en-quelques-jours",
+     "auteur": "Anaïs Desjardins",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "la-conduite-chez-les-personnes-tres-agees-relance-le-debat-a-37b314",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "la-conduite-chez-les-personnes-tres-agees-relance-le-debat-a-37b314"
+  },
+  {
+   "titre": "Un an après la reconnaissance de la Palestine par le Canada, Ottawa dresse un bilan mitigé de ses conditions",
+   "cahier": "canada",
+   "rubrique": "conflits",
+   "territoire": "Ottawa",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/monde/moyen-orient/1006871/retour-demandes-mark-carney-reconnaissance-etat-palestinien",
+   "resume": "Sur la gouvernance, les élections ou la démilitarisation, l'avancement réel de chacun de ces engagements reste très inégal.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1006871/retour-demandes-mark-carney-reconnaissance-etat-palestinien",
+     "auteur": "Dylan Robertson (La Presse Canadienne)",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "un-an-apres-la-reconnaissance-de-la-palestine-par-le-canada-8ffca3",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "un-an-apres-la-reconnaissance-de-la-palestine-par-le-canada-8ffca3"
+  },
+  {
+   "titre": "L'Alberta Transition Council dévoile un document détaillé pour préparer une éventuelle indépendance de la province",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "CBC, Radio-Canada",
+   "url": "https://www.cbc.ca/news/canada/calgary/keith-wilson-alberta-transition-council-white-paper-9.7333294",
+   "resume": "Certains le trouvent réaliste, d'autres jugent la démarche prématurée et bien trop optimiste sur des négociations promises complexes.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/calgary/keith-wilson-alberta-transition-council-white-paper-9.7333294",
+     "auteur": "Joel Dryden",
+     "date": "2026-09-06T06:22-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280995/groupe-independance-albertain-plan-transition",
+     "auteur": "Caleb Perreaux",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "l-alberta-transition-council-devoile-un-document-detaille-po-de2cc5",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "l-alberta-transition-council-devoile-un-document-detaille-po-de2cc5"
+  },
+  {
+   "titre": "Des nations autochtones des deux côtés de la frontière dénoncent le décret américain qui efface le nom du lac Ontario",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Ontario",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/long-format/2280532/lac-ontario-autochtones-etats-unis",
+   "resume": "Le nom Ontario est plus vieux que les deux pays qui se partagent ce lac, rappellent plusieurs historiens.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/long-format/2280532/lac-ontario-autochtones-etats-unis",
+     "auteur": "Ismaël Houdassine",
+     "date": "2026-09-05T06:27-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "des-nations-autochtones-des-deux-cotes-de-la-frontiere-denon-b3e79b",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "des-nations-autochtones-des-deux-cotes-de-la-frontiere-denon-b3e79b"
+  },
+  {
+   "titre": "Dans des cafés canadiens, l'americano cède parfois sa place à un nouveau nom aux couleurs de l'unité nationale",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Ottawa",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280983/canadiano-entrepreneur-unite-canadienne",
+   "resume": "Ce jeu de mots est devenu, pour certains commerçants, une façon simple de surfer sur la fierté ambiante.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280983/canadiano-entrepreneur-unite-canadienne",
+     "auteur": "Antoine Fontaine",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Byward_Market_Ottawa_%2836419252822%29.jpg",
+   "photo_auteur": "Michel Rathwell from Cornwall, Canada",
+   "photo_licence": "CC BY 2.0",
+   "legende": "Le marché By, dans le centre-ville d'Ottawa.",
+   "permalien": "dans-des-cafes-canadiens-l-americano-cede-parfois-sa-place-a-0307cd",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "dans-des-cafes-canadiens-l-americano-cede-parfois-sa-place-a-0307cd"
+  },
+  {
+   "titre": "Remplacer douze produits américains par des équivalents d'ici coûte moins cher, démontre une expérience menée en épicerie",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/affaires/finances-personnelles/2026-09-06/boycottage-de-produits-americains/quand-le-panier-local-coute-moins-cher.php",
+   "resume": "L'écart de prix a de quoi surprendre ceux qui pensent l'achat local automatiquement plus cher.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/finances-personnelles/2026-09-06/boycottage-de-produits-americains/quand-le-panier-local-coute-moins-cher.php",
+     "auteur": "Nathaëlle Morissette et Megan Foy",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "remplacer-douze-produits-americains-par-des-equivalents-d-ic-d277ae",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "remplacer-douze-produits-americains-par-des-equivalents-d-ic-d277ae"
+  },
+  {
+   "titre": "Les tarifs américains poussent une partie de l'industrie de la laine à se tourner vers la Chine et l'Europe",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Global News, Acadie Nouvelle",
+   "url": "https://globalnews.ca/news/12049000/us-cda-tariffs-wool/",
+   "resume": "Pour une artisane d'Ottawa, rompre avec son fournisseur habituel est devenu une question de principe.",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12049000/us-cda-tariffs-wool/",
+     "date": "2026-09-06T06:22-04:00"
+    },
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/actualites/2026/09/05/les-producteurs-de-laine-se-tournent-vers-dautres-marches-que-les-etats-unis/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "les-tarifs-americains-poussent-une-partie-de-l-industrie-de-f44354",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "les-tarifs-americains-poussent-une-partie-de-l-industrie-de-f44354"
+  },
+  {
+   "titre": "Un sondage Léger relève une forte hausse du nombre de Canadiens qui perçoivent les États-Unis comme un pays ennemi",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Canada",
+   "medias": "National Post",
+   "url": "https://nationalpost.com/news/majority-of-canadians-now-see-u-s-as-an-enemy-and-trump-is-the-reason-poll",
+   "resume": "Le sentiment est particulièrement marqué au Québec, où près d'un répondant sur deux partage ce point de vue.",
+   "sources": [
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/majority-of-canadians-now-see-u-s-as-an-enemy-and-trump-is-the-reason-poll",
+     "auteur": "Kenn Oliver",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "un-sondage-leger-releve-une-forte-hausse-du-nombre-de-canadi-919c7f",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "un-sondage-leger-releve-une-forte-hausse-du-nombre-de-canadi-919c7f"
+  },
+  {
+   "titre": "Quatre ans après la pire attaque au couteau de l'histoire du Canada, la Nation crie James Smith cherche à guérir",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Saskatchewan",
+   "medias": "Radio-Canada, CBC",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280979/attaque-couteau-james-smith-4-ans",
+   "resume": "Un centre de mieux-être et des lits de désintoxication doivent bientôt donner de nouveaux outils à la communauté.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280979/attaque-couteau-james-smith-4-ans",
+     "date": "2026-09-06T06:22-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/saskatchewan/james-smith-cree-nation-sask-mass-stabbings-anniversary-9.7332976",
+     "auteur": "Lisa Risom",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "quatre-ans-apres-la-pire-attaque-au-couteau-de-l-histoire-du-35cec0",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "quatre-ans-apres-la-pire-attaque-au-couteau-de-l-histoire-du-35cec0"
+  },
+  {
+   "titre": "Trois comtés du Cap-Breton déclarent l'état d'urgence après des pluies diluviennes qui ont emporté des routes entières",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Nouvelle-Écosse",
+   "medias": "CBC, Radio-Canada",
+   "url": "https://www.cbc.ca/news/canada/nova-scotia/inverness-richmond-victoria-storm-emergency-flooding-9.7333873",
+   "resume": "Certains résidents, isolés chez eux par des chemins impraticables, ignorent encore quand les secours pourront enfin les atteindre.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/nova-scotia/inverness-richmond-victoria-storm-emergency-flooding-9.7333873",
+     "date": "2026-09-06T06:22-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281021/inondations-pluie-routes-nouvelle-ecosse",
+     "date": "2026-09-06T06:22-04:00",
+     "auteur": "Agathe Boucart"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cape_Breton%2C_Nova_Scotia_%2838581270800%29.jpg",
+   "photo_auteur": "Michel Rathwell from Cornwall, Canada",
+   "photo_licence": "CC BY 2.0",
+   "legende": "Le paysage côtier du Cap-Breton, en Nouvelle-Écosse.",
+   "permalien": "trois-comtes-du-cap-breton-declarent-l-etat-d-urgence-apres-c6646a",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "trois-comtes-du-cap-breton-declarent-l-etat-d-urgence-apres-c6646a"
+  },
+  {
+   "titre": "À Ottawa, des passants sautent à l'eau pour sortir deux occupants d'un véhicule submergé dans la rivière Rideau",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Ottawa",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/ottawa/mooneys-bay-rideau-river-suv-crash-9.7074506",
+   "resume": "Une ancienne maître-nageuse a improvisé les gestes qui ont permis de ramener le passager jusqu'au rivage.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/ottawa/mooneys-bay-rideau-river-suv-crash-9.7074506",
+     "auteur": "Gabrielle Huston",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Rideau_river_Ottawa_Canada.jpg",
+   "photo_auteur": "Salwa Farwaneh Dameh",
+   "photo_licence": "CC0",
+   "legende": "La rivière Rideau, à Ottawa.",
+   "permalien": "a-ottawa-des-passants-sautent-a-l-eau-pour-sortir-deux-occup-a6d011",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "a-ottawa-des-passants-sautent-a-l-eau-pour-sortir-deux-occup-a6d011"
+  },
+  {
+   "titre": "Les tribunaux québécois encadrent l'usage de l'intelligence artificielle par les juges après un cas troublant au printemps",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12049197/quebec-judge-ai/",
+   "resume": "Un cas suspect ce printemps, où une décision citait de la jurisprudence inexistante, a précipité ces nouvelles balises.",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12049197/quebec-judge-ai/",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Palais_de_Justice_de_Montreal_05.jpg",
+   "photo_auteur": "Jean Gagnon",
+   "photo_licence": "CC BY-SA 3.0",
+   "legende": "Le palais de justice de Montréal.",
+   "permalien": "les-tribunaux-quebecois-encadrent-l-usage-de-l-intelligence-2f70fd",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "les-tribunaux-quebecois-encadrent-l-usage-de-l-intelligence-2f70fd"
+  },
+  {
+   "titre": "Une étude de la Communauté métropolitaine de Montréal chiffre les retombées économiques réelles du transport collectif",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12047870/montreal-transit-economic-advantages/",
+   "resume": "Chaque dollar investi dans le transport collectif rapporterait bien davantage à l'économie qu'un dollar englouti dans l'auto solo.",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12047870/montreal-transit-economic-advantages/",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Societe_de_transport_de_Montreal_bus_36-902_-_04.jpg",
+   "photo_auteur": "Jeangagnon",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Un autobus de la Société de transport de Montréal.",
+   "permalien": "une-etude-de-la-communaute-metropolitaine-de-montreal-chiffr-e532db",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "une-etude-de-la-communaute-metropolitaine-de-montreal-chiffr-e532db"
+  },
+  {
+   "titre": "Toronto ordonne à Live Nation de réparer le Rogers Stadium avant le spectacle complet d'AC/DC prévu le 16 septembre",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Toronto (Ontario)",
+   "medias": "CBC, CTV News",
+   "url": "https://www.cbc.ca/news/canada/toronto/city-toronto-order-remedy-unsafe-building-rogers-stadium-9.7333167",
+   "resume": "Des gradins bleus disloqués sont visibles sur les photos aériennes, et rien ne garantit la tenue du spectacle.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/toronto/city-toronto-order-remedy-unsafe-building-rogers-stadium-9.7333167",
+     "auteur": "Muriel Draaisma",
+     "date": "2026-09-06T06:22-04:00"
+    },
+    {
+     "media": "CTV News",
+     "url": "https://www.ctvnews.ca/toronto/article/city-of-toronto-orders-rogers-stadium-to-remedy-unsafe-building-in-wake-of-storm-damage/",
+     "date": "2026-09-06T06:22-04:00",
+     "auteur": "Jon Woodward"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rogers_Stadium_Illuminated_Sign.jpg",
+   "photo_auteur": "Kyy0602",
+   "photo_licence": "CC0",
+   "legende": "L'enseigne illuminée du Rogers Stadium, à Toronto.",
+   "permalien": "toronto-ordonne-a-live-nation-de-reparer-le-rogers-stadium-a-11fa85",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "toronto-ordonne-a-live-nation-de-reparer-le-rogers-stadium-a-11fa85"
+  },
+  {
+   "titre": "La loi 9 sur la laïcité entre en vigueur : les établissements publics du Québec ferment leurs salles de prière",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/secularism-law-expansion-quebec-9.7331596",
+   "resume": "Un constitutionnaliste se demande jusqu'où le gouvernement compte étendre cette interdiction dans l'espace public.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/secularism-law-expansion-quebec-9.7331596",
+     "auteur": "Isaac Olson",
+     "date": "2026-09-06T06:22-04:00"
+    }
+   ],
+   "horodate": "2026-09-06T06:04-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "la-loi-9-sur-la-laicite-entre-en-vigueur-les-etablissements-f9e51d",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-06.json",
+   "_slug": "la-loi-9-sur-la-laicite-entre-en-vigueur-les-etablissements-f9e51d"
+  },
+  {
    "titre": "Vladimir Poutine reçoit les émissaires américains à Moscou et suspend les bombardements sur la capitale ukrainienne, le temps que Washington se rende à Kyiv pour poursuivre les discussions",
    "cahier": "international",
    "rubrique": "conflits",
@@ -1876,6 +2342,12 @@
      "url": "https://www.theglobeandmail.com/canada/article-snowbirds-air-show-toronto-jets-grounded-until-2030s/",
      "auteur": "Kathryn Mannie",
      "date": "2026-09-05T22:06-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/toronto/snowbirds-toronto-air-show-9.7333029",
+     "auteur": "Kate McGillivray",
+     "date": "2026-09-06T06:17-04:00"
     }
    ],
    "horodate": "2026-09-05T22:06-04:00",
