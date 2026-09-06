@@ -735,19 +735,6 @@
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Containers_at_the_Port_of_Montreal.jpg/1280px-Containers_at_the_Port_of_Montreal.jpg"
   },
   {
-   "id": "https://entreelibre.ca/edition/2026-09-05/a/la-banque-du-canada-devoile-son-nouveau-billet-de-20-dollars-ddc3a7.html",
-   "url": "https://entreelibre.ca/edition/2026-09-05/a/la-banque-du-canada-devoile-son-nouveau-billet-de-20-dollars-ddc3a7.html",
-   "title": "La Banque du Canada dévoile son nouveau billet de 20 dollars à l'effigie du roi Charles III",
-   "content_text": "Le nouveau billet adopte un format vertical, une orientation encore rare pour la monnaie canadienne.",
-   "date_modified": "2026-09-05T09:33:00-04:00",
-   "tags": [
-    "Canada",
-    "Canada",
-    "Économie et travail"
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ottawa_-_ON_-_Bank_of_Canada.jpg/1280px-Ottawa_-_ON_-_Bank_of_Canada.jpg"
-  },
-  {
    "id": "https://entreelibre.ca/edition/2026-09-05/a/ottawa-investit-4-7-milliards-de-dollars-pour-construire-au-813d78.html",
    "url": "https://entreelibre.ca/edition/2026-09-05/a/ottawa-investit-4-7-milliards-de-dollars-pour-construire-au-813d78.html",
    "title": "Ottawa investit 4,7 milliards de dollars pour construire au Canada plus de 300 voitures de Via Rail, notamment à La Pocatière",
@@ -907,18 +894,6 @@
    ]
   },
   {
-   "id": "https://entreelibre.ca/edition/2026-09-05/a/le-bureau-des-enquetes-independantes-blanchit-la-police-apre-2a360a.html",
-   "url": "https://entreelibre.ca/edition/2026-09-05/a/le-bureau-des-enquetes-independantes-blanchit-la-police-apre-2a360a.html",
-   "title": "Le Bureau des enquêtes indépendantes blanchit la police après une chute grave à Val-d’Or",
-   "content_text": "L’enquête indépendante conclut que l’intervention des patrouilleurs n’a pas contribué aux blessures graves subies.",
-   "date_modified": "2026-09-05T07:26:00-04:00",
-   "tags": [
-    "Val-d’Or (Abitibi-Témiscamingue)",
-    "Québec et ses régions",
-    "Justice et sécurité publique"
-   ]
-  },
-  {
    "id": "https://entreelibre.ca/edition/2026-09-05/a/murdochville-amorce-ses-propres-consultations-sur-lavenir-de-87187d.html",
    "url": "https://entreelibre.ca/edition/2026-09-05/a/murdochville-amorce-ses-propres-consultations-sur-lavenir-de-87187d.html",
    "title": "Murdochville amorce ses propres consultations sur l’avenir de la mine de cuivre",
@@ -988,6 +963,30 @@
     "Pointe-du-Lac, Trois-Rivières (Mauricie)",
     "Québec et ses régions",
     "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/quebec-donne-son-feu-vert-a-la-relance-de-la-centrale-de-sai-9ef0c4.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/quebec-donne-son-feu-vert-a-la-relance-de-la-centrale-de-sai-9ef0c4.html",
+   "title": "Québec donne son feu vert à la relance de la centrale de Saint-Narcisse",
+   "content_text": "Les promoteurs craignaient que le déclenchement des élections ne vienne retarder encore ce projet hydroélectrique communautaire.",
+   "date_modified": "2026-09-05T07:26:00-04:00",
+   "tags": [
+    "Saint-Narcisse (Mauricie)",
+    "Québec et ses régions",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-05/a/une-automobiliste-meurt-dans-une-collision-frontale-avec-un-8f7a92.html",
+   "url": "https://entreelibre.ca/edition/2026-09-05/a/une-automobiliste-meurt-dans-une-collision-frontale-avec-un-8f7a92.html",
+   "title": "Une automobiliste meurt dans une collision frontale avec un camion lourd à Stornoway",
+   "content_text": "Le véhicule aurait dévié dans la voie inverse pour une raison encore inconnue de la Sûreté du Québec.",
+   "date_modified": "2026-09-05T07:26:00-04:00",
+   "tags": [
+    "Stornoway (Estrie)",
+    "Québec et ses régions",
+    "Justice et sécurité publique"
    ]
   }
  ]

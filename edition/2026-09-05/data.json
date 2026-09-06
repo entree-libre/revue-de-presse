@@ -570,31 +570,6 @@
    "_slug": "le-surplus-commercial-du-canada-s-effondre-a-769-millions-de-d87903"
   },
   {
-   "titre": "La Banque du Canada dévoile son nouveau billet de 20 dollars à l'effigie du roi Charles III",
-   "cahier": "canada",
-   "rubrique": "economie",
-   "territoire": "Canada",
-   "medias": "Banque du Canada",
-   "url": "https://www.bankofcanada.ca/2026/09/bank-canada-unveils-new-vertical-20-bank-note/",
-   "resume": "Le nouveau billet adopte un format vertical, une orientation encore rare pour la monnaie canadienne.",
-   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ottawa_-_ON_-_Bank_of_Canada.jpg/1280px-Ottawa_-_ON_-_Bank_of_Canada.jpg",
-   "legende": "Le siège de la Banque du Canada, à Ottawa.",
-   "photo_auteur": "Wladyslaw",
-   "photo_licence": "CC BY-SA 3.0",
-   "sources": [
-    {
-     "media": "Banque du Canada",
-     "url": "https://www.bankofcanada.ca/2026/09/bank-canada-unveils-new-vertical-20-bank-note/",
-     "date": "2026-09-05T09:39-04:00"
-    }
-   ],
-   "horodate": "2026-09-05T09:33-04:00",
-   "permalien": "la-banque-du-canada-devoile-son-nouveau-billet-de-20-dollars-ddc3a7",
-   "_volet": "economie-opinions",
-   "_fichier": "revue-economie-opinions-2026-09-05.json",
-   "_slug": "la-banque-du-canada-devoile-son-nouveau-billet-de-20-dollars-ddc3a7"
-  },
-  {
    "titre": "Ottawa investit 4,7 milliards de dollars pour construire au Canada plus de 300 voitures de Via Rail, notamment à La Pocatière",
    "cahier": "canada",
    "rubrique": "economie",
@@ -3541,31 +3516,6 @@
    "_slug": "lavis-debullition-de-leau-se-prolonge-a-la-sarre-b80398"
   },
   {
-   "titre": "Le Bureau des enquêtes indépendantes blanchit la police après une chute grave à Val-d’Or",
-   "cahier": "quebec",
-   "rubrique": "justice",
-   "territoire": "Val-d’Or (Abitibi-Témiscamingue)",
-   "medias": "Radio-Canada",
-   "url": "https://ici.radio-canada.ca/nouvelle/2280713/bei-enquete-police-val-dor",
-   "resume": "L’enquête indépendante conclut que l’intervention des patrouilleurs n’a pas contribué aux blessures graves subies.",
-   "photo": "",
-   "legende": "",
-   "horodate": "2026-09-05T07:26-04:00",
-   "sources": [
-    {
-     "media": "Radio-Canada",
-     "url": "https://ici.radio-canada.ca/nouvelle/2280713/bei-enquete-police-val-dor",
-     "auteur": "Marc-André Landry",
-     "date": "2026-09-05T06:27-04:00"
-    }
-   ],
-   "permalien": "le-bureau-des-enquetes-independantes-blanchit-la-police-apre-2a360a",
-   "image_auto": "aucune",
-   "_volet": "presse-regionale",
-   "_fichier": "revue-presse-regionale-2026-09-05.json",
-   "_slug": "le-bureau-des-enquetes-independantes-blanchit-la-police-apre-2a360a"
-  },
-  {
    "titre": "Murdochville amorce ses propres consultations sur l’avenir de la mine de cuivre",
    "cahier": "quebec",
    "rubrique": "economie",
@@ -3898,7 +3848,7 @@
    "territoire": "Saint-Georges (Chaudière-Appalaches)",
    "medias": "Radio-Canada, Le Soleil, EnBeauce.com",
    "url": "https://ici.radio-canada.ca/nouvelle/2280617/octogenaire-marchette-mort-saint-georges-coroner",
-   "resume": "Le coroner n’a pas pu établir de lien direct entre l’agression et son décès à l’hôpital.",
+   "resume": "Le coroner parle d’une mort violente et demande un jumelage plus sûr des patients dans les chambres.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-05T07:26-04:00",
@@ -4740,31 +4690,6 @@
    "_slug": "dix-huit-fenetres-ont-eclate-spontanement-depuis-2024-sur-de-4382d9"
   },
   {
-   "titre": "Le coroner recommande un meilleur jumelage des patients après une agression mortelle en Beauce",
-   "cahier": "quebec",
-   "rubrique": "sante",
-   "territoire": "Saint-Georges (Chaudière-Appalaches)",
-   "medias": "Radio-Canada",
-   "url": "https://ici.radio-canada.ca/nouvelle/2280617/octogenaire-marchette-mort-saint-georges-coroner",
-   "resume": "Le DPCP n'a pas établi de lien entre l'agression et le décès, l'assaillant étant mort depuis.",
-   "photo": "",
-   "legende": "",
-   "sources": [
-    {
-     "media": "Radio-Canada",
-     "url": "https://ici.radio-canada.ca/nouvelle/2280617/octogenaire-marchette-mort-saint-georges-coroner",
-     "auteur": "Audrey Paris",
-     "date": "2026-09-05T06:27-04:00"
-    }
-   ],
-   "horodate": "2026-09-05T05:54-04:00",
-   "permalien": "le-coroner-recommande-un-meilleur-jumelage-des-patients-apre-d629cd",
-   "image_auto": "aucune",
-   "_volet": "quebec-canada",
-   "_fichier": "revue-quebec-canada-2026-09-05.json",
-   "_slug": "le-coroner-recommande-un-meilleur-jumelage-des-patients-apre-d629cd"
-  },
-  {
    "titre": "La GRC prévient les conducteurs de Tesla qu'elle sévira contre ceux qui dorment au volant en mode autonome",
    "cahier": "canada",
    "rubrique": "justice",
@@ -5188,7 +5113,7 @@
    "cahier": "canada",
    "rubrique": "societe",
    "territoire": "Canada",
-   "medias": "L'Écho de Laval",
+   "medias": "L'Écho de Laval, Banque du Canada",
    "url": "https://www.chamblyexpress.ca/actualites/societe/673865/un-nouveau-billet-de-20-mettra-a-lhonneur-le-roi-charles",
    "resume": "Combien de temps avant de voir ce nouveau visage circuler dans les portefeuilles du pays ?",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -5200,6 +5125,11 @@
      "url": "https://www.chamblyexpress.ca/actualites/societe/673865/un-nouveau-billet-de-20-mettra-a-lhonneur-le-roi-charles",
      "date": "2026-09-03T15:00-04:00",
      "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "Banque du Canada",
+     "url": "https://www.bankofcanada.ca/2026/09/bank-canada-unveils-new-vertical-20-bank-note/",
+     "date": "2026-09-05T09:39-04:00"
     }
    ],
    "photo_auteur": "White House",
