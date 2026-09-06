@@ -1,6 +1,7 @@
 {
  "date": "2026-09-06",
  "volets": [
+  "continu",
   "economie-opinions",
   "elections",
   "hors-rss",
@@ -12,6 +13,102 @@
   "savoirs"
  ],
  "articles": [
+  {
+   "titre": "Un cargo d'Amazon quitte la piste en flammes à l'aéroport de Miami",
+   "cahier": "international",
+   "rubrique": "transport",
+   "territoire": "Miami (Floride)",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
+     "auteur": "Associated Press",
+     "date": "2026-09-06T16:04-04:00"
+    }
+   ],
+   "resume": "Le trafic aérien est resté interrompu dans l'un des plus grands aéroports du pays.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:56-04:00",
+   "permalien": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259"
+  },
+  {
+   "titre": "La nouvelle PDG de Lululemon, Heidi O'Neill, hérite d'une marque essoufflée et d'un conseil divisé",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Vancouver (Colombie-Britannique)",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/bourse/economie/la-nouvelle-pdg-de-lululemon-veut-redorer-limage-de-lenseigne/",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/economie/la-nouvelle-pdg-de-lululemon-veut-redorer-limage-de-lenseigne/",
+     "auteur": "Tara Deschamps",
+     "date": "2026-09-06T16:04-04:00"
+    }
+   ],
+   "resume": "Une trêve fragile avec le fondateur et des départs en cascade attendent la nouvelle venue.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:56-04:00",
+   "permalien": "la-nouvelle-pdg-de-lululemon-heidi-o-neill-herite-d-une-marq-c47bd1",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "la-nouvelle-pdg-de-lululemon-heidi-o-neill-herite-d-une-marq-c47bd1"
+  },
+  {
+   "titre": "Un documentaire présenté à Venise révèle la froideur des retrouvailles entre les frères Gallagher d'Oasis",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Venise (Italie)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/culture/cinema/1006913/mostra-documentaire-immortalise-retrouvailles-glaciales-oasis",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/cinema/1006913/mostra-documentaire-immortalise-retrouvailles-glaciales-oasis",
+     "auteur": "Adam Plowright",
+     "date": "2026-09-06T16:04-04:00"
+    }
+   ],
+   "resume": "Le scénariste raconte comment les enfants des deux frères ont fait le travail que les adultes refusaient.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:56-04:00",
+   "permalien": "un-documentaire-presente-a-venise-revele-la-froideur-des-ret-560c30",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "un-documentaire-presente-a-venise-revele-la-froideur-des-ret-560c30"
+  },
+  {
+   "titre": "Un motocycliste septuagénaire luttait dimanche pour sa vie près de Bécancour",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Bécancour (Centre-du-Québec)",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/un-motocycliste-dans-un-etat-critique-apres-une-embardee-a-becancour/",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/un-motocycliste-dans-un-etat-critique-apres-une-embardee-a-becancour/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T16:04-04:00"
+    }
+   ],
+   "resume": "Un enquêteur spécialisé tente de comprendre comment il a perdu la maîtrise de sa moto.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T15:56-04:00",
+   "permalien": "un-motocycliste-septuagenaire-luttait-dimanche-pour-sa-vie-p-c5aef7",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "un-motocycliste-septuagenaire-luttait-dimanche-pour-sa-vie-p-c5aef7"
+  },
   {
    "titre": "Les ventes de maisons chutent de 13 % à Montréal, mais les prix continuent de grimper",
    "cahier": "montreal",
@@ -1539,13 +1636,13 @@
    "_slug": "l-armee-ukrainienne-dit-avoir-neutralise-un-radar-et-un-syst-768559"
   },
   {
-   "titre": "En Saxe-Anhalt, l'AfD pourrait devenir dimanche le premier parti d'extrême droite à diriger un Land depuis 1945",
+   "titre": "En Saxe-Anhalt, l'AfD signe une victoire historique avec plus de 44 % des voix, mais sans majorité pour gouverner seule",
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Allemagne (Saxe-Anhalt)",
-   "medias": "France 24, Le Monde, Radio-Canada, RTS, La Libre.be",
+   "medias": "France 24, Le Monde, Radio-Canada, RTS, La Libre.be, TV5MONDE, Coops de l'information, La Croix, Libération, Le Temps, franceinfo",
    "url": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-du-scrutin-local-en-saxe-anhalt_6766352_3210.html",
-   "resume": "La veille du vote, une foule nombreuse réclamait un sursaut démocratique face à un tournant jugé historique.",
+   "resume": "Mise à jour, 15 h 30 — Reste à savoir si un parti forgera une coalition avec l'extrême droite.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -1576,9 +1673,58 @@
      "url": "https://www.lalibre.be/international/2026/09/05/en-saxe-anhalt-lextreme-droite-a-dores-et-deja-marque-lhistoire-BITCDNJ4ZJC2FNZVE4NWGQ3FGA/",
      "date": "2026-09-06T05:34-04:00",
      "auteur": "Delphine Nerbollier"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281132/allemagne-elections-saxe-anhald-extreme-droite",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/europe/20260906-ulrich-siegmind-victoire-de-l-afd-en-saxe-anhalt-qui-menace-le-syst%C3%A8me-politique-allemand",
+     "auteur": "Sébastian Seibt",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/allemagne-lafd-peut-elle-gouverner-seule-en-saxe-anhalt-apres-la-victoire-historique-du-parti-dextreme-droite-2836404",
+     "auteur": "Océane Bourdenet",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/monde/2026/09/06/l-extreme-droite-largement-en-avance-dans-une-election-regionale-en-allemagne-3GG2STMZTFAJNP2C7CPMMFXMXA/",
+     "auteur": "Geir Moulson et Kerstin Sopke, The Associated Press",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "La Croix",
+     "url": "https://www.la-croix.com/international/allemagne-l-extreme-droite-de-lafd-realise-un-score-historique-en-saxe-anhalt-20260906",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/victoire-de-lafd-en-saxe-anhalt-un-tournant-historique-en-allemagne-20260906_3XG57DFNQRCLRLNECCLAKIAPPM/",
+     "auteur": "Johanna Luyssen",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-elections-regionales-en-allemagne-l-afd-effectue-une-poussee-historique-en-saxe-anhalt-mais-les-consequences-restent-incertaines_6767342_3210.html",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Le Temps",
+     "url": "https://www.letemps.ch/monde/europe/l-extreme-droite-allemande-remporte-une-victoire-electorale-historique-en-saxe-anhalt",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/allemagne/allemagne-l-extreme-droite-signe-une-victoire-historique-en-saxe-anhalt_8180114.html",
+     "date": "2026-09-06T16:04-04:00"
     }
    ],
-   "horodate": "2026-09-06T04:55-04:00",
+   "horodate": "2026-09-06T15:58-04:00",
    "permalien": "en-saxe-anhalt-l-afd-pourrait-devenir-dimanche-le-premier-pa-e66567",
    "image_auto": "aucune",
    "_volet": "monde",
@@ -1745,7 +1891,7 @@
    "territoire": "Cisjordanie",
    "medias": "France 24, Libération, TV5MONDE, ONU Info",
    "url": "https://www.france24.com/fr/moyen-orient/20260905-cisjordanie-occup%C3%A9e-l-ambassadeur-am%C3%A9ricain-tient-isra%C3%ABl-responsable-de-la-s%C3%A9curit%C3%A9-des-palestiniens",
-   "resume": "Sa visite intervient alors que les Nations Unies dénoncent des expulsions forcées dans les territoires occupés.",
+   "resume": "Mise à jour, 15 h 30 — Selon un ministre, Nétanyahou aurait cédé sur certains avant-postes, sans le confirmer lui-même.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -1769,9 +1915,14 @@
      "media": "ONU Info",
      "url": "https://news.un.org/fr/story/2026/09/1159413",
      "date": "2026-09-06T05:34-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/cisjordanie-netanyahou-a-ordonne-devacuer-des-implantations-de-colons-20260906_FNJ7C5CTBBGFLDHH65AWEB3I6E/",
+     "date": "2026-09-06T15:55-04:00"
     }
    ],
-   "horodate": "2026-09-06T04:55-04:00",
+   "horodate": "2026-09-06T15:58-04:00",
    "permalien": "de-passage-en-cisjordanie-occupee-le-representant-diplomatiq-2c0604",
    "image_auto": "aucune",
    "_volet": "monde",
@@ -1954,13 +2105,13 @@
    "_slug": "la-maison-blanche-accueillera-xi-jinping-le-24-septembre-pou-e84795"
   },
   {
-   "titre": "Au Yémen, l'offensive menée par les insurgés houthis contre les forces progouvernementales a fait environ 200 morts en deux jours",
+   "titre": "Au Yémen, l'offensive des insurgés houthis contre les forces progouvernementales a fait plus de 300 morts depuis jeudi",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Yémen",
-   "medias": "RFI, TV5MONDE, France 24",
+   "medias": "RFI, TV5MONDE, France 24, Libération",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260905-y%C3%A9men-pr%C3%A8s-de-200-morts-dans-une-nouvelle-offensive-des-rebelles-houthis-vers-la-ville-de-ta%C3%ABz",
-   "resume": "C'est l'épisode le plus meurtrier depuis des années dans ce pays déjà dévasté par la guerre, selon l'AFP.",
+   "resume": "Mise à jour, 15 h 30 — Les rebelles avancent vers un détroit devenu vital depuis qu'Ormuz est aux mains de l'Iran.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -1979,9 +2130,15 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260905-y%C3%A9men-des-dizaines-de-morts-dont-des-civils-dans-l-offensive-des-rebelles-houthis",
      "date": "2026-09-06T05:34-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/yemen-plus-de-300-morts-dans-les-affrontements-entre-houthis-et-les-forces-gouvernementales-depuis-jeudi-20260906_QC2HOLC37FEODAMMI6XKXWRJ2U/",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:55-04:00"
     }
    ],
-   "horodate": "2026-09-06T04:55-04:00",
+   "horodate": "2026-09-06T15:54-04:00",
    "permalien": "au-yemen-l-offensive-menee-par-les-insurges-houthis-contre-l-68592e",
    "image_auto": "aucune",
    "_volet": "monde",
@@ -2086,9 +2243,9 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "Ukraine",
-   "medias": "Interfax-Ukraine, Euromaidan Press",
+   "medias": "Interfax-Ukraine, Euromaidan Press, Ukrinform",
    "url": "https://en.interfax.com.ua/news/general/1199127.html",
-   "resume": "Le procureur général reste injoignable depuis le début de cette opération, selon les enquêteurs anticorruption.",
+   "resume": "Mise à jour, 15 h 30 — La justice anticorruption place le responsable en détention, avec une caution alternative de 120 millions de hryvnias.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -2107,9 +2264,14 @@
      "url": "https://euromaidanpress.com/2026/09/05/if-youre-gonna-fck-fck-a-queen-if-youre-gonna-steal-steal-a-million-ukraines-anti-corruption-bureau-says-senior-official-ran-criminal-ring-inside-prosecutor-generals-office/",
      "auteur": "Olena Mukhina",
      "date": "2026-09-06T05:34-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4161450-anticorruption-court-orders-detention-for-pgo-official-kropyva-with-uah-120m-bail-alternative.html",
+     "date": "2026-09-06T15:55-04:00"
     }
    ],
-   "horodate": "2026-09-06T04:55-04:00",
+   "horodate": "2026-09-06T15:54-04:00",
    "permalien": "le-bureau-anticorruption-ukrainien-accuse-un-haut-responsabl-44623b",
    "image_auto": "aucune",
    "_volet": "monde",
@@ -3669,7 +3831,7 @@
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Ontario",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, Coops de l'information",
    "url": "https://ici.radio-canada.ca/info/long-format/2280532/lac-ontario-autochtones-etats-unis",
    "resume": "Le nom Ontario est plus vieux que les deux pays qui se partagent ce lac, rappellent plusieurs historiens.",
    "sources": [
@@ -3678,6 +3840,12 @@
      "url": "https://ici.radio-canada.ca/info/long-format/2280532/lac-ontario-autochtones-etats-unis",
      "auteur": "Ismaël Houdassine",
      "date": "2026-09-05T06:27-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/affaires/2026/09/06/des-americains-vivant-au-canada-denoncent-le-changement-de-nom-du-lac-ontario-25KGLDPL6ZECVHL3WAKSMSAWVM/",
+     "auteur": "Sharif Hassan, La Presse Canadienne",
+     "date": "2026-09-06T15:55-04:00"
     }
    ],
    "horodate": "2026-09-06T06:04-04:00",
@@ -3826,13 +3994,13 @@
    "_slug": "quatre-ans-apres-la-pire-attaque-au-couteau-de-l-histoire-du-35cec0"
   },
   {
-   "titre": "Trois comtés du Cap-Breton déclarent l'état d'urgence après des pluies diluviennes qui ont emporté des routes entières",
+   "titre": "Une femme est morte dans les inondations du Cap-Breton, où trois comtés ont déclaré l'état d'urgence",
    "cahier": "canada",
    "rubrique": "environnement",
    "territoire": "Nouvelle-Écosse",
    "medias": "CBC, Radio-Canada",
    "url": "https://www.cbc.ca/news/canada/nova-scotia/inverness-richmond-victoria-storm-emergency-flooding-9.7333873",
-   "resume": "Certains résidents, isolés chez eux par des chemins impraticables, ignorent encore quand les secours pourront enfin les atteindre.",
+   "resume": "Mise à jour, 15 h 30 — Des municipalités disent avoir été prises de court par l'ampleur de la tempête.",
    "sources": [
     {
      "media": "CBC",
@@ -3844,9 +4012,25 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281021/inondations-pluie-routes-nouvelle-ecosse",
      "date": "2026-09-06T06:22-04:00",
      "auteur": "Agathe Boucart"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281123/deces-femme-inondation-cap-breton",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281137/inondations-pluies-cap-breton",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-storm-tyson-mcewan-tow-truck-9.7334253?cmp=rss",
+     "auteur": "Richard Woodbury",
+     "date": "2026-09-06T15:55-04:00"
     }
    ],
-   "horodate": "2026-09-06T06:04-04:00",
+   "horodate": "2026-09-06T15:54-04:00",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cape_Breton%2C_Nova_Scotia_%2838581270800%29.jpg",
    "photo_auteur": "Michel Rathwell from Cornwall, Canada",
    "photo_licence": "CC BY 2.0",
@@ -3990,13 +4174,13 @@
    "_slug": "la-loi-9-sur-la-laicite-entre-en-vigueur-les-etablissements-f9e51d"
   },
   {
-   "titre": "Vladimir Poutine reçoit les émissaires américains à Moscou et suspend les bombardements sur la capitale ukrainienne, le temps que Washington se rende à Kyiv pour poursuivre les discussions",
+   "titre": "Reçus à Moscou puis à Kyiv, les émissaires de Trump repartent sans accord et Zelensky se prépare à un hiver de guerre",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Russie, Ukraine",
-   "medias": "BBC, The Associated Press, Le Parisien, Radio-Canada",
+   "medias": "BBC, The Associated Press, Le Parisien, Radio-Canada, RFI, Libération, Al Jazeera, The Kyiv Independent, franceinfo, La Libre.be, IntelliNews, Ukrinform, Ukrinform",
    "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo",
-   "resume": "Mise à jour, 5 h 30 — Kyiv espère que cette accalmie ouvre la voie à un règlement plus durable du conflit.",
+   "resume": "Mise à jour, 15 h 30 — Kyiv réclame des garanties de sécurité concrètes avant d'envisager un compromis avec Moscou.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Moscow_Kremlin_Towers_of_south_wall.jpg/1280px-Moscow_Kremlin_Towers_of_south_wall.jpg",
    "legende": "Les tours de la muraille sud du Kremlin, à Moscou.",
    "photo_auteur": "Dmitry Ivanov",
@@ -4022,9 +4206,65 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2280920/ukraine-trump-moscou-negociations-bombardements",
      "date": "2026-09-06T05:30-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260906-guerre-en-ukraine-les-%C3%A9missaires-am%C3%A9ricains-appellent-kiev-et-moscou-au-compromis",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/ukraine-face-aux-emissaires-de-trump-zelensky-reclame-des-garanties-20260906_AXFO7R4WY5DK7NC7RALKJXSVYY/",
+     "auteur": "Stéphane Siohan",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-war-latest-us-envoys-make-first-visit-to-kyiv-protecting-city-from-russian-missiles-but-producing-few-results/",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-des-representants-de-la-france-de-l-allemagne-et-du-royaume-uni-ont-participe-aux-pourparlers-entre-volodymyr-zelensky-et-les-emissaires-americains_8180102.html",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "La Libre.be",
+     "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/09/06/guerre-en-ukraine-pour-zelensky-la-guerre-va-continuer-cet-hiver-KNJQP25P4RDTNF55JOOEZ737ZE/",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "IntelliNews",
+     "url": "https://www.intellinews.com/ukraine-seeks-us-winter-package-as-washington-revives-peace-push-465954/",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4161444-witkoff-kushner-say-they-made-progress-in-moscow-hope-for-trilateral-talks-soon.html",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "The Associated Press",
+     "url": "https://apnews.com/article/russia-ukraine-war-witkoff-kushner-zelenskyy-putin-44bba3b57b480560d9f48dba7d28534e",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4161452-witkoff-kushner-speak-with-ukraines-presidential-office-almost-daily.html",
+     "date": "2026-09-06T16:04-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4161418-pope-leo-xiv-hopes-current-russiaukraine-talks-will-produce-results.html",
+     "date": "2026-09-06T16:04-04:00"
     }
    ],
-   "horodate": "2026-09-06T05:30-04:00",
+   "horodate": "2026-09-06T15:58-04:00",
    "permalien": "les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea",
    "_volet": "report",
    "_fichier": "revue-report-2026-09-06.json",
