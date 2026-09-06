@@ -3,10 +3,12 @@
  "volets": [
   "economie-opinions",
   "elections",
+  "hors-rss",
   "monde",
   "presse-regionale",
   "quebec-canada",
-  "report"
+  "report",
+  "savoirs"
  ],
  "articles": [
   {
@@ -86,6 +88,7 @@
     }
    ],
    "permalien": "jean-charest-soutient-que-les-politiques-de-trump-forceront-8e37dc",
+   "image_auto": "aucune",
    "_volet": "economie-opinions",
    "_fichier": "revue-economie-opinions-2026-09-06.json",
    "_slug": "jean-charest-soutient-que-les-politiques-de-trump-forceront-8e37dc"
@@ -136,6 +139,7 @@
     }
    ],
    "permalien": "selon-l-iris-la-crise-du-logement-s-aggrave-depuis-trente-an-a595d8",
+   "image_auto": "aucune",
    "_volet": "economie-opinions",
    "_fichier": "revue-economie-opinions-2026-09-06.json",
    "_slug": "selon-l-iris-la-crise-du-logement-s-aggrave-depuis-trente-an-a595d8"
@@ -160,6 +164,7 @@
     }
    ],
    "permalien": "face-aux-tarifs-americains-l-economie-sociale-propose-de-mis-7fc683",
+   "image_auto": "aucune",
    "_volet": "economie-opinions",
    "_fichier": "revue-economie-opinions-2026-09-06.json",
    "_slug": "face-aux-tarifs-americains-l-economie-sociale-propose-de-mis-7fc683"
@@ -210,6 +215,7 @@
     }
    ],
    "permalien": "le-plus-grand-fonds-souverain-au-monde-propose-de-reduire-de-2ae93d",
+   "image_auto": "aucune",
    "_volet": "economie-opinions",
    "_fichier": "revue-economie-opinions-2026-09-06.json",
    "_slug": "le-plus-grand-fonds-souverain-au-monde-propose-de-reduire-de-2ae93d"
@@ -260,6 +266,7 @@
     }
    ],
    "permalien": "le-concept-de-care-un-travail-reste-largement-invisible-et-p-513f86",
+   "image_auto": "aucune",
    "_volet": "economie-opinions",
    "_fichier": "revue-economie-opinions-2026-09-06.json",
    "_slug": "le-concept-de-care-un-travail-reste-largement-invisible-et-p-513f86"
@@ -450,20 +457,62 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, LaPresse, Coops de l'information",
    "url": "https://ici.radio-canada.ca/nouvelle/2281055/frechette-conseil-ministre-tarifs-trump",
-   "resume": "Le geste rappelle celui de Mark Carney, accusé de profiter de sa fonction en pleine course électorale.",
+   "resume": "Mise à jour, 10 h — Elle aurait déjà averti Ottawa que des mesures de sa réplique tarifaire lui posent problème.",
    "sources": [
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2281055/frechette-conseil-ministre-tarifs-trump",
      "auteur": "Thomas Gerbet et Simon Bérubé",
      "date": "2026-09-06T05:36-04:00"
+    },
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-09-06/guerre-commerciale/frechette-convoque-ses-ministres-a-une-reunion-speciale.php",
+     "auteur": "Tommy Chouinard",
+     "date": "2026-09-06T10:19-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/politique/2026/09/06/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi-ZTHBOV3DVJFXFIHRQFI6QDZTBE/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T10:21-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/actualites/politique/2026/09/06/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi-ZTHBOV3DVJFXFIHRQFI6QDZTBE/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T10:21-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/politique/2026/09/06/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi-ZTHBOV3DVJFXFIHRQFI6QDZTBE/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T10:21-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/politique/2026/09/06/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi-ZTHBOV3DVJFXFIHRQFI6QDZTBE/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T10:21-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/09/06/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi-ZTHBOV3DVJFXFIHRQFI6QDZTBE/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T10:21-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/politique/2026/09/06/christine-frechette-convoque-une-reunion-speciale-de-son-conseil-des-ministres-lundi-ZTHBOV3DVJFXFIHRQFI6QDZTBE/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T10:21-04:00"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-06T05:31-04:00",
+   "horodate": "2026-09-06T10:19-04:00",
    "permalien": "christine-frechette-reunit-son-conseil-des-ministres-en-plei-76537b",
    "image_auto": "aucune",
    "_volet": "elections",
@@ -662,6 +711,353 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-06.json",
    "_slug": "quebec-solidaire-propose-une-taxe-de-1-a-2-sur-les-grandes-f-df5cc1"
+  },
+  {
+   "titre": "Le PCQ promet 100 $ par année aux familles sous 100 000 $ et un droit inscrit à la loi pour le jeu libre des enfants",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "LaPresse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/duhaime-veut-donner-100-par-personne-pour-bouger.php",
+   "resume": "Reste à savoir quelles règles municipales ce changement au Code civil rendrait caduques.",
+   "sources": [
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-06/duhaime-veut-donner-100-par-personne-pour-bouger.php",
+     "auteur": "Charles Lecavalier",
+     "date": "2026-09-06T10:19-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:19-04:00",
+   "permalien": "le-pcq-promet-100-par-annee-aux-familles-sous-100-000-et-un-aa31a0",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "le-pcq-promet-100-par-annee-aux-familles-sous-100-000-et-un-aa31a0"
+  },
+  {
+   "titre": "La brûlure bactérienne a déjà fait abattre un verger à Sainte-Famille",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Sainte-Famille, île d'Orléans (Capitale-Nationale)",
+   "medias": "Autour de l'île",
+   "url": "https://autourdelile.com/2026/09/la-brulure-bacterienne-une-menace-pour-les-pommiers/",
+   "resume": "Reste à savoir quelles variétés tiennent le coup, et ce qu'un verger rasé laisse derrière.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "Autour de l'île",
+     "url": "https://autourdelile.com/2026/09/la-brulure-bacterienne-une-menace-pour-les-pommiers/",
+     "auteur": "Marc Cochrane",
+     "date": "2026-09-06T10:16-04:00"
+    }
+   ],
+   "permalien": "la-brulure-bacterienne-a-deja-fait-abattre-un-verger-a-saint-ecae54",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "la-brulure-bacterienne-a-deja-fait-abattre-un-verger-a-saint-ecae54"
+  },
+  {
+   "titre": "La chasse au gibier ouvre le 19 septembre à l'île d'Orléans",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Île d'Orléans (Capitale-Nationale)",
+   "medias": "Autour de l'île",
+   "url": "https://autourdelile.com/2026/09/debut-de-la-saison-de-la-chasse-a-lile-dorleans-3/",
+   "resume": "Deux mois durant lesquels les sentiers de l'île ne sont plus tout à fait à tous.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "Autour de l'île",
+     "url": "https://autourdelile.com/2026/09/debut-de-la-saison-de-la-chasse-a-lile-dorleans-3/",
+     "date": "2026-09-06T10:16-04:00",
+     "auteur": "Marc Cochrane"
+    }
+   ],
+   "permalien": "la-chasse-au-gibier-ouvre-le-19-septembre-a-l-ile-d-orleans-7f9888",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "la-chasse-au-gibier-ouvre-le-19-septembre-a-l-ile-d-orleans-7f9888"
+  },
+  {
+   "titre": "Le pari country de Saint-Calixte, six mille spectateurs pour une première",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Saint-Calixte (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/sports/6-000-personnes-pour-le-rodeo-de-saint-calixte/",
+   "resume": "Ce qui a surpris les organisateurs n'était pas le rodéo, mais le plancher de danse trop petit.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/sports/6-000-personnes-pour-le-rodeo-de-saint-calixte/",
+     "auteur": "Raphaël Isselet",
+     "date": "2026-09-06T10:16-04:00"
+    }
+   ],
+   "permalien": "le-pari-country-de-saint-calixte-six-mille-spectateurs-pour-dd390c",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "le-pari-country-de-saint-calixte-six-mille-spectateurs-pour-dd390c"
+  },
+  {
+   "titre": "Mascouche verra pousser une épicerie et une pharmacie sur l'avenue de l'Esplanade",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Mascouche (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/montoni-superc-jean-coutu-mascouche/",
+   "resume": "Cent trente emplois annoncés, et un promoteur qui parle déjà d'ouvrir vite.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/montoni-superc-jean-coutu-mascouche/",
+     "auteur": "Alec Brideau",
+     "date": "2026-09-03T00:00-04:00"
+    }
+   ],
+   "permalien": "mascouche-verra-pousser-une-epicerie-et-une-pharmacie-sur-l-76ff15",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "mascouche-verra-pousser-une-epicerie-et-une-pharmacie-sur-l-76ff15"
+  },
+  {
+   "titre": "Mascouche comble un poste de direction générale adjointe laissé vacant depuis des années",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Mascouche (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/echos-du-conseil-de-mascouche-du-31-aout/",
+   "resume": "Le même conseil a ajouté quatorze millions et demi à la facture d'un seul chemin.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/echos-du-conseil-de-mascouche-du-31-aout/",
+     "auteur": "Raphaël Isselet",
+     "date": "2026-09-06T10:16-04:00"
+    }
+   ],
+   "permalien": "mascouche-comble-un-poste-de-direction-generale-adjointe-lai-a0cbe5",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "mascouche-comble-un-poste-de-direction-generale-adjointe-lai-a0cbe5"
+  },
+  {
+   "titre": "Des riverains de la rue Notre-Dame réclament un feu de circulation à Repentigny",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Repentigny (Lanaudière)",
+   "medias": "Hebdo Rive Nord",
+   "url": "https://www.hebdorivenord.com/article/actualites/les-residents-demandent-de-laide-2/",
+   "resume": "Les pièces sont déjà en place, mais aucun feu n'éclaire encore la traverse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "Hebdo Rive Nord",
+     "url": "https://www.hebdorivenord.com/article/actualites/les-residents-demandent-de-laide-2/",
+     "auteur": "Pierre Chartier",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "des-riverains-de-la-rue-notre-dame-reclament-un-feu-de-circu-ba437a",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "des-riverains-de-la-rue-notre-dame-reclament-un-feu-de-circu-ba437a"
+  },
+  {
+   "titre": "Neuf cents enfants repartent avec des fournitures scolaires dans la MRC de L'Assomption",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "MRC de L'Assomption (Lanaudière)",
+   "medias": "Hebdo Rive Nord",
+   "url": "https://www.hebdorivenord.com/article/actualites/operation-sacs-a-dos-900-enfants-combles/",
+   "resume": "Le total de toute l'année dernière a été atteint en trois jours de distribution.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "Hebdo Rive Nord",
+     "url": "https://www.hebdorivenord.com/article/actualites/operation-sacs-a-dos-900-enfants-combles/",
+     "auteur": "Pierre Chartier",
+     "date": "2026-09-06T10:16-04:00"
+    }
+   ],
+   "permalien": "neuf-cents-enfants-repartent-avec-des-fournitures-scolaires-345d01",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "neuf-cents-enfants-repartent-avec-des-fournitures-scolaires-345d01"
+  },
+  {
+   "titre": "Le Cégep de Lanaudière approche les 7 600 étudiants après une hausse de près de 10 %",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Lanaudière",
+   "medias": "Hebdo Rive Nord",
+   "url": "https://www.hebdorivenord.com/article/actualites/10-detudiants-supplementaire-au-cegep-de-lanaudiere/",
+   "resume": "Deuxième rentrée record d'affilée, dans une région qui voyait venir sa poussée démographique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "Hebdo Rive Nord",
+     "url": "https://www.hebdorivenord.com/article/actualites/10-detudiants-supplementaire-au-cegep-de-lanaudiere/",
+     "date": "2026-09-06T10:16-04:00"
+    }
+   ],
+   "permalien": "le-cegep-de-lanaudiere-approche-les-7-600-etudiants-apres-un-2733cf",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "le-cegep-de-lanaudiere-approche-les-7-600-etudiants-apres-un-2733cf"
+  },
+  {
+   "titre": "RDP-PAT autorise deux projets résidentiels et veut garder le tunnelier Lisette en activité",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Rivière-des-Prairies–Pointe-aux-Trembles (Montréal)",
+   "medias": "Ville de Montréal",
+   "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-rdp-pat-du-1er-septembre-2026-119810",
+   "resume": "Une machine à percer des tunnels que des élus refusent de voir remisée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/actualites/faits-saillants-du-conseil-darrondissement-de-rdp-pat-du-1er-septembre-2026-119810",
+     "date": "2026-09-04T10:13-04:00"
+    }
+   ],
+   "permalien": "rdp-pat-autorise-deux-projets-residentiels-et-veut-garder-le-720e46",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "rdp-pat-autorise-deux-projets-residentiels-et-veut-garder-le-720e46"
+  },
+  {
+   "titre": "Verdun réclame de nouveau une école secondaire pour L'Île-des-Sœurs",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "L'Île-des-Sœurs, Verdun (Montréal)",
+   "medias": "Nouvelles d'Ici",
+   "url": "https://nouvellesdici.com/actu/conseil-de-verdun-1er-septembre-demande-dengagement-ferme-pour-une-ecole-secondaire-a-lids-demandes-pour-les-candidats-et-candidates-aux-elections-et-entraves-annoncees-pour-le-c/",
+   "resume": "Deux écoles primaires sur l'île, et rien du tout après la sixième année.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "Nouvelles d'Ici",
+     "url": "https://nouvellesdici.com/actu/conseil-de-verdun-1er-septembre-demande-dengagement-ferme-pour-une-ecole-secondaire-a-lids-demandes-pour-les-candidats-et-candidates-aux-elections-et-entraves-annoncees-pour-le-c/",
+     "auteur": "Raphaël Gendron-Martin",
+     "date": "2026-09-06T10:16-04:00"
+    }
+   ],
+   "permalien": "verdun-reclame-de-nouveau-une-ecole-secondaire-pour-l-ile-de-6ad34d",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "verdun-reclame-de-nouveau-une-ecole-secondaire-pour-l-ile-de-6ad34d"
+  },
+  {
+   "titre": "Cinq ans d'éclairage pour l'ancienne grue à charbon de la rue Saint-Patrick, à LaSalle",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "LaSalle (Montréal)",
+   "medias": "Nouvelles d'Ici",
+   "url": "https://nouvellesdici.com/actu/grue-lasalle-coke-illuminee-et-revalorisee-pour-les-200-ans-du-canal-de-lachine/",
+   "resume": "Ce que ce bras d'acier déchargeait avant de devenir un monument, et qui paie la note.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "Nouvelles d'Ici",
+     "url": "https://nouvellesdici.com/actu/grue-lasalle-coke-illuminee-et-revalorisee-pour-les-200-ans-du-canal-de-lachine/",
+     "auteur": "Théo Bou Eid",
+     "date": "2026-09-06T10:16-04:00"
+    }
+   ],
+   "permalien": "cinq-ans-d-eclairage-pour-l-ancienne-grue-a-charbon-de-la-ru-0f7bd1",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "cinq-ans-d-eclairage-pour-l-ancienne-grue-a-charbon-de-la-ru-0f7bd1"
+  },
+  {
+   "titre": "Une garderie confie à un site d'intelligence artificielle la photo de finissante d'une enfant",
+   "cahier": "montreal",
+   "rubrique": "technologies",
+   "territoire": "Montréal",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/parents-upset-after-daycare-used-ai-site-for-daughters-grad-pic-without-consent/",
+   "resume": "Ses parents avaient refusé Facebook, mais c'est le château en arrière-plan qui les a alertés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/parents-upset-after-daycare-used-ai-site-for-daughters-grad-pic-without-consent/",
+     "auteur": "Denise Roberts",
+     "date": "2026-09-06T10:16-04:00"
+    }
+   ],
+   "permalien": "une-garderie-confie-a-un-site-d-intelligence-artificielle-la-2b8c4e",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "une-garderie-confie-a-un-site-d-intelligence-artificielle-la-2b8c4e"
+  },
+  {
+   "titre": "L'escouade des incendies criminels du SPVM enquête sur deux VUS brûlés la même nuit",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Saint-Léonard (Montréal), Montréal-Est",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/arson-squad-investigating-2-vehicle-fires-at-2-residences-40-minutes-apart/",
+   "resume": "Quinze kilomètres et quarante minutes séparent les deux résidences, et la police ne conclut rien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T10:16-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/arson-squad-investigating-2-vehicle-fires-at-2-residences-40-minutes-apart/",
+     "date": "2026-09-06T10:16-04:00"
+    }
+   ],
+   "permalien": "l-escouade-des-incendies-criminels-du-spvm-enquete-sur-deux-6fbfef",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-06.json",
+   "_slug": "l-escouade-des-incendies-criminels-du-spvm-enquete-sur-deux-6fbfef"
   },
   {
    "titre": "L'armée ukrainienne dit avoir neutralisé un radar et un système de brouillage russes dans la région de Bryansk",
@@ -3542,9 +3938,9 @@
   {
    "titre": "Céline Dion entame une série de vingt-six concerts à Paris, dans une industrie du spectacle vivant en pleine surenchère",
    "cahier": "savoirs",
-   "rubrique": "culture",
+   "rubrique": "idees",
    "territoire": "France, États-Unis",
-   "medias": "franceinfo",
+   "medias": "franceinfo, La Presse, Radio-Canada",
    "url": "https://www.franceinfo.fr/culture/megaconcerts-residences-l-industrie-du-live-repousse-ses-limites_8177453.html",
    "resume": "Metallica cumule une vingtaine de représentations à la Sphere de Las Vegas, Orelsan quinze à l'Accor Arena.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Celine_Dion_Concert_Singing_%27Taking_Chances%27_2008.jpg/1280px-Celine_Dion_Concert_Singing_%27Taking_Chances%27_2008.jpg",
@@ -3556,6 +3952,17 @@
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/culture/megaconcerts-residences-l-industrie-du-live-repousse-ses-limites_8177453.html",
      "date": "2026-09-05T16:15-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/musique/2026-09-03/paris/devant-l-hotel-de-celine-dion-des-fans-a-l-affut-d-une-vedette-qui-aime-son-public.php",
+     "auteur": "Fanny Lattach avec Eliott Nail et Paul Edon",
+     "date": "2026-09-03"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2279602/celine-dion-retour-scene-paris-determination",
+     "date": "2026-09-03"
     }
    ],
    "horodate": "2026-09-05T16:08-04:00",
@@ -3567,7 +3974,7 @@
   {
    "titre": "Un homme de 41 ans est hospitalisé après avoir tenté de traiter lui-même son incontinence urinaire",
    "cahier": "savoirs",
-   "rubrique": "sante",
+   "rubrique": "sciences",
    "territoire": "",
    "medias": "Futura",
    "url": "https://www.futura-sciences.com/sante/actualites/vessie-patient-bizarre-stopper-fuites-urinaires-il-injecte-glue-uretre-finit-hopital-137517/",
@@ -3907,7 +4314,7 @@
   {
    "titre": "Le procès de Lindsey Clancy aux États-Unis relance l'attention sur la psychose post-partum au Québec",
    "cahier": "savoirs",
-   "rubrique": "sante",
+   "rubrique": "sciences",
    "territoire": "",
    "medias": "Le Devoir",
    "url": "https://www.ledevoir.com/actualites/sante/1006868/proces-lindsey-clancy-etats-unis-braque-projecteurs-psychose-post-partum",
@@ -4627,6 +5034,846 @@
    "_volet": "report",
    "_fichier": "revue-report-2026-09-06.json",
    "_slug": "le-pequiste-francois-gariepy-s-excuse-pour-ses-propos-regret-7696e5"
+  },
+  {
+   "titre": "Sophie Adenot réalise une troisième sortie spatiale en deux semaines, aux commandes d'un duo entièrement féminin",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/sciences/technologie-innovation/pour-sophie-adenot-une-troisieme-sortie-dans-lespace-100-feminine-20260901_TFF3QRDKYFHSBCPCMC6BJLSCTE/",
+   "resume": "Chaque mouvement du bras y coûte une dépense d'énergie qu'aucune préparation au sol ne peut vraiment simuler.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/sciences/technologie-innovation/pour-sophie-adenot-une-troisieme-sortie-dans-lespace-100-feminine-20260901_TFF3QRDKYFHSBCPCMC6BJLSCTE/",
+     "date": "2026-09-01",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "sophie-adenot-realise-une-troisieme-sortie-spatiale-en-deux-3dc687",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "sophie-adenot-realise-une-troisieme-sortie-spatiale-en-deux-3dc687"
+  },
+  {
+   "titre": "Une fuite détectée sur une capsule Crew Dragon retarde le retour de Sophie Adenot sur Terre",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "Mac4Ever",
+   "url": "https://www.mac4ever.com/divers/197798-ce-probleme-pourrait-prolonger-le-sejour-de-sophie-adenot-dans-l-iss",
+   "resume": "Tant que son équipage de relève n'a pas décollé, la Française et ses coéquipiers restent cloués à bord.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/SpaceX_Crew_1_capsule_window_view.jpg/1280px-SpaceX_Crew_1_capsule_window_view.jpg",
+   "legende": "Vue depuis le hublot d'une capsule Crew Dragon (image d'illustration, mission Crew-1).",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197798-ce-probleme-pourrait-prolonger-le-sejour-de-sophie-adenot-dans-l-iss",
+     "auteur": "Vincent Lautier",
+     "date": "2026-09-01"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "NASA",
+   "photo_licence": "Domaine public",
+   "permalien": "une-fuite-detectee-sur-une-capsule-crew-dragon-retarde-le-re-d4807d",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "une-fuite-detectee-sur-une-capsule-crew-dragon-retarde-le-re-d4807d"
+  },
+  {
+   "titre": "SpaceX et Blue Origin boudent le sommet spatial organisé par Emmanuel Macron",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "France",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/economie/spacex-et-blue-origin-boycottent-le-sommet-spatial-de-macron-sous-lamicale-pression-de-trump-20260904_OC4L2GQN2NHXXFSXMDHDAJMX6U/",
+   "resume": "Une absence remarquée qui en dit long sur les tensions commerciales entre Paris et Washington.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_Origin_New_Glenn_Rocket_Successful_Launch_%289387522%29.jpg/1280px-Blue_Origin_New_Glenn_Rocket_Successful_Launch_%289387522%29.jpg",
+   "legende": "Décollage d'une fusée New Glenn de Blue Origin (image d'illustration).",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/spacex-et-blue-origin-boycottent-le-sommet-spatial-de-macron-sous-lamicale-pression-de-trump-20260904_OC4L2GQN2NHXXFSXMDHDAJMX6U/",
+     "date": "2026-09-04",
+     "auteur": "Jean-Christophe Féraud"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "U.S. Space Force / Samuel Becker",
+   "photo_licence": "Domaine public",
+   "permalien": "spacex-et-blue-origin-boudent-le-sommet-spatial-organise-par-96d4af",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "spacex-et-blue-origin-boudent-le-sommet-spatial-organise-par-96d4af"
+  },
+  {
+   "titre": "La NASA choisit Blue Origin pour bâtir son futur réseau de télécommunications sur Mars",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "États-Unis",
+   "medias": "NASA",
+   "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+   "resume": "Un contrat qui doit garantir aux missions martiennes une liaison constante avec la Terre, même à distance maximale.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Mars_Reconnaissance_Orbiter_spacecraft_model.png/1280px-Mars_Reconnaissance_Orbiter_spacecraft_model.png",
+   "legende": "Maquette de Mars Reconnaissance Orbiter, l'un des relais actuels des télécommunications martiennes.",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+     "date": "2026-09-02"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "NASA",
+   "photo_licence": "Domaine public",
+   "permalien": "la-nasa-choisit-blue-origin-pour-batir-son-futur-reseau-de-t-543167",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "la-nasa-choisit-blue-origin-pour-batir-son-futur-reseau-de-t-543167"
+  },
+  {
+   "titre": "Un urinoir anti-éclaboussures et mille culottes enterrées remportent les prix Ig Nobel 2026",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Suisse",
+   "medias": "Nature, Libération, franceinfo",
+   "url": "https://www.nature.com/articles/d41586-026-02650-x",
+   "resume": "La cérémonie récompense aussi une équipe montréalaise qui a transformé une trompe de moustique en buse d'impression 3D.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/36th_Ig_Nobel_Prize_Ceremony_Zurich.jpg_51.jpg/1280px-36th_Ig_Nobel_Prize_Ceremony_Zurich.jpg_51.jpg",
+   "legende": "La cérémonie des Ig Nobel, dont l'édition 2026 s'est tenue à Zurich.",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02650-x",
+     "auteur": "Chris Simms",
+     "date": "2026-09-04"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/sciences/bols-de-bonbons-et-individualisme-des-riches-urinoirs-anti-eclaboussures-les-anti-nobel-decernent-leurs-prix-2026-20260904_NM7WMGDFHRE47ARCJCCU7UNR4I/",
+     "date": "2026-09-04",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/urinoir-anti-eclaboussure-tests-sur-les-serpents-les-ig-nobel-recompensent-la-science-qui-fait-rire-et-reflechir_8168357.html",
+     "date": "2026-09-04"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "Albinfo",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "un-urinoir-anti-eclaboussures-et-mille-culottes-enterrees-re-63b0f6",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "un-urinoir-anti-eclaboussures-et-mille-culottes-enterrees-re-63b0f6"
+  },
+  {
+   "titre": "Une thérapie immunitaire fabriquée à l'intérieur du corps atténue les symptômes de la sclérose en plaques",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-02765-1",
+   "resume": "Seize personnes ont participé à cet essai préliminaire, et la preuve n'est pas encore faite, préviennent les chercheurs.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02765-1",
+     "auteur": "Rachel Fieldhouse",
+     "date": "2026-09-03"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "une-therapie-immunitaire-fabriquee-a-l-interieur-du-corps-at-8be6ec",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "une-therapie-immunitaire-fabriquee-a-l-interieur-du-corps-at-8be6ec"
+  },
+  {
+   "titre": "Un composé des champignons hallucinogènes protège des souris contre un effet secondaire redouté de la chimiothérapie",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "États-Unis",
+   "medias": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-02744-6",
+   "resume": "Aucun voyage psychédélique n'est nécessaire : une version non hallucinogène de la molécule produit le même effet protecteur.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Psilocybe_semilanceata_1.jpg/1280px-Psilocybe_semilanceata_1.jpg",
+   "legende": "Psilocybe semilanceata, l'une des espèces de champignons contenant le composé étudié.",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02744-6",
+     "auteur": "Max Kozlov",
+     "date": "2026-09-03"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "Scienceman71",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "un-compose-des-champignons-hallucinogenes-protege-des-souris-2a282b",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "un-compose-des-champignons-hallucinogenes-protege-des-souris-2a282b"
+  },
+  {
+   "titre": "Une étude portant sur un million de personnes relie les traits de personnalité à des variants génétiques",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-02761-5",
+   "resume": "Le principal auteur prévient qu'il est inutile de deviner le caractère de quelqu'un par son génome.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02761-5",
+     "auteur": "Ewen Callaway",
+     "date": "2026-09-02"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "une-etude-portant-sur-un-million-de-personnes-relie-les-trai-17938e",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "une-etude-portant-sur-un-million-de-personnes-relie-les-trai-17938e"
+  },
+  {
+   "titre": "Le médicament approuvé contre le cancer du pancréas montre aussi des résultats prometteurs contre le cancer du poumon",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "États-Unis",
+   "medias": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-02745-5",
+   "resume": "Dans un petit essai, plus du tiers des tumeurs ont rétréci, mais les résistances restent mal comprises.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02745-5",
+     "auteur": "Heidi Ledford",
+     "date": "2026-09-02"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "le-medicament-approuve-contre-le-cancer-du-pancreas-montre-a-290708",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "le-medicament-approuve-contre-le-cancer-du-pancreas-montre-a-290708"
+  },
+  {
+   "titre": "Une prépublication qui a modifié presque chaque lettre d'un génome viral prend l'intelligence artificielle en défaut",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Royaume-Uni",
+   "medias": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-02609-y",
+   "resume": "Les meilleurs modèles d'IA biologique n'ont pas su prédire l'effet d'un quart de ces mutations sur le virus.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02609-y",
+     "auteur": "Ewen Callaway",
+     "date": "2026-09-01"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "une-prepublication-qui-a-modifie-presque-chaque-lettre-d-un-bc65ea",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "une-prepublication-qui-a-modifie-presque-chaque-lettre-d-un-bc65ea"
+  },
+  {
+   "titre": "Un modèle d'intelligence artificielle promet un jour de préavis supplémentaire face aux cyclones tropicaux",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-02643-w",
+   "resume": "Cette précision accrue pourrait sauver des vies, à condition d'être partagée avec tous les pays exposés.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Turbulent_Tropical_Skies.jpg/1280px-Turbulent_Tropical_Skies.jpg",
+   "legende": "Image satellite d'un système tropical (illustration).",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02643-w",
+     "auteur": "Tom Beucler et Milton Gomez",
+     "date": "2026-09-04"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "NASA Earth Observatory / Joshua Stevens",
+   "photo_licence": "Domaine public",
+   "permalien": "un-modele-d-intelligence-artificielle-promet-un-jour-de-prea-7aaff9",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "un-modele-d-intelligence-artificielle-promet-un-jour-de-prea-7aaff9"
+  },
+  {
+   "titre": "Une équipe de l'Université Laval identifie une protéine essentielle à la survie du parasite de la malaria",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Québec",
+   "medias": "Université Laval",
+   "url": "https://nouvelles.ulaval.ca/2026/09/03/une-nouvelle-cible-therapeutique-prometteuse-contre-la-malaria-b8b3a33d-bb18-4882-8d14-09dc6eca35b6",
+   "resume": "La protéine agit comme un aiguillage cellulaire que le parasite ne peut plus suivre pour se nourrir.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Plasmodium_falciparum_rings_form_parasites4885_lores.jpg",
+   "legende": "Le parasite Plasmodium falciparum (en anneau) dans des globules rouges, vu au microscope.",
+   "sources": [
+    {
+     "media": "Université Laval",
+     "url": "https://nouvelles.ulaval.ca/2026/09/03/une-nouvelle-cible-therapeutique-prometteuse-contre-la-malaria-b8b3a33d-bb18-4882-8d14-09dc6eca35b6",
+     "auteur": "Jasmin Roy",
+     "date": "2026-09-03"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "CDC",
+   "photo_licence": "Domaine public",
+   "permalien": "une-equipe-de-l-universite-laval-identifie-une-proteine-esse-64fa27",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "une-equipe-de-l-universite-laval-identifie-une-proteine-esse-64fa27"
+  },
+  {
+   "titre": "Une étude de l'Université McGill chiffre le risque que les incendies de forêt font peser sur les patients dialysés",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Canada",
+   "medias": "Université McGill",
+   "url": "https://www.mcgill.ca/newsroom/fr/channels/news/les-feux-de-foret-menacent-de-plus-en-plus-les-soins-de-dialyse-de-milliers-de-personnes-au-canada-374235",
+   "resume": "Près des deux tiers des centres d'hémodialyse du pays se trouvent en zone à risque élevé ou extrême.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Wildfire_Smoke_over_Canada_%28MODIS_2024-07-03%29.jpg/1280px-Wildfire_Smoke_over_Canada_%28MODIS_2024-07-03%29.jpg",
+   "legende": "Panache de fumée de feux de forêt canadiens vu par satellite (image d'archive).",
+   "sources": [
+    {
+     "media": "Université McGill",
+     "url": "https://www.mcgill.ca/newsroom/fr/channels/news/les-feux-de-foret-menacent-de-plus-en-plus-les-soins-de-dialyse-de-milliers-de-personnes-au-canada-374235",
+     "date": "2026-09-03"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "NASA GSFC / MODIS Land Rapid Response Team",
+   "photo_licence": "Domaine public",
+   "permalien": "une-etude-de-l-universite-mcgill-chiffre-le-risque-que-les-i-113d29",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "une-etude-de-l-universite-mcgill-chiffre-le-risque-que-les-i-113d29"
+  },
+  {
+   "titre": "Des chercheurs percent le secret de la spirale que forme un bébé serpent à l'intérieur de son œuf",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Canada",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/sciences/la-spirale-secrete-des-bebes-serpents_8177711.html",
+   "resume": "Cette gymnastique embryonnaire pourrait éclairer bien d'autres mystères de l'organisation du vivant, veut croire un spécialiste.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sciences/la-spirale-secrete-des-bebes-serpents_8177711.html",
+     "date": "2026-09-05"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "des-chercheurs-percent-le-secret-de-la-spirale-que-forme-un-262cdd",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "des-chercheurs-percent-le-secret-de-la-spirale-que-forme-un-262cdd"
+  },
+  {
+   "titre": "Le nord-est de la Thaïlande s'impose comme un haut lieu mondial de la recherche sur les dinosaures",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Thaïlande",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/sciences/en-thailande-la-ruee-des-chercheurs-et-des-touristes-vers-le-jurassic-park-de-lisan-20260903_L4GVYXS4CRFTLAT7G2MADQO2JE/",
+   "resume": "Un paléontologue thaïlandais résume son rêve avec humour : qu'un jour, un milliardaire finance enfin ses fouilles.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/sciences/en-thailande-la-ruee-des-chercheurs-et-des-touristes-vers-le-jurassic-park-de-lisan-20260903_L4GVYXS4CRFTLAT7G2MADQO2JE/",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-03"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "le-nord-est-de-la-thailande-s-impose-comme-un-haut-lieu-mond-970ba3",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "le-nord-est-de-la-thailande-s-impose-comme-un-haut-lieu-mond-970ba3"
+  },
+  {
+   "titre": "Apple accuse OpenAI d'avoir détruit des preuves dans leur bataille judiciaire sur des secrets commerciaux",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+   "resume": "La rivalité entre les deux géants de l'intelligence artificielle se règle désormais devant un tribunal américain.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+     "date": "2026-09-01",
+     "auteur": "Emma Roth"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "apple-accuse-openai-d-avoir-detruit-des-preuves-dans-leur-ba-07f238",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "apple-accuse-openai-d-avoir-detruit-des-preuves-dans-leur-ba-07f238"
+  },
+  {
+   "titre": "ChatGPT, Claude et Grok tombent en panne au même moment, révélant une dépendance à surveiller",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/panne-mondiale-de-lia-generative-chatgpt-claude-et-grok-simultanement-hors-service-501148.htm",
+   "resume": "Les directions informatiques découvrent à quel point plusieurs services critiques reposent sur les mêmes intelligences artificielles.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/panne-mondiale-de-lia-generative-chatgpt-claude-et-grok-simultanement-hors-service-501148.htm",
+     "date": "2026-09-03"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "chatgpt-claude-et-grok-tombent-en-panne-au-meme-moment-revel-06746f",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "chatgpt-claude-et-grok-tombent-en-panne-au-meme-moment-revel-06746f"
+  },
+  {
+   "titre": "Washington abandonne son projet de scinder les outils publicitaires de Google",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/antitrust-la-justice-americaine-renonce-au-demantelement-de-lecosysteme-publicitaire-de-google-501139.htm",
+   "resume": "Des mesures d'encadrement remplacent la séparation forcée des outils publicitaires réclamée par les autorités antitrust.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/antitrust-la-justice-americaine-renonce-au-demantelement-de-lecosysteme-publicitaire-de-google-501139.htm",
+     "date": "2026-09-03"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "washington-abandonne-son-projet-de-scinder-les-outils-public-7b7705",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "washington-abandonne-son-projet-de-scinder-les-outils-public-7b7705"
+  },
+  {
+   "titre": "Treize téraoctets de données oubliées par Valve refont surface sur d'anciens serveurs de Steam",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "Korben",
+   "url": "https://korben.info/13-to-de-donnees-de-steam-ont-fuite.html",
+   "resume": "Une version complète et inédite de Left 4 Dead, datant de 2008, se cache dans le lot.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Korben",
+     "url": "https://korben.info/13-to-de-donnees-de-steam-ont-fuite.html",
+     "date": "2026-09-04",
+     "auteur": "Vincent Lautier"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "treize-teraoctets-de-donnees-oubliees-par-valve-refont-surfa-61d4e9",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "treize-teraoctets-de-donnees-oubliees-par-valve-refont-surfa-61d4e9"
+  },
+  {
+   "titre": "Après le fisc et l'Éducation nationale, une cyberattaque paralyse des services du ministère de la Transition écologique",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/politique/cyberattaques-en-france-le-ministere-de-lecologie-touche-a-son-tour-par-une-attaque-informatique-sophistiquee-20260903_6DGRFDK5DBFULINKBYADXX27WM/",
+   "resume": "Plusieurs sites de consultation publique affichent un message de maintenance depuis l'intrusion découverte la semaine précédente.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/politique/cyberattaques-en-france-le-ministere-de-lecologie-touche-a-son-tour-par-une-attaque-informatique-sophistiquee-20260903_6DGRFDK5DBFULINKBYADXX27WM/",
+     "date": "2026-09-03",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "apres-le-fisc-et-l-education-nationale-une-cyberattaque-para-81aa2b",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "apres-le-fisc-et-l-education-nationale-une-cyberattaque-para-81aa2b"
+  },
+  {
+   "titre": "Un pirate de 18 ans, présumé membre du groupe Zerobytes et déjà connu de la justice, est mis en examen",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/societe/police-justice/piratage-du-site-des-impots-un-hacker-presume-du-groupe-zerobytes-mis-en-examen-et-place-en-detention-20260904_JLZWXPXE6FHSZJE7YPSEQ4OE7I/",
+   "resume": "Détenu depuis son arrestation, il avait déjà été mis en examen deux fois pour piratage lorsqu'il était mineur.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/societe/police-justice/piratage-du-site-des-impots-un-hacker-presume-du-groupe-zerobytes-mis-en-examen-et-place-en-detention-20260904_JLZWXPXE6FHSZJE7YPSEQ4OE7I/",
+     "date": "2026-09-04",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "un-pirate-de-18-ans-presume-membre-du-groupe-zerobytes-et-de-d4b2bd",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "un-pirate-de-18-ans-presume-membre-du-groupe-zerobytes-et-de-d4b2bd"
+  },
+  {
+   "titre": "New York impose une interdiction quasi totale de l'intelligence artificielle aux élèves du public jusqu'au lycée",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/economie/economie-numerique/new-york-va-interdire-lia-dans-les-ecoles-publiques-jusquen-troisieme-20260902_63L7BZFENVEKDBGTIKEHL7BDXE/",
+   "resume": "Les chatbots présentés comme des compagnons offrant un soutien psychologique aux jeunes seront eux aussi bannis.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/economie-numerique/new-york-va-interdire-lia-dans-les-ecoles-publiques-jusquen-troisieme-20260902_63L7BZFENVEKDBGTIKEHL7BDXE/",
+     "date": "2026-09-02",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "new-york-impose-une-interdiction-quasi-totale-de-l-intellige-36ccc8",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "new-york-impose-une-interdiction-quasi-totale-de-l-intellige-36ccc8"
+  },
+  {
+   "titre": "La Corée du Sud choisit d'intégrer l'intelligence artificielle directement dans son application de messagerie nationale",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Corée du Sud",
+   "medias": "Mac4Ever",
+   "url": "https://www.mac4ever.com/ia/197780-la-coree-du-sud-offre-l-ia-a-tous-ses-citoyens",
+   "resume": "Entre le laisser-faire américain et la réglementation européenne, Séoul dit vouloir tracer une troisième voie.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/ia/197780-la-coree-du-sud-offre-l-ia-a-tous-ses-citoyens",
+     "date": "2026-08-31",
+     "auteur": "Vincent Lautier"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "la-coree-du-sud-choisit-d-integrer-l-intelligence-artificiel-b5b010",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "la-coree-du-sud-choisit-d-integrer-l-intelligence-artificiel-b5b010"
+  },
+  {
+   "titre": "ChatGPT bascule dans une nouvelle catégorie réglementaire européenne en dépassant 45 millions d'utilisateurs mensuels dans l'UE",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Union européenne",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/regulation-chatgpt-et-reddit-face-au-rouleau-compresseur-du-dsa-500904.htm",
+   "resume": "Reddit et Roblox basculent au même moment sous des obligations renforcées de modération et de transparence.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/regulation-chatgpt-et-reddit-face-au-rouleau-compresseur-du-dsa-500904.htm",
+     "date": "2026-08-31"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "chatgpt-bascule-dans-une-nouvelle-categorie-reglementaire-eu-6fbd67",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "chatgpt-bascule-dans-une-nouvelle-categorie-reglementaire-eu-6fbd67"
+  },
+  {
+   "titre": "Mort d'Ada Yonath, prix Nobel de chimie qui a percé la structure du ribosome malgré des décennies de scepticisme",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Israël",
+   "medias": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-02801-0",
+   "resume": "Ses pairs jugeaient la tâche impossible, mais elle y a consacré l'essentiel d'une carrière commencée dans la pauvreté.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ada_Yonath.jpg",
+   "legende": "Ada Yonath, prix Nobel de chimie 2009.",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02801-0",
+     "auteur": "Georgina Ferry",
+     "date": "2026-09-04"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "Alain Herzog",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "mort-d-ada-yonath-prix-nobel-de-chimie-qui-a-perce-la-struct-96bed4",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "mort-d-ada-yonath-prix-nobel-de-chimie-qui-a-perce-la-struct-96bed4"
+  },
+  {
+   "titre": "Des chercheurs s'inquiètent de voir l'intelligence artificielle uniformiser peu à peu la culture et la pensée",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "",
+   "medias": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-02682-3",
+   "resume": "Un doctorant raconte avoir plusieurs fois l'impression d'avoir déjà lu un article, comme si tout se ressemblait.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02682-3",
+     "auteur": "Matthew Hutson",
+     "date": "2026-09-01"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "des-chercheurs-s-inquietent-de-voir-l-intelligence-artificie-08ed3e",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "des-chercheurs-s-inquietent-de-voir-l-intelligence-artificie-08ed3e"
+  },
+  {
+   "titre": "Qui est responsable des erreurs quand l'intelligence artificielle participe à la rédaction d'un article scientifique",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "",
+   "medias": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-02686-z",
+   "resume": "La question devient urgente à mesure que les revues peinent à définir des règles claires d'attribution des fautes.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Nature",
+     "url": "https://www.nature.com/articles/d41586-026-02686-z",
+     "date": "2026-09-01"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "qui-est-responsable-des-erreurs-quand-l-intelligence-artific-03918e",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "qui-est-responsable-des-erreurs-quand-l-intelligence-artific-03918e"
+  },
+  {
+   "titre": "La justice argentine ordonne la restitution d'une toile spoliée par les nazis, retrouvée grâce à une petite annonce immobilière",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Argentine",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/international/amerique/largentine-restituera-a-lheritiere-dun-galeriste-juif-un-tableau-vole-par-les-nazis-20260905_JE4JIZ7QS5GMJATZ6GEZ3X36GA/",
+   "resume": "Le couple qui détenait l'œuvre y renonce et versera une compensation à des hôpitaux locaux.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/largentine-restituera-a-lheritiere-dun-galeriste-juif-un-tableau-vole-par-les-nazis-20260905_JE4JIZ7QS5GMJATZ6GEZ3X36GA/",
+     "date": "2026-09-05",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "la-justice-argentine-ordonne-la-restitution-d-une-toile-spol-cb7c64",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "la-justice-argentine-ordonne-la-restitution-d-une-toile-spol-cb7c64"
+  },
+  {
+   "titre": "Les bijoux cachés pendant un siècle par l'impératrice Zita dans une banque de Québec sont enfin exposés",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/arts/arts-visuels/2026-09-04/un-tresor-retrouve-un-siecle-de-mystere/les-celebres-bijoux-de-la-famille-habsbourg-exposes-a-quebec.php",
+   "resume": "Le plus précieux, un diamant en forme de poire, aurait appartenu à Charles le Téméraire puis à Napoléon.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Empress_Zita_of_Austria_-_Hungary.jpg",
+   "legende": "L'impératrice Zita de Bourbon-Parme, à qui appartenaient les bijoux.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/arts-visuels/2026-09-04/un-tresor-retrouve-un-siecle-de-mystere/les-celebres-bijoux-de-la-famille-habsbourg-exposes-a-quebec.php",
+     "auteur": "Jean-Christophe Laurence",
+     "date": "2026-09-04"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "Carl Pietzner",
+   "photo_licence": "Domaine public",
+   "permalien": "les-bijoux-caches-pendant-un-siecle-par-l-imperatrice-zita-d-867898",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "les-bijoux-caches-pendant-un-siecle-par-l-imperatrice-zita-d-867898"
+  },
+  {
+   "titre": "Le roi Charles III et Emmanuel Macron inaugurent l'exposition de la tapisserie de Bayeux au British Museum",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Royaume-Uni",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/culture/arts-expos/meilleures-expos/inauguration-royale-de-la-tapisserie-de-bayeux-a-londres_8175473.html",
+   "resume": "Prêtée par la France, l'œuvre millénaire ne sera visible du public britannique qu'à partir du 10 septembre.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tapisserie_de_Bayeux%2C_p1.jpg/1280px-Tapisserie_de_Bayeux%2C_p1.jpg",
+   "legende": "Un fragment de la tapisserie de Bayeux, désormais exposée à Londres.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/arts-expos/meilleures-expos/inauguration-royale-de-la-tapisserie-de-bayeux-a-londres_8175473.html",
+     "auteur": "Gaële Joly",
+     "date": "2026-09-03"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "Inconnu (Musée de Bayeux)",
+   "photo_licence": "Domaine public",
+   "permalien": "le-roi-charles-iii-et-emmanuel-macron-inaugurent-l-expositio-393b8d",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "le-roi-charles-iii-et-emmanuel-macron-inaugurent-l-expositio-393b8d"
+  },
+  {
+   "titre": "Le cours de philosophie donné par Jean-Paul Sartre au lycée pendant l'Occupation ressurgit grâce à un centenaire",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "Philosophie magazine",
+   "url": "https://www.philomag.com/articles/quel-prof-de-philo-ete-jean-paul-sartre-lun-de-ses-anciens-eleves-temoigne",
+   "resume": "Cet ancien élève avait gardé ces notes de cours dans de vieux cartons pendant plus de quatre-vingts ans.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Jean_Paul_Sartre_1967.jpg",
+   "legende": "Jean-Paul Sartre en 1967.",
+   "sources": [
+    {
+     "media": "Philosophie magazine",
+     "url": "https://www.philomag.com/articles/quel-prof-de-philo-ete-jean-paul-sartre-lun-de-ses-anciens-eleves-temoigne",
+     "date": "2026-09-02",
+     "auteur": "Martin Legros et Francois Noudelmann et Octave Larmagnac-Matheron"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "photo_auteur": "T1980",
+   "photo_licence": "CC BY 3.0",
+   "permalien": "le-cours-de-philosophie-donne-par-jean-paul-sartre-au-lycee-56b8cd",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "le-cours-de-philosophie-donne-par-jean-paul-sartre-au-lycee-56b8cd"
+  },
+  {
+   "titre": "Treize classiques du cinéma québécois restaurés par Éléphant deviennent accessibles gratuitement à tous les élèves de la province",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Québec",
+   "medias": "Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/08/31/treize-films-restaures-par-elephant-memoire-du-cinema-quebecois-desormais-offerts-sur-cine-panache",
+   "resume": "Des guides pédagogiques accompagnent chaque œuvre, d'une reconstitution historique de 1839 jusqu'au récit d'enfance de Léolo.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/08/31/treize-films-restaures-par-elephant-memoire-du-cinema-quebecois-desormais-offerts-sur-cine-panache",
+     "auteur": "Bruno Lapointe",
+     "date": "2026-08-31"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "treize-classiques-du-cinema-quebecois-restaures-par-elephant-4f466e",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "treize-classiques-du-cinema-quebecois-restaures-par-elephant-4f466e"
+  },
+  {
+   "titre": "Le cinéma français vit son meilleur mois d'août depuis le début des statistiques en 1980",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/culture/cinema/porte-par-la-canicule-et-les-grosses-productions-le-cinema-a-connu-un-mois-d-aout-record-en-france_8174042.html",
+   "resume": "La fréquentation a doublé par rapport à l'an dernier, dopée par la chaleur et deux superproductions américaines.",
+   "photo": "",
+   "legende": "",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/cinema/porte-par-la-canicule-et-les-grosses-productions-le-cinema-a-connu-un-mois-d-aout-record-en-france_8174042.html",
+     "date": "2026-09-02"
+    }
+   ],
+   "horodate": "2026-09-06T09:46-04:00",
+   "permalien": "le-cinema-francais-vit-son-meilleur-mois-d-aout-depuis-le-de-32f841",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-06.json",
+   "_slug": "le-cinema-francais-vit-son-meilleur-mois-d-aout-depuis-le-de-32f841"
   }
  ]
 }
