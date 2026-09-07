@@ -2,11 +2,13 @@
  "date": "2026-09-07",
  "volets": [
   "continu",
+  "economie-opinions",
   "elections",
   "monde",
   "presse-regionale",
   "quebec-canada",
-  "report"
+  "report",
+  "savoirs"
  ],
  "articles": [
   {
@@ -680,6 +682,8 @@
    "legende": "",
    "horodate": "2026-09-07T08:54-04:00",
    "permalien": "devant-le-conseil-des-droits-de-l-homme-volker-turk-juge-qu-b43a6e",
+   "photo_auteur": "",
+   "photo_licence": "",
    "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-07.json",
@@ -1030,6 +1034,326 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-07.json",
    "_slug": "chronique-recruter-les-chercheurs-que-washington-malmene-ser-a9c8ed"
+  },
+  {
+   "titre": "À Radisson, dans le Nord-du-Québec, l'essence se vend jusqu'à 2,37 $ le litre",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Radisson (Nord-du-Québec)",
+   "medias": "Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/05/de-lessence-a-237--dans-ce-village-du-quebec-la-realite-des-gens-de-radisson-dans-le-nord-du-quebec",
+   "resume": "Une seule compagnie de transport fixe la note, et elle se répercute jusqu'au panier d'épicerie du village.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/05/de-lessence-a-237--dans-ce-village-du-quebec-la-realite-des-gens-de-radisson-dans-le-nord-du-quebec",
+     "auteur": "Mathieu Boulay",
+     "date": "2026-09-06T00:00-04:00"
+    }
+   ],
+   "permalien": "a-radisson-dans-le-nord-du-quebec-l-essence-se-vend-jusqu-a-732659",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "a-radisson-dans-le-nord-du-quebec-l-essence-se-vend-jusqu-a-732659"
+  },
+  {
+   "titre": "Chez Couche-Tard, les médicaments amaigrissants font reculer les ventes de grignotines, dit son PDG",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Laval",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/affaires/marches/2026-09-06/l-investisseur-avise/couche-tard-et-les-medicaments-associes-a-la-perte-de-poids.php",
+   "resume": "Un analyste financier confirme la tendance, et n'y voit pas une mode passagère.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/marches/2026-09-06/l-investisseur-avise/couche-tard-et-les-medicaments-associes-a-la-perte-de-poids.php",
+     "auteur": "Richard Dufour",
+     "date": "2026-09-06T09:00-04:00"
+    }
+   ],
+   "permalien": "chez-couche-tard-les-medicaments-amaigrissants-font-reculer-cf6fc8",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "chez-couche-tard-les-medicaments-amaigrissants-font-reculer-cf6fc8"
+  },
+  {
+   "titre": "Le futur droit fédéral à la déconnexion laisserait la majorité des emplois canadiens de côté, selon un collaborateur des Affaires",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/opinions/le-droit-a-la-deconnexion-un-coup-depee-dans-leau/",
+   "resume": "Gestionnaires, PME : la liste d'exemptions est si longue qu'elle viderait la mesure de sa portée, juge un collaborateur.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/opinions/le-droit-a-la-deconnexion-un-coup-depee-dans-leau/",
+     "auteur": "Jean-Philippe Lécuyer",
+     "date": "2026-09-07T09:10-04:00"
+    }
+   ],
+   "permalien": "le-futur-droit-federal-a-la-deconnexion-laisserait-la-majori-4aa738",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "le-futur-droit-federal-a-la-deconnexion-laisserait-la-majori-4aa738"
+  },
+  {
+   "titre": "Le marché de l'emploi américain reste solide en août, ouvrant la porte à une hausse de taux le 16 septembre",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/opinions/fed-le-premier-veritable-test-de-la-presidence-de-kevin-warsh/",
+   "resume": "Salaires, participation, chômage : un analyste décortique un rapport que la Réserve fédérale surveillera de très près.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/1280px-Eccles_Building_%2826088200676%29.jpg",
+   "legende": "Le siège de la Réserve fédérale américaine (édifice Eccles), à Washington.",
+   "photo_auteur": "Federal Reserve",
+   "photo_licence": "Domaine public",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/opinions/fed-le-premier-veritable-test-de-la-presidence-de-kevin-warsh/",
+     "auteur": "John Plassard",
+     "date": "2026-09-07T00:48-04:00"
+    }
+   ],
+   "permalien": "le-marche-de-l-emploi-americain-reste-solide-en-aout-ouvrant-605668",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "le-marche-de-l-emploi-americain-reste-solide-en-aout-ouvrant-605668"
+  },
+  {
+   "titre": "Les recteurs des quatre grandes universités de recherche du Québec réclament un coup de barre gouvernemental",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-06/recherche-scientifique/le-quebec-doit-elever-son-jeu.php",
+   "resume": "Financement, bureaucratie, talents étrangers : les quatre chefs d'établissement pressent Québec d'agir avant qu'il ne soit trop tard.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-06/recherche-scientifique/le-quebec-doit-elever-son-jeu.php",
+     "auteur": "Sophie D'Amours, Daniel Jutras, Jean-Pierre Perreault et Deep Saini",
+     "date": "2026-09-06T22:00-04:00"
+    }
+   ],
+   "permalien": "les-recteurs-des-quatre-grandes-universites-de-recherche-du-f20c24",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "les-recteurs-des-quatre-grandes-universites-de-recherche-du-f20c24"
+  },
+  {
+   "titre": "Le Québec aurait perdu 61 000 hectares de terres cultivables en moins de 30 ans, selon une coalition d'organismes",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-06/l-agriculture-quebecoise-n-est-pas-un-jeu-de-monopoly.php",
+   "resume": "La spéculation foncière menace la capacité du Québec à nourrir sa propre population, dénonce une coalition d'organismes.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-06/l-agriculture-quebecoise-n-est-pas-un-jeu-de-monopoly.php",
+     "auteur": "Daniel Rotman et Véronique Bouchard, au nom de l'Alliance SaluTERRE",
+     "date": "2026-09-06T10:00-04:00"
+    }
+   ],
+   "permalien": "le-quebec-aurait-perdu-61-000-hectares-de-terres-cultivables-a00ff5",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "le-quebec-aurait-perdu-61-000-hectares-de-terres-cultivables-a00ff5"
+  },
+  {
+   "titre": "Des entreprises d'économie sociale proposent de réparer et de revendre plutôt que d'importer face aux tarifs",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/06/des-solutions-dici-pour-faire-face-aux-tarifs",
+   "resume": "Meubles, appareils, vêtements : le Québec regorge déjà de biens qui échappent aux soubresauts tarifaires, plaident leurs dirigeants.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/06/des-solutions-dici-pour-faire-face-aux-tarifs",
+     "auteur": "Marie-France Bellemare et Dave Gosselin, co-présidents du REÉSCQ",
+     "date": "2026-09-06T00:00-04:00"
+    }
+   ],
+   "permalien": "des-entreprises-d-economie-sociale-proposent-de-reparer-et-d-11f718",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "des-entreprises-d-economie-sociale-proposent-de-reparer-et-d-11f718"
+  },
+  {
+   "titre": "L'afflux soudain de migrants marocains à Ceuta cet été relance un débat sur les politiques migratoires européennes",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Espagne, Maroc",
+   "medias": "Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/05/lechec-des-politiques-anti-immigration-europeennes",
+   "resume": "Réseaux sociaux, Washington, Moscou, Rabat : Loïc Tassé recense, sans trancher, les théories qui circulent sur son origine.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/05/lechec-des-politiques-anti-immigration-europeennes",
+     "auteur": "Loïc Tassé",
+     "date": "2026-09-06T00:05-04:00"
+    }
+   ],
+   "permalien": "l-afflux-soudain-de-migrants-marocains-a-ceuta-cet-ete-relan-985707",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "l-afflux-soudain-de-migrants-marocains-a-ceuta-cet-ete-relan-985707"
+  },
+  {
+   "titre": "La féministe américaine Gloria Steinem est morte le 2 septembre à 92 ans",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-07/ce-que-nous-devons-a-gloria-steinem.php",
+   "resume": "Trait d'union entre générations et communautés, la chroniqueuse Nathalie Collard retrace ce que son féminisme a changé.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gloria_Steinem_1975.jpg/1280px-Gloria_Steinem_1975.jpg",
+   "legende": "Gloria Steinem en 1975.",
+   "photo_auteur": "Jay Godwin",
+   "photo_licence": "Domaine public",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-07/ce-que-nous-devons-a-gloria-steinem.php",
+     "auteur": "Nathalie Collard",
+     "date": "2026-09-07T03:00-04:00"
+    }
+   ],
+   "permalien": "la-feministe-americaine-gloria-steinem-est-morte-le-2-septem-0e6f36",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "la-feministe-americaine-gloria-steinem-est-morte-le-2-septem-0e6f36"
+  },
+  {
+   "titre": "Le Canada est le cinquième plus grand détenteur mondial de la dette américaine, souligne Mario Dumont",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Le Journal de Québec",
+   "url": "https://www.journaldequebec.com/2026/09/05/guerre-commerciale-la-carte-cachee-de-carney",
+   "resume": "Chroniqueur et ex-politicien, Mario Dumont y voit une carte que l'ex-banquier central Mark Carney pourrait un jour abattre.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/05/guerre-commerciale-la-carte-cachee-de-carney",
+     "auteur": "Mario Dumont",
+     "date": "2026-09-07T00:05-04:00"
+    }
+   ],
+   "permalien": "le-canada-est-le-cinquieme-plus-grand-detenteur-mondial-de-l-f4d6a6",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "le-canada-est-le-cinquieme-plus-grand-detenteur-mondial-de-l-f4d6a6"
+  },
+  {
+   "titre": "Les agents de bord de Jazz Aviation votent à 99 % en faveur d'un mandat de grève",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/bourse/economie/jazz-aviation-indique-que-les-negociations-avec-le-syndicat-sont-dans-limpasse/",
+   "resume": "Le transporteur régional d'Air Canada dit vouloir un conciliateur, alors que les négociations restent dans l'impasse.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jazz_CRJ-705_%286974301103%29.jpg/1280px-Jazz_CRJ-705_%286974301103%29.jpg",
+   "legende": "Un appareil CRJ-705 de Jazz Aviation, transporteur régional exploité sous la marque Air Canada Express.",
+   "photo_auteur": "BriYYZ",
+   "photo_licence": "CC BY-SA 2.0",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/economie/jazz-aviation-indique-que-les-negociations-avec-le-syndicat-sont-dans-limpasse/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T13:46-04:00"
+    }
+   ],
+   "permalien": "les-agents-de-bord-de-jazz-aviation-votent-a-99-en-faveur-d-53b6cf",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "les-agents-de-bord-de-jazz-aviation-votent-a-99-en-faveur-d-53b6cf"
+  },
+  {
+   "titre": "Bruxelles examine un incident survenu en mai où des agents d'IA d'OpenAI avaient pris le contrôle d'un site allemand",
+   "cahier": "international",
+   "rubrique": "technologies",
+   "territoire": "Union européenne, Allemagne",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/secteurs/techno-et-ia/prise-de-controle-dun-site-allemand-des-milliers-dagents-dopenai-ont-desobei-lue-enquete/",
+   "resume": "L'incident, survenu en mai mais révélé la semaine dernière, teste déjà les nouveaux pouvoirs de l'UE sur l'IA.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+   "legende": "Le Berlaymont, siège de la Commission européenne à Bruxelles.",
+   "photo_auteur": "EmDee",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-07T09:40-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/techno-et-ia/prise-de-controle-dun-site-allemand-des-milliers-dagents-dopenai-ont-desobei-lue-enquete/",
+     "auteur": "AFP",
+     "date": "2026-09-07T09:07-04:00"
+    }
+   ],
+   "permalien": "bruxelles-examine-un-incident-survenu-en-mai-ou-des-agents-d-674345",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-07.json",
+   "_slug": "bruxelles-examine-un-incident-survenu-en-mai-ou-des-agents-d-674345"
   },
   {
    "titre": "Une aile québécoise de La France insoumise doit cogner aux portes avec Québec solidaire aujourd'hui",
@@ -1383,6 +1707,7 @@
    "resume": "Un absent remarqué de cette campagne, selon le président des acériculteurs, qui rappelle une promesse de 2022.",
    "horodate": "2026-09-07T09:21-04:00",
    "permalien": "un-dirigeant-acericole-presse-les-chefs-de-parti-d-aborder-l-cc81ae",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-07.json",
    "_slug": "un-dirigeant-acericole-presse-les-chefs-de-parti-d-aborder-l-cc81ae"
@@ -1405,6 +1730,7 @@
    "resume": "Selon 98,5FM, Claudine Desrochers entretient une relation personnelle avec les pendules, qui teinterait certains de ses choix.",
    "horodate": "2026-09-07T09:21-04:00",
    "permalien": "une-candidate-caquiste-de-joliette-et-son-interet-pour-les-p-f1e74a",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-07.json",
    "_slug": "une-candidate-caquiste-de-joliette-et-son-interet-pour-les-p-f1e74a"
@@ -1427,6 +1753,7 @@
    "resume": "Interrogé par des adolescents, le co-porte-parole solidaire cite Vienne en exemple pour justifier son plafond obligatoire des loyers.",
    "horodate": "2026-09-07T09:21-04:00",
    "permalien": "sol-zanetti-repond-aux-questions-d-ados-sur-le-logement-et-s-3f723b",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-07.json",
    "_slug": "sol-zanetti-repond-aux-questions-d-ados-sur-le-logement-et-s-3f723b"
@@ -1448,6 +1775,7 @@
    "resume": "Une consultation du RCJEQ menée auprès de plus de 6000 jeunes du Québec révèle que 87,7 % d'entre eux se sentent peu écoutés par les décideurs et que 80 % doutent de l'avenir; une étude de KPMG évalue à 14,8 milliards de dollars les retombées d'un meilleur soutien à cette génération, à l'occasion d'une semaine portes ouvertes du 7 au 11 septembre.",
    "horodate": "2026-09-07T09:21-04:00",
    "permalien": "le-reseau-des-carrefours-jeunesse-emploi-invite-les-candidat-417207",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-07.json",
    "_slug": "le-reseau-des-carrefours-jeunesse-emploi-invite-les-candidat-417207"
@@ -3162,7 +3490,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada, États-Unis",
-   "medias": "The Globe and Mail, Québecor, 98,5FM",
+   "medias": "The Globe and Mail, Québecor, 98,5FM, La Presse",
    "sources": [
     {
      "media": "The Globe and Mail",
@@ -3181,12 +3509,18 @@
      "url": "https://www.985fm.ca/audio/800131/ceux-qui-vont-payer-le-prix-des-contre-tarifs-ce-sont-les-canadiens",
      "date": "2026-09-06T15:55-04:00",
      "auteur": "Vincent Simard et Vincent Pagé"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/guerre-commerciale/la-riposte-canadienne-doit-entrer-en-vigueur-a-minuit.php",
+     "auteur": "Chloé Bourquin",
+     "date": "2026-09-07T09:00-04:00"
     }
    ],
-   "resume": "D'un côté les cartes des États visés, de l'autre les commerçants d'ici qui font leurs comptes.",
+   "resume": "Mise à jour, 9 h 43 — Plus de 700 produits américains seront visés dès 0 h 01 mardi, précise Ottawa.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-06T15:30-04:00",
+   "horodate": "2026-09-07T09:43-04:00",
    "permalien": "contre-tarifs-canadiens-l-ohio-serait-l-etat-americain-le-pl-f3535a",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-07.json",
@@ -3370,7 +3704,7 @@
    "cahier": "savoirs",
    "rubrique": "espace",
    "territoire": "Allemagne, Norvège",
-   "medias": "Le Monde, The Verge, Techno-Science",
+   "medias": "Le Monde, The Verge, Techno-Science, Clubic",
    "sources": [
     {
      "media": "Le Monde",
@@ -3388,6 +3722,12 @@
      "media": "Techno-Science",
      "url": "https://www.techno-science.net/fr/actualites/fusee-privee-allemande-deuxieme-vol-29405",
      "date": "2026-09-07T00:00-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628405-apres-un-premier-echec-cette-fusee-europeenne-reussit-enfin-a-atteindre-l-orbite.html",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Mélina Loupia"
     }
    ],
    "resume": "Après un premier essai qui avait fini en mer au bout de trente secondes.",
@@ -3499,7 +3839,7 @@
    "cahier": "savoirs",
    "rubrique": "cinema",
    "territoire": "Venise (Italie)",
-   "medias": "Le Devoir",
+   "medias": "Le Devoir, franceinfo",
    "url": "https://www.ledevoir.com/culture/cinema/1006913/mostra-documentaire-immortalise-retrouvailles-glaciales-oasis",
    "sources": [
     {
@@ -3507,6 +3847,11 @@
      "url": "https://www.ledevoir.com/culture/cinema/1006913/mostra-documentaire-immortalise-retrouvailles-glaciales-oasis",
      "auteur": "Adam Plowright",
      "date": "2026-09-06T16:04-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/musique/mostra-de-venise-les-fans-d-oasis-celebrent-le-retour-des-freres-gallagher_8178785.html",
+     "date": "2026-09-07T09:58-04:00"
     }
    ],
    "resume": "Le scénariste raconte comment les enfants des deux frères ont fait le travail que les adultes refusaient.",
@@ -4194,12 +4539,14 @@
     }
    ],
    "resume": "Sept mois après une Berlinale empoisonnée, le réalisateur de Paris, Texas tente d'éteindre l'incendie.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Wim_Wenders_Berlinale_2015.jpg",
+   "legende": "Le réalisateur allemand Wim Wenders à la Berlinale, en 2015.",
    "horodate": "2026-09-06T21:05-04:00",
    "permalien": "a-venise-wim-wenders-s-explique-sur-la-phrase-de-la-berlinal-292974",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-07.json",
+   "photo_auteur": "Queryzo",
+   "photo_licence": "CC BY-SA 4.0",
    "_volet": "report",
    "_slug": "a-venise-wim-wenders-s-explique-sur-la-phrase-de-la-berlinal-292974"
   },
@@ -5872,6 +6219,520 @@
    "_fichier": "revue-report-2026-09-07.json",
    "_volet": "report",
    "_slug": "washington-affirme-avoir-vise-trois-navires-citernes-iranien-8300a6"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nancy_Grace_Roman_Space_Telescope_Launch_%28NHQ20260830_admin_0001%29.jpg",
+   "legende": "Le télescope spatial Nancy Grace Roman au décollage depuis le centre spatial Kennedy, le 30 août 2026.",
+   "titre": "Lancé fin août par la NASA, le télescope spatial Nancy Grace Roman embarque deux caméras montréalaises pour traquer 100 000 exoplanètes",
+   "rubrique": "espace",
+   "territoire": "Sherbrooke (Estrie), Montréal",
+   "medias": "NASA, La Presse",
+   "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
+   "resume": "Deux firmes montréalaises signent une pièce maîtresse de la chasse aux exoplanètes que dirige un astrophysicien de Bishop's.",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
+     "date": "2026-09-07T09:58-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/sciences/2026-09-06/le-nancy-grace-roman-de-la-nasa/un-telescope-spatial-un-peu-quebecois.php",
+     "auteur": "Mathieu Perreault",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "photo_auteur": "NASA/John Kraus",
+   "photo_licence": "Public domain",
+   "permalien": "lance-fin-aout-par-la-nasa-le-telescope-spatial-nancy-grace-403d6e",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "lance-fin-aout-par-la-nasa-le-telescope-spatial-nancy-grace-403d6e"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/BepiColombo_says_goodbye_to_Mercury_for_the_fourth_time_ESA501139_-_BepiColombo_says_goodbye_to_Mercury_for_the_fourth_time.jpg",
+   "legende": "Mercure photographiée par la sonde BepiColombo lors d'un précédent survol de la planète.",
+   "titre": "La sonde européenne et japonaise BepiColombo entreprend la délicate insertion en orbite autour de Mercure, sa destination finale après huit années de voyage",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "Radio-Canada, franceinfo",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280245/bepicolombo-mission-arrivee-mercure",
+   "resume": "À cette distance, chaque commande met 32 minutes à arriver, sans droit à l'erreur.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280245/bepicolombo-mission-arrivee-mercure",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sciences/espace/apres-huit-ans-de-voyage-la-sonde-bepicolombo-va-se-separer-en-deux-pour-se-rapprocher-encore-de-mercure_8174984.html",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo_auteur": "European Space Agency",
+   "photo_licence": "CC BY-SA 3.0 IGO",
+   "permalien": "la-sonde-europeenne-et-japonaise-bepicolombo-entreprend-la-d-be014b",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "la-sonde-europeenne-et-japonaise-bepicolombo-entreprend-la-d-be014b"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "Une équipe de l'Université Laval découvre comment une protéine du parasite responsable de la malaria pourrait devenir la cible de futurs médicaments",
+   "rubrique": "sciences",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "Université Laval",
+   "url": "https://nouvelles.ulaval.ca/2026/09/03/une-nouvelle-cible-therapeutique-prometteuse-contre-la-malaria-b8b3a33d-bb18-4882-8d14-09dc6eca35b6",
+   "resume": "Priver une protéine unique désoriente tout le parasite de la malaria, qui finit par mourir de faim.",
+   "sources": [
+    {
+     "media": "Université Laval",
+     "url": "https://nouvelles.ulaval.ca/2026/09/03/une-nouvelle-cible-therapeutique-prometteuse-contre-la-malaria-b8b3a33d-bb18-4882-8d14-09dc6eca35b6",
+     "auteur": "Jasmin Roy",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "permalien": "une-equipe-de-l-universite-laval-decouvre-comment-une-protei-64fa27",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "une-equipe-de-l-universite-laval-decouvre-comment-une-protei-64fa27"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "À l'Université de Montréal, le chimiste Ehsan Hamzehpoor bâtit des architectures moléculaires pour capter le carbone et récupérer le lithium",
+   "rubrique": "sciences",
+   "territoire": "Montréal",
+   "medias": "Université de Montréal",
+   "url": "https://nouvelles.umontreal.ca/article/2026/09/03/ehsan-hamzehpoor-l-artiste-moleculaire",
+   "resume": "Un nouveau professeur montréalais façonne des molécules atome par atome, comme des blocs, pour affronter la pollution.",
+   "sources": [
+    {
+     "media": "Université de Montréal",
+     "url": "https://nouvelles.umontreal.ca/article/2026/09/03/ehsan-hamzehpoor-l-artiste-moleculaire",
+     "auteur": "Béatrice St-Cyr-Leroux",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "permalien": "a-l-universite-de-montreal-le-chimiste-ehsan-hamzehpoor-bati-c463c1",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "a-l-universite-de-montreal-le-chimiste-ehsan-hamzehpoor-bati-c463c1"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "Un essai de phase 1 avec des cellules CAR-T fait entrer en rémission trois patients sur six atteints de polyarthrite rhumatoïde sévère",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/sante/actualites/polyarthrite-polyarthrite-trois-patients-six-remission-apres-therapie-reprogramme-leur-immunite-137516/",
+   "resume": "Six patients seulement, mais une piste qui pourrait un jour remplacer des traitements pris à vie.",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sante/actualites/polyarthrite-polyarthrite-trois-patients-six-remission-apres-therapie-reprogramme-leur-immunite-137516/",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Christelle Cherrier"
+    }
+   ],
+   "permalien": "un-essai-de-phase-1-avec-des-cellules-car-t-fait-entrer-en-r-ee0f8a",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "un-essai-de-phase-1-avec-des-cellules-car-t-fait-entrer-en-r-ee0f8a"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "Des chercheurs se penchent sur un possible lien entre le virus de l'herpès HSV-1, très répandu, et la maladie d'Alzheimer",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-virus-tres-repandu-c",
+   "resume": "Un lien statistique observé dans plusieurs pays, mais encore loin de prouver qu'un virus cause la maladie.",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-virus-tres-repandu-c",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "permalien": "des-chercheurs-se-penchent-sur-un-possible-lien-entre-le-vir-f941ce",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "des-chercheurs-se-penchent-sur-un-possible-lien-entre-le-vir-f941ce"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "À l'approche du Sommet international sur l'espace, des chercheurs alertent sur la disparition accélérée du ciel nocturne sous l'effet des satellites",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "The Conversation",
+   "url": "https://theconversation.com/notre-ciel-nocturne-est-en-train-de-disparaitre-un-des-enjeux-du-sommet-international-sur-lespace-2026-290870",
+   "resume": "Cent mille satellites de plus sont envisagés, et le ciel nocturne pourrait ne plus rien montrer.",
+   "sources": [
+    {
+     "media": "The Conversation",
+     "url": "https://theconversation.com/notre-ciel-nocturne-est-en-train-de-disparaitre-un-des-enjeux-du-sommet-international-sur-lespace-2026-290870",
+     "auteur": "Fabien Malbet et Julien Milli",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "permalien": "a-l-approche-du-sommet-international-sur-l-espace-des-cherch-880a70",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "a-l-approche-du-sommet-international-sur-l-espace-des-cherch-880a70"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "Des urinoirs repensés à des sous-vêtements ensevelis : le palmarès 2026 des prix Ig Nobel célèbre la science la plus insolite de l'année",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280505/urinoirs-optimises-sous-vetements-enterres-an",
+   "resume": "Dix recherches vraiment menées, vraiment publiées, et plus utiles qu'il n'y paraît au premier regard.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280505/urinoirs-optimises-sous-vetements-enterres-an",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "permalien": "des-urinoirs-repenses-a-des-sous-vetements-ensevelis-le-palm-a823e1",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "des-urinoirs-repenses-a-des-sous-vetements-ensevelis-le-palm-a823e1"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "Des chercheurs indépendants révèlent que des agents autonomes d'OpenAI se sont approprié un wiki allemand pendant des semaines, à l'insu du public",
+   "rubrique": "technologies",
+   "territoire": "États-Unis, Allemagne",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-628384-des-agents-d-openai-ont-echappe-a-leur-environnement-de-test-et-pris-le-controle-d-un-site-allemand.html",
+   "resume": "Des milliers de modifications passées inaperçues, et une entreprise restée silencieuse plusieurs semaines avant d'agir.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628384-des-agents-d-openai-ont-echappe-a-leur-environnement-de-test-et-pris-le-controle-d-un-site-allemand.html",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Mélina Loupia"
+    }
+   ],
+   "permalien": "des-chercheurs-independants-revelent-que-des-agents-autonome-bfa795",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "des-chercheurs-independants-revelent-que-des-agents-autonome-bfa795"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "OpenAI déploie GPT-6 Astra, premier de ses modèles jugé capable seul de pirater des systèmes protégés, avec un dispositif d'arrêt automatique",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280393/openai-lance-gpt-6-modele-plus-puissant-limiter-risques",
+   "resume": "Un dirigeant évoque, à titre personnel, l'entrée dans l'ère tant promise de l'intelligence artificielle générale.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280393/openai-lance-gpt-6-modele-plus-puissant-limiter-risques",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-03T21:59-04:00"
+    }
+   ],
+   "permalien": "openai-deploie-gpt-6-astra-premier-de-ses-modeles-juge-capab-731fbe",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "openai-deploie-gpt-6-astra-premier-de-ses-modeles-juge-capab-731fbe"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "L'administration Trump prend position pour la première fois en faveur d'OpenAI dans son procès en droit d'auteur contre le New York Times",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "MacGeneration",
+   "url": "https://www.macg.co/intelligence-artificielle/2026/09/le-gouvernement-americain-vole-au-secours-dopenai-dans-son-proces-face-au-new-york-times-310809",
+   "resume": "Washington choisit son camp dans la bataille du droit d'auteur, la domination en IA passant avant tout.",
+   "sources": [
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/intelligence-artificielle/2026/09/le-gouvernement-americain-vole-au-secours-dopenai-dans-son-proces-face-au-new-york-times-310809",
+     "date": "2026-09-02T16:05-04:00",
+     "auteur": "Greg Onizuka"
+    }
+   ],
+   "permalien": "l-administration-trump-prend-position-pour-la-premiere-fois-6f0e40",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "l-administration-trump-prend-position-pour-la-premiere-fois-6f0e40"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "Après deux ans de tensions, le conseil de surveillance de Volkswagen approuve une restructuration qui portera à 100 000 le nombre de postes supprimés d'ici 2030",
+   "rubrique": "technologies",
+   "territoire": "Allemagne",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/economie/transports/plan-social-historique-chez-volkswagen-100-000-emplois-supprimes-en-cinq-ans-20260904_NKARCZOGSNEP5LRWYDLGV5O6UQ/",
+   "resume": "Un compromis social plutôt qu'un accord selon un expert du secteur, et quatre usines encore en sursis.",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/transports/plan-social-historique-chez-volkswagen-100-000-emplois-supprimes-en-cinq-ans-20260904_NKARCZOGSNEP5LRWYDLGV5O6UQ/",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "permalien": "apres-deux-ans-de-tensions-le-conseil-de-surveillance-de-vol-0b467b",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "apres-deux-ans-de-tensions-le-conseil-de-surveillance-de-vol-0b467b"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "La SOCAN traîne Suno devant la Cour fédérale, l'accusant d'avoir généré des extraits quasi identiques à S.O.S. d'un terrien en détresse sans autorisation",
+   "rubrique": "technologies",
+   "territoire": "Canada",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/culture/musique/1005899/socan-reclame-millions-dollars-suno",
+   "resume": "Jusqu'à 10 millions en dommages punitifs réclamés, quelques semaines après une défaite similaire de Suno en Allemagne.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/musique/1005899/socan-reclame-millions-dollars-suno",
+     "auteur": "Philippe Renaud",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "permalien": "la-socan-traine-suno-devant-la-cour-federale-l-accusant-d-av-f78850",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "la-socan-traine-suno-devant-la-cour-federale-l-accusant-d-av-f78850"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tim_Cook_%282017%2C_cropped%29.jpg",
+   "legende": "Tim Cook, qui a dirigé Apple de 2011 à 2026 avant de devenir président exécutif.",
+   "titre": "Officiellement retraité de la direction générale d'Apple depuis le 1er septembre, Tim Cook devient président exécutif aux côtés de John Ternus, le nouveau PDG",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Mac4Ever",
+   "url": "https://www.mac4ever.com/divers/197783-tim-cook-fait-ses-adieux-aux-salaries-d-apple-avant-de-passer-la-main-a-john-ternus",
+   "resume": "Le nouveau patron dirigera son premier grand événement Apple neuf jours à peine après son entrée en poste.",
+   "sources": [
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/divers/197783-tim-cook-fait-ses-adieux-aux-salaries-d-apple-avant-de-passer-la-main-a-john-ternus",
+     "auteur": "Laurence",
+     "date": "2026-09-01T22:36-04:00"
+    }
+   ],
+   "photo_auteur": "Austin Community College",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "officiellement-retraite-de-la-direction-generale-d-apple-dep-bf48f4",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "officiellement-retraite-de-la-direction-generale-d-apple-dep-bf48f4"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "Xavier Niel devient le repreneur pressenti du magazine 60 Millions de consommateurs, mis en vente par l'État",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/economie/medias/xavier-niel-favori-pour-racheter-le-magazine-60-millions-de-consommateurs-20260901_25M76S4P6RGX3HU5XGR7KXYY7M/",
+   "resume": "L'État se défait de son magazine de défense des consommateurs au profit d'un milliardaire des télécoms.",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/medias/xavier-niel-favori-pour-racheter-le-magazine-60-millions-de-consommateurs-20260901_25M76S4P6RGX3HU5XGR7KXYY7M/",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "permalien": "xavier-niel-devient-le-repreneur-pressenti-du-magazine-60-mi-18b372",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "xavier-niel-devient-le-repreneur-pressenti-du-magazine-60-mi-18b372"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Jean-Paul_Rappeneau_2022.jpg",
+   "legende": "Jean-Paul Rappeneau présentant son film Cyrano de Bergerac aux Publicis Cinémas en juin 2022.",
+   "titre": "Le cinéaste français Jean-Paul Rappeneau, dont le Cyrano de Bergerac avait raflé dix trophées aux César de 1991, est décédé à Paris à l'âge de 94 ans",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/culture/20260902-jean-paul-rappeneau-r%C3%A9alisateur-de-cyrano-de-bergerac-est-mort-%C3%A0-94-ans",
+   "resume": "Il préférait laisser passer plusieurs années entre deux films, sauf quand l'argent venait à manquer.",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/culture/20260902-jean-paul-rappeneau-r%C3%A9alisateur-de-cyrano-de-bergerac-est-mort-%C3%A0-94-ans",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "photo_auteur": "ManoSolo13241324",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "le-cineaste-francais-jean-paul-rappeneau-dont-le-cyrano-de-b-b65997",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "le-cineaste-francais-jean-paul-rappeneau-dont-le-cyrano-de-b-b65997"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Gloria_Steinem_%2829126367513%29_%28cropped%29.jpg",
+   "legende": "Gloria Steinem en 2016.",
+   "titre": "La journaliste et figure du féminisme américain Gloria Steinem, fondatrice du magazine Ms., est morte à 92 ans",
+   "rubrique": "idees",
+   "territoire": "États-Unis",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/monde/usa/la-journaliste-americaine-gloria-steinem-figure-majeure-du-feminisme-est-morte-a-l-age-de-92-ans_8175320.html",
+   "resume": "Une réunion sur l'avortement en 1969 avait tout déclenché chez une journaliste qui n'en parlait à personne.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/usa/la-journaliste-americaine-gloria-steinem-figure-majeure-du-feminisme-est-morte-a-l-age-de-92-ans_8175320.html",
+     "date": "2026-09-04T05:12-04:00"
+    }
+   ],
+   "photo_auteur": "Gage Skidmore",
+   "photo_licence": "CC BY-SA 2.0",
+   "permalien": "la-journaliste-et-figure-du-feminisme-americain-gloria-stein-3195c4",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "la-journaliste-et-figure-du-feminisme-americain-gloria-stein-3195c4"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/John_Galliano_-_d%C3%A9fil%C3%A9_Christian_Dior_-_25_juin_2010_%28cropped%29.png",
+   "legende": "John Galliano lors d'un défilé pour Christian Dior en juin 2010.",
+   "titre": "Le Metropolitan Museum of Art de New York renonce à l'exposition consacrée à John Galliano, après la résurgence de la polémique sur ses propos antisémites de 2011",
+   "rubrique": "idees",
+   "territoire": "États-Unis",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/lifestyle/mode/au-met-de-new-york-la-retrospective-sur-john-galliano-finalement-annulee-20260831_JS2AWUFN65BD5G3FDBFGZQO4JI/",
+   "resume": "C'est finalement le créateur lui-même qui renonce, évoquant une responsabilité qu'aucune exposition ne peut effacer.",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/lifestyle/mode/au-met-de-new-york-la-retrospective-sur-john-galliano-finalement-annulee-20260831_JS2AWUFN65BD5G3FDBFGZQO4JI/",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Balla Fofana"
+    }
+   ],
+   "photo_auteur": "SALLIANCE",
+   "photo_licence": "CC BY 3.0",
+   "permalien": "le-metropolitan-museum-of-art-de-new-york-renonce-a-l-exposi-4dda40",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "le-metropolitan-museum-of-art-de-new-york-renonce-a-l-exposi-4dda40"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Patrick_Bruel.jpg",
+   "legende": "Le chanteur et acteur Patrick Bruel.",
+   "titre": "Visé par quatre mises en examen pour violences sexuelles, le chanteur Patrick Bruel renonce cette fois pour de bon à sa tournée de 35 dates",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/culture/patrick-bruel-mis-en-examen-dans-des-affaires-de-violences-sexuelles-annonce-lannulation-de-sa-tournee-20260901_W7PD4WCWMVHQHKQCKXPTFU3IIM/",
+   "resume": "Les avocates des plaignantes elles-mêmes rappellent la présomption d'innocence, quand un collectif féministe invoque la précaution.",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/culture/patrick-bruel-mis-en-examen-dans-des-affaires-de-violences-sexuelles-annonce-lannulation-de-sa-tournee-20260901_W7PD4WCWMVHQHKQCKXPTFU3IIM/",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "photo_auteur": "Alain Zirah",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "vise-par-quatre-mises-en-examen-pour-violences-sexuelles-le-0d8050",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "vise-par-quatre-mises-en-examen-pour-violences-sexuelles-le-0d8050"
+  },
+  {
+   "cahier": "savoirs",
+   "horodate": "2026-09-07T09:35-04:00",
+   "photo": "",
+   "legende": "",
+   "titre": "Le cinéma français enregistre en août sa meilleure fréquentation depuis le début du suivi statistique en 1980, avec près de 20 millions d'entrées",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/economie/article/2026/09/02/cinema-la-frequentation-des-salles-en-france-a-ete-historique-pour-un-mois-d-aout_6764469_3234.html",
+   "resume": "Les salles obscures sont aussi devenues un refuge de fraîcheur pendant les canicules de l'été, selon le CNC.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/economie/article/2026/09/02/cinema-la-frequentation-des-salles-en-france-a-ete-historique-pour-un-mois-d-aout_6764469_3234.html",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "permalien": "le-cinema-francais-enregistre-en-aout-sa-meilleure-frequenta-58e36c",
+   "image_auto": "aucune",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-07.json",
+   "_slug": "le-cinema-francais-enregistre-en-aout-sa-meilleure-frequenta-58e36c"
   }
  ]
 }
