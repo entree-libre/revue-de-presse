@@ -3140,7 +3140,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada, Le Devoir, Québecor, La Presse, Les Affaires, Coops de l'information, The Globe and Mail",
+   "medias": "Radio-Canada, Le Devoir, Québecor, La Presse, Les Affaires, Coops de l'information, The Globe and Mail, Noovo Info",
    "url": "https://www.youtube.com/watch?v=9MX9NNIhKL0",
    "resume": "Mise à jour, 17 h — Ottawa dément avoir assoupli sa riposte tarifaire, et Duhaime boude la réunion prévue avec Fréchette ce soir.",
    "photo": "",
@@ -3230,6 +3230,11 @@
      "media": "The Globe and Mail",
      "url": "https://www.theglobeandmail.com/canada/article-quebec-premier-warns-of-further-us-retaliation-as-canadian/",
      "date": "2026-09-07T17:31-04:00"
+    },
+    {
+     "media": "Noovo Info",
+     "url": "https://www.youtube.com/watch?v=CGCBk07fDXE",
+     "date": "2026-09-07T17:24-04:00"
     }
    ],
    "image_auto": "aucune",
@@ -3884,6 +3889,104 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-07.json",
    "_slug": "le-candidat-pequiste-de-portneuf-christian-hebert-se-retire-5c193a"
+  },
+  {
+   "titre": "Le Québec a le fardeau fiscal le plus lourd d'Amérique du Nord, mais pas l'imposition nette, nuance une vérification des faits",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281411/la-verif-quebec-taxes-impots-duhaime-elections",
+   "resume": "Le chef conservateur en fait un argument de campagne, mais les calculs racontent une histoire plus nuancée.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281411/la-verif-quebec-taxes-impots-duhaime-elections",
+     "auteur": "Rosalie Sinclair",
+     "date": "2026-09-07T17:53-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T19:20-04:00",
+   "permalien": "le-quebec-a-le-fardeau-fiscal-le-plus-lourd-d-amerique-du-no-0184ec",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "le-quebec-a-le-fardeau-fiscal-le-plus-lourd-d-amerique-du-no-0184ec"
+  },
+  {
+   "titre": "À Hull, les candidats des partis s'opposent sur la hausse du salaire minimum face à l'Ontario",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec (Hull)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281417/salaire-minimum-outaouais-ontario-competitivite",
+   "resume": "Chaque parti a sa recette pour empêcher les travailleurs de traverser la rivière vers l'Ontario.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281417/salaire-minimum-outaouais-ontario-competitivite",
+     "auteur": "Maxence Bahaban",
+     "date": "2026-09-07T18:02-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T19:20-04:00",
+   "permalien": "a-hull-les-candidats-des-partis-s-opposent-sur-la-hausse-du-a48bee",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "a-hull-les-candidats-des-partis-s-opposent-sur-la-hausse-du-a48bee"
+  },
+  {
+   "titre": "L'objectif de 5 milliards $ de Québec solidaire pour taxer les grandes fortunes repose sur des données partielles",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/en-bref/1-10754380/imposer-plus-ultra-riches-ca-rapporterait-combien",
+   "resume": "Un chiffre-choc de campagne qui ne tient pas encore toute la démonstration.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/1-10754380/imposer-plus-ultra-riches-ca-rapporterait-combien",
+     "date": "2026-09-07T18:05-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T19:20-04:00",
+   "permalien": "l-objectif-de-5-milliards-de-quebec-solidaire-pour-taxer-les-f7fac8",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "l-objectif-de-5-milliards-de-quebec-solidaire-pour-taxer-les-f7fac8"
+  },
+  {
+   "titre": "Une candidate caquiste de La Peltrie mène sa campagne pendant que son conjoint est déployé militairement",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (La Peltrie)",
+   "medias": "Noovo Info",
+   "url": "https://www.youtube.com/watch?v=q2x7LIDk4ds",
+   "resume": "Ancienne militaire elle-même, elle a choisi de servir autrement, cette fois dans l'arène politique.",
+   "sources": [
+    {
+     "media": "Noovo Info",
+     "url": "https://www.youtube.com/watch?v=q2x7LIDk4ds",
+     "date": "2026-09-07T18:15-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T19:20-04:00",
+   "permalien": "une-candidate-caquiste-de-la-peltrie-mene-sa-campagne-pendan-91e9b4",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "une-candidate-caquiste-de-la-peltrie-mene-sa-campagne-pendan-91e9b4"
   },
   {
    "titre": "Le SPVM enquête sur une agression à l'arme blanche survenue vers 1 h 30 dans Ville-Marie",
