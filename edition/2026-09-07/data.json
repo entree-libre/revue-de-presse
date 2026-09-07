@@ -1560,10 +1560,12 @@
      "date": "2026-09-07T04:00-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Amos%2C_Quebec.jpg/1280px-Amos%2C_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le centre-ville d'Amos, en Abitibi-Témiscamingue.",
    "image_auto": "aucune",
    "permalien": "le-cycliste-amossois-jerome-gauthier-portera-le-maillot-de-c-14126e",
+   "photo_auteur": "Hayden Soloviev",
+   "photo_licence": "CC BY 4.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "le-cycliste-amossois-jerome-gauthier-portera-le-maillot-de-c-14126e"
@@ -1585,10 +1587,12 @@
      "date": "2026-09-06T09:40-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Malartic_QC_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "La ville de Malartic, en Abitibi-Témiscamingue.",
    "image_auto": "aucune",
    "permalien": "malartic-lance-des-renovations-de-2-millions-de-dollars-a-la-3f2081",
+   "photo_auteur": "P199",
+   "photo_licence": "CC BY-SA 4.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "malartic-lance-des-renovations-de-2-millions-de-dollars-a-la-3f2081"
@@ -1610,10 +1614,12 @@
      "date": "2026-09-07T06:30-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Forestville%E2%80%94Vue_aerienne_5-1-.jpg/1280px-Forestville%E2%80%94Vue_aerienne_5-1-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Vue aérienne de Forestville, sur la Côte-Nord.",
    "image_auto": "aucune",
    "permalien": "l-auteur-forestvillois-camille-bouchard-publie-un-120e-roman-c3a0ec",
+   "photo_auteur": "Koko356",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "l-auteur-forestvillois-camille-bouchard-publie-un-120e-roman-c3a0ec"
@@ -1635,10 +1641,12 @@
      "date": "2026-09-06T08:00-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Baie-Comeau%2C_Quebec.jpg/1280px-Baie-Comeau%2C_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La ville de Baie-Comeau, sur la Côte-Nord.",
    "image_auto": "aucune",
    "permalien": "une-sculpture-de-deux-oursons-grimpeurs-orne-desormais-le-bo-6a716c",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC BY 4.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "une-sculpture-de-deux-oursons-grimpeurs-orne-desormais-le-bo-6a716c"
@@ -1660,10 +1668,12 @@
      "date": "2026-09-06T14:36-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Pessamit%2C_Quebec.jpg/1280px-Pessamit%2C_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La communauté innue de Pessamit, sur la Côte-Nord.",
    "image_auto": "aucune",
    "permalien": "l-ex-entraineur-des-gardiens-du-canadien-de-montreal-forme-d-9dffbd",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC BY 4.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "l-ex-entraineur-des-gardiens-du-canadien-de-montreal-forme-d-9dffbd"
@@ -1708,10 +1718,12 @@
      "date": "2026-09-07T06:30-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Rivi%C3%A8re-du-Loup%2C_Quebec%2C_Canada.jpg/1280px-Rivi%C3%A8re-du-Loup%2C_Quebec%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La ville de Rivière-du-Loup, dans le Bas-Saint-Laurent.",
    "image_auto": "aucune",
    "permalien": "riviere-du-loup-relance-le-12-septembre-son-programme-d-acti-56cbea",
+   "photo_auteur": "Hayden Soloviev",
+   "photo_licence": "CC BY 4.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "riviere-du-loup-relance-le-12-septembre-son-programme-d-acti-56cbea"
@@ -1723,7 +1735,7 @@
    "territoire": "Alma, Saint-Félicien, Dolbeau-Mistassini (Saguenay–Lac-Saint-Jean), Chibougamau (Nord-du-Québec)",
    "medias": "Radio-Canada",
    "url": "https://ici.radio-canada.ca/nouvelle/2281226/risque-contamination-alimentaire-botulisme",
-   "resume": "Une sauce aux piments vendue sans étiquette dans quatre épiceries régionales est rappelée pour risque de botulisme.",
+   "resume": "Les quatre succursales visées appartiennent toutes à la chaîne Marché d'ici et d'ailleurs, précise le MAPAQ.",
    "horodate": "2026-09-07T07:28-04:00",
    "sources": [
     {
@@ -1733,10 +1745,12 @@
      "date": "2026-09-07T06:40-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Alma-3.jpg/1280px-Alma-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La ville d'Alma, au Saguenay–Lac-Saint-Jean.",
    "image_auto": "aucune",
    "permalien": "le-mapaq-rappelle-une-sauce-aux-piments-vendue-sans-etiquett-10331a",
+   "photo_auteur": "User:Ville d'Alma",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "le-mapaq-rappelle-une-sauce-aux-piments-vendue-sans-etiquett-10331a"
@@ -1758,43 +1772,15 @@
      "date": "2026-09-07T04:02-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Baie_%C3%89ternit%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "La baie Éternité, dans le parc national du Fjord-du-Saguenay.",
    "image_auto": "aucune",
    "permalien": "immersion-avec-la-technicienne-en-milieu-naturel-qui-veille-1a6d6e",
+   "photo_auteur": "Fralambert",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "immersion-avec-la-technicienne-en-milieu-naturel-qui-veille-1a6d6e"
-  },
-  {
-   "titre": "Un motocycliste meurt dans une collision avec une camionnette sur un chemin forestier de La Tuque",
-   "cahier": "quebec",
-   "rubrique": "faits-divers",
-   "territoire": "La Tuque (Haute-Mauricie)",
-   "medias": "Coops de l'information, CBC",
-   "url": "https://www.lenouvelliste.ca/affaires/2026/09/06/mort-d-un-motocycliste-a-la-suite-d-une-collision-sur-un-chemin-forestier-de-la-tuque-YGIO7HFBA5GEVIK6GM3LFYQ3EA/",
-   "resume": "Un motocycliste meurt à La Tuque; le conducteur du véhicule impliqué n'avait pas de permis.",
-   "horodate": "2026-09-07T07:28-04:00",
-   "sources": [
-    {
-     "media": "Coops de l'information",
-     "url": "https://www.lenouvelliste.ca/affaires/2026/09/06/mort-d-un-motocycliste-a-la-suite-d-une-collision-sur-un-chemin-forestier-de-la-tuque-YGIO7HFBA5GEVIK6GM3LFYQ3EA/",
-     "date": "2026-09-06T10:36-04:00",
-     "auteur": "La Presse Canadienne"
-    },
-    {
-     "media": "CBC",
-     "url": "https://www.cbc.ca/news/canada/montreal/teenage-driver-motorcyclist-collision-la-tuque-que-9.7334403?cmp=rss",
-     "date": "2026-09-07T04:00-04:00"
-    }
-   ],
-   "photo": "",
-   "legende": "",
-   "image_auto": "aucune",
-   "permalien": "un-motocycliste-meurt-dans-une-collision-avec-une-camionnett-29f056",
-   "_volet": "presse-regionale",
-   "_fichier": "revue-presse-regionale-2026-09-07.json",
-   "_slug": "un-motocycliste-meurt-dans-une-collision-avec-une-camionnett-29f056"
   },
   {
    "titre": "Il y a 50 ans, Gilles Villeneuve remportait à Trois-Rivières la course qui a lancé sa légende",
@@ -1814,7 +1800,7 @@
     }
    ],
    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Gilles_Villeneuve_1979_Imola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "legende": "Gilles Villeneuve",
+   "legende": "Gilles Villeneuve, au volant de sa Ferrari, en 1979.",
    "photo_auteur": "ideogibs",
    "photo_licence": "CC BY-SA 2.0",
    "image_auto": "wikipedia-fr:Gilles Villeneuve",
@@ -1840,10 +1826,12 @@
      "date": "2026-09-06T16:52-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Saint-Pie-de-Guire_01.jpg/1280px-Saint-Pie-de-Guire_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le village de Saint-Pie-de-Guire, au Centre-du-Québec.",
    "image_auto": "aucune",
    "permalien": "le-parc-de-sculptures-mouvement-essarts-pres-de-drummondvill-877257",
+   "photo_auteur": "Gabriel Picard",
+   "photo_licence": "CC BY-SA 4.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "le-parc-de-sculptures-mouvement-essarts-pres-de-drummondvill-877257"
@@ -1880,7 +1868,7 @@
    "territoire": "Saint-Joseph-de-Beauce (Chaudière-Appalaches)",
    "medias": "Coops de l'information",
    "url": "https://www.lesoleil.com/actualites/actualites-locales/beauce/2026/09/06/un-nouveau-pont-toujours-autant-desire-en-beauce-TBI7X76EE5EK7D4ZXGMGYN447U/",
-   "resume": "Plus de 1000 signatures réclament la réparation du pont centenaire de Saint-Joseph-de-Beauce, toujours bosselé malgré des correctifs.",
+   "resume": "Le ministère des Transports a réagi, mais pas assez pour satisfaire le citoyen à l'origine de la démarche.",
    "horodate": "2026-09-07T07:28-04:00",
    "sources": [
     {
@@ -1890,10 +1878,12 @@
      "auteur": "Mégan Harvey"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Ensemble_institutionnel_de_Saint-Joseph-de-Beauce_-_Presbyt%C3%A8re.jpg/1280px-Ensemble_institutionnel_de_Saint-Joseph-de-Beauce_-_Presbyt%C3%A8re.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'ensemble institutionnel de Saint-Joseph-de-Beauce.",
    "image_auto": "aucune",
    "permalien": "une-petition-de-1000-signatures-reclame-la-reparation-du-pon-0d423e",
+   "photo_auteur": "SamuelFreli",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "une-petition-de-1000-signatures-reclame-la-reparation-du-pon-0d423e"
@@ -1930,7 +1920,7 @@
    "territoire": "Québec",
    "medias": "Coops de l'information",
    "url": "https://www.lesoleil.com/affaires/2026/09/07/avions-citernes-on-ne-recommence-pas-de-zero-WKE5VO3XIVES3NMIDUPRZPECFM/",
-   "resume": "Après dix ans d'arrêt, le Canadair CL-415, conçu au Québec, revient en production.",
+   "resume": "Rebaptisé DHC-515, l'appareil est désormais fabriqué par De Havilland Canada, qui assure ne pas repartir de zéro.",
    "horodate": "2026-09-07T07:28-04:00",
    "sources": [
     {
@@ -1941,7 +1931,7 @@
     }
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/FR_canadair.jpg/1280px-FR_canadair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "legende": "Canadair CL-415",
+   "legende": "Un avion-citerne Canadair CL-415 en service.",
    "photo_auteur": "European Commission DG ECHO",
    "photo_licence": "CC BY-SA 2.0",
    "image_auto": "wikipedia-fr:Le Canadair CL-415",
@@ -1968,7 +1958,7 @@
     }
    ],
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/WPQc-099_Palais_Montcalm.JPG/1280px-WPQc-099_Palais_Montcalm.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "legende": "Palais Montcalm",
+   "legende": "Le Palais Montcalm, à Québec.",
    "photo_auteur": "Malimage",
    "photo_licence": "CC BY-SA 3.0",
    "image_auto": "wikipedia-fr:Le Palais Montcalm",
@@ -1984,7 +1974,7 @@
    "territoire": "Charlevoix (Capitale-Nationale)",
    "medias": "Le Charlevoisien",
    "url": "https://www.lecharlevoisien.com/2026/09/07/charlevoix-attire-lattention-de-forbes/",
-   "resume": "Le magazine américain Forbes consacre un reportage à l'essor touristique de Charlevoix et à ses grandes fortunes.",
+   "resume": "Le reportage relie la destination à l'arrivée de grandes fortunes américaines et à l'histoire du Cirque du Soleil.",
    "horodate": "2026-09-07T07:28-04:00",
    "sources": [
     {
@@ -1994,10 +1984,12 @@
      "date": "2026-09-07T05:00-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Manoir_Richelieu01.jpg/1280px-Manoir_Richelieu01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le Fairmont Le Manoir Richelieu, à La Malbaie, dans Charlevoix.",
    "image_auto": "aucune",
    "permalien": "le-magazine-forbes-braque-ses-projecteurs-sur-l-essor-touris-97231b",
+   "photo_auteur": "Bernard Gagnon",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "le-magazine-forbes-braque-ses-projecteurs-sur-l-essor-touris-97231b"
@@ -2019,10 +2011,12 @@
      "date": "2026-09-06T17:35-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Marina_Cap-%C3%A0-l%27Aigle_1556.jpg/1280px-Marina_Cap-%C3%A0-l%27Aigle_1556.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La marina de Cap-à-l'Aigle, dans Charlevoix.",
    "image_auto": "aucune",
    "permalien": "des-benevoles-de-la-garde-cotiere-auxiliaire-secourent-un-ho-e5eda8",
+   "photo_auteur": "No machine-readable author provided. Villeneuve80 assumed (based on copyright claims).",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "des-benevoles-de-la-garde-cotiere-auxiliaire-secourent-un-ho-e5eda8"
@@ -2034,7 +2028,7 @@
    "territoire": "Neuville (Portneuf)",
    "medias": "Courrier de Portneuf",
    "url": "https://www.courrierdeportneuf.com/2026/09/06/les-fetes-gourmandes-de-neuville-attirent-15-000-visiteurs/",
-   "resume": "Les Fêtes gourmandes de Neuville, à l'est de Québec, attirent 15 000 visiteurs pour une 14e édition.",
+   "resume": "Le chef Sébastien Gareau, du Manoir du lac, y a présenté sa création vedette : le Cheese'Chip.",
    "horodate": "2026-09-07T07:28-04:00",
    "sources": [
     {
@@ -2044,10 +2038,12 @@
      "date": "2026-09-06T08:00-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/%C3%89glise_St-Fran%C3%A7ois-de-Sales_-_Neuville.JPG/1280px-%C3%89glise_St-Fran%C3%A7ois-de-Sales_-_Neuville.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'église Saint-François-de-Sales, à Neuville.",
    "image_auto": "aucune",
    "permalien": "les-fetes-gourmandes-de-neuville-rassemblent-15-000-visiteur-57d19e",
+   "photo_auteur": "Sylvainbrousseau",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "les-fetes-gourmandes-de-neuville-rassemblent-15-000-visiteur-57d19e"
@@ -2059,7 +2055,7 @@
    "territoire": "Laval",
    "medias": "Courrier Laval",
    "url": "https://courrierlaval.com/travaux-fermetures-autoroutes-19-et-440-a-laval/",
-   "resume": "Trois nuits de fermetures touchent deux grandes artères de Laval cette semaine pour des travaux d'asphaltage.",
+   "resume": "Une bretelle entre la 440 ouest et la 19 sud fermera aussi, détours balisés sur place.",
    "horodate": "2026-09-07T07:28-04:00",
    "sources": [
     {
@@ -2083,7 +2079,7 @@
    "territoire": "Laval",
    "medias": "Courrier Laval",
    "url": "https://courrierlaval.com/postes-combler-centre-services-scolaire-laval/",
-   "resume": "Le centre de services scolaire de Laval cherche encore 83 employés, la moitié moins que l'an dernier.",
+   "resume": "Le syndicat du soutien scolaire pointe compressions budgétaires, violence accrue et effets de la loi sur la laïcité.",
    "horodate": "2026-09-07T07:28-04:00",
    "sources": [
     {
@@ -2143,10 +2139,12 @@
      "date": "2026-09-07T04:00-04:00"
     }
    ],
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Montreal_West_-_Town_Hall.jpg/1280px-Montreal_West_-_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'hôtel de ville de Montréal-Ouest.",
    "image_auto": "aucune",
    "permalien": "des-parents-de-montreal-ouest-reclament-le-retour-d-un-briga-cfaa80",
+   "photo_auteur": "Chicoutimi",
+   "photo_licence": "CC BY 3.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-07.json",
    "_slug": "des-parents-de-montreal-ouest-reclament-le-retour-d-un-briga-cfaa80"
@@ -2602,12 +2600,14 @@
     }
    ],
    "resume": "Les microbrasseries, elles, jurent que la bière locale ne manquera pas de malt.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sainte-Ang%C3%A8le-de-Laval.jpg/1280px-Sainte-Ang%C3%A8le-de-Laval.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le secteur Sainte-Angèle-de-Laval, à Bécancour.",
    "horodate": "2026-09-06T15:30-04:00",
    "permalien": "criblee-de-dettes-la-malterie-innomalt-de-becancour-met-son-73695f",
-   "image_auto": "aucune",
+   "image_auto": "wikipedia-fr:Sainte-Angèle-de-Laval.jpg (enrichissement presse-régionale)",
    "_fichier": "revue-report-2026-09-07.json",
+   "photo_auteur": "Fralambert",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "report",
    "_slug": "criblee-de-dettes-la-malterie-innomalt-de-becancour-met-son-73695f"
   },
@@ -3211,12 +3211,14 @@
     }
    ],
    "resume": "Sherbrooke a montré la voie, et des commerçants de Jonquière réclament la même vue d'ensemble.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Chicoutimi_-_Centre-ville_Est.jpg/1280px-Chicoutimi_-_Centre-ville_Est.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le centre-ville de Chicoutimi, secteur de Saguenay.",
    "horodate": "2026-09-06T18:50-04:00",
    "permalien": "saguenay-etudie-l-installation-de-cameras-de-surveillance-da-ca9e09",
-   "image_auto": "aucune",
+   "image_auto": "wikipedia-fr:Chicoutimi (enrichissement presse-régionale)",
    "_fichier": "revue-report-2026-09-07.json",
+   "photo_auteur": "Chicoutimi",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "report",
    "_slug": "saguenay-etudie-l-installation-de-cameras-de-surveillance-da-ca9e09"
   },
@@ -3225,9 +3227,15 @@
    "cahier": "quebec",
    "rubrique": "faits-divers",
    "territoire": "La Tuque (Haute-Mauricie)",
-   "medias": "CBC",
+   "medias": "Coops de l'information, CBC",
    "url": "https://www.cbc.ca/news/canada/montreal/teenage-driver-motorcyclist-collision-la-tuque-que-9.7334403?cmp=rss",
    "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lenouvelliste.ca/affaires/2026/09/06/mort-d-un-motocycliste-a-la-suite-d-une-collision-sur-un-chemin-forestier-de-la-tuque-YGIO7HFBA5GEVIK6GM3LFYQ3EA/",
+     "date": "2026-09-06T10:36-04:00",
+     "auteur": "La Presse Canadienne"
+    },
     {
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/montreal/teenage-driver-motorcyclist-collision-la-tuque-que-9.7334403?cmp=rss",
@@ -3235,12 +3243,14 @@
     }
    ],
    "resume": "Pourquoi le jeune conducteur, sans permis, n'a pas pu être retenu par la police.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/La_Tuque%2C_Quebec.jpg/1280px-La_Tuque%2C_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La ville de La Tuque, en Haute-Mauricie.",
    "horodate": "2026-09-06T18:50-04:00",
    "permalien": "un-motocycliste-meurt-a-la-tuque-apres-une-collision-avec-un-0639dc",
-   "image_auto": "aucune",
+   "image_auto": "wikipedia-fr:La Tuque (fusion presse-régionale)",
    "_fichier": "revue-report-2026-09-07.json",
+   "photo_auteur": "Quintin Soloviev, Hayden Soloviev",
+   "photo_licence": "CC BY 4.0",
    "_volet": "report",
    "_slug": "un-motocycliste-meurt-a-la-tuque-apres-une-collision-avec-un-0639dc"
   },
@@ -3588,12 +3598,14 @@
     }
    ],
    "resume": "Les premières constatations de la SQ pointent une légère courbe, et rien de plus pour l'instant.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/D%C3%A9gelis_08-2025_%2801%29.jpg/1280px-D%C3%A9gelis_08-2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La ville de Dégelis, dans le Témiscouata.",
    "horodate": "2026-09-06T21:05-04:00",
    "permalien": "collision-fatale-moto-camionnette-sur-la-295-un-mort-a-degel-0baf8b",
-   "image_auto": "aucune",
+   "image_auto": "wikipedia-fr:Dégelis_08-2025_(01).jpg (enrichissement presse-régionale)",
    "_fichier": "revue-report-2026-09-07.json",
+   "photo_auteur": "Gabriel Picard",
+   "photo_licence": "CC BY-SA 4.0",
    "_volet": "report",
    "_slug": "collision-fatale-moto-camionnette-sur-la-295-un-mort-a-degel-0baf8b"
   },
@@ -3638,12 +3650,14 @@
     }
    ],
    "resume": "Le rendez-vous le plus couru des mycologues québécois, avec des portes ouvertes pour les curieux.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%C3%89glise_de_Notre-Dame-des-Saints-Anges.JPG/1280px-%C3%89glise_de_Notre-Dame-des-Saints-Anges.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La municipalité de New Richmond, en Gaspésie.",
    "horodate": "2026-09-06T21:05-04:00",
    "permalien": "la-federation-quebecoise-des-groupes-de-mycologues-tient-sa-02ef0f",
-   "image_auto": "aucune",
+   "image_auto": "wikipedia-fr:New Richmond (Québec) (enrichissement presse-régionale)",
    "_fichier": "revue-report-2026-09-07.json",
+   "photo_auteur": "Fralambert",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "report",
    "_slug": "la-federation-quebecoise-des-groupes-de-mycologues-tient-sa-02ef0f"
   },
