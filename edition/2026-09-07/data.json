@@ -5,6 +5,7 @@
   "economie-opinions",
   "elections",
   "hors-rss",
+  "local",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -617,10 +618,12 @@
     }
    ],
    "resume": "Il promet d'être à toutes les réunions de travail, et laisse ouverte la question de la suite.",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/H%C3%B4tel_de_ville_de_Laval.jpg",
+   "legende": "L'hôtel de ville de Laval (photo d'illustration).",
    "horodate": "2026-09-07T08:54-04:00",
    "permalien": "atteint-d-une-tumeur-au-cerveau-le-maire-de-laval-stephane-b-04ce79",
+   "photo_auteur": "Laurent Bélanger",
+   "photo_licence": "CC BY-SA 4.0",
    "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-07.json",
@@ -1538,10 +1541,12 @@
    ],
    "medias": "MRC de L'Islet",
    "url": "https://mrclislet.com/appel-a-projets-fonds-vitalisation-2026/",
-   "photo": "",
-   "legende": "",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/FLEUVE_ST-LAURENT_VU_DE_L%27ISLET-SUR-MER%2C_QU%C3%89BEC_-_panoramio.jpg",
+   "legende": "Vue du fleuve Saint-Laurent depuis L'Islet-sur-Mer, dans le territoire de la MRC (photo d'illustration).",
    "horodate": "2026-09-07T11:58-04:00",
    "permalien": "la-mrc-de-l-islet-lance-un-appel-a-projets-du-fonds-de-vital-da2fb4",
+   "photo_auteur": "busand2003",
+   "photo_licence": "CC BY 3.0",
    "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-07.json",
@@ -2912,6 +2917,79 @@
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-07.json",
    "_slug": "saint-roch-ouest-confiera-son-inspection-municipale-aux-fonc-de9d08"
+  },
+  {
+   "titre": "Kruger dynamitera le chantier du parc éolien de Saint-Paul-de-Montminy les 8 et 9 septembre",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Saint-Paul-de-Montminy (Chaudière-Appalaches)",
+   "medias": "Saint-Paul-de-Montminy",
+   "url": "https://www.stpauldemontminy.com/2026/09/04/avis-a-la-population-dynamitage-prevu-le-08-et-09-septembre-2026/",
+   "sources": [
+    {
+     "media": "Saint-Paul-de-Montminy",
+     "url": "https://www.stpauldemontminy.com/2026/09/04/avis-a-la-population-dynamitage-prevu-le-08-et-09-septembre-2026/",
+     "date": "2026-09-04T15:49-04:00",
+     "auteur": "Municipalité Saint-Paul-de-Montminy"
+    }
+   ],
+   "resume": "Les résidants voisins du chantier doivent respecter un périmètre d'exclusion complet aux heures des tirs.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Pale_d%27une_%C3%A9olienne_-_Parc_%C3%A9olien_du_Massif_du_Sud.jpg",
+   "legende": "Transport d'une pale d'éolienne dans un parc éolien de Chaudière-Appalaches (photo d'illustration, Massif-du-Sud).",
+   "horodate": "2026-09-07T12:42-04:00",
+   "permalien": "kruger-dynamitera-le-chantier-du-parc-eolien-de-saint-paul-d-f527f2",
+   "photo_auteur": "AnnaTallulah",
+   "photo_licence": "CC BY-SA 3.0",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-07.json",
+   "_slug": "kruger-dynamitera-le-chantier-du-parc-eolien-de-saint-paul-d-f527f2"
+  },
+  {
+   "titre": "Harrington doit statuer le 21 septembre sur une maison et une véranda dérogatoires au 6, chemin du Lac Gate",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Harrington (Laurentides)",
+   "medias": "Harrington",
+   "url": "https://harrington.ca/avis-public-132/",
+   "sources": [
+    {
+     "media": "Harrington",
+     "url": "https://harrington.ca/avis-public-132/",
+     "date": "2026-09-04T16:10-04:00",
+     "auteur": "Mathieu Dessureault"
+    }
+   ],
+   "resume": "Quiconque s'y oppose ou l'appuie pourra se faire entendre devant le conseil avant la décision.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T12:42-04:00",
+   "permalien": "harrington-doit-statuer-le-21-septembre-sur-une-maison-et-un-07b189",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-07.json",
+   "_slug": "harrington-doit-statuer-le-21-septembre-sur-une-maison-et-un-07b189"
+  },
+  {
+   "titre": "Le ministère des Transports fermera le pont du chemin Trineer à Harrington le temps d'une inspection jeudi",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Harrington (Laurentides)",
+   "medias": "Harrington",
+   "url": "https://harrington.ca/entraves-a-prevoir-inspection-du-pont-sur-le-chemin-trineer/",
+   "sources": [
+    {
+     "media": "Harrington",
+     "url": "https://harrington.ca/entraves-a-prevoir-inspection-du-pont-sur-le-chemin-trineer/",
+     "date": "2026-09-04T14:17-04:00"
+    }
+   ],
+   "resume": "Une fois rouvert, la circulation alternée n'y laissera passer les automobilistes qu'environ toutes les 20 minutes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T12:42-04:00",
+   "permalien": "le-ministere-des-transports-fermera-le-pont-du-chemin-trinee-57f616",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-07.json",
+   "_slug": "le-ministere-des-transports-fermera-le-pont-du-chemin-trinee-57f616"
   },
   {
    "titre": "Le représentant du Vatican pour les Affaires étrangères a passé quatre jours à Moscou fin août",
