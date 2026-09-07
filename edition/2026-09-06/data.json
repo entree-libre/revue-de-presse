@@ -89,13 +89,19 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "États-Unis",
-   "medias": "La Presse",
+   "medias": "La Presse, La Croix",
    "sources": [
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/elections-de-mi-mandat/l-administration-trump-depose-un-nouveau-recours-sur-le-vote-par-correspondance.php",
      "auteur": "Lindsay Whitehurst et Gary Fields",
      "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "La Croix",
+     "url": "https://www.la-croix.com/international/etats-unis-la-justice-fait-barrage-a-donald-trump-sur-une-restriction-du-vote-par-correspondance-20260906",
+     "date": "2026-09-06T21:58-04:00",
+     "auteur": "Marie Boëton"
     }
    ],
    "resume": "Les bulletins commencent déjà à partir par la poste, et le calendrier joue contre Washington.",
@@ -1262,13 +1268,19 @@
    "cahier": "quebec",
    "rubrique": "faits-divers",
    "territoire": "Dégelis (Témiscouata)",
-   "medias": "Zone 911",
+   "medias": "Zone 911, Infodimanche",
    "url": "https://zone911.com/accidents/degelis-collision-mortelle-entre-une-moto-et-une-camionnette-sur-la-route-295",
    "sources": [
     {
      "media": "Zone 911",
      "url": "https://zone911.com/accidents/degelis-collision-mortelle-entre-une-moto-et-une-camionnette-sur-la-route-295",
      "date": "2026-09-06T21:05-04:00"
+    },
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/justice-et-faits-divers/un-motocycliste-perd-la-vie-a-degelis/",
+     "auteur": "Marc-Antoine Paquin",
+     "date": "2026-09-06T21:58-04:00"
     }
    ],
    "resume": "Les premières constatations de la SQ pointent une légère courbe, et rien de plus pour l'instant.",
@@ -1403,6 +1415,58 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-06.json",
    "_slug": "sept-des-quatorze-candidats-a-la-mairie-d-ottawa-admettent-n-532a6e"
+  },
+  {
+   "titre": "Donald Trump surnomme de nouveau Mark Carney gouverneur dans une image générée par IA",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Canada, États-Unis",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/get-up-governor/donald-trump-s-en-prend-a-mark-carney.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/get-up-governor/donald-trump-s-en-prend-a-mark-carney.php",
+     "auteur": "Vincent Poirier",
+     "date": "2026-09-06T21:58-04:00"
+    }
+   ],
+   "resume": "Le message arrive la veille de l'entrée en vigueur des contre-mesures tarifaires canadiennes.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Prime_Minister_Mark_Carney_-_2026_%2855151389800%29_%28Mark_Carney%29.jpg",
+   "photo_auteur": "Number 10",
+   "photo_licence": "Open Government Licence 3.0",
+   "legende": "Le premier ministre canadien Mark Carney, visé par la publication de Donald Trump.",
+   "horodate": "2026-09-06T21:58-04:00",
+   "permalien": "donald-trump-surnomme-de-nouveau-mark-carney-gouverneur-dans-452496",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "donald-trump-surnomme-de-nouveau-mark-carney-gouverneur-dans-452496"
+  },
+  {
+   "titre": "Deux politologues montréalais jugent le système multilatéral incapable de produire des résultats à Gaza",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Gaza",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-06/ce-que-gaza-nous-apprend-sur-les-defaillances-du-systeme-multilateral.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-06/ce-que-gaza-nous-apprend-sur-les-defaillances-du-systeme-multilateral.php",
+     "auteur": "Vincent Pouliot et Frédéric Mérand",
+     "date": "2026-09-06T21:58-04:00"
+    }
+   ],
+   "resume": "Deux chercheurs du CERIUM proposent que l'ONU puisse contourner les vétos du Conseil de sécurité.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/United_Nations_Headquarters_-_Security_Council_chamber%2C_angled_view.jpg/1280px-United_Nations_Headquarters_-_Security_Council_chamber%2C_angled_view.jpg",
+   "photo_auteur": "Jdforrester",
+   "photo_licence": "CC BY 4.0",
+   "legende": "La salle du Conseil de sécurité de l'ONU, où le veto bloque régulièrement les résolutions sur Gaza.",
+   "horodate": "2026-09-06T21:58-04:00",
+   "permalien": "deux-politologues-montrealais-jugent-le-systeme-multilateral-ff7acf",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "deux-politologues-montrealais-jugent-le-systeme-multilateral-ff7acf"
   },
   {
    "titre": "Les ventes de maisons chutent de 13 % à Montréal, mais les prix continuent de grimper",
@@ -2330,6 +2394,11 @@
    "url": "https://www.ledevoir.com/politique/quebec/1006907/pcq-veut-offrir-rabais-100-favoriser-pratique-sport",
    "resume": "Un changement de programme qui ne profitera pas à toutes les familles de la même façon.",
    "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/un-rabais-de-100-pour-remettre-le-quebec-en-mouvement/",
+     "date": "2026-09-06T21:47-04:00"
+    },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1006907/pcq-veut-offrir-rabais-100-favoriser-pratique-sport",
@@ -3586,7 +3655,7 @@
    "territoire": "Serbie",
    "medias": "France 24, TV5MONDE, CNEWS",
    "url": "https://www.france24.com/fr/info-en-continu/20260905-serbie-ministres-et-militaires-%C3%A0-une-c%C3%A9r%C3%A9monie-d-hommage-au-criminel-de-guerre-ratko-mladic",
-   "resume": "Condamné pour génocide par la justice internationale, l'ancien chef militaire sera inhumé lundi à Belgrade.",
+   "resume": "Mise à jour, 21 h 45 — Sa dépouille sera exposée cinq heures en église avant un cortège vers le cimetière voisin.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -3605,9 +3674,14 @@
      "media": "CNEWS",
      "url": "https://www.cnews.fr/monde/2026-09-05/serbie-ministres-et-militaires-une-ceremonie-dhommage-au-criminel-de-guerre-ratko",
      "date": "2026-09-06T05:34-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-le-criminel-de-guerre-ratko-mladic-doit-%C3%AAtre-inhum%C3%A9-%C3%A0-belgrade",
+     "date": "2026-09-06T21:58-04:00"
     }
    ],
-   "horodate": "2026-09-06T04:55-04:00",
+   "horodate": "2026-09-06T21:58-04:00",
    "permalien": "de-hauts-responsables-et-des-officiers-serbes-ont-pris-part-d665c9",
    "image_auto": "aucune",
    "_volet": "monde",
