@@ -4,6 +4,7 @@
   "continu",
   "elections",
   "monde",
+  "presse-regionale",
   "quebec-canada",
   "report"
  ],
@@ -740,6 +741,86 @@
    "_slug": "des-ex-candidats-racontent-l-anxiete-la-solitude-et-parfois-e1feb8"
   },
   {
+   "titre": "Fréchette convoque son conseil des ministres avant l'entrée en vigueur de nouveaux contre-tarifs",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://www.youtube.com/watch?v=9MX9NNIhKL0",
+   "resume": "Diriger le Québec et mener sa campagne en même temps, la même semaine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T07:23-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://www.youtube.com/watch?v=9MX9NNIhKL0",
+     "date": "2026-09-07T06:55-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "frechette-convoque-son-conseil-des-ministres-avant-l-entree-en-4c0b11",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "frechette-convoque-son-conseil-des-ministres-avant-l-entree-en-4c0b11"
+  },
+  {
+   "titre": "Le partage des redevances minières pourrait peser sur le vote en Abitibi-Est",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec (Abitibi-Est)",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/chroniques/2026-09-07/l-abitibi-excedee-par-le-colonialisme-economique.php",
+   "resume": "Un maire y voit du colonialisme économique, malgré une ruée vers l'or qui rapporte des fortunes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T07:23-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/chroniques/2026-09-07/l-abitibi-excedee-par-le-colonialisme-economique.php",
+     "date": "2026-09-07T05:00-04:00",
+     "auteur": "Maxime Bergeron"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-partage-des-redevances-minieres-pourrait-peser-sur-le-vote-51fb33",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "le-partage-des-redevances-minieres-pourrait-peser-sur-le-vote-51fb33"
+  },
+  {
+   "titre": "Le futur pont entre Tadoussac et Baie-Sainte-Catherine divise les candidats de René-Lévesque",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Québec (René-Lévesque)",
+   "medias": "Le Manic, Le Haute Côte-Nord",
+   "url": "https://www.lemanic.ca/2026/09/07/elections-2026-dans-rene-levesque-lenjeu-de-la-semaine/",
+   "resume": "La CAQ promet un appel d'intérêt en 100 jours, ses rivaux réclament d'abord l'étude chiffrée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T07:23-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/07/elections-2026-dans-rene-levesque-lenjeu-de-la-semaine/",
+     "date": "2026-09-07T07:00-04:00",
+     "auteur": "Karianne Nepton-Philippe"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/07/elections-2026-dans-rene-levesque-lenjeu-de-la-semaine/",
+     "date": "2026-09-07T07:00-04:00",
+     "auteur": "Karianne Nepton-Philippe"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-futur-pont-entre-tadoussac-et-baie-sainte-catherine-divise-d37f43",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "le-futur-pont-entre-tadoussac-et-baie-sainte-catherine-divise-d37f43"
+  },
+  {
    "titre": "Le représentant du Vatican pour les Affaires étrangères a passé quatre jours à Moscou fin août",
    "cahier": "international",
    "rubrique": "politique",
@@ -1461,6 +1542,614 @@
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-07.json",
    "_slug": "la-presidente-de-la-commission-europeenne-entame-une-visite-76a8d7"
+  },
+  {
+   "titre": "Le cycliste amossois Jérôme Gauthier portera le maillot de champion canadien aux mondiaux de Montréal",
+   "cahier": "quebec",
+   "rubrique": "sport",
+   "territoire": "Amos (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/sports/2281097/jerome-gauthier-abitibi-cyclisme-championnats-monde",
+   "resume": "L'enfant d'Amos qui tendait des bouteilles au Tour de l'Abitibi porte maintenant le maillot de champion canadien.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/sports/2281097/jerome-gauthier-abitibi-cyclisme-championnats-monde",
+     "auteur": "Raphaël Massoud",
+     "date": "2026-09-07T04:00-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-cycliste-amossois-jerome-gauthier-portera-le-maillot-de-c-14126e",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "le-cycliste-amossois-jerome-gauthier-portera-le-maillot-de-c-14126e"
+  },
+  {
+   "titre": "Malartic lance des rénovations de 2 millions de dollars à la piscine de son camping régional",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Malartic (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281089/piscine-pataugeoire-camping-malartic-renovation",
+   "resume": "Malartic retape la piscine cinquantenaire de son camping régional, jeux d'eau compris, pour les cinquante prochaines années.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281089/piscine-pataugeoire-camping-malartic-renovation",
+     "auteur": "Annabel Ouellet",
+     "date": "2026-09-06T09:40-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "malartic-lance-des-renovations-de-2-millions-de-dollars-a-la-3f2081",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "malartic-lance-des-renovations-de-2-millions-de-dollars-a-la-3f2081"
+  },
+  {
+   "titre": "L'auteur forestvillois Camille Bouchard publie un 120e roman inspiré d'une chasse au lion réelle au Kenya",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Forestville (Côte-Nord)",
+   "medias": "Le Haute Côte-Nord",
+   "url": "https://www.journalhcn.com/2026/09/07/camille-bouchard-sort-son-120e-roman/",
+   "resume": "Un auteur de Forestville signe un 120e roman sur deux lions mangeurs d'hommes bien réels au Kenya.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/07/camille-bouchard-sort-son-120e-roman/",
+     "auteur": "Renaud Cyr",
+     "date": "2026-09-07T06:30-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "l-auteur-forestvillois-camille-bouchard-publie-un-120e-roman-c3a0ec",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "l-auteur-forestvillois-camille-bouchard-publie-un-120e-roman-c3a0ec"
+  },
+  {
+   "titre": "Une sculpture de deux oursons grimpeurs orne désormais le Boisé de la Pointe-Saint-Gilles à Baie-Comeau",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Baie-Comeau (Côte-Nord)",
+   "medias": "Le Haute Côte-Nord",
+   "url": "https://www.journalhcn.com/2026/09/06/des-oursons-sinstallent-dans-le-boise-de-la-pointe-st-gilles/",
+   "resume": "Deux oursons sculptés dans du bois offert par l'industrie forestière veillent maintenant sur les sentiers de Baie-Comeau.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/06/des-oursons-sinstallent-dans-le-boise-de-la-pointe-st-gilles/",
+     "auteur": "Roseline Pelletier",
+     "date": "2026-09-06T08:00-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "une-sculpture-de-deux-oursons-grimpeurs-orne-desormais-le-bo-6a716c",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "une-sculpture-de-deux-oursons-grimpeurs-orne-desormais-le-bo-6a716c"
+  },
+  {
+   "titre": "L'ex-entraîneur des gardiens du Canadien de Montréal forme de jeunes gardiens autochtones à Pessamit",
+   "cahier": "quebec",
+   "rubrique": "sport",
+   "territoire": "Pessamit (Côte-Nord)",
+   "medias": "Le Manic",
+   "url": "https://www.lemanic.ca/2026/09/06/stephane-waite-de-retour-a-pessamit-pour-une-troisieme-annee/",
+   "resume": "L'ancien entraîneur des gardiens du Canadien revient bénévolement former la relève autochtone de la Côte-Nord, une troisième année.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/06/stephane-waite-de-retour-a-pessamit-pour-une-troisieme-annee/",
+     "auteur": "Morgane Busson",
+     "date": "2026-09-06T14:36-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "l-ex-entraineur-des-gardiens-du-canadien-de-montreal-forme-d-9dffbd",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "l-ex-entraineur-des-gardiens-du-canadien-de-montreal-forme-d-9dffbd"
+  },
+  {
+   "titre": "Un barrage de castor endommagé force une deuxième fermeture du chemin principal de la ZEC Labrieville",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "ZEC Labrieville (Côte-Nord)",
+   "medias": "Le Manic",
+   "url": "https://www.lemanic.ca/2026/09/06/zec-labrieville-une-deuxieme-coupure-sur-le-chemin-principal/",
+   "resume": "Un barrage de castor a coupé deux fois en une semaine le chemin principal de la ZEC Labrieville.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/06/zec-labrieville-une-deuxieme-coupure-sur-le-chemin-principal/",
+     "date": "2026-09-06T09:00-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "un-barrage-de-castor-endommage-force-une-deuxieme-fermeture-bdbaa1",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "un-barrage-de-castor-endommage-force-une-deuxieme-fermeture-bdbaa1"
+  },
+  {
+   "titre": "Rivière-du-Loup relance le 12 septembre son programme d'activités gratuites pour les familles à faible revenu",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Rivière-du-Loup (Bas-Saint-Laurent)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/non-classe/acces-loisirs-revient-le-12-septembre-a-riviere-du-loup/",
+   "resume": "À Rivière-du-Loup, les familles à faible revenu retrouvent samedi un accès gratuit au sport et à la culture.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/non-classe/acces-loisirs-revient-le-12-septembre-a-riviere-du-loup/",
+     "date": "2026-09-07T06:30-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "riviere-du-loup-relance-le-12-septembre-son-programme-d-acti-56cbea",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "riviere-du-loup-relance-le-12-septembre-son-programme-d-acti-56cbea"
+  },
+  {
+   "titre": "Le MAPAQ rappelle une sauce aux piments vendue sans étiquette dans quatre épiceries",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Alma, Saint-Félicien, Dolbeau-Mistassini (Saguenay–Lac-Saint-Jean), Chibougamau (Nord-du-Québec)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281226/risque-contamination-alimentaire-botulisme",
+   "resume": "Une sauce aux piments vendue sans étiquette dans quatre épiceries régionales est rappelée pour risque de botulisme.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281226/risque-contamination-alimentaire-botulisme",
+     "auteur": "Catherine Paradis",
+     "date": "2026-09-07T06:40-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-mapaq-rappelle-une-sauce-aux-piments-vendue-sans-etiquett-10331a",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "le-mapaq-rappelle-une-sauce-aux-piments-vendue-sans-etiquett-10331a"
+  },
+  {
+   "titre": "Immersion avec la technicienne en milieu naturel qui veille sur les écosystèmes du parc du Fjord-du-Saguenay",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Rivière-Éternité (Saguenay–Lac-Saint-Jean)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lavoixdelest.ca/actualites/le-fil-des-coops/2026/09/07/dans-la-peau-deune-technicienne-en-milieu-naturel-gardienne-des-ecosystemes-H6XRMZBZOZGLLHYWKB6G7PBZOM/",
+   "resume": "Une journée avec la gardienne des écosystèmes du parc du Fjord, entre anguilles et ombles à compter.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lavoixdelest.ca/actualites/le-fil-des-coops/2026/09/07/dans-la-peau-deune-technicienne-en-milieu-naturel-gardienne-des-ecosystemes-H6XRMZBZOZGLLHYWKB6G7PBZOM/",
+     "auteur": "Sophie Lavoie",
+     "date": "2026-09-07T04:02-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "immersion-avec-la-technicienne-en-milieu-naturel-qui-veille-1a6d6e",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "immersion-avec-la-technicienne-en-milieu-naturel-qui-veille-1a6d6e"
+  },
+  {
+   "titre": "Un motocycliste meurt dans une collision avec une camionnette sur un chemin forestier de La Tuque",
+   "cahier": "quebec",
+   "rubrique": "faits-divers",
+   "territoire": "La Tuque (Haute-Mauricie)",
+   "medias": "Coops de l'information, CBC",
+   "url": "https://www.lenouvelliste.ca/affaires/2026/09/06/mort-d-un-motocycliste-a-la-suite-d-une-collision-sur-un-chemin-forestier-de-la-tuque-YGIO7HFBA5GEVIK6GM3LFYQ3EA/",
+   "resume": "Un motocycliste meurt à La Tuque; le conducteur du véhicule impliqué n'avait pas de permis.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lenouvelliste.ca/affaires/2026/09/06/mort-d-un-motocycliste-a-la-suite-d-une-collision-sur-un-chemin-forestier-de-la-tuque-YGIO7HFBA5GEVIK6GM3LFYQ3EA/",
+     "date": "2026-09-06T10:36-04:00",
+     "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/teenage-driver-motorcyclist-collision-la-tuque-que-9.7334403?cmp=rss",
+     "date": "2026-09-07T04:00-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "un-motocycliste-meurt-dans-une-collision-avec-une-camionnett-29f056",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "un-motocycliste-meurt-dans-une-collision-avec-une-camionnett-29f056"
+  },
+  {
+   "titre": "Il y a 50 ans, Gilles Villeneuve remportait à Trois-Rivières la course qui a lancé sa légende",
+   "cahier": "quebec",
+   "rubrique": "sport",
+   "territoire": "Trois-Rivières (Mauricie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281039/gilles-villeneuve-gagne-remporte-gp3r-50-ans",
+   "resume": "Il y a 50 ans, un pilote encore inconnu battait des vedettes de F1 à Trois-Rivières.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281039/gilles-villeneuve-gagne-remporte-gp3r-50-ans",
+     "auteur": "Louis Cloutier et Corinne Goulet",
+     "date": "2026-09-05T18:33-04:00"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Gilles_Villeneuve_1979_Imola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Gilles Villeneuve",
+   "photo_auteur": "ideogibs",
+   "photo_licence": "CC BY-SA 2.0",
+   "image_auto": "wikipedia-fr:Gilles Villeneuve",
+   "permalien": "il-y-a-50-ans-gilles-villeneuve-remportait-a-trois-rivieres-fc5f48",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "il-y-a-50-ans-gilles-villeneuve-remportait-a-trois-rivieres-fc5f48"
+  },
+  {
+   "titre": "Le parc de sculptures Mouvement Essarts, près de Drummondville, souligne 25 ans avec des œuvres de 15 pays",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Saint-Pie-de-Guire (Centre-du-Québec)",
+   "medias": "L'Express",
+   "url": "https://www.journalexpress.ca/actualite/mouvement-essarts-souligne-25-ans-dactivites/",
+   "resume": "Un sculpteur de Saint-Pie-de-Guire ouvre gratuitement sa forêt de 50 œuvres signées par des artistes de 15 pays.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "L'Express",
+     "url": "https://www.journalexpress.ca/actualite/mouvement-essarts-souligne-25-ans-dactivites/",
+     "auteur": "Claude-Hélène Desrosiers",
+     "date": "2026-09-06T16:52-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-parc-de-sculptures-mouvement-essarts-pres-de-drummondvill-877257",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "le-parc-de-sculptures-mouvement-essarts-pres-de-drummondvill-877257"
+  },
+  {
+   "titre": "Waterloo et Eastman ne s'entendent plus sur le partage des coûts d'activités sportives pour les jeunes",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Eastman, Waterloo (Estrie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281192/eastman-waterloo-loisir-entente-couts",
+   "resume": "Le partage des coûts d'activités sportives entre Waterloo et Eastman tombe, le montant demandé ayant décuplé.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281192/eastman-waterloo-loisir-entente-couts",
+     "auteur": "Cédric Bérubé et Jean Arel",
+     "date": "2026-09-06T17:32-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "waterloo-et-eastman-ne-s-entendent-plus-sur-le-partage-des-c-28d2d8",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "waterloo-et-eastman-ne-s-entendent-plus-sur-le-partage-des-c-28d2d8"
+  },
+  {
+   "titre": "Une pétition de 1000 signatures réclame la réparation du pont centenaire de Saint-Joseph-de-Beauce",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Saint-Joseph-de-Beauce (Chaudière-Appalaches)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/actualites/actualites-locales/beauce/2026/09/06/un-nouveau-pont-toujours-autant-desire-en-beauce-TBI7X76EE5EK7D4ZXGMGYN447U/",
+   "resume": "Plus de 1000 signatures réclament la réparation du pont centenaire de Saint-Joseph-de-Beauce, toujours bosselé malgré des correctifs.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/actualites/actualites-locales/beauce/2026/09/06/un-nouveau-pont-toujours-autant-desire-en-beauce-TBI7X76EE5EK7D4ZXGMGYN447U/",
+     "date": "2026-09-06T04:00-04:00",
+     "auteur": "Mégan Harvey"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "une-petition-de-1000-signatures-reclame-la-reparation-du-pon-0d423e",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "une-petition-de-1000-signatures-reclame-la-reparation-du-pon-0d423e"
+  },
+  {
+   "titre": "Une artiste de Québec réduit son exposition new-yorkaise à une seule toile face aux droits de douane",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/arts/2026/09/07/une-expo-dune-seule-oeuvre-pour-eviter-les-tarifs-de-trump-BCHED5AFVFABLLRQ67R5PK2T7M/",
+   "resume": "Une peintre de Québec traverse la frontière avec une seule toile, en réponse aux droits de douane américains.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/arts/2026/09/07/une-expo-dune-seule-oeuvre-pour-eviter-les-tarifs-de-trump-BCHED5AFVFABLLRQ67R5PK2T7M/",
+     "date": "2026-09-07T04:15-04:00",
+     "auteur": "Ian Bussières"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "une-artiste-de-quebec-reduit-son-exposition-new-yorkaise-a-u-b30ffd",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "une-artiste-de-quebec-reduit-son-exposition-new-yorkaise-a-u-b30ffd"
+  },
+  {
+   "titre": "Le Canadair CL-415, conçu au Québec, revient en production après dix ans d'arrêt",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/affaires/2026/09/07/avions-citernes-on-ne-recommence-pas-de-zero-WKE5VO3XIVES3NMIDUPRZPECFM/",
+   "resume": "Après dix ans d'arrêt, le Canadair CL-415, conçu au Québec, revient en production.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/affaires/2026/09/07/avions-citernes-on-ne-recommence-pas-de-zero-WKE5VO3XIVES3NMIDUPRZPECFM/",
+     "date": "2026-09-07T04:12-04:00",
+     "auteur": "Paul-Robert Raymond"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/FR_canadair.jpg/1280px-FR_canadair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Canadair CL-415",
+   "photo_auteur": "European Commission DG ECHO",
+   "photo_licence": "CC BY-SA 2.0",
+   "image_auto": "wikipedia-fr:Le Canadair CL-415",
+   "permalien": "le-canadair-cl-415-concu-au-quebec-revient-en-production-apr-9783c7",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "le-canadair-cl-415-concu-au-quebec-revient-en-production-apr-9783c7"
+  },
+  {
+   "titre": "Le Palais Montcalm crée un nouveau festival entièrement consacré à la musique autochtone",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/actualites/actualites-locales/2026/09/07/le-palais-montcalm-braque-ses-projecteurs-sur-la-musique-autochtone-J5TNYNWKNNBVZGTRIJY277U2XY/",
+   "resume": "Le Palais Montcalm consacre un tout nouveau festival entièrement à des musiciens autochtones venus de partout au pays.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/actualites/actualites-locales/2026/09/07/le-palais-montcalm-braque-ses-projecteurs-sur-la-musique-autochtone-J5TNYNWKNNBVZGTRIJY277U2XY/",
+     "date": "2026-09-07T04:13-04:00",
+     "auteur": "Gabrielle Cantin"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/WPQc-099_Palais_Montcalm.JPG/1280px-WPQc-099_Palais_Montcalm.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Palais Montcalm",
+   "photo_auteur": "Malimage",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-fr:Le Palais Montcalm",
+   "permalien": "le-palais-montcalm-cree-un-nouveau-festival-entierement-cons-41bac9",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "le-palais-montcalm-cree-un-nouveau-festival-entierement-cons-41bac9"
+  },
+  {
+   "titre": "Le magazine Forbes braque ses projecteurs sur l'essor touristique de Charlevoix",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Charlevoix (Capitale-Nationale)",
+   "medias": "Le Charlevoisien",
+   "url": "https://www.lecharlevoisien.com/2026/09/07/charlevoix-attire-lattention-de-forbes/",
+   "resume": "Le magazine américain Forbes consacre un reportage à l'essor touristique de Charlevoix et à ses grandes fortunes.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/07/charlevoix-attire-lattention-de-forbes/",
+     "auteur": "Jérôme Gagnon",
+     "date": "2026-09-07T05:00-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-magazine-forbes-braque-ses-projecteurs-sur-l-essor-touris-97231b",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "le-magazine-forbes-braque-ses-projecteurs-sur-l-essor-touris-97231b"
+  },
+  {
+   "titre": "Des bénévoles de la Garde côtière auxiliaire secourent un homme tombé à l'eau près de Cap-à-l'Aigle",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Cap-à-l'Aigle (Charlevoix)",
+   "medias": "Le Charlevoisien",
+   "url": "https://www.lecharlevoisien.com/2026/09/06/lunite-26-sauve-une-vie-au-large-de-cap-a-laigle/",
+   "resume": "Des sauveteurs bénévoles de Cap-à-l'Aigle rejoignent en moins de dix minutes un homme tombé à la mer.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/06/lunite-26-sauve-une-vie-au-large-de-cap-a-laigle/",
+     "auteur": "Jérôme Gagnon",
+     "date": "2026-09-06T17:35-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "des-benevoles-de-la-garde-cotiere-auxiliaire-secourent-un-ho-e5eda8",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "des-benevoles-de-la-garde-cotiere-auxiliaire-secourent-un-ho-e5eda8"
+  },
+  {
+   "titre": "Les Fêtes gourmandes de Neuville rassemblent 15 000 visiteurs pour une 14e édition",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Neuville (Portneuf)",
+   "medias": "Courrier de Portneuf",
+   "url": "https://www.courrierdeportneuf.com/2026/09/06/les-fetes-gourmandes-de-neuville-attirent-15-000-visiteurs/",
+   "resume": "Les Fêtes gourmandes de Neuville, à l'est de Québec, attirent 15 000 visiteurs pour une 14e édition.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Courrier de Portneuf",
+     "url": "https://www.courrierdeportneuf.com/2026/09/06/les-fetes-gourmandes-de-neuville-attirent-15-000-visiteurs/",
+     "auteur": "Gaétan Genois",
+     "date": "2026-09-06T08:00-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "les-fetes-gourmandes-de-neuville-rassemblent-15-000-visiteur-57d19e",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "les-fetes-gourmandes-de-neuville-rassemblent-15-000-visiteur-57d19e"
+  },
+  {
+   "titre": "Des fermetures de nuit prévues cette semaine sur deux grandes artères de Laval pour l'asphaltage",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Laval",
+   "medias": "Courrier Laval",
+   "url": "https://courrierlaval.com/travaux-fermetures-autoroutes-19-et-440-a-laval/",
+   "resume": "Trois nuits de fermetures touchent deux grandes artères de Laval cette semaine pour des travaux d'asphaltage.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/travaux-fermetures-autoroutes-19-et-440-a-laval/",
+     "date": "2026-09-06T12:17-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "des-fermetures-de-nuit-prevues-cette-semaine-sur-deux-grande-dfe6b8",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "des-fermetures-de-nuit-prevues-cette-semaine-sur-deux-grande-dfe6b8"
+  },
+  {
+   "titre": "Le centre de services scolaire de Laval cherche encore 83 employés à la rentrée",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Laval",
+   "medias": "Courrier Laval",
+   "url": "https://courrierlaval.com/postes-combler-centre-services-scolaire-laval/",
+   "resume": "Le centre de services scolaire de Laval cherche encore 83 employés, la moitié moins que l'an dernier.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/postes-combler-centre-services-scolaire-laval/",
+     "date": "2026-09-06T10:00-04:00",
+     "auteur": "Corinne Prince"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-centre-de-services-scolaire-de-laval-cherche-encore-83-em-2bc234",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "le-centre-de-services-scolaire-de-laval-cherche-encore-83-em-2bc234"
+  },
+  {
+   "titre": "Le peintre Marcel Gagnon, figure des arts visuels de la Vallée du Richelieu, s'éteint",
+   "cahier": "montreal",
+   "rubrique": "culture",
+   "territoire": "Vallée du Richelieu (Montérégie)",
+   "medias": "L'Œil Régional",
+   "url": "https://oeilregional.com/lartiste-peintre-marcel-gagnon-seteint/",
+   "resume": "Le peintre Marcel Gagnon s'éteint, lui qui a aussi dessiné des caricatures et restauré une église.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "L'Œil Régional",
+     "url": "https://oeilregional.com/lartiste-peintre-marcel-gagnon-seteint/",
+     "auteur": "Denis Bélanger",
+     "date": "2026-09-07T01:00-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-peintre-marcel-gagnon-figure-des-arts-visuels-de-la-valle-bf880e",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "le-peintre-marcel-gagnon-figure-des-arts-visuels-de-la-valle-bf880e"
+  },
+  {
+   "titre": "Des parents de Montréal-Ouest réclament le retour d'un brigadier après plusieurs collisions près d'une école",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Montréal-Ouest (Montréal)",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/montreal-west-crossing-guard-royal-west-academy-9.7329511?cmp=rss",
+   "resume": "À Montréal-Ouest, des élèves ont été happés à cette intersection; les parents réclament le retour du brigadier.",
+   "horodate": "2026-09-07T07:28-04:00",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-west-crossing-guard-royal-west-academy-9.7329511?cmp=rss",
+     "auteur": "Aatefeh Padidar",
+     "date": "2026-09-07T04:00-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "des-parents-de-montreal-ouest-reclament-le-retour-d-un-briga-cfaa80",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-07.json",
+   "_slug": "des-parents-de-montreal-ouest-reclament-le-retour-d-un-briga-cfaa80"
   },
   {
    "titre": "Le Canada hausse le ton contre l'Iran et maintient la pression au Moyen-Orient",
