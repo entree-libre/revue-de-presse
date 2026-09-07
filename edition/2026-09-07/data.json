@@ -2223,10 +2223,10 @@
    "territoire": "Québec",
    "medias": "Radio-Canada, Le Devoir, Québecor, La Presse",
    "url": "https://www.youtube.com/watch?v=9MX9NNIhKL0",
-   "resume": "Mise à jour, 12 h — Duhaime refuse d'y participer, mais les autres chefs acceptent la rencontre proposée par Fréchette lundi soir.",
+   "resume": "Mise à jour, 14 h — St-Pierre Plamondon accepte de participer après une condition, et Fréchette dément tout calcul électoral.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-07T12:23-04:00",
+   "horodate": "2026-09-07T14:22-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -2255,6 +2255,18 @@
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/conseil-des-ministres/milliard-ira-rencontrer-frechette-malgre-son-theatre.php",
      "auteur": "Gabriel Béland",
      "date": "2026-09-07T12:23-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281318/contre-tarifs-frechette-critique-conseil-ministre",
+     "date": "2026-09-07T14:22-04:00",
+     "auteur": "Jean-François Thériault"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-09-07/reunion-avant-les-contre-tarifs-canadiens/st-pierre-plamondon-met-frechette-au-defi-puis-se-ravise.php",
+     "auteur": "Fanny Lévesque",
+     "date": "2026-09-07T14:22-04:00"
     }
    ],
    "image_auto": "aucune",
@@ -2644,6 +2656,81 @@
    "_slug": "elections-quebec-reconduit-dans-terrebonne-le-directeur-de-s-33a167"
   },
   {
+   "titre": "En tournée dans le Bas-Saint-Laurent, St-Pierre Plamondon promet plus d'aide à domicile pour les aînés",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec (Rivière-du-Loup)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/elections-quebec-2026/paul-st-pierre-plamondon-fait-campagne-a-riviere-du-loup/",
+   "resume": "Reste à savoir combien ce nouveau soutien coûtera, et qui pourra vraiment en profiter.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T14:22-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/elections-quebec-2026/paul-st-pierre-plamondon-fait-campagne-a-riviere-du-loup/",
+     "auteur": "Marc-Antoine Paquin",
+     "date": "2026-09-07T14:22-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile"
+  },
+  {
+   "titre": "Duhaime propose des retouches au projet de loi 3, en visite aux locaux québécois de la CSN",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Quotidien",
+   "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/07/duhaime-veut-proteger-les-syndiques-des-syndicats-72ORBB63ARBU3BHAFSJEFLRFII/",
+   "resume": "Reste à savoir comment la CSN accueille ces retouches, proposées à ses propres bureaux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T14:22-04:00",
+   "sources": [
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/07/duhaime-veut-proteger-les-syndiques-des-syndicats-72ORBB63ARBU3BHAFSJEFLRFII/",
+     "auteur": "Gabrielle Cantin",
+     "date": "2026-09-07T14:22-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "duhaime-propose-des-retouches-au-projet-de-loi-3-csn",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "duhaime-propose-des-retouches-au-projet-de-loi-3-csn"
+  },
+  {
+   "titre": "En visite à Laval, Milliard s'engage à agrandir et moderniser la Cité-de-la-Santé",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec (Laval)",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/secteurs/politique/jour-12-milliard-veut-prioriser-lagrandissement-et-la-modernisation-du-seul-hopital-de-laval/",
+   "resume": "Reste à savoir quand ces travaux commenceraient, et ce qu'ils coûteraient aux contribuables.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T14:22-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-12-milliard-veut-prioriser-lagrandissement-et-la-modernisation-du-seul-hopital-de-laval/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-07T14:22-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "en-visite-a-laval-milliard-agrandir-moderniser-cite-de-la-sante",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "en-visite-a-laval-milliard-agrandir-moderniser-cite-de-la-sante"
+  },
+  {
    "titre": "Le SPVM enquête sur une agression à l'arme blanche survenue vers 1 h 30 dans Ville-Marie",
    "cahier": "montreal",
    "rubrique": "faits-divers",
@@ -2964,6 +3051,7 @@
    "legende": "",
    "horodate": "2026-09-07T12:42-04:00",
    "permalien": "harrington-doit-statuer-le-21-septembre-sur-une-maison-et-un-07b189",
+   "image_auto": "aucune",
    "_volet": "local",
    "_fichier": "revue-local-2026-09-07.json",
    "_slug": "harrington-doit-statuer-le-21-septembre-sur-une-maison-et-un-07b189"
@@ -2987,6 +3075,7 @@
    "legende": "",
    "horodate": "2026-09-07T12:42-04:00",
    "permalien": "le-ministere-des-transports-fermera-le-pont-du-chemin-trinee-57f616",
+   "image_auto": "aucune",
    "_volet": "local",
    "_fichier": "revue-local-2026-09-07.json",
    "_slug": "le-ministere-des-transports-fermera-le-pont-du-chemin-trinee-57f616"
