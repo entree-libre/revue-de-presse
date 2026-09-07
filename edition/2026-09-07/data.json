@@ -1944,7 +1944,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada, États-Unis",
-   "medias": "La Presse, The Globe and Mail",
+   "medias": "CBC, La Presse, Les Affaires, RFI, The Globe and Mail",
    "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/guerre-commerciale/trump-menace-d-interdire-la-vente-d-avions-de-bombardier-aux-etats-unis.php",
    "sources": [
     {
@@ -1958,6 +1958,23 @@
      "url": "https://www.theglobeandmail.com/business/article-trump-threatens-to-ban-us-sales-of-bombardiers-canadian-built-jets/",
      "auteur": "Bhargav Acharya",
      "date": "2026-09-07T14:34-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260907-donald-trump-menace-de-s-en-prendre-aux-ventes-de-l-avionneur-canadien-bombardier-aux-%C3%A9tats-unis",
+     "auteur": "RFI avec AFP",
+     "date": "2026-09-07T16:22-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/economie/trump-menace-de-sen-prendre-aux-ventes-de-bombardier/",
+     "auteur": "AFP",
+     "date": "2026-09-07T15:46-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/trump-bombardier-truth-social-post-9.7335014?cmp=rss",
+     "date": "2026-09-07T16:11-04:00"
     }
    ],
    "resume": "Le président exige une production rapatriée aux États-Unis, sous peine de fermer son marché à l'avionneur.",
@@ -2175,6 +2192,364 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-07.json",
    "_slug": "le-phragmite-plante-envahissante-continue-de-gagner-du-terra-4137e6"
+  },
+  {
+   "titre": "L'ONU redoute que Gaza n'enterre la solution à deux États",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Gaza, Israël",
+   "medias": "20 Minutes, Radio-Canada",
+   "url": "https://www.20minutes.fr/monde/etats-unis/4243430-20260907-gaza-haut-representant-redoute-solution-deux-etats-impossible",
+   "sources": [
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/etats-unis/4243430-20260907-gaza-haut-representant-redoute-solution-deux-etats-impossible",
+     "date": "2026-09-07T15:01-04:00",
+     "auteur": "Laurent Garrigues"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281374/gaza-solution-deux-etats-impossible-cisjordanie-violences",
+     "date": "2026-09-07T15:41-04:00"
+    }
+   ],
+   "resume": "Le représentant du conseil de paix formé par Trump craint que l'escalade compromette durablement une cohabitation future.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "l-onu-redoute-que-gaza-n-enterre-la-solution-a-deux-etats-dc217d",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "l-onu-redoute-que-gaza-n-enterre-la-solution-a-deux-etats-dc217d"
+  },
+  {
+   "titre": "L'ONU somme Washington de rendre des comptes après 23 morts en détention migratoire",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis",
+   "medias": "Euronews, La 1ère",
+   "url": "https://fr.euronews.com/2026/09/07/washington-doit-rendre-des-comptes-apres-la-mort-de-23-migrants-en-detention-affirme-lonu",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/09/07/washington-doit-rendre-des-comptes-apres-la-mort-de-23-migrants-en-detention-affirme-lonu",
+     "date": "2026-09-07T14:56-04:00",
+     "auteur": "Gavin Blackburn"
+    },
+    {
+     "media": "La 1ère",
+     "url": "https://la1ere.franceinfo.fr/guadeloupe/migrants-morts-en-detention-l-onu-appelle-les-etats-unis-a-rendre-des-comptes-et-a-stopper-les-expulsions-vers-haiti-1736279.html",
+     "date": "2026-09-07T15:48-04:00"
+    }
+   ],
+   "resume": "Selon le haut-commissaire Volker Türk, quatre décès de plus depuis juin justifient un arrêt des expulsions.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "l-onu-somme-washington-de-rendre-des-comptes-apres-23-morts-348ba1",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "l-onu-somme-washington-de-rendre-des-comptes-apres-23-morts-348ba1"
+  },
+  {
+   "titre": "Israël : l'ex-chef d'état-major Eisenkot accuse Netanyahu de privilégier sa survie politique",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Israël",
+   "medias": "France 24, TV5MONDE",
+   "url": "https://www.france24.com/fr/info-en-continu/20260907-isra%C3%ABl-le-rival-de-netanyahu-l-accuse-de-prioriser-sa-survie-politique",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-isra%C3%ABl-le-rival-de-netanyahu-l-accuse-de-prioriser-sa-survie-politique",
+     "auteur": "FRANCE24",
+     "date": "2026-09-07T15:39-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/israel-le-rival-de-netanyahu-laccuse-de-prioriser-sa-survie-politique-2836558",
+     "auteur": "TV5MONDE Info",
+     "date": "2026-09-07T15:40-04:00"
+    }
+   ],
+   "resume": "Gadi Eisenkot lance sa liste électorale en reprochant au premier ministre de fuir ses responsabilités depuis 2023.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "israel-l-ex-chef-d-etat-major-eisenkot-accuse-netanyahu-de-p-2007d6",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "israel-l-ex-chef-d-etat-major-eisenkot-accuse-netanyahu-de-p-2007d6"
+  },
+  {
+   "titre": "Macron demande à Bruxelles d'interdire les réseaux sociaux aux moins de 15 ans",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "France, Union européenne",
+   "medias": "franceinfo, CNEWS",
+   "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/emmanuel-macron-demande-a-ursula-von-der-leyen-une-interdiction-europeenne-des-reseaux-sociaux-aux-moins-de-15-ans_8181692.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/emmanuel-macron-demande-a-ursula-von-der-leyen-une-interdiction-europeenne-des-reseaux-sociaux-aux-moins-de-15-ans_8181692.html",
+     "date": "2026-09-07T15:34-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-07/emmanuel-macron-demande-ursula-von-der-leyen-une-interdiction-europeenne-des",
+     "auteur": "CNEWS avec AFP",
+     "date": "2026-09-07T17:19-04:00"
+    }
+   ],
+   "resume": "Le président français agit après la censure d'une loi similaire par le Conseil constitutionnel en août.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "macron-demande-a-bruxelles-d-interdire-les-reseaux-sociaux-a-cbcaeb",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "macron-demande-a-bruxelles-d-interdire-les-reseaux-sociaux-a-cbcaeb"
+  },
+  {
+   "titre": "La Nouvelle-Écosse entame les travaux après les inondations record du Cap-Breton",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Nouvelle-Écosse",
+   "medias": "Le Devoir, CBC",
+   "url": "https://www.ledevoir.com/actualites/environnement/1007102/nouvelle-ecosse-entame-travaux-apres-inondations-cap-breton",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/environnement/1007102/nouvelle-ecosse-entame-travaux-apres-inondations-cap-breton",
+     "auteur": "Eli Ridder",
+     "date": "2026-09-07T17:28-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-storm-recap-9.7335001?cmp=rss",
+     "auteur": "Ryan Snoddon",
+     "date": "2026-09-07T15:39-04:00"
+    }
+   ],
+   "resume": "Un record de précipitations en deux jours a frappé l'île du Cap-Breton, selon les météorologues.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "la-nouvelle-ecosse-entame-les-travaux-apres-les-inondations-823fb4",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "la-nouvelle-ecosse-entame-les-travaux-apres-les-inondations-823fb4"
+  },
+  {
+   "titre": "Les contre-tarifs canadiens contre les États-Unis entrent en vigueur mardi",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Le Devoir, Radio-Canada",
+   "url": "https://www.ledevoir.com/economie/1007081/contre-tarifs-douaniers-canadiens-entrent-vigueur-mardi",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1007081/contre-tarifs-douaniers-canadiens-entrent-vigueur-mardi",
+     "auteur": "Mathilde Beaulieu-Lépine",
+     "date": "2026-09-07T15:00-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281350/fete-travail-tarifs-travailleurs",
+     "date": "2026-09-07T15:11-04:00",
+     "auteur": "Pierre Chapdelaine de Montvalon"
+    }
+   ],
+   "resume": "Ottawa réplique ainsi à l'échec des négociations commerciales avec Washington, plus tôt cet été.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a"
+  },
+  {
+   "titre": "Poilievre réclame la transparence d'Ottawa sur le coût des contre-tarifs",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Canada",
+   "medias": "La Presse canadienne",
+   "url": "https://www.latribune.ca/affaires/2026/09/07/droits-de-douane-pierre-poilievre-reclame-plus-de-transparence-de-mark-carney-AWSH2JSL5BF7NF2SPHOE56SM4Y/",
+   "sources": [
+    {
+     "media": "La Presse canadienne",
+     "url": "https://www.latribune.ca/affaires/2026/09/07/droits-de-douane-pierre-poilievre-reclame-plus-de-transparence-de-mark-carney-AWSH2JSL5BF7NF2SPHOE56SM4Y/",
+     "auteur": "Alessia Passafiume, La Presse Canadienne",
+     "date": "2026-09-07T15:57-04:00"
+    }
+   ],
+   "resume": "Le chef conservateur exige aussi la publication du texte intégral de l'entente commerciale ratée avec Washington.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "poilievre-reclame-la-transparence-d-ottawa-sur-le-cout-des-c-505d6f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "poilievre-reclame-la-transparence-d-ottawa-sur-le-cout-des-c-505d6f"
+  },
+  {
+   "titre": "Une dizaine de véhicules incendiés au centre-ville de Granby, un suspect appréhendé",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Granby (Estrie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281390/auto-brulee-incendie-centre-ville-granby",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281390/auto-brulee-incendie-centre-ville-granby",
+     "date": "2026-09-07T16:35-04:00",
+     "auteur": "Laurence Trahan"
+    }
+   ],
+   "resume": "Le service de police précise qu'aucun des véhicules touchés n'est une perte totale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "une-dizaine-de-vehicules-incendies-au-centre-ville-de-granby-f37ccc",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "une-dizaine-de-vehicules-incendies-au-centre-ville-de-granby-f37ccc"
+  },
+  {
+   "titre": "Une femme agressée à son domicile devant ses enfants à Trois-Rivières",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Trois-Rivières (Mauricie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281376/agression-domicile-femme-enfants-trois-rivieres",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281376/agression-domicile-femme-enfants-trois-rivieres",
+     "date": "2026-09-07T15:19-04:00",
+     "auteur": "Pascale Langlois"
+    }
+   ],
+   "resume": "L'agresseur présumé serait reparti en proférant des menaces, selon le signalement fait à la police.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "une-femme-agressee-a-son-domicile-devant-ses-enfants-a-trois-2cfc61",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "une-femme-agressee-a-son-domicile-devant-ses-enfants-a-trois-2cfc61"
+  },
+  {
+   "titre": "La Tuque : cinq mois de prison pour un conducteur ivre qui a heurté un piéton",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "La Tuque (Mauricie)",
+   "medias": "Le Nouvelliste",
+   "url": "https://www.lenouvelliste.ca/actualites/justice-et-faits-divers/2026/09/07/alcool-au-volant-cinq-mois-de-prison-pour-avoir-heurte-un-pieton-XTB3NOP3KRFCXO35C7Z3NWUPYQ/",
+   "sources": [
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/justice-et-faits-divers/2026/09/07/alcool-au-volant-cinq-mois-de-prison-pour-avoir-heurte-un-pieton-XTB3NOP3KRFCXO35C7Z3NWUPYQ/",
+     "auteur": "Martin Lafrenière",
+     "date": "2026-09-07T16:00-04:00"
+    }
+   ],
+   "resume": "La défense a invoqué une période difficile marquée par plusieurs deuils dans l'entourage de l'accusé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "la-tuque-cinq-mois-de-prison-pour-un-conducteur-ivre-qui-a-h-cd0f8e",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "la-tuque-cinq-mois-de-prison-pour-un-conducteur-ivre-qui-a-h-cd0f8e"
+  },
+  {
+   "titre": "Des citoyens réclament un moratoire sur les projets éoliens devant l'Assemblée nationale",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281366/moratoire-energie-eoliens-politique-quebec",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281366/moratoire-energie-eoliens-politique-quebec",
+     "date": "2026-09-07T17:04-04:00",
+     "auteur": "Jérémie Camirand"
+    }
+   ],
+   "resume": "Des citoyens et des organismes ont manifesté lundi pour freiner l'implantation de nouveaux parcs éoliens.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "des-citoyens-reclament-un-moratoire-sur-les-projets-eoliens-1ec2b0",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "des-citoyens-reclament-un-moratoire-sur-les-projets-eoliens-1ec2b0"
+  },
+  {
+   "titre": "Pourquoi les banques centrales européennes rapatrient leur or d'Amérique du Nord",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "Europe",
+   "medias": "Slate.fr",
+   "url": "https://www.slate.fr/monde/or-metal-argent-amerique-du-nord-europe-banque-centrale-reserves",
+   "sources": [
+    {
+     "media": "Slate.fr",
+     "url": "https://www.slate.fr/monde/or-metal-argent-amerique-du-nord-europe-banque-centrale-reserves",
+     "auteur": "Elena Gillet",
+     "date": "2026-09-07T15:55-04:00"
+    }
+   ],
+   "resume": "La Banque d'Angleterre, qui détient près de 400 000 lingots, illustre ce mouvement de repli vers l'Europe.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "pourquoi-les-banques-centrales-europeennes-rapatrient-leur-o-fa583d",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "pourquoi-les-banques-centrales-europeennes-rapatrient-leur-o-fa583d"
+  },
+  {
+   "titre": "Des failles dans des téléviseurs LG permettraient d'écouter une pièce, écran éteint",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "MacGeneration",
+   "url": "https://www.macg.co/materiel/2026/09/tv-lg-des-failles-permettent-decouter-la-piece-meme-ecran-eteint-310907",
+   "sources": [
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/materiel/2026/09/tv-lg-des-failles-permettent-decouter-la-piece-meme-ecran-eteint-310907",
+     "auteur": "Félix Cattafesta",
+     "date": "2026-09-07T15:06-04:00"
+    }
+   ],
+   "resume": "Des chercheurs montrent qu'un téléviseur compromis peut devenir un dispositif d'écoute même débranché du réseau.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T18:43-04:00",
+   "permalien": "des-failles-dans-des-televiseurs-lg-permettraient-d-ecouter-402c5a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "des-failles-dans-des-televiseurs-lg-permettraient-d-ecouter-402c5a"
   },
   {
    "titre": "À Radisson, dans le Nord-du-Québec, l'essence se vend jusqu'à 2,37 $ le litre",
@@ -5825,7 +6200,7 @@
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Miami (Floride)",
-   "medias": "La Presse, Europe 1, Ouest-France, Coops de l'information, The Verge, Le Figaro, France 24, TV5MONDE, franceinfo, Le Soleil, 20 Minutes",
+   "medias": "20 Minutes, Europe 1, France 24, Global News, La Presse, Le Figaro, Le Soleil, Ouest-France, TV5MONDE, The Verge, franceinfo",
    "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
    "sources": [
     {
@@ -5889,6 +6264,17 @@
      "url": "https://www.lapresse.ca/international/etats-unis/2026-09-07/miami/une-enquete-federale-ouverte-apres-l-accident-mortel-d-un-avion-cargo-d-amazon.php",
      "date": "2026-09-07T14:00-04:00",
      "auteur": "Associated Press"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/usa/le-crash-spectaculaire-d-un-avion-cargo-d-amazon_8181719.html",
+     "date": "2026-09-07T16:00-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12050224/miami-amazon-plane-crash-ntsb-update/",
+     "auteur": "Sean Previl",
+     "date": "2026-09-07T17:21-04:00"
     }
    ],
    "resume": "Mise à jour, 15 h 53 — Miami n'a pas les systèmes d'arrêt d'urgence installés dans plus de 120 aéroports américains, selon la FAA.",
@@ -6516,12 +6902,18 @@
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/proces-de-l-assassinat-du-joueur-de-rugby-federico-martin-aramburu-deux-militants-d-extreme-droite-risquent-la-prison-a-perpetuite_8180513.html",
      "date": "2026-09-07T02:43-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/france/20260907-ouourour",
+     "auteur": "RFI",
+     "date": "2026-09-07T15:54-04:00"
     }
    ],
-   "resume": "Quatre balles à l'aube boulevard Saint-Germain, et deux accusés qui nient avoir voulu tuer.",
+   "resume": "Mise à jour, 18 h 43 — Loïk Le Priol affirme à l'ouverture du procès avoir tiré pour se défendre.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-06T21:05-04:00",
+   "horodate": "2026-09-07T18:43-04:00",
    "permalien": "a-paris-s-ouvre-le-proces-des-deux-hommes-poursuivis-pour-la-a88141",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-07.json",
@@ -8194,9 +8586,9 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Russie, Ukraine",
-   "medias": "BBC, The Associated Press, Le Parisien, Radio-Canada, RFI, Libération, Al Jazeera, The Kyiv Independent, franceinfo, La Libre.be, IntelliNews, Ukrinform, France 24, RFE/RL, The Guardian, BFMTV, The Independent, La Croix, Les Échos",
+   "medias": "Al Jazeera, BBC, BFMTV, France 24, IntelliNews, La Croix, La Libre.be, Le Parisien, Les Échos, Libération, RFE/RL, RFI, Radio-Canada, The Associated Press, The Guardian, The Independent, The Kyiv Independent, Ukrinform, franceinfo",
    "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo",
-   "resume": "Mise à jour, 11 h 30 — Moscou n'écarte plus une table à trois, et deux coups de fil de Trump attendus dans la journée.",
+   "resume": "Mise à jour, 18 h 43 — Zelensky affirme que les émissaires de Trump lui ont rapporté que la Russie serait prête à discuter.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Moscow_Kremlin_Towers_of_south_wall.jpg/1280px-Moscow_Kremlin_Towers_of_south_wall.jpg",
    "legende": "Les tours de la muraille sud du Kremlin, à Moscou.",
    "photo_auteur": "Dmitry Ivanov",
@@ -8324,9 +8716,19 @@
      "media": "Les Échos",
      "url": "https://www.lesechos.fr/monde/europe/guerre-en-ukraine-trump-appellera-ce-lundi-poutine-puis-zelensky-2250080",
      "date": "2026-09-07T01:41-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4161806-zelensky-receives-message-from-trumps-envoys-that-russia-is-ready-for-talks.html",
+     "date": "2026-09-07T15:30-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281364/discussions-russie-ukraine-guerre",
+     "date": "2026-09-07T15:07-04:00"
     }
    ],
-   "horodate": "2026-09-07T11:58-04:00",
+   "horodate": "2026-09-07T18:43-04:00",
    "permalien": "les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea",
    "_fichier": "revue-report-2026-09-07.json",
    "_volet": "report",
