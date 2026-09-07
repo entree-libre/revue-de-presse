@@ -3,6 +3,8 @@
  "volets": [
   "continu",
   "elections",
+  "monde",
+  "quebec-canada",
   "report"
  ],
  "articles": [
@@ -507,6 +509,1069 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-07.json",
    "_slug": "une-aile-quebecoise-de-la-france-insoumise-doit-cogner-69e4a3"
+  },
+  {
+   "titre": "Cinq chefs de parti risquent leur siège face à un candidat rival dans leur propre circonscription",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/long-format/2280475/candidats-chefs-partis-campagne-elections-quebec",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/long-format/2280475/candidats-chefs-partis-campagne-elections-quebec",
+     "auteur": "François-Alexis Favreau",
+     "date": "2026-09-07T06:02-04:00"
+    }
+   ],
+   "resume": "Un ex-péquiste, une ex-libérale et un jeune conservateur veulent tous prouver qu'un chef n'est jamais imbattable chez lui.",
+   "horodate": "2026-09-07T10:02+00:00",
+   "permalien": "cinq-chefs-de-parti-risquent-leur-siege-face-a-un-candidat-r-739877",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "cinq-chefs-de-parti-risquent-leur-siege-face-a-un-candidat-r-739877"
+  },
+  {
+   "titre": "Dans Charlesbourg, la candidate caquiste mise sur le troisième lien pour l'emporter face au PQ et au PCQ",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Charlesbourg)",
+   "medias": "Coops de l'information",
+   "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/07/un-blitz-de-poignees-de-main-pour-marie-josee-morency-J2ID3HCHTJF2BPVN4XUTA4X57M/",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/07/un-blitz-de-poignees-de-main-pour-marie-josee-morency-J2ID3HCHTJF2BPVN4XUTA4X57M/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-07T06:02-04:00"
+    }
+   ],
+   "resume": "Une ex-patronne de chambre de commerce mise tout sur un pont promis pour l'emporter dans un trio serré.",
+   "horodate": "2026-09-07T10:02+00:00",
+   "permalien": "dans-charlesbourg-la-candidate-caquiste-mise-sur-le-troisiem-11d81e",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "dans-charlesbourg-la-candidate-caquiste-mise-sur-le-troisiem-11d81e"
+  },
+  {
+   "titre": "Promettre de réduire l'immigration ne réglera pas la crise dans les écoles, plaide une chronique",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.latribune.ca/chroniques/mickael-bergeron/2026/09/07/les-promesses-sur-limmigration-sont-irrealistes-LN6L4YZ64NFBFICNX4E36RW27E/",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.latribune.ca/chroniques/mickael-bergeron/2026/09/07/les-promesses-sur-limmigration-sont-irrealistes-LN6L4YZ64NFBFICNX4E36RW27E/",
+     "auteur": "Mickaël Bergeron",
+     "date": "2026-09-07T06:02-04:00"
+    }
+   ],
+   "resume": "Le manque de profs et de locaux existe même là où presque personne n'immigre, chiffres à l'appui.",
+   "horodate": "2026-09-07T10:02+00:00",
+   "permalien": "promettre-de-reduire-l-immigration-ne-reglera-pas-la-crise-d-286097",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "promettre-de-reduire-l-immigration-ne-reglera-pas-la-crise-d-286097"
+  },
+  {
+   "titre": "Une ethnologue propose de réserver des sièges autochtones à l'Assemblée nationale",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-07/les-autochtones-et-la-campagne-electorale/le-son-des-criquets.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-07/les-autochtones-et-la-campagne-electorale/le-son-des-criquets.php",
+     "auteur": "Isabelle Picard",
+     "date": "2026-09-07T06:02-04:00"
+    }
+   ],
+   "resume": "Depuis 30 ans, elle constate que les enjeux autochtones disparaissent des programmes sitôt la campagne lancée.",
+   "horodate": "2026-09-07T10:02+00:00",
+   "permalien": "une-ethnologue-propose-de-reserver-des-sieges-autochtones-a-31be44",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "une-ethnologue-propose-de-reserver-des-sieges-autochtones-a-31be44"
+  },
+  {
+   "titre": "Le PLQ et le PQ ajoutent chacun une candidate dans Chambly",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Chambly)",
+   "medias": "L'Oeil Régional",
+   "url": "https://oeilregional.com/deux-nouvelles-candidates-dans-chambly/",
+   "sources": [
+    {
+     "media": "L'Oeil Régional",
+     "url": "https://oeilregional.com/deux-nouvelles-candidates-dans-chambly/",
+     "date": "2026-09-07T06:02-04:00"
+    }
+   ],
+   "resume": "Une ex-enseignante devenue autrice et une étudiante en politique rejoignent une lutte à cinq partis dans ce comté.",
+   "horodate": "2026-09-07T10:02+00:00",
+   "permalien": "le-plq-et-le-pq-ajoutent-chacun-une-candidate-dans-chambly-1efbb0",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "le-plq-et-le-pq-ajoutent-chacun-une-candidate-dans-chambly-1efbb0"
+  },
+  {
+   "titre": "À Trois-Rivières, un candidat solidaire fait campagne exclusivement à vélo",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Trois-Rivières)",
+   "medias": "Coops de l'information",
+   "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/07/faire-campagne-a-velo-KYMRUBL64BFODN6LZPX4J5C4DM/",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/07/faire-campagne-a-velo-KYMRUBL64BFODN6LZPX4J5C4DM/",
+     "auteur": "Amélie Marcoux",
+     "date": "2026-09-07T06:02-04:00"
+    }
+   ],
+   "resume": "Dans la circonscription convoitée par la première ministre elle-même, il a choisi les pédales plutôt que les pancartes.",
+   "horodate": "2026-09-07T10:02+00:00",
+   "permalien": "a-trois-rivieres-un-candidat-solidaire-fait-campagne-exclusi-cd351f",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "a-trois-rivieres-un-candidat-solidaire-fait-campagne-exclusi-cd351f"
+  },
+  {
+   "titre": "Fréchette promet plus d'argent aux enfants handicapés, une mère parle plutôt de bureaucratie",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec (Lanaudière)",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/carnet-de-campagne/l-envers-d-un-decor-cute.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/carnet-de-campagne/l-envers-d-un-decor-cute.php",
+     "auteur": "Tommy Chouinard",
+     "date": "2026-09-07T06:02-04:00"
+    }
+   ],
+   "resume": "Derrière la scène attendrissante d'une visite de campagne, une présidente de comité scolaire réclame surtout moins de paperasse.",
+   "horodate": "2026-09-07T10:02+00:00",
+   "permalien": "frechette-promet-plus-d-argent-aux-enfants-handicapes-une-me-e310fe",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "frechette-promet-plus-d-argent-aux-enfants-handicapes-une-me-e310fe"
+  },
+  {
+   "titre": "Quatre partis sur cinq s'engagent à respecter un code d'éthique sur l'intelligence artificielle",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/les-defis-d-une-campagne-a-l-ere-de-l-ia.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/les-defis-d-une-campagne-a-l-ere-de-l-ia.php",
+     "auteur": "Henri Ouellette-Vézina et Charles Lecavalier",
+     "date": "2026-09-07T06:02-04:00"
+    }
+   ],
+   "resume": "Un faux baiser généré par IA entre deux chefs circulait déjà avant le vrai coup d'envoi.",
+   "horodate": "2026-09-07T10:02+00:00",
+   "permalien": "quatre-partis-sur-cinq-s-engagent-a-respecter-un-code-d-ethi-514730",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "quatre-partis-sur-cinq-s-engagent-a-respecter-un-code-d-ethi-514730"
+  },
+  {
+   "titre": "Fréchette conteste l'idée d'un système scolaire à trois vitesses, que corrobore un rapport de santé publique",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-three-tier-education-system-9.7329454",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-three-tier-education-system-9.7329454",
+     "auteur": "Annabelle Olivier",
+     "date": "2026-09-07T06:02-04:00"
+    }
+   ],
+   "resume": "Un rapport chiffre l'écart de réussite entre écoles privées et publiques à près de treize points de pourcentage.",
+   "horodate": "2026-09-07T10:02+00:00",
+   "permalien": "frechette-conteste-l-idee-d-un-systeme-scolaire-a-trois-vite-68c2fa",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "frechette-conteste-l-idee-d-un-systeme-scolaire-a-trois-vite-68c2fa"
+  },
+  {
+   "titre": "Des ex-candidats racontent l'anxiété, la solitude et parfois les menaces d'une course électorale",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/long-format/2280426/impacts-sante-psychologique-candidats-elections",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/long-format/2280426/impacts-sante-psychologique-candidats-elections",
+     "auteur": "Louis Gagné",
+     "date": "2026-09-07T06:02-04:00"
+    }
+   ],
+   "resume": "Une ex-députée dit avoir eu peur pour son fils, un soir de porte-à-porte, en pleine campagne polarisante.",
+   "horodate": "2026-09-07T10:02+00:00",
+   "permalien": "des-ex-candidats-racontent-l-anxiete-la-solitude-et-parfois-e1feb8",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "des-ex-candidats-racontent-l-anxiete-la-solitude-et-parfois-e1feb8"
+  },
+  {
+   "titre": "Le représentant du Vatican pour les Affaires étrangères a passé quatre jours à Moscou fin août",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Vatican, Russie",
+   "medias": "20 Minutes",
+   "url": "https://www.20minutes.fr/monde/russie/4242766-20260907-russie-diplomatie-ponts-pourquoi-vatican-refuse-rompre-dialogue-kremlin",
+   "sources": [
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/russie/4242766-20260907-russie-diplomatie-ponts-pourquoi-vatican-refuse-rompre-dialogue-kremlin",
+     "auteur": "Diane Regny",
+     "date": "2026-09-07T02:02-04:00"
+    }
+   ],
+   "resume": "Une diplomatie patiente qui table sur des échanges de prisonniers plutôt que sur la paix immédiate.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "le-representant-du-vatican-pour-les-affaires-etrangeres-a-pa-58d1b3",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "le-representant-du-vatican-pour-les-affaires-etrangeres-a-pa-58d1b3"
+  },
+  {
+   "titre": "Une explosion de feux d'artifice lors d'une fête religieuse fait au moins dix morts au Mexique",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "État de Mexico (Mexique)",
+   "medias": "TVA Nouvelles",
+   "url": "https://www.tvanouvelles.ca/2026/09/06/mexique--dix-morts-et-des-dizaines-de-blesses-apres-lexplosion-dun-entrepot-de-feux-dartifice",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/06/mexique--dix-morts-et-des-dizaines-de-blesses-apres-lexplosion-dun-entrepot-de-feux-dartifice",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:51-04:00"
+    }
+   ],
+   "resume": "Un char traditionnel chargé de pétards, une place de village, puis l'embrasement soudain.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "une-explosion-de-feux-d-artifice-lors-d-une-fete-religieuse-9041a4",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "une-explosion-de-feux-d-artifice-lors-d-une-fete-religieuse-9041a4"
+  },
+  {
+   "titre": "Huit pays majoritairement musulmans dénoncent ensemble les appels israéliens à vider Gaza de sa population",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Gaza (Palestine), Israël",
+   "medias": "Le Monde, RFI",
+   "url": "https://www.lemonde.fr/international/article/2026/09/06/bande-de-gaza-huit-pays-a-majorite-musulmane-condamnent-dans-les-termes-les-plus-fermes-les-appels-de-ministres-israeliens-a-deplacer-les-palestiniens_6767307_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/06/bande-de-gaza-huit-pays-a-majorite-musulmane-condamnent-dans-les-termes-les-plus-fermes-les-appels-de-ministres-israeliens-a-deplacer-les-palestiniens_6767307_3210.html",
+     "auteur": "Le Monde avec AFP",
+     "date": "2026-09-06T04:00-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20260906-huit-pays-musulmans-d-une-m%C3%AAme-voix-contre-l-expulsion-des-palestiniens-de-gaza",
+     "date": "2026-09-06T16:02-04:00"
+    }
+   ],
+   "resume": "Riyad, Le Caire, Ankara et cinq autres capitales invoquent la même solution à deux États.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "huit-pays-majoritairement-musulmans-denoncent-ensemble-les-a-851153",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "huit-pays-majoritairement-musulmans-denoncent-ensemble-les-a-851153"
+  },
+  {
+   "titre": "À Berlin, l'arbre planté en mémoire des victimes d'un attentat visant la marche des fiertés a été arraché",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Berlin (Allemagne)",
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/international/article/2026/09/06/attentat-contre-la-marche-des-fiertes-de-berlin-le-lieu-de-memoire-vandalise-deux-fois-en-une-semaine_6767343_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/06/attentat-contre-la-marche-des-fiertes-de-berlin-le-lieu-de-memoire-vandalise-deux-fois-en-une-semaine_6767343_3210.html",
+     "auteur": "Le Monde avec AFP",
+     "date": "2026-09-06T04:00-04:00"
+    }
+   ],
+   "resume": "Un banc arc-en-ciel avait déjà été visé une semaine plus tôt, près du mémorial installé en août.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "a-berlin-l-arbre-plante-en-memoire-des-victimes-d-un-attenta-b587c3",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "a-berlin-l-arbre-plante-en-memoire-des-victimes-d-un-attenta-b587c3"
+  },
+  {
+   "titre": "Le nombre de demandes d'indemnisation des victimes de pesticides atteint un niveau record en France",
+   "cahier": "international",
+   "rubrique": "sante",
+   "territoire": "France",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/plus-de-1-000-personnes-ont-demande-a-beneficier-du-fonds-d-indemnisation-des-victimes-de-pesticides-en-2025-un-nombre-record_8179640.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/plus-de-1-000-personnes-ont-demande-a-beneficier-du-fonds-d-indemnisation-des-victimes-de-pesticides-en-2025-un-nombre-record_8179640.html",
+     "auteur": "franceinfo avec AFP",
+     "date": "2026-09-06T06:05-04:00"
+    }
+   ],
+   "resume": "Des agriculteurs à la retraite, des cancers de la prostate, et un fonds qui puise dans ses réserves.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "le-nombre-de-demandes-d-indemnisation-des-victimes-de-pestic-0726a1",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "le-nombre-de-demandes-d-indemnisation-des-victimes-de-pestic-0726a1"
+  },
+  {
+   "titre": "Des centaines de manifestants anti-immigration tentent de bloquer l'arrivée de migrants à Portsmouth",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Portsmouth (Royaume-Uni)",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/societe/immigration/au-royaume-uni-une-manifestation-anti-migrants-a-portsmouth-apres-l-arrivee-d-une-embarcation_8180585.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/immigration/au-royaume-uni-une-manifestation-anti-migrants-a-portsmouth-apres-l-arrivee-d-une-embarcation_8180585.html",
+     "auteur": "franceinfo avec AFP",
+     "date": "2026-09-07T05:09-04:00"
+    }
+   ],
+   "resume": "Au lendemain d'un blocage similaire à Douvres, dans un port où ces arrivées restent rares.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/69/Aerial_View_-_Portsmouth_Harbour_-_geograph.org.uk_-_949912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Le port de Portsmouth, dans le sud de l'Angleterre.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "des-centaines-de-manifestants-anti-immigration-tentent-de-bl-714320",
+   "image_auto": "aucune",
+   "photo_auteur": "Colin Babb",
+   "photo_licence": "CC BY-SA 2.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "des-centaines-de-manifestants-anti-immigration-tentent-de-bl-714320"
+  },
+  {
+   "titre": "Le Pentagone soumet une cinquantaine de hauts responsables militaires au détecteur de mensonges après une fuite",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "BFMTV, RFI",
+   "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/des-responsables-militaires-americains-soumis-au-detecteur-de-mensonges-apres-des-fuites-dans-la-presse-sur-une-penurie-de-munitions_AD-202609060159.html",
+   "sources": [
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/des-responsables-militaires-americains-soumis-au-detecteur-de-mensonges-apres-des-fuites-dans-la-presse-sur-une-penurie-de-munitions_AD-202609060159.html",
+     "auteur": "A.C. avec AFP",
+     "date": "2026-09-06T05:18-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/monde/20260906-%C3%A9tats-unis-le-pentagone-passe-plusieurs-hauts-responsables-militaires-au-d%C3%A9tecteur-de-mensonges-apr%C3%A8s-une-fuite",
+     "auteur": "Gwendal Lavina",
+     "date": "2026-09-05T21:08-04:00"
+    }
+   ],
+   "resume": "Retrouver qui a parlé d'une pénurie de munitions, une affirmation que dément la Maison Blanche.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Pentagon%2C_Headquarters_of_the_US_Department_of_Defense_%28cropped%29.jpg/1280px-The_Pentagon%2C_Headquarters_of_the_US_Department_of_Defense_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le Pentagone, siège du département de la Défense des États-Unis.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "le-pentagone-soumet-une-cinquantaine-de-hauts-responsables-m-ad3a9f",
+   "image_auto": "aucune",
+   "photo_auteur": "Touch Of Light",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "le-pentagone-soumet-une-cinquantaine-de-hauts-responsables-m-ad3a9f"
+  },
+  {
+   "titre": "Le FBI enquête sur une base de données du dark web proposant 170 millions de documents d'identité volés",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis, Canada",
+   "medias": "Challenges",
+   "url": "https://www.challenges.fr/monde/etats-unis-le-fbi-enquete-sur-la-vente-en-ligne-de-millions-de-permis-de-conduire-voles_645586",
+   "sources": [
+    {
+     "media": "Challenges",
+     "url": "https://www.challenges.fr/monde/etats-unis-le-fbi-enquete-sur-la-vente-en-ligne-de-millions-de-permis-de-conduire-voles_645586",
+     "date": "2026-09-06T09:21-04:00",
+     "auteur": "New York Times"
+    }
+   ],
+   "resume": "Des permis de conduire de résidents canadiens et américains repérés par un spécialiste de la cybersécurité.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/FBI_headquarters_at_dusk.jpg/1280px-FBI_headquarters_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le siège du FBI à Washington.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "le-fbi-enquete-sur-une-base-de-donnees-du-dark-web-proposant-6d6fc1",
+   "image_auto": "aucune",
+   "photo_auteur": "Sdkb",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "le-fbi-enquete-sur-une-base-de-donnees-du-dark-web-proposant-6d6fc1"
+  },
+  {
+   "titre": "De nouveaux documents attestent l'usage de bombes au chlore par l'armée soudanaise entre 2024 et 2025",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Soudan",
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/afrique/article/2026/09/06/guerre-au-soudan-des-preuves-supplementaires-de-l-existence-d-un-programme-d-armes-chimiques-en-2024_6767419_3212.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/afrique/article/2026/09/06/guerre-au-soudan-des-preuves-supplementaires-de-l-existence-d-un-programme-d-armes-chimiques-en-2024_6767419_3212.html",
+     "date": "2026-09-06T04:00-04:00",
+     "auteur": "Noé Hochet-Bodin"
+    }
+   ],
+   "resume": "Une fuite de documents confidentiels qui vise directement le chef de facto du Soudan.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "de-nouveaux-documents-attestent-l-usage-de-bombes-au-chlore-4f5a5c",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "de-nouveaux-documents-attestent-l-usage-de-bombes-au-chlore-4f5a5c"
+  },
+  {
+   "titre": "Des dizaines de milliers de Croates manifestent à Zagreb contre un déversement de déchets dangereux",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Zagreb (Croatie)",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/environnement/20260906-croatie-grande-manifestation-%C3%A0-zagreb-contre-le-d%C3%A9versement-de-d%C3%A9chets-dangereux",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/environnement/20260906-croatie-grande-manifestation-%C3%A0-zagreb-contre-le-d%C3%A9versement-de-d%C3%A9chets-dangereux",
+     "date": "2026-09-06T10:52-04:00"
+    }
+   ],
+   "resume": "Trente-cinq mille tonnes de déchets électroniques et médicaux retrouvées dans une région de parcs nationaux.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Zagreb_City_Hall%2C_front%2C_2025.jpg/1280px-Zagreb_City_Hall%2C_front%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'hôtel de ville de Zagreb, en Croatie.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "des-dizaines-de-milliers-de-croates-manifestent-a-zagreb-con-09e710",
+   "image_auto": "aucune",
+   "photo_auteur": "Hijerovit",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "des-dizaines-de-milliers-de-croates-manifestent-a-zagreb-con-09e710"
+  },
+  {
+   "titre": "Netanyahou déclare le Qatar hostile et revendique la frappe israélienne de 2025 contre Doha",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Israël, Qatar",
+   "medias": "Euronews",
+   "url": "https://fr.euronews.com/2026/09/06/netanyahu-assume-la-frappe-sur-doha-et-qualifie-le-qatar-d-etat-hostile",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/09/06/netanyahu-assume-la-frappe-sur-doha-et-qualifie-le-qatar-d-etat-hostile",
+     "auteur": "Mohamed Elashi",
+     "date": "2026-09-06T08:19-04:00"
+    }
+   ],
+   "resume": "Une sortie qui intervient alors que Doha et Téhéran se disputent la version des frappes iraniennes de mars.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Doha_Skyline_01.jpg/1280px-Doha_Skyline_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La skyline de Doha, capitale du Qatar.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "netanyahou-declare-le-qatar-hostile-et-revendique-la-frappe-0fed99",
+   "image_auto": "aucune",
+   "photo_auteur": "Zairon",
+   "photo_licence": "CC BY 4.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "netanyahou-declare-le-qatar-hostile-et-revendique-la-frappe-0fed99"
+  },
+  {
+   "titre": "Un tribunal d'occupation russe condamne une journaliste ukrainienne de 64 ans à quinze ans de prison",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Melitopol (Ukraine)",
+   "medias": "KHPG, Ukrinform",
+   "url": "https://khpg.org/en/1608816023",
+   "sources": [
+    {
+     "media": "KHPG",
+     "url": "https://khpg.org/en/1608816023",
+     "auteur": "Halya Coynash",
+     "date": "2026-09-07T00:00-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-society/4160825-russian-occupation-court-sentences-captured-ukrainian-journalist-levchenko-to-15-years-in-prison.html",
+     "auteur": "Ukrinform",
+     "date": "2026-09-04T06:51-04:00"
+    }
+   ],
+   "resume": "Détenue au secret depuis son enlèvement en 2023, elle est accusée d'espionnage pour des informations publiques.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "un-tribunal-d-occupation-russe-condamne-une-journaliste-ukra-2ba24e",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "un-tribunal-d-occupation-russe-condamne-une-journaliste-ukra-2ba24e"
+  },
+  {
+   "titre": "Le prince William représentera son père aux funérailles du roi Harald V de Norvège",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Norvège, Royaume-Uni",
+   "medias": "Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/05/le-prince-william-representera-charles-iii-aux-obseques-du-roi-harald",
+   "sources": [
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/05/le-prince-william-representera-charles-iii-aux-obseques-du-roi-harald",
+     "auteur": "AFP",
+     "date": "2026-09-05T17:59-04:00"
+    }
+   ],
+   "resume": "Une tradition veut que les souverains britanniques n'assistent pas aux obsèques d'autres chefs d'État.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Prince_and_Princess_of_Wales_at_State_Banquet_2025-09-17_%281.33_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Le prince William, prince de Galles.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "le-prince-william-representera-son-pere-aux-funerailles-du-r-815eae",
+   "image_auto": "aucune",
+   "photo_auteur": "Daniel Torok/White House",
+   "photo_licence": "Public domain",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "le-prince-william-representera-son-pere-aux-funerailles-du-r-815eae"
+  },
+  {
+   "titre": "Un climatologue de l'académie militaire de West Point poursuit son employeur après son licenciement",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281161/professeur-poursuite-west-point-congediement-climat",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281161/professeur-poursuite-west-point-congediement-climat",
+     "auteur": "Simon Bérubé",
+     "date": "2026-09-07T04:00-04:00"
+    }
+   ],
+   "resume": "Il affirme avoir été renvoyé pour avoir refusé de retirer les causes humaines du climat de son cours.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cadet_Chapel_USMA.JPG/1280px-Cadet_Chapel_USMA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'académie militaire de West Point, dans l'État de New York.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "un-climatologue-de-l-academie-militaire-de-west-point-poursu-a1043f",
+   "image_auto": "aucune",
+   "photo_auteur": "Ahodges7",
+   "photo_licence": "Public domain",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "un-climatologue-de-l-academie-militaire-de-west-point-poursu-a1043f"
+  },
+  {
+   "titre": "Le photographe de l'AFP Luis Tato reçoit la plus haute distinction du festival Visa pour l'image",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "France, Madagascar",
+   "medias": "TV5MONDE",
+   "url": "https://information.tv5monde.com/international/visa-pour-limage-consacre-le-photojournaliste-de-lafp-luis-tato-pour-son-travail-madagascar-2836290",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/visa-pour-limage-consacre-le-photojournaliste-de-lafp-luis-tato-pour-son-travail-madagascar-2836290",
+     "auteur": "Alice Fabre",
+     "date": "2026-09-05T14:47-04:00"
+    }
+   ],
+   "resume": "Une récompense pour son reportage sur le soulèvement de la jeunesse malgache, obtenue lors d'une édition endeuillée.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/VISA_pour_l%27Image.jpg/1280px-VISA_pour_l%27Image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le festival de photojournalisme Visa pour l'image, à Perpignan.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "le-photographe-de-l-afp-luis-tato-recoit-la-plus-haute-disti-053768",
+   "image_auto": "aucune",
+   "photo_auteur": "@Ville de Perpignan",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "le-photographe-de-l-afp-luis-tato-recoit-la-plus-haute-disti-053768"
+  },
+  {
+   "titre": "L'armateur Maersk va équiper un porte-conteneurs d'un rotor à voile pour réduire sa consommation de carburant",
+   "cahier": "international",
+   "rubrique": "transport",
+   "territoire": "Danemark",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/environnement/20260906-maersk-veut-utiliser-des-porte-conteneurs-%C3%A0-voile-pour-atteindre-la-neutralit%C3%A9-carbone-d-ici-2040",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/environnement/20260906-maersk-veut-utiliser-des-porte-conteneurs-%C3%A0-voile-pour-atteindre-la-neutralit%C3%A9-carbone-d-ici-2040",
+     "date": "2026-09-06T05:24-04:00"
+    }
+   ],
+   "resume": "Une éolienne verticale de 35 mètres testée en complément des moteurs, pour économiser du carburant chaque jour.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg/1280px-MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Un porte-conteneurs de la compagnie Maersk.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "l-armateur-maersk-va-equiper-un-porte-conteneurs-d-un-rotor-7508a3",
+   "image_auto": "aucune",
+   "photo_auteur": "Petar Milošević",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "l-armateur-maersk-va-equiper-un-porte-conteneurs-d-un-rotor-7508a3"
+  },
+  {
+   "titre": "Washington signale une hausse des maladies diarrhéiques à Cuba en pleine crise des infrastructures",
+   "cahier": "international",
+   "rubrique": "sante",
+   "territoire": "Cuba",
+   "medias": "Outre-mer la 1ère",
+   "url": "https://la1ere.franceinfo.fr/guadeloupe/cuba-les-etats-unis-alertent-sur-une-hausse-des-maladies-diarrheiques-1735733.html",
+   "sources": [
+    {
+     "media": "Outre-mer la 1ère",
+     "url": "https://la1ere.franceinfo.fr/guadeloupe/cuba-les-etats-unis-alertent-sur-une-hausse-des-maladies-diarrheiques-1735733.html",
+     "auteur": "AFP, Barbara Pelmard",
+     "date": "2026-09-06T03:00-04:00"
+    }
+   ],
+   "resume": "L'ambassade américaine blâme le régime cubain, qui accuse en retour les sanctions de Washington.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/National-Capitol-and-classic-cars-in-Havana-Cuba-225-031-061A.jpg/1280px-National-Capitol-and-classic-cars-in-Havana-Cuba-225-031-061A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le Capitole national, à La Havane.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "washington-signale-une-hausse-des-maladies-diarrheiques-a-cu-0c00c0",
+   "image_auto": "aucune",
+   "photo_auteur": "Fraganda",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "washington-signale-une-hausse-des-maladies-diarrheiques-a-cu-0c00c0"
+  },
+  {
+   "titre": "Une série de malaises et un décès forcent l'arrêt du marathon de Nouméa",
+   "cahier": "international",
+   "rubrique": "sante",
+   "territoire": "Nouvelle-Calédonie",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/sports/athletisme/marathon/nouvelle-caledonie-le-marathon-de-noumea-interrompu-apres-la-mort-d-un-coureur-et-une-serie-de-malaises_8180555.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sports/athletisme/marathon/nouvelle-caledonie-le-marathon-de-noumea-interrompu-apres-la-mort-d-un-coureur-et-une-serie-de-malaises_8180555.html",
+     "auteur": "franceinfo:sport avec AFP",
+     "date": "2026-09-07T03:45-04:00"
+    }
+   ],
+   "resume": "Huit cas graves concentrés en trois quarts d'heure, du jamais-vu en quarante-trois éditions de la course.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "une-serie-de-malaises-et-un-deces-forcent-l-arret-du-maratho-40c2b8",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "une-serie-de-malaises-et-un-deces-forcent-l-arret-du-maratho-40c2b8"
+  },
+  {
+   "titre": "Le prince Harry de retour au Royaume-Uni, sa protection policière relance la controverse sur son financement",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Royaume-Uni",
+   "medias": "TVA Nouvelles",
+   "url": "https://www.tvanouvelles.ca/2026/09/05/le-retour-du-prince-harry-au-royaume-uni-relance-le-debat-sur-sa-protection",
+   "sources": [
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/05/le-retour-du-prince-harry-au-royaume-uni-relance-le-debat-sur-sa-protection",
+     "auteur": "AFP",
+     "date": "2026-09-05T21:47-04:00"
+    }
+   ],
+   "resume": "Selon un sondage, seuls six pour cent des Britanniques jugent que les contribuables devraient tout payer.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Prince_Harry%2C_Duke_of_Sussex_in_London_on_20_January_2020_-_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Le prince Harry, duc de Sussex.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "le-prince-harry-de-retour-au-royaume-uni-sa-protection-polic-74b003",
+   "image_auto": "aucune",
+   "photo_auteur": "DFID - UK Department for International Development",
+   "photo_licence": "CC BY 2.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "le-prince-harry-de-retour-au-royaume-uni-sa-protection-polic-74b003"
+  },
+  {
+   "titre": "Une enquête décrit la multiplication des actions hybrides russes contre les infrastructures des pays européens",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Europe",
+   "medias": "Ouest-France",
+   "url": "https://www.ouest-france.fr/europe/enquete-leurope-face-aux-attaques-hybrides-des-bruits-de-bottes-a-bas-bruit-868e3ee4-a7a0-11f1-8a27-1e0c4eb5e395",
+   "sources": [
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/europe/enquete-leurope-face-aux-attaques-hybrides-des-bruits-de-bottes-a-bas-bruit-868e3ee4-a7a0-11f1-8a27-1e0c4eb5e395",
+     "auteur": "Philippe Chapleau",
+     "date": "2026-09-07T03:44-04:00"
+    }
+   ],
+   "resume": "Sabotages, survols et cyberattaques visent autant les armées que les réseaux d'eau et d'électricité civils.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "une-enquete-decrit-la-multiplication-des-actions-hybrides-ru-1f4e67",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "une-enquete-decrit-la-multiplication-des-actions-hybrides-ru-1f4e67"
+  },
+  {
+   "titre": "L'ONU dénonce le déplacement forcé de la population de trois camps de réfugiés en Cisjordanie occupée",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Cisjordanie (Palestine)",
+   "medias": "ONU Info",
+   "url": "https://news.un.org/fr/story/2026/09/1159413",
+   "sources": [
+    {
+     "media": "ONU Info",
+     "url": "https://news.un.org/fr/story/2026/09/1159413",
+     "date": "2026-09-04T00:00-04:00"
+    }
+   ],
+   "resume": "L'opération militaire israélienne en cours depuis janvier 2025 a coupé l'eau et l'électricité selon un rapport onusien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "l-onu-denonce-le-deplacement-force-de-la-population-de-trois-4823fb",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "l-onu-denonce-le-deplacement-force-de-la-population-de-trois-4823fb"
+  },
+  {
+   "titre": "Un entrepôt de l'OMS près de Kyiv endommagé par une frappe aérienne russe, la troisième depuis juillet",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Kyiv (Ukraine)",
+   "medias": "ONU Info",
+   "url": "https://news.un.org/fr/story/2026/09/1159411",
+   "sources": [
+    {
+     "media": "ONU Info",
+     "url": "https://news.un.org/fr/story/2026/09/1159411",
+     "auteur": "Christian Lindmeier (porte-parole OMS)",
+     "date": "2026-09-04T00:00-04:00"
+    }
+   ],
+   "resume": "Le site stockait de l'aide humanitaire destinée aux populations proches de la ligne de front.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "un-entrepot-de-l-oms-pres-de-kyiv-endommage-par-une-frappe-a-b3573b",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "un-entrepot-de-l-oms-pres-de-kyiv-endommage-par-une-frappe-a-b3573b"
+  },
+  {
+   "titre": "Un accident de bus fait au moins vingt-cinq morts, en majorité des enfants, au Cap-Vert",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Cap-Vert",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/international/afrique/cap-vert-au-moins-25-morts-principalement-des-enfants-dans-un-accident-de-la-route-20260906_PKLW7KG3MBBWFB75S2B5CU3GBI/",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/afrique/cap-vert-au-moins-25-morts-principalement-des-enfants-dans-un-accident-de-la-route-20260906_PKLW7KG3MBBWFB75S2B5CU3GBI/",
+     "auteur": "AFP",
+     "date": "2026-09-06T04:00-04:00"
+    }
+   ],
+   "resume": "Un pneu aurait éclaté alors que le véhicule ramenait des excursionnistes d'un volcan de l'île de Fogo.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "un-accident-de-bus-fait-au-moins-vingt-cinq-morts-en-majorit-ffafcd",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "un-accident-de-bus-fait-au-moins-vingt-cinq-morts-en-majorit-ffafcd"
+  },
+  {
+   "titre": "Le Guyana accepte d'accueillir des migrants expulsés des États-Unis n'ayant pas de casier judiciaire",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Guyana, États-Unis",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260906-le-guyana-va-accueillir-des-migrants-expuls%C3%A9s-par-les-%C3%A9tats-unis",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260906-le-guyana-va-accueillir-des-migrants-expuls%C3%A9s-par-les-%C3%A9tats-unis",
+     "auteur": "RFI avec AFP",
+     "date": "2026-09-06T11:42-04:00"
+    }
+   ],
+   "resume": "Un arrangement présenté comme transitoire, alors que d'autres pays de la région font le même choix.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Georgetown%2C_Guyana.jpg/1280px-Georgetown%2C_Guyana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Georgetown, capitale du Guyana.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "le-guyana-accepte-d-accueillir-des-migrants-expulses-des-eta-4f3b4e",
+   "image_auto": "aucune",
+   "photo_auteur": "Ambika",
+   "photo_licence": "CC BY 2.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "le-guyana-accepte-d-accueillir-des-migrants-expulses-des-eta-4f3b4e"
+  },
+  {
+   "titre": "Une présentatrice de télévision égyptienne condamnée à mort pour trafic de stupéfiants avec onze complices",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Égypte",
+   "medias": "France 24, RFI",
+   "url": "https://www.france24.com/fr/afrique/20260906-pr%C3%A9sentatrice-%C3%A9gyptienne-condamn%C3%A9e-peine-de-mort-pour-trafic-de-drogue-%C3%A9gypte-justice-t%C3%A9l%C3%A9vision",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/afrique/20260906-pr%C3%A9sentatrice-%C3%A9gyptienne-condamn%C3%A9e-peine-de-mort-pour-trafic-de-drogue-%C3%A9gypte-justice-t%C3%A9l%C3%A9vision",
+     "auteur": "AFP",
+     "date": "2026-09-06T09:39-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20260906-%C3%A9gypte-une-c%C3%A9l%C3%A8bre-pr%C3%A9sentatrice-t%C3%A9l%C3%A9-et-onze-autres-personnes-condamn%C3%A9es-%C3%A0-mort-pour-trafic-de-drogue",
+     "auteur": "Alexandre Buccianti",
+     "date": "2026-09-06T01:52-04:00"
+    }
+   ],
+   "resume": "Elle aurait fait chuter le prix de la drogue en Égypte en inondant le marché local.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "une-presentatrice-de-television-egyptienne-condamnee-a-mort-fe2f59",
+   "image_auto": "aucune",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "une-presentatrice-de-television-egyptienne-condamnee-a-mort-fe2f59"
+  },
+  {
+   "titre": "L'Assemblée générale de l'ONU adopte une résolution pour une carte du monde plus fidèle aux proportions réelles",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Afrique",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/monde/20260905-l-onu-adopte-une-r%C3%A9forme-de-la-cartographie-mondiale-plus-proche-de-la-r%C3%A9alit%C3%A9",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/monde/20260905-l-onu-adopte-une-r%C3%A9forme-de-la-cartographie-mondiale-plus-proche-de-la-r%C3%A9alit%C3%A9",
+     "auteur": "Carrie Nooten",
+     "date": "2026-09-05T00:33-04:00"
+    }
+   ],
+   "resume": "Cent-soixante-quatre voix contre une, celle des États-Unis, pour tourner la page de la projection de Mercator.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Mercator_versus_Equal_Earth_Projection.svg/1280px-Mercator_versus_Equal_Earth_Projection.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Comparaison entre la projection de Mercator et la projection Equal Earth.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "l-assemblee-generale-de-l-onu-adopte-une-resolution-pour-une-879515",
+   "image_auto": "aucune",
+   "photo_auteur": "Geord0, Justinkunimune, derivative: Furfur",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "l-assemblee-generale-de-l-onu-adopte-une-resolution-pour-une-879515"
+  },
+  {
+   "titre": "La présidente de la Commission européenne entame une visite de deux jours au Groenland",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Groenland",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/international/europe/en-deplacement-au-groenland-ursula-von-der-leyen-veut-briser-la-glace-20260906_6DXSCK6AS5FHZGYONWDYVX4HFA/",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/en-deplacement-au-groenland-ursula-von-der-leyen-veut-briser-la-glace-20260906_6DXSCK6AS5FHZGYONWDYVX4HFA/",
+     "date": "2026-09-06T04:00-04:00",
+     "auteur": "Clara Grégoire"
+    }
+   ],
+   "resume": "Bruxelles réaffirme son soutien au territoire autonome danois convoité par le président américain.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Ursula_von_der_Leyen_und_Armin_Laschet_I.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Dom_Ursula_von_der_Leyen_und_Armin_Laschet_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Ursula von der Leyen, présidente de la Commission européenne.",
+   "horodate": "2026-09-07T05:32-04:00",
+   "permalien": "la-presidente-de-la-commission-europeenne-entame-une-visite-76a8d7",
+   "image_auto": "aucune",
+   "photo_auteur": "Grunpfnul",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-07.json",
+   "_slug": "la-presidente-de-la-commission-europeenne-entame-une-visite-76a8d7"
+  },
+  {
+   "titre": "Le Canada hausse le ton contre l'Iran et maintient la pression au Moyen-Orient",
+   "cahier": "canada",
+   "rubrique": "conflits",
+   "territoire": "Canada",
+   "medias": "Affaires mondiales Canada",
+   "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-condamne-les-actions-destabilisatrices-de-liran-au-moyen-orient.html",
+   "resume": "Ottawa détaille menaces au détroit d'Ormuz, activités nucléaires et 492 sanctions déjà en vigueur.",
+   "sources": [
+    {
+     "media": "Affaires mondiales Canada",
+     "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-condamne-les-actions-destabilisatrices-de-liran-au-moyen-orient.html",
+     "date": "2026-09-06T00:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-07T05:54-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lester_B._Pearson_Building.JPG",
+   "photo_auteur": "Óðinn",
+   "photo_licence": "CC BY-SA 2.5 ca",
+   "legende": "Le Pearson Building, siège d'Affaires mondiales Canada, à Ottawa.",
+   "permalien": "le-canada-hausse-le-ton-contre-l-iran-et-maintient-la-pressi-29e70a",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-07.json",
+   "_slug": "le-canada-hausse-le-ton-contre-l-iran-et-maintient-la-pressi-29e70a"
+  },
+  {
+   "titre": "Un ex-diplomate en poste à Ottawa le 11 septembre 2001 se souvient de l'accueil réservé aux avions déroutés vers Gander",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Ottawa",
+   "medias": "L'actualité, Radio-Canada",
+   "url": "https://lactualite.com/actualites/un-diplomate-americain-revient-sur-la-solidarite-du-canada-apres-le-11-septembre/",
+   "resume": "Vingt-cinq ans après la solidarité de 2001, l'entretien tombe en pleine guerre commerciale avec Washington.",
+   "sources": [
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/actualites/un-diplomate-americain-revient-sur-la-solidarite-du-canada-apres-le-11-septembre/",
+     "auteur": "Dylan Robertson",
+     "date": "2026-09-06T14:01-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281130/diplomate-americain-souvenir-solidarite-canada-11-septembre",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T14:01-04:00"
+    }
+   ],
+   "horodate": "2026-09-07T05:54-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "un-ex-diplomate-en-poste-a-ottawa-le-11-septembre-2001-se-so-16e7a3",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-07.json",
+   "_slug": "un-ex-diplomate-en-poste-a-ottawa-le-11-septembre-2001-se-so-16e7a3"
+  },
+  {
+   "titre": "À Saint-Léonard et Montréal-Est, deux véhicules ciblés par des incendies criminels la même nuit",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Saint-Léonard, Montréal-Est (Montréal)",
+   "medias": "La Presse, TVA Nouvelles",
+   "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-06/montreal/deux-voitures-incendiees-en-moins-d-une-heure.php",
+   "resume": "Le SPVM n'a pas confirmé de lien entre les deux brasiers et n'a procédé à aucune arrestation.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-06/montreal/deux-voitures-incendiees-en-moins-d-une-heure.php",
+     "auteur": "Chloé Bourquin",
+     "date": "2026-09-06T10:54-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/06/deux-vus-detruits-par-des-incendies-criminels-en-moins-dune-heure-dans-lest-de-montreal",
+     "date": "2026-09-06T09:41-04:00"
+    }
+   ],
+   "horodate": "2026-09-07T05:54-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "a-saint-leonard-et-montreal-est-deux-vehicules-cibles-par-de-bcde47",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-07.json",
+   "_slug": "a-saint-leonard-et-montreal-est-deux-vehicules-cibles-par-de-bcde47"
+  },
+  {
+   "titre": "À Montréal, un CPE de 93 places ouvre dans dix jours, toujours privé d'électricité",
+   "cahier": "montreal",
+   "rubrique": "education",
+   "territoire": "Mercier–Hochelaga-Maisonneuve (Montréal)",
+   "medias": "Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/05/un-cpe-sans-electricite-a-dix-jours-de-son-ouverture",
+   "resume": "Le service de garde craint un nouveau délai malgré un devancement des travaux annoncé par Hydro-Québec.",
+   "sources": [
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/05/un-cpe-sans-electricite-a-dix-jours-de-son-ouverture",
+     "auteur": "Sylvain Larocque",
+     "date": "2026-09-06T00:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-07T05:54-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "a-montreal-un-cpe-de-93-places-ouvre-dans-dix-jours-toujours-ae03a6",
+   "image_auto": "aucune",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-07.json",
+   "_slug": "a-montreal-un-cpe-de-93-places-ouvre-dans-dix-jours-toujours-ae03a6"
   },
   {
    "titre": "Nétanyahou aurait ordonné le retrait de certains avant-postes juifs, affirme son ministre Smotrich",
