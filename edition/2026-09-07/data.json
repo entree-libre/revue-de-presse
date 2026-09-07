@@ -108,13 +108,24 @@
    "cahier": "international",
    "rubrique": "environnement",
    "territoire": "Monde (OMM)",
-   "medias": "France 24",
+   "medias": "France 24, RFI, TVA Nouvelles",
    "url": "https://www.france24.com/fr/info-en-continu/20260907-incendies-et-canicules-menacent-la-qualit%C3%A9-de-l-air-et-la-sant%C3%A9-onu",
    "sources": [
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260907-incendies-et-canicules-menacent-la-qualit%C3%A9-de-l-air-et-la-sant%C3%A9-onu",
      "date": "2026-09-07T00:09-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/environnement/20260907-m%C3%A9ga-feux-chaleur-pollution-le-cercle-vicieux-qui-inqui%C3%A8te-l-organisation-m%C3%A9t%C3%A9orologique-mondiale",
+     "date": "2026-09-07T10:48-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/07/incendies-et-canicules-menacent-la-qualite-de-lair-et-la-sante",
+     "date": "2026-09-07T01:59-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "Le rapport annuel qui relie fumées de forêt, canicules et santé, et pourquoi l'ozone inquiète autant.",
@@ -159,13 +170,18 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "Caucase (Russie)",
-   "medias": "Le Figaro",
+   "medias": "Le Figaro, Le Journal de Montréal",
    "url": "https://www.lefigaro.fr/international/russie-une-avalanche-dans-le-caucase-tue-au-moins-11-alpinistes-20260907",
    "sources": [
     {
      "media": "Le Figaro",
      "url": "https://www.lefigaro.fr/international/russie-une-avalanche-dans-le-caucase-tue-au-moins-11-alpinistes-20260907",
      "date": "2026-09-07T03:26-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/russie-11-alpinistes-tues-dans-une-avalanche-dans-le-caucase",
+     "date": "2026-09-07T05:41-04:00"
     }
    ],
    "resume": "Un groupe surpris dans la gorge de Bezengui, et le sort de plusieurs grimpeurs toujours inconnu.",
@@ -494,7 +510,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Russie, Corée du Nord",
-   "medias": "franceinfo, Noovo, The Guardian, The Moscow Times, Ukrinform",
+   "medias": "franceinfo, Noovo, The Guardian, The Moscow Times, Ukrinform, Sud Ouest, TF1 Info, Les Affaires, Le Journal de Montréal",
    "url": "https://www.franceinfo.fr/monde/russie/en-plein-rapprochement-la-russie-et-la-coree-du-nord-inaugurent-leur-premiere-liaison-routiere_8181008.html",
    "sources": [
     {
@@ -523,6 +539,29 @@
      "media": "Ukrinform",
      "url": "https://www.ukrinform.net/rubric-economy/4161610-first-road-bridge-opened-between-russia-and-north-korea.html",
      "date": "2026-09-07T05:55-04:00"
+    },
+    {
+     "media": "Sud Ouest",
+     "url": "https://www.sudouest.fr/international/russie/embellir-davantage-l-amitie-russo-coreenne-la-russie-et-la-coree-du-nord-inaugurent-leur-premiere-liaison-routiere-30521265.php",
+     "date": "2026-09-07T09:50-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "TF1 Info",
+     "url": "https://www.tf1info.fr/international/video-la-russie-et-la-coree-du-nord-inaugurent-leur-premier-pont-routier-transfrontalier-2462804.html",
+     "date": "2026-09-07T08:59-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/monde/un-pont-routier-reliant-la-russie-et-la-coree-du-nord-inaugure-lundi/",
+     "date": "2026-09-07T08:44-04:00",
+     "auteur": "AFP"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/la-russie-et-la-coree-du-nord-inaugurent-leur-premiere-liaison-routiere",
+     "date": "2026-09-07T08:38-04:00"
     }
    ],
    "resume": "Inauguré à distance, l'ouvrage scelle un rapprochement dont les deux régimes attendent bien plus que des camions.",
@@ -540,7 +579,7 @@
    "cahier": "montreal",
    "rubrique": "politique",
    "territoire": "Laval",
-   "medias": "Radio-Canada, Le Devoir, La Presse, CBC",
+   "medias": "Radio-Canada, Le Devoir, La Presse, CBC, Le Journal de Montréal, Courrier Laval",
    "url": "https://ici.radio-canada.ca/nouvelle/2281235/laval-maire-stephane-boyer-annonce-tumeur-cerveau",
    "sources": [
     {
@@ -564,6 +603,17 @@
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/montreal/laval-mayor-says-he-s-been-diagnosed-with-brain-tumour-will-stay-in-office-while-awaiting-next-steps-9.7334698",
      "date": "2026-09-07T07:42-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/le-maire-de-laval-revele-etre-atteint-dune-tumeur-au-cerveau",
+     "date": "2026-09-07T06:55-04:00"
+    },
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/le-maire-de-laval-stephane-boyer-est-atteint-dune-tumeur-au-cerveau/",
+     "date": "2026-09-07T09:55-04:00",
+     "auteur": "Nicholas Pereira"
     }
    ],
    "resume": "Il promet d'être à toutes les réunions de travail, et laisse ouverte la question de la suite.",
@@ -581,7 +631,7 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "États-Unis, Genève (ONU)",
-   "medias": "Le Monde, La Croix, La Voix du Nord",
+   "medias": "Le Monde, La Croix, La Voix du Nord, Le Journal de Montréal",
    "url": "https://www.lemonde.fr/international/article/2026/09/07/apres-la-mort-de-23-migrants-detenus-aux-etats-unis-l-onu-exige-que-washington-rende-des-comptes_6767929_3210.html",
    "sources": [
     {
@@ -600,6 +650,11 @@
      "url": "https://www.lavoixdunord.fr/1734982/article/2026-09-07/vingt-trois-migrants-morts-en-detention-l-onu-affirme-que-les-etats-unis-doivent",
      "date": "2026-09-07T05:58-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/migrants-morts-en-detention-lonu-appelle-les-etats-unis-a--rendre-des-comptes",
+     "date": "2026-09-07T08:47-04:00"
     }
    ],
    "resume": "Ce que le haut-commissaire a choisi de dire en ouvrant la session de Genève, et à qui.",
@@ -664,7 +719,7 @@
    "cahier": "savoirs",
    "rubrique": "technologies",
    "territoire": "Genève (ONU)",
-   "medias": "franceinfo, France 24",
+   "medias": "franceinfo, France 24, ONU Info, Sciences et Avenir, CNEWS, Le Journal de Montréal",
    "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-intelligence-artificielle-avancee-pourrait-poser-un-risque-existentiel-pour-l-humanite-estime-un-responsable-de-l-onu_8180747.html",
    "sources": [
     {
@@ -676,6 +731,28 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260907-l-ia-avanc%C3%A9e-pourrait-poser-un-risque-existentiel-pour-l-humanit%C3%A9-alerte-l-onu",
      "date": "2026-09-07T05:05-04:00"
+    },
+    {
+     "media": "ONU Info",
+     "url": "https://news.un.org/fr/story/2026/09/1159420",
+     "date": "2026-09-07T08:00-04:00",
+     "auteur": "Adobe Stock"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/intelligence-artificielle-l-onu-alerte-sur-le-risque-existentiel-pose-par-l-ia_194706",
+     "date": "2026-09-07T08:55-04:00",
+     "auteur": "AFP"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/vie-numerique/2026-09-07/une-poignee-dhommes-detient-un-pouvoir-quasi-illimite-lonu-alerte-sur-le",
+     "date": "2026-09-07T08:57-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/lia-avancee-pourrait-poser-un-risque-existentiel-pour-lhumanite-alerte-lonu",
+     "date": "2026-09-07T05:32-04:00"
     }
    ],
    "resume": "Une lettre annoncée aux entreprises du secteur, et la limite que le haut-commissaire refuse de voir franchie.",
@@ -695,7 +772,7 @@
    "cahier": "international",
    "rubrique": "economie",
    "territoire": "Royaume-Uni",
-   "medias": "France 24, RFI",
+   "medias": "France 24, RFI, Le Journal de Montréal",
    "url": "https://www.france24.com/fr/info-en-continu/20260907-jaguar-land-rover-supprime-4-000-postes-apr%C3%A8s-plusieurs-mois-cauchemardesques",
    "sources": [
     {
@@ -708,6 +785,11 @@
      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260907-jaguar-land-rover-annonce-un-plan-de-d%C3%A9part-volontaire-apr%C3%A8s-un-exercice-2025-2026-cauchemardesque",
      "date": "2026-09-07T06:49-04:00",
      "auteur": "AFP"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/jaguar-land-rover-supprime-4000postes-apres-plusieurs-mois-cauchemardesques",
+     "date": "2026-09-07T09:15-04:00"
     }
    ],
    "resume": "Un constructeur secouru par Londres il y a quelques mois, et qui cherche maintenant à maigrir pour rivaliser.",
@@ -1037,6 +1119,520 @@
    "_slug": "chronique-recruter-les-chercheurs-que-washington-malmene-ser-a9c8ed"
   },
   {
+   "titre": "L'ONU se dit horrifiée par une frappe russe en Ukraine attribuée à un drone entièrement autonome",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "resume": "Une arme qui aurait choisi sa cible seule, et des essais ukrainiens évoqués par l'ONU.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-l-onu-horrifiee-par-l-utilisation-alleguee-d-un-drone-autonome-meurtrier-russe-20260907",
+     "date": "2026-09-07T07:30-04:00"
+    },
+    {
+     "media": "La Croix",
+     "url": "https://www.la-croix.com/international/ukraine-russie-jour-1654-point-conflit-ukrainien-poutine-aujourdhui-20260907",
+     "date": "2026-09-07T02:04-04:00"
+    }
+   ],
+   "medias": "Le Figaro, La Croix",
+   "url": "https://www.lefigaro.fr/international/guerre-en-ukraine-l-onu-horrifiee-par-l-utilisation-alleguee-d-un-drone-autonome-meurtrier-russe-20260907",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "l-onu-se-dit-horrifiee-par-une-frappe-russe-en-ukraine-attri-266992",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "l-onu-se-dit-horrifiee-par-une-frappe-russe-en-ukraine-attri-266992"
+  },
+  {
+   "titre": "Le renseignement ukrainien juge la Russie capable de tenir deux ans encore et signale une brigade Oreshnik au Bélarus",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine, Bélarus",
+   "resume": "Une économie russe décrite comme exsangue, mais un arsenal qui s'installe à la frontière nord.",
+   "sources": [
+    {
+     "media": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-has-enough-resources-to-wage-war-through-2028-ukraines-military-intelligence-says/",
+     "date": "2026-09-07T08:43-04:00"
+    },
+    {
+     "media": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/83953",
+     "date": "2026-09-07T09:08-04:00",
+     "auteur": "Kateryna Zakharchenko"
+    },
+    {
+     "media": "United24 Media",
+     "url": "https://united24media.com/war-in-ukraine/russia-may-have-resources-to-continue-war-against-ukraine-through-2028-hur-chief-says-22317",
+     "date": "2026-09-07T10:55-04:00",
+     "auteur": "Dariia Mykhailenko"
+    },
+    {
+     "media": "Belsat",
+     "url": "https://en.belsat.eu/95263015/ukraine-uncovers-russian-oreshnik-missile-brigade-deployed-in-belarus",
+     "date": "2026-09-07T08:33-04:00"
+    }
+   ],
+   "medias": "The Kyiv Independent, Kyiv Post, United24 Media, Belsat",
+   "url": "https://kyivindependent.com/russia-has-enough-resources-to-wage-war-through-2028-ukraines-military-intelligence-says/",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "le-renseignement-ukrainien-juge-la-russie-capable-de-tenir-d-4477f8",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "le-renseignement-ukrainien-juge-la-russie-capable-de-tenir-d-4477f8"
+  },
+  {
+   "titre": "Volkswagen cède son usine d'Osnabrück à un fonds israélien pour y produire des systèmes de défense aérienne",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Allemagne",
+   "resume": "Des cabriolets aux systèmes antiaériens, et un Land actionnaire qui espère sauver les emplois.",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-volkswagen-strikes-deal-with-israels-aurelius-capital-to-turn-car/",
+     "date": "2026-09-07T11:06-04:00",
+     "auteur": "Christina Amann et Christoph Steitz"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/manufacturier/volkswagen-se-tourne-vers-la-defense-pour-sauver-une-usine-allemande/",
+     "date": "2026-09-07T08:49-04:00",
+     "auteur": "AFP"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/crise-automobile-volkswagen-se-tourne-vers-la-defense-pour-sauver-une-usine-allemande",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "medias": "The Globe and Mail, Les Affaires, Le Journal de Montréal",
+   "url": "https://www.theglobeandmail.com/business/article-volkswagen-strikes-deal-with-israels-aurelius-capital-to-turn-car/",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "volkswagen-cede-son-usine-d-osnabruck-a-un-fonds-israelien-p-84e57c",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "volkswagen-cede-son-usine-d-osnabruck-a-un-fonds-israelien-p-84e57c"
+  },
+  {
+   "titre": "Enlevé en Colombie, un caporal de la Légion étrangère échappe à ses ravisseurs et passe sous protection militaire",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Colombie",
+   "resume": "Un mois aux mains d'une guérilla du Nariño, et le récit de sa fuite qui reste à écrire.",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/evasion-placement-sous-protection-militaire-ce-que-lon-sait-de-la-fuite-du-caporal-de-la-legion-etrangere-enleve-en-colombie-07-09-2026-WRYHUJJLGNE7TEK5HH3CPIFRCU.php",
+     "date": "2026-09-07T11:30-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/le-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie-a-echappe-a-ses-ravisseurs-et-est-en-securite_8181338.html",
+     "date": "2026-09-07T11:02-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260907-enlev%C3%A9-colombie-soldat-l%C3%A9gion-%C3%A9trang%C3%A8re-%C3%A9chappe-ravisseurs-farc-gu%C3%A9rilla",
+     "date": "2026-09-07T11:15-04:00"
+    }
+   ],
+   "medias": "Le Parisien, franceinfo, France 24",
+   "url": "https://www.leparisien.fr/international/evasion-placement-sous-protection-militaire-ce-que-lon-sait-de-la-fuite-du-caporal-de-la-legion-etrangere-enleve-en-colombie-07-09-2026-WRYHUJJLGNE7TEK5HH3CPIFRCU.php",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "enleve-en-colombie-un-caporal-de-la-legion-etrangere-echappe-ae7fad",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "enleve-en-colombie-un-caporal-de-la-legion-etrangere-echappe-ae7fad"
+  },
+  {
+   "titre": "La rapporteuse de l'ONU Francesca Albanese craint que le déblaiement des gravats à Gaza n'efface des preuves de crimes",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Bande de Gaza",
+   "resume": "Sous les décombres, des restes humains et des indices que le concassage pourrait faire disparaître.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/07/bande-de-gaza-une-rapporteuse-de-l-onu-alerte-concernant-la-destruction-de-preuves-de-crimes-internationaux-au-cours-du-deblaiement-de-gravats-effectue-par-israel_6767956_3210.html",
+     "date": "2026-09-07T10:56-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/international/article/2026/09/07/bande-de-gaza-une-rapporteuse-de-l-onu-alerte-concernant-la-destruction-de-preuves-de-crimes-internationaux-au-cours-du-deblaiement-de-gravats-effectue-par-israel_6767956_3210.html",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Francesca_Albanese.jpg/1280px-Francesca_Albanese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Francesca Albanese",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "la-rapporteuse-de-l-onu-francesca-albanese-craint-que-le-deb-3cd6da",
+   "photo_auteur": "Fotografía oficial de la Presidencia de Colombia - Andrea Puentes",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Francesca Albanese",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "la-rapporteuse-de-l-onu-francesca-albanese-craint-que-le-deb-3cd6da"
+  },
+  {
+   "titre": "Après le drone de Leipzig, l'Union européenne rouvre le débat sur les visas touristiques accordés aux Russes",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Union européenne",
+   "resume": "Des centaines de milliers de visas par an, et un suspect qui serait entré avec l'un d'eux.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/et-si-l-union-europeenne-finissait-par-fermer-la-porte-aux-touristes-russes_8181023.html",
+     "date": "2026-09-07T09:35-04:00"
+    }
+   ],
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/monde/europe/et-si-l-union-europeenne-finissait-par-fermer-la-porte-aux-touristes-russes_8181023.html",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "apres-le-drone-de-leipzig-l-union-europeenne-rouvre-le-debat-3c275b",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "apres-le-drone-de-leipzig-l-union-europeenne-rouvre-le-debat-3c275b"
+  },
+  {
+   "titre": "Kyiv suspend les grands rassemblements en plein air et dans les lieux dépourvus d'abri",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Kyiv (Ukraine)",
+   "resume": "Les concerts et les matchs attendront que la capitale trouve où mettre ses spectateurs à l'abri.",
+   "sources": [
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1199910.html",
+     "date": "2026-09-07T08:22-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4161733-kyiv-to-restrict-mass-events-at-venues-without-shelters.html",
+     "date": "2026-09-07T10:39-04:00"
+    }
+   ],
+   "medias": "Interfax-Ukraine, Ukrinform",
+   "url": "https://en.interfax.com.ua/news/general/1199910.html",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "kyiv-suspend-les-grands-rassemblements-en-plein-air-et-dans-539cec",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "kyiv-suspend-les-grands-rassemblements-en-plein-air-et-dans-539cec"
+  },
+  {
+   "titre": "Aux États-Unis, le diesel n'a jamais coûté aussi cher, à deux mois des élections de mi-mandat",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "resume": "Ormuz bloqué, raffineries du Golfe perturbées, et une facture qui arrive juste avant le vote.",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/economie/le-prix-du-gallon-de-diesel-bat-des-records-aux-etats-unis/",
+     "date": "2026-09-07T09:31-04:00",
+     "auteur": "AFP"
+    },
+    {
+     "media": "BFM",
+     "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-guerre-au-moyen-orient-nouveau-record-du-diesel-americain_VN-202609070588.html",
+     "date": "2026-09-07T09:56-04:00"
+    }
+   ],
+   "medias": "Les Affaires, BFM",
+   "url": "https://www.lesaffaires.com/bourse/economie/le-prix-du-gallon-de-diesel-bat-des-records-aux-etats-unis/",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "aux-etats-unis-le-diesel-n-a-jamais-coute-aussi-cher-a-deux-70feac",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "aux-etats-unis-le-diesel-n-a-jamais-coute-aussi-cher-a-deux-70feac"
+  },
+  {
+   "titre": "Le président d'Irving Oil, Jeff Matthews, prendra sa retraite le 1er novembre après 32 ans dans l'entreprise",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Nouveau-Brunswick",
+   "resume": "Un départ annoncé pour l'automne, et une succession à suivre à la tête du géant néo-brunswickois du raffinage.",
+   "sources": [
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/actualites/2026/09/07/le-pdg-dirving-oil-va-bientot-tirer-sa-reverence/",
+     "date": "2026-09-07T11:11-04:00",
+     "auteur": "Sébastien Lachance"
+    }
+   ],
+   "medias": "Acadie Nouvelle",
+   "url": "https://www.acadienouvelle.com/actualites/2026/09/07/le-pdg-dirving-oil-va-bientot-tirer-sa-reverence/",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "le-president-d-irving-oil-jeff-matthews-prendra-sa-retraite-07d3b9",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "le-president-d-irving-oil-jeff-matthews-prendra-sa-retraite-07d3b9"
+  },
+  {
+   "titre": "Le Tribunal administratif du travail reconnaît qu'un ex-directeur général de la Fabrique Notre-Dame a subi du harcèlement psychologique",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Montréal",
+   "resume": "Un nouveau jugement, une indemnité à verser, et un curé désigné par le tribunal comme principal responsable.",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/06/encore-du-harcelement-a-la-fabrique-de-la-paroisse-notre-dame",
+     "date": "2026-09-06T18:06-04:00"
+    }
+   ],
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/06/encore-du-harcelement-a-la-fabrique-de-la-paroisse-notre-dame",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "le-tribunal-administratif-du-travail-reconnait-qu-un-ex-dire-01b01d",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "le-tribunal-administratif-du-travail-reconnait-qu-un-ex-dire-01b01d"
+  },
+  {
+   "titre": "Huit jeunes de 14 à 18 ans arrêtés après une poursuite policière entre Longueuil et Montréal",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Longueuil (Montérégie), Montréal",
+   "resume": "Une dispute dans un stationnement, un véhicule qui serait volé, et six suspects déjà libérés sous conditions.",
+   "sources": [
+    {
+     "media": "Le Courrier du Sud",
+     "url": "https://lecourrierdusud.ca/huit-personnes-arretees-a-la-suite-dune-operation-policiere-actu/",
+     "date": "2026-09-07T09:19-04:00",
+     "auteur": "Marie-Josée Bétournay"
+    }
+   ],
+   "medias": "Le Courrier du Sud",
+   "url": "https://lecourrierdusud.ca/huit-personnes-arretees-a-la-suite-dune-operation-policiere-actu/",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "huit-jeunes-de-14-a-18-ans-arretes-apres-une-poursuite-polic-2400fb",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "huit-jeunes-de-14-a-18-ans-arretes-apres-une-poursuite-polic-2400fb"
+  },
+  {
+   "titre": "Trois individus armés font irruption chez un couple de Saint-Raymond et l'agressent à l'arme blanche",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Saint-Raymond (Portneuf)",
+   "resume": "Une entrée par effraction tard samedi soir, et deux adultes attaqués sous leur propre toit.",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/07/un-couple-agresse-a-larme-blanche-dans-son-chez-soi-YUGKXQNQ6NFVNFLKGJ6NVZ7OOQ/",
+     "date": "2026-09-07T08:36-04:00",
+     "auteur": "Philippe Chabot"
+    }
+   ],
+   "medias": "Le Soleil",
+   "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/07/un-couple-agresse-a-larme-blanche-dans-son-chez-soi-YUGKXQNQ6NFVNFLKGJ6NVZ7OOQ/",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "trois-individus-armes-font-irruption-chez-un-couple-de-saint-ac12ae",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "trois-individus-armes-font-irruption-chez-un-couple-de-saint-ac12ae"
+  },
+  {
+   "titre": "À Baie-Comeau, l'église Saint-Nom-de-Marie peine à financer ses fenêtres et le marché de Claire",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Baie-Comeau (Côte-Nord)",
+   "resume": "De l'amiante dans les murs, des factures d'électricité qui grimpent, et un seul côté de fenêtres payé.",
+   "sources": [
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/07/difficile-dobtenir-du-financement-pour-leglise-saint-nom-de-marie-et-le-marche-de-claire/",
+     "date": "2026-09-07T10:00-04:00",
+     "auteur": "Roseline Pelletier"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/07/difficile-dobtenir-du-financement-pour-leglise-saint-nom-de-marie-et-le-marche-de-claire/",
+     "date": "2026-09-07T10:00-04:00",
+     "auteur": "Roseline Pelletier"
+    }
+   ],
+   "medias": "Le Manic, Le Haute Côte-Nord",
+   "url": "https://www.lemanic.ca/2026/09/07/difficile-dobtenir-du-financement-pour-leglise-saint-nom-de-marie-et-le-marche-de-claire/",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "a-baie-comeau-l-eglise-saint-nom-de-marie-peine-a-financer-s-b59c73",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "a-baie-comeau-l-eglise-saint-nom-de-marie-peine-a-financer-s-b59c73"
+  },
+  {
+   "titre": "Des élèves du secondaire feront l'école dans un parc national de la Sépaq",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Saguenay–Lac-Saint-Jean",
+   "resume": "Les écosystèmes du programme scolaire s'apprennent sur place, et le modèle pourrait s'étendre d'ici 2030.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281247/ecole-parc-national-sepaq-ecoloparc",
+     "date": "2026-09-07T08:50-04:00",
+     "auteur": "Catherine Paradis et Émilie Gagné"
+    }
+   ],
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281247/ecole-parc-national-sepaq-ecoloparc",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "des-eleves-du-secondaire-feront-l-ecole-dans-un-parc-nationa-22463c",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "des-eleves-du-secondaire-feront-l-ecole-dans-un-parc-nationa-22463c"
+  },
+  {
+   "titre": "La MRC de L'Islet lance un appel à projets du Fonds de vitalisation pour neuf de ses municipalités",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "MRC de L'Islet (Chaudière-Appalaches)",
+   "resume": "La MRC de L'Islet ouvre jusqu'au 18 octobre un appel à projets réservé à neuf municipalités : Saint-Adalbert, Saint-Damase-de-L'Islet, Sainte-Félicité, Saint-Jean-Port-Joli, Saint-Marcel, Saint-Omer, Saint-Pamphile, Sainte-Perpétue et Tourville. L'enveloppe vient du volet Vitalisation du Fonds régions et ruralité du ministère des Affaires municipales et de l'Habitation, que la MRC administre dans le cadre de son entente de développement territorial 2025-2029 ; organismes, municipalités et autres organisations admissibles peuvent y soumettre des projets jugés structurants pour la vitalité et l'attractivité de ces localités.",
+   "sources": [
+    {
+     "media": "MRC de L'Islet",
+     "url": "https://mrclislet.com/appel-a-projets-fonds-vitalisation-2026/",
+     "date": "2026-09-07T10:51-04:00"
+    }
+   ],
+   "medias": "MRC de L'Islet",
+   "url": "https://mrclislet.com/appel-a-projets-fonds-vitalisation-2026/",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "la-mrc-de-l-islet-lance-un-appel-a-projets-du-fonds-de-vital-da2fb4",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "la-mrc-de-l-islet-lance-un-appel-a-projets-du-fonds-de-vital-da2fb4"
+  },
+  {
+   "titre": "Google corrige d'urgence une faille de Chrome déjà exploitée par des pirates",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "resume": "Une mise à jour à faire sans attendre, avant que les détails de la brèche ne soient publiés.",
+   "sources": [
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/donnees-danger-google-chrome-faille-exploitee-mise-a-jour/",
+     "date": "2026-09-07T09:31-04:00",
+     "auteur": "Setra"
+    }
+   ],
+   "medias": "Presse-citron",
+   "url": "https://www.presse-citron.net/donnees-danger-google-chrome-faille-exploitee-mise-a-jour/",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "google-corrige-d-urgence-une-faille-de-chrome-deja-exploitee-7dcf4c",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "google-corrige-d-urgence-une-faille-de-chrome-deja-exploitee-7dcf4c"
+  },
+  {
+   "titre": "Une intelligence artificielle cartographie six structures inconnues à la frontière entre le manteau et le noyau terrestre",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "resume": "Des anomalies repérées depuis les années 1980 gagnent des contours, et peut-être une origine.",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/planete/actualites/terre-ia-revele-six-structures-mysterieuses-cachees-portes-noyau-terrestre-137573/",
+     "date": "2026-09-07T09:33-04:00",
+     "auteur": "Morgane Gillard"
+    }
+   ],
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/planete/actualites/terre-ia-revele-six-structures-mysterieuses-cachees-portes-noyau-terrestre-137573/",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "une-intelligence-artificielle-cartographie-six-structures-in-871f60",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "une-intelligence-artificielle-cartographie-six-structures-in-871f60"
+  },
+  {
+   "titre": "La gendarmerie française met en garde contre le détournement de cartes SIM, qui contourne la double authentification",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "resume": "Il suffit d'un pirate qui se fait passer pour vous auprès de votre opérateur.",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/sim-swapping-une-alerte-de-la-gendarmerie-revele-une-faille-critique-pour-la-securite-des-entreprises-502932.htm",
+     "date": "2026-09-07T00:09-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-09-07/sim-swapping-comment-se-premunir-contre-cette-arnaque-qui-fait-des-ravages",
+     "date": "2026-09-07T08:14-04:00",
+     "auteur": "Bastien Rague"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/economie-numerique/le-sim-swapping-une-escroquerie-qui-vide-vos-comptes-en-soixante-secondes-20260907_F2ZYFKP3YBCZDDMBKCL3XVXUJQ/",
+     "date": "2026-09-07T10:55-04:00"
+    }
+   ],
+   "medias": "ZDNet, CNEWS, Libération",
+   "url": "https://www.zdnet.fr/actualites/sim-swapping-une-alerte-de-la-gendarmerie-revele-une-faille-critique-pour-la-securite-des-entreprises-502932.htm",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T11:58-04:00",
+   "permalien": "la-gendarmerie-francaise-met-en-garde-contre-le-detournement-7eff20",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "la-gendarmerie-francaise-met-en-garde-contre-le-detournement-7eff20"
+  },
+  {
    "titre": "À Radisson, dans le Nord-du-Québec, l'essence se vend jusqu'à 2,37 $ le litre",
    "cahier": "quebec",
    "rubrique": "economie",
@@ -1335,7 +1931,7 @@
    "cahier": "international",
    "rubrique": "technologies",
    "territoire": "Union européenne, Allemagne",
-   "medias": "Les Affaires",
+   "medias": "Les Affaires, ZDNet",
    "url": "https://www.lesaffaires.com/secteurs/techno-et-ia/prise-de-controle-dun-site-allemand-des-milliers-dagents-dopenai-ont-desobei-lue-enquete/",
    "resume": "L'incident, survenu en mai mais révélé la semaine dernière, teste déjà les nouveaux pouvoirs de l'UE sur l'IA.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
@@ -1349,6 +1945,11 @@
      "url": "https://www.lesaffaires.com/secteurs/techno-et-ia/prise-de-controle-dun-site-allemand-des-milliers-dagents-dopenai-ont-desobei-lue-enquete/",
      "auteur": "AFP",
      "date": "2026-09-07T09:07-04:00"
+    },
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/openai-face-au-desalignement-des-agents-autonomes-piratent-un-wiki-pour-collaborer-502944.htm",
+     "date": "2026-09-07T01:09-04:00"
     }
    ],
    "permalien": "bruxelles-examine-un-incident-survenu-en-mai-ou-des-agents-d-674345",
@@ -1615,17 +2216,40 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, Le Devoir, Québecor, La Presse",
    "url": "https://www.youtube.com/watch?v=9MX9NNIhKL0",
-   "resume": "Diriger le Québec et mener sa campagne en même temps, la même semaine.",
+   "resume": "Mise à jour, 12 h — Duhaime refuse d'y participer, mais les autres chefs acceptent la rencontre proposée par Fréchette lundi soir.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-07T07:23-04:00",
+   "horodate": "2026-09-07T12:23-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
      "url": "https://www.youtube.com/watch?v=9MX9NNIhKL0",
      "date": "2026-09-07T06:55-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007000/je-excuserai-pas-gouverner-dit-christine-frechette",
+     "auteur": "Marco Bélair-Cirino",
+     "date": "2026-09-07T12:23-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/07/conseil-des-ministres-special--christine-frechette-promet-une-nouvelle-aide-pour-les-entreprises",
+     "date": "2026-09-07T12:23-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-09-07/contre-tarifs-d-ottawa/carney-a-ajuste-le-tir-selon-frechette.php",
+     "auteur": "Tommy Chouinard",
+     "date": "2026-09-07T12:23-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/conseil-des-ministres/milliard-ira-rencontrer-frechette-malgre-son-theatre.php",
+     "auteur": "Gabriel Béland",
+     "date": "2026-09-07T12:23-04:00"
     }
    ],
    "image_auto": "aucune",
@@ -1879,7 +2503,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Rimouski, Métis-sur-Mer (Bas-Saint-Laurent)",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, Le Devoir, Coops de l'information, La Presse",
    "url": "https://ici.radio-canada.ca/nouvelle/2281249/election-quebec-solidaire-rimouski-salaire-minimum",
    "sources": [
     {
@@ -1887,15 +2511,132 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281249/election-quebec-solidaire-rimouski-salaire-minimum",
      "auteur": "Alix Villeneuve",
      "date": "2026-09-07T10:27-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007003/quebec-solidaire-veut-augmenter-salaire-minimum-20-heure",
+     "auteur": "Mathilde Beaulieu-Lépine",
+     "date": "2026-09-07T12:23-04:00"
+    },
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/07/un-salaire-minimum-a-20-de-lheure-promet-quebec-solidaire-XWMW3ICQNRD3XCKAPDXZ7MN7TE/",
+     "date": "2026-09-07T12:23-04:00",
+     "auteur": "Patricia Rainville"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/salaire-minimum-a-20/qs-offrirait-330-millions-aux-employeurs-pour-rattraper-le-retard.php",
+     "auteur": "William Thériault",
+     "date": "2026-09-07T12:23-04:00"
     }
    ],
-   "resume": "La tournée solidaire pousse plus loin dans l'Est-du-Québec qu'aucune autre formation depuis le début de la campagne.",
-   "horodate": "2026-09-07T14:27+00:00",
+   "resume": "Mise à jour, 12 h — Le parti chiffre à 330 millions le coût de sa promesse, dont 100 pour le communautaire.",
+   "horodate": "2026-09-07T12:23-04:00",
    "permalien": "quebec-solidaire-promet-un-salaire-minimum-a-20-l-heure-8961c1",
    "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-07.json",
    "_slug": "quebec-solidaire-promet-un-salaire-minimum-a-20-l-heure-8961c1"
+  },
+  {
+   "titre": "Québec solidaire propose un scrutin proportionnel mixte et des référendums d'initiative populaire",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québec solidaire (communiqué)",
+   "url": "https://api-wp.quebecsolidaire.net/articles/quebec-solidaire-veut-redonner-du-pouvoir-aux-peuples-quebecois/",
+   "resume": "Chaque vote compterait pareil, peu importe la région, promet le parti pour les cent premiers jours.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T12:23-04:00",
+   "sources": [
+    {
+     "media": "Québec solidaire (communiqué)",
+     "url": "https://api-wp.quebecsolidaire.net/articles/quebec-solidaire-veut-redonner-du-pouvoir-aux-peuples-quebecois/",
+     "date": "2026-09-07T12:23-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "quebec-solidaire-propose-un-scrutin-proportionnel-mixte-et-d-1f2bda",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "quebec-solidaire-propose-un-scrutin-proportionnel-mixte-et-d-1f2bda"
+  },
+  {
+   "titre": "La CAQ promet 900 millions sur quatre ans pour les dépenses de la rentrée scolaire",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/bourse/economie/jour-12-frechette-redoute-une-autre-vague-de-droits-de-douane/",
+   "resume": "Un troisième mandat caquiste doublerait le remboursement des frais de garde et de fournitures scolaires.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T12:23-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/economie/jour-12-frechette-redoute-une-autre-vague-de-droits-de-douane/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-07T12:23-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-caq-promet-900-millions-sur-quatre-ans-pour-les-depenses-6c303f",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "la-caq-promet-900-millions-sur-quatre-ans-pour-les-depenses-6c303f"
+  },
+  {
+   "titre": "Une bande dessinée du PCQ caricature les mesures du PQ sur la langue à l'école",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/le-pcq-fait-une-bd-pour-critiquer-le-pq/c-est-grave-que-l-etat-choisisse-les-livres-des-eleves.php",
+   "resume": "Un futur imaginé en 2030, agents en uniforme et livres interdits, pour dénoncer le programme péquiste.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T12:23-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/le-pcq-fait-une-bd-pour-critiquer-le-pq/c-est-grave-que-l-etat-choisisse-les-livres-des-eleves.php",
+     "auteur": "Charles Lecavalier",
+     "date": "2026-09-07T12:23-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-bande-dessinee-du-pcq-caricature-les-mesures-du-pq-sur-l-a586a5",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "une-bande-dessinee-du-pcq-caricature-les-mesures-du-pq-sur-l-a586a5"
+  },
+  {
+   "titre": "Élections Québec reconduit dans Terrebonne le directeur de scrutin fautif au fédéral",
+   "cahier": "elections",
+   "rubrique": "justice",
+   "territoire": "Québec (Terrebonne)",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/erreur-qui-a-invalide-le-resultat-federal/elections-quebec-fait-appel-au-meme-directeur-de-scrutin-dans-terrebonne.php",
+   "resume": "Le PCQ réclame un examen par le DGEQ, quand le PQ n'y voit rien d'inhabituel.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T12:23-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/erreur-qui-a-invalide-le-resultat-federal/elections-quebec-fait-appel-au-meme-directeur-de-scrutin-dans-terrebonne.php",
+     "auteur": "Mylène Crête",
+     "date": "2026-09-07T12:23-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "elections-quebec-reconduit-dans-terrebonne-le-directeur-de-s-33a167",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "elections-quebec-reconduit-dans-terrebonne-le-directeur-de-s-33a167"
   },
   {
    "titre": "Le SPVM enquête sur une agression à l'arme blanche survenue vers 1 h 30 dans Ville-Marie",
@@ -4137,7 +4878,7 @@
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Miami (Floride)",
-   "medias": "La Presse, Europe 1, Ouest-France, Coops de l'information, The Verge, Le Figaro, France 24, TV5MONDE, franceinfo",
+   "medias": "La Presse, Europe 1, Ouest-France, Coops de l'information, The Verge, Le Figaro, France 24, TV5MONDE, franceinfo, Le Soleil, 20 Minutes",
    "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
    "sources": [
     {
@@ -4189,6 +4930,12 @@
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/un-avion-cargo-d-amazon-sort-de-piste-et-fait-5-morts-a-miami_8180492.html",
      "date": "2026-09-07T02:25-04:00"
+    },
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/etats-unis/4243070-20260907-etats-unis-morts-atterrissage-rate-sait-accident-avion-cargo-amazon",
+     "date": "2026-09-06T22:50-04:00",
+     "auteur": "Xavier Moulinot"
     }
    ],
    "resume": "Mise à jour, 18 h 30 — Le bilan s'alourdit, et la FAA dépêche ses enquêteurs auprès d'un vieux Boeing converti au fret.",
@@ -4318,11 +5065,11 @@
    "_slug": "fermetures-de-consulats-drone-de-leipzig-lavrov-compare-berl-0efda3"
   },
   {
-   "titre": "Von der Leyen, Frederiksen et Nielsen s'affichent ensemble au Groenland, sept mois après les menaces de Trump",
+   "titre": "Au Groenland, von der Leyen conclut sa visite avec 200 millions d'euros et un partenariat UE-Groenland",
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Groenland",
-   "medias": "TV5MONDE, France 24",
+   "medias": "TV5MONDE, France 24, Le Parisien, Le Monde, RFI",
    "url": "https://information.tv5monde.com/international/au-milieu-des-icebergs-trois-dirigeants-unis-pour-le-groenland-2836428",
    "sources": [
     {
@@ -4335,12 +5082,29 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260906-au-milieu-des-icebergs-trois-dirigeants-unis-pour-le-groenland",
      "date": "2026-09-06T21:05-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/le-groenland-est-un-allie-strategique-pourquoi-lue-debloque-200-millions-deuros-pour-limmense-ile-arctique-07-09-2026-TUEM3HRTCFG3FPATDZ26L6LAWA.php",
+     "date": "2026-09-07T09:21-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/07/la-commission-europeenne-annonce-debloquer-200-millions-d-euros-supplementaires-pour-le-groenland-et-reaffirme-l-autonomie-du-territoire-danois_6767944_3210.html",
+     "date": "2026-09-07T08:46-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260907-en-visite-au-groenland-ursula-von-der-leyen-annonce-une-enveloppe-de-200-millions-d-euros-de-l-ue-pour-le-pays",
+     "date": "2026-09-07T11:25-04:00",
+     "auteur": "AFP"
     }
    ],
-   "resume": "Une croisière entre les icebergs pensée comme un message, pendant qu'un villageois avoue encore sa peur.",
+   "resume": "Mise à jour, 11 h 30 — Connectivité, énergie propre et minerais critiques : l'Europe met de l'argent là où Trump avait mis des menaces.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-06T18:50-04:00",
+   "horodate": "2026-09-07T11:58-04:00",
    "permalien": "von-der-leyen-frederiksen-et-nielsen-s-affichent-ensemble-au-fd098a",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-07.json",
@@ -4816,13 +5580,19 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "Orléans (France)",
-   "medias": "France 24",
+   "medias": "France 24, Sciences et Avenir",
    "url": "https://www.france24.com/fr/info-en-continu/20260906-chasse-ill%C3%A9gale-le-milliardaire-olivier-bouygues-jug%C3%A9-%C3%A0-orl%C3%A9ans",
    "sources": [
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260906-chasse-ill%C3%A9gale-le-milliardaire-olivier-bouygues-jug%C3%A9-%C3%A0-orl%C3%A9ans",
      "date": "2026-09-06T21:05-04:00"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/nature-environnement/chasse-illegale-le-milliardaire-olivier-bouygues-juge-a-orleans_194688",
+     "date": "2026-09-07T08:27-04:00",
+     "auteur": "AFP"
     }
    ],
    "resume": "Deux jours d'audience pour des pratiques que le parquet dit installées depuis des années sur un domaine privé.",
@@ -4947,7 +5717,7 @@
    "cahier": "quebec",
    "rubrique": "faits-divers",
    "territoire": "Dégelis (Témiscouata)",
-   "medias": "Zone 911, Infodimanche, Le Canada Français",
+   "medias": "Zone 911, Infodimanche, Le Canada Français, Le Soleil, TVA Nouvelles",
    "url": "https://zone911.com/accidents/degelis-collision-mortelle-entre-une-moto-et-une-camionnette-sur-la-route-295",
    "sources": [
     {
@@ -4966,6 +5736,18 @@
      "url": "https://www.canadafrancais.com/nouvelles-nationales/un-septuagenaire-meurt-dans-une-collision-a-degelis-dans-le-bas-saint-laurent/",
      "date": "2026-09-07T02:32-04:00",
      "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/07/collision-mortelle-a-degelis-UK6MXFEHYNCX5FRU2YQZMM3XU4/",
+     "date": "2026-09-07T10:55-04:00",
+     "auteur": "Philippe Chabot"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/06/collision-mortelle-a-degelis-un-septuagenaire-decede",
+     "date": "2026-09-06T19:26-04:00",
+     "auteur": "Agence QMI"
     }
    ],
    "resume": "Les premières constatations de la SQ pointent une légère courbe, et rien de plus pour l'instant.",
@@ -5110,7 +5892,7 @@
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Canada, États-Unis",
-   "medias": "La Presse",
+   "medias": "La Presse, Le Journal de Montréal",
    "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/get-up-governor/donald-trump-s-en-prend-a-mark-carney.php",
    "sources": [
     {
@@ -5118,6 +5900,11 @@
      "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/get-up-governor/donald-trump-s-en-prend-a-mark-carney.php",
      "auteur": "Vincent Poirier",
      "date": "2026-09-06T21:58-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/06/get-up-governor---trump-sattaque-de-nouveau-a-carney",
+     "date": "2026-09-06T20:03-04:00"
     }
    ],
    "resume": "Le message arrive la veille de l'entrée en vigueur des contre-mesures tarifaires canadiennes.",
@@ -6047,7 +6834,7 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "Népal",
-   "medias": "La Presse, franceinfo, Le Parisien, ONU Info, Le Devoir, TV5MONDE, France 24",
+   "medias": "La Presse, franceinfo, Le Parisien, ONU Info, Le Devoir, TV5MONDE, France 24, Libération",
    "url": "https://www.lapresse.ca/international/asie-et-oceanie/2026-09-05/crue-dans-l-himalaya/deux-autres-survivants-retrouves-les-recherches-continuent.php",
    "resume": "Mise à jour, 8 h 30 — Drapeaux en berne pour une journée de deuil national, et des familles qui réclament des résultats.",
    "photo": "",
@@ -6101,6 +6888,12 @@
      "media": "TV5MONDE",
      "url": "https://information.tv5monde.com/international/treize-jours-apres-la-catastrophe-jour-de-deuil-et-de-frustration-au-nepal-2836475",
      "date": "2026-09-07T03:48-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/asie-pacifique/apres-les-crues-au-nepal-la-difficile-reconnaissance-des-corps-nous-nimaginions-pas-un-instant-ne-recevoir-que-des-cadavres-20260907_EC3A5MRTLVBJJLCFDQQJFDINBA/",
+     "date": "2026-09-07T09:57-04:00",
+     "auteur": "Guillaume Gosalbes et Juliette Chaignon"
     }
    ],
    "horodate": "2026-09-07T08:54-04:00",
@@ -6164,13 +6957,13 @@
    "_slug": "une-eruption-volcanique-interrompt-le-trafic-aerien-dans-plu-582310"
   },
   {
-   "titre": "De hauts responsables et des officiers serbes ont pris part à une cérémonie rendant hommage à Ratko Mladic, décédé la semaine dernière en détention",
+   "titre": "Des milliers de Serbes accompagnent Ratko Mladic à sa tombe, sous les protestations de Bruxelles",
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "Serbie",
-   "medias": "France 24, TV5MONDE, CNEWS, Libération",
+   "medias": "France 24, TV5MONDE, CNEWS, Libération, Le Parisien, Radio-Canada, RFI",
    "url": "https://www.france24.com/fr/info-en-continu/20260905-serbie-ministres-et-militaires-%C3%A0-une-c%C3%A9r%C3%A9monie-d-hommage-au-criminel-de-guerre-ratko-mladic",
-   "resume": "Mise à jour, 21 h 45 — Sa dépouille sera exposée cinq heures en église avant un cortège vers le cimetière voisin.",
+   "resume": "Mise à jour, 11 h 30 — Des milliers de Serbes autour d'un cercueil orné d'un sabre, et Bruxelles qui refuse d'y voir un hommage.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -6200,9 +6993,24 @@
      "url": "https://www.liberation.fr/international/europe/le-criminel-de-guerre-ratko-mladic-inhume-ce-lundi-a-belgrade-des-milliers-de-personnes-attendues-20260907_MXFZ3FVYWJFZLM2M4YA3JG6L6M/",
      "date": "2026-09-07T03:21-04:00",
      "auteur": "AFP"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/funerailles-de-ratko-mladic-a-belgrade-lue-denonce-une-glorification-du-criminel-de-guerre-condamne-pour-genocide-07-09-2026-ZJM4YVPLONHHPF2XP5MWSMITLQ.php",
+     "date": "2026-09-07T09:14-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281271/belgrade-milliers-personnes-obseques-ratko-mladic",
+     "date": "2026-09-07T10:56-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260907-serbie-obs%C3%A8ques-du-criminel-de-guerre-ratko-mladic-milliers-de-personnes-belgrade",
+     "date": "2026-09-07T08:44-04:00"
     }
    ],
-   "horodate": "2026-09-06T21:58-04:00",
+   "horodate": "2026-09-07T11:58-04:00",
    "permalien": "de-hauts-responsables-et-des-officiers-serbes-ont-pris-part-d665c9",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-07.json",
@@ -6316,7 +7124,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Liban",
-   "medias": "Anadolu Ajansı, Euronews, France 24, franceinfo, RFI",
+   "medias": "Anadolu Ajansı, Euronews, France 24, franceinfo, RFI, Le Devoir, La Presse, Le Journal de Québec",
    "url": "https://www.aa.com.tr/fr/monde/l-arm%C3%A9e-isra%C3%A9lienne-reprend-ses-frappes-au-liban-malgr%C3%A9-l-accord-n%C3%A9goci%C3%A9-par-les-%C3%A9tats-unis/4048354",
    "resume": "Mise à jour, 3 h 30 — Des frappes au-delà de la zone tampon, et un cessez-le-feu qui n'en a plus que le nom.",
    "photo": "",
@@ -6347,6 +7155,23 @@
      "media": "RFI",
      "url": "https://www.rfi.fr/fr/moyen-orient/20260907-multiplication-attaques-israel-sud-liban-un-ordre-d-%C3%A9vacuation-des-populations-lanc%C3%A9",
      "date": "2026-09-07T00:57-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1006988/israel-mene-nouvelles-frappes-meurtrieres-sud-liban",
+     "date": "2026-09-07T08:45-04:00",
+     "auteur": "Mahmoud Zayyat"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-07/nouvelles-frappes-israeliennes-meurtrieres-au-liban.php",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Mahmoud Zayyat"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/07/liban-11-morts-dans-des-frappes-israeliennes-nocturnes-sur-un-village-du-sud",
+     "date": "2026-09-07T03:26-04:00"
     }
    ],
    "horodate": "2026-09-07T04:00-04:00",
@@ -6415,9 +7240,9 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Russie, Ukraine",
-   "medias": "BBC, The Associated Press, Le Parisien, Radio-Canada, RFI, Libération, Al Jazeera, The Kyiv Independent, franceinfo, La Libre.be, IntelliNews, Ukrinform, Ukrinform, France 24, RFE/RL, The Guardian, BFMTV, The Independent",
+   "medias": "BBC, The Associated Press, Le Parisien, Radio-Canada, RFI, Libération, Al Jazeera, The Kyiv Independent, franceinfo, La Libre.be, IntelliNews, Ukrinform, France 24, RFE/RL, The Guardian, BFMTV, The Independent, La Croix, Les Échos",
    "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo",
-   "resume": "Mise à jour, 15 h 30 — Kyiv réclame un paquet d'hiver et une rencontre entre présidents avant toute concession territoriale.",
+   "resume": "Mise à jour, 11 h 30 — Moscou n'écarte plus une table à trois, et deux coups de fil de Trump attendus dans la journée.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Moscow_Kremlin_Towers_of_south_wall.jpg/1280px-Moscow_Kremlin_Towers_of_south_wall.jpg",
    "legende": "Les tours de la muraille sud du Kremlin, à Moscou.",
    "photo_auteur": "Dmitry Ivanov",
@@ -6535,9 +7360,19 @@
      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-peace-talks-news-b3045696.html",
      "date": "2026-09-07T00:56-04:00",
      "auteur": "Arpan Rai"
+    },
+    {
+     "media": "La Croix",
+     "url": "https://www.la-croix.com/international/ukraine-russie-jour-1654-point-conflit-ukrainien-poutine-aujourdhui-20260907",
+     "date": "2026-09-07T02:04-04:00"
+    },
+    {
+     "media": "Les Échos",
+     "url": "https://www.lesechos.fr/monde/europe/guerre-en-ukraine-trump-appellera-ce-lundi-poutine-puis-zelensky-2250080",
+     "date": "2026-09-07T01:41-04:00"
     }
    ],
-   "horodate": "2026-09-06T15:58-04:00",
+   "horodate": "2026-09-07T11:58-04:00",
    "permalien": "les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea",
    "_fichier": "revue-report-2026-09-07.json",
    "_volet": "report",
