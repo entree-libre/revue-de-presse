@@ -47,7 +47,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "France",
-   "medias": "franceinfo, Libération, France 24",
+   "medias": "franceinfo, Libération, France 24, RFI",
    "sources": [
     {
      "media": "franceinfo",
@@ -64,6 +64,12 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf",
      "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/france/20260907-france-fabien-roussel-officialise-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle-de-2027",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "Une candidature que La France insoumise n'a toujours pas pardonnée depuis 2022.",
@@ -184,12 +190,18 @@
    "cahier": "canada",
    "rubrique": "environnement",
    "territoire": "Ontario",
-   "medias": "Global News",
+   "medias": "Global News, Le Canada Français",
    "sources": [
     {
      "media": "Global News",
      "url": "https://globalnews.ca/news/12049658/beluga-whales-marineland-health-issues-shedd-aquarium/",
      "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/laquarium-de-chicago-fait-le-point-sur-letat-de-sante-des-belugas-de-marineland/",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "La Presse Canadienne"
     }
    ],
    "resume": "Un premier béluga était mort deux semaines après son déménagement.",
@@ -490,7 +502,7 @@
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Miami (Floride)",
-   "medias": "La Presse, Europe 1, Ouest-France, Coops de l'information, The Verge",
+   "medias": "La Presse, Europe 1, Ouest-France, Coops de l'information, The Verge, Le Figaro, France 24",
    "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
    "sources": [
     {
@@ -521,6 +533,16 @@
      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
      "auteur": "Terrence O'Brien",
      "date": "2026-09-06T16:56-04:00"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/etats-unis-a-miami-un-avion-cargo-sort-de-piste-et-percute-des-vehicules-20260906",
+     "date": "2026-09-06T21:05-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260906-un-avion-cargo-d-amazon-sort-de-piste-%C3%A0-miami-cinq-morts-et-cinq-bless%C3%A9s",
+     "date": "2026-09-06T21:05-04:00"
     }
    ],
    "resume": "Mise à jour, 18 h 30 — Le bilan s'alourdit, et la FAA dépêche ses enquêteurs auprès d'un vieux Boeing converti au fret.",
@@ -644,7 +666,7 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Groenland",
-   "medias": "TV5MONDE",
+   "medias": "TV5MONDE, France 24",
    "url": "https://information.tv5monde.com/international/au-milieu-des-icebergs-trois-dirigeants-unis-pour-le-groenland-2836428",
    "sources": [
     {
@@ -652,6 +674,11 @@
      "url": "https://information.tv5monde.com/international/au-milieu-des-icebergs-trois-dirigeants-unis-pour-le-groenland-2836428",
      "auteur": "Camille Camdessus (AFP)",
      "date": "2026-09-06T16:53-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260906-au-milieu-des-icebergs-trois-dirigeants-unis-pour-le-groenland",
+     "date": "2026-09-06T21:05-04:00"
     }
    ],
    "resume": "Une croisière entre les icebergs pensée comme un message, pendant qu'un villageois avoue encore sa peur.",
@@ -768,7 +795,7 @@
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Ontario",
-   "medias": "La Presse",
+   "medias": "La Presse, Coops de l'information",
    "url": "https://www.lapresse.ca/actualites/2026-09-06/mort-d-otto-jelinek-ancien-ministre-federal-et-champion-du-monde-de-patinage-artistique.php",
    "sources": [
     {
@@ -776,6 +803,12 @@
      "url": "https://www.lapresse.ca/actualites/2026-09-06/mort-d-otto-jelinek-ancien-ministre-federal-et-champion-du-monde-de-patinage-artistique.php",
      "auteur": "Dylan Robertson (La Presse Canadienne)",
      "date": "2026-09-06T18:19-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/politique/2026/09/06/deces-d-otto-jelinek-ancien-ministre-et-champion-du-monde-de-patinage-artistique-GQ4TBXOVR5BSNISIR2ICLXU2ZI/",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Dylan Robertson, La Presse Canadienne"
     }
    ],
    "resume": "De la fuite de Prague à Squaw Valley, puis vingt ans aux Communes pour Oakville.",
@@ -789,11 +822,11 @@
    "_slug": "otto-jelinek-refugie-tcheque-devenu-patineur-olympique-puis-c6561b"
   },
   {
-   "titre": "La cinéaste et actrice crie Georgina Lightning est morte à 63 ans, un décès que des proches lient à une course de relais à Enoch",
+   "titre": "La cinéaste et actrice crie Georgina Lightning est morte à 63 ans, frappée par un cheval sorti de piste lors d'une course de relais à Enoch",
    "cahier": "canada",
    "rubrique": "culture",
    "territoire": "Enoch (Alberta)",
-   "medias": "CBC",
+   "medias": "CBC, Global News",
    "url": "https://www.cbc.ca/news/canada/edmonton/georgina-lightning-death-9.7334442?cmp=rss",
    "sources": [
     {
@@ -801,12 +834,18 @@
      "url": "https://www.cbc.ca/news/canada/edmonton/georgina-lightning-death-9.7334442?cmp=rss",
      "auteur": "Kelsie Johnston",
      "date": "2026-09-06T17:20-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12049740/georgina-lightning-death-mourning/",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Sean Previl"
     }
    ],
-   "resume": "Aucune cause annoncée, et une enquête sur un décès survenu dans l'aire des médias d'un hippodrome.",
+   "resume": "Mise à jour, 20 h 30 — La GRC confirme la cause, la famille confirme l'identité, et la nation crie d'Enoch pleure une des siennes.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-06T18:50-04:00",
+   "horodate": "2026-09-06T21:05-04:00",
    "permalien": "la-cineaste-et-actrice-crie-georgina-lightning-est-morte-a-6-eb2d23",
    "image_auto": "aucune",
    "_volet": "continu",
@@ -986,6 +1025,384 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-06.json",
    "_slug": "police-ecologique-et-mesures-d-urgence-l-asie-centrale-cherc-c0db2f"
+  },
+  {
+   "titre": "Douze morts dans l'incendie d'une salle de mariage à Kinshasa, où l'issue de secours était trop étroite",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "République démocratique du Congo",
+   "medias": "Le Parisien",
+   "url": "https://www.leparisien.fr/international/bloquees-par-une-issue-de-secours-trop-petite-12-personnes-meurent-dans-un-incendie-lors-dun-mariage-a-kinshasa-07-09-2026-DVOUIIUWO5BXFDCAE2MFZGZO6U.php",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/bloquees-par-une-issue-de-secours-trop-petite-12-personnes-meurent-dans-un-incendie-lors-dun-mariage-a-kinshasa-07-09-2026-DVOUIIUWO5BXFDCAE2MFZGZO6U.php",
+     "date": "2026-09-06T21:05-04:00"
+    }
+   ],
+   "resume": "Des normes ignorées selon les autorités, et une origine du feu qui reste à établir.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "douze-morts-dans-l-incendie-d-une-salle-de-mariage-a-kinshas-2c216d",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "douze-morts-dans-l-incendie-d-une-salle-de-mariage-a-kinshas-2c216d"
+  },
+  {
+   "titre": "Ohio : des tirs blessent plusieurs personnes au rassemblement d'Amy Acton, qui brigue le poste de gouverneure pour les démocrates",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Ohio (États-Unis)",
+   "medias": "Le Parisien",
+   "url": "https://www.leparisien.fr/international/etats-unis/etats-unis-un-homme-essaie-de-sen-prendre-a-la-candidate-democrate-au-poste-de-gouverneur-de-lohio-plusieurs-blesses-07-09-2026-NM3YALKEENDFLHJFNPIBQ5QWVI.php",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/etats-unis-un-homme-essaie-de-sen-prendre-a-la-candidate-democrate-au-poste-de-gouverneur-de-lohio-plusieurs-blesses-07-09-2026-NM3YALKEENDFLHJFNPIBQ5QWVI.php",
+     "date": "2026-09-06T21:05-04:00"
+    }
+   ],
+   "resume": "Une course serrée face à Vivek Ramaswamy, dans un État tenu par les républicains depuis 2011.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "ohio-des-tirs-blessent-plusieurs-personnes-au-rassemblement-d53b7e",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "ohio-des-tirs-blessent-plusieurs-personnes-au-rassemblement-d53b7e"
+  },
+  {
+   "titre": "L'Allemagne plaide dès lundi devant la CIJ pour faire tomber la plainte du Nicaragua sur son soutien à Israël",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Allemagne, Nicaragua",
+   "medias": "TV5MONDE, France 24",
+   "url": "https://information.tv5monde.com/international/berlin-demande-le-rejet-dune-affaire-de-genocide-devant-la-cij-2836437",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/berlin-demande-le-rejet-dune-affaire-de-genocide-devant-la-cij-2836437",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "AFP"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260906-berlin-demande-le-rejet-d-une-affaire-de-g%C3%A9nocide-devant-la-cij",
+     "date": "2026-09-06T21:05-04:00"
+    }
+   ],
+   "resume": "Quatre jours d'audiences sur une seule question : la Cour a-t-elle le droit de juger Berlin ?",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "l-allemagne-plaide-des-lundi-devant-la-cij-pour-faire-tomber-23ae44",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "l-allemagne-plaide-des-lundi-devant-la-cij-pour-faire-tomber-23ae44"
+  },
+  {
+   "titre": "À Paris s'ouvre le procès des deux hommes poursuivis pour la mort par balles de l'ex-rugbyman argentin Federico Aramburu en 2022",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Paris (France)",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/info-en-continu/20260906-le-proc%C3%A8s-des-meurtriers-pr%C3%A9sum%C3%A9s-de-l-ex-rugbyman-argentin-aramburu-s-ouvre-%C3%A0-paris",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260906-le-proc%C3%A8s-des-meurtriers-pr%C3%A9sum%C3%A9s-de-l-ex-rugbyman-argentin-aramburu-s-ouvre-%C3%A0-paris",
+     "date": "2026-09-06T21:05-04:00"
+    }
+   ],
+   "resume": "Quatre balles à l'aube boulevard Saint-Germain, et deux accusés qui nient avoir voulu tuer.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "a-paris-s-ouvre-le-proces-des-deux-hommes-poursuivis-pour-la-a88141",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "a-paris-s-ouvre-le-proces-des-deux-hommes-poursuivis-pour-la-a88141"
+  },
+  {
+   "titre": "L'homme d'affaires Olivier Bouygues jugé à Orléans pour des pratiques de chasse illégales sur son domaine",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Orléans (France)",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/info-en-continu/20260906-chasse-ill%C3%A9gale-le-milliardaire-olivier-bouygues-jug%C3%A9-%C3%A0-orl%C3%A9ans",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260906-chasse-ill%C3%A9gale-le-milliardaire-olivier-bouygues-jug%C3%A9-%C3%A0-orl%C3%A9ans",
+     "date": "2026-09-06T21:05-04:00"
+    }
+   ],
+   "resume": "Deux jours d'audience pour des pratiques que le parquet dit installées depuis des années sur un domaine privé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "l-homme-d-affaires-olivier-bouygues-juge-a-orleans-pour-des-807ae4",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "l-homme-d-affaires-olivier-bouygues-juge-a-orleans-pour-des-807ae4"
+  },
+  {
+   "titre": "Le marathon caritatif ZEvent tire sa révérence après dix éditions avec un record de plus de 30 millions d'euros",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Montpellier (France)",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/france/20260906-france-pour-sa-derni%C3%A8re-%C3%A9dition-l-%C3%A9v%C3%A9nement-caritatif-zevent-r%C3%A9colte-la-somme-record-de-30-millions-d-euros",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/france/20260906-france-pour-sa-derni%C3%A8re-%C3%A9dition-l-%C3%A9v%C3%A9nement-caritatif-zevent-r%C3%A9colte-la-somme-record-de-30-millions-d-euros",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Dix ans de streams pour la bonne cause, et un adieu qui bat tous les compteurs.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "le-marathon-caritatif-zevent-tire-sa-reverence-apres-dix-edi-ae62ad",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "le-marathon-caritatif-zevent-tire-sa-reverence-apres-dix-edi-ae62ad"
+  },
+  {
+   "titre": "Le Seattle Times et Newsday poursuivent OpenAI et Microsoft, accusés d'avoir entraîné leurs modèles sur leurs articles sans permission",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Terrence O'Brien"
+    }
+   ],
+   "resume": "Derrière le New York Times, la file des journaux qui attaquent OpenAI s'allonge encore.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "le-seattle-times-et-newsday-poursuivent-openai-et-microsoft-2f083f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "le-seattle-times-et-newsday-poursuivent-openai-et-microsoft-2f083f"
+  },
+  {
+   "titre": "À Winnipeg, des milliers de sikhs défilent pour le Nagar Kirtan sous protection policière, après des menaces de mort taguées sur le parcours",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Winnipeg (Manitoba)",
+   "medias": "Global News, Radio-Canada",
+   "url": "https://globalnews.ca/news/12049637/sikh-community-targeted-with-death-and-hate-messages-amid-holy-procession/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12049637/sikh-community-targeted-with-death-and-hate-messages-amid-holy-procession/",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Toni De Guzman"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10753946/communaute-sikh-celebre-sa-fete-religieuse-sous-surveillance-policiere",
+     "date": "2026-09-06T21:05-04:00"
+    }
+   ],
+   "resume": "Une fête religieuse maintenue malgré les graffitis, et une police qui marche au même pas que les fidèles.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "a-winnipeg-des-milliers-de-sikhs-defilent-pour-le-nagar-kirt-b7cc85",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "a-winnipeg-des-milliers-de-sikhs-defilent-pour-le-nagar-kirt-b7cc85"
+  },
+  {
+   "titre": "À Venise, Wim Wenders s'explique sur la phrase de la Berlinale voulant que le cinéma se tienne à l'écart du politique",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Venise (Italie)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/culture/cinema/1006925/realisateur-allemand-wim-wenders-clarifie-position-cinema-politique",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/cinema/1006925/realisateur-allemand-wim-wenders-clarifie-position-cinema-politique",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Sept mois après une Berlinale empoisonnée, le réalisateur de Paris, Texas tente d'éteindre l'incendie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "a-venise-wim-wenders-s-explique-sur-la-phrase-de-la-berlinal-292974",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "a-venise-wim-wenders-s-explique-sur-la-phrase-de-la-berlinal-292974"
+  },
+  {
+   "titre": "Collision fatale moto-camionnette sur la 295 : un mort à Dégelis, au Témiscouata",
+   "cahier": "quebec",
+   "rubrique": "faits-divers",
+   "territoire": "Dégelis (Témiscouata)",
+   "medias": "Zone 911",
+   "url": "https://zone911.com/accidents/degelis-collision-mortelle-entre-une-moto-et-une-camionnette-sur-la-route-295",
+   "sources": [
+    {
+     "media": "Zone 911",
+     "url": "https://zone911.com/accidents/degelis-collision-mortelle-entre-une-moto-et-une-camionnette-sur-la-route-295",
+     "date": "2026-09-06T21:05-04:00"
+    }
+   ],
+   "resume": "Les premières constatations de la SQ pointent une légère courbe, et rien de plus pour l'instant.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "collision-fatale-moto-camionnette-sur-la-295-un-mort-a-degel-0baf8b",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "collision-fatale-moto-camionnette-sur-la-295-un-mort-a-degel-0baf8b"
+  },
+  {
+   "titre": "Sur la Haute-Côte-Nord, l'organisme de bassins versants a passé sept lacs au peigne fin cet été pour y traquer les plantes envahissantes",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Les Bergeronnes (Haute-Côte-Nord)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281185/lacs-plantes-exotiques-envahissantes-environnement",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281185/lacs-plantes-exotiques-envahissantes-environnement",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Laurana Genest"
+    }
+   ],
+   "resume": "Depuis une première intruse repérée aux Bergeronnes en 2016, chaque lac inspecté peut réserver une mauvaise surprise.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "sur-la-haute-cote-nord-l-organisme-de-bassins-versants-a-pas-20d531",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "sur-la-haute-cote-nord-l-organisme-de-bassins-versants-a-pas-20d531"
+  },
+  {
+   "titre": "La Fédération québécoise des groupes de mycologues tient sa 25e rencontre annuelle à New Richmond, en Gaspésie",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "New Richmond (Gaspésie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281198/rencontre-champignongs-gaspesie-mycologues",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281198/rencontre-champignongs-gaspesie-mycologues",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Flavie Durette"
+    }
+   ],
+   "resume": "Le rendez-vous le plus couru des mycologues québécois, avec des portes ouvertes pour les curieux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "la-federation-quebecoise-des-groupes-de-mycologues-tient-sa-02ef0f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "la-federation-quebecoise-des-groupes-de-mycologues-tient-sa-02ef0f"
+  },
+  {
+   "titre": "Vingt ans après l'avoir aboli, la Croatie rappelle sous les drapeaux ses jeunes de 19 ans pour deux mois, et le pays se divise",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Croatie",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260906-en-croatie-le-retour-d-un-service-militaire-de-deux-mois-divise",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260906-en-croatie-le-retour-d-un-service-militaire-de-deux-mois-divise",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Frédérique Lebel"
+    }
+   ],
+   "resume": "D'abord une seule classe d'âge, puis bien davantage d'appelés d'ici trois ans, et des familles qui s'interrogent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "vingt-ans-apres-l-avoir-aboli-la-croatie-rappelle-sous-les-d-891152",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "vingt-ans-apres-l-avoir-aboli-la-croatie-rappelle-sous-les-d-891152"
+  },
+  {
+   "titre": "En Guinée, l'ex-magistrat Algassimou Diallo est transféré de la prison de Coyah à celle de Macenta, à l'autre bout du pays",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Guinée",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/afrique/20260906-guin%C3%A9e-l-ex-magistrat-algassimou-diallo-transf%C3%A9r%C3%A9-dans-une-prison-%C3%A0-700-kilom%C3%A8tres-de-conakry",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/afrique/20260906-guin%C3%A9e-l-ex-magistrat-algassimou-diallo-transf%C3%A9r%C3%A9-dans-une-prison-%C3%A0-700-kilom%C3%A8tres-de-conakry",
+     "date": "2026-09-06T21:05-04:00"
+    }
+   ],
+   "resume": "Une figure du procès du 28-Septembre envoyée à 700 kilomètres, sans que personne ne comprenne pourquoi.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "en-guinee-l-ex-magistrat-algassimou-diallo-est-transfere-de-b65f0f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "en-guinee-l-ex-magistrat-algassimou-diallo-est-transfere-de-b65f0f"
+  },
+  {
+   "titre": "Sept des quatorze candidats à la mairie d'Ottawa admettent ne pas maîtriser le français, selon un sondage de Radio-Canada",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Ottawa (Ontario)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10753932/francais-est-il-necessaire-pour-devenir-maire-ottawa",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10753932/francais-est-il-necessaire-pour-devenir-maire-ottawa",
+     "date": "2026-09-06T21:05-04:00"
+    }
+   ],
+   "resume": "Reste à savoir si la capitale d'un pays bilingue peut se donner un maire qui ne l'est pas.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:05-04:00",
+   "permalien": "sept-des-quatorze-candidats-a-la-mairie-d-ottawa-admettent-n-532a6e",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-06.json",
+   "_slug": "sept-des-quatorze-candidats-a-la-mairie-d-ottawa-admettent-n-532a6e"
   },
   {
    "titre": "Les ventes de maisons chutent de 13 % à Montréal, mais les prix continuent de grimper",
@@ -2237,6 +2654,31 @@
    "_slug": "a-rimouski-quebec-solidaire-cherche-enfin-la-victoire-qui-lu-801507"
   },
   {
+   "titre": "Un chroniqueur juge inutile un débat identitaire à quatre semaines du scrutin",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "LaPresse",
+   "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-06/pas-besoin-d-un-debat-identitaire.php",
+   "resume": "Il craint que l'immigration finisse par éclipser l'éducation et la santé dans la course.",
+   "sources": [
+    {
+     "media": "LaPresse",
+     "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-06/pas-besoin-d-un-debat-identitaire.php",
+     "auteur": "Régis Labeaume",
+     "date": "2026-09-06T19:30-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-06T21:22-04:00",
+   "permalien": "un-chroniqueur-juge-inutile-un-debat-identitaire-a-quatre-se-cddf93",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-06.json",
+   "_slug": "un-chroniqueur-juge-inutile-un-debat-identitaire-a-quatre-se-cddf93"
+  },
+  {
    "titre": "La brûlure bactérienne a déjà fait abattre un verger à Sainte-Famille",
    "cahier": "quebec",
    "rubrique": "environnement",
@@ -2782,7 +3224,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Allemagne (Saxe-Anhalt)",
-   "medias": "France 24, Le Monde, Radio-Canada, RTS, La Libre.be, TV5MONDE, Coops de l'information, La Croix, Libération, Le Temps, franceinfo, Le Parisien, RTL, 20 Minutes",
+   "medias": "France 24, Le Monde, Radio-Canada, RTS, La Libre.be, TV5MONDE, Coops de l'information, La Croix, Libération, Le Temps, franceinfo, Le Parisien, RTL, 20 Minutes, Le Devoir, RFI",
    "url": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-du-scrutin-local-en-saxe-anhalt_6766352_3210.html",
    "resume": "Mise à jour, 18 h 30 — Le pare-feu se fissure : le BSW de Sahra Wagenknecht n'exclut pas de gouverner avec elle.",
    "photo": "",
@@ -2883,6 +3325,18 @@
      "url": "https://www.20minutes.fr/politique/4243051-20260906-victoire-extreme-droite-allemagne-melenchon-accuse-aveuglement-politiques-europeennes-centristes",
      "date": "2026-09-06T16:36-04:00",
      "auteur": "Romarik Le Dourneuf"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/europe/1006883/extreme-droite-allemande-quete-victoire-historique-saxe-anhalt",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Céline Le Prioux et Edouard Merlo"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260906-allemagne-la-victoire-de-l-afd-en-saxe-anhalt-fait-fr%C3%A9mir-la-classe-politique-fran%C3%A7aise",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "horodate": "2026-09-06T18:50-04:00",
@@ -2893,13 +3347,13 @@
    "_slug": "en-saxe-anhalt-l-afd-pourrait-devenir-dimanche-le-premier-pa-e66567"
   },
   {
-   "titre": "Après une semaine et demie de recherches, un homme originaire de Chine a pu sortir vivant d'un tunnel au Népal",
+   "titre": "Au Népal, 2 300 secouristes cherchent toujours des survivants, parmi lesquels des pèlerins et des touristes venus de l'étranger",
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "Népal",
-   "medias": "La Presse, franceinfo, Le Parisien, ONU Info",
+   "medias": "La Presse, franceinfo, Le Parisien, ONU Info, Le Devoir",
    "url": "https://www.lapresse.ca/international/asie-et-oceanie/2026-09-05/crue-dans-l-himalaya/deux-autres-survivants-retrouves-les-recherches-continuent.php",
-   "resume": "L'aide internationale s'organise pour ce pays où les recherches se poursuivent après la catastrophe.",
+   "resume": "Mise à jour, 20 h 30 — Trois miraculés sortis des tunnels, pendant que l'ONU décrit le désarroi de dizaines de milliers de sinistrés.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -2923,9 +3377,20 @@
      "media": "ONU Info",
      "url": "https://news.un.org/fr/story/2026/09/1159414",
      "date": "2026-09-06T05:34-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/asie/1006931/secours-sont-toujours-recherche-survivants-himalaya",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Paavan Mathema"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/les-sauvetages-ont-redonne-espoir-a-toute-la-nation-dans-lhimalaya-2-300-secouristes-et-8-800-engins-a-la-recherche-de-survivants-07-09-2026-ZNS2UFTFC5CPHMX7NPMO7B3UHA.php",
+     "date": "2026-09-06T21:05-04:00"
     }
    ],
-   "horodate": "2026-09-06T04:55-04:00",
+   "horodate": "2026-09-06T21:05-04:00",
    "permalien": "apres-une-semaine-et-demie-de-recherches-un-homme-originaire-1d1154",
    "image_auto": "aucune",
    "_volet": "monde",
@@ -3265,7 +3730,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Yémen",
-   "medias": "RFI, TV5MONDE, France 24, Libération",
+   "medias": "RFI, TV5MONDE, France 24, Libération, Le Devoir",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260905-y%C3%A9men-pr%C3%A8s-de-200-morts-dans-une-nouvelle-offensive-des-rebelles-houthis-vers-la-ville-de-ta%C3%ABz",
    "resume": "Mise à jour, 15 h 30 — Les rebelles avancent vers un détroit devenu vital depuis qu'Ormuz est aux mains de l'Iran.",
    "photo": "",
@@ -3292,6 +3757,12 @@
      "url": "https://www.liberation.fr/international/moyen-orient/yemen-plus-de-300-morts-dans-les-affrontements-entre-houthis-et-les-forces-gouvernementales-depuis-jeudi-20260906_QC2HOLC37FEODAMMI6XKXWRJ2U/",
      "auteur": "AFP",
      "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1006928/plus-300-combattants-sont-morts-offensive-houthie-yemen",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "horodate": "2026-09-06T15:54-04:00",
@@ -4680,7 +5151,7 @@
    "cahier": "quebec",
    "rubrique": "faits-divers",
    "territoire": "Gatineau (Outaouais)",
-   "medias": "Radio-Canada, Coops de l'information",
+   "medias": "Radio-Canada, Coops de l'information, CBC",
    "url": "https://ici.radio-canada.ca/nouvelle/2280959/veronique-plourde-deces-allumettieres-collision",
    "resume": "Une femme d'affaires bien connue à Aylmer et l'automobiliste venant en sens inverse ont péri dans l'accident.",
    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Gatineau_%28secteur_Aylmer%29-2023-05-26.jpg",
@@ -4698,6 +5169,11 @@
      "url": "https://www.ledroit.com/actualites/2026/09/06/la-communaute-daylmer-marquee-par-le-deces-de-veronique-plourde",
      "auteur": "Sarah-Jeanne Tremblay",
      "date": "2026-09-06T04:00-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/ottawa/aylmer-restaurateur-who-died-in-head-on-crash-remembered-as-bon-vivant-9.7332981?cmp=rss",
+     "date": "2026-09-06T21:05-04:00"
     }
    ],
    "photo_auteur": "Veillg1",
@@ -5154,7 +5630,7 @@
    "cahier": "canada",
    "rubrique": "environnement",
    "territoire": "Nouvelle-Écosse",
-   "medias": "CBC, Radio-Canada",
+   "medias": "CBC, Radio-Canada, Le Canada Français",
    "url": "https://www.cbc.ca/news/canada/nova-scotia/inverness-richmond-victoria-storm-emergency-flooding-9.7333873",
    "resume": "Mise à jour, 15 h 30 — Des municipalités disent avoir été prises de court par l'ampleur de la tempête.",
    "sources": [
@@ -5185,6 +5661,12 @@
      "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-storm-tyson-mcewan-tow-truck-9.7334253?cmp=rss",
      "auteur": "Richard Woodbury",
      "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/une-femme-est-decedee-lors-des-inondations-en-nouvelle-ecosse/",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Eli Ridder et La Presse Canadienne"
     }
    ],
    "horodate": "2026-09-06T15:54-04:00",
@@ -5335,7 +5817,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Russie, Ukraine",
-   "medias": "BBC, The Associated Press, Le Parisien, Radio-Canada, RFI, Libération, Al Jazeera, The Kyiv Independent, franceinfo, La Libre.be, IntelliNews, Ukrinform, Ukrinform",
+   "medias": "BBC, The Associated Press, Le Parisien, Radio-Canada, RFI, Libération, Al Jazeera, The Kyiv Independent, franceinfo, La Libre.be, IntelliNews, Ukrinform, Ukrinform, France 24, RFE/RL",
    "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo",
    "resume": "Mise à jour, 15 h 30 — Kyiv réclame un paquet d'hiver et une rencontre entre présidents avant toute concession territoriale.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Moscow_Kremlin_Towers_of_south_wall.jpg/1280px-Moscow_Kremlin_Towers_of_south_wall.jpg",
@@ -5421,6 +5903,24 @@
      "media": "Ukrinform",
      "url": "https://www.ukrinform.net/rubric-polytics/4161418-pope-leo-xiv-hopes-current-russiaukraine-talks-will-produce-results.html",
      "date": "2026-09-06T16:04-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/europe/20260906-pourparlers-kiev-ukraine-russie-propositions-americaines-plus-efficaces-zelensky-volodymyr-jared-kushner-steve-witkoff-etats-unis-guerre",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Gulliver Cragg"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-des-pourparlers-constructifs-%C3%A0-moscou-et-%C3%A0-kiev-mais-sans-annonce-concr%C3%A8te",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Gulliver Cragg"
+    },
+    {
+     "media": "RFE/RL",
+     "url": "https://www.rferl.org/a/ukraine-witkoff-kushner-russia-peace-negotiations/33848067.html",
+     "date": "2026-09-06T21:05-04:00",
+     "auteur": "Alex Raufoglu"
     }
    ],
    "horodate": "2026-09-06T15:58-04:00",
