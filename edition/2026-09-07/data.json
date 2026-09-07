@@ -1,9 +1,35 @@
 {
  "date": "2026-09-07",
  "volets": [
+  "elections",
   "report"
  ],
  "articles": [
+  {
+   "titre": "Une aile québécoise de La France insoumise doit cogner aux portes avec Québec solidaire aujourd'hui",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Jean-Lesage)",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/un-parti-dextreme-gauche-francais-singere-dans-la-campagne-en-appuyant-qs/",
+   "resume": "Le débat sur l'ingérence étrangère qu'Ottawa surveille depuis 2023 gagne la campagne électorale québécoise.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T03:24-04:00",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/un-parti-dextreme-gauche-francais-singere-dans-la-campagne-en-appuyant-qs/",
+     "date": "2026-09-07T00:40-04:00",
+     "auteur": "Patrice Bergeron et La Presse Canadienne"
+    }
+   ],
+   "permalien": "une-aile-quebecoise-de-la-france-insoumise-doit-cogner-69e4a3",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "une-aile-quebecoise-de-la-france-insoumise-doit-cogner-69e4a3"
+  },
   {
    "titre": "Nétanyahou aurait ordonné le retrait de certains avant-postes juifs, affirme son ministre Smotrich",
    "cahier": "international",
