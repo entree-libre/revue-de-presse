@@ -1,10 +1,488 @@
 {
  "date": "2026-09-07",
  "volets": [
+  "continu",
   "elections",
   "report"
  ],
  "articles": [
+  {
+   "titre": "Kyiv vit sous alerte aérienne presque en continu : la Russie a changé sa façon de frapper la capitale",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Kyiv (Ukraine)",
+   "medias": "BBC, t-online",
+   "url": "https://www.bbc.com/news/articles/cjdvx9pz44ro",
+   "sources": [
+    {
+     "media": "BBC",
+     "url": "https://www.bbc.com/news/articles/cjdvx9pz44ro",
+     "date": "2026-09-07T03:03-04:00",
+     "auteur": "James Landale"
+    },
+    {
+     "media": "t-online",
+     "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101414336/russland-aendert-drohnen-taktik-und-greift-ukraine-im-dauertakt-an.html",
+     "date": "2026-09-06T23:34-04:00",
+     "auteur": "Anna von Stefenelli"
+    }
+   ],
+   "resume": "Des étudiants qui suivent leurs cours dans le métro, et une tactique russe sans répit.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "kyiv-vit-sous-alerte-aerienne-presque-en-continu-la-russie-a-4324a9",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "kyiv-vit-sous-alerte-aerienne-presque-en-continu-la-russie-a-4324a9"
+  },
+  {
+   "titre": "Les Maldives servent de plaque tournante discrète aux marchandises interdites en route vers la Russie, selon une enquête du Wall Street Journal",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Maldives, Russie",
+   "medias": "Courrier international, Slate",
+   "url": "https://www.courrierinternational.com/article/enquete-les-maldives-etonnante-etape-utilisee-par-moscou-pour-contourner-les-sanctions_266742",
+   "sources": [
+    {
+     "media": "Courrier international",
+     "url": "https://www.courrierinternational.com/article/enquete-les-maldives-etonnante-etape-utilisee-par-moscou-pour-contourner-les-sanctions_266742",
+     "date": "2026-09-07T02:02-04:00"
+    },
+    {
+     "media": "Slate",
+     "url": "https://www.slate.fr/monde/maldives-hub-contourner-sanctions-russie-guerre-ukraine-aeroport-marchandises",
+     "date": "2026-09-07T01:55-04:00",
+     "auteur": "Léa Polverini"
+    }
+   ],
+   "resume": "Des pompes allemandes vendues au Kirghizistan qui atterrissent à Moscou, avec escale sous les cocotiers.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "les-maldives-servent-de-plaque-tournante-discrete-aux-marcha-61b274",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "les-maldives-servent-de-plaque-tournante-discrete-aux-marcha-61b274"
+  },
+  {
+   "titre": "Des pêcheurs équatoriens racontent l'abordage et la destruction de leur bateau par l'armée américaine, qui les présente comme des narcotrafiquants",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Équateur",
+   "medias": "TV5MONDE, France 24",
+   "url": "https://information.tv5monde.com/international/le-calvaire-des-pecheurs-equatoriens-soupconnes-de-lien-avec-le-narcotrafic-par-larmee-americaine-2836467",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/le-calvaire-des-pecheurs-equatoriens-soupconnes-de-lien-avec-le-narcotrafic-par-larmee-americaine-2836467",
+     "date": "2026-09-06T20:35-04:00",
+     "auteur": "AFP"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-le-calvaire-des-p%C3%AAcheurs-%C3%A9quatoriens-soup%C3%A7onn%C3%A9s-de-lien-avec-le-narcotrafic-par-l-arm%C3%A9e-am%C3%A9ricaine",
+     "date": "2026-09-07T02:55-04:00"
+    }
+   ],
+   "resume": "Cagoule sur la tête et bateau coulé : la version de ceux que Washington range parmi les narcotrafiquants.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "des-pecheurs-equatoriens-racontent-l-abordage-et-la-destruct-dd6c40",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "des-pecheurs-equatoriens-racontent-l-abordage-et-la-destruct-dd6c40"
+  },
+  {
+   "titre": "Incendies extrêmes et ozone : l'Organisation météorologique mondiale alerte sur une qualité de l'air qui se dégrade avec le réchauffement",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Monde (OMM)",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/info-en-continu/20260907-incendies-et-canicules-menacent-la-qualit%C3%A9-de-l-air-et-la-sant%C3%A9-onu",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-incendies-et-canicules-menacent-la-qualit%C3%A9-de-l-air-et-la-sant%C3%A9-onu",
+     "date": "2026-09-07T00:09-04:00"
+    }
+   ],
+   "resume": "Le rapport annuel qui relie fumées de forêt, canicules et santé, et pourquoi l'ozone inquiète autant.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "incendies-extremes-et-ozone-l-organisation-meteorologique-mo-bcef05",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "incendies-extremes-et-ozone-l-organisation-meteorologique-mo-bcef05"
+  },
+  {
+   "titre": "Deux fils de l'ex-président yéménite Ali Abdallah Saleh jugés à Paris pour des biens mal acquis présumés",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Paris (France), Yémen",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/france/20260907-deux-fils-pr%C3%A9sident-y%C3%A9men-jug%C3%A9s-en-france-dans-une-affaire-de-biens-mal-acquis-pr%C3%A9sum%C3%A9s",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/france/20260907-deux-fils-pr%C3%A9sident-y%C3%A9men-jug%C3%A9s-en-france-dans-une-affaire-de-biens-mal-acquis-pr%C3%A9sum%C3%A9s",
+     "date": "2026-09-07T00:16-04:00",
+     "auteur": "Laura Martel"
+    }
+   ],
+   "resume": "Des appartements de luxe à Paris, et l'argent public yéménite qui les aurait payés.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ali_Abdullah_Saleh_-_Putin_meeting_2010-06-30_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Ali Abdallah Saleh",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "deux-fils-de-l-ex-president-yemenite-ali-abdallah-saleh-juge-79b986",
+   "photo_auteur": "premier.gov.ru",
+   "photo_licence": "CC BY 4.0",
+   "image_auto": "wikipedia-fr:Ali Abdallah Saleh",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "deux-fils-de-l-ex-president-yemenite-ali-abdallah-saleh-juge-79b986"
+  },
+  {
+   "titre": "Une avalanche dans le Caucase russe tue au moins onze alpinistes, six autres restent introuvables",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Caucase (Russie)",
+   "medias": "Le Figaro",
+   "url": "https://www.lefigaro.fr/international/russie-une-avalanche-dans-le-caucase-tue-au-moins-11-alpinistes-20260907",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/russie-une-avalanche-dans-le-caucase-tue-au-moins-11-alpinistes-20260907",
+     "date": "2026-09-07T03:26-04:00"
+    }
+   ],
+   "resume": "Un groupe surpris dans la gorge de Bezengui, et le sort de plusieurs grimpeurs toujours inconnu.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "une-avalanche-dans-le-caucase-russe-tue-au-moins-onze-alpini-b3bd03",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "une-avalanche-dans-le-caucase-russe-tue-au-moins-onze-alpini-b3bd03"
+  },
+  {
+   "titre": "En France, la loi intégrale contre les violences faites aux femmes et aux enfants entame son examen en commission à l'Assemblée nationale",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "France",
+   "medias": "franceinfo, CNEWS",
+   "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/le-projet-de-loi-integrale-sur-les-violences-faites-aux-enfants-et-aux-femmes-entame-son-parcours-a-l-assemblee_8180510.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/le-projet-de-loi-integrale-sur-les-violences-faites-aux-enfants-et-aux-femmes-entame-son-parcours-a-l-assemblee_8180510.html",
+     "date": "2026-09-07T03:02-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-09-07/violences-sexistes-et-sexuelles-trois-mois-apres-le-meurtre-de-lyhanna-la-loi",
+     "date": "2026-09-07T00:01-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Un texte transpartisan né de l'émotion de l'affaire Lyhanna, et un calendrier parlementaire qui inquiète déjà les associations.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "en-france-la-loi-integrale-contre-les-violences-faites-aux-f-3bb7e2",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "en-france-la-loi-integrale-contre-les-violences-faites-aux-f-3bb7e2"
+  },
+  {
+   "titre": "Au Niger, les arrestations de militaires et de complices présumés se poursuivent après la mutinerie de la fin août",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Niger",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/afrique/20260907-niger-apr%C3%A8s-la-mutinerie-les-arrestations-de-militaires-et-de-complices-pr%C3%A9sum%C3%A9s-se-poursuivent",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/afrique/20260907-niger-apr%C3%A8s-la-mutinerie-les-arrestations-de-militaires-et-de-complices-pr%C3%A9sum%C3%A9s-se-poursuivent",
+     "date": "2026-09-06T20:26-04:00"
+    }
+   ],
+   "resume": "Des détenus dont personne ne connaît le nombre, et des autorités qui ne disent rien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "au-niger-les-arrestations-de-militaires-et-de-complices-pres-cb5988",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "au-niger-les-arrestations-de-militaires-et-de-complices-pres-cb5988"
+  },
+  {
+   "titre": "Aux États-Unis, les centres de données s'imposent comme un enjeu des élections de mi-mandat, jusque dans le camp de Donald Trump",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Le HuffPost",
+   "url": "https://www.huffingtonpost.fr/international/video/comment-les-data-centers-minent-les-midterms-de-donald-trump-jusque-dans-ses-rangs_318189.html",
+   "sources": [
+    {
+     "media": "Le HuffPost",
+     "url": "https://www.huffingtonpost.fr/international/video/comment-les-data-centers-minent-les-midterms-de-donald-trump-jusque-dans-ses-rangs_318189.html",
+     "date": "2026-09-07T00:32-04:00",
+     "auteur": "Pierre Tremblay"
+    }
+   ],
+   "resume": "Une facture publicitaire qui explose, et un président agacé par les opposants aux mastodontes de l'IA.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "aux-etats-unis-les-centres-de-donnees-s-imposent-comme-un-en-fe8a24",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "aux-etats-unis-les-centres-de-donnees-s-imposent-comme-un-en-fe8a24"
+  },
+  {
+   "titre": "À Tokyo, l'arrondissement de Shinjuku va interdire plus de la moitié de ses locations de courte durée",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Tokyo (Japon)",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/info-en-continu/20260907-tokyo-le-quartier-de-shinjuku-va-interdire-plus-de-la-moiti%C3%A9-des-locations-de-courte-dur%C3%A9e",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-tokyo-le-quartier-de-shinjuku-va-interdire-plus-de-la-moiti%C3%A9-des-locations-de-courte-dur%C3%A9e",
+     "date": "2026-09-07T03:09-04:00"
+    }
+   ],
+   "resume": "Des riverains à bout, et un modèle que Kyoto regarde de près.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "a-tokyo-l-arrondissement-de-shinjuku-va-interdire-plus-de-la-caa0de",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "a-tokyo-l-arrondissement-de-shinjuku-va-interdire-plus-de-la-caa0de"
+  },
+  {
+   "titre": "Avant le sommet de l'espace de Paris, l'absence de Friedrich Merz et des géants américains met déjà l'ambition française à l'épreuve",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "Paris (France)",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/info-en-continu/20260907-premier-sommet-de-l-espace-une-ambition-fran%C3%A7aise-d%C3%A9j%C3%A0-mise-%C3%A0-l-%C3%A9preuve",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-premier-sommet-de-l-espace-une-ambition-fran%C3%A7aise-d%C3%A9j%C3%A0-mise-%C3%A0-l-%C3%A9preuve",
+     "date": "2026-09-07T02:27-04:00"
+    }
+   ],
+   "resume": "Un rendez-vous voulu planétaire que les grands noms boudent, et une industrie européenne qui se dispute l'argent public.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Friedrich Merz",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "avant-le-sommet-de-l-espace-de-paris-l-absence-de-friedrich-91e3ac",
+   "photo_auteur": "Steffen Prößdorf",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Friedrich Merz",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "avant-le-sommet-de-l-espace-de-paris-l-absence-de-friedrich-91e3ac"
+  },
+  {
+   "titre": "Dan Kutcher, ex-maire de Summerside, se retrouve seul candidat à la chefferie du Parti libéral de l'Île-du-Prince-Édouard",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Île-du-Prince-Édouard",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/un-seul-candidat-pour-la-chefferie-du-parti-liberal-de-lile-du-prince-edouard/",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/un-seul-candidat-pour-la-chefferie-du-parti-liberal-de-lile-du-prince-edouard/",
+     "date": "2026-09-07T00:47-04:00",
+     "auteur": "La Presse Canadienne"
+    }
+   ],
+   "resume": "Une course à un seul coureur, et un maire qui a quitté son poste pour la disputer.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "dan-kutcher-ex-maire-de-summerside-se-retrouve-seul-candidat-b79db5",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "dan-kutcher-ex-maire-de-summerside-se-retrouve-seul-candidat-b79db5"
+  },
+  {
+   "titre": "Environ 6 300 logements de luxe sont vacants sur le marché montréalais, selon la firme CoStar",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/05/des-milliers-de-logements-de-luxe-vides-a-montreal",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/05/des-milliers-de-logements-de-luxe-vides-a-montreal",
+     "date": "2026-09-07T00:00-04:00"
+    }
+   ],
+   "resume": "Des appartements haut de gamme qui cherchent preneurs, et ce que ça dit du marché montréalais.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "environ-6-300-logements-de-luxe-sont-vacants-sur-le-marche-m-fd7e35",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "environ-6-300-logements-de-luxe-sont-vacants-sur-le-marche-m-fd7e35"
+  },
+  {
+   "titre": "Un fabricant de Lévis blâme Service Canada : ses employés n'ont pas reçu la paie promise par le programme Travail partagé",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Lévis (Chaudière-Appalaches)",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/09/05/des-semaines-de-salaire-impayees-une-entreprise-de-levis-denonce-les-rates-de-service-canada",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/05/des-semaines-de-salaire-impayees-une-entreprise-de-levis-denonce-les-rates-de-service-canada",
+     "date": "2026-09-07T00:00-04:00"
+    }
+   ],
+   "resume": "Un programme fédéral censé amortir les fermetures planifiées, et des employés qui attendent toujours leur chèque.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "des-semaines-de-salaire-impayees-une-entreprise-de-levis-den-cf2082",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "des-semaines-de-salaire-impayees-une-entreprise-de-levis-den-cf2082"
+  },
+  {
+   "titre": "Sit-in, intrusions, affiches dénoncées en ligne : la fronde contre l'intelligence artificielle s'étend, des États-Unis à l'espace public français",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis, France",
+   "medias": "Libération, Le Monde",
+   "url": "https://www.liberation.fr/economie/economie-numerique/sit-in-cocktail-molotov-intrusions-la-fronde-anti-ia-en-pleine-expansion-20260907_LE6ZVIR7CZE4NCQUFGGBPZA2OQ/",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/economie-numerique/sit-in-cocktail-molotov-intrusions-la-fronde-anti-ia-en-pleine-expansion-20260907_LE6ZVIR7CZE4NCQUFGGBPZA2OQ/",
+     "date": "2026-09-07T00:00-04:00",
+     "auteur": "Elise Viniacourt"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/pixels/article/2026/09/07/face-au-deferlement-des-affiches-utilisant-l-ia-dans-l-espace-public-la-resistance-en-ligne-s-organise_6767774_4408996.html",
+     "date": "2026-09-07T00:30-04:00",
+     "auteur": "Nour Mohammedi et Michaël Szadkowski"
+    }
+   ],
+   "resume": "Quand des graphistes traquent les affiches générées et que la Silicon Valley revoit sa sécurité.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aerial_view_of_Apple_Park.jpg/1280px-Aerial_view_of_Apple_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Silicon Valley",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "sit-in-intrusions-affiches-denoncees-en-ligne-la-fronde-cont-db139d",
+   "photo_auteur": "Daniel L. Lu (user:dllu)",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Silicon Valley",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "sit-in-intrusions-affiches-denoncees-en-ligne-la-fronde-cont-db139d"
+  },
+  {
+   "titre": "Comment la coccinelle fabrique son rouge : des chercheurs du CNRS décrivent un système optique où pigments et structures se combinent",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "France",
+   "medias": "CNRS Le Journal",
+   "url": "https://lejournal.cnrs.fr/articles/comment-la-coccinelle-passe-au-rouge",
+   "sources": [
+    {
+     "media": "CNRS Le Journal",
+     "url": "https://lejournal.cnrs.fr/articles/comment-la-coccinelle-passe-au-rouge",
+     "date": "2026-09-07T02:44-04:00",
+     "auteur": "Julien Bourdet"
+    }
+   ],
+   "resume": "Des élytres qui se comportent comme un instrument d'optique, et des pistes pour l'innovation.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "comment-la-coccinelle-fabrique-son-rouge-des-chercheurs-du-c-e02e0a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "comment-la-coccinelle-fabrique-son-rouge-des-chercheurs-du-c-e02e0a"
+  },
+  {
+   "titre": "Une injection semestrielle de zilebesiran stabiliserait la tension des patients résistants aux traitements, selon l'essai international Kardia-2",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Royaume-Uni",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/sante/actualites/medecine-hypertension-cette-simple-injection-tous-6-mois-pourrait-changer-donne-w2t8-137089/",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sante/actualites/medecine-hypertension-cette-simple-injection-tous-6-mois-pourrait-changer-donne-w2t8-137089/",
+     "date": "2026-09-07T02:00-04:00",
+     "auteur": "Christelle Cherrier"
+    }
+   ],
+   "resume": "Un traitement en deux rendez-vous par an au lieu d'un comprimé quotidien, si les résultats se confirment.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "une-injection-semestrielle-de-zilebesiran-stabiliserait-la-t-b73f88",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "une-injection-semestrielle-de-zilebesiran-stabiliserait-la-t-b73f88"
+  },
+  {
+   "titre": "Piratage par échange de carte SIM : la justice française condamne Free et BNP Paribas pour leurs défaillances",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "ZDNet",
+   "url": "https://www.zdnet.fr/actualites/zd-tech-vol-de-17-000-euros-par-sim-swapping-la-justice-tranche-enfin-et-sanctionne-free-avec-la-bnp-paribas-500400.htm",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/zd-tech-vol-de-17-000-euros-par-sim-swapping-la-justice-tranche-enfin-et-sanctionne-free-avec-la-bnp-paribas-500400.htm",
+     "date": "2026-09-07T05:09-04:00"
+    }
+   ],
+   "resume": "Un arrêt qui fait porter la faute à l'opérateur et à la banque plutôt qu'à la victime.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Italiens12.jpg/1280px-Italiens12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "BNP Paribas",
+   "horodate": "2026-09-07T04:00-04:00",
+   "permalien": "piratage-par-echange-de-carte-sim-la-justice-francaise-conda-58b1a3",
+   "photo_auteur": "Boubloub",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:BNP Paribas",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "piratage-par-echange-de-carte-sim-la-justice-francaise-conda-58b1a3"
+  },
   {
    "titre": "Une aile québécoise de La France insoumise doit cogner aux portes avec Québec solidaire aujourd'hui",
    "cahier": "elections",
@@ -185,23 +663,34 @@
    "_slug": "a-un-an-des-elections-athenes-promet-2-2-milliards-d-euros-d-0e8205"
   },
   {
-   "titre": "Records de chaleur pour un mois de septembre en France, six départements du Sud en vigilance orange lundi",
+   "titre": "Records de chaleur pour un mois de septembre en France, six départements du Sud maintenus en vigilance orange jusqu'à mardi matin",
    "cahier": "international",
    "rubrique": "environnement",
    "territoire": "France",
-   "medias": "France 24",
+   "medias": "France 24, franceinfo, Libération",
    "sources": [
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260906-sud-six-d%C3%A9partements-en-vigilance-orange-canicule-lundi",
      "auteur": "AFP",
      "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/environnement/meteo/la-vigilance-orange-canicule-maintenue-jusqu-a-mardi-matin-dans-six-departements_8180426.html",
+     "date": "2026-09-07T01:42-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/environnement/climat/six-departements-du-sud-est-en-vigilance-orange-canicule-jusqua-mardi-matin-20260907_ERZ23REPRZG5RAI47SDKNQ2Y3Q/",
+     "date": "2026-09-07T02:22-04:00",
+     "auteur": "AFP"
     }
    ],
-   "resume": "Même la Bretagne a battu ses marques de septembre, selon Météo-France.",
+   "resume": "Mise à jour, 3 h 30 — L'alerte orange tient jusqu'à mardi à l'aube, avant une chute nette des températures annoncée pour mercredi.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-06T15:30-04:00",
+   "horodate": "2026-09-07T04:00-04:00",
    "permalien": "records-de-chaleur-pour-un-mois-de-septembre-en-france-six-d-7fbd45",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-07.json",
@@ -495,7 +984,7 @@
    "cahier": "savoirs",
    "rubrique": "espace",
    "territoire": "Allemagne, Norvège",
-   "medias": "Le Monde, The Verge",
+   "medias": "Le Monde, The Verge, Techno-Science",
    "sources": [
     {
      "media": "Le Monde",
@@ -508,6 +997,11 @@
      "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
      "auteur": "Terrence O’Brien",
      "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Techno-Science",
+     "url": "https://www.techno-science.net/fr/actualites/fusee-privee-allemande-deuxieme-vol-29405",
+     "date": "2026-09-07T00:00-04:00"
     }
    ],
    "resume": "Après un premier essai qui avait fini en mer au bout de trente secondes.",
@@ -525,7 +1019,7 @@
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Miami (Floride)",
-   "medias": "La Presse, Europe 1, Ouest-France, Coops de l'information, The Verge, Le Figaro, France 24",
+   "medias": "La Presse, Europe 1, Ouest-France, Coops de l'information, The Verge, Le Figaro, France 24, TV5MONDE, franceinfo",
    "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
    "sources": [
     {
@@ -566,6 +1060,17 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260906-un-avion-cargo-d-amazon-sort-de-piste-%C3%A0-miami-cinq-morts-et-cinq-bless%C3%A9s",
      "date": "2026-09-06T21:05-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/ce-que-lon-sait-de-laccident-dun-avion-cargo-damazon-sorti-de-piste-miami-qui-fait-au-moins-5-morts-2836452",
+     "date": "2026-09-07T02:19-04:00",
+     "auteur": "Pascale Veysset"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/un-avion-cargo-d-amazon-sort-de-piste-et-fait-5-morts-a-miami_8180492.html",
+     "date": "2026-09-07T02:25-04:00"
     }
    ],
    "resume": "Mise à jour, 18 h 30 — Le bilan s'alourdit, et la FAA dépêche ses enquêteurs auprès d'un vieux Boeing converti au fret.",
@@ -658,7 +1163,7 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Russie, Allemagne",
-   "medias": "CNEWS, RFI",
+   "medias": "CNEWS, RFI, Le Figaro",
    "url": "https://www.cnews.fr/monde/2026-09-06/le-ministre-russe-des-affaires-etrangeres-accuse-berlin-de-vouloir-nouveau-la",
    "sources": [
     {
@@ -672,6 +1177,11 @@
      "url": "https://www.rfi.fr/fr/europe/20260906-russie-sergue%C3%AF-lavrov-accuse-l-allemagne-de-vouloir-%C3%A0-nouveau-la-guerre",
      "auteur": "Jean-Didier Revoin",
      "date": "2026-09-06T17:27-04:00"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/toutes-ces-metastases-du-nazisme-commencent-a-se-propager-la-russie-accuse-l-allemagne-de-vouloir-a-nouveau-la-guerre-20260906",
+     "date": "2026-09-06T08:06-04:00"
     }
    ],
    "resume": "Derrière l'invective, un drone découvert à Leipzig et des représentations diplomatiques qui ferment des deux côtés.",
@@ -744,7 +1254,7 @@
    "cahier": "international",
    "rubrique": "economie",
    "territoire": "Europe, États-Unis",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, Le Grand Continent",
    "url": "https://ici.radio-canada.ca/nouvelle/2281076/or-dollar-trump-europe-geopolitique",
    "sources": [
     {
@@ -752,6 +1262,12 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281076/or-dollar-trump-europe-geopolitique",
      "date": "2026-09-06T15:43-04:00",
      "auteur": "Ariane Fournier"
+    },
+    {
+     "media": "Le Grand Continent",
+     "url": "https://legrandcontinent.eu/fr/2026/09/05/les-pays-europeens-retirent-leur-or-des-etats-unis/",
+     "date": "2026-09-05T00:30-04:00",
+     "auteur": "Marin Saillofest"
     }
    ],
    "resume": "Quand la confiance envers un allié s'effrite, même les lingots déménagent.",
@@ -1132,13 +1648,24 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "Paris (France)",
-   "medias": "France 24",
+   "medias": "France 24, RFI, franceinfo",
    "url": "https://www.france24.com/fr/info-en-continu/20260906-le-proc%C3%A8s-des-meurtriers-pr%C3%A9sum%C3%A9s-de-l-ex-rugbyman-argentin-aramburu-s-ouvre-%C3%A0-paris",
    "sources": [
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260906-le-proc%C3%A8s-des-meurtriers-pr%C3%A9sum%C3%A9s-de-l-ex-rugbyman-argentin-aramburu-s-ouvre-%C3%A0-paris",
      "date": "2026-09-06T21:05-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/france/20260907-proc%C3%A8s-mort-ex-rugbyman-argentin-aramburu-deux-militants-ultradroite-jug%C3%A9s-france",
+     "date": "2026-09-07T01:19-04:00",
+     "auteur": "Jean-Baptiste Breen"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/proces-de-l-assassinat-du-joueur-de-rugby-federico-martin-aramburu-deux-militants-d-extreme-droite-risquent-la-prison-a-perpetuite_8180513.html",
+     "date": "2026-09-07T02:43-04:00"
     }
    ],
    "resume": "Quatre balles à l'aube boulevard Saint-Germain, et deux accusés qui nient avoir voulu tuer.",
@@ -1285,7 +1812,7 @@
    "cahier": "quebec",
    "rubrique": "faits-divers",
    "territoire": "Dégelis (Témiscouata)",
-   "medias": "Zone 911, Infodimanche",
+   "medias": "Zone 911, Infodimanche, Le Canada Français",
    "url": "https://zone911.com/accidents/degelis-collision-mortelle-entre-une-moto-et-une-camionnette-sur-la-route-295",
    "sources": [
     {
@@ -1298,6 +1825,12 @@
      "url": "https://www.infodimanche.com/justice-et-faits-divers/un-motocycliste-perd-la-vie-a-degelis/",
      "auteur": "Marc-Antoine Paquin",
      "date": "2026-09-06T21:58-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/un-septuagenaire-meurt-dans-une-collision-a-degelis-dans-le-bas-saint-laurent/",
+     "date": "2026-09-07T02:32-04:00",
+     "auteur": "La Presse Canadienne"
     }
    ],
    "resume": "Les premières constatations de la SQ pointent une légère courbe, et rien de plus pour l'instant.",
@@ -1517,13 +2050,25 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "États-Unis (Nouveau-Mexique)",
-   "medias": "Le Figaro",
+   "medias": "Le Figaro, Le HuffPost, Le Matin",
    "url": "https://www.lefigaro.fr/international/trump-suggere-de-rebaptiser-l-etat-du-nouveau-mexique-nouvelle-amerique-20260907",
    "sources": [
     {
      "media": "Le Figaro",
      "url": "https://www.lefigaro.fr/international/trump-suggere-de-rebaptiser-l-etat-du-nouveau-mexique-nouvelle-amerique-20260907",
      "date": "2026-09-06T23:09-04:00"
+    },
+    {
+     "media": "Le HuffPost",
+     "url": "https://www.huffingtonpost.fr/international/article/donald-trump-s-inspire-d-un-canular-en-ligne-pour-proposer-un-changement-de-nom-du-nouveau-mexique_319772.html",
+     "date": "2026-09-07T02:21-04:00",
+     "auteur": "Lola Uguen et Agence France-Presse"
+    },
+    {
+     "media": "Le Matin",
+     "url": "https://www.lematin.ch/story/etats-unis-trump-veut-renommer-l-etat-du-nouveau-mexique-nouvelle-amerique-103628904",
+     "date": "2026-09-07T00:13-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "Après un golfe, un lac et un détroit, voilà qu'un État entier y passe.",
@@ -1727,19 +2272,24 @@
    "cahier": "savoirs",
    "rubrique": "cinema",
    "territoire": "France (Saint-Paul-de-Vence)",
-   "medias": "France 24",
+   "medias": "France 24, franceinfo",
    "url": "https://www.france24.com/fr/info-en-continu/20260907-la-france-accueille-un-sommet-international-in%C3%A9dit-sur-l-avenir-du-cin%C3%A9ma",
    "sources": [
     {
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260907-la-france-accueille-un-sommet-international-in%C3%A9dit-sur-l-avenir-du-cin%C3%A9ma",
      "date": "2026-09-06T21:53-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/info-radio-france-le-president-du-cnc-annonce-la-creation-d-une-structure-mondiale-pour-soutenir-les-salles-de-cinema_8180444.html",
+     "date": "2026-09-07T01:27-04:00"
     }
    ],
-   "resume": "Un fonds d'un milliard d'euros attendu lundi, pendant que YouTube et Meta brillent par leur absence.",
+   "resume": "Mise à jour, 3 h 30 — Le CNC y annonce IRIS, une structure mondiale pour soutenir les salles indépendantes, et passe le chapeau.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-06T23:53-04:00",
+   "horodate": "2026-09-07T04:00-04:00",
    "permalien": "a-saint-paul-de-vence-la-france-et-la-coree-du-sud-reunissen-2f40b9",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-07.json",
@@ -2187,7 +2737,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Allemagne (Saxe-Anhalt)",
-   "medias": "France 24, Le Monde, Radio-Canada, RTS, La Libre.be, TV5MONDE, Coops de l'information, La Croix, Libération, Le Temps, franceinfo, Le Parisien, RTL, 20 Minutes, Le Devoir, RFI",
+   "medias": "France 24, Le Monde, Radio-Canada, RTS, La Libre.be, TV5MONDE, Coops de l'information, La Croix, Libération, Le Temps, franceinfo, Le Parisien, RTL, 20 Minutes, Le Devoir, RFI, Courrier international, RTBF, Le Grand Continent, Sud Ouest",
    "url": "https://www.lemonde.fr/international/article/2026/09/05/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-du-scrutin-local-en-saxe-anhalt_6766352_3210.html",
    "resume": "Mise à jour, 18 h 30 — Le pare-feu se fissure : le BSW de Sahra Wagenknecht n'exclut pas de gouverner avec elle.",
    "photo": "",
@@ -2300,6 +2850,30 @@
      "url": "https://www.rfi.fr/fr/europe/20260906-allemagne-la-victoire-de-l-afd-en-saxe-anhalt-fait-fr%C3%A9mir-la-classe-politique-fran%C3%A7aise",
      "date": "2026-09-06T21:05-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Courrier international",
+     "url": "https://www.courrierinternational.com/article/politique-l-extreme-droite-allemande-realise-une-percee-historique-en-saxe-anhalt_268260",
+     "date": "2026-09-07T00:13-04:00",
+     "auteur": "Noémie Taylor-Rosner"
+    },
+    {
+     "media": "RTBF",
+     "url": "https://www.rtbf.be/article/en-allemagne-le-parti-d-extreme-afd-droite-ecrase-le-scrutin-en-saxe-anhalt-mais-rate-la-majorite-absolue-et-devra-trouver-des-allies-11780992",
+     "date": "2026-09-07T02:00-04:00",
+     "auteur": "Belga"
+    },
+    {
+     "media": "Le Grand Continent",
+     "url": "https://legrandcontinent.eu/fr/2026/09/06/afd-obtient-le-meilleur-resultat-de-lextreme-droite-en-allemagne-depuis-la-seconde-guerre-mondiale-saxe-anhalt/",
+     "date": "2026-09-06T12:16-04:00",
+     "auteur": "Ramona Bloj"
+    },
+    {
+     "media": "Sud Ouest",
+     "url": "https://www.sudouest.fr/international/victoire-de-l-extreme-droite-allemande-en-saxe-anhalt-en-france-la-gauche-et-le-centre-expriment-leurs-inquietudes-silence-du-rn-30516650.php",
+     "date": "2026-09-07T03:13-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "horodate": "2026-09-06T18:50-04:00",
@@ -2314,7 +2888,7 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "Népal",
-   "medias": "La Presse, franceinfo, Le Parisien, ONU Info, Le Devoir",
+   "medias": "La Presse, franceinfo, Le Parisien, ONU Info, Le Devoir, TV5MONDE",
    "url": "https://www.lapresse.ca/international/asie-et-oceanie/2026-09-05/crue-dans-l-himalaya/deux-autres-survivants-retrouves-les-recherches-continuent.php",
    "resume": "Mise à jour, 20 h 30 — Trois miraculés sortis des tunnels, pendant que l'ONU décrit le désarroi de dizaines de milliers de sinistrés.",
    "photo": "",
@@ -2351,6 +2925,12 @@
      "media": "Le Parisien",
      "url": "https://www.leparisien.fr/international/les-sauvetages-ont-redonne-espoir-a-toute-la-nation-dans-lhimalaya-2-300-secouristes-et-8-800-engins-a-la-recherche-de-survivants-07-09-2026-ZNS2UFTFC5CPHMX7NPMO7B3UHA.php",
      "date": "2026-09-06T21:05-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/crue-au-nepal-les-recherches-dans-les-tunnels-dune-complexite-sans-precedent-selon-un-expert-australien-2836464",
+     "date": "2026-09-07T00:44-04:00",
+     "auteur": "AFP"
     }
    ],
    "horodate": "2026-09-06T21:05-04:00",
@@ -2361,13 +2941,13 @@
    "_slug": "apres-une-semaine-et-demie-de-recherches-un-homme-originaire-1d1154"
   },
   {
-   "titre": "L'éruption de l'Anak Krakatoa bloque 170 000 voyageurs : huit aéroports indonésiens fermés, dont les deux de Jakarta",
+   "titre": "L'éruption de l'Anak Krakatoa perturbe plus de 270 000 voyageurs : les aéroports de Jakarta restent fermés jusqu'à lundi soir",
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "Indonésie",
-   "medias": "Euronews, France 24, Libération, Le Devoir",
+   "medias": "Euronews, France 24, Libération, Le Devoir, TV5MONDE, Le Parisien",
    "url": "https://fr.euronews.com/2026/09/06/indonesie-vols-suspendus-dans-six-aeroports-apres-une-eruption-volcanique",
-   "resume": "Mise à jour, 23 h 30 — Les sismographes détectent encore du magma en mouvement, et Jakarta ferme ses écoles lundi.",
+   "resume": "Mise à jour, 3 h 30 — De nouvelles éruptions sont redoutées, et la fermeture des aéroports vient d'être prolongée.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -2393,9 +2973,20 @@
      "url": "https://www.ledevoir.com/monde/asie/1006946/huit-aeroports-fermes-apres-eruption-volcanique-indonesie",
      "date": "2026-09-06T22:47-04:00",
      "auteur": "Marchio Gorbiano (Agence France-Presse)"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/eruption-volcanique-en-indonesie-des-dizaines-de-milliers-de-voyageurs-bloques-2836461",
+     "date": "2026-09-07T01:32-04:00",
+     "auteur": "AFP"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/la-situation-est-difficile-en-indonesie-des-dizaines-de-milliers-de-voyageurs-bloques-apres-leruption-du-volcan-anak-krakatoa-07-09-2026-MFMMWVAAOJASVM2675VEBQZKRU.php",
+     "date": "2026-09-07T03:26-04:00"
     }
    ],
-   "horodate": "2026-09-06T23:53-04:00",
+   "horodate": "2026-09-07T04:00-04:00",
    "permalien": "une-eruption-volcanique-interrompt-le-trafic-aerien-dans-plu-582310",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-07.json",
@@ -2407,7 +2998,7 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "Serbie",
-   "medias": "France 24, TV5MONDE, CNEWS",
+   "medias": "France 24, TV5MONDE, CNEWS, Libération",
    "url": "https://www.france24.com/fr/info-en-continu/20260905-serbie-ministres-et-militaires-%C3%A0-une-c%C3%A9r%C3%A9monie-d-hommage-au-criminel-de-guerre-ratko-mladic",
    "resume": "Mise à jour, 21 h 45 — Sa dépouille sera exposée cinq heures en église avant un cortège vers le cimetière voisin.",
    "photo": "",
@@ -2433,6 +3024,12 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260907-le-criminel-de-guerre-ratko-mladic-doit-%C3%AAtre-inhum%C3%A9-%C3%A0-belgrade",
      "date": "2026-09-06T21:58-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/le-criminel-de-guerre-ratko-mladic-inhume-ce-lundi-a-belgrade-des-milliers-de-personnes-attendues-20260907_MXFZ3FVYWJFZLM2M4YA3JG6L6M/",
+     "date": "2026-09-07T03:21-04:00",
+     "auteur": "AFP"
     }
    ],
    "horodate": "2026-09-06T21:58-04:00",
@@ -2447,7 +3044,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Yémen",
-   "medias": "RFI, TV5MONDE, France 24, Libération, Le Devoir",
+   "medias": "RFI, TV5MONDE, France 24, Libération, Le Devoir, franceinfo",
    "url": "https://www.rfi.fr/fr/moyen-orient/20260905-y%C3%A9men-pr%C3%A8s-de-200-morts-dans-une-nouvelle-offensive-des-rebelles-houthis-vers-la-ville-de-ta%C3%ABz",
    "resume": "Mise à jour, 15 h 30 — Les rebelles avancent vers un détroit devenu vital depuis qu'Ormuz est aux mains de l'Iran.",
    "photo": "",
@@ -2480,6 +3077,11 @@
      "url": "https://www.ledevoir.com/monde/moyen-orient/1006928/plus-300-combattants-sont-morts-offensive-houthie-yemen",
      "date": "2026-09-06T21:05-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-plus-de-300-combattants-morts-dans-les-affrontements-entre-rebelles-et-forces-gouvernementales-de-nombreuses-familles-deplacees_8180486.html",
+     "date": "2026-09-07T03:15-04:00"
     }
    ],
    "horodate": "2026-09-06T15:54-04:00",
@@ -2530,13 +3132,13 @@
    "_slug": "le-bureau-anticorruption-ukrainien-accuse-un-haut-responsabl-44623b"
   },
   {
-   "titre": "Après le tir d'un drone du Hezbollah, Israël somme les résidents d'une zone de Deir Zahrani, au Sud-Liban, de partir avant une frappe",
+   "titre": "Onze morts, dont deux nourrissons, dans des frappes israéliennes nocturnes sur un village du Sud-Liban, la pire escalade depuis la trêve de juin",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Liban",
-   "medias": "Anadolu Ajansı, Euronews, France 24",
+   "medias": "Anadolu Ajansı, Euronews, France 24, franceinfo, RFI",
    "url": "https://www.aa.com.tr/fr/monde/l-arm%C3%A9e-isra%C3%A9lienne-reprend-ses-frappes-au-liban-malgr%C3%A9-l-accord-n%C3%A9goci%C3%A9-par-les-%C3%A9tats-unis/4048354",
-   "resume": "Mise à jour, 23 h 30 — Trêve ou pas, un drone du Hezbollah suffit à relancer les avis d'évacuation israéliens.",
+   "resume": "Mise à jour, 3 h 30 — Des frappes au-delà de la zone tampon, et un cessez-le-feu qui n'en a plus que le nom.",
    "photo": "",
    "legende": "",
    "sources": [
@@ -2555,9 +3157,19 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/moyen-orient/20260907-en-direct-israel-ordonne-evacuations-sud-liban-avant-frappes-etats-unis-iran-hezbollah",
      "date": "2026-09-06T21:29-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/onze-personnes-sont-mortes-au-liban-dans-des-frappes-israeliennes-nocturnes-sur-un-village-du-sud_8180504.html",
+     "date": "2026-09-07T02:54-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20260907-multiplication-attaques-israel-sud-liban-un-ordre-d-%C3%A9vacuation-des-populations-lanc%C3%A9",
+     "date": "2026-09-07T00:57-04:00"
     }
    ],
-   "horodate": "2026-09-06T23:53-04:00",
+   "horodate": "2026-09-07T04:00-04:00",
    "permalien": "malgre-la-treve-negociee-sous-l-egide-de-washington-des-avio-198410",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-07.json",
@@ -2623,7 +3235,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Russie, Ukraine",
-   "medias": "BBC, The Associated Press, Le Parisien, Radio-Canada, RFI, Libération, Al Jazeera, The Kyiv Independent, franceinfo, La Libre.be, IntelliNews, Ukrinform, Ukrinform, France 24, RFE/RL",
+   "medias": "BBC, The Associated Press, Le Parisien, Radio-Canada, RFI, Libération, Al Jazeera, The Kyiv Independent, franceinfo, La Libre.be, IntelliNews, Ukrinform, Ukrinform, France 24, RFE/RL, The Guardian, BFMTV, The Independent",
    "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo",
    "resume": "Mise à jour, 15 h 30 — Kyiv réclame un paquet d'hiver et une rencontre entre présidents avant toute concession territoriale.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Moscow_Kremlin_Towers_of_south_wall.jpg/1280px-Moscow_Kremlin_Towers_of_south_wall.jpg",
@@ -2727,6 +3339,22 @@
      "url": "https://www.rferl.org/a/ukraine-witkoff-kushner-russia-peace-negotiations/33848067.html",
      "date": "2026-09-06T21:05-04:00",
      "auteur": "Alex Raufoglu"
+    },
+    {
+     "media": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/sep/07/ukraine-war-briefing-us-envoys-leave-kyiv-no-breakthrough",
+     "date": "2026-09-06T22:14-04:00"
+    },
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-pourparlers-a-kiev-la-presidence-ukrainienne-salue-des-propositions-americaines-plus-efficaces_VN-202609070066.html",
+     "date": "2026-09-07T00:21-04:00"
+    },
+    {
+     "media": "The Independent",
+     "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-peace-talks-news-b3045696.html",
+     "date": "2026-09-07T00:56-04:00",
+     "auteur": "Arpan Rai"
     }
    ],
    "horodate": "2026-09-06T15:58-04:00",
@@ -2740,7 +3368,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Iran, États-Unis",
-   "medias": "Boursorama, franceinfo, RFI, France 24, Libération (AFP), Le Figaro, Le Parisien, Europe 1",
+   "medias": "Boursorama, franceinfo, RFI, France 24, Libération (AFP), Le Figaro, Le Parisien, Europe 1, Ouest-France",
    "url": "https://www.boursorama.com/actualite-economique/actualites/l-iran-replique-apres-les-frappes-americaines-sur-trois-de-ses-petroliers-30a4b546bf66c6fb894f4c4ee16c3bdd",
    "resume": "Mise à jour, 18 h 30 — Le tracé partirait de la ligne du blocus américain, et tout navire qui le franchit serait sanctionné.",
    "photo": "",
@@ -2790,6 +3418,11 @@
      "url": "https://www.europe1.fr/international/guerre-au-moyen-orient-liran-menace-dintensifier-sa-riposte-aux-attaques-americaines-1059533",
      "auteur": "AFP",
      "date": "2026-09-06T15:31-04:00"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-les-etats-unis-frappent-trois-petroliers-iraniens-teheran-dit-avoir-mene-des-represailles-84b9aa10-a951-11f1-a618-771a80631f2f",
+     "date": "2026-09-05T16:22-04:00"
     }
    ],
    "horodate": "2026-09-06T18:50-04:00",
