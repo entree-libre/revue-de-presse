@@ -4,6 +4,7 @@
   "continu",
   "economie-opinions",
   "elections",
+  "hors-rss",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -1717,7 +1718,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec (Joliette)",
-   "medias": "98,5FM",
+   "medias": "98, 5FM, Québecor",
    "url": "https://www.985fm.ca/audio/800176/une-candidate-de-la-caq-et-son-flirt-avec-l-esoterisme",
    "sources": [
     {
@@ -1725,6 +1726,18 @@
      "url": "https://www.985fm.ca/audio/800176/une-candidate-de-la-caq-et-son-flirt-avec-l-esoterisme",
      "auteur": "Patrick Lagacé",
      "date": "2026-09-07T09:22-04:00"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldemontreal.com/2026/09/07/clodine-desrochers-a-t-elle-consulte-son-pendule-avant-de-faire-le-saut-en-politique",
+     "auteur": "Annabelle Blais",
+     "date": "2026-09-07T10:27-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/clodine-desrochers-a-t-elle-consulte-son-pendule-avant-de-faire-le-saut-en-politique",
+     "auteur": "Annabelle Blais",
+     "date": "2026-09-07T10:27-04:00"
     }
    ],
    "resume": "Selon 98,5FM, Claudine Desrochers entretient une relation personnelle avec les pendules, qui teinterait certains de ses choix.",
@@ -1779,6 +1792,385 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-07.json",
    "_slug": "le-reseau-des-carrefours-jeunesse-emploi-invite-les-candidat-417207"
+  },
+  {
+   "titre": "Une ex-députée solidaire et un chercheur de l'Institut Cardus s'opposent sur les compressions dans l'État",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.tvanouvelles.ca/2026/09/06/couper-couper-couper-le-degraissage-de-letat-divise",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.tvanouvelles.ca/2026/09/06/couper-couper-couper-le-degraissage-de-letat-divise",
+     "auteur": "Agence QMI",
+     "date": "2026-09-07T10:27-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/09/06/couper-couper-couper-le-degraissage-de-letat-divise",
+     "auteur": "Agence QMI",
+     "date": "2026-09-07T10:27-04:00"
+    }
+   ],
+   "resume": "Le débat oppose une vision axée sur les régions à un appel à réduire la bureaucratie.",
+   "horodate": "2026-09-07T14:27+00:00",
+   "permalien": "une-ex-deputee-solidaire-et-un-chercheur-de-l-institut-802e9f",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "une-ex-deputee-solidaire-et-un-chercheur-de-l-institut-802e9f"
+  },
+  {
+   "titre": "Le PQ propose un billet de spectacle gratuit aux moins de 25 ans qui en achètent un premier",
+   "cahier": "elections",
+   "rubrique": "culture",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/09/06/pspp-promet-aux-jeunes-un-2-pour-1-sur-les-billets-de-spectacles-quebecois",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/06/pspp-promet-aux-jeunes-un-2-pour-1-sur-les-billets-de-spectacles-quebecois",
+     "auteur": "Geneviève Lajoie",
+     "date": "2026-09-07T10:27-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldequebec.com/2026/09/06/pspp-promet-aux-jeunes-un-2-pour-1-sur-les-billets-de-spectacles-quebecois",
+     "auteur": "Geneviève Lajoie",
+     "date": "2026-09-07T10:27-04:00"
+    }
+   ],
+   "resume": "Le chef péquiste veut aussi forcer les plateformes américaines à diffuser davantage de contenu francophone.",
+   "horodate": "2026-09-07T14:27+00:00",
+   "permalien": "le-pq-propose-un-billet-de-spectacle-gratuit-aux-moins-37901a",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "le-pq-propose-un-billet-de-spectacle-gratuit-aux-moins-37901a"
+  },
+  {
+   "titre": "Un chroniqueur de 98,5FM croit que le pont proposé par Duhaime urbaniserait l'île d'Orléans et Beaumont",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Île d'Orléans, Beaumont (Capitale-Nationale, Chaudière-Appalaches)",
+   "medias": "98,5FM",
+   "url": "https://www.985fm.ca/audio/800187/3e-lien-d-eric-duhaime-ca-va-transformer-le-milieu-agricole-en-banlieue",
+   "sources": [
+    {
+     "media": "98,5FM",
+     "url": "https://www.985fm.ca/audio/800187/3e-lien-d-eric-duhaime-ca-va-transformer-le-milieu-agricole-en-banlieue",
+     "auteur": "Luc Ferrandez",
+     "date": "2026-09-07T10:27-04:00"
+    }
+   ],
+   "resume": "Le chroniqueur juge que ce tracé favoriserait un développement résidentiel tout le long du futur pont.",
+   "horodate": "2026-09-07T14:27+00:00",
+   "permalien": "un-chroniqueur-de-98-5fm-croit-que-le-pont-propose-par-3a7ceb",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "un-chroniqueur-de-98-5fm-croit-que-le-pont-propose-par-3a7ceb"
+  },
+  {
+   "titre": "Québec solidaire promet un salaire minimum à 20 $ l'heure dès mai 2027, en tournée au Bas-Saint-Laurent",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Rimouski, Métis-sur-Mer (Bas-Saint-Laurent)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281249/election-quebec-solidaire-rimouski-salaire-minimum",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281249/election-quebec-solidaire-rimouski-salaire-minimum",
+     "auteur": "Alix Villeneuve",
+     "date": "2026-09-07T10:27-04:00"
+    }
+   ],
+   "resume": "La tournée solidaire pousse plus loin dans l'Est-du-Québec qu'aucune autre formation depuis le début de la campagne.",
+   "horodate": "2026-09-07T14:27+00:00",
+   "permalien": "quebec-solidaire-promet-un-salaire-minimum-a-20-l-heure-8961c1",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "quebec-solidaire-promet-un-salaire-minimum-a-20-l-heure-8961c1"
+  },
+  {
+   "titre": "Le SPVM enquête sur une agression à l'arme blanche survenue vers 1 h 30 dans Ville-Marie",
+   "cahier": "montreal",
+   "rubrique": "faits-divers",
+   "territoire": "Ville-Marie (Montréal)",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/34-year-old-man-injured-in-stabbing-near-bell-centre/",
+   "resume": "Aucune arrestation, et les policiers cherchent encore les caméras qui auraient vu la scène.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/34-year-old-man-injured-in-stabbing-near-bell-centre/",
+     "date": "2026-09-07T10:14-04:00",
+     "auteur": "Robin Della Corte"
+    }
+   ],
+   "permalien": "le-spvm-enquete-sur-une-agression-a-l-arme-blanche-survenue-5d7ecd",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "le-spvm-enquete-sur-une-agression-a-l-arme-blanche-survenue-5d7ecd"
+  },
+  {
+   "titre": "Une entente de principe de six ans lie Québec et les sages-femmes jusqu'en 2030",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/quebec-announces-tentative-agreement-in-negotiations-with-midwives/",
+   "resume": "Les quelque 300 membres du regroupement n'ont pas encore voté, et le contenu reste sous scellé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/quebec-announces-tentative-agreement-in-negotiations-with-midwives/",
+     "date": "2026-09-07T10:14-04:00",
+     "auteur": "La Presse Canadienne"
+    }
+   ],
+   "permalien": "une-entente-de-principe-de-six-ans-lie-quebec-et-les-sages-f-b8ec1c",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "une-entente-de-principe-de-six-ans-lie-quebec-et-les-sages-f-b8ec1c"
+  },
+  {
+   "titre": "La Cour d'appel ordonne à Montréal de rembourser plus de 1,5 million aux promoteurs du quartier Bois-Franc",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Saint-Laurent (Montréal)",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/city_news/appeals-court-orders-montreal-to-refund-saint-laurent-project-developers/article_3397a9b2-03cb-4d44-b86c-cfce4753a349.html",
+   "resume": "Un engagement pris en 2013 sur le logement social se retourne aujourd'hui contre la Ville.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/city_news/appeals-court-orders-montreal-to-refund-saint-laurent-project-developers/article_3397a9b2-03cb-4d44-b86c-cfce4753a349.html",
+     "date": "2026-09-07T10:14-04:00",
+     "auteur": "Joel Goldenberg"
+    }
+   ],
+   "permalien": "la-cour-d-appel-ordonne-a-montreal-de-rembourser-plus-de-1-5-b0173a",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "la-cour-d-appel-ordonne-a-montreal-de-rembourser-plus-de-1-5-b0173a"
+  },
+  {
+   "titre": "À Côte-des-Neiges, le projet Namur-Hippodrome avance sans garantie écrite sur le logement abordable",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Côte-des-Neiges–Notre-Dame-de-Grâce (Montréal)",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/city_news/housing-groups-have-doubts-about-the-namur-hippodrome-sector-project/article_76530e7a-54e9-4576-aa57-325a2d10824c.html",
+   "resume": "Une conseillère du quartier a refusé son appui, et les organismes communautaires surveillent la suite.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/city_news/housing-groups-have-doubts-about-the-namur-hippodrome-sector-project/article_76530e7a-54e9-4576-aa57-325a2d10824c.html",
+     "date": "2026-09-07T10:14-04:00",
+     "auteur": "Dan Laxer"
+    }
+   ],
+   "permalien": "a-cote-des-neiges-le-projet-namur-hippodrome-avance-sans-gar-615c1f",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "a-cote-des-neiges-le-projet-namur-hippodrome-avance-sans-gar-615c1f"
+  },
+  {
+   "titre": "À Kahnawake, les Peacekeepers arrachent un jardin de chanvre planté par des défenseurs du territoire",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Kahnawake (Montérégie)",
+   "medias": "The Eastern Door",
+   "url": "https://easterndoor.com/article/peacekeepers-seize-unity-garden",
+   "resume": "Le laboratoire fédéral a tranché ; les jardiniers, eux, disaient mesurer la contamination d'un parc industriel voisin.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "The Eastern Door",
+     "url": "https://easterndoor.com/article/peacekeepers-seize-unity-garden",
+     "auteur": "Marcus Bankuti",
+     "date": "2026-09-07T10:14-04:00"
+    }
+   ],
+   "permalien": "a-kahnawake-les-peacekeepers-arrachent-un-jardin-de-chanvre-39f291",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "a-kahnawake-les-peacekeepers-arrachent-un-jardin-de-chanvre-39f291"
+  },
+  {
+   "titre": "Beaumont bloque le stationnement arrière d'un casse-croûte de la route 132 au nom du zonage",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Beaumont (Chaudière-Appalaches)",
+   "medias": "La Voix du Sud",
+   "url": "https://www.lavoixdusud.com/actualites/beaumont-un-casse-croute-menace/",
+   "resume": "Quatre casse-croûtes dans la municipalité, et un seul dont les clients ne savent plus où se garer.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "La Voix du Sud",
+     "url": "https://www.lavoixdusud.com/actualites/beaumont-un-casse-croute-menace/",
+     "auteur": "Éric Gourde",
+     "date": "2026-09-07T10:14-04:00"
+    }
+   ],
+   "permalien": "beaumont-bloque-le-stationnement-arriere-d-un-casse-croute-d-a3512a",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "beaumont-bloque-le-stationnement-arriere-d-un-casse-croute-d-a3512a"
+  },
+  {
+   "titre": "En deux ans, l'enveloppe d'investissement du centre de services scolaire de la Beauce-Etchemin a fondu de 30,2 à 11,9 millions",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Beauce-Etchemins (Chaudière-Appalaches)",
+   "medias": "La Voix du Sud",
+   "url": "https://www.lavoixdusud.com/actualites/cssbe-plusieurs-nouveaux-visages-sur-le-conseil/",
+   "resume": "Ce que la coupe laisse derrière se voit surtout dans l'entretien des bâtiments.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "La Voix du Sud",
+     "url": "https://www.lavoixdusud.com/actualites/cssbe-plusieurs-nouveaux-visages-sur-le-conseil/",
+     "auteur": "Mathieu Fournier",
+     "date": "2026-09-07T10:14-04:00"
+    }
+   ],
+   "permalien": "en-deux-ans-l-enveloppe-d-investissement-du-centre-de-servic-dcf395",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "en-deux-ans-l-enveloppe-d-investissement-du-centre-de-servic-dcf395"
+  },
+  {
+   "titre": "Le cégep Beauce-Appalaches n'a jamais compté autant d'étudiants qu'à cette rentrée",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Saint-Georges, Sainte-Marie (Chaudière-Appalaches), Lac-Mégantic (Estrie)",
+   "medias": "Beauce Média",
+   "url": "https://www.beaucemedia.ca/actualites/nouveau-sommet-dinscriptions-au-cegep-beauce-appalaches/",
+   "resume": "Trois campus, mais une seule ville absorbe presque toute la hausse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "Beauce Média",
+     "url": "https://www.beaucemedia.ca/actualites/nouveau-sommet-dinscriptions-au-cegep-beauce-appalaches/",
+     "auteur": "Frédéric Desjardins",
+     "date": "2026-09-07T10:14-04:00"
+    }
+   ],
+   "permalien": "le-cegep-beauce-appalaches-n-a-jamais-compte-autant-d-etudia-090e83",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "le-cegep-beauce-appalaches-n-a-jamais-compte-autant-d-etudia-090e83"
+  },
+  {
+   "titre": "Saint-Côme-Linière prévoit 200 nouveaux logements d'ici la fin de 2027",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Saint-Côme-Linière (Chaudière-Appalaches)",
+   "medias": "L'Éclaireur Progrès",
+   "url": "https://www.leclaireurprogres.ca/actualites/saint-come-liniere-se-developpe-a-vitesse-grand-v/",
+   "resume": "Après des années sans chantier résidentiel, la municipalité mise entièrement sur des promoteurs locaux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "L'Éclaireur Progrès",
+     "url": "https://www.leclaireurprogres.ca/actualites/saint-come-liniere-se-developpe-a-vitesse-grand-v/",
+     "auteur": "Mathieu Fournier",
+     "date": "2026-09-07T10:14-04:00"
+    }
+   ],
+   "permalien": "saint-come-liniere-prevoit-200-nouveaux-logements-d-ici-la-f-68b92b",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "saint-come-liniere-prevoit-200-nouveaux-logements-d-ici-la-f-68b92b"
+  },
+  {
+   "titre": "Terrebonne a dispersé son festival POP ton été dans trois parcs pour sa dixième édition",
+   "cahier": "quebec",
+   "rubrique": "culture",
+   "territoire": "Terrebonne (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/culture/festival-terrebonne-evenement-spectacle-musique/",
+   "resume": "Éclater un festival entre trois quartiers change plus de choses que le décompte des entrées.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/culture/festival-terrebonne-evenement-spectacle-musique/",
+     "auteur": "Alec Brideau",
+     "date": "2026-09-07T10:14-04:00"
+    }
+   ],
+   "permalien": "terrebonne-a-disperse-son-festival-pop-ton-ete-dans-trois-pa-5b02fd",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "terrebonne-a-disperse-son-festival-pop-ton-ete-dans-trois-pa-5b02fd"
+  },
+  {
+   "titre": "Saint-Roch-Ouest confiera son inspection municipale aux fonctionnaires de Saint-Roch-de-l'Achigan",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Saint-Roch-de-l'Achigan, Saint-Roch-Ouest (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/mrc-montcalm-un-partage-de-services-entre-les-deux-saint-roch/",
+   "resume": "Permis, urbanisme, règlements : ce qu'une petite municipalité n'assume plus toute seule.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:14-04:00",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/mrc-montcalm-un-partage-de-services-entre-les-deux-saint-roch/",
+     "auteur": "Alec Brideau",
+     "date": "2026-09-07T10:14-04:00"
+    }
+   ],
+   "permalien": "saint-roch-ouest-confiera-son-inspection-municipale-aux-fonc-de9d08",
+   "image_auto": "aucune",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-07.json",
+   "_slug": "saint-roch-ouest-confiera-son-inspection-municipale-aux-fonc-de9d08"
   },
   {
    "titre": "Le représentant du Vatican pour les Affaires étrangères a passé quatre jours à Moscou fin août",
