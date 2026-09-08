@@ -189,7 +189,7 @@
    "_slug": "proces-a-paris-de-14-passeurs-presumes-apres-la-mort-de-b1b3f6"
   },
   {
-   "titre": "Le trafic aérien reprend en Indonésie après l'éruption du volcan Anak Krakatau",
+   "titre": "Après l'éruption du volcan Anak Krakatau, l'Indonésie recherche un bateau avec cinq journalistes à bord",
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Indonésie",
@@ -218,12 +218,17 @@
      "media": "TVA Nouvelles",
      "url": "https://www.tvanouvelles.ca/2026/09/07/images--eruption-volcanique-en-indonesie-des-dizaines-de-milliers-de-voyageurs-bloques",
      "date": "2026-09-07T08:15-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/08/indonesie-un-bateau-porte-disparu-avec-des-journalistes-couvrant-une-eruption-volcanique",
+     "date": "2026-09-08T14:53-04:00"
     }
    ],
-   "resume": "Près de 3000 vols annulés ou reportés et plus de 300 000 passagers bloqués à Jakarta depuis dimanche.",
+   "resume": "Mise à jour, 14 h 53 — Cinq journalistes comptent parmi les huit personnes portées disparues avec leur embarcation.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T01:27-04:00",
+   "horodate": "2026-09-08T14:53-04:00",
    "permalien": "le-trafic-aerien-reprend-en-indonesie-apres-l-eruption-622a7f",
    "image_auto": "aucune",
    "entree": "2026-09-08T03:36-04:00",
@@ -1049,7 +1054,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Émirats arabes unis",
-   "medias": "Le Devoir",
+   "medias": "Le Devoir, Euronews",
    "url": "https://www.ledevoir.com/monde/moyen-orient/1007282/emirats-arabes-unis-auraient-averti-netanyahou-attaque-7-octobre-2023",
    "sources": [
     {
@@ -1057,12 +1062,17 @@
      "url": "https://www.ledevoir.com/monde/moyen-orient/1007282/emirats-arabes-unis-auraient-averti-netanyahou-attaque-7-octobre-2023",
      "auteur": "Associated Press",
      "date": "2026-09-08T12:04-04:00"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/09/08/les-emirats-auraient-averti-benyamin-netanyahou-de-lattaque-du-7-octobre-selon-le-journal-",
+     "date": "2026-09-08T13:58-04:00"
     }
    ],
-   "resume": "Nétanyahou dément catégoriquement avoir reçu le moindre avertissement de la part d'Abou Dhabi.",
+   "resume": "Mise à jour, 13 h 58 — Le bureau de Netanyahou nuance sa position : les services de renseignement des deux pays ont pu échanger.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T12:04-04:00",
+   "horodate": "2026-09-08T13:58-04:00",
    "image_auto": "aucune",
    "entree": "2026-09-08T13:08-04:00",
    "permalien": "abou-dhabi-savait-avant-le-7-octobre-2023-que-le-hamas-prepa-143bb2",
@@ -1336,7 +1346,7 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Ukraine, Russie, États-Unis",
-   "medias": "France 24, TV5Monde, BBC",
+   "medias": "France 24, TV5Monde, BBC, PBS, Al Jazeera, Radio-Canada",
    "url": "https://www.france24.com/fr/info-en-continu/20260908-poutine-et-trump-ont-parl%C3%A9-avec-une-extr%C3%AAme-franchise-de-l-ukraine-selon-le-kremlin",
    "sources": [
     {
@@ -1354,12 +1364,28 @@
      "url": "https://www.bbc.com/news/articles/cn8m1k7p3v7o",
      "date": "2026-09-08T13:10-04:00",
      "auteur": "Claire Keenan"
+    },
+    {
+     "media": "PBS",
+     "url": "https://www.pbs.org/newshour/world/putin-tells-trump-that-russia-doesnt-have-aggressive-intentions-toward-europe-kremlin-says",
+     "auteur": "The Associated Press",
+     "date": "2026-09-08T14:14-04:00"
+    },
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts",
+     "date": "2026-09-08T14:36-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281667/poutine-trump-extreme-franchise-ukraine",
+     "date": "2026-09-08T15:13-04:00"
     }
    ],
-   "resume": "Selon Kyiv, des négociateurs russes, ukrainiens et américains pourraient se rencontrer dès ce mois-ci.",
+   "resume": "Mise à jour, 15 h 13 — Volodymyr Zelensky espère rencontrer Donald Trump d'ici deux semaines, pendant que Moscou dément toute visée sur l'Europe.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T13:27-04:00",
+   "horodate": "2026-09-08T15:13-04:00",
    "entree": "2026-09-08T15:06-04:00",
    "permalien": "poutine-et-trump-evoquent-l-ukraine-dans-un-appel-d-une-extr-49d11a",
    "image_auto": "aucune",
@@ -1372,7 +1398,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Syrie",
-   "medias": "France 24, TV5Monde",
+   "medias": "France 24, TV5Monde, Libération",
    "url": "https://www.france24.com/fr/info-en-continu/20260908-les-op%C3%A9rations-d-isra%C3%ABl-en-syrie-pourraient-constituer-des-crimes-de-guerre-enqu%C3%AAteurs-de-l-onu",
    "sources": [
     {
@@ -1384,12 +1410,17 @@
      "media": "TV5Monde",
      "url": "https://information.tv5monde.com/international/les-operations-disrael-en-syrie-pourraient-constituer-des-crimes-de-guerre-enqueteurs-de-lonu-2836673",
      "date": "2026-09-08T13:40-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/les-operations-disrael-en-syrie-pourraient-constituer-des-crimes-de-guerre-selon-une-commission-denquete-de-lonu-20260908_WCG253MPUVB6TEF25AWCUEOKFA/",
+     "date": "2026-09-08T14:50-04:00"
     }
    ],
-   "resume": "Une commission d'enquête des Nations unies dénonce des frappes répétées depuis la chute d'Assad.",
+   "resume": "Mise à jour, 14 h 50 — La commission doit présenter un rapport complet sur ces frappes au Conseil des droits de l'homme au printemps.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T13:40-04:00",
+   "horodate": "2026-09-08T14:50-04:00",
    "entree": "2026-09-08T15:06-04:00",
    "permalien": "des-enqueteurs-de-l-onu-evoquent-de-possibles-crimes-de-guer-c5bc8f",
    "image_auto": "aucune",
@@ -1525,6 +1556,296 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-08.json",
    "_slug": "andrew-garfield-incarnera-sam-altman-dans-artificial-un-film-e61c0a"
+  },
+  {
+   "titre": "Le numérique dépasse l'intimidation comme premier danger pour les enfants au pays",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "La Presse, Journal de Québec",
+   "url": "https://www.lapresse.ca/affaires/techno/2026-09-08/les-dangers-en-ligne-constituent-desormais-la-principale-menace-pour-les-enfants.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/techno/2026-09-08/les-dangers-en-ligne-constituent-desormais-la-principale-menace-pour-les-enfants.php",
+     "auteur": "Anja Karadeglija",
+     "date": "2026-09-08T14:59-04:00"
+    },
+    {
+     "media": "Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/08/les-prejudices-en-ligne-principale-menace-pour-les-enfants-au-canada",
+     "date": "2026-09-08T15:21-04:00"
+    }
+   ],
+   "resume": "Le Centre canadien de protection de l'enfance traite plus de 100 000 signalements d'abus en ligne chaque mois.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:21-04:00",
+   "volet": "continu",
+   "permalien": "le-numerique-depasse-l-intimidation-comme-premier-danger-pou-45cb6c",
+   "entree": "2026-09-08T15:21-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-numerique-depasse-l-intimidation-comme-premier-danger-pou-45cb6c"
+  },
+  {
+   "titre": "Guy Turcotte comparaîtra le 22 septembre devant la Commission des libérations conditionnelles",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Radio-Canada, Journal de Québec, La Presse",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281692/guy-turcotte-demande-sortie-prison-escorte",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281692/guy-turcotte-demande-sortie-prison-escorte",
+     "date": "2026-09-08T14:58-04:00"
+    },
+    {
+     "media": "Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/08/lex-cardiologue-guy-turcotte-espere-obtenir-des-sorties-de-prison-avec-escorte",
+     "date": "2026-09-08T15:15-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-08/il-veut-sortir-du-penitencier/guy-turcotte-devant-les-commissaires-mais-la-decision-va-rester-secrete.php",
+     "auteur": "Louis-Samuel Perron",
+     "date": "2026-09-08T14:24-04:00"
+    }
+   ],
+   "resume": "La décision sur ces sorties avec escorte restera secrète, dix-sept ans après le meurtre de ses deux enfants.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:15-04:00",
+   "volet": "continu",
+   "permalien": "guy-turcotte-comparaitra-le-22-septembre-devant-la-commissio-bc841c",
+   "entree": "2026-09-08T15:15-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "guy-turcotte-comparaitra-le-22-septembre-devant-la-commissio-bc841c"
+  },
+  {
+   "titre": "Une panne du contrôle aérien paralyse les aéroports de Londres et perturbe des centaines de vols",
+   "cahier": "international",
+   "rubrique": "transport",
+   "territoire": "Royaume-Uni",
+   "medias": "CNEWS",
+   "url": "https://www.cnews.fr/monde/2026-09-08/royaume-uni-heathrow-gatwick-les-aeroports-britanniques-fortement-perturbes-par",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-08/royaume-uni-heathrow-gatwick-les-aeroports-britanniques-fortement-perturbes-par",
+     "auteur": "Khalil Rajehi",
+     "date": "2026-09-08T14:51-04:00"
+    }
+   ],
+   "resume": "Liverpool, Birmingham et Édimbourg subissent aussi les contrecoups d'une défaillance du système de navigation aérienne britannique.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Heathrow_Airport_Terminal_5.jpg/1280px-Heathrow_Airport_Terminal_5.jpg",
+   "legende": "L'aérogare 5 de l'aéroport de Heathrow, à Londres.",
+   "horodate": "2026-09-08T14:51-04:00",
+   "volet": "continu",
+   "photo_auteur": "CedarGlen86",
+   "photo_licence": "CC0",
+   "permalien": "une-panne-du-controle-aerien-paralyse-les-aeroports-de-londr-acf185",
+   "entree": "2026-09-08T14:51-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "une-panne-du-controle-aerien-paralyse-les-aeroports-de-londr-acf185"
+  },
+  {
+   "titre": "Otto Jelinek, ancien champion du monde de patinage artistique et ministre fédéral, meurt à 86 ans",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/otto-jelinek-death-former-world-figure-skating-champion-olympian-canada-9.7335643",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/otto-jelinek-death-former-world-figure-skating-champion-olympian-canada-9.7335643",
+     "auteur": "Dylan Robertson",
+     "date": "2026-09-08T14:56-04:00"
+    }
+   ],
+   "resume": "Avant de devenir ministre progressiste-conservateur, il avait fait ses classes dans les coulisses politiques de l'ère Diefenbaker.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Otto_Jelinek_2014.jpg",
+   "legende": "Otto Jelinek en 2014.",
+   "horodate": "2026-09-08T14:56-04:00",
+   "volet": "continu",
+   "photo_auteur": "OISV",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "otto-jelinek-ancien-champion-du-monde-de-patinage-artistique-c503d8",
+   "entree": "2026-09-08T14:56-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "otto-jelinek-ancien-champion-du-monde-de-patinage-artistique-c503d8"
+  },
+  {
+   "titre": "Montréal et ses pompiers concluent une entente de principe après plus de deux ans sans contrat",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Montréal",
+   "medias": "La Presse, Journal Métro",
+   "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-08/renouvellement-de-la-convention-collective/montreal-et-l-association-des-pompiers-s-entendent.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-08/renouvellement-de-la-convention-collective/montreal-et-l-association-des-pompiers-s-entendent.php",
+     "auteur": "Lia Lévesque",
+     "date": "2026-09-08T14:39-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/montreal/3226733/entente-de-principe-conclue-entre-la-ville-de-montreal-et-les-pompiers-de-montre/",
+     "date": "2026-09-08T15:08-04:00"
+    }
+   ],
+   "resume": "Le contenu de l'entente reste secret : le syndicat veut le réserver d'abord à ses membres.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Montreal_Fire_Department_Ladder_Truck.jpg/1280px-Montreal_Fire_Department_Ladder_Truck.jpg",
+   "legende": "Un camion-échelle du Service de sécurité incendie de Montréal.",
+   "horodate": "2026-09-08T15:08-04:00",
+   "volet": "continu",
+   "photo_auteur": "Hillelfrei",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "montreal-et-ses-pompiers-concluent-une-entente-de-principe-a-4696a1",
+   "entree": "2026-09-08T15:08-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "montreal-et-ses-pompiers-concluent-une-entente-de-principe-a-4696a1"
+  },
+  {
+   "titre": "Le pdg d'Enbridge, Greg Ebel, annonce son départ à la retraite d'ici la fin de l'année",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/secteurs/changement-de-direction-chez-enbridge-le-pdg-greg-ebel-prendra-sa-retraite-a-la-fin-de-lannee/",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/changement-de-direction-chez-enbridge-le-pdg-greg-ebel-prendra-sa-retraite-a-la-fin-de-lannee/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-08T14:36-04:00"
+    }
+   ],
+   "resume": "Michele Harradence, qui dirige la distribution du gaz chez Enbridge, prendra la relève à la présidence.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Enbridge_Tower.JPG",
+   "legende": "Le siège social d'Enbridge, à Calgary.",
+   "horodate": "2026-09-08T14:36-04:00",
+   "volet": "continu",
+   "photo_auteur": "Kyle1278",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "le-pdg-d-enbridge-greg-ebel-annonce-son-depart-a-la-retraite-fbf9d0",
+   "entree": "2026-09-08T14:36-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-pdg-d-enbridge-greg-ebel-annonce-son-depart-a-la-retraite-fbf9d0"
+  },
+  {
+   "titre": "Le premier secrétaire noir de la Smithsonian, Lonnie Bunch, quitte son poste sous la pression de Trump",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis",
+   "medias": "Courrier international",
+   "url": "https://www.courrierinternational.com/article/musees-l-historien-noir-lonnie-bunch-quitte-la-tete-de-la-smithsonian-institution-attaquee-par-trump_269019",
+   "sources": [
+    {
+     "media": "Courrier international",
+     "url": "https://www.courrierinternational.com/article/musees-l-historien-noir-lonnie-bunch-quitte-la-tete-de-la-smithsonian-institution-attaquee-par-trump_269019",
+     "date": "2026-09-08T14:39-04:00"
+    }
+   ],
+   "resume": "Cette page se tourne alors que Washington multiplie les pressions sur les institutions culturelles de la capitale.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Smithsonian_Institution_Building_%28%22The_Castle%22%29%2C_Washington%2C_D.C._in_2012.JPG/1280px-Smithsonian_Institution_Building_%28%22The_Castle%22%29%2C_Washington%2C_D.C._in_2012.JPG",
+   "legende": "Le Smithsonian Institution Building, à Washington.",
+   "horodate": "2026-09-08T14:39-04:00",
+   "volet": "continu",
+   "photo_auteur": "Another Believer",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "le-premier-secretaire-noir-de-la-smithsonian-lonnie-bunch-qu-1bbd3d",
+   "entree": "2026-09-08T14:39-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-premier-secretaire-noir-de-la-smithsonian-lonnie-bunch-qu-1bbd3d"
+  },
+  {
+   "titre": "La guerre commerciale fragilise Delastek, sous-traitant aérospatial de Bombardier à Shawinigan",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Shawinigan (Mauricie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281690/bombardier-guerre-commerciale-delastek-shawinigan",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281690/bombardier-guerre-commerciale-delastek-shawinigan",
+     "date": "2026-09-08T15:04-04:00"
+    }
+   ],
+   "resume": "Le syndicat Unifor, qui représente aussi 7000 employés ailleurs dans l'aéronautique, dit ignorer à quoi s'attendre avec Washington.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:04-04:00",
+   "volet": "continu",
+   "permalien": "la-guerre-commerciale-fragilise-delastek-sous-traitant-aeros-40e057",
+   "entree": "2026-09-08T15:04-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "la-guerre-commerciale-fragilise-delastek-sous-traitant-aeros-40e057"
+  },
+  {
+   "titre": "Un complice présumé est arrêté dans le meurtre du barbier Jordan Gagné à Salaberry-de-Valleyfield",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Salaberry-de-Valleyfield (Montérégie)",
+   "medias": "Le Saint-François",
+   "url": "https://journalsaint-francois.ca/meurtre-de-jordan-gagne-un-presume-complice-arrete/",
+   "sources": [
+    {
+     "media": "Le Saint-François",
+     "url": "https://journalsaint-francois.ca/meurtre-de-jordan-gagne-un-presume-complice-arrete/",
+     "auteur": "Eric Tremblay",
+     "date": "2026-09-08T15:08-04:00"
+    }
+   ],
+   "resume": "Félix Lepage, 18 ans, doit retourner au palais de justice le 23 septembre pour cette accusation de complicité.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:08-04:00",
+   "volet": "continu",
+   "permalien": "un-complice-presume-est-arrete-dans-le-meurtre-du-barbier-jo-fc1a93",
+   "entree": "2026-09-08T15:08-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "un-complice-presume-est-arrete-dans-le-meurtre-du-barbier-jo-fc1a93"
+  },
+  {
+   "titre": "Une équipe de recherche double l'estimation du nombre mondial d'espèces d'insectes",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "The Conversation",
+   "url": "https://theconversation.com/une-nouvelle-etude-estime-a-environ-20-millions-le-nombre-despeces-dinsectes-sur-terre-ce-qui-double-celles-menacees-dextinction-289433",
+   "sources": [
+    {
+     "media": "The Conversation",
+     "url": "https://theconversation.com/une-nouvelle-etude-estime-a-environ-20-millions-le-nombre-despeces-dinsectes-sur-terre-ce-qui-double-celles-menacees-dextinction-289433",
+     "auteur": "Dirk Steinke",
+     "date": "2026-09-08T15:20-04:00"
+    }
+   ],
+   "resume": "Cette révision à la hausse fait aussi doubler, du coup, le nombre d'espèces menacées d'extinction.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/S%C3%BCdliche_Mosaikjungfer_-_Aeshna_affinis.jpg/1280px-S%C3%BCdliche_Mosaikjungfer_-_Aeshna_affinis.jpg",
+   "legende": "Une libellule du genre Aeshna, comme celles étudiées par les chercheurs.",
+   "horodate": "2026-09-08T15:20-04:00",
+   "volet": "continu",
+   "photo_auteur": "Sven Damerow",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "une-equipe-de-recherche-double-l-estimation-du-nombre-mondia-0d5f65",
+   "entree": "2026-09-08T15:20-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "une-equipe-de-recherche-double-l-estimation-du-nombre-mondia-0d5f65"
   },
   {
    "titre": "Deux chroniqueurs débattent de l'usage de la dette américaine détenue par le Canada comme arme commerciale",
@@ -3392,13 +3713,13 @@
    "_slug": "malgre-la-guerre-71-des-ukrainiens-se-disent-heureux-selon-u-26f391"
   },
   {
-   "titre": "Israël poursuit ses frappes dans le sud du Liban, des civils tués malgré le cessez-le-feu",
+   "titre": "Israël menace d'envahir le sud du Liban, où ses frappes se poursuivent malgré le cessez-le-feu",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Liban",
-   "medias": "Le Devoir, La Presse",
+   "medias": "Le Devoir, La Presse, TV5Monde",
    "url": "https://www.ledevoir.com/monde/moyen-orient/1006988/israel-mene-nouvelles-frappes-meurtrieres-sud-liban",
-   "resume": "Le ministère israélien accuse le Hezbollah de violations répétées du cessez-le-feu fragile.",
+   "resume": "Mise à jour, 14 h 49 — Israël intensifie son offensive contre le Hezbollah et brandit désormais la menace d'une invasion terrestre.",
    "sources": [
     {
      "media": "Le Devoir",
@@ -3411,9 +3732,14 @@
      "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-07/nouvelles-frappes-israeliennes-meurtrieres-au-liban.php",
      "date": "2026-09-07T09:58-04:00",
      "auteur": "Mahmoud Zayyat"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/video/liban-israel-menace-dune-invasion-2836687",
+     "date": "2026-09-08T14:49-04:00"
     }
    ],
-   "horodate": "2026-09-07T09:58-04:00",
+   "horodate": "2026-09-08T14:49-04:00",
    "photo": "",
    "legende": "",
    "permalien": "israel-poursuit-ses-frappes-dans-le-sud-du-liban-des-civils-cf206a",
@@ -3525,13 +3851,13 @@
    "_slug": "ratko-mladic-condamne-pour-le-genocide-de-srebrenica-inhume-e76831"
   },
   {
-   "titre": "Le premier ministre serbe demande au président de dissoudre le Parlement, des législatives anticipées en vue",
+   "titre": "La Serbie ira aux urnes le 25 octobre, après la dissolution de son Parlement",
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Serbie",
    "medias": "Le Monde, Libération",
    "url": "https://www.lemonde.fr/international/article/2026/09/07/serbie-le-premier-ministre-reclame-au-president-la-dissolution-de-l-assemblee-nationale_6767970_3210.html",
-   "resume": "Le mouvement étudiant qui a tenu la rue pendant près de deux ans obtient enfin ce qu'il réclamait.",
+   "resume": "Mise à jour, 15 h 20 — Le président Vučić confirme la date du scrutin et dissoudra l'Assemblée nationale mercredi.",
    "sources": [
     {
      "media": "Le Monde",
@@ -3544,9 +3870,14 @@
      "url": "https://www.liberation.fr/international/europe/sous-la-pression-de-la-rue-le-premier-ministre-annonce-la-dissolution-de-lassemblee-en-serbie-20260907_HXABLFYQ7BHYDBGLK2A5GZ5IOU/",
      "date": "2026-09-08T05:28-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/serbie-des-legislatives-anticipees-auront-lieu-le-25-octobre-annonce-le-president-qui-dissoudra-l-assemblee-mercredi_6768516_3210.html",
+     "date": "2026-09-08T15:20-04:00"
     }
    ],
-   "horodate": "2026-09-08T04:51-04:00",
+   "horodate": "2026-09-08T15:20-04:00",
    "photo": "",
    "legende": "",
    "permalien": "le-premier-ministre-serbe-demande-au-president-de-dissoudre-60430a",
@@ -6178,12 +6509,17 @@
      "url": "https://globalnews.ca/news/12050675/donald-trump-tariffs-canada-retaliation/",
      "date": "2026-09-08T10:15-04:00",
      "auteur": "Ariel Rabinovitch"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281641/entreprises-beauce-quebec-consequences-contre-tarifs",
+     "date": "2026-09-08T14:13-04:00"
     }
    ],
-   "resume": "Mise à jour, 11 h 40 — Dans une adresse à la nation, Mark Carney défend la nécessité de la riposte tarifaire, même s'il reconnaît que la suite ne sera pas facile.",
+   "resume": "Mise à jour, 14 h 13 — Des chefs d'entreprise à Beauce et ailleurs au Québec redoutent déjà des pertes liées à la riposte.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T10:15-04:00",
+   "horodate": "2026-09-08T14:13-04:00",
    "permalien": "les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a",
    "image_auto": "aucune",
    "entree": "2026-09-08T11:40-04:00",
