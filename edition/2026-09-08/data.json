@@ -1,10 +1,296 @@
 {
  "date": "2026-09-08",
  "volets": [
+  "continu",
   "elections",
   "report"
  ],
  "articles": [
+  {
+   "titre": "Une série d'attaques houthies fait 73 blessés dans le sud-ouest de l'Arabie saoudite",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Arabie saoudite",
+   "medias": "Radio-Canada, France 24, Le Monde",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281463/attaques-houthis-blesses-arabie-saoudite",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281463/attaques-houthis-blesses-arabie-saoudite",
+     "date": "2026-09-08T01:21-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-des-attaques-des-houthis-font-73-bless%C3%A9s-en-arabie-saoudite",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T01:43-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/arabie-saoudite-les-attaques-menees-par-les-houthistes-ont-fait-73-blesses-et-provoque-l-interruption-de-certains-sites-energetiques_6768122_3210.html",
+     "date": "2026-09-08T02:36-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "La coalition menée par Ryad promet une riposte contre les rebelles yéménites soutenus par l'Iran.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T03:36-04:00",
+   "permalien": "une-serie-d-attaques-houthies-fait-73-blesses-dans-le-s-c493a6",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "une-serie-d-attaques-houthies-fait-73-blesses-dans-le-s-c493a6"
+  },
+  {
+   "titre": "Grève à la tour Eiffel : le personnel dénonce l'éviction de salariées pendant une visite",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "France",
+   "medias": "France 24, CNEWS, franceinfo",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-la-tour-eiffel-doit-rouvrir-apr%C3%A8s-une-gr%C3%A8ve-contre-la-discrimination-des-employ%C3%A9es",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-la-tour-eiffel-doit-rouvrir-apr%C3%A8s-une-gr%C3%A8ve-contre-la-discrimination-des-employ%C3%A9es",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T00:31-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-09-08/la-visite-ete-organisee-en-coordination-avec-les-equipes-de-la-tour-eiffel-apres",
+     "auteur": "CNEWS",
+     "date": "2026-09-08T01:17-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/l-eviction-du-personnel-feminin-de-la-tour-eiffel-lors-d-un-evenement-hindou-est-un-evenement-totalement-choquant-et-inacceptable-assure-ariel-weil-president-de-la-societe-d-exploitation_8182616.html",
+     "date": "2026-09-08T01:49-04:00"
+    }
+   ],
+   "resume": "Le personnel accuse une consigne d'avoir écarté les femmes durant le passage d'une délégation hindoue conservatrice.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T03:36-04:00",
+   "permalien": "la-tour-eiffel-doit-rouvrir-apres-une-greve-denoncant-l-af048c",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "la-tour-eiffel-doit-rouvrir-apres-une-greve-denoncant-l-af048c"
+  },
+  {
+   "titre": "Les exportations chinoises bondissent de 25 % en août, portées par la demande de semi-conducteurs",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Chine",
+   "medias": "BFM, Le Figaro",
+   "url": "https://www.bfmtv.com/economie/international/profitant-d-une-demande-redoublee-pour-les-semi-conducteurs-les-exportations-de-la-chine-progresse-de-25-en-aout-et-meme-de-34-vers-les-etats-unis_AD-202609080084.html",
+   "sources": [
+    {
+     "media": "BFM",
+     "url": "https://www.bfmtv.com/economie/international/profitant-d-une-demande-redoublee-pour-les-semi-conducteurs-les-exportations-de-la-chine-progresse-de-25-en-aout-et-meme-de-34-vers-les-etats-unis_AD-202609080084.html",
+     "date": "2026-09-08T00:26-04:00",
+     "auteur": "Business P.L. et Agence France-Presse"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/flash-eco/les-exportations-chinoises-vers-les-etats-unis-ont-bondi-de-34-en-un-an-20260908",
+     "date": "2026-09-08T00:48-04:00"
+    }
+   ],
+   "resume": "La course mondiale à l'intelligence artificielle tire le commerce extérieur, en forte hausse vers les États-Unis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T03:36-04:00",
+   "permalien": "les-exportations-chinoises-bondissent-de-25-en-aout-por-4f6ee8",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "les-exportations-chinoises-bondissent-de-25-en-aout-por-4f6ee8"
+  },
+  {
+   "titre": "Procès à Paris de 14 passeurs présumés après la mort de 31 migrants dans la Manche en 2021",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "France",
+   "medias": "CNEWS, Libération, franceinfo",
+   "url": "https://www.cnews.fr/france/2026-09-08/immigration-clandestine-14-passeurs-presumes-juges-ce-mardi-apres-la-mort-de-31",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-09-08/immigration-clandestine-14-passeurs-presumes-juges-ce-mardi-apres-la-mort-de-31",
+     "auteur": "CNEWS avec AFP",
+     "date": "2026-09-08T00:34-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/societe/immigration/apres-le-naufrage-de-31-migrants-dans-la-manche-en-2021-le-proces-de-14-passeurs-souvre-a-paris-20260908_EGBVZUPRUNE6LC5YW2BPUMEN3I/",
+     "auteur": "Romain Boulho",
+     "date": "2026-09-08T01:00-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/migrants/apres-la-mort-de-31-migrants-dans-un-naufrage-en-2021-le-proces-de-14-passeurs-s-ouvre-lundi-a-paris_8181731.html",
+     "date": "2026-09-08T01:35-04:00"
+    }
+   ],
+   "resume": "Le tribunal correctionnel juge leur rôle dans le plus grave naufrage connu de traversées clandestines vers l'Angleterre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T03:36-04:00",
+   "permalien": "proces-a-paris-de-14-passeurs-presumes-apres-la-mort-de-b1b3f6",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "proces-a-paris-de-14-passeurs-presumes-apres-la-mort-de-b1b3f6"
+  },
+  {
+   "titre": "Le trafic aérien reprend en Indonésie après l'éruption du volcan Anak Krakatau",
+   "cahier": "international",
+   "rubrique": "transport",
+   "territoire": "Indonésie",
+   "medias": "TV5 Monde Info, France 24",
+   "url": "https://information.tv5monde.com/international/indonesie-reprise-progressive-du-trafic-aerien-apres-une-eruption-volcanique-2836593",
+   "sources": [
+    {
+     "media": "TV5 Monde Info",
+     "url": "https://information.tv5monde.com/international/indonesie-reprise-progressive-du-trafic-aerien-apres-une-eruption-volcanique-2836593",
+     "auteur": "TV5MONDE Info",
+     "date": "2026-09-08T00:47-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-indon%C3%A9sie-reprise-progressive-du-trafic-a%C3%A9rien-apr%C3%A8s-une-%C3%A9ruption-volcanique",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T01:27-04:00"
+    }
+   ],
+   "resume": "Près de 3000 vols annulés ou reportés et plus de 300 000 passagers bloqués à Jakarta depuis dimanche.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T03:36-04:00",
+   "permalien": "le-trafic-aerien-reprend-en-indonesie-apres-l-eruption-622a7f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-trafic-aerien-reprend-en-indonesie-apres-l-eruption-622a7f"
+  },
+  {
+   "titre": "Le Canada, le Mexique et des territoires français apparaissent sur une carte publiée par Donald Trump",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Le JDD, CNEWS",
+   "url": "https://www.lejdd.fr/International/donald-trump-diffuse-une-carte-des-etats-unis-englobant-les-antilles-francaises-le-mexique-et-le-canada-182874",
+   "sources": [
+    {
+     "media": "Le JDD",
+     "url": "https://www.lejdd.fr/International/donald-trump-diffuse-une-carte-des-etats-unis-englobant-les-antilles-francaises-le-mexique-et-le-canada-182874",
+     "date": "2026-09-08T02:14-04:00",
+     "auteur": "Marianne Lecach"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-08/donald-trump-publie-une-carte-des-etats-unis-englobant-notamment-plusieurs",
+     "auteur": "CNEWS",
+     "date": "2026-09-08T02:18-04:00"
+    }
+   ],
+   "resume": "Publiée sans commentaire sur Truth Social, l'image inclut aussi la Martinique, la Guadeloupe et Saint-Pierre-et-Miquelon.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T03:36-04:00",
+   "permalien": "donald-trump-diffuse-une-carte-des-etats-unis-englobant-2731f0",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "donald-trump-diffuse-une-carte-des-etats-unis-englobant-2731f0"
+  },
+  {
+   "titre": "L'alimentation électrique externe de la centrale nucléaire de Zaporijjia rétablie après un cessez-le-feu local",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Ukrinform, Interfax-Ukraine",
+   "url": "https://www.ukrinform.net/rubric-economy/4161836-ukraine-restores-external-power-supply-to-zaporizhzhia-npp.html",
+   "sources": [
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-economy/4161836-ukraine-restores-external-power-supply-to-zaporizhzhia-npp.html",
+     "date": "2026-09-07T23:40-04:00"
+    },
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1200281.html",
+     "date": "2026-09-08T02:30-04:00"
+    }
+   ],
+   "resume": "Les ingénieurs ukrainiens ont réparé la ligne endommagée, coupée depuis le 20 août, grâce à une trêve ponctuelle.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T03:36-04:00",
+   "permalien": "l-alimentation-electrique-externe-de-la-centrale-nuclea-bb5d81",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "l-alimentation-electrique-externe-de-la-centrale-nuclea-bb5d81"
+  },
+  {
+   "titre": "La start-up française Mistral lève 3 milliards d'euros, valorisée plus de 21 milliards",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "TV5 Monde Info, France 24",
+   "url": "https://information.tv5monde.com/international/ia-mistral-leve-3-milliards-deuros-pour-garder-de-lelan-2836592",
+   "sources": [
+    {
+     "media": "TV5 Monde Info",
+     "url": "https://information.tv5monde.com/international/ia-mistral-leve-3-milliards-deuros-pour-garder-de-lelan-2836592",
+     "auteur": "TV5MONDE Info, Daxia Rojas",
+     "date": "2026-09-08T01:05-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-ia-mistral-l%C3%A8ve-3-milliards-d-euros-pour-garder-de-l-%C3%A9lan",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T01:11-04:00"
+    }
+   ],
+   "resume": "Samsung figure parmi les nouveaux investisseurs, dans une course mondiale à l'IA de plus en plus coûteuse.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T03:36-04:00",
+   "permalien": "la-start-up-francaise-mistral-leve-3-milliards-d-euros-415ca9",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "la-start-up-francaise-mistral-leve-3-milliards-d-euros-415ca9"
+  },
+  {
+   "titre": "Une méthode inédite vise à mieux repérer les zones à risque de séismes majeurs",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Geo.fr",
+   "url": "https://www.geo.fr/sciences/des-scientifiques-mettent-au-point-une-methode-pour-reperer-les-zones-les-plus-a-risque-de-seismes-233538",
+   "sources": [
+    {
+     "media": "Geo.fr",
+     "url": "https://www.geo.fr/sciences/des-scientifiques-mettent-au-point-une-methode-pour-reperer-les-zones-les-plus-a-risque-de-seismes-233538",
+     "date": "2026-09-08T00:12-04:00",
+     "auteur": "Jeanne Martin"
+    }
+   ],
+   "resume": "Des chercheurs américains mesurent les contraintes accumulées sur les failles, sans pouvoir prédire la date d'un séisme.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T03:36-04:00",
+   "permalien": "une-methode-inedite-vise-a-mieux-reperer-les-zones-a-ri-b7eef6",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "une-methode-inedite-vise-a-mieux-reperer-les-zones-a-ri-b7eef6"
+  },
   {
    "titre": "En Outaouais, les urgences de Hull deviennent un enjeu électoral",
    "cahier": "elections",
@@ -1266,12 +1552,12 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Kyiv (Ukraine)",
-   "medias": "Radio-Canada, France 24, Ukrinform",
+   "medias": "Radio-Canada, France 24, Ukrinform, Le Parisien",
    "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
-   "resume": "Les missiles reprennent alors que Kyiv dit vouloir remettre les pourparlers sur les rails.",
+   "resume": "Les missiles reprennent alors que Kyiv dit vouloir remettre les pourparlers sur les rails.\n\nMise à jour, 3 h 30 — dans un entretien à Axios, Volodymyr Zelensky précise miser sur une désescalade dès cet hiver, jugeant que Vladimir Poutine a intérêt à ménager Donald Trump avant les élections de mi-mandat américaines de novembre.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-07T22:28-04:00",
+   "horodate": "2026-09-08T03:36-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -1288,6 +1574,11 @@
      "media": "Ukrinform",
      "url": "https://www.ukrinform.net/rubric-polytics/4161812-ukraine-wants-to-use-september-and-october-to-resume-negotiations-zelensky.html",
      "date": "2026-09-07T20:15-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/ukraine/une-desescalade-cet-hiver-les-espoirs-de-volodymyr-zelensky-au-sujet-de-linvasion-russe-en-ukraine-08-09-2026-RHR7MT53Z5EZFB655AM7ZUW3XQ.php",
+     "date": "2026-09-07T23:43-04:00"
     }
    ],
    "permalien": "la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344",
