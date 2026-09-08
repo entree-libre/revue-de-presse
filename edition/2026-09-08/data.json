@@ -4,6 +4,7 @@
   "continu",
   "elections",
   "monde",
+  "quebec-canada",
   "report"
  ],
  "articles": [
@@ -543,6 +544,7 @@
    "legende": "",
    "horodate": "2026-09-08T05:30-04:00",
    "permalien": "critique-pour-d-anciens-propos-le-candidat-pequiste-francois-763fc1",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-08.json",
    "_slug": "critique-pour-d-anciens-propos-le-candidat-pequiste-francois-763fc1"
@@ -604,6 +606,7 @@
    "photo": "",
    "legende": "",
    "permalien": "londres-promet-100-millions-de-livres-de-defense-antiaerienn-2a40fb",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "londres-promet-100-millions-de-livres-de-defense-antiaerienn-2a40fb"
@@ -634,6 +637,7 @@
    "photo": "",
    "legende": "",
    "permalien": "une-enquete-accuse-un-groupe-chinois-d-etat-d-avoir-fourni-d-170c0d",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "une-enquete-accuse-un-groupe-chinois-d-etat-d-avoir-fourni-d-170c0d"
@@ -662,6 +666,7 @@
    "photo": "",
    "legende": "",
    "permalien": "l-ue-et-kyiv-alignent-leur-aide-macrofinanciere-sur-le-progr-c0405f",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "l-ue-et-kyiv-alignent-leur-aide-macrofinanciere-sur-le-progr-c0405f"
@@ -686,6 +691,7 @@
    "photo": "",
    "legende": "",
    "permalien": "des-audits-inedits-revelent-des-surcouts-d-un-milliard-de-do-2c2d9a",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "des-audits-inedits-revelent-des-surcouts-d-un-milliard-de-do-2c2d9a"
@@ -773,6 +779,7 @@
    "photo": "",
    "legende": "",
    "permalien": "une-fondatrice-de-centre-de-soins-palliatifs-pour-enfants-pl-8a59b1",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "une-fondatrice-de-centre-de-soins-palliatifs-pour-enfants-pl-8a59b1"
@@ -797,6 +804,7 @@
    "photo": "",
    "legende": "",
    "permalien": "une-ambulance-ukrainienne-criblee-de-balles-exposee-a-lisbon-e20a56",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "une-ambulance-ukrainienne-criblee-de-balles-exposee-a-lisbon-e20a56"
@@ -820,6 +828,7 @@
    "photo": "",
    "legende": "",
    "permalien": "malgre-la-guerre-71-des-ukrainiens-se-disent-heureux-selon-u-26f391",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "malgre-la-guerre-71-des-ukrainiens-se-disent-heureux-selon-u-26f391"
@@ -850,6 +859,7 @@
    "photo": "",
    "legende": "",
    "permalien": "israel-poursuit-ses-frappes-dans-le-sud-du-liban-des-civils-cf206a",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "israel-poursuit-ses-frappes-dans-le-sud-du-liban-des-civils-cf206a"
@@ -905,6 +915,7 @@
    "photo": "",
    "legende": "",
    "permalien": "moscou-ferme-le-consulat-allemand-de-saint-petersbourg-nouve-9de2b6",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "moscou-ferme-le-consulat-allemand-de-saint-petersbourg-nouve-9de2b6"
@@ -977,6 +988,7 @@
    "photo": "",
    "legende": "",
    "permalien": "le-premier-ministre-serbe-demande-au-president-de-dissoudre-60430a",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "le-premier-ministre-serbe-demande-au-president-de-dissoudre-60430a"
@@ -1170,6 +1182,7 @@
    "photo": "",
    "legende": "",
    "permalien": "l-ouragan-lowell-menace-deux-iles-hawaiennes-de-tornades-l-a-728673",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "l-ouragan-lowell-menace-deux-iles-hawaiennes-de-tornades-l-a-728673"
@@ -1261,6 +1274,7 @@
    "photo": "",
    "legende": "",
    "permalien": "la-riposte-tarifaire-canadienne-contre-les-etats-unis-entre-08ad25",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "la-riposte-tarifaire-canadienne-contre-les-etats-unis-entre-08ad25"
@@ -1295,6 +1309,7 @@
    "photo": "",
    "legende": "",
    "permalien": "des-centaines-de-burundais-quittent-precipitamment-le-kenya-325a0f",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "des-centaines-de-burundais-quittent-precipitamment-le-kenya-325a0f"
@@ -1323,6 +1338,7 @@
    "photo": "",
    "legende": "",
    "permalien": "le-groupe-dangote-prepare-la-plus-importante-entree-en-bours-5bdbee",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "le-groupe-dangote-prepare-la-plus-importante-entree-en-bours-5bdbee"
@@ -1390,6 +1406,7 @@
    "photo": "",
    "legende": "",
    "permalien": "le-patron-d-arianegroup-assure-qu-ariane-6-pourrait-etre-ada-8269ca",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "le-patron-d-arianegroup-assure-qu-ariane-6-pourrait-etre-ada-8269ca"
@@ -1445,6 +1462,7 @@
    "photo": "",
    "legende": "",
    "permalien": "au-soudan-une-mission-d-enquete-de-l-onu-documente-des-frapp-561447",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "au-soudan-une-mission-d-enquete-de-l-onu-documente-des-frapp-561447"
@@ -1485,6 +1503,7 @@
    "photo": "",
    "legende": "",
    "permalien": "l-onu-adopte-a-164-voix-une-resolution-africaine-pour-des-ca-158255",
+   "image_auto": "aucune",
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "l-onu-adopte-a-164-voix-une-resolution-africaine-pour-des-ca-158255"
@@ -1514,6 +1533,424 @@
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-08.json",
    "_slug": "la-cour-penale-internationale-entame-les-audiences-sur-les-r-46225b"
+  },
+  {
+   "titre": "Stéphane Boyer révèle un méningiome, mais entend rester à la mairie de Laval",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Laval",
+   "medias": "La Presse, Journal de Montréal, Le Devoir",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-09-07/le-maire-de-laval-est-atteint-d-une-tumeur-au-cerveau.php",
+   "resume": "Il promet de rester en poste, reste à savoir ce que la suite des examens lui réserve.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-09-07/le-maire-de-laval-est-atteint-d-une-tumeur-au-cerveau.php",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-07T11:20-04:00"
+    },
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/le-maire-de-laval-revele-etre-atteint-dune-tumeur-au-cerveau",
+     "auteur": "Agence QMI",
+     "date": "2026-09-07T06:55-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/regions/1006982/maire-laval-stephane-boyer-annonce-etre",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-07T00:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/H%C3%B4tel_de_ville_de_Laval.jpg",
+   "legende": "L'hôtel de ville de Laval.",
+   "permalien": "stephane-boyer-revele-un-meningiome-mais-entend-rester-a-la-19f615",
+   "photo_auteur": "Laurent Bélanger",
+   "photo_licence": "CC BY-SA 4.0",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "stephane-boyer-revele-un-meningiome-mais-entend-rester-a-la-19f615"
+  },
+  {
+   "titre": "Un trentenaire attaqué à l'arme blanche en pleine nuit près du boulevard René-Lévesque",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Ville-Marie (Montréal)",
+   "medias": "La Presse, Journal de Montréal",
+   "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-07/montreal/un-homme-a-ete-poignarde-dans-l-arrondissement-de-ville-marie.php",
+   "resume": "Chiens policiers et caméras de surveillance doivent maintenant dire ce qui s'est passé à cette heure tardive.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-07/montreal/un-homme-a-ete-poignarde-dans-l-arrondissement-de-ville-marie.php",
+     "auteur": "Chloé Bourquin",
+     "date": "2026-09-07T09:38-04:00"
+    },
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/agression-armee-un-homme-de-34-ans-poignarde-au-centre-ville-de-montreal",
+     "auteur": "Agence QMI",
+     "date": "2026-09-07T05:55-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "un-trentenaire-attaque-a-l-arme-blanche-en-pleine-nuit-pres-4f8946",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "un-trentenaire-attaque-a-l-arme-blanche-en-pleine-nuit-pres-4f8946"
+  },
+  {
+   "titre": "Une invasion à main armée fait deux blessés dans une résidence de Saint-Raymond",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Saint-Raymond (Portneuf)",
+   "medias": "Journal de Québec, Radio-Canada",
+   "url": "https://www.journaldequebec.com/2026/09/07/une-personne-blessee-serieusement-a-la-suite-dune-invasion-de-domicile-a-saint-raymond-un-suspect-arrete",
+   "resume": "La piste du crime organisé n'est pour l'instant pas retenue par les enquêteurs de la Sûreté du Québec.",
+   "sources": [
+    {
+     "media": "Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/07/une-personne-blessee-serieusement-a-la-suite-dune-invasion-de-domicile-a-saint-raymond-un-suspect-arrete",
+     "auteur": "Martin Lavoie",
+     "date": "2026-09-07T12:13-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281248/braquage-agression-saint-raymond",
+     "auteur": "Marie-Christine Gagnon",
+     "date": "2026-09-07T09:08-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "une-invasion-a-main-armee-fait-deux-blesses-dans-une-residen-bc709f",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "une-invasion-a-main-armee-fait-deux-blesses-dans-une-residen-bc709f"
+  },
+  {
+   "titre": "Le nouveau système de consignes du Québec fait face à des critiques sur l'accès",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/consignaction-modernize-bottle-recycling-in-quebec-9.7334842",
+   "resume": "Files d'attente ou déserts d'accès selon le quartier : le bilan qu'en tire une chercheuse.",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/consignaction-modernize-bottle-recycling-in-quebec-9.7334842",
+     "auteur": "Djeneba Dosso",
+     "date": "2026-09-07T13:21-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-nouveau-systeme-de-consignes-du-quebec-fait-face-a-des-cr-bfb99c",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "le-nouveau-systeme-de-consignes-du-quebec-fait-face-a-des-cr-bfb99c"
+  },
+  {
+   "titre": "Cold Lake réclame toujours des millions à Ottawa, un an après avoir eu gain de cause",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Cold Lake (Alberta)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281392/litige-base-militaire-municipalite-peri",
+   "resume": "D'autres municipalités canadiennes logées près d'une base fédérale surveillent maintenant ce dossier de près.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281392/litige-base-militaire-municipalite-peri",
+     "auteur": "Jessica Campbell",
+     "date": "2026-09-07T16:06-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/CFB_Cold_Lake_%28YCOD%29.jpg",
+   "legende": "Vue satellite de la base des Forces canadiennes Cold Lake, en Alberta.",
+   "permalien": "cold-lake-reclame-toujours-des-millions-a-ottawa-un-an-apres-74575b",
+   "photo_auteur": "NASA",
+   "photo_licence": "Domaine public (NASA)",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "cold-lake-reclame-toujours-des-millions-a-ottawa-un-an-apres-74575b"
+  },
+  {
+   "titre": "Le constructeur chinois BYD sonde une usine ontarienne pendant que les tarifs américains frappent l'auto",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Ontario",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/economie/1007090/chine-partenaire-potentiel-industrie-automobile-canadienne",
+   "resume": "Le Canada devrait exiger davantage qu'un simple assemblage final avant de dire oui, prévient l'analyse.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1007090/chine-partenaire-potentiel-industrie-automobile-canadienne",
+     "auteur": "Amy Legate-Wolfe",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-constructeur-chinois-byd-sonde-une-usine-ontarienne-penda-7c42fc",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "le-constructeur-chinois-byd-sonde-une-usine-ontarienne-penda-7c42fc"
+  },
+  {
+   "titre": "Un détenu ne revient pas d'une sortie autorisée du pénitencier de la Saskatchewan",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Saskatchewan",
+   "medias": "Service correctionnel Canada",
+   "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/09/evasion-du-penitencier-de-la-saskatchewan--unite-a-securite-minimale.html",
+   "resume": "Ottawa précise seulement qu'il s'agissait d'une absence temporaire autorisée, sans dire ce qui a suivi.",
+   "sources": [
+    {
+     "media": "Service correctionnel Canada",
+     "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/09/evasion-du-penitencier-de-la-saskatchewan--unite-a-securite-minimale.html",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "un-detenu-ne-revient-pas-d-une-sortie-autorisee-du-penitenci-241d70",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "un-detenu-ne-revient-pas-d-une-sortie-autorisee-du-penitenci-241d70"
+  },
+  {
+   "titre": "Québec a mis sur pied 58 programmes accélérés pour combler la pénurie d'enseignants depuis 2022",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280797/voies-rapides-metier-enseignant-enseignement-ecole",
+   "resume": "Le milieu universitaire, lui, se demande si tous ces diplômes mènent vraiment à la même compétence.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280797/voies-rapides-metier-enseignant-enseignement-ecole",
+     "auteur": "Fannie Bussières McNicoll",
+     "date": "2026-09-08T04:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "quebec-a-mis-sur-pied-58-programmes-acceleres-pour-combler-l-dbbfc6",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "quebec-a-mis-sur-pied-58-programmes-acceleres-pour-combler-l-dbbfc6"
+  },
+  {
+   "titre": "Une erreur d'une policière a livré à un ex-conjoint violent l'adresse secrète de sa victime",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Saint-Jean-sur-Richelieu (Montérégie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281326/police-richelieu-adresse-violence-conjugale-erreur",
+   "resume": "Il l'a appris en portant plainte à son tour, raconte la mère de famille, dévastée.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281326/police-richelieu-adresse-violence-conjugale-erreur",
+     "auteur": "Pascal Robidas",
+     "date": "2026-09-08T04:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "une-erreur-d-une-policiere-a-livre-a-un-ex-conjoint-violent-b1fde4",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "une-erreur-d-une-policiere-a-livre-a-un-ex-conjoint-violent-b1fde4"
+  },
+  {
+   "titre": "Deux sergents des Forces armées canadiennes purgeront une peine d'emprisonnement à domicile pour agression sexuelle",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Laval (Montréal)",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-08/forces-armees-canadiennes/prison-a-la-maison-pour-deux-sergents-qui-ont-viole-une-collegue.php",
+   "resume": "Tous deux avaient plaidé coupable ; la victime, elle, a dû mettre fin à sa carrière militaire.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-08/forces-armees-canadiennes/prison-a-la-maison-pour-deux-sergents-qui-ont-viole-une-collegue.php",
+     "auteur": "Louis-Samuel Perron",
+     "date": "2026-09-08T05:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "deux-sergents-des-forces-armees-canadiennes-purgeront-une-pe-f6f611",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "deux-sergents-des-forces-armees-canadiennes-purgeront-une-pe-f6f611"
+  },
+  {
+   "titre": "Aux tests PISA 2025, le Québec devance toutes les provinces en mathématiques, mais recule en lecture",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-09-08/tests-pisa/le-quebec-et-le-canada-font-bonne-figure-malgre-une-baisse-du-niveau-general-des-eleves.php",
+   "resume": "L'IA, la précipitation et un soutien parental en baisse font partie des pistes avancées par l'OCDE.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-08/tests-pisa/le-quebec-et-le-canada-font-bonne-figure-malgre-une-baisse-du-niveau-general-des-eleves.php",
+     "auteur": "Chloé Bourquin",
+     "date": "2026-09-08T05:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "aux-tests-pisa-2025-le-quebec-devance-toutes-les-provinces-e-5aa205",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "aux-tests-pisa-2025-le-quebec-devance-toutes-les-provinces-e-5aa205"
+  },
+  {
+   "titre": "Une étude chiffre pour la première fois précisément l'empreinte climatique de l'alimentation des Québécois",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/environnement/2026-09-08/empreinte-climatique-de-la-nourriture/l-assiette-des-quebecois-sous-la-loupe.php",
+   "resume": "Le geste le plus payant n'est pas de manger local, mais de moins gaspiller, selon l'étude.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-09-08/empreinte-climatique-de-la-nourriture/l-assiette-des-quebecois-sous-la-loupe.php",
+     "auteur": "Valérie Simard",
+     "date": "2026-09-08T05:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "une-etude-chiffre-pour-la-premiere-fois-precisement-l-emprei-778572",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "une-etude-chiffre-pour-la-premiere-fois-precisement-l-emprei-778572"
+  },
+  {
+   "titre": "Québec permet à ses donneurs d'ouvrage publics d'écarter la règle du plus bas soumissionnaire",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Devoir, Gouvernement du Québec",
+   "url": "https://www.ledevoir.com/politique/quebec/1007159/quebec-pied-guerre-tarifaire",
+   "resume": "La mesure vise les entreprises d'ici, à quelques heures de l'entrée en vigueur des contre-tarifs canadiens.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007159/quebec-pied-guerre-tarifaire",
+     "auteur": "Marco Bélair-Cirino",
+     "date": "2026-09-07T23:26-04:00"
+    },
+    {
+     "media": "Gouvernement du Québec",
+     "url": "http://www.fil-information.gouv.qc.ca/Pages/Article.aspx?idArticle=3409079073",
+     "date": "2026-09-07T17:47-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_Canada.jpg",
+   "legende": "L'Hôtel du Parlement du Québec, à Québec.",
+   "permalien": "quebec-permet-a-ses-donneurs-d-ouvrage-publics-d-ecarter-la-54d176",
+   "photo_auteur": "Wilfredor",
+   "photo_licence": "CC0",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "quebec-permet-a-ses-donneurs-d-ouvrage-publics-d-ecarter-la-54d176"
+  },
+  {
+   "titre": "Le Canada perd du terrain dans la course aux satellites de surveillance des feux de forêt",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Canada",
+   "medias": "Canada's National Observer",
+   "url": "https://www.nationalobserver.com/2026/09/03/news/wildfire-monitoring-satellites-canada-us",
+   "resume": "Un projet américain concurrent est déjà en orbite, pendant que le contrat canadien reste sans remplaçant.",
+   "sources": [
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/03/news/wildfire-monitoring-satellites-canada-us",
+     "auteur": "Jamie Voyles",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-canada-perd-du-terrain-dans-la-course-aux-satellites-de-s-25c0a2",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "le-canada-perd-du-terrain-dans-la-course-aux-satellites-de-s-25c0a2"
+  },
+  {
+   "titre": "Des avertissements ignorés pendant des années ont précédé l'effondrement d'une route à Edmonton",
+   "cahier": "canada",
+   "rubrique": "transport",
+   "territoire": "Edmonton (Alberta)",
+   "medias": "Canada's National Observer",
+   "url": "https://www.nationalobserver.com/2026/09/08/news/edmonton-road-collapse-warnings-delays",
+   "resume": "Le résident qui sonnait l'alarme depuis 2023 devra maintenant payer pour consulter les dossiers d'inspection.",
+   "sources": [
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/08/news/edmonton-road-collapse-warnings-delays",
+     "auteur": "Zoe Mason",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "des-avertissements-ignores-pendant-des-annees-ont-precede-l-4ac812",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "des-avertissements-ignores-pendant-des-annees-ont-precede-l-4ac812"
+  },
+  {
+   "titre": "Un an après sa création, le centre franco-ontarien de planification des services de santé trace son premier plan",
+   "cahier": "canada",
+   "rubrique": "sante",
+   "territoire": "Ontario",
+   "medias": "ONFR",
+   "url": "https://onfr.tfo.org/centre-de-planification-des-services-de-sante-en-francais-des-avancees-encore-difficiles-a-mesurer/",
+   "resume": "Le portrait complet des besoins reste incomplet, faute de données assez précises pour l'instant.",
+   "sources": [
+    {
+     "media": "ONFR",
+     "url": "https://onfr.tfo.org/centre-de-planification-des-services-de-sante-en-francais-des-avancees-encore-difficiles-a-mesurer/",
+     "auteur": "Mohammed Amine Harmach",
+     "date": "2026-09-07T06:00-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T06:07-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "un-an-apres-sa-creation-le-centre-franco-ontarien-de-planifi-ffe5df",
+   "_volet": "quebec-canada",
+   "_fichier": "revue-quebec-canada-2026-09-08.json",
+   "_slug": "un-an-apres-sa-creation-le-centre-franco-ontarien-de-planifi-ffe5df"
   },
   {
    "titre": "Enlevé en Colombie, un caporal de la Légion étrangère échappe à ses ravisseurs et passe sous protection militaire",
@@ -2326,7 +2763,7 @@
    "_slug": "la-nouvelle-ecosse-entame-les-travaux-apres-les-inondations-823fb4"
   },
   {
-   "titre": "Les contre-tarifs canadiens contre les États-Unis entrent en vigueur mardi",
+   "titre": "Les contre-tarifs canadiens contre les États-Unis sont entrés en vigueur cette nuit",
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
@@ -2350,12 +2787,18 @@
      "url": "https://www.lesaffaires.com/secteurs/manufacturier/acier-et-aluminium-cadres-de-portes-et-de-fenetres-echafaudages-voici-les-produits-cibles-par-les-contre-tarifs/",
      "auteur": "La Presse Canadienne",
      "date": "2026-09-07T19:10-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281429/bombardier-contre-tarifs-quebec-paie-cher",
+     "auteur": "Gérald Fillion",
+     "date": "2026-09-08T04:00-04:00"
     }
    ],
-   "resume": "Mise à jour, 20 h 38 — Cadres de portes et fenêtres, échafaudages et profilés en acier et en aluminium sont visés.",
+   "resume": "Mise à jour, 6 h 14 — Économistes et entreprises commencent à chiffrer la facture pour les ménages et les usines d'ici.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-07T20:38-04:00",
+   "horodate": "2026-09-08T06:14-04:00",
    "permalien": "les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a",
    "image_auto": "aucune",
    "_volet": "report",
