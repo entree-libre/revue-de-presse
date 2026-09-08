@@ -3513,7 +3513,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Radio-Canada, Le Devoir, Québecor, La Presse, Les Affaires, Coops de l'information, The Globe and Mail, Noovo Info",
+   "medias": "Radio-Canada, Le Devoir, Québecor, La Presse, Les Affaires, Coops de l'information, The Globe and Mail, Noovo Info, Le Canada Français",
    "url": "https://www.youtube.com/watch?v=9MX9NNIhKL0",
    "resume": "Mise à jour, 17 h — Ottawa dément avoir assoupli sa riposte tarifaire, et Duhaime boude la réunion prévue avec Fréchette ce soir.",
    "photo": "",
@@ -3608,6 +3608,12 @@
      "media": "Noovo Info",
      "url": "https://www.youtube.com/watch?v=CGCBk07fDXE",
      "date": "2026-09-07T17:24-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/jour-12-les-contre-tarifs-dottawa-simposent-de-nouveau-dans-la-campagne/",
+     "date": "2026-09-07T21:05-04:00",
+     "auteur": "Frédéric Lacroix-Couture et La Presse Canadienne"
     }
    ],
    "image_auto": "aucune",
@@ -4390,6 +4396,31 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-07.json",
    "_slug": "des-experts-mettent-en-garde-contre-les-contenus-generes-par-8e92d1"
+  },
+  {
+   "titre": "À Victoriaville, la guerre commerciale touche aussi l'industrie funéraire",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Victoriaville (Centre-du-Québec)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10754445/guerre-commerciale-patrice-roy-rencontre-un-fabricant-cercueils",
+   "resume": "Un entrepreneur funéraire de Victoriaville s'inquiète de payer, lui aussi, le prix des contre-tarifs canadiens.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T23:20-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10754445/guerre-commerciale-patrice-roy-rencontre-un-fabricant-cercueils",
+     "auteur": "Patrice Roy",
+     "date": "2026-09-07T20:35-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "a-victoriaville-la-guerre-commerciale-touche-aussi-l-industr-795ecb",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-07.json",
+   "_slug": "a-victoriaville-la-guerre-commerciale-touche-aussi-l-industr-795ecb"
   },
   {
    "titre": "Le SPVM enquête sur une agression à l'arme blanche survenue vers 1 h 30 dans Ville-Marie",
