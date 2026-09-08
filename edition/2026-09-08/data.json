@@ -2451,11 +2451,17 @@
    "territoire": "Québec",
    "medias": "Qc125",
    "url": "https://www.qc125.ca/p/mise-a-jour-qc125-le-pq-largement-c6e",
-   "resume": "Une poignée de circonscriptions disputées contre la CAQ pourrait à elle seule décider du prochain gouvernement.",
+   "resume": "Mise à jour, 13 h — Qc125 chiffre la CAQ entre 6 et 45 sièges, l'incertitude la plus large de la campagne.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T08:58-04:00",
+   "horodate": "2026-09-08T13:02-04:00",
    "sources": [
+    {
+     "media": "Qc125 (Philippe J. Fournier)",
+     "url": "https://www.qc125.ca/p/mise-a-jour-qc125-ya-pas-de-point",
+     "date": "2026-09-08T13:02-04:00",
+     "auteur": "Philippe J. Fournier"
+    },
     {
      "media": "Qc125 (Philippe J. Fournier)",
      "url": "https://www.qc125.ca/p/mise-a-jour-qc125-le-pq-largement-c6e",
@@ -2527,7 +2533,7 @@
    "cahier": "elections",
    "rubrique": "societe",
    "territoire": "Québec (Capitale-Nationale)",
-   "medias": "Coops de l'information, Radio-Canada, La Presse",
+   "medias": "Coops de l'information, Radio-Canada, La Presse, CBC News",
    "url": "https://www.lesoleil.com/actualites/actualites-locales/la-capitale/2026/09/08/marchand-lance-litinerance-zero-dans-la-campagne-HC5WDZKNEREUVL3RBN3SQJEVR4/",
    "resume": "Un maire mise sur le débat des cinq chefs prévu mercredi pour arracher un engagement commun.",
    "photo": "",
@@ -2569,6 +2575,12 @@
      "url": "https://monsaintsauveur.com/2026/marchand-met-les-partis-au-defi-sur-litinerance/",
      "auteur": "Christophe Gagnon-Fortin",
      "date": "2026-09-08T14:34-04:00"
+    },
+    {
+     "media": "CBC News",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-city-mayor-bruno-marchand-zero-homelessness-9.7336154",
+     "date": "2026-09-08T16:59-04:00",
+     "auteur": "Aatefeh Padidar"
     }
    ],
    "permalien": "bruno-marchand-presse-les-cinq-chefs-de-parti-de-s-engager-f-841da8",
@@ -2713,13 +2725,19 @@
    "cahier": "elections",
    "rubrique": "education",
    "territoire": "Québec",
-   "medias": "Les Affaires",
+   "medias": "Les Affaires, Parti libéral du Québec",
    "url": "https://www.lesaffaires.com/secteurs/politique/jour-13-le-plq-promet-daugmenter-les-ressources-specialisees-dans-les-ecoles/",
    "resume": "Les listes d'attente en orthophonie et en psychoéducation sont devenues un enjeu de campagne.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-08T10:24-04:00",
    "sources": [
+    {
+     "media": "Parti libéral du Québec",
+     "url": "https://plq.org/communique/le-parti-liberal-du-quebec-veut-ajouter-1-000-ressources-specialisees-dans-les-ecoles/",
+     "date": "2026-09-08T11:50-04:00",
+     "auteur": "Millèna Bérubé Comtois"
+    },
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-13-le-plq-promet-daugmenter-les-ressources-specialisees-dans-les-ecoles/",
@@ -2823,10 +2841,15 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Journal Métro, La Presse, FM93, 98.5 Montréal, Le Canada Français",
+   "medias": "98.5 Montréal, CBC News, FM93, Gazette officielle du Québec, Journal Métro, La Presse, Le Canada Français",
    "url": "https://journalmetro.com/actualites/elections/3226703/christine-frechette-veut-se-tenir-debout-face-a-la-guerre-tarifaire/",
    "resume": "Mise à jour, 15 h — L'absent de la rencontre essuie une charge inattendue, venue cette fois du camp gouvernemental.",
    "sources": [
+    {
+     "media": "Gazette officielle du Québec",
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2635A-F.pdf",
+     "date": "2026-09-08"
+    },
     {
      "media": "Journal Métro",
      "url": "https://journalmetro.com/actualites/elections/3226703/christine-frechette-veut-se-tenir-debout-face-a-la-guerre-tarifaire/",
@@ -2868,6 +2891,12 @@
      "url": "https://www.canadafrancais.com/nouvelles-nationales/15-milliard-aux-entreprises-quebecoises-pour-contrer-lintimidateur/",
      "auteur": "Patrice Bergeron, La Presse Canadienne",
      "date": "2026-09-08T12:26-04:00"
+    },
+    {
+     "media": "CBC News",
+     "url": "https://www.cbc.ca/news/canada/montreal/frechette-quebec-trump-9.7335409",
+     "date": "2026-09-08T11:08-04:00",
+     "auteur": "Cassandra Yanez-Leyton"
     }
    ],
    "photo": "",
@@ -3062,6 +3091,11 @@
      "media": "Québec solidaire",
      "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-face-a-la-guerre-tarifaire-quebec-solidaire-choisit-la-transition-ecologique-et-la-souverainete-energetique-pour-batir-lavenir/",
      "date": "2026-09-08T16:18-04:00"
+    },
+    {
+     "media": "Québec solidaire (CNW)",
+     "url": "https://www.newswire.ca/fr/news-releases/election-2026-face-a-la-guerre-tarifaire-quebec-solidaire-choisit-la-transition-ecologique-et-la-souverainete-energetique-pour-batir-l-avenir-895037396.html",
+     "date": "2026-09-08T13:30-04:00"
     }
    ],
    "image_auto": "aucune",
@@ -3121,6 +3155,56 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-08.json",
    "_slug": "pspp-attribue-le-manque-de-place-en-classe-a-l-immigration-d-b1a11f"
+  },
+  {
+   "titre": "Élections Québec rappelle qu'il existe six façons de voter avant le jour du scrutin",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Élections Québec",
+   "url": "https://www.electionsquebec.qc.ca/communiques/elections-provinciales-de-2026-plusieurs-options-pour-voter/",
+   "resume": "De la chambre d'hôpital au chalet isolé, une façon de voter existe pour chacun.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T00:00-04:00",
+   "sources": [
+    {
+     "media": "Élections Québec",
+     "url": "https://www.electionsquebec.qc.ca/communiques/elections-provinciales-de-2026-plusieurs-options-pour-voter/",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "elections-quebec-rappelle-qu-il-existe-six-facons-de-voter-a-ce7358",
+   "entree": "2026-09-08T00:00-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "elections-quebec-rappelle-qu-il-existe-six-facons-de-voter-a-ce7358"
+  },
+  {
+   "titre": "L'Équipe Fréchette promet 144 millions $ pour transformer l'industrie forestière",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "Coalition avenir Québec",
+   "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/08/lequipe-frechette-initiera-un-pacte-forestier-avec-les-acteurs-de-la-foret/",
+   "resume": "Un chantier national sur la forêt doit réconcilier économie régionale et pression tarifaire américaine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T00:00-04:00",
+   "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/08/lequipe-frechette-initiera-un-pacte-forestier-avec-les-acteurs-de-la-foret/",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "l-equipe-frechette-promet-144-millions-pour-transformer-l-in-81561e",
+   "entree": "2026-09-08T00:00-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "l-equipe-frechette-promet-144-millions-pour-transformer-l-in-81561e"
   },
   {
    "titre": "Six entreprises de voyage visées par une demande d'action collective sur des prix affichés",

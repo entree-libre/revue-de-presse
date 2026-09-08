@@ -4,7 +4,7 @@
 <title>Entrée-Libre — Revue de presse — 8 septembre 2026</title>
 <link>https://entreelibre.ca/edition/2026-09-08/index.html</link>
 <atom:link href="https://entreelibre.ca/flux.xml" rel="self" type="application/rss+xml"/>
-<description>Entrée-Libre — revue de presse, l'actualité par thème, mise à jour quatre fois par jour. 285 sujets, 171 médias.</description>
+<description>Entrée-Libre — revue de presse, l'actualité par thème, mise à jour quatre fois par jour. 287 sujets, 176 médias.</description>
 <language>fr-CA</language>
 <lastBuildDate>Tue, 08 Sep 2026 16:40:00 -0400</lastBuildDate>
 <ttl>60</ttl>
@@ -295,6 +295,15 @@
 <description>Deux avocates ex-FTC accusent l&#x27;entreprise d&#x27;avoir exagéré les avantages de son abonnement Max.</description>
 <source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
 <category>Savoirs</category><category>Technologies et numérique</category>
+</item>
+<item>
+<title>Selon le modèle Qc125, le Parti québécois mène largement mais resterait sous la majorité</title>
+<link>https://entreelibre.ca/edition/2026-09-08/a/selon-le-modele-qc125-le-parti-quebecois-mene-largement-mais-d8ce82.html</link>
+<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-08/a/selon-le-modele-qc125-le-parti-quebecois-mene-largement-mais-d8ce82.html</guid>
+<pubDate>Tue, 08 Sep 2026 13:02:00 -0400</pubDate>
+<description>Mise à jour, 13 h — Qc125 chiffre la CAQ entre 6 et 45 sièges, l&#x27;incertitude la plus large de la campagne.</description>
+<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
+<category>Élections Québec 2026</category><category>Politique et vie municipale</category>
 </item>
 <item>
 <title>Le télescope Hubble capture une « superbulle » de 210 années-lumière dans le Grand Nuage de Magellan</title>
@@ -718,15 +727,6 @@
 <description>Seize romans entament la course vers la plus prestigieuse récompense des lettres françaises.</description>
 <source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
 <category>Savoirs</category><category>Idées, philosophie et histoire</category><enclosure url="https://upload.wikimedia.org/wikipedia/commons/8/84/Edmond_Goncourt_-_Schriftsteller.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" type="image/jpeg" length="0"/>
-</item>
-<item>
-<title>Google dévoile WeatherNext 3, un modèle météo appuyé sur des images satellite horaires</title>
-<link>https://entreelibre.ca/edition/2026-09-08/a/google-devoile-weathernext-3-un-modele-meteo-appuye-sur-des-a1d15f.html</link>
-<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-08/a/google-devoile-weathernext-3-un-modele-meteo-appuye-sur-des-a1d15f.html</guid>
-<pubDate>Tue, 08 Sep 2026 09:56:00 -0400</pubDate>
-<description>Des images satellite renouvelées chaque heure remplacent les calculs classiques pour prédire la pluie et la neige.</description>
-<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
-<category>Savoirs</category><category>Technologies et numérique</category>
 </item>
 </channel>
 </rss>
