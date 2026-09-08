@@ -3,6 +3,7 @@
  "volets": [
   "continu",
   "elections",
+  "monde",
   "report"
  ],
  "articles": [
@@ -11,7 +12,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Arabie saoudite",
-   "medias": "Radio-Canada, France 24, Le Monde",
+   "medias": "Radio-Canada, France 24, Le Monde, RFI, Le Parisien",
    "url": "https://ici.radio-canada.ca/nouvelle/2281463/attaques-houthis-blesses-arabie-saoudite",
    "sources": [
     {
@@ -30,6 +31,16 @@
      "url": "https://www.lemonde.fr/international/article/2026/09/08/arabie-saoudite-les-attaques-menees-par-les-houthistes-ont-fait-73-blesses-et-provoque-l-interruption-de-certains-sites-energetiques_6768122_3210.html",
      "date": "2026-09-08T02:36-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20260908-en-direct-moyen-orient-arabie-saoudite-attaques-houthis-sites-%C3%A9nerg%C3%A9tiques-coalition-iran-yemen",
+     "date": "2026-09-08T02:42-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/guerre-au-moyen-orient-de-nouvelles-attaques-des-houthis-font-au-moins-73-blesses-en-arabie-saoudite-08-09-2026-IWJVHPAID5FQ3A3YEQFOWC5GXE.php",
+     "date": "2026-09-08T03:03-04:00"
     }
    ],
    "resume": "La coalition menée par Ryad promet une riposte contre les rebelles yéménites soutenus par l'Iran.",
@@ -83,7 +94,7 @@
    "cahier": "international",
    "rubrique": "economie",
    "territoire": "Chine",
-   "medias": "BFM, Le Figaro",
+   "medias": "BFM, Le Figaro, Al-Manar",
    "url": "https://www.bfmtv.com/economie/international/profitant-d-une-demande-redoublee-pour-les-semi-conducteurs-les-exportations-de-la-chine-progresse-de-25-en-aout-et-meme-de-34-vers-les-etats-unis_AD-202609080084.html",
    "sources": [
     {
@@ -96,6 +107,12 @@
      "media": "Le Figaro",
      "url": "https://www.lefigaro.fr/flash-eco/les-exportations-chinoises-vers-les-etats-unis-ont-bondi-de-34-en-un-an-20260908",
      "date": "2026-09-08T00:48-04:00"
+    },
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/122982/",
+     "auteur": "Leila Mazboudi",
+     "date": "2026-09-08T02:12-04:00"
     }
    ],
    "resume": "La course mondiale à l'intelligence artificielle tire le commerce extérieur, en forte hausse vers les États-Unis.",
@@ -113,7 +130,7 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "France",
-   "medias": "CNEWS, Libération, franceinfo",
+   "medias": "CNEWS, Libération, franceinfo, Le Monde",
    "url": "https://www.cnews.fr/france/2026-09-08/immigration-clandestine-14-passeurs-presumes-juges-ce-mardi-apres-la-mort-de-31",
    "sources": [
     {
@@ -132,6 +149,12 @@
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/monde/europe/migrants/apres-la-mort-de-31-migrants-dans-un-naufrage-en-2021-le-proces-de-14-passeurs-s-ouvre-lundi-a-paris_8181731.html",
      "date": "2026-09-08T01:35-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/article/2026/09/07/proces-du-naufrage-de-migrants-en-2021-dans-la-manche-deux-reseaux-de-passeurs-devant-la-justice_6767977_3224.html",
+     "date": "2026-09-07T12:30-04:00",
+     "auteur": "Véronique Chocron"
     }
    ],
    "resume": "Le tribunal correctionnel juge leur rôle dans le plus grave naufrage connu de traversées clandestines vers l'Angleterre.",
@@ -149,7 +172,7 @@
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Indonésie",
-   "medias": "TV5 Monde Info, France 24",
+   "medias": "TV5 Monde Info, France 24, Revue Conflits, Québecor",
    "url": "https://information.tv5monde.com/international/indonesie-reprise-progressive-du-trafic-aerien-apres-une-eruption-volcanique-2836593",
    "sources": [
     {
@@ -163,6 +186,17 @@
      "url": "https://www.france24.com/fr/info-en-continu/20260908-indon%C3%A9sie-reprise-progressive-du-trafic-a%C3%A9rien-apr%C3%A8s-une-%C3%A9ruption-volcanique",
      "auteur": "FRANCE24",
      "date": "2026-09-08T01:27-04:00"
+    },
+    {
+     "media": "Revue Conflits",
+     "url": "https://www.revueconflits.com/eruption-volcanique-en-indonesie-des-dizaines-de-milliers-de-voyageurs-bloques/",
+     "auteur": "AFP",
+     "date": "2026-09-07T06:17-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/07/images--eruption-volcanique-en-indonesie-des-dizaines-de-milliers-de-voyageurs-bloques",
+     "date": "2026-09-07T08:15-04:00"
     }
    ],
    "resume": "Près de 3000 vols annulés ou reportés et plus de 300 000 passagers bloqués à Jakarta depuis dimanche.",
@@ -180,7 +214,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "États-Unis",
-   "medias": "Le JDD, CNEWS",
+   "medias": "Le JDD, CNEWS, Le Figaro",
    "url": "https://www.lejdd.fr/International/donald-trump-diffuse-une-carte-des-etats-unis-englobant-les-antilles-francaises-le-mexique-et-le-canada-182874",
    "sources": [
     {
@@ -194,9 +228,14 @@
      "url": "https://www.cnews.fr/monde/2026-09-08/donald-trump-publie-une-carte-des-etats-unis-englobant-notamment-plusieurs",
      "auteur": "CNEWS",
      "date": "2026-09-08T02:18-04:00"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/donald-trump-publie-une-carte-des-etats-unis-englobant-le-mexique-le-canada-et-les-antilles-francaises-20260907",
+     "date": "2026-09-07T16:59-04:00"
     }
    ],
-   "resume": "Publiée sans commentaire sur Truth Social, l'image inclut aussi la Martinique, la Guadeloupe et Saint-Pierre-et-Miquelon.",
+   "resume": "Publiée sans commentaire sur Truth Social, l'image intègre aussi le Groenland, Cuba et l'Islande.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-08T03:36-04:00",
@@ -211,7 +250,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Ukraine",
-   "medias": "Ukrinform, Interfax-Ukraine",
+   "medias": "Ukrinform, Interfax-Ukraine, Euromaidan Press",
    "url": "https://www.ukrinform.net/rubric-economy/4161836-ukraine-restores-external-power-supply-to-zaporizhzhia-npp.html",
    "sources": [
     {
@@ -223,6 +262,12 @@
      "media": "Interfax-Ukraine",
      "url": "https://en.interfax.com.ua/news/general/1200281.html",
      "date": "2026-09-08T02:30-04:00"
+    },
+    {
+     "media": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/09/07/russia-burns-occupied-zaporizhzhia-nuclear-plants-last-resort-generators-as-everyday-power-ukraine-says/",
+     "auteur": "Zoriana Katola",
+     "date": "2026-09-07T16:58-04:00"
     }
    ],
    "resume": "Les ingénieurs ukrainiens ont réparé la ligne endommagée, coupée depuis le 20 août, grâce à une trêve ponctuelle.",
@@ -319,6 +364,1158 @@
    "_slug": "en-outaouais-les-urgences-de-hull-deviennent-un-enjeu-electo-652c1a"
   },
   {
+   "titre": "Le Directeur général des élections reconnaît Osons Québec, vingt et unième formation politique",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281325/osons-quebec-nouveau-parti-politique",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281325/osons-quebec-nouveau-parti-politique",
+     "auteur": "Jérôme Labbé",
+     "date": "2026-09-08T04:00-04:00"
+    }
+   ],
+   "resume": "Reste à savoir si ce parti tardif changera quoi que ce soit au discours électoral.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T05:30-04:00",
+   "permalien": "le-directeur-general-des-elections-reconnait-osons-quebec-vi-6c0f3e",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "le-directeur-general-des-elections-reconnait-osons-quebec-vi-6c0f3e"
+  },
+  {
+   "titre": "Dans Champlain et Laviolette–Saint-Maurice, les cinq partis se divisent sur le projet de TES Canada",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Mauricie (Champlain, Laviolette–Saint-Maurice)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/08/tes-canada-et-le-projet-mauricie-quen-pensent-les-candidats-VJRIDMDKVBGLNL23645UPOAPIA/",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/08/tes-canada-et-le-projet-mauricie-quen-pensent-les-candidats-VJRIDMDKVBGLNL23645UPOAPIA/",
+     "auteur": "Matthieu Max-Gessler",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/08/tes-canada-et-le-projet-mauricie-quen-pensent-les-candidats-VJRIDMDKVBGLNL23645UPOAPIA/",
+     "auteur": "Matthieu Max-Gessler",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/08/tes-canada-et-le-projet-mauricie-quen-pensent-les-candidats-VJRIDMDKVBGLNL23645UPOAPIA/",
+     "auteur": "Matthieu Max-Gessler",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/08/tes-canada-et-le-projet-mauricie-quen-pensent-les-candidats-VJRIDMDKVBGLNL23645UPOAPIA/",
+     "auteur": "Matthieu Max-Gessler",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/08/tes-canada-et-le-projet-mauricie-quen-pensent-les-candidats-VJRIDMDKVBGLNL23645UPOAPIA/",
+     "auteur": "Matthieu Max-Gessler",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/08/tes-canada-et-le-projet-mauricie-quen-pensent-les-candidats-VJRIDMDKVBGLNL23645UPOAPIA/",
+     "auteur": "Matthieu Max-Gessler",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "resume": "Un projet énergétique qui ne divise pas seulement les partis, mais chaque circonscription en elle-même.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T05:30-04:00",
+   "permalien": "dans-champlain-et-laviolettesaint-maurice-les-cinq-partis-se-ff1a8b",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "dans-champlain-et-laviolettesaint-maurice-les-cinq-partis-se-ff1a8b"
+  },
+  {
+   "titre": "Publicité électorale : chaque parti québécois mise différemment sur les plateformes américaines",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/08/les-geants-americains-un-mal-necessaire-en-campagne-electorale-JCDDZS7DHNHORJAR3DBNQISDIQ/",
+   "sources": [
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/08/les-geants-americains-un-mal-necessaire-en-campagne-electorale-JCDDZS7DHNHORJAR3DBNQISDIQ/",
+     "auteur": "Juliette Nadeau-Besse",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/08/les-geants-americains-un-mal-necessaire-en-campagne-electorale-JCDDZS7DHNHORJAR3DBNQISDIQ/",
+     "auteur": "Juliette Nadeau-Besse",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/08/les-geants-americains-un-mal-necessaire-en-campagne-electorale-JCDDZS7DHNHORJAR3DBNQISDIQ/",
+     "auteur": "Juliette Nadeau-Besse",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/08/les-geants-americains-un-mal-necessaire-en-campagne-electorale-JCDDZS7DHNHORJAR3DBNQISDIQ/",
+     "auteur": "Juliette Nadeau-Besse",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/08/les-geants-americains-un-mal-necessaire-en-campagne-electorale-JCDDZS7DHNHORJAR3DBNQISDIQ/",
+     "auteur": "Juliette Nadeau-Besse",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/08/les-geants-americains-un-mal-necessaire-en-campagne-electorale-JCDDZS7DHNHORJAR3DBNQISDIQ/",
+     "auteur": "Juliette Nadeau-Besse",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "resume": "Reste à savoir laquelle de ces stratégies numériques convaincra le mieux l'électorat avant le vote.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T05:30-04:00",
+   "permalien": "publicite-electorale-chaque-parti-quebecois-mise-differemmen-69c03c",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "publicite-electorale-chaque-parti-quebecois-mise-differemmen-69c03c"
+  },
+  {
+   "titre": "Au Saguenay–Lac-Saint-Jean, la démographie vieillissante s'impose comme enjeu de campagne",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Saguenay–Lac-Saint-Jean",
+   "medias": "Le Quotidien",
+   "url": "https://www.lequotidien.com/actualites/actualites-locales/2026/09/08/enjeux-electorauxacceleration-du-vieillissement-de-la-population-regionale-FMGOBNSJGNAGJCDOOEMQFQ7XO4/",
+   "sources": [
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/actualites-locales/2026/09/08/enjeux-electorauxacceleration-du-vieillissement-de-la-population-regionale-FMGOBNSJGNAGJCDOOEMQFQ7XO4/",
+     "auteur": "Carolyne Labrie",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "resume": "Reste à savoir si les partis tiendront leurs promesses une fois la campagne terminée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T05:30-04:00",
+   "permalien": "au-saguenaylac-saint-jean-la-demographie-vieillissante-s-imp-140b3c",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "au-saguenaylac-saint-jean-la-demographie-vieillissante-s-imp-140b3c"
+  },
+  {
+   "titre": "Critiqué pour d'anciens propos, le candidat péquiste François Gariépy dit ne pas être disqualifié",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Charlevoix–Côte-de-Beaupré)",
+   "medias": "Le Soleil",
+   "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/08/francois-gariepy-un-candidat-pas-disqualifie-TZVAT266XBANXIHTCFHR2WHYTQ/",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/08/francois-gariepy-un-candidat-pas-disqualifie-TZVAT266XBANXIHTCFHR2WHYTQ/",
+     "auteur": "Félix Lajoie",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "resume": "Reste à savoir si ses excuses suffiront à calmer la controverse avant le vote.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T05:30-04:00",
+   "permalien": "critique-pour-d-anciens-propos-le-candidat-pequiste-francois-763fc1",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "critique-pour-d-anciens-propos-le-candidat-pequiste-francois-763fc1"
+  },
+  {
+   "titre": "L'Ukraine frappe un pont ferroviaire utilisé par la logistique militaire russe en Crimée occupée",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Crimée",
+   "medias": "Ukrinform, United24 Media",
+   "url": "https://www.ukrinform.net/rubric-ato/4161632-defense-forces-strike-railway-bridge-over-north-crimean-canal.html",
+   "resume": "La frappe vise un axe du canal de Crimée du Nord que Moscou utilise pour ravitailler ses troupes.",
+   "sources": [
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4161632-defense-forces-strike-railway-bridge-over-north-crimean-canal.html",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "United24 Media",
+     "url": "https://united24media.com/war-in-ukraine/ukraine-strikes-crimea-rail-bridge-supplying-russias-southern-front-military-logistics-22300",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Roman Kohanets"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "image_auto": "aucune",
+   "permalien": "l-ukraine-frappe-un-pont-ferroviaire-utilise-par-la-logistiq-f6bef9",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "l-ukraine-frappe-un-pont-ferroviaire-utilise-par-la-logistiq-f6bef9"
+  },
+  {
+   "titre": "Londres promet 100 millions de livres de défense antiaérienne à l'Ukraine avant l'hiver",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Royaume-Uni, Ukraine",
+   "medias": "The Kyiv Independent, Ukrinform",
+   "url": "https://kyivindependent.com/uk-pledges-100-million-air-defense-package-for-ukraine-ahead-of-winter/",
+   "resume": "Patriot, intercepteurs et obus de gros calibre : Kyiv anticipe déjà les frappes russes de l'hiver prochain.",
+   "sources": [
+    {
+     "media": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/uk-pledges-100-million-air-defense-package-for-ukraine-ahead-of-winter/",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Tania Myronyshena"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4161923-winter-package-uk-allocates-100-million-for-ukraines-air-defense.html",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "londres-promet-100-millions-de-livres-de-defense-antiaerienn-2a40fb",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "londres-promet-100-millions-de-livres-de-defense-antiaerienn-2a40fb"
+  },
+  {
+   "titre": "Une enquête accuse un groupe chinois d'État d'avoir fourni des composants aux drones russes Geran",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Chine, Russie, Ukraine",
+   "medias": "L'Indépendant, Euromaidan Press",
+   "url": "https://www.lindependant.fr/2026/09/07/guerre-en-ukraine-la-chine-aurait-secretement-fourni-a-la-russie-des-composants-pour-ses-drones-geran-un-acte-passible-de-sanctions-13539404.php",
+   "resume": "Pékin dénonce une manœuvre de diffamation, Kyiv y voit une preuve accablante venue d'un fabricant déjà sanctionné.",
+   "sources": [
+    {
+     "media": "L'Indépendant",
+     "url": "https://www.lindependant.fr/2026/09/07/guerre-en-ukraine-la-chine-aurait-secretement-fourni-a-la-russie-des-composants-pour-ses-drones-geran-un-acte-passible-de-sanctions-13539404.php",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Nicolas Monnet"
+    },
+    {
+     "media": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/09/07/china-calls-itself-neutral-but-its-fiber-ends-up-in-the-drones-that-hit-ukraine/",
+     "auteur": "Taisiia Vivdych",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "une-enquete-accuse-un-groupe-chinois-d-etat-d-avoir-fourni-d-170c0d",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "une-enquete-accuse-un-groupe-chinois-d-etat-d-avoir-fourni-d-170c0d"
+  },
+  {
+   "titre": "L'UE et Kyiv alignent leur aide macrofinancière sur le programme du FMI, annonce la Commission",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Ukraine, Union européenne",
+   "medias": "Ukrinform, Interfax-Ukraine",
+   "url": "https://www.ukrinform.net/rubric-polytics/4161653-dombrovskis-koretsky-discuss-ukraines-financial-needs-european-commission-provides-details.html",
+   "resume": "Premier contact entre le nouveau premier ministre ukrainien et Bruxelles, sur fond de programme du FMI à boucler.",
+   "sources": [
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4161653-dombrovskis-koretsky-discuss-ukraines-financial-needs-european-commission-provides-details.html",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1200129.html",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "l-ue-et-kyiv-alignent-leur-aide-macrofinanciere-sur-le-progr-c0405f",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "l-ue-et-kyiv-alignent-leur-aide-macrofinanciere-sur-le-progr-c0405f"
+  },
+  {
+   "titre": "Des audits inédits révèlent des surcoûts d'un milliard de dollars dans les achats d'armes ukrainiens",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "TVP World",
+   "url": "https://tvpworld.com/95262257/ukraine-lost-12-billion-to-fraud-and-waste-in-military-procurement-nyt-reports",
+   "resume": "Des intermédiaires payés plus cher que le fabricant, selon des audits inédits obtenus par le New York Times.",
+   "sources": [
+    {
+     "media": "TVP World",
+     "url": "https://tvpworld.com/95262257/ukraine-lost-12-billion-to-fraud-and-waste-in-military-procurement-nyt-reports",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Franciszek Józef Beszłej"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "des-audits-inedits-revelent-des-surcouts-d-un-milliard-de-do-2c2d9a",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "des-audits-inedits-revelent-des-surcouts-d-un-milliard-de-do-2c2d9a"
+  },
+  {
+   "titre": "Rutte doit participer par visioconférence à la réunion Ramstein, Kyiv presse l'OTAN d'accélérer",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Interfax-Ukraine, Ukrinform",
+   "url": "https://en.interfax.com.ua/news/general/1199982.html",
+   "resume": "L'Ukraine réclame un rythme plus rapide de livraisons avant l'hiver, à la veille d'un sommet en ligne.",
+   "sources": [
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1199982.html",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4161724-rutte-to-take-part-in-udcg-meeting-on-sept-8.html",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Dutch_PM_Mark_Rutte_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Mark Rutte, en 2022.",
+   "photo_auteur": "President of Ukraine",
+   "photo_licence": "CC BY 4.0",
+   "image_auto": "manuel:Dutch PM Mark Rutte 2022.jpg",
+   "permalien": "rutte-doit-participer-par-visioconference-a-la-reunion-ramst-9f37eb",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "rutte-doit-participer-par-visioconference-a-la-reunion-ramst-9f37eb"
+  },
+  {
+   "titre": "La pénurie d'essence russe étrangle la Mongolie, otage indirecte de la guerre en Ukraine",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Mongolie",
+   "medias": "Orange Actualités, France 24",
+   "url": "https://actu.orange.fr/economie/la-mongolie-en-panne-d-essence-a-cause-des-frappes-ukrainiennes-en-russie-CNT000002rMib6.html",
+   "resume": "Cinq heures de file d'attente pour un plein : la guerre en Ukraine perturbe jusqu'aux pompes mongoles.",
+   "sources": [
+    {
+     "media": "Orange Actualités",
+     "url": "https://actu.orange.fr/economie/la-mongolie-en-panne-d-essence-a-cause-des-frappes-ukrainiennes-en-russie-CNT000002rMib6.html",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-la-mongolie-en-panne-d-essence-%C3%A0-cause-des-frappes-ukrainiennes-en-russie",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/20080726-0045_Mongolie_pont_bois_01.jpg/1280px-20080726-0045_Mongolie_pont_bois_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Pont de bois en Mongolie — image d'illustration.",
+   "photo_auteur": "Jean-Marie Vugnon (2)",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "manuel:20080726-0045 Mongolie pont bois 01.jpg",
+   "permalien": "la-penurie-d-essence-russe-etrangle-la-mongolie-otage-indire-a0dc35",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "la-penurie-d-essence-russe-etrangle-la-mongolie-otage-indire-a0dc35"
+  },
+  {
+   "titre": "Une fondatrice de centre de soins palliatifs pour enfants placée sous contrôle judiciaire à Moscou",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Russie",
+   "medias": "20 Minutes",
+   "url": "https://www.20minutes.fr/monde/russie/4243239-20260907-russie-lida-moniava-opposante-russe-viseur-autorites",
+   "resume": "Elle risque la détention pour trois messages jugés contraires au récit officiel sur la guerre.",
+   "sources": [
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/russie/4243239-20260907-russie-lida-moniava-opposante-russe-viseur-autorites",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Lucie Tollon"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "une-fondatrice-de-centre-de-soins-palliatifs-pour-enfants-pl-8a59b1",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "une-fondatrice-de-centre-de-soins-palliatifs-pour-enfants-pl-8a59b1"
+  },
+  {
+   "titre": "Une ambulance ukrainienne criblée de balles exposée à Lisbonne, devant l'ambassade russe",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Portugal, Ukraine",
+   "medias": "Euronews",
+   "url": "https://www.euronews.com/my-europe/2026/09/07/this-is-not-a-film-bullet-riddled-ukrainian-ambulance-displayed-by-russian-embassy-in-lisb",
+   "resume": "Un véhicule ayant évacué une habitante de Kharkiv sous le feu en 2022 refait surface au Portugal.",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://www.euronews.com/my-europe/2026/09/07/this-is-not-a-film-bullet-riddled-ukrainian-ambulance-displayed-by-russian-embassy-in-lisb",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Diana Rosa Rodrigues"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "une-ambulance-ukrainienne-criblee-de-balles-exposee-a-lisbon-e20a56",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "une-ambulance-ukrainienne-criblee-de-balles-exposee-a-lisbon-e20a56"
+  },
+  {
+   "titre": "Malgré la guerre, 71 % des Ukrainiens se disent heureux selon un sondage de l'institut KIIS",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Ukraine",
+   "medias": "Interfax-Ukraine",
+   "url": "https://en.interfax.com.ua/news/general/1199722.html",
+   "resume": "Un sondage mené en pleine guerre trouve plus d'optimisme que d'amertume chez les personnes interrogées.",
+   "sources": [
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1199722.html",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "malgre-la-guerre-71-des-ukrainiens-se-disent-heureux-selon-u-26f391",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "malgre-la-guerre-71-des-ukrainiens-se-disent-heureux-selon-u-26f391"
+  },
+  {
+   "titre": "Israël poursuit ses frappes dans le sud du Liban, des civils tués malgré le cessez-le-feu",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Liban",
+   "medias": "Le Devoir, La Presse",
+   "url": "https://www.ledevoir.com/monde/moyen-orient/1006988/israel-mene-nouvelles-frappes-meurtrieres-sud-liban",
+   "resume": "Le ministère israélien accuse le Hezbollah de violations répétées du cessez-le-feu fragile.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1006988/israel-mene-nouvelles-frappes-meurtrieres-sud-liban",
+     "date": "2026-09-07T08:45-04:00",
+     "auteur": "Mahmoud Zayyat"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-07/nouvelles-frappes-israeliennes-meurtrieres-au-liban.php",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Mahmoud Zayyat"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "israel-poursuit-ses-frappes-dans-le-sud-du-liban-des-civils-cf206a",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "israel-poursuit-ses-frappes-dans-le-sud-du-liban-des-civils-cf206a"
+  },
+  {
+   "titre": "À deux mois des législatives, l'alliance de trois partis d'extrême droite complique la tâche de Netanyahou",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Israël",
+   "medias": "Le Nouvel Obs",
+   "url": "https://www.nouvelobs.com/monde/20260907.OBS118000/dans-l-extreme-droite-israelienne-une-equation-a-trois-partis-qui-embarrasse-netanyahou.html",
+   "resume": "Trois partis rivaux à courtiser en même temps, sous quarante-huit heures avant la date limite.",
+   "sources": [
+    {
+     "media": "Le Nouvel Obs",
+     "url": "https://www.nouvelobs.com/monde/20260907.OBS118000/dans-l-extreme-droite-israelienne-une-equation-a-trois-partis-qui-embarrasse-netanyahou.html",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Dimitri Krier"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-Aerial-Mount_of_Olives.jpg/1280px-2013-Aerial-Mount_of_Olives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le mont des Oliviers, à Jérusalem — image d'illustration.",
+   "photo_auteur": "Godot13",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "manuel:2013-Aerial-Mount of Olives.jpg",
+   "permalien": "a-deux-mois-des-legislatives-l-alliance-de-trois-partis-d-ex-ad8364",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "a-deux-mois-des-legislatives-l-alliance-de-trois-partis-d-ex-ad8364"
+  },
+  {
+   "titre": "Moscou ferme le consulat allemand de Saint-Pétersbourg, nouvel épisode de la crise des drones de Leipzig",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Russie, Allemagne",
+   "medias": "Le Figaro, Nice-Matin",
+   "url": "https://www.lefigaro.fr/international/la-russie-annonce-la-fermeture-du-consulat-allemand-a-saint-petersbourg-en-reaction-aux-tensions-avec-berlin-20260907",
+   "resume": "Fermetures en miroir entre Berlin et Moscou, sur fond de drone piégé retrouvé près d'un aéroport allemand.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/la-russie-annonce-la-fermeture-du-consulat-allemand-a-saint-petersbourg-en-reaction-aux-tensions-avec-berlin-20260907",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "Nice-Matin",
+     "url": "https://www.nicematin.com/societe/conflits/guerre-en-ukraine-la-russie-annonce-la-fermeture-du-consulat-allemand-a-saint-petersbourg-10719657",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "moscou-ferme-le-consulat-allemand-de-saint-petersbourg-nouve-9de2b6",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "moscou-ferme-le-consulat-allemand-de-saint-petersbourg-nouve-9de2b6"
+  },
+  {
+   "titre": "Ratko Mladić, condamné pour le génocide de Srebrenica, inhumé à Belgrade devant une foule nombreuse",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Serbie",
+   "medias": "Libération, RFI, Le Parisien, Radio-Canada",
+   "url": "https://www.leparisien.fr/international/funerailles-de-ratko-mladic-a-belgrade-lue-denonce-une-glorification-du-criminel-de-guerre-condamne-pour-genocide-07-09-2026-ZJM4YVPLONHHPF2XP5MWSMITLQ.php",
+   "resume": "Un vol officiel affrété par Belgrade pour rapatrier sa dépouille, malgré les mises en garde répétées de Bruxelles.",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/funerailles-de-ratko-mladic-a-belgrade-lue-denonce-une-glorification-du-criminel-de-guerre-condamne-pour-genocide-07-09-2026-ZJM4YVPLONHHPF2XP5MWSMITLQ.php",
+     "date": "2026-09-07T09:14-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/le-criminel-de-guerre-ratko-mladic-inhume-ce-lundi-a-belgrade-des-milliers-de-personnes-attendues-20260907_MXFZ3FVYWJFZLM2M4YA3JG6L6M/",
+     "date": "2026-09-07T03:21-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260907-serbie-obs%C3%A8ques-du-criminel-de-guerre-ratko-mladic-milliers-de-personnes-belgrade",
+     "date": "2026-09-07T08:44-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281271/belgrade-milliers-personnes-obseques-ratko-mladic",
+     "date": "2026-09-07T10:56-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Evstafiev-ratko-mladic-1993-w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Ratko Mladić",
+   "photo_auteur": "Фото: Михаил Евстафьев / Photo by Evstafiev Mikhail",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-fr:Ratko Mladić",
+   "permalien": "ratko-mladic-condamne-pour-le-genocide-de-srebrenica-inhume-e76831",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "ratko-mladic-condamne-pour-le-genocide-de-srebrenica-inhume-e76831"
+  },
+  {
+   "titre": "Le premier ministre serbe demande au président de dissoudre le Parlement, des législatives anticipées en vue",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Serbie",
+   "medias": "Le Monde, Libération",
+   "url": "https://www.lemonde.fr/international/article/2026/09/07/serbie-le-premier-ministre-reclame-au-president-la-dissolution-de-l-assemblee-nationale_6767970_3210.html",
+   "resume": "Le mouvement étudiant qui a tenu la rue pendant près de deux ans obtient enfin ce qu'il réclamait.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/07/serbie-le-premier-ministre-reclame-au-president-la-dissolution-de-l-assemblee-nationale_6767970_3210.html",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/sous-la-pression-de-la-rue-le-premier-ministre-annonce-la-dissolution-de-lassemblee-en-serbie-20260907_HXABLFYQ7BHYDBGLK2A5GZ5IOU/",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-premier-ministre-serbe-demande-au-president-de-dissoudre-60430a",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "le-premier-ministre-serbe-demande-au-president-de-dissoudre-60430a"
+  },
+  {
+   "titre": "L'UE débloque 200 millions d'euros pour le Groenland et signe une déclaration conjointe avec Nuuk",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Groenland, Union européenne",
+   "medias": "Le Parisien, France 24",
+   "url": "https://www.leparisien.fr/international/le-groenland-est-un-allie-strategique-pourquoi-lue-debloque-200-millions-deuros-pour-limmense-ile-arctique-07-09-2026-TUEM3HRTCFG3FPATDZ26L6LAWA.php",
+   "resume": "Von der Leyen en personne à Nuuk, alors que Washington lorgne toujours la plus grande île du monde.",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/le-groenland-est-un-allie-strategique-pourquoi-lue-debloque-200-millions-deuros-pour-limmense-ile-arctique-07-09-2026-TUEM3HRTCFG3FPATDZ26L6LAWA.php",
+     "date": "2026-09-07T09:21-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-en-visite-au-groenland-von-der-leyen-annonce-une-enveloppe-de-200-millions-d-euros",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Greenlandic_and_Faroese_Permanent_Representation_to_the_EU.jpg/1280px-Greenlandic_and_Faroese_Permanent_Representation_to_the_EU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La représentation du Groenland et des îles Féroé auprès de l'UE, à Bruxelles.",
+   "photo_auteur": "Treehill",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "manuel:Greenlandic and Faroese Permanent Representation to the EU.jpg",
+   "permalien": "l-ue-debloque-200-millions-d-euros-pour-le-groenland-et-sign-07bba5",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "l-ue-debloque-200-millions-d-euros-pour-le-groenland-et-sign-07bba5"
+  },
+  {
+   "titre": "Volkswagen envisage de fabriquer du matériel militaire pour sauver une usine allemande sous-utilisée",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Allemagne",
+   "medias": "France 24, Le Journal de Montréal",
+   "url": "https://www.france24.com/fr/info-en-continu/20260907-crise-automobile-volkswagen-se-tourne-vers-la-d%C3%A9fense-pour-sauver-une-usine-allemande",
+   "resume": "Face à une demande automobile atone, le géant allemand lorgne les carnets de commandes pleins de la défense.",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-crise-automobile-volkswagen-se-tourne-vers-la-d%C3%A9fense-pour-sauver-une-usine-allemande",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/crise-automobile-volkswagen-se-tourne-vers-la-defense-pour-sauver-une-usine-allemande",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Wolfsburg_-_Inside_the_Volkswagen_Plant.jpg/1280px-Wolfsburg_-_Inside_the_Volkswagen_Plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'intérieur d'une usine Volkswagen, à Wolfsburg.",
+   "photo_auteur": "Roger Wollstadt",
+   "photo_licence": "CC BY-SA 2.0",
+   "image_auto": "manuel:Wolfsburg - Inside the Volkswagen Plant.jpg",
+   "permalien": "volkswagen-envisage-de-fabriquer-du-materiel-militaire-pour-f819eb",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "volkswagen-envisage-de-fabriquer-du-materiel-militaire-pour-f819eb"
+  },
+  {
+   "titre": "Quatre tableaux de Renoir dérobés dans son musée de Cagnes-sur-Mer, butin estimé à neuf millions d'euros",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "France",
+   "medias": "CNEWS, France 24, franceinfo",
+   "url": "https://www.cnews.fr/france/2026-09-08/musee-renoir-de-cagnes-sur-mer-quatre-oeuvres-derobees-dont-une-abandonnee",
+   "resume": "Une toile abandonnée dans leur fuite, presque un an après le casse retentissant du Louvre.",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-09-08/musee-renoir-de-cagnes-sur-mer-quatre-oeuvres-derobees-dont-une-abandonnee",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/france/20260908-trois-tableaux-de-renoir-vol%C3%A9s-mus%C3%A9e-c%C3%B4te-d-azur-neuf-millions-euros-cambriolage-culture",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/faits-divers/le-musee-auguste-renoir-a-cagnes-sur-mer-cambriole-mardi-matin-quatre-uvres-derobees-dont-une-abandonnee_8182688.html",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cagnes-sur-Mer_-_Mus%C3%A9e_Renoir_-_Maison_-1.JPG/1280px-Cagnes-sur-Mer_-_Mus%C3%A9e_Renoir_-_Maison_-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le musée Renoir, à Cagnes-sur-Mer.",
+   "photo_auteur": "MOSSOT",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "manuel:Cagnes-sur-Mer - Musée Renoir - Maison -1.JPG",
+   "permalien": "quatre-tableaux-de-renoir-derobes-dans-son-musee-de-cagnes-s-56238f",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "quatre-tableaux-de-renoir-derobes-dans-son-musee-de-cagnes-s-56238f"
+  },
+  {
+   "titre": "La justice espagnole enquête sur une possible complicité marocaine dans l'afflux de migrants à Ceuta",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Espagne",
+   "medias": "Le Monde, Le Journal de Montréal",
+   "url": "https://www.lemonde.fr/international/article/2026/09/07/crise-de-ceuta-la-justice-espagnole-ouvre-une-enquete-sur-l-afflux-massif-de-migrants-fin-juillet_6767957_3210.html",
+   "resume": "Des indices suggèrent une gestion favorisant le passage massif vers l'enclave depuis le Maroc, selon le rapport.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/07/crise-de-ceuta-la-justice-espagnole-ouvre-une-enquete-sur-l-afflux-massif-de-migrants-fin-juillet_6767957_3210.html",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/09/07/la-justice-espagnole-ouvre-une-enquete-sur-lafflux-massif-de-migrants-a-ceuta",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/CeutaBorderFence.jpg/1280px-CeutaBorderFence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La clôture frontalière entre Ceuta et le Maroc — image d'illustration.",
+   "photo_auteur": "Youtryandyoutry",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "manuel:CeutaBorderFence.jpg",
+   "permalien": "la-justice-espagnole-enquete-sur-une-possible-complicite-mar-fb4818",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "la-justice-espagnole-enquete-sur-une-possible-complicite-mar-fb4818"
+  },
+  {
+   "titre": "Aux États-Unis, l'entourage de Trump et Elon Musk saluent la percée électorale de l'AfD en Allemagne",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis, Allemagne",
+   "medias": "Noovo Info, L'essentiel",
+   "url": "https://www.noovo.info/nouvelles/international/article/la-victoire-de-lextreme-droite-en-allemagne-rejouit-la-sphere-maga-aux-etats-unis/",
+   "resume": "Le président américain reste silencieux publiquement, mais relaie sans commentaire les résultats du scrutin allemand.",
+   "sources": [
+    {
+     "media": "Noovo Info",
+     "url": "https://www.noovo.info/nouvelles/international/article/la-victoire-de-lextreme-droite-en-allemagne-rejouit-la-sphere-maga-aux-etats-unis/",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "L'essentiel",
+     "url": "https://www.lessentiel.lu/fr/story/etats-unis-musk-et-la-sphere-maga-applaudissent-l-extreme-droite-allemande-103629118",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_White_House_-_54409525537_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Elon Musk",
+   "photo_auteur": "The White House",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Elon Musk",
+   "permalien": "aux-etats-unis-l-entourage-de-trump-et-elon-musk-saluent-la-7ce488",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "aux-etats-unis-l-entourage-de-trump-et-elon-musk-saluent-la-7ce488"
+  },
+  {
+   "titre": "L'ouragan Lowell menace deux îles hawaïennes de tornades, l'archipel à peine remis d'un premier système",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "États-Unis (Hawaï)",
+   "medias": "France 24, La Presse",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-l-ouragan-lowell-fait-planer-une-menace-de-tornades-sur-une-%C3%AEle-d-hawa%C3%AF",
+   "resume": "Après Lala il y a quelques jours à peine, un second système tropical frôle l'archipel du Pacifique.",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-l-ouragan-lowell-fait-planer-une-menace-de-tornades-sur-une-%C3%AEle-d-hawa%C3%AF",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-07/hawaii/deux-iles-en-etat-d-alerte-a-l-approche-de-l-ouragan-lowell.php",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "l-ouragan-lowell-menace-deux-iles-hawaiennes-de-tornades-l-a-728673",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "l-ouragan-lowell-menace-deux-iles-hawaiennes-de-tornades-l-a-728673"
+  },
+  {
+   "titre": "Cuba chiffre à un niveau record le coût de l'embargo américain, un mois avant le vote annuel à l'ONU",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Cuba",
+   "medias": "France 24, Le Monde",
+   "url": "https://www.france24.com/fr/info-en-continu/20260907-cuba-d%C3%A9nonce-l-impact-financier-record-de-l-embargo-am%C3%A9ricain",
+   "resume": "Le ministre cubain avance un montant en hausse de 7 %, non vérifié de façon indépendante.",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-cuba-d%C3%A9nonce-l-impact-financier-record-de-l-embargo-am%C3%A9ricain",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/07/cuba-denonce-les-pertes-financieres-record-de-l-embargo-americain_6767998_3210.html",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/AvMalecon-LaHabanaCuba-04735.jpg/1280px-AvMalecon-LaHabanaCuba-04735.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le Malecón, à La Havane — image d'illustration.",
+   "photo_auteur": "Ezarate\n\n\n\n\n\n\nThis  is a retouched picture, which means that it has been digitally altered from its original version. Mo",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "manuel:AvMalecon-LaHabanaCuba-04735.jpg",
+   "permalien": "cuba-chiffre-a-un-niveau-record-le-cout-de-l-embargo-america-0d66a7",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "cuba-chiffre-a-un-niveau-record-le-cout-de-l-embargo-america-0d66a7"
+  },
+  {
+   "titre": "Maria Corina Machado, prix Nobel de la paix, reste tenue à l'écart par Washington malgré la chute de Maduro",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Venezuela",
+   "medias": "Ouest-France",
+   "url": "https://www.ouest-france.fr/monde/venezuela/la-prix-nobel-maria-corina-machado-grande-perdante-de-la-mise-sous-tutelle-du-venezuela-par-les-etats-unis-d1fa6fb0-aab6-11f1-a618-771a80631f2f",
+   "resume": "Figure incontournable de l'opposition vénézuélienne, elle se retrouve reléguée au second plan depuis 2025.",
+   "sources": [
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/venezuela/la-prix-nobel-maria-corina-machado-grande-perdante-de-la-mise-sous-tutelle-du-venezuela-par-les-etats-unis-d1fa6fb0-aab6-11f1-a618-771a80631f2f",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Nobel_Peace_Prize_2025_-_Mar%C3%ADa_Corina_Machado_press_conference_%283x4_cropped%29.jpg/1280px-Nobel_Peace_Prize_2025_-_Mar%C3%ADa_Corina_Machado_press_conference_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "María Corina Machado",
+   "photo_auteur": "Kevin Payravi",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Maria Corina Machado",
+   "permalien": "maria-corina-machado-prix-nobel-de-la-paix-reste-tenue-a-l-e-59bb16",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "maria-corina-machado-prix-nobel-de-la-paix-reste-tenue-a-l-e-59bb16"
+  },
+  {
+   "titre": "La riposte tarifaire canadienne contre les États-Unis entre en vigueur, sur l'acier et les produits laitiers",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Le Figaro, Les Échos, France 24",
+   "url": "https://www.lefigaro.fr/conjoncture/acier-produits-laitiers-pate-a-papier-le-canada-replique-avec-de-nouveaux-droits-de-douane-contre-les-etats-unis-20260908",
+   "resume": "Ottawa promet de répliquer au dollar près, sans apaisement en vue depuis la rupture des pourparlers fin août.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/conjoncture/acier-produits-laitiers-pate-a-papier-le-canada-replique-avec-de-nouveaux-droits-de-douane-contre-les-etats-unis-20260908",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "Les Échos",
+     "url": "https://www.lesechos.fr/monde/ameriques/droits-de-douane-le-canada-riposte-avec-des-taxes-jusqua-50-face-aux-etats-unis-2250266",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260908-acier-produits-laitiers-%C3%A9lectronique-conflit-commercial-avec-washington-la-riposte-du-canada-entre-en-vigueur",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "la-riposte-tarifaire-canadienne-contre-les-etats-unis-entre-08ad25",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "la-riposte-tarifaire-canadienne-contre-les-etats-unis-entre-08ad25"
+  },
+  {
+   "titre": "Des centaines de Burundais quittent précipitamment le Kenya avant une répression des commerces informels",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Kenya, Burundi",
+   "medias": "BBC Afrique, RFI, France 24",
+   "url": "https://www.bbc.com/afrique/articles/c4g78kgnr11o",
+   "resume": "Le président kényan a fixé un ultimatum aux commerçants étrangers non déclarés avant sa réélection.",
+   "sources": [
+    {
+     "media": "BBC Afrique",
+     "url": "https://www.bbc.com/afrique/articles/c4g78kgnr11o",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Basillioh Rukanga"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/afrique/20260907-des-petits-commer%C3%A7ants-burundais-cherchent-quitter-le-kenya-apr%C3%A8s-les-menaces-d-expulsions-du-pr%C3%A9sident-ruto",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-au-kenya-des-propos-du-pr%C3%A9sident-sur-les-%C3%A9trangers-poussent-des-burundais-%C3%A0-vouloir-partir",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "des-centaines-de-burundais-quittent-precipitamment-le-kenya-325a0f",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "des-centaines-de-burundais-quittent-precipitamment-le-kenya-325a0f"
+  },
+  {
+   "titre": "Le groupe Dangote prépare la plus importante entrée en Bourse de l'histoire africaine",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Nigeria",
+   "medias": "RFI, France 24",
+   "url": "https://www.rfi.fr/fr/afrique/20260907-nigeria-m%C3%A9ga-raffinerie-dangote-cot%C3%A9e-bourse-financer-un-doublement-de-sa-production",
+   "resume": "Le milliardaire nigérian ouvre au grand public le capital de sa méga-raffinerie, une des plus grandes du monde.",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/afrique/20260907-nigeria-m%C3%A9ga-raffinerie-dangote-cot%C3%A9e-bourse-financer-un-doublement-de-sa-production",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-dangote-s-appr%C3%AAte-%C3%A0-lancer-une-introduction-en-bourse-pour-le-peuple-la-plus-importante-d-afrique",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-groupe-dangote-prepare-la-plus-importante-entree-en-bours-5bdbee",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "le-groupe-dangote-prepare-la-plus-importante-entree-en-bours-5bdbee"
+  },
+  {
+   "titre": "La Russie et la Corée du Nord inaugurent leur premier pont routier, nommé en hommage à un soldat soviétique",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Russie, Corée du Nord",
+   "medias": "The Guardian, Agence Yonhap, NHK World",
+   "url": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
+   "resume": "Un couloir présenté comme touristique par Pyongyang, mais vu par des enquêteurs ukrainiens comme un axe militaire.",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
+     "auteur": "Pjotr Sauer",
+     "date": "2026-09-07T05:53-04:00"
+    },
+    {
+     "media": "Agence Yonhap",
+     "url": "https://fr.yna.co.kr/view/AFR20260908000800884",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Kim Kun-hee"
+    },
+    {
+     "media": "NHK World",
+     "url": "https://www3.nhk.or.jp/nhkworld/fr/news/20260908_RS06/",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/%E4%B8%89%E3%82%AB%E5%9B%BD%E8%BE%BA%E5%A2%83%E8%A8%98%E5%BF%B5.jpg/1280px-%E4%B8%89%E3%82%AB%E5%9B%BD%E8%BE%BA%E5%A2%83%E8%A8%98%E5%BF%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le point tripartite Chine-Russie-Corée du Nord, région frontalière — image d'illustration.",
+   "photo_auteur": "Senkaku Islands",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "manuel:三カ国辺境記念.jpg",
+   "permalien": "la-russie-et-la-coree-du-nord-inaugurent-leur-premier-pont-r-54805e",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "la-russie-et-la-coree-du-nord-inaugurent-leur-premier-pont-r-54805e"
+  },
+  {
+   "titre": "Le patron d'ArianeGroup assure qu'Ariane 6 pourrait être adaptée pour des vols habités",
+   "cahier": "international",
+   "rubrique": "espace",
+   "territoire": "France",
+   "medias": "BFMTV, France 24, Yahoo Finance France",
+   "url": "https://www.bfmtv.com/economie/entreprises/aeronautique/ce-n-etait-pas-une-priorite-en-europe-avant-le-desengagement-des-etats-unis-ariane-6-pourrait-lancer-des-vols-habites-assure-son-concepteur_AD-202609070756.html",
+   "resume": "L'Europe, longtemps dépendante des États-Unis pour envoyer ses astronautes dans l'espace, doit revoir ses priorités.",
+   "sources": [
+    {
+     "media": "BFMTV",
+     "url": "https://www.bfmtv.com/economie/entreprises/aeronautique/ce-n-etait-pas-une-priorite-en-europe-avant-le-desengagement-des-etats-unis-ariane-6-pourrait-lancer-des-vols-habites-assure-son-concepteur_AD-202609070756.html",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Bfm Business Cr-B et Agence France-Presse"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-ariane-6-pourrait-%C3%AAtre-adapt%C3%A9e-aux-vols-habit%C3%A9s-et-monter-en-cadence",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-patron-d-arianegroup-assure-qu-ariane-6-pourrait-etre-ada-8269ca",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "le-patron-d-arianegroup-assure-qu-ariane-6-pourrait-etre-ada-8269ca"
+  },
+  {
+   "titre": "Les touristes étrangers désertent les boutiques de souvenirs pour dévaliser les pharmacies françaises",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "France",
+   "medias": "franceinfo, France 24",
+   "url": "https://www.franceinfo.fr/economie/cremes-lotions-soins-les-touristes-etrangers-se-ruent-dans-les-pharmacies-francaises_8180111.html#xtor=RSS-3-[lestitres]",
+   "resume": "Crèmes et compléments alimentaires jugés plus fiables qu'ailleurs : nouvel eldorado du tourisme de shopping.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/cremes-lotions-soins-les-touristes-etrangers-se-ruent-dans-les-pharmacies-francaises_8180111.html#xtor=RSS-3-[lestitres]",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260907-france-les-parapharmacies-de-nouvelles-escales-touristiques",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bus_touristes_Louvre_Paris.jpg/1280px-Bus_touristes_Louvre_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Un autobus de tourisme devant le Louvre, à Paris — image d'illustration.",
+   "photo_auteur": "Jebulon",
+   "photo_licence": "CC0",
+   "image_auto": "manuel:Bus touristes Louvre Paris.jpg",
+   "permalien": "les-touristes-etrangers-desertent-les-boutiques-de-souvenirs-bd8c05",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "les-touristes-etrangers-desertent-les-boutiques-de-souvenirs-bd8c05"
+  },
+  {
+   "titre": "Au Soudan, une mission d'enquête de l'ONU documente des frappes de drones sur des écoles et des hôpitaux",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Soudan",
+   "medias": "ONU Info",
+   "url": "https://news.un.org/fr/story/2026/09/1159419",
+   "resume": "Une frappe des paramilitaires FSR sur une école et un hôpital du Kordofan a fait 114 morts.",
+   "sources": [
+    {
+     "media": "ONU Info",
+     "url": "https://news.un.org/fr/story/2026/09/1159419",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Ala Kheir"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "au-soudan-une-mission-d-enquete-de-l-onu-documente-des-frapp-561447",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "au-soudan-une-mission-d-enquete-de-l-onu-documente-des-frapp-561447"
+  },
+  {
+   "titre": "L'ONU adopte à 164 voix une résolution africaine pour des cartes plus fidèles à la taille des continents",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Afrique, États-Unis, Ukraine",
+   "medias": "TVP World, franceinfo, BBC Afrique, ONU Info",
+   "url": "https://www.franceinfo.fr/monde/voici-la-nouvelle-carte-du-monde_8181218.html",
+   "resume": "Washington y voit une manœuvre idéologique, Kyiv redoute une ambiguïté sur ses territoires occupés.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/voici-la-nouvelle-carte-du-monde_8181218.html",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "TVP World",
+     "url": "https://tvpworld.com/95260259/ukraine-abstains-from-un-map-vote-over-occupied-territory",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Telewizja Polska S.A"
+    },
+    {
+     "media": "BBC Afrique",
+     "url": "https://www.bbc.com/afrique/articles/cx2zvq5dg4ro",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Jaroslav Lukiv"
+    },
+    {
+     "media": "ONU Info",
+     "url": "https://news.un.org/fr/story/2026/09/1159416",
+     "date": "2026-09-06T05:34-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "l-onu-adopte-a-164-voix-une-resolution-africaine-pour-des-ca-158255",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "l-onu-adopte-a-164-voix-une-resolution-africaine-pour-des-ca-158255"
+  },
+  {
+   "titre": "La Cour pénale internationale entame les audiences sur les réparations dans l'affaire Ali Kushayb, au Darfour",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Soudan",
+   "medias": "Cour pénale internationale",
+   "url": "https://www.icc-cpi.int/news/hearing-reparations-abd-al-rahman-case-8-september-2026-practical-information",
+   "resume": "Condamné à vingt ans pour des crimes commis entre 2003 et 2004, il a fait appel du jugement.",
+   "sources": [
+    {
+     "media": "Cour pénale internationale",
+     "url": "https://www.icc-cpi.int/news/hearing-reparations-abd-al-rahman-case-8-september-2026-practical-information",
+     "date": "2026-09-08T05:28-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T04:51-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/International_Criminal_Court_2022.jpg/1280px-International_Criminal_Court_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le bâtiment de la Cour pénale internationale, à La Haye.",
+   "photo_auteur": "Choinowski",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "manuel:International Criminal Court 2022.jpg",
+   "permalien": "la-cour-penale-internationale-entame-les-audiences-sur-les-r-46225b",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-08.json",
+   "_slug": "la-cour-penale-internationale-entame-les-audiences-sur-les-r-46225b"
+  },
+  {
    "titre": "Enlevé en Colombie, un caporal de la Légion étrangère échappe à ses ravisseurs et passe sous protection militaire",
    "cahier": "international",
    "rubrique": "conflits",
@@ -351,9 +1548,15 @@
      "url": "https://information.tv5monde.com/international/colombie-le-soldat-de-la-legion-etrangere-francaise-capture-par-des-dissidents-des-farc-reussi-sechapper-2836517",
      "auteur": "TV5MONDE Info",
      "date": "2026-09-07T12:03-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/apres-avoir-ete-enleve-en-colombie-un-soldat-de-la-legion-etrangere-francaise-reussit-a-echapper-a-ses-ravisseurs-20260907_QOTRVJCB3BBBRPQHVJA7RRIVPM/",
+     "auteur": "AFP",
+     "date": "2026-09-07T07:00-04:00"
     }
    ],
-   "medias": "Le Parisien, franceinfo, France 24, RFI, TV5MONDE Info",
+   "medias": "Le Parisien, franceinfo, France 24, RFI, TV5MONDE Info, Libération",
    "url": "https://www.leparisien.fr/international/evasion-placement-sous-protection-militaire-ce-que-lon-sait-de-la-fuite-du-caporal-de-la-legion-etrangere-enleve-en-colombie-07-09-2026-WRYHUJJLGNE7TEK5HH3CPIFRCU.php",
    "photo": "",
    "legende": "",
@@ -369,7 +1572,7 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Russie, Ukraine",
-   "medias": "Vatican News, Ukrinform, Public Sénat, Midi Libre, New York Post, Straight Arrow News, 20 Minutes, Yahoo Actualités, TRT World",
+   "medias": "Vatican News, Ukrinform, Public Sénat, Midi Libre, New York Post, Straight Arrow News, 20 Minutes, Yahoo Actualités, TRT World, Asharq Al-Awsat, Daily Sabah",
    "url": "https://www.vaticannews.va/en/world/news/2026-09/russia-leaves-door-open-to-new-ukraine-peace-talks.html",
    "sources": [
     {
@@ -419,6 +1622,16 @@
      "media": "TRT World",
      "url": "https://www.trtworld.com/article/c0fb617a069b",
      "date": "2026-09-07T14:11-04:00"
+    },
+    {
+     "media": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/world/5315690-us-envoy-sees-movement-toward-more-talks-russia-ukraine",
+     "date": "2026-09-07T11:07-04:00"
+    },
+    {
+     "media": "Daily Sabah",
+     "url": "https://www.dailysabah.com/world/europe/us-envoy-signals-fresh-russia-ukraine-peace-talks-after-meetings",
+     "date": "2026-09-07T11:54-04:00"
     }
    ],
    "resume": "Reste à savoir où et quand, si Moscou et Kyiv acceptent de s'asseoir à la même table.",
@@ -436,7 +1649,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Saxe-Anhalt (Allemagne)",
-   "medias": "Le Pèlerin, Libération, Le Monde, La Dépêche du Midi, BFMTV, Le Dauphiné Libéré",
+   "medias": "Le Pèlerin, Libération, Le Monde, La Dépêche du Midi, BFMTV, Le Dauphiné Libéré, La Presse, RFI",
    "url": "https://www.lepelerin.com/monde/decryptage/victoire-de-lafd-en-saxe-anhalt-le-systeme-politique-allemand-a-lepreuve-de-lextreme-droite-15921",
    "sources": [
     {
@@ -472,6 +1685,18 @@
      "url": "https://www.ledauphine.com/politique/2026/09/07/un-coup-de-fouet-donne-a-l-extreme-droite-en-europe-pourquoi-la-victoire-de-l-afd-est-un-choc",
      "date": "2026-09-07T15:59-04:00",
      "auteur": "Luc Chaillot"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/europe/2026-09-07/elections-regionales-en-allemagne/le-chancelier-merz-choque-par-la-victoire-de-l-extreme-droite.php",
+     "auteur": "Antoine Lambroschini",
+     "date": "2026-09-07T08:06-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20260907-victoire-de-l-extr%C3%AAme-droite-en-allemagne-le-rn-ne-fera-pas-d-alliance-avec-l-afd-assure-s%C3%A9bastien-chenu",
+     "auteur": "Véronique Rigolet",
+     "date": "2026-09-07T10:38-04:00"
     }
    ],
    "resume": "Un score historique pour l'extrême droite, et un système bâti sur le compromis qui n'a plus de recette.",
@@ -489,7 +1714,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Finlande",
-   "medias": "Nice-Matin, La Libre.be, 20 Minutes, Ouest-France",
+   "medias": "Nice-Matin, La Libre.be, 20 Minutes, Ouest-France, Le Quotidien.lu, franceinfo",
    "url": "https://www.nicematin.com/societe/conflits/la-finlande-inaugure-une-cloture-de-200-kilometres-a-la-frontiere-avec-la-russie-10719681",
    "sources": [
     {
@@ -513,6 +1738,18 @@
      "media": "Ouest-France",
      "url": "https://www.ouest-france.fr/europe/finlande/nous-devons-etre-parfaitement-prepares-la-finlande-inaugure-une-cloture-de-200-km-a-sa-frontiere-avec-la-russie-40dc3e9c-aadd-11f1-a3f7-c4f38a0eaa1c",
      "date": "2026-09-07T13:58-04:00"
+    },
+    {
+     "media": "Le Quotidien.lu",
+     "url": "https://lequotidien.lu/monde/la-finlande-inaugure-une-cloture-de-200-km-a-la-frontiere-avec-la-russie/",
+     "date": "2026-09-07T13:10-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/russie/la-finlande-a-inaugure-une-cloture-de-200-km-a-la-frontiere-avec-la-russie_8181752.html",
+     "date": "2026-09-07T16:49-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "La Finlande blinde sa frontière est de barbelés et de capteurs, après avoir accusé Moscou de guerre hybride.",
@@ -530,7 +1767,7 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Syrie",
-   "medias": "France 24, TV5MONDE Info",
+   "medias": "France 24, TV5MONDE Info, Le Parisien",
    "url": "https://www.france24.com/fr/info-en-continu/20260907-l-aiea-affirme-que-la-syrie-d-assad-%C3%A9tait-sur-le-point-d-achever-un-r%C3%A9acteur-nucl%C3%A9aire",
    "sources": [
     {
@@ -544,6 +1781,11 @@
      "url": "https://information.tv5monde.com/international/laiea-affirme-que-la-syrie-dassad-etait-sur-le-point-dachever-un-reacteur-nucleaire-2836519",
      "auteur": "TV5MONDE Info",
      "date": "2026-09-07T11:55-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/syrie/il-ne-restait-plus-qua-charger-le-combustible-le-reacteur-nucleaire-decouvert-en-syrie-susceptible-dalimenter-un-programme-darmement-07-09-2026-DKW6TREA3BGWHNTG3BNF6EU4OE.php",
+     "date": "2026-09-07T10:13-04:00"
     }
    ],
    "resume": "Selon l'agence onusienne, il ne restait que le combustible à charger avant l'achèvement du réacteur.",
@@ -641,7 +1883,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada, États-Unis",
-   "medias": "CBC, La Presse, Les Affaires, RFI, The Globe and Mail",
+   "medias": "CBC, La Presse, Les Affaires, RFI, The Globe and Mail, Le Temps, Québecor",
    "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/guerre-commerciale/trump-menace-d-interdire-la-vente-d-avions-de-bombardier-aux-etats-unis.php",
    "sources": [
     {
@@ -672,9 +1914,19 @@
      "media": "CBC",
      "url": "https://www.cbc.ca/news/canada/trump-bombardier-truth-social-post-9.7335014?cmp=rss",
      "date": "2026-09-07T16:11-04:00"
+    },
+    {
+     "media": "Le Temps",
+     "url": "https://www.letemps.ch/monde/a-la-veille-de-l-entree-en-vigueur-des-nouveaux-droits-de-douane-canadiens-donald-trump-menace-de-stopper-les-ventes-de-bombardier-aux-etats-unis",
+     "date": "2026-09-07T18:39-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/donald-trump-sen-prend-aux-produits-de-bombardier",
+     "date": "2026-09-07T13:55-04:00"
     }
    ],
-   "resume": "Mise à jour, 22 h 28 — Cette fois, c'est la vente même des jets d'affaires aux États-Unis que Washington menace d'interdire.",
+   "resume": "Mise à jour, 22 h 28 — La menace sur les jets d'affaires précède de quelques heures de nouveaux contre-tarifs canadiens.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-07T22:28-04:00",
@@ -895,7 +2147,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Gaza, Israël",
-   "medias": "20 Minutes, Radio-Canada",
+   "medias": "20 Minutes, Radio-Canada, TV5MONDE, France 24",
    "url": "https://www.20minutes.fr/monde/etats-unis/4243430-20260907-gaza-haut-representant-redoute-solution-deux-etats-impossible",
    "sources": [
     {
@@ -908,6 +2160,16 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2281374/gaza-solution-deux-etats-impossible-cisjordanie-violences",
      "date": "2026-09-07T15:41-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/le-haut-representant-pour-gaza-redoute-que-la-solution-deux-etats-devienne-impossible-2836538",
+     "date": "2026-09-07T14:10-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260907-le-haut-repr%C3%A9sentant-pour-gaza-redoute-que-la-solution-%C3%A0-deux-etats-devienne-impossible",
+     "date": "2026-09-07T14:11-04:00"
     }
    ],
    "resume": "Le représentant du conseil de paix formé par Trump craint que l'escalade compromette durablement une cohabitation future.",
@@ -925,7 +2187,7 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "États-Unis",
-   "medias": "Euronews, La 1ère",
+   "medias": "Euronews, La 1ère, La Croix, Québecor",
    "url": "https://fr.euronews.com/2026/09/07/washington-doit-rendre-des-comptes-apres-la-mort-de-23-migrants-en-detention-affirme-lonu",
    "sources": [
     {
@@ -938,6 +2200,16 @@
      "media": "La 1ère",
      "url": "https://la1ere.franceinfo.fr/guadeloupe/migrants-morts-en-detention-l-onu-appelle-les-etats-unis-a-rendre-des-comptes-et-a-stopper-les-expulsions-vers-haiti-1736279.html",
      "date": "2026-09-07T15:48-04:00"
+    },
+    {
+     "media": "La Croix",
+     "url": "https://www.la-croix.com/international/migrants-morts-en-detention-l-onu-appelle-les-etats-unis-a-rendre-des-comptes-20260907",
+     "date": "2026-09-07T05:42-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/migrants-morts-en-detention-lonu-appelle-les-etats-unis-a--rendre-des-comptes",
+     "date": "2026-09-07T08:47-04:00"
     }
    ],
    "resume": "Selon le haut-commissaire Volker Türk, quatre décès de plus depuis juin justifient un arrêt des expulsions.",
@@ -986,7 +2258,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "France, Union européenne",
-   "medias": "franceinfo, CNEWS",
+   "medias": "franceinfo, CNEWS, Libération, France 24",
    "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/emmanuel-macron-demande-a-ursula-von-der-leyen-une-interdiction-europeenne-des-reseaux-sociaux-aux-moins-de-15-ans_8181692.html",
    "sources": [
     {
@@ -999,6 +2271,17 @@
      "url": "https://www.cnews.fr/monde/2026-09-07/emmanuel-macron-demande-ursula-von-der-leyen-une-interdiction-europeenne-des",
      "auteur": "CNEWS avec AFP",
      "date": "2026-09-07T17:19-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/politique/interdiction-des-reseaux-sociaux-au-moins-de-15-ans-emmanuel-macron-demande-a-ursula-von-der-leyen-un-nouveau-texte-europeen-20260907_UOW5FLDDY5BM3IAS77IDC4KEJ4/",
+     "auteur": "AFP",
+     "date": "2026-09-07T14:19-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/europe/20260907-interdiction-des-r%C3%A9seaux-sociaux-aux-moins-de-15-ans-emmanuel-macron-r%C3%A9clame-un-texte-europ%C3%A9en",
+     "date": "2026-09-07T14:31-04:00"
     }
    ],
    "resume": "Le président français agit après la censure d'une loi similaire par le Conseil constitutionnel en août.",
@@ -1265,7 +2548,7 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "Ukraine",
-   "medias": "RFI, franceinfo, Kyiv Independent, Kyiv Post",
+   "medias": "RFI, franceinfo, Kyiv Independent, Kyiv Post, BBC, The Times",
    "url": "https://www.rfi.fr/fr/europe/20260907-ukraine-le-procureur-g%C3%A9n%C3%A9ral-d%C3%A9missionne-apr%C3%A8s-des-accusations-de-corruption",
    "sources": [
     {
@@ -1289,6 +2572,17 @@
      "url": "https://www.kyivpost.com/post/83978",
      "date": "2026-09-07T18:32-04:00",
      "auteur": "Sevinj Osmanqizi"
+    },
+    {
+     "media": "BBC",
+     "url": "https://www.bbc.com/news/articles/c780nlgyd79o",
+     "date": "2026-09-07T21:07-04:00",
+     "auteur": "Tabby Wilson"
+    },
+    {
+     "media": "The Times",
+     "url": "https://www.thetimes.com/world/russia-ukraine-war/article/ukraines-prosecutor-general-resigns-corruption-t8b862swt",
+     "date": "2026-09-07T21:35-04:00"
     }
    ],
    "resume": "Deux agences anticorruption disent avoir démantelé un réseau qui protégeait des centres d'appels frauduleux.",
@@ -1386,7 +2680,7 @@
    "cahier": "savoirs",
    "rubrique": "sante",
    "territoire": "",
-   "medias": "La Presse",
+   "medias": "La Presse, France 24",
    "url": "https://www.lapresse.ca/actualites/sciences/2026-09-07/selon-une-etude/le-tabagisme-passif-responsable-de-plus-de-1-6-million-de-deces-dans-le-monde-en-2023.php",
    "sources": [
     {
@@ -1394,6 +2688,11 @@
      "url": "https://www.lapresse.ca/actualites/sciences/2026-09-07/selon-une-etude/le-tabagisme-passif-responsable-de-plus-de-1-6-million-de-deces-dans-le-monde-en-2023.php",
      "date": "2026-09-07T18:46-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-le-tabagisme-passif-responsable-de-plus-de-1-6-million-de-d%C3%A9c%C3%A8s-dans-le-monde-selon-une-%C3%A9tude",
+     "date": "2026-09-08T02:23-04:00"
     }
    ],
    "resume": "Près de 2,7 milliards de personnes y seraient exposées, la prévalence augmentant en Afrique et au Moyen-Orient.",
@@ -1510,7 +2809,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Ukraine",
-   "medias": "The Guardian, Kyiv Post, BBC, Agence Anadolu",
+   "medias": "The Guardian, Kyiv Post, BBC, Agence Anadolu, The Independent",
    "url": "https://www.theguardian.com/world/2026/sep/08/ukraine-war-briefing-new-political-turmoil-in-kyiv-as-prosecutor-general-resigns",
    "resume": "Reste à savoir combien d'autres têtes tomberont encore dans l'appareil sécuritaire ukrainien.",
    "photo": "",
@@ -1539,6 +2838,12 @@
      "url": "https://www.aa.com.tr/en/russia-ukraine-war/ukraine-s-prosecutor-general-resigns-amid-probe-into-alleged-protection-of-fraudulent-call-centers/4050194",
      "auteur": "Elena Teslova",
      "date": "2026-09-07T21:17-04:00"
+    },
+    {
+     "media": "The Independent",
+     "url": "https://www.independent.co.uk/news/world/europe/ukraine-war-prosecutor-general-resigns-kravchenko-zelensky-b3046375.html",
+     "date": "2026-09-08T04:02-04:00",
+     "auteur": "Reuters"
     }
    ],
    "permalien": "le-procureur-general-de-l-ukraine-demissionne-en-pleine-enqu-b5fa59",
@@ -1552,7 +2857,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Kyiv (Ukraine)",
-   "medias": "Radio-Canada, France 24, Ukrinform, Le Parisien",
+   "medias": "Radio-Canada, France 24, Ukrinform, Le Parisien, Libération, La Presse",
    "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
    "resume": "Les missiles reprennent alors que Kyiv dit vouloir remettre les pourparlers sur les rails.\n\nMise à jour, 3 h 30 — dans un entretien à Axios, Volodymyr Zelensky précise miser sur une désescalade dès cet hiver, jugeant que Vladimir Poutine a intérêt à ménager Donald Trump avant les élections de mi-mandat américaines de novembre.",
    "photo": "",
@@ -1579,6 +2884,18 @@
      "media": "Le Parisien",
      "url": "https://www.leparisien.fr/international/ukraine/une-desescalade-cet-hiver-les-espoirs-de-volodymyr-zelensky-au-sujet-de-linvasion-russe-en-ukraine-08-09-2026-RHR7MT53Z5EZFB655AM7ZUW3XQ.php",
      "date": "2026-09-07T23:43-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/la-russie-reprend-ses-frappes-sur-kyiv-apres-trois-jours-de-treve-zelensky-evoque-une-possible-desescalade-cet-hiver-20260908_JJUSFCLL3JGURJFIQBVVMMKCSY/",
+     "auteur": "AFP",
+     "date": "2026-09-08T03:04-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/europe/2026-09-07/guerre-en-ukraine/la-russie-reprend-ses-frappes-sur-kyiv-apres-trois-jours-de-treve.php",
+     "date": "2026-09-07T23:58-04:00",
+     "auteur": "Florent Vergnes"
     }
    ],
    "permalien": "la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344",
@@ -1629,7 +2946,7 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "Mexique",
-   "medias": "France 24",
+   "medias": "France 24, Québecor, TV5MONDE",
    "url": "https://www.france24.com/fr/info-en-continu/20260908-mexique-ouverture-du-proc%C3%A8s-du-meurtre-de-trois-surfeurs-australiens-et-am%C3%A9ricain",
    "resume": "Deux ans après leur disparition, les parents des victimes affrontent enfin les accusés devant un tribunal mexicain.",
    "photo": "",
@@ -1641,6 +2958,16 @@
      "url": "https://www.france24.com/fr/info-en-continu/20260908-mexique-ouverture-du-proc%C3%A8s-du-meurtre-de-trois-surfeurs-australiens-et-am%C3%A9ricain",
      "auteur": "Agence France-Presse",
      "date": "2026-09-07T20:31-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/mexique--ouverture-du-proces-pour-le-meurtre-de-trois-surfeurs-etrangers-en-2024",
+     "date": "2026-09-07T13:17-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/mexique-ouverture-du-proces-pour-le-meurtre-de-trois-surfeurs-etrangers-en-2024-2836561",
+     "date": "2026-09-07T15:55-04:00"
     }
    ],
    "permalien": "au-mexique-le-proces-des-meurtriers-presumes-de-trois-surfeu-bf24b3",
@@ -1654,7 +2981,7 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "France",
-   "medias": "RFI",
+   "medias": "RFI, France 24, franceinfo",
    "url": "https://www.rfi.fr/fr/france/20260908-france-ext%C3%A9nu%C3%A9s-par-des-incendies-historiques-et-par-le-manque-de-moyens-les-pompiers-entrent-en-gr%C3%A8ve",
    "resume": "Épuisés après un été d'incendies historiques, les pompiers réclament plus de moyens et 21 000 recrues.",
    "photo": "",
@@ -1666,6 +2993,16 @@
      "url": "https://www.rfi.fr/fr/france/20260908-france-ext%C3%A9nu%C3%A9s-par-des-incendies-historiques-et-par-le-manque-de-moyens-les-pompiers-entrent-en-gr%C3%A8ve",
      "auteur": "",
      "date": "2026-09-07T21:24-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-apr%C3%A8s-un-%C3%A9t%C3%A9-intense-les-pompiers-appel%C3%A9s-%C3%A0-une-mobilisation-nationale",
+     "date": "2026-09-08T02:15-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/nous-sommes-a-bout-les-pompiers-en-greve-reclament-plus-de-moyens_8182661.html",
+     "date": "2026-09-08T03:47-04:00"
     }
    ],
    "permalien": "en-france-l-intersyndicale-des-pompiers-lance-un-preavis-de-bb2244",
@@ -2334,7 +3671,7 @@
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Miami (Floride)",
-   "medias": "20 Minutes, Europe 1, France 24, Global News, La Presse, Le Figaro, Le Parisien, Le Soleil, Ouest-France, Radio-Canada, TV5MONDE, The Verge, franceinfo",
+   "medias": "20 Minutes, Europe 1, France 24, Global News, La Presse, Le Figaro, Le Parisien, Le Soleil, Ouest-France, Radio-Canada, TV5MONDE, The Verge, franceinfo, Le Dauphiné Libéré",
    "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
    "sources": [
     {
@@ -2419,12 +3756,18 @@
      "media": "Le Parisien",
      "url": "https://www.leparisien.fr/international/etats-unis/victimes-dans-les-vehicules-vitesse-trop-elevee-lenquete-sur-lavion-cargo-damazon-accidente-a-miami-avance-la-boite-noire-recuperee-08-09-2026-R5P75CWQJRFK3OFZXWPODPQK2E.php",
      "date": "2026-09-07T19:10-04:00"
+    },
+    {
+     "media": "Le Dauphiné Libéré",
+     "url": "https://www.ledauphine.com/faits-divers-justice/2026/09/08/avion-cargo-d-amazon-sorti-de-piste-a-miami-la-boite-noire-recuperee-l-enquete-se-poursuit",
+     "date": "2026-09-08T02:10-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
-   "resume": "Mise à jour, 20 h 38 — Les enquêteurs fédéraux ont récupéré la boîte noire de l'appareil accidenté.",
+   "resume": "Mise à jour, 2 h 10 — Les deux enregistreurs de vol ont été récupérés, l'appareil étant exploité par la compagnie 21 Air.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-07T20:38-04:00",
+   "horodate": "2026-09-08T02:10-04:00",
    "permalien": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259",
    "image_auto": "aucune",
    "_volet": "report",
