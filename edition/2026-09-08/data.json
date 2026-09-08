@@ -4,6 +4,7 @@
   "continu",
   "economie-opinions",
   "elections",
+  "hors-rss",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -1258,6 +1259,340 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-08.json",
    "_slug": "le-pq-promet-de-mettre-fin-aux-droits-exclusifs-du-dernier-c-20b17a"
+  },
+  {
+   "titre": "SNAP Québec presse les partis de respecter la cible de 30 % d'aires protégées d'ici 2030",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-08/aires-protegees/une-cible-qu-il-faudra-atteindre-coute-que-coute.php",
+   "resume": "Il reste quatre ans, et surtout 200 000 kilomètres carrés à protéger avant l'échéance.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:21-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-08/aires-protegees/une-cible-qu-il-faudra-atteindre-coute-que-coute.php",
+     "date": "2026-09-08T10:21-04:00",
+     "auteur": "Alain Branchaud"
+    }
+   ],
+   "permalien": "snap-quebec-presse-les-partis-de-respecter-la-cible-de-30-d-15f394",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "snap-quebec-presse-les-partis-de-respecter-la-cible-de-30-d-15f394"
+  },
+  {
+   "titre": "Un texte de Presse-toi à gauche critique la prudence électorale de la FTQ, la CSN et la CSQ",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Presse-toi à gauche",
+   "url": "https://www.pressegauche.org/Des-centrales-syndicales-non-partisanes",
+   "resume": "Trois centrales, un slogan d'autrefois, et des communiqués électoraux presque interchangeables cette année.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:21-04:00",
+   "sources": [
+    {
+     "media": "Presse-toi à gauche",
+     "url": "https://www.pressegauche.org/Des-centrales-syndicales-non-partisanes",
+     "date": "2026-09-08T10:21-04:00",
+     "auteur": "Camille Popinot, Paco"
+    }
+   ],
+   "permalien": "un-texte-de-presse-toi-a-gauche-critique-la-prudence-elector-919562",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "un-texte-de-presse-toi-a-gauche-critique-la-prudence-elector-919562"
+  },
+  {
+   "titre": "Au Bas-Saint-Laurent, une intervenante dénonce l'usage de l'immigration comme bouc émissaire en campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/info-reveil/episodes/1223208/mardi-8-septembre-2026",
+   "resume": "Logement, main-d'œuvre, éducation : trois crises que l'immigration ne serait pas censée porter.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:21-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/info-reveil/episodes/1223208/mardi-8-septembre-2026",
+     "date": "2026-09-08T10:21-04:00",
+     "auteur": ""
+    }
+   ],
+   "permalien": "au-bas-saint-laurent-une-intervenante-denonce-l-usage-de-l-i-1a11e9",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "au-bas-saint-laurent-une-intervenante-denonce-l-usage-de-l-i-1a11e9"
+  },
+  {
+   "titre": "Dans Richelieu, un chroniqueur local anticipe un duel serré entre le PQ et la CAQ",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Richelieu)",
+   "medias": "Les 2 Rives",
+   "url": "https://les2rives.com/vrai-debut/",
+   "resume": "Chaque vote rapporte 1,99 $ à un parti, même sans espoir de gagner.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:21-04:00",
+   "sources": [
+    {
+     "media": "Les 2 Rives",
+     "url": "https://les2rives.com/vrai-debut/",
+     "date": "2026-09-08T10:21-04:00",
+     "auteur": "Deux Rives"
+    }
+   ],
+   "permalien": "dans-richelieu-un-chroniqueur-local-anticipe-un-duel-serre-e-d34585",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "dans-richelieu-un-chroniqueur-local-anticipe-un-duel-serre-e-d34585"
+  },
+  {
+   "titre": "Six entreprises de voyage visées par une demande d'action collective sur des prix affichés",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/class-action-seeks-damages-for-quebec-travellers-over-alleged-vacation-packages-pricing/",
+   "resume": "Le prix affiché à l'écran vaut-il contrat une fois le paiement passé?",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/class-action-seeks-damages-for-quebec-travellers-over-alleged-vacation-packages-pricing/",
+     "auteur": "Robin Della Corte",
+     "date": "2026-09-08T10:14-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:14-04:00",
+   "permalien": "six-entreprises-de-voyage-visees-par-une-demande-d-action-co-2c6ed7",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-08.json",
+   "_slug": "six-entreprises-de-voyage-visees-par-une-demande-d-action-co-2c6ed7"
+  },
+  {
+   "titre": "Après huit ans au Québec, une famille indienne est renvoyée alors qu'elle a demandé une révision judiciaire",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/quebec-family-forced-to-move-back-to-india-after-8-years/",
+   "resume": "Un camionneur déclaré essentiel pendant la pandémie, un fils de quatorze ans qui n'a connu que le Québec.",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/quebec-family-forced-to-move-back-to-india-after-8-years/",
+     "auteur": "Swidda Rassy",
+     "date": "2026-09-08T10:14-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:14-04:00",
+   "permalien": "apres-huit-ans-au-quebec-une-famille-indienne-est-renvoyee-a-343317",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-08.json",
+   "_slug": "apres-huit-ans-au-quebec-une-famille-indienne-est-renvoyee-a-343317"
+  },
+  {
+   "titre": "Enquête pour incendie criminel après deux véhicules brûlés à Saint-Léonard et à Montréal-Est",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Saint-Léonard et Montréal-Est (Montréal)",
+   "medias": "CTV News Montréal",
+   "url": "https://www.ctvnews.ca/montreal/article/arson-squad-investigating-2-vehicle-fires-at-2-residences-40-minutes-apart/",
+   "resume": "Quinze kilomètres et quarante minutes séparent les deux brasiers, allumés devant des résidences endormies.",
+   "sources": [
+    {
+     "media": "CTV News Montréal",
+     "url": "https://www.ctvnews.ca/montreal/article/arson-squad-investigating-2-vehicle-fires-at-2-residences-40-minutes-apart/",
+     "date": "2026-09-08T10:14-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:14-04:00",
+   "permalien": "enquete-pour-incendie-criminel-apres-deux-vehicules-brules-a-6fbfef",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-08.json",
+   "_slug": "enquete-pour-incendie-criminel-apres-deux-vehicules-brules-a-6fbfef"
+  },
+  {
+   "titre": "Hampstead invite ses résidents à baptiser le parc aménagé sur un terrain vert requalifié",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Hampstead (Montréal)",
+   "medias": "The Suburban",
+   "url": "https://www.thesuburban.com/news/city_news/hampstead-seeking-suggestions-for-new-park-name/article_4cb45310-c7c5-4b6d-8bfb-bdd350ffec7e.html",
+   "resume": "Un terrain vert qu'un ancien maire disait promis à des promoteurs cherche aujourd'hui son nom.",
+   "sources": [
+    {
+     "media": "The Suburban",
+     "url": "https://www.thesuburban.com/news/city_news/hampstead-seeking-suggestions-for-new-park-name/article_4cb45310-c7c5-4b6d-8bfb-bdd350ffec7e.html",
+     "auteur": "Joel Goldenberg",
+     "date": "2026-09-08T10:14-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:14-04:00",
+   "permalien": "hampstead-invite-ses-residents-a-baptiser-le-parc-amenage-su-6f39d9",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-08.json",
+   "_slug": "hampstead-invite-ses-residents-a-baptiser-le-parc-amenage-su-6f39d9"
+  },
+  {
+   "titre": "Le centre de services scolaire de la Beauce-Etchemin ajuste chaque jour son nouveau modèle de transport",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Beauce-Etchemins (Chaudière-Appalaches)",
+   "medias": "La Voix du Sud",
+   "url": "https://www.lavoixdusud.com/actualites/beauce-etchemins-le-transport-scolaire-continue-de-faire-reagir/",
+   "resume": "Combien de familles attendent encore une place dans un circuit qui se réécrit chaque matin?",
+   "sources": [
+    {
+     "media": "La Voix du Sud",
+     "url": "https://www.lavoixdusud.com/actualites/beauce-etchemins-le-transport-scolaire-continue-de-faire-reagir/",
+     "auteur": "Mathieu Fournier",
+     "date": "2026-09-08T10:14-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:14-04:00",
+   "permalien": "le-centre-de-services-scolaire-de-la-beauce-etchemin-ajuste-8acfdc",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-08.json",
+   "_slug": "le-centre-de-services-scolaire-de-la-beauce-etchemin-ajuste-8acfdc"
+  },
+  {
+   "titre": "Saint-Charles-de-Bellechasse accueille la première école publique Freinet de Chaudière-Appalaches",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Saint-Charles-de-Bellechasse (Chaudière-Appalaches)",
+   "medias": "La Voix du Sud",
+   "url": "https://www.lavoixdusud.com/actualites/saint-charles-lecole-de-letincelle-devient-ecole-freinet/",
+   "resume": "Deux ans de chantier, soixante-trois élèves, et une pédagogie centenaire qui entre dans le réseau public.",
+   "sources": [
+    {
+     "media": "La Voix du Sud",
+     "url": "https://www.lavoixdusud.com/actualites/saint-charles-lecole-de-letincelle-devient-ecole-freinet/",
+     "auteur": "Éric Gourde",
+     "date": "2026-09-08T10:14-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:14-04:00",
+   "permalien": "saint-charles-de-bellechasse-accueille-la-premiere-ecole-pub-9c18c9",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-08.json",
+   "_slug": "saint-charles-de-bellechasse-accueille-la-premiere-ecole-pub-9c18c9"
+  },
+  {
+   "titre": "Presque tous les vergers de l'île d'Orléans ont subi la brûlure bactérienne, constate une agronome",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Sainte-Famille, île d'Orléans (Capitale-Nationale)",
+   "medias": "Autour de l'île",
+   "url": "https://autourdelile.com/2026/09/la-brulure-bacterienne-une-menace-pour-les-pommiers/",
+   "resume": "À Sainte-Famille, un verger entier a été abattu récemment à cause d'une bactérie.",
+   "sources": [
+    {
+     "media": "Autour de l'île",
+     "url": "https://autourdelile.com/2026/09/la-brulure-bacterienne-une-menace-pour-les-pommiers/",
+     "auteur": "Marc Cochrane",
+     "date": "2026-09-08T10:14-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:14-04:00",
+   "permalien": "presque-tous-les-vergers-de-l-ile-d-orleans-ont-subi-la-brul-ecae54",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-08.json",
+   "_slug": "presque-tous-les-vergers-de-l-ile-d-orleans-ont-subi-la-brul-ecae54"
+  },
+  {
+   "titre": "Curieux Bégin consacrera un épisode à l'île d'Orléans et à cinq de ses producteurs",
+   "cahier": "quebec",
+   "rubrique": "cinema",
+   "territoire": "Île d'Orléans (Capitale-Nationale)",
+   "medias": "Autour de l'île",
+   "url": "https://autourdelile.com/2026/09/curieux-begin-met-lile-dorleans-a-lhonneur/",
+   "resume": "Les producteurs filmés en juillet attendent maintenant ce qu'une soirée de télévision peut changer.",
+   "sources": [
+    {
+     "media": "Autour de l'île",
+     "url": "https://autourdelile.com/2026/09/curieux-begin-met-lile-dorleans-a-lhonneur/",
+     "auteur": "Khady Samb",
+     "date": "2026-09-08T10:14-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:14-04:00",
+   "permalien": "curieux-begin-consacrera-un-episode-a-l-ile-d-orleans-et-a-c-42ec41",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-08.json",
+   "_slug": "curieux-begin-consacrera-un-episode-a-l-ile-d-orleans-et-a-c-42ec41"
+  },
+  {
+   "titre": "Beauce-Sud veut faire trier ses résidus alimentaires par robot, dans des sacs de couleur",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Beauce-Sud (Chaudière-Appalaches)",
+   "medias": "L'Éclaireur Progrès",
+   "url": "https://www.leclaireurprogres.ca/actualites/ricbs-trier-les-dechets-pour-mieux-les-valoriser/",
+   "resume": "Un sac coloré au fond du bac à ordures, et un robot qui le repère au tri.",
+   "sources": [
+    {
+     "media": "L'Éclaireur Progrès",
+     "url": "https://www.leclaireurprogres.ca/actualites/ricbs-trier-les-dechets-pour-mieux-les-valoriser/",
+     "auteur": "Mathieu Fournier",
+     "date": "2026-09-08T10:14-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:14-04:00",
+   "permalien": "beauce-sud-veut-faire-trier-ses-residus-alimentaires-par-rob-87ad64",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-08.json",
+   "_slug": "beauce-sud-veut-faire-trier-ses-residus-alimentaires-par-rob-87ad64"
+  },
+  {
+   "titre": "Le Cégep de Lanaudière signe une entente de mobilité avec une haute école de Namur, en Belgique",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Terrebonne (Lanaudière)",
+   "medias": "La Revue",
+   "url": "https://www.larevue.qc.ca/article/actualites/education/le-cegep-de-lanaudiere-signe-un-partenariat-avec-henallux/",
+   "resume": "Le jumelage de Terrebonne et de Namur descend du protocole municipal jusqu'aux salles de classe.",
+   "sources": [
+    {
+     "media": "La Revue",
+     "url": "https://www.larevue.qc.ca/article/actualites/education/le-cegep-de-lanaudiere-signe-un-partenariat-avec-henallux/",
+     "date": "2026-09-08T10:14-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:14-04:00",
+   "permalien": "le-cegep-de-lanaudiere-signe-une-entente-de-mobilite-avec-un-f260cb",
+   "_volet": "hors-rss",
+   "_fichier": "revue-hors-rss-2026-09-08.json",
+   "_slug": "le-cegep-de-lanaudiere-signe-une-entente-de-mobilite-avec-un-f260cb"
   },
   {
    "titre": "L'Ukraine frappe un pont ferroviaire utilisé par la logistique militaire russe en Crimée occupée",
