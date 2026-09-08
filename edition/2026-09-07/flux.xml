@@ -6,8 +6,17 @@
 <atom:link href="https://entreelibre.ca/flux.xml" rel="self" type="application/rss+xml"/>
 <description>Entrée-Libre — revue de presse, l'actualité par thème, mise à jour quatre fois par jour. 318 sujets, 148 médias.</description>
 <language>fr-CA</language>
-<lastBuildDate>Mon, 07 Sep 2026 20:38:00 -0400</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 21:21:00 -0400</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>En tournée dans le Bas-Saint-Laurent, St-Pierre Plamondon promet plus d&#x27;aide à domicile pour les aînés</title>
+<link>https://entreelibre.ca/edition/2026-09-07/a/en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile.html</link>
+<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-07/a/en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile.html</guid>
+<pubDate>Mon, 07 Sep 2026 21:21:00 -0400</pubDate>
+<description>Mise à jour, 21 h 21 — En 2022 il visait trois fois plus, et la CAQ promet maintenant presque la même somme.</description>
+<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
+<category>Élections Québec 2026</category><category>Santé et services sociaux</category>
+</item>
 <item>
 <title>Les contre-tarifs canadiens contre les États-Unis entrent en vigueur mardi</title>
 <link>https://entreelibre.ca/edition/2026-09-07/a/les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a.html</link>
@@ -502,15 +511,6 @@
 <description>Mise à jour, 15 h 53 — OpenAI reconnaît maintenant l&#x27;incident et plaide pour des règles plus claires sur la divulgation de tels comportements.</description>
 <source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
 <category>International</category><category>Technologies et numérique</category><enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg" type="image/jpeg" length="0"/>
-</item>
-<item>
-<title>En tournée dans le Bas-Saint-Laurent, St-Pierre Plamondon promet plus d&#x27;aide à domicile pour les aînés</title>
-<link>https://entreelibre.ca/edition/2026-09-07/a/en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile.html</link>
-<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-07/a/en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile.html</guid>
-<pubDate>Mon, 07 Sep 2026 14:22:00 -0400</pubDate>
-<description>Reste à savoir combien ce nouveau soutien coûtera, et qui pourra vraiment en profiter.</description>
-<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
-<category>Élections Québec 2026</category><category>Santé et services sociaux</category>
 </item>
 <item>
 <title>Duhaime propose des retouches au projet de loi 3, en visite aux locaux québécois de la CSN</title>

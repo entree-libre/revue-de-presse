@@ -804,7 +804,8 @@
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/07/jaguar-land-rover-supprime-4000postes-apres-plusieurs-mois-cauchemardesques",
-     "date": "2026-09-07T09:15-04:00"
+     "date": "2026-09-07T09:15-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "Un constructeur secouru par Londres il y a quelques mois, et qui cherche maintenant à maigrir pour rivaliser.",
@@ -1231,7 +1232,8 @@
     {
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/07/crise-automobile-volkswagen-se-tourne-vers-la-defense-pour-sauver-une-usine-allemande",
-     "date": "2026-09-07T09:58-04:00"
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "medias": "The Globe and Mail, Les Affaires, Le Journal de Montréal",
@@ -3894,12 +3896,12 @@
    "cahier": "elections",
    "rubrique": "sante",
    "territoire": "Québec (Rivière-du-Loup)",
-   "medias": "Infodimanche",
+   "medias": "Infodimanche, La Presse",
    "url": "https://www.infodimanche.com/elections-quebec-2026/paul-st-pierre-plamondon-fait-campagne-a-riviere-du-loup/",
-   "resume": "Reste à savoir combien ce nouveau soutien coûtera, et qui pourra vraiment en profiter.",
+   "resume": "Mise à jour, 21 h 21 — En 2022 il visait trois fois plus, et la CAQ promet maintenant presque la même somme.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-07T14:22-04:00",
+   "horodate": "2026-09-07T21:21-04:00",
    "sources": [
     {
      "media": "Parti québécois (communiqué)",
@@ -3911,6 +3913,12 @@
      "url": "https://www.infodimanche.com/elections-quebec-2026/paul-st-pierre-plamondon-fait-campagne-a-riviere-du-loup/",
      "auteur": "Marc-Antoine Paquin",
      "date": "2026-09-07T14:22-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-07/le-pq-veut-investir-1-3-milliard-en-soutien-a-domicile-pour-les-aines.php",
+     "auteur": "Fanny Lévesque",
+     "date": "2026-09-07T19:06-04:00"
     }
    ],
    "image_auto": "aucune",
