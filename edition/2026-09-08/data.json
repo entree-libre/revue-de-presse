@@ -1,9 +1,37 @@
 {
  "date": "2026-09-08",
  "volets": [
+  "elections",
   "report"
  ],
  "articles": [
+  {
+   "titre": "En Outaouais, les urgences de Hull deviennent un enjeu électoral",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec (Hull)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1007108/nouvel-hopital-nerf-campagne-outaouais",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007108/nouvel-hopital-nerf-campagne-outaouais",
+     "auteur": "Sandrine Vieira",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "resume": "Un chantier commence à peine, et les patients de Hull n'ont plus la patience d'attendre.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/View_of_Terrasses_de_la_Chaudi%C3%A8re_from_Ottawa_%28cropped%29.jpg/1280px-View_of_Terrasses_de_la_Chaudi%C3%A8re_from_Ottawa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Hull — vue d'illustration.",
+   "horodate": "2026-09-08T03:19-04:00",
+   "permalien": "en-outaouais-les-urgences-de-hull-deviennent-un-enjeu-electo-652c1a",
+   "photo_auteur": "Jon Kolbert",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "territoire:Hull",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "en-outaouais-les-urgences-de-hull-deviennent-un-enjeu-electo-652c1a"
+  },
   {
    "titre": "Enlevé en Colombie, un caporal de la Légion étrangère échappe à ses ravisseurs et passe sous protection militaire",
    "cahier": "international",
