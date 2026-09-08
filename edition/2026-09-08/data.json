@@ -236,7 +236,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "États-Unis",
-   "medias": "Le JDD, CNEWS, Le Figaro, L'Indépendant, 20 Minutes, Le Devoir, Le Parisien",
+   "medias": "Le JDD, CNEWS, Le Figaro, L'Indépendant, 20 Minutes, Le Devoir, Le Parisien, Martinique la 1ère, Global News",
    "url": "https://www.lejdd.fr/International/donald-trump-diffuse-une-carte-des-etats-unis-englobant-les-antilles-francaises-le-mexique-et-le-canada-182874",
    "sources": [
     {
@@ -277,6 +277,16 @@
      "media": "Le Parisien",
      "url": "https://www.leparisien.fr/international/etats-unis/donald-trump-publie-une-carte-des-etats-unis-qui-annexe-la-guadeloupe-la-martinique-et-saint-martin-la-france-doit-elle-vraiment-sinquieter-08-09-2026-NY6R35LKINCELBQGU2VRRCRUKM.php",
      "date": "2026-09-08T12:05-04:00"
+    },
+    {
+     "media": "Martinique la 1ère",
+     "url": "https://www.martinique.franceantilles.fr/actualite/politique/trump-publie-une-carte-des-etats-unis-qui-engloutit-la-martinique-et-les-antilles-francaises-1092365.php",
+     "date": "2026-09-08T12:41-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12050918/iceland-summons-u-s-ambassador-over-trump-map-post/",
+     "date": "2026-09-08T13:19-04:00"
     }
    ],
    "resume": "Mise à jour, 12 h 05 — La présidente mexicaine Claudia Sheinbaum promet que son pays ne sera ni colonie ni protectorat.",
@@ -626,7 +636,7 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Cisjordanie",
-   "medias": "Le Devoir, Libération, Le Monde, France 24, RFI",
+   "medias": "Le Devoir, Libération, Le Monde, France 24, RFI, BFM, franceinfo",
    "url": "https://www.ledevoir.com/monde/moyen-orient/1007237/canada-11-autres-pays-veulent-sanctionner-commerce-colonies-israeliennes",
    "sources": [
     {
@@ -658,12 +668,22 @@
      "url": "https://www.rfi.fr/fr/europe/20260908-cisjordanie-occup%C3%A9e-12-pays-dont-la-france-et-le-royaume-uni-veulent-sanctionner-le-commerce-avec-les-colonies-isra%C3%A9liennes",
      "date": "2026-09-08T09:15-04:00",
      "auteur": "RFI avec AFP"
+    },
+    {
+     "media": "BFM",
+     "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-marco-rubio-denonce-les-tensions-en-cisjordanie-mais-exclut-des-sanctions-contre-la-colonisation-israelienne_VN-202609080831.html",
+     "date": "2026-09-08T14:09-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/cisjordanie-le-royaume-uni-accuse-israel-de-nettoyage-ethnique_8183600.html",
+     "date": "2026-09-08T12:47-04:00"
     }
    ],
-   "resume": "Mise à jour, 12 h 06 — Le Royaume-Uni interdit désormais l'importation de produits des colonies, et la France dit emboîter le pas.",
+   "resume": "Mise à jour, 14 h 09 — Washington exclut toute sanction pendant qu'Israël ferme en représailles son consulat à Jérusalem.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T12:06-04:00",
+   "horodate": "2026-09-08T14:09-04:00",
    "permalien": "douze-pays-dont-le-canada-veulent-sanctionner-le-comme-4dc4ba",
    "image_auto": "aucune",
    "entree": "2026-09-08T11:40-04:00",
@@ -954,7 +974,7 @@
    "cahier": "quebec",
    "rubrique": "societe",
    "territoire": "Uashat Mak Mani-Utenam (Côte-Nord)",
-   "medias": "Le Nord-Côtier, Le Manic",
+   "medias": "Le Nord-Côtier, Le Manic, Le Haute Côte-Nord",
    "url": "https://lenord-cotier.com/2026/09/08/fashion-week-de-uashat-mak-mani-utenam-a-paris/",
    "sources": [
     {
@@ -968,6 +988,12 @@
      "url": "https://www.lemanic.ca/2026/09/08/fashion-week-de-uashat-mak-mani-utenam-a-paris/",
      "auteur": "Roseline Pelletier",
      "date": "2026-09-08T12:31-04:00"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/08/fashion-week-de-uashat-mak-mani-utenam-a-paris/",
+     "date": "2026-09-08T12:31-04:00",
+     "auteur": "Roseline Pelletier"
     }
    ],
    "resume": "Des créations inspirées des savoir-faire innus s'apprêtent à défiler sur une grande scène parisienne.",
@@ -986,7 +1012,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Iran",
-   "medias": "franceinfo, Al-Manar",
+   "medias": "franceinfo, Al-Manar, CNEWS",
    "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-dans-le-detroit-d-ormuz_8183429.html",
    "sources": [
     {
@@ -999,6 +1025,12 @@
      "url": "https://french.almanar.com.lb/article/123467/",
      "auteur": "Leila Mazboudi",
      "date": "2026-09-08T12:20-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-08/guerre-au-moyen-orient-liran-affirme-avoir-saisi-un-drone-sous-marin-americain",
+     "date": "2026-09-08T12:56-04:00",
+     "auteur": "Khalil Rajehi"
     }
    ],
    "resume": "L'incident survient alors que le détroit, verrouillé par Téhéran, reste au cœur des tensions régionales.",
@@ -1167,6 +1199,332 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-08.json",
    "_slug": "des-chirurgiens-decouvrent-un-arthropode-toujours-vivant-dan-84a210"
+  },
+  {
+   "titre": "Le Canada a déjà franchi un point de non-retour climatique, selon un rapport fédéral",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Canada",
+   "medias": "Acadie Nouvelle",
+   "url": "https://www.acadienouvelle.com/etc/dans-votre-nature/2026/09/08/les-changements-climatiques-au-canada-sont-desormais-irreversibles-dit-un-rapport/",
+   "sources": [
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/etc/dans-votre-nature/2026/09/08/les-changements-climatiques-au-canada-sont-desormais-irreversibles-dit-un-rapport/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-08T12:26-04:00"
+    }
+   ],
+   "resume": "Un rapport fédéral prévoit une hausse d'au moins 3,5 °C d'ici la fin du siècle.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:26-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "le-canada-a-deja-franchi-un-point-de-non-retour-climatique-s-c9e0d9",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-canada-a-deja-franchi-un-point-de-non-retour-climatique-s-c9e0d9"
+  },
+  {
+   "titre": "Plus de 10 000 Néo-Écossais réclament le retour de l'interdiction sur l'uranium",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Nouvelle-Écosse",
+   "medias": "Global News, Acadie Nouvelle",
+   "url": "https://globalnews.ca/news/12051004/nova-scotia-uranium-mining-petition/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12051004/nova-scotia-uranium-mining-petition/",
+     "date": "2026-09-08T12:34-04:00"
+    },
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/atlantique/2026/09/08/de-plus-en-plus-de-neo-ecossais-veulent-interdire-a-nouveau-lexploitation-duranium/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-08T13:42-04:00"
+    }
+   ],
+   "resume": "Une pétition en ligne relance le débat sur l'exploitation minière de l'uranium dans la province.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:42-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "plus-de-10-000-neo-ecossais-reclament-le-retour-de-l-interdi-fc2570",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "plus-de-10-000-neo-ecossais-reclament-le-retour-de-l-interdi-fc2570"
+  },
+  {
+   "titre": "Les droits de douane de rétorsion canadiens ne devraient pas plomber le panier d'épicerie",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/affaires/2026/09/08/les-droits-de-douane-de-retorsion-ne-devraient-pas-affecter-le-panier-d-epicerie-ESDD52X7FVHT5IOBND53L74USI/",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/affaires/2026/09/08/les-droits-de-douane-de-retorsion-ne-devraient-pas-affecter-le-panier-d-epicerie-ESDD52X7FVHT5IOBND53L74USI/",
+     "auteur": "Ritika Dubey, La Presse Canadienne",
+     "date": "2026-09-08T14:16-04:00"
+    }
+   ],
+   "resume": "Les prix des aliments resteraient stables, contrairement à certains produits de santé et de beauté.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:16-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "les-droits-de-douane-de-retorsion-canadiens-ne-devraient-pas-09e5b0",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "les-droits-de-douane-de-retorsion-canadiens-ne-devraient-pas-09e5b0"
+  },
+  {
+   "titre": "New York admet avoir caché des informations sur la qualité de l'air après le 11-Septembre",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "New York (États-Unis)",
+   "medias": "La Presse, France 24, Le Devoir, franceinfo, Le Monde",
+   "url": "https://www.lapresse.ca/international/etats-unis/2026-09-08/apres-les-attaques-du-11-septembre/la-ville-de-new-york-a-dissimule-des-informations-sur-la-qualite-de-l-air.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-08/apres-les-attaques-du-11-septembre/la-ville-de-new-york-a-dissimule-des-informations-sur-la-qualite-de-l-air.php",
+     "auteur": "Raphaël Hermano",
+     "date": "2026-09-08T12:48-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-11-septembre-la-ville-de-new-york-a-dissimul%C3%A9-des-informations-sur-la-toxicit%C3%A9-de-l-air",
+     "date": "2026-09-08T13:27-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/etats-unis/1007309/ville-new-york-dissimule-informations-qualite-air-apres-11-septembre",
+     "auteur": "Raphaël Hermano",
+     "date": "2026-09-08T13:39-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/usa/la-ville-de-new-york-a-dissimule-des-informations-sur-la-toxicite-de-l-air-apres-le-11-septembre-declare-le-maire-zohran-mamdani_8183660.html",
+     "date": "2026-09-08T14:13-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/zohran-mamdani-denonce-des-dissimulations-sur-la-toxicite-de-l-air-a-new-york-apres-le-11-septembre-des-gens-sont-tombes-malades-parce-que-les-dirigeants-auxquels-ils-faisaient-confiance-leur-ont-menti_6768479_3210.html",
+     "date": "2026-09-08T14:16-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Le maire Zohran Mamdani publie des dizaines de milliers de documents, obtenus après une bataille judiciaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:16-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "new-york-admet-avoir-cache-des-informations-sur-la-qualite-d-4be748",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "new-york-admet-avoir-cache-des-informations-sur-la-qualite-d-4be748"
+  },
+  {
+   "titre": "Poutine et Trump évoquent l'Ukraine dans un appel « d'une extrême franchise », selon le Kremlin",
+   "cahier": "international",
+   "rubrique": "diplomatie",
+   "territoire": "Ukraine, Russie, États-Unis",
+   "medias": "France 24, TV5Monde, BBC",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-poutine-et-trump-ont-parl%C3%A9-avec-une-extr%C3%AAme-franchise-de-l-ukraine-selon-le-kremlin",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-poutine-et-trump-ont-parl%C3%A9-avec-une-extr%C3%AAme-franchise-de-l-ukraine-selon-le-kremlin",
+     "date": "2026-09-08T13:27-04:00"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/poutine-et-trump-ont-parle-avec-une-extreme-franchise-de-lukraine-selon-le-kremlin-2836672",
+     "date": "2026-09-08T13:24-04:00"
+    },
+    {
+     "media": "BBC",
+     "url": "https://www.bbc.com/news/articles/cn8m1k7p3v7o",
+     "date": "2026-09-08T13:10-04:00",
+     "auteur": "Claire Keenan"
+    }
+   ],
+   "resume": "Selon Kyiv, des négociateurs russes, ukrainiens et américains pourraient se rencontrer dès ce mois-ci.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:27-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "poutine-et-trump-evoquent-l-ukraine-dans-un-appel-d-une-extr-49d11a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "poutine-et-trump-evoquent-l-ukraine-dans-un-appel-d-une-extr-49d11a"
+  },
+  {
+   "titre": "Des enquêteurs de l'ONU évoquent de possibles crimes de guerre commis par Israël en Syrie",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Syrie",
+   "medias": "France 24, TV5Monde",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-les-op%C3%A9rations-d-isra%C3%ABl-en-syrie-pourraient-constituer-des-crimes-de-guerre-enqu%C3%AAteurs-de-l-onu",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-les-op%C3%A9rations-d-isra%C3%ABl-en-syrie-pourraient-constituer-des-crimes-de-guerre-enqu%C3%AAteurs-de-l-onu",
+     "date": "2026-09-08T13:39-04:00"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/les-operations-disrael-en-syrie-pourraient-constituer-des-crimes-de-guerre-enqueteurs-de-lonu-2836673",
+     "date": "2026-09-08T13:40-04:00"
+    }
+   ],
+   "resume": "Une commission d'enquête des Nations unies dénonce des frappes répétées depuis la chute d'Assad.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:40-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "des-enqueteurs-de-l-onu-evoquent-de-possibles-crimes-de-guer-c5bc8f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "des-enqueteurs-de-l-onu-evoquent-de-possibles-crimes-de-guer-c5bc8f"
+  },
+  {
+   "titre": "Des milliers de commerçants étrangers fuient le Kenya après une annonce du président Ruto",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Kenya",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-kenya-les-petits-commer%C3%A7ants-%C3%A9trangers-menac%C3%A9s-d-expulsion",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-kenya-les-petits-commer%C3%A7ants-%C3%A9trangers-menac%C3%A9s-d-expulsion",
+     "date": "2026-09-08T13:29-04:00",
+     "auteur": "Constant Mawouton Kintin"
+    }
+   ],
+   "resume": "Ruto veut fermer les commerces tenus par des étrangers, provoquant un afflux à l'ambassade du Burundi.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:29-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "des-milliers-de-commercants-etrangers-fuient-le-kenya-apres-e5fee3",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "des-milliers-de-commercants-etrangers-fuient-le-kenya-apres-e5fee3"
+  },
+  {
+   "titre": "Une chaleur extrême a précédé l'effondrement meurtrier d'un pan de montagne au Népal, selon une étude",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Népal",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/08/crue-au-nepal-des-temperatures-exceptionnellement-chaudes-avant-leffondrement-du-pan-de-montagne",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/08/crue-au-nepal-des-temperatures-exceptionnellement-chaudes-avant-leffondrement-du-pan-de-montagne",
+     "date": "2026-09-08T13:51-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Le réchauffement anormal du 26 août, mesuré par Berkeley Earth, n'est pas formellement relié à l'éboulement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:51-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "une-chaleur-extreme-a-precede-l-effondrement-meurtrier-d-un-e70d3f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "une-chaleur-extreme-a-precede-l-effondrement-meurtrier-d-un-e70d3f"
+  },
+  {
+   "titre": "Le télescope Hubble capture une « superbulle » de 210 années-lumière dans le Grand Nuage de Magellan",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "NASA",
+   "url": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+     "date": "2026-09-08T12:49-04:00"
+    }
+   ],
+   "resume": "La nébuleuse N44 doit sa cavité centrale aux vents stellaires et supernovas de ses étoiles massives.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:49-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "le-telescope-hubble-capture-une-superbulle-de-210-annees-lum-33963f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-telescope-hubble-capture-une-superbulle-de-210-annees-lum-33963f"
+  },
+  {
+   "titre": "Anthropic visée par un recours collectif élargi pour publicité trompeuse sur ses forfaits payants",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+     "auteur": "Hayden Field",
+     "date": "2026-09-08T13:27-04:00"
+    }
+   ],
+   "resume": "Deux avocates ex-FTC accusent l'entreprise d'avoir exagéré les avantages de son abonnement Max.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:27-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "anthropic-visee-par-un-recours-collectif-elargi-pour-publici-c1967a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "anthropic-visee-par-un-recours-collectif-elargi-pour-publici-c1967a"
+  },
+  {
+   "titre": "Andrew Garfield incarnera Sam Altman dans « Artificial », un film sur les origines d'OpenAI",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/cinema/2026-09-08/bande-annonce-de-artificial/andrew-garfield-incarne-sam-altman-dans-un-film-sur-openai.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-09-08/bande-annonce-de-artificial/andrew-garfield-incarne-sam-altman-dans-un-film-sur-openai.php",
+     "auteur": "Florence Dancause",
+     "date": "2026-09-08T12:20-04:00"
+    }
+   ],
+   "resume": "La bande-annonce du long métrage, produit par Neon, a été dévoilée mardi.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:20-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "andrew-garfield-incarnera-sam-altman-dans-artificial-un-film-e61c0a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "andrew-garfield-incarnera-sam-altman-dans-artificial-un-film-e61c0a"
   },
   {
    "titre": "Deux chroniqueurs débattent de l'usage de la dette américaine détenue par le Canada comme arme commerciale",
@@ -3280,7 +3638,7 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "France",
-   "medias": "CNEWS, France 24, franceinfo, Québecor, Radio-Canada",
+   "medias": "CNEWS, France 24, franceinfo, Québecor, Radio-Canada, Le Devoir",
    "url": "https://www.cnews.fr/france/2026-09-08/musee-renoir-de-cagnes-sur-mer-quatre-oeuvres-derobees-dont-une-abandonnee",
    "resume": "Mise à jour, 12 h 01 — Deux des quatre toiles ont finalement été retrouvées dans le parc du musée.",
    "sources": [
@@ -3309,6 +3667,12 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2281578/vol-tableaux-renoir-musee-france",
      "date": "2026-09-08T12:22-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/arts-visuels/1007297/tableaux-renoir-ont-ete-voles-petit-musee-france",
+     "date": "2026-09-08T12:51-04:00",
+     "auteur": "Fanny Carrier"
     }
    ],
    "horodate": "2026-09-08T12:01-04:00",
@@ -5576,7 +5940,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Gaza, Israël",
-   "medias": "20 Minutes, Radio-Canada, TV5MONDE, France 24",
+   "medias": "20 Minutes, Radio-Canada, TV5MONDE, France 24, Geo",
    "url": "https://www.20minutes.fr/monde/etats-unis/4243430-20260907-gaza-haut-representant-redoute-solution-deux-etats-impossible",
    "sources": [
     {
@@ -5599,6 +5963,12 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260907-le-haut-repr%C3%A9sentant-pour-gaza-redoute-que-la-solution-%C3%A0-deux-etats-devienne-impossible",
      "date": "2026-09-07T14:11-04:00"
+    },
+    {
+     "media": "Geo",
+     "url": "https://www.geo.fr/geopolitique/le-haut-representant-pour-gaza-redoute-que-la-solution-a-deux-etats-devienne-impossible-233546",
+     "date": "2026-09-08T12:18-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "Le représentant du conseil de paix formé par Trump craint que l'escalade compromette durablement une cohabitation future.",
@@ -5732,7 +6102,7 @@
    "cahier": "canada",
    "rubrique": "environnement",
    "territoire": "Nouvelle-Écosse",
-   "medias": "Le Devoir, CBC",
+   "medias": "Le Devoir, CBC, Acadie Nouvelle",
    "url": "https://www.ledevoir.com/actualites/environnement/1007102/nouvelle-ecosse-entame-travaux-apres-inondations-cap-breton",
    "sources": [
     {
@@ -5746,6 +6116,12 @@
      "url": "https://www.cbc.ca/news/canada/nova-scotia/cape-breton-storm-recap-9.7335001?cmp=rss",
      "auteur": "Ryan Snoddon",
      "date": "2026-09-07T15:39-04:00"
+    },
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/atlantique/2026/09/08/la-nouvelle-ecosse-entame-la-reconstruction-apres-les-inondations-au-cap-breton/",
+     "date": "2026-09-08T13:36-04:00",
+     "auteur": "La Presse Canadienne"
     }
    ],
    "resume": "Un record de précipitations en deux jours a frappé l'île du Cap-Breton, selon les météorologues.",
