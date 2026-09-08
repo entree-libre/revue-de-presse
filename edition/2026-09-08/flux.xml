@@ -4,7 +4,7 @@
 <title>Entrée-Libre — Revue de presse — 8 septembre 2026</title>
 <link>https://entreelibre.ca/edition/2026-09-08/index.html</link>
 <atom:link href="https://entreelibre.ca/flux.xml" rel="self" type="application/rss+xml"/>
-<description>Entrée-Libre — revue de presse, l'actualité par thème, mise à jour quatre fois par jour. 235 sujets, 145 médias.</description>
+<description>Entrée-Libre — revue de presse, l'actualité par thème, mise à jour quatre fois par jour. 245 sujets, 157 médias.</description>
 <language>fr-CA</language>
 <lastBuildDate>Tue, 08 Sep 2026 11:35:00 -0400</lastBuildDate>
 <ttl>60</ttl>
@@ -52,6 +52,15 @@
 <description>Mise à jour, 11 h 40 — La tour a rouvert au public mardi, au lendemain de sa fermeture pour grève.</description>
 <source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
 <category>International</category><category>Société et culture</category>
+</item>
+<item>
+<title>Gatineau et des dizaines de partenaires réclament la juste part de l&#x27;Outaouais à Québec</title>
+<link>https://entreelibre.ca/edition/2026-09-08/a/gatineau-et-des-dizaines-de-partenaires-reclament-la-juste-par-11997a.html</link>
+<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-08/a/gatineau-et-des-dizaines-de-partenaires-reclament-la-juste-par-11997a.html</guid>
+<pubDate>Tue, 08 Sep 2026 10:34:00 -0400</pubDate>
+<description>Santé, éducation et logement figurent parmi les enjeux que la région tente de faire peser avant le vote.</description>
+<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
+<category>Québec et ses régions</category><category>Politique et vie municipale</category>
 </item>
 <item>
 <title>La Russie recommence à bombarder Kiev après une accalmie de trois jours, tandis que la diplomatie américaine s&#x27;active</title>
@@ -718,15 +727,6 @@
 <description>Des bouteilles de méthadone intactes retrouvées après son décès amènent la coroner à recommander une révision des soins.</description>
 <source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
 <category>Québec et ses régions</category><category>Santé et services sociaux</category><enclosure url="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Autoroute_55_Trois-Rivi%C3%A8res_2024.jpg/1280px-Autoroute_55_Trois-Rivi%C3%A8res_2024.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" type="image/jpeg" length="0"/>
-</item>
-<item>
-<title>Thetford Mines mise sur ses résidus miniers pour se réinventer en pôle d&#x27;économie circulaire</title>
-<link>https://entreelibre.ca/edition/2026-09-08/a/thetford-mines-mise-sur-ses-residus-miniers-pour-se-reinvent-fa5e39.html</link>
-<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-08/a/thetford-mines-mise-sur-ses-residus-miniers-pour-se-reinvent-fa5e39.html</guid>
-<pubDate>Tue, 08 Sep 2026 07:30:00 -0400</pubDate>
-<description>Trois cents millions de tonnes de résidus, potentiellement source d&#x27;électricité pour tout le Québec, selon un commissaire régional.</description>
-<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
-<category>Québec et ses régions</category><category>Économie et travail</category><enclosure url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Downtown_Thetford_Mines_II.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" type="image/jpeg" length="0"/>
 </item>
 </channel>
 </rss>

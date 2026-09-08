@@ -5,6 +5,7 @@
   "economie-opinions",
   "elections",
   "hors-rss",
+  "local",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -2077,6 +2078,277 @@
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-08.json",
    "_slug": "le-cegep-de-lanaudiere-signe-une-entente-de-mobilite-avec-un-f260cb"
+  },
+  {
+   "titre": "Gatineau et des dizaines de partenaires réclament la juste part de l'Outaouais à Québec",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Ville de Gatineau",
+   "url": "https://www.gatineau.ca/portail/default.aspx?p=nouvelles_annonces/communiques/communique_2015&id=-951284259",
+   "sources": [
+    {
+     "media": "Ville de Gatineau",
+     "url": "https://www.gatineau.ca/portail/default.aspx?p=nouvelles_annonces/communiques/communique_2015&id=-951284259",
+     "date": "2026-09-08T10:34-04:00",
+     "auteur": "Ville de Gatineau"
+    }
+   ],
+   "resume": "Santé, éducation et logement figurent parmi les enjeux que la région tente de faire peser avant le vote.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T10:34-04:00",
+   "permalien": "gatineau-et-des-dizaines-de-partenaires-reclament-la-juste-par-11997a",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T12:44-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-08.json",
+   "_slug": "gatineau-et-des-dizaines-de-partenaires-reclament-la-juste-par-11997a"
+  },
+  {
+   "titre": "Repentigny presse les partis provinciaux d'inscrire mobilité et logement dans leurs engagements",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Repentigny (Lanaudière)",
+   "medias": "Ville de Repentigny",
+   "url": "https://repentigny.ca/actualites-publications/repentigny-interpelle-les-partis-et-reclame-des-engagements-clairs",
+   "sources": [
+    {
+     "media": "Ville de Repentigny",
+     "url": "https://repentigny.ca/actualites-publications/repentigny-interpelle-les-partis-et-reclame-des-engagements-clairs",
+     "date": "2026-09-08T00:00-04:00",
+     "auteur": "Ville de Repentigny"
+    }
+   ],
+   "resume": "À trois semaines du vote, la mairie hausse le ton sur des enjeux qui touchent les contribuables.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T00:00-04:00",
+   "permalien": "repentigny-presse-les-partis-provinciaux-d-inscrire-mobilite-e-4f2197",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T12:44-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-08.json",
+   "_slug": "repentigny-presse-les-partis-provinciaux-d-inscrire-mobilite-e-4f2197"
+  },
+  {
+   "titre": "Un chantier de 10,3 M$ redonnera vie au pavillon des Seigneurs à Pointe-du-Lac",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Trois-Rivières – secteur Pointe-du-Lac (Mauricie)",
+   "medias": "Ville de Trois-Rivières",
+   "url": "https://www.v3r.net/a-propos-de-la-ville/communications/a-la-une/le-pavillon-des-seigneurs-renait",
+   "sources": [
+    {
+     "media": "Ville de Trois-Rivières",
+     "url": "https://www.v3r.net/a-propos-de-la-ville/communications/a-la-une/le-pavillon-des-seigneurs-renait",
+     "date": "2026-09-08T00:00-04:00",
+     "auteur": "Ville de Trois-Rivières"
+    }
+   ],
+   "resume": "Quatre ans après l'incendie qui l'a rasé, un nouveau bâtiment doit rouvrir ses portes en 2028.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T00:00-04:00",
+   "permalien": "un-chantier-de-10-3-m-redonnera-vie-au-pavillon-des-seigneurs-014201",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T12:44-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-08.json",
+   "_slug": "un-chantier-de-10-3-m-redonnera-vie-au-pavillon-des-seigneurs-014201"
+  },
+  {
+   "titre": "Pattern Canada expose son projet éolien de 200 MW aux gens de Saint-Jacques-de-Leeds et des environs",
+   "cahier": "quebec",
+   "rubrique": "energie",
+   "territoire": "Saint-Jacques-de-Leeds et municipalités voisines (MRC des Appalaches, Chaudière-Appalaches)",
+   "medias": "Mon Thetford · RIMQ Réseau d'Information Municipale du Québec",
+   "url": "https://monthetford.com/2026/08/24/consultation-publique-autour-du-parc-eolien-osgood-dans-la-mrc-des-appalaches/",
+   "sources": [
+    {
+     "media": "Mon Thetford",
+     "url": "https://monthetford.com/2026/08/24/consultation-publique-autour-du-parc-eolien-osgood-dans-la-mrc-des-appalaches/",
+     "date": "2026-09-03T00:00-04:00",
+     "auteur": "Boris Chassagne"
+    },
+    {
+     "media": "RIMQ Réseau d'Information Municipale du Québec",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/environnement/13/1216826/le-projet-eolien-osgood-presente-aux-citoyens.html",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "resume": "Le promoteur promet d'alimenter 30 000 foyers, mais le sort du parc dépend d'Hydro-Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T00:00-04:00",
+   "permalien": "pattern-canada-expose-son-projet-eolien-de-200-mw-aux-gens-de-522007",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T12:44-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-08.json",
+   "_slug": "pattern-canada-expose-son-projet-eolien-de-200-mw-aux-gens-de-522007"
+  },
+  {
+   "titre": "Carignan ouvre la porte à un référendum sur une modification de zonage",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Carignan (Vallée-du-Richelieu, Montérégie)",
+   "medias": "Ville de Carignan",
+   "url": "https://www.carignan.quebec/avis-publics-diffuses-en-date-du-8-septembre-2026/",
+   "sources": [
+    {
+     "media": "Ville de Carignan",
+     "url": "https://www.carignan.quebec/avis-publics-diffuses-en-date-du-8-septembre-2026/",
+     "date": "2026-09-08T00:00-04:00",
+     "auteur": "Ville de Carignan"
+    }
+   ],
+   "resume": "Les personnes concernées ont maintenant la possibilité de contester un changement aux règles d'urbanisme.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T00:00-04:00",
+   "permalien": "carignan-ouvre-la-porte-a-un-referendum-sur-une-modification-d-e17fd2",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T12:44-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-08.json",
+   "_slug": "carignan-ouvre-la-porte-a-un-referendum-sur-une-modification-d-e17fd2"
+  },
+  {
+   "titre": "Pont-Rouge lance des travaux de rechargement sur ses rangs de gravier dès le 9 septembre",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Pont-Rouge (Portneuf, Capitale-Nationale)",
+   "medias": "Ville de Pont-Rouge",
+   "url": "https://www.ville.pontrouge.qc.ca/travaux-de-rechargement-a-venir-a-compter-du-9-septembre-2026/",
+   "sources": [
+    {
+     "media": "Ville de Pont-Rouge",
+     "url": "https://www.ville.pontrouge.qc.ca/travaux-de-rechargement-a-venir-a-compter-du-9-septembre-2026/",
+     "date": "2026-09-08T00:00-04:00",
+     "auteur": "Ville de Pont-Rouge"
+    }
+   ],
+   "resume": "Aucune rue ne fermera, mais les automobilistes devront ralentir à l'approche des chantiers.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T00:00-04:00",
+   "permalien": "pont-rouge-lance-des-travaux-de-rechargement-sur-ses-rangs-de-63f1b0",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T12:44-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-08.json",
+   "_slug": "pont-rouge-lance-des-travaux-de-rechargement-sur-ses-rangs-de-63f1b0"
+  },
+  {
+   "titre": "Plus de 100 constats routiers remis dans les Collines-de-l'Outaouais pendant le long congé",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "MRC des Collines-de-l'Outaouais (Outaouais)",
+   "medias": "MRC des Collines-de-l'Outaouais",
+   "url": "https://mrcdescollinesdeloutaouais.qc.ca/bilan-de-la-longue-fin-de-semaine/",
+   "sources": [
+    {
+     "media": "MRC des Collines-de-l'Outaouais",
+     "url": "https://mrcdescollinesdeloutaouais.qc.ca/bilan-de-la-longue-fin-de-semaine/",
+     "date": "2026-09-08T00:00-04:00",
+     "auteur": "MRC des Collines-de-l'Outaouais"
+    }
+   ],
+   "resume": "Un conducteur avec un permis sanctionné a notamment vu son véhicule saisi pendant un mois.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T00:00-04:00",
+   "permalien": "plus-de-100-constats-routiers-remis-dans-les-collines-de-l-out-3691a0",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T12:44-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-08.json",
+   "_slug": "plus-de-100-constats-routiers-remis-dans-les-collines-de-l-out-3691a0"
+  },
+  {
+   "titre": "Murdochville invite ses citoyens à discuter de la relance de l'activité minière",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Murdochville (Gaspésie–Îles-de-la-Madeleine)",
+   "medias": "Ville de Murdochville",
+   "url": "https://murdochville.com/2026/09/08/5198/",
+   "sources": [
+    {
+     "media": "Ville de Murdochville",
+     "url": "https://murdochville.com/2026/09/08/5198/",
+     "date": "2026-09-08T00:00-04:00",
+     "auteur": "Ville de Murdochville"
+    }
+   ],
+   "resume": "Le maire veut recueillir les préoccupations de la population avant que le projet ne s'accélère.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T00:00-04:00",
+   "permalien": "murdochville-invite-ses-citoyens-a-discuter-de-la-relance-de-l-765bfb",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T12:44-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-08.json",
+   "_slug": "murdochville-invite-ses-citoyens-a-discuter-de-la-relance-de-l-765bfb"
+  },
+  {
+   "titre": "Waltham convoque une séance extraordinaire pour nommer un nouveau directeur général",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Waltham (Pontiac, Outaouais)",
+   "medias": "Municipalité de Waltham",
+   "url": "https://pontiacouest.ca/en/events/special-meeting-2026-09-08/",
+   "sources": [
+    {
+     "media": "Municipalité de Waltham",
+     "url": "https://pontiacouest.ca/en/events/special-meeting-2026-09-08/",
+     "date": "2026-09-04T00:00-04:00",
+     "auteur": "Municipalité de Waltham"
+    }
+   ],
+   "resume": "Le conseil doit aussi revoir les accès bancaires et la transition administrative qui l'accompagnent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T00:00-04:00",
+   "permalien": "waltham-convoque-une-seance-extraordinaire-pour-nommer-un-nouv-5f9c08",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T12:44-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-08.json",
+   "_slug": "waltham-convoque-une-seance-extraordinaire-pour-nommer-un-nouv-5f9c08"
+  },
+  {
+   "titre": "Chichester élira une nouvelle conseillère ou un nouveau conseiller le 20 septembre",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Chichester (Pontiac, Outaouais)",
+   "medias": "Municipalité de Chichester · The Equity",
+   "url": "https://pontiacouest.ca/en/brouillon-auto-17/",
+   "sources": [
+    {
+     "media": "Municipalité de Chichester",
+     "url": "https://pontiacouest.ca/en/brouillon-auto-17/",
+     "date": "2026-09-08T00:00-04:00",
+     "auteur": "Municipalité de Chichester"
+    },
+    {
+     "media": "The Equity",
+     "url": "https://theequity.ca/nomination-period-open-for-chichester-byelection-2/",
+     "date": "2026-08-21T00:00-04:00",
+     "auteur": "Chris Judd"
+    }
+   ],
+   "resume": "Trois candidatures se disputent le siège laissé vacant par une démission survenue cet été.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T00:00-04:00",
+   "permalien": "chichester-elira-une-nouvelle-conseillere-ou-un-nouveau-consei-8f5cc7",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T12:44-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-08.json",
+   "_slug": "chichester-elira-une-nouvelle-conseillere-ou-un-nouveau-consei-8f5cc7"
   },
   {
    "titre": "L'Ukraine frappe un pont ferroviaire utilisé par la logistique militaire russe en Crimée occupée",
