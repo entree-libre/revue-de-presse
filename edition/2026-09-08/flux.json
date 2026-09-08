@@ -6,6 +6,42 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/pspp-attribue-le-manque-de-place-en-classe-a-l-immigration-d-b1a11f.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/pspp-attribue-le-manque-de-place-en-classe-a-l-immigration-d-b1a11f.html",
+   "title": "PSPP attribue le manque de place en classe à l'immigration, des chercheurs nuancent",
+   "content_text": "Le chef péquiste n'a produit aucune donnée reliant précisément élèves immigrants et classes bondées.",
+   "date_modified": "2026-09-08T16:40:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Éducation"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/une-association-denonce-que-13-656-quebecois-attendent-un-se-86f7a0.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/une-association-denonce-que-13-656-quebecois-attendent-un-se-86f7a0.html",
+   "title": "Une association dénonce que 13 656 Québécois attendent un service à domicile",
+   "content_text": "Elle craint surtout que Santé Québec devienne une cible facile de cette campagne.",
+   "date_modified": "2026-09-08T16:20:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/quebec-solidaire-lie-son-option-contre-le-petrole-a-la-guerr-42ca62.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/quebec-solidaire-lie-son-option-contre-le-petrole-a-la-guerr-42ca62.html",
+   "title": "Québec solidaire lie son option contre le pétrole à la guerre tarifaire avec Washington",
+   "content_text": "Le parti reprend même une mise en garde du premier ministre canadien pour justifier son choix.",
+   "date_modified": "2026-09-08T16:18:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Environnement et climat"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-08/a/le-chiffre-d-une-personne-sur-trois-brandi-par-ruba-ghazal-n-50adb5.html",
    "url": "https://entreelibre.ca/edition/2026-09-08/a/le-chiffre-d-une-personne-sur-trois-brandi-par-ruba-ghazal-n-50adb5.html",
    "title": "Le chiffre d'une personne sur trois brandi par Ruba Ghazal ne trouve pas d'appui dans les données officielles",
@@ -914,40 +950,6 @@
    "url": "https://entreelibre.ca/edition/2026-09-08/a/google-devoile-weathernext-3-un-modele-meteo-appuye-sur-des-a1d15f.html",
    "title": "Google dévoile WeatherNext 3, un modèle météo appuyé sur des images satellite horaires",
    "content_text": "Des images satellite renouvelées chaque heure remplacent les calculs classiques pour prédire la pluie et la neige.",
-   "date_modified": "2026-09-08T09:56:00-04:00",
-   "tags": [
-    "Savoirs",
-    "Technologies et numérique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-regulateur-americain-ouvre-une-enquete-sur-le-cybercab-de-1a2527.html",
-   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-regulateur-americain-ouvre-une-enquete-sur-le-cybercab-de-1a2527.html",
-   "title": "Le régulateur américain ouvre une enquête sur le Cybercab de Tesla dès son lancement commercial",
-   "content_text": "Sans volant ni pédales, le nouveau robotaxi doré d'Elon Musk attire déjà l'œil du régulateur américain.",
-   "date_modified": "2026-09-08T09:56:00-04:00",
-   "tags": [
-    "Savoirs",
-    "Technologies et numérique"
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tesla_Cybercab_at_Santana_Row_oblique_view_dllu.jpg/1280px-Tesla_Cybercab_at_Santana_Row_oblique_view_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-08/a/londres-accueille-ses-premiers-robotaxis-commerciaux-operes-1757bb.html",
-   "url": "https://entreelibre.ca/edition/2026-09-08/a/londres-accueille-ses-premiers-robotaxis-commerciaux-operes-1757bb.html",
-   "title": "Londres accueille ses premiers robotaxis commerciaux, opérés par Uber et la start-up britannique Wayve",
-   "content_text": "Waymo se fait devancer par un rival qui inaugure sans tambour ni trompette une flotte autonome à Londres.",
-   "date_modified": "2026-09-08T09:56:00-04:00",
-   "tags": [
-    "Savoirs",
-    "Technologies et numérique"
-   ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-qr-code-de-reparabilite-impose-aux-smartphones-europeens-a22983.html",
-   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-qr-code-de-reparabilite-impose-aux-smartphones-europeens-a22983.html",
-   "title": "Le QR code de réparabilité imposé aux smartphones européens ne mène nulle part, la moitié du temps",
-   "content_text": "Le QR code censé afficher le prix des pièces détachées mène le plus souvent dans le vide.",
    "date_modified": "2026-09-08T09:56:00-04:00",
    "tags": [
     "Savoirs",
