@@ -1639,6 +1639,10 @@
     }
    ],
    "permalien": "le-maire-de-pointe-aux-outardes-plaide-pour-un-pont-plutot-q-582f09",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Plage_pointe-aux-outardes.jpg/1280px-Plage_pointe-aux-outardes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "J-A Béland",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "La plage de Pointe-aux-Outardes, sur la Côte-Nord.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "le-maire-de-pointe-aux-outardes-plaide-pour-un-pont-plutot-q-582f09"
@@ -1656,7 +1660,8 @@
     {
      "media": "Coops de l'information",
      "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/07/collision-mortelle-a-degelis-UK6MXFEHYNCX5FRU2YQZMM3XU4/",
-     "date": "2026-09-07T10:55-04:00"
+     "date": "2026-09-07T10:55-04:00",
+     "auteur": "Philippe Chabot"
     },
     {
      "media": "Radio-Canada",
@@ -1665,6 +1670,10 @@
     }
    ],
    "permalien": "un-motocycliste-meurt-dans-une-collision-frontale-sur-la-rou-7fa115",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Avenue_Principale_-_D%C3%A9gelis_08-2025.jpg/1280px-Avenue_Principale_-_D%C3%A9gelis_08-2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Gabriel Picard",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "L'avenue Principale, à Dégelis, dans le Témiscouata.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "un-motocycliste-meurt-dans-une-collision-frontale-sur-la-rou-7fa115"
@@ -1682,15 +1691,18 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2281242/accident-mortel-hebertville-st-wilbrod",
-     "date": "2026-09-08T07:31-04:00"
+     "date": "2026-09-08T07:31-04:00",
+     "auteur": "Catherine Paradis et Nicolas St-Pierre"
     },
     {
      "media": "Le Quotidien",
      "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2026/09/07/un-homme-perd-la-vie-dans-une-embardee-a-hebertville-3BKPTDUQAZFPDERURWXYGDPUVM/",
-     "date": "2026-09-08T07:31-04:00"
+     "date": "2026-09-08T07:31-04:00",
+     "auteur": "Laurence Richard"
     }
    ],
    "permalien": "un-accident-seul-vehicule-fait-un-mort-a-hebertville-au-lac-f2658f",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "un-accident-seul-vehicule-fait-un-mort-a-hebertville-au-lac-f2658f"
@@ -1712,6 +1724,10 @@
     }
    ],
    "permalien": "le-festival-de-musique-emergente-referme-une-24e-edition-jug-2b6993",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Parc_Aim%C3%A9_Mignault%2C_Rouyn-Noranda.jpg",
+   "legende": "Le parc Aimé-Mignault, à Rouyn-Noranda.",
+   "photo_auteur": "Louis Dallaire",
+   "photo_licence": "CC BY-SA 4.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "le-festival-de-musique-emergente-referme-une-24e-edition-jug-2b6993"
@@ -1734,6 +1750,10 @@
     }
    ],
    "permalien": "transport-logement-et-main-d-uvre-le-frein-economique-commun-e24534",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Sept-%C3%8Eles_%28lever_de_Soleil%29.jpg/1280px-Sept-%C3%8Eles_%28lever_de_Soleil%29.jpg",
+   "legende": "Lever de soleil sur Sept-Îles, sur la Côte-Nord.",
+   "photo_auteur": "Khayman",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "transport-logement-et-main-d-uvre-le-frein-economique-commun-e24534"
@@ -1756,6 +1776,10 @@
     }
    ],
    "permalien": "une-entreprise-de-remorquage-de-val-d-or-menacee-de-perdre-s-9c3cb9",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Campus_de_Val-d%27Or.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "photo_auteur": "Glowbine",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Le campus de Val-d'Or, en Abitibi-Témiscamingue.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "une-entreprise-de-remorquage-de-val-d-or-menacee-de-perdre-s-9c3cb9"
@@ -1773,10 +1797,15 @@
     {
      "media": "Le Droit",
      "url": "https://www.ledroit.com/actualites/sante/2026/09/08/cri-du-coeur-habiter-a-gatineau-semble-etre-un-handicap-LYW7VFLXABBA5LHBMLB5FWLCVM/",
-     "date": "2026-09-08T07:31-04:00"
+     "date": "2026-09-08T07:31-04:00",
+     "auteur": "Daniel LeBlanc"
     }
    ],
    "permalien": "un-gatinois-denonce-a-nouveau-les-transferts-refuses-de-pati-92fbc5",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Gatineau_-_QC_-_Museum_of_Civilisation.jpg/1280px-Gatineau_-_QC_-_Museum_of_Civilisation.jpg",
+   "legende": "Le Musée canadien de l'histoire, à Gatineau.",
+   "photo_auteur": "Wladyslaw",
+   "photo_licence": "CC BY-SA 3.0",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "un-gatinois-denonce-a-nouveau-les-transferts-refuses-de-pati-92fbc5"
@@ -1799,6 +1828,10 @@
     }
    ],
    "permalien": "ottawa-refuse-a-perce-un-encadrement-plus-strict-des-vols-d-4f68e0",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Pano_Perce.JPG/1280px-Pano_Perce.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Colocho",
+   "photo_licence": "Public domain",
+   "legende": "Le village de Percé, en Gaspésie.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "ottawa-refuse-a-perce-un-encadrement-plus-strict-des-vols-d-4f68e0"
@@ -1821,6 +1854,7 @@
     }
    ],
    "permalien": "des-aines-de-la-cote-nord-craignent-de-perdre-le-service-de-6d286c",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "des-aines-de-la-cote-nord-craignent-de-perdre-le-service-de-6d286c"
@@ -1842,6 +1876,10 @@
     }
    ],
    "permalien": "la-passerelle-de-la-riviere-touladi-fermee-trois-semaines-po-c47711",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Rivi%C3%A8re_Touladi_01.jpg/1280px-Rivi%C3%A8re_Touladi_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Fralambert",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "La rivière Touladi, au Témiscouata.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "la-passerelle-de-la-riviere-touladi-fermee-trois-semaines-po-c47711"
@@ -1864,6 +1902,7 @@
     }
    ],
    "permalien": "temiscouata-sur-le-lac-justifie-la-vente-du-camping-de-la-ma-37e4f6",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "temiscouata-sur-le-lac-justifie-la-vente-du-camping-de-la-ma-37e4f6"
@@ -1885,6 +1924,10 @@
     }
    ],
    "permalien": "la-malterie-innomalt-de-becancour-en-difficulte-financiere-e-580b1b",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/B%C3%A9cancour_%28Qu%C3%A9bec%29-Vue_de_Trois-Rivi%C3%A8res_et_de_son_amphith%C3%A9%C3%A2tre_riverain-2022-12-26.jpg/1280px-B%C3%A9cancour_%28Qu%C3%A9bec%29-Vue_de_Trois-Rivi%C3%A8res_et_de_son_amphith%C3%A9%C3%A2tre_riverain-2022-12-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Gaétan Veillette",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Bécancour, sur les rives du Saint-Laurent, en Centre-du-Québec.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "la-malterie-innomalt-de-becancour-en-difficulte-financiere-e-580b1b"
@@ -1906,6 +1949,10 @@
     }
    ],
    "permalien": "quebec-donne-le-feu-vert-a-la-remise-en-service-de-la-vieill-5b695e",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Saint-Narcisse_%28Qu%C3%A9bec%29-Belv%C3%A9d%C3%A8re_au_parc_nature-Tourbi%C3%A8re_de_St-Narcisse-2022-10-02.jpg/1280px-Saint-Narcisse_%28Qu%C3%A9bec%29-Belv%C3%A9d%C3%A8re_au_parc_nature-Tourbi%C3%A8re_de_St-Narcisse-2022-10-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Veillg1",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Le parc nature de Saint-Narcisse, en Mauricie.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "quebec-donne-le-feu-vert-a-la-remise-en-service-de-la-vieill-5b695e"
@@ -1928,6 +1975,10 @@
     }
    ],
    "permalien": "riviere-du-loup-lance-une-plateforme-pour-aider-a-trier-les-7f7841",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/0/07/Pointe_de_Rivi%C3%A8re-du-Loup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "photo_auteur": "Sylona125",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "La pointe de Rivière-du-Loup, au Bas-Saint-Laurent.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "riviere-du-loup-lance-une-plateforme-pour-aider-a-trier-les-7f7841"
@@ -1950,6 +2001,10 @@
     }
    ],
    "permalien": "la-mrc-de-beauharnois-salaberry-adopte-un-reglement-plus-str-1dd79d",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/St-Louis-de-Gonzague_Monteregie_2.jpg/1280px-St-Louis-de-Gonzague_Monteregie_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "User:P199",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Saint-Louis-de-Gonzague, dans la MRC de Beauharnois-Salaberry.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "la-mrc-de-beauharnois-salaberry-adopte-un-reglement-plus-str-1dd79d"
@@ -1972,6 +2027,10 @@
     }
    ],
    "permalien": "une-coroner-remet-en-question-le-suivi-medical-ayant-precede-a73319",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Autoroute_55_Trois-Rivi%C3%A8res_2024.jpg/1280px-Autoroute_55_Trois-Rivi%C3%A8res_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Gabriel Picard",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "L'autoroute 55, à Trois-Rivières, en Mauricie.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "une-coroner-remet-en-question-le-suivi-medical-ayant-precede-a73319"
@@ -1994,6 +2053,10 @@
     }
    ],
    "permalien": "thetford-mines-mise-sur-ses-residus-miniers-pour-se-reinvent-fa5e39",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Downtown_Thetford_Mines_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "photo_auteur": "Thetfordboy",
+   "photo_licence": "CC BY-SA 3.0",
+   "legende": "Le centre-ville de Thetford Mines, en Chaudière-Appalaches.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "thetford-mines-mise-sur-ses-residus-miniers-pour-se-reinvent-fa5e39"
@@ -2011,10 +2074,12 @@
     {
      "media": "Coops de l'information",
      "url": "https://www.lequotidien.com/actualites/sante/2026/09/08/pourquoi-le-reseau-de-la-sante-a-ajoute-plus-de-2000-cadres-en-cinq-ans-HNUMNGBKCZEY5BMLBR5R36X4W4/",
-     "date": "2026-09-08T07:31-04:00"
+     "date": "2026-09-08T07:31-04:00",
+     "auteur": "Marie-Christine Bouchard"
     }
    ],
    "permalien": "le-nombre-de-cadres-dans-le-reseau-de-la-sante-a-bondi-de-21-bacd87",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "le-nombre-de-cadres-dans-le-reseau-de-la-sante-a-bondi-de-21-bacd87"
@@ -2037,6 +2102,10 @@
     }
    ],
    "permalien": "deux-aspirants-maires-multiplient-les-rencontres-citoyennes-239c75",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Lever_du_soleil_de_janvier_%C3%A0_St-Sim%C3%A9on_%28Charlevoix%29.jpg/1280px-Lever_du_soleil_de_janvier_%C3%A0_St-Sim%C3%A9on_%28Charlevoix%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "NicolasPerrault",
+   "photo_licence": "CC0",
+   "legende": "Lever de soleil à Saint-Siméon, dans Charlevoix.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "deux-aspirants-maires-multiplient-les-rencontres-citoyennes-239c75"
@@ -2054,10 +2123,15 @@
     {
      "media": "FM93",
      "url": "https://www.fm93.com/audio/800221/montmagny-face-a-une-itinerance-de-plus-en-plus-visible",
-     "date": "2026-09-08T07:31-04:00"
+     "date": "2026-09-08T07:31-04:00",
+     "auteur": "Jacques Martin"
     }
    ],
    "permalien": "a-montmagny-l-itinerance-visible-pousse-les-organismes-locau-189fa6",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Centre-ville_de_Montmagny%2C_Rue_St-Jean-baptiste_est_-_le_4_juin_2021.jpg/1280px-Centre-ville_de_Montmagny%2C_Rue_St-Jean-baptiste_est_-_le_4_juin_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Carboj",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Le centre-ville de Montmagny, en Chaudière-Appalaches.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "a-montmagny-l-itinerance-visible-pousse-les-organismes-locau-189fa6"
@@ -2079,6 +2153,10 @@
     }
    ],
    "permalien": "les-fermetures-de-rues-pour-les-mondiaux-de-cyclisme-inquiet-69d1a0",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/H%C3%B4tel_de_ville_de_Montr%C3%A9al%2C_275%2C_rue_Notre-Dame_Est%2C_Montr%C3%A9al_fa%C3%A7ade_11-d.na.civile-76-1838.jpg/1280px-H%C3%B4tel_de_ville_de_Montr%C3%A9al%2C_275%2C_rue_Notre-Dame_Est%2C_Montr%C3%A9al_fa%C3%A7ade_11-d.na.civile-76-1838.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Noppen, Luc, 1949-",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "L'hôtel de ville de Montréal.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "les-fermetures-de-rues-pour-les-mondiaux-de-cyclisme-inquiet-69d1a0"
@@ -2096,10 +2174,12 @@
     {
      "media": "Le Quotidien",
      "url": "https://www.lequotidien.com/arts/art-local/2026/09/07/mission-accomplie-pour-la-9e-edition-du-festival-dhumour-dalma-23YKQC2HSVHJPNB2SBXVEJTNPI/",
-     "date": "2026-09-08T07:31-04:00"
+     "date": "2026-09-08T07:31-04:00",
+     "auteur": "Laurence Richard"
     }
    ],
    "permalien": "le-festival-d-humour-d-alma-referme-une-9e-edition-qu-il-jug-263cce",
+   "image_auto": "aucune",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "le-festival-d-humour-d-alma-referme-une-9e-edition-qu-il-jug-263cce"
@@ -2121,6 +2201,10 @@
     }
    ],
    "permalien": "michele-audette-entame-un-mois-de-retraite-au-site-ancestral-0b2aa4",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mich%C3%A8le_Ta%C3%AFna_Audette.jpg/1280px-Mich%C3%A8le_Ta%C3%AFna_Audette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "Thérèse Ottawa",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "La sénatrice Michèle Audette.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "michele-audette-entame-un-mois-de-retraite-au-site-ancestral-0b2aa4"
@@ -2142,6 +2226,10 @@
     }
    ],
    "permalien": "la-murale-montrealaise-du-cycliste-hugo-houle-cede-sa-place-540d99",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Michael_Woods_-_Tour_de_France_2023_-15%C3%A8_%C3%A9tape.jpg/1280px-Michael_Woods_-_Tour_de_France_2023_-15%C3%A8_%C3%A9tape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "photo_auteur": "René Hourdry",
+   "photo_licence": "CC BY-SA 4.0",
+   "legende": "Le cycliste Michael Woods, au Tour de France.",
    "_volet": "presse-regionale",
    "_fichier": "revue-presse-regionale-2026-09-08.json",
    "_slug": "la-murale-montrealaise-du-cycliste-hugo-houle-cede-sa-place-540d99"
@@ -2181,12 +2269,14 @@
     {
      "media": "Courrier Laval",
      "url": "https://courrierlaval.com/le-maire-de-laval-stephane-boyer-est-atteint-dune-tumeur-au-cerveau/",
-     "date": "2026-09-07T09:55-04:00"
+     "date": "2026-09-07T09:55-04:00",
+     "auteur": "Nicholas Pereira"
     },
     {
      "media": "Le Canada Français",
      "url": "https://www.canadafrancais.com/nouvelles-nationales/le-maire-de-laval-stephane-boyer-annonce-etre-atteint-dune-tumeur-au-cerveau/",
-     "date": "2026-09-07T15:00-04:00"
+     "date": "2026-09-07T15:00-04:00",
+     "auteur": "La Presse Canadienne"
     }
    ],
    "horodate": "2026-09-08T06:07-04:00",
@@ -3010,7 +3100,8 @@
     {
      "media": "Le Canada Français",
      "url": "https://www.canadafrancais.com/nouvelles-nationales/trump-ne-veut-plus-que-les-produits-de-bombardier-soient-vendus-aux-e-u/",
-     "date": "2026-09-08T07:31-04:00"
+     "date": "2026-09-08T07:31-04:00",
+     "auteur": "La Presse Canadienne"
     }
    ],
    "resume": "Mise à jour, 22 h 28 — La menace sur les jets d'affaires précède de quelques heures de nouveaux contre-tarifs canadiens.",
@@ -3578,7 +3669,8 @@
     {
      "media": "Coops de l'information",
      "url": "https://www.ledroit.com/actualites/le-fil-des-coops/2026/09/07/des-centaines-dagriculteurs-prennent-la-rue-pour-freiner-les-eoliennes-SYY5K7N2IRBNVEZVQ3EOC35YLA/",
-     "date": "2026-09-08T07:31-04:00"
+     "date": "2026-09-08T07:31-04:00",
+     "auteur": "Philippe Chabot"
     }
    ],
    "resume": "Des citoyens et des organismes ont manifesté lundi pour freiner l'implantation de nouveaux parcs éoliens.",
