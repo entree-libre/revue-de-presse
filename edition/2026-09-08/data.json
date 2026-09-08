@@ -2,11 +2,13 @@
  "date": "2026-09-08",
  "volets": [
   "continu",
+  "economie-opinions",
   "elections",
   "monde",
   "presse-regionale",
   "quebec-canada",
-  "report"
+  "report",
+  "savoirs"
  ],
  "articles": [
   {
@@ -561,6 +563,280 @@
    "_slug": "moody-s-abaisse-a-1-sa-prevision-de-croissance-pour-l-econom-acd857"
   },
   {
+   "titre": "Deux chroniqueurs débattent de l'usage de la dette américaine détenue par le Canada comme arme commerciale",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada, États-Unis",
+   "medias": "Le Journal de Montréal, Presse-toi à gauche !",
+   "url": "https://www.journaldemontreal.com/2026/09/05/guerre-commerciale-la-carte-cachee-de-carney",
+   "resume": "Mario Dumont hésite, quand la gauche altermondialiste réclame déjà d'en faire une arme.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-08T09:26-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/05/guerre-commerciale-la-carte-cachee-de-carney",
+     "auteur": "Mario Dumont",
+     "date": "2026-09-07T00:05-04:00"
+    },
+    {
+     "media": "Presse-toi à gauche !",
+     "url": "https://www.pressegauche.org/Guerre-economique-vendre-ses-actifs-americains",
+     "auteur": "Michel Gourd",
+     "date": "2026-09-08T06:19-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "deux-chroniqueurs-debattent-de-l-usage-de-la-dette-americain-2ad4e2",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-08.json",
+   "_slug": "deux-chroniqueurs-debattent-de-l-usage-de-la-dette-americain-2ad4e2"
+  },
+  {
+   "titre": "Un économiste de l'Institut économique de Montréal, qui prône la déréglementation et le libre marché, juge que les contre-tarifs canadiens n'ont jamais fonctionné",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "IEDM",
+   "url": "https://www.iedm.org/fr/a-century-ago-canada-tried-tariff-retaliation-it-did-nothing/",
+   "resume": "Un précédent historique existe, et il ne joue pas en faveur de la stratégie choisie par Ottawa.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-08T09:26-04:00",
+   "sources": [
+    {
+     "media": "IEDM",
+     "url": "https://www.iedm.org/fr/a-century-ago-canada-tried-tariff-retaliation-it-did-nothing/",
+     "auteur": "Vincent Geloso",
+     "date": "2026-09-04T00:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-economiste-de-l-institut-economique-de-montreal-qui-prone-ba1feb",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-08.json",
+   "_slug": "un-economiste-de-l-institut-economique-de-montreal-qui-prone-ba1feb"
+  },
+  {
+   "titre": "Les ventes au détail ont grimpé en juin au Canada, selon les plus récentes données de Statistique Canada",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Statistique Canada",
+   "url": "https://www150.statcan.gc.ca/daily-quotidien/260908/dq260908a-fra.htm",
+   "resume": "Voilà qui complique la lecture d'une économie qu'on dit pourtant sous pression tarifaire.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-08T09:26-04:00",
+   "sources": [
+    {
+     "media": "Statistique Canada",
+     "url": "https://www150.statcan.gc.ca/daily-quotidien/260908/dq260908a-fra.htm",
+     "date": "2026-09-08T08:30-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "les-ventes-au-detail-ont-grimpe-en-juin-au-canada-selon-les-67b8bd",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-08.json",
+   "_slug": "les-ventes-au-detail-ont-grimpe-en-juin-au-canada-selon-les-67b8bd"
+  },
+  {
+   "titre": "Jaguar Land Rover annonce la suppression de 4000 emplois d'ici deux ans, aggravée par une cyberattaque et les tarifs américains",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Royaume-Uni",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/07/jaguar-land-rover-supprime-4000postes-apres-plusieurs-mois-cauchemardesques",
+   "resume": "Une cyberattaque russe présumée et les droits de douane américains ont fini par rattraper le géant du luxe.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_Sonia_Dines_Jaguar_3.JPG/1280px-WTC_Sonia_Dines_Jaguar_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Jaguar Land Rover",
+   "photo_auteur": "Sonia Dines (Wikipedia Takes Coventry participant)",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-09-08T09:26-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/07/jaguar-land-rover-supprime-4000postes-apres-plusieurs-mois-cauchemardesques",
+     "auteur": "AFP",
+     "date": "2026-09-07T09:15-04:00"
+    }
+   ],
+   "image_auto": "wikipedia-fr:Jaguar Land Rover",
+   "permalien": "jaguar-land-rover-annonce-la-suppression-de-4000-emplois-d-i-7b1189",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-08.json",
+   "_slug": "jaguar-land-rover-annonce-la-suppression-de-4000-emplois-d-i-7b1189"
+  },
+  {
+   "titre": "Un an après l'arrivée de Costco à Rimouski, la Chambre de commerce locale dit avoir eu tort de s'en inquiéter",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Rimouski (Bas-Saint-Laurent)",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/08/costco-a-rimouski-les-commercants-du-coin-en-profitent",
+   "resume": "Une commerçante en parle sans vouloir être nommée, tant le sujet reste sensible en ville.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-08T09:26-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/08/costco-a-rimouski-les-commercants-du-coin-en-profitent",
+     "auteur": "Francis Halin",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-an-apres-l-arrivee-de-costco-a-rimouski-la-chambre-de-com-daa6be",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-08.json",
+   "_slug": "un-an-apres-l-arrivee-de-costco-a-rimouski-la-chambre-de-com-daa6be"
+  },
+  {
+   "titre": "Une franchisée de restaurants McDonald's en Abitibi recrute jusqu'à Montréal pour pourvoir des dizaines de postes vacants",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Val-d'Or, Rouyn-Noranda, Amos, Malartic (Abitibi-Témiscamingue), Montréal",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-08/penurie-de-main-d-oeuvre/des-mcdonald-s-d-abitibi-recrutent-a-montreal.php",
+   "resume": "L'entreprise va jusqu'à payer le transport et le logement pour attirer des citadins en région.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Downtown_Val-d%27Or.jpg/1280px-Downtown_Val-d%27Or.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Val-d'Or — vue d'illustration.",
+   "photo_auteur": "Hayden Soloviev",
+   "photo_licence": "CC BY 4.0",
+   "horodate": "2026-09-08T09:26-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-08/penurie-de-main-d-oeuvre/des-mcdonald-s-d-abitibi-recrutent-a-montreal.php",
+     "auteur": "Lila Dussault",
+     "date": "2026-09-08T05:00-04:00"
+    }
+   ],
+   "image_auto": "territoire:Val-d'Or",
+   "permalien": "une-franchisee-de-restaurants-mcdonald-s-en-abitibi-recrute-8e089c",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-08.json",
+   "_slug": "une-franchisee-de-restaurants-mcdonald-s-en-abitibi-recrute-8e089c"
+  },
+  {
+   "titre": "Isabelle Genest, présidente-directrice générale de Centraide Québec, plaide pour reconnaître l'économie des soins comme une infrastructure essentielle",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Soleil",
+   "url": "https://www.lesoleil.com/opinions/point-de-vue/2026/09/08/linfrastructure-invisible-de-leconomie-KLTTJBP2RRFHNLQLHLXNE5RZRY/",
+   "resume": "Le secteur communautaire, dit-elle, sera en première ligne si la guerre tarifaire fragilise encore les familles.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-08T09:26-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/opinions/point-de-vue/2026/09/08/linfrastructure-invisible-de-leconomie-KLTTJBP2RRFHNLQLHLXNE5RZRY/",
+     "auteur": "Isabelle Genest",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "isabelle-genest-presidente-directrice-generale-de-centraide-ea0151",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-08.json",
+   "_slug": "isabelle-genest-presidente-directrice-generale-de-centraide-ea0151"
+  },
+  {
+   "titre": "L'économiste Joseph Stiglitz propose la création d'un organisme mondial de surveillance des inégalités, sur le modèle du GIEC",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "International",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-08/l-inegalite-extreme-n-est-pas-une-fatalite.php",
+   "resume": "Il y voit moins un problème économique qu'une menace directe pour la démocratie elle-même.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-08T09:26-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/opinions/2026-09-08/l-inegalite-extreme-n-est-pas-une-fatalite.php",
+     "auteur": "Joseph E. Stiglitz",
+     "date": "2026-09-08T05:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "l-economiste-joseph-stiglitz-propose-la-creation-d-un-organi-091297",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-08.json",
+   "_slug": "l-economiste-joseph-stiglitz-propose-la-creation-d-un-organi-091297"
+  },
+  {
+   "titre": "Le rachat d'ARC Resources par Shell relance une vague de fusions et acquisitions dans le secteur gazier de l'Ouest canadien",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Alberta, Colombie-Britannique",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/commentary/article-oil-patch-ma-boom-signals-confidence-in-canadas-gas-export-superpower/",
+   "resume": "Les grands noms du secteur cherchent tous une plus grande présence dans le même bassin gazier.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-08T09:26-04:00",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/commentary/article-oil-patch-ma-boom-signals-confidence-in-canadas-gas-export-superpower/",
+     "auteur": "Andrew Willis",
+     "date": "2026-09-08T05:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-rachat-d-arc-resources-par-shell-relance-une-vague-de-fus-de9064",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-08.json",
+   "_slug": "le-rachat-d-arc-resources-par-shell-relance-une-vague-de-fus-de9064"
+  },
+  {
+   "titre": "Une coalition citoyenne réclame un moratoire sur le développement éolien devant l'Assemblée nationale",
+   "cahier": "quebec",
+   "rubrique": "energie",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/quebec-debout-contre-le-saccage-eolien-des-citoyens-de-toutes-les-regions-convergent-vers-lassemblee-nationale/",
+   "resume": "Selon ses porte-parole, la filière grandirait vite, sans qu'on en débatte vraiment collectivement.",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "horodate": "2026-09-08T09:26-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/quebec-debout-contre-le-saccage-eolien-des-citoyens-de-toutes-les-regions-convergent-vers-lassemblee-nationale/",
+     "date": "2026-09-07T14:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-coalition-citoyenne-reclame-un-moratoire-sur-le-developp-d9dc4a",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-08.json",
+   "_slug": "une-coalition-citoyenne-reclame-un-moratoire-sur-le-developp-d9dc4a"
+  },
+  {
    "titre": "En Outaouais, les urgences de Hull deviennent un enjeu électoral",
    "cahier": "elections",
    "rubrique": "sante",
@@ -949,7 +1225,7 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2281479/marchand-itinerance-ville-zero-partis",
      "date": "2026-09-08T08:02-04:00",
-     "auteur": ""
+     "auteur": "Raphaël Beaumont-Drouin"
     }
    ],
    "permalien": "bruno-marchand-presse-les-cinq-chefs-de-parti-de-s-engager-f-841da8",
@@ -1459,13 +1735,13 @@
    "_slug": "l-ue-debloque-200-millions-d-euros-pour-le-groenland-et-sign-07bba5"
   },
   {
-   "titre": "Volkswagen envisage de fabriquer du matériel militaire pour sauver une usine allemande sous-utilisée",
+   "titre": "Volkswagen conclut un accord préliminaire pour convertir son usine d'Osnabrück à la production militaire",
    "cahier": "international",
    "rubrique": "economie",
-   "territoire": "Allemagne",
-   "medias": "France 24, Le Journal de Montréal",
+   "territoire": "Allemagne, Israël",
+   "medias": "France 24, Le Journal de Montréal, Les Affaires, The Globe and Mail",
    "url": "https://www.france24.com/fr/info-en-continu/20260907-crise-automobile-volkswagen-se-tourne-vers-la-d%C3%A9fense-pour-sauver-une-usine-allemande",
-   "resume": "Face à une demande automobile atone, le géant allemand lorgne les carnets de commandes pleins de la défense.",
+   "resume": "Mise à jour, 9 h 36 — Le partenaire choisi fabrique des systèmes de défense antimissile pour Israël, dont le Dôme de fer.",
    "sources": [
     {
      "media": "France 24",
@@ -1477,9 +1753,21 @@
      "url": "https://www.journaldemontreal.com/2026/09/07/crise-automobile-volkswagen-se-tourne-vers-la-defense-pour-sauver-une-usine-allemande",
      "date": "2026-09-07T09:58-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/manufacturier/volkswagen-se-tourne-vers-la-defense-pour-sauver-une-usine-allemande/",
+     "auteur": "AFP",
+     "date": "2026-09-07T08:49-04:00"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-volkswagen-strikes-deal-with-israels-aurelius-capital-to-turn-car/",
+     "auteur": "Christina Amann and Christoph Steitz",
+     "date": "2026-09-07T11:06-04:00"
     }
    ],
-   "horodate": "2026-09-08T04:51-04:00",
+   "horodate": "2026-09-08T09:36-04:00",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Wolfsburg_-_Inside_the_Volkswagen_Plant.jpg/1280px-Wolfsburg_-_Inside_the_Volkswagen_Plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "legende": "L'intérieur d'une usine Volkswagen, à Wolfsburg.",
    "photo_auteur": "Roger Wollstadt",
@@ -1684,9 +1972,9 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Le Figaro, Les Échos, France 24",
+   "medias": "Le Figaro, Les Échos, France 24, La Presse, InfoBref, TVA Nouvelles",
    "url": "https://www.lefigaro.fr/conjoncture/acier-produits-laitiers-pate-a-papier-le-canada-replique-avec-de-nouveaux-droits-de-douane-contre-les-etats-unis-20260908",
-   "resume": "Ottawa promet de répliquer au dollar près, sans apaisement en vue depuis la rupture des pourparlers fin août.",
+   "resume": "Mise à jour, 9 h 31 — Un économiste tempère : la note finale pour les consommateurs pourrait être bien plus légère que redoutée.",
    "sources": [
     {
      "media": "Le Figaro",
@@ -1702,9 +1990,27 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/am%C3%A9riques/20260908-acier-produits-laitiers-%C3%A9lectronique-conflit-commercial-avec-washington-la-riposte-du-canada-entre-en-vigueur",
      "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/guerre-commerciale/la-riposte-canadienne-doit-entrer-en-vigueur-a-minuit.php",
+     "auteur": "Chloé Bourquin",
+     "date": "2026-09-07T09:00-04:00"
+    },
+    {
+     "media": "InfoBref",
+     "url": "https://infobref.com/riposte-tarifaire-canadienne-2026-09/",
+     "auteur": "Johanna Sabys",
+     "date": "2026-09-07T21:32-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/07/la-guerre-tarifaire-pourrait-avoir-des-repercussions-moins-importantes-que-certains-le-pensaient-explique-un-economiste",
+     "auteur": "Nathan Décarie",
+     "date": "2026-09-07T18:28-04:00"
     }
    ],
-   "horodate": "2026-09-08T04:51-04:00",
+   "horodate": "2026-09-08T09:31-04:00",
    "photo": "",
    "legende": "",
    "permalien": "la-riposte-tarifaire-canadienne-contre-les-etats-unis-entre-08ad25",
@@ -3408,7 +3714,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada, États-Unis",
-   "medias": "CBC, La Presse, Les Affaires, RFI, The Globe and Mail, Le Temps, Québecor, Le Canada Français",
+   "medias": "CBC, La Presse, Les Affaires, RFI, The Globe and Mail, Le Temps, Québecor, Le Canada Français, Le Devoir",
    "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/guerre-commerciale/trump-menace-d-interdire-la-vente-d-avions-de-bombardier-aux-etats-unis.php",
    "sources": [
     {
@@ -3455,6 +3761,12 @@
      "url": "https://www.canadafrancais.com/nouvelles-nationales/trump-ne-veut-plus-que-les-produits-de-bombardier-soient-vendus-aux-e-u/",
      "date": "2026-09-08T07:31-04:00",
      "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1007093/trump-ne-veut-plus-produits-bombardier-soient-vendus-e-u",
+     "auteur": "La Presse canadienne",
+     "date": "2026-09-07T15:52-04:00"
     }
    ],
    "resume": "Mise à jour, 22 h 28 — La menace sur les jets d'affaires précède de quelques heures de nouveaux contre-tarifs canadiens.",
@@ -3551,7 +3863,7 @@
   {
    "titre": "Une étude espagnole établit un lien entre présence d'un chat et santé mentale des enfants",
    "cahier": "savoirs",
-   "rubrique": "sante",
+   "rubrique": "sciences",
    "territoire": "Espagne",
    "medias": "GEO",
    "url": "https://www.geo.fr/animaux/la-sante-mentale-des-enfants-et-les-chats-ne-font-pas-bon-menage-selon-une-etude-espagnole-233536",
@@ -3601,7 +3913,7 @@
   {
    "titre": "De petites marques jaunâtres autour des yeux pourraient signaler un risque cardiovasculaire accru, selon une étude",
    "cahier": "savoirs",
-   "rubrique": "sante",
+   "rubrique": "sciences",
    "territoire": "",
    "medias": "Futura Sciences",
    "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-infarctus-avc-ces-marques-autour-yeux-pourraient-alerter-risque-accru-selon-etude-137578/",
@@ -4221,9 +4533,9 @@
   {
    "titre": "Le tabagisme passif a causé 1,6 million de morts dans le monde en 2023, selon une étude",
    "cahier": "savoirs",
-   "rubrique": "sante",
+   "rubrique": "sciences",
    "territoire": "",
-   "medias": "La Presse, France 24",
+   "medias": "La Presse, France 24, Libération",
    "url": "https://www.lapresse.ca/actualites/sciences/2026-09-07/selon-une-etude/le-tabagisme-passif-responsable-de-plus-de-1-6-million-de-deces-dans-le-monde-en-2023.php",
    "sources": [
     {
@@ -4236,6 +4548,12 @@
      "media": "France 24",
      "url": "https://www.france24.com/fr/info-en-continu/20260908-le-tabagisme-passif-responsable-de-plus-de-1-6-million-de-d%C3%A9c%C3%A8s-dans-le-monde-selon-une-%C3%A9tude",
      "date": "2026-09-08T02:23-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/societe/sante/plus-de-16-million-de-morts-liees-au-tabagisme-passif-en-2023-20260908_T6TXARDL2FCT3P7NYIUTELH4YU/",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T10:01-04:00"
     }
    ],
    "resume": "Près de 2,7 milliards de personnes y seraient exposées, la prévalence augmentant en Afrique et au Moyen-Orient.",
@@ -4462,7 +4780,7 @@
    "cahier": "quebec",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "La Presse, Radio-Canada, La Presse canadienne",
+   "medias": "La Presse, Radio-Canada, La Presse canadienne, Les Affaires",
    "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/politique-d-achat-quebecois-renforcee/les-entreprises-americaines-et-etrangeres-ecartees-de-certains-appels-d-offres-publics.php",
    "resume": "Reste à savoir jusqu'où Québec ira dans cette dérogation à ses propres engagements commerciaux.",
    "photo": "",
@@ -4486,6 +4804,12 @@
      "url": "https://www.lesoleil.com/affaires/2026/09/08/le-gouvernement-caquiste-adopte-deux-decrets-pour-l-achat-local-NMUHR5UMANASZPRY7B7U764JFU/",
      "auteur": "Patrice Bergeron, La Presse Canadienne",
      "date": "2026-09-07T20:32-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/les-mesures-du-gouvernement-pour-encourager-lachat-local/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-07T21:28-04:00"
     }
    ],
    "permalien": "quebec-ecarte-des-entreprises-etrangeres-de-plusieurs-appels-d42c56",
@@ -5562,6 +5886,637 @@
    "_volet": "report",
    "_fichier": "revue-report-2026-09-08.json",
    "_slug": "les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea"
+  },
+  {
+   "titre": "Un nouveau virus transmis par les tiques identifié en Chine, aggravant une maladie déjà connue",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/sante/actualites/zoonose-tiques-nouveau-virus-decouvert-chine-infecte-etre-humain-pourrait-aggraver-autre-infection-137593/",
+   "resume": "Des fièvres inexpliquées cachaient un microbe que les tests habituels ne savaient pas détecter.",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sante/actualites/zoonose-tiques-nouveau-virus-decouvert-chine-infecte-etre-humain-pourrait-aggraver-autre-infection-137593/",
+     "auteur": "Christelle Cherrier",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "un-nouveau-virus-transmis-par-les-tiques-identifie-en-chine-00315c",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "un-nouveau-virus-transmis-par-les-tiques-identifie-en-chine-00315c"
+  },
+  {
+   "titre": "Des bactéries imprimées reproduisent le comportement d'un circuit électronique au MIT",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "medias": "Techno-Science.net",
+   "url": "https://www.techno-science.net/fr/actualites/bacteries-circuit-electronique-calcul-biologique-29319",
+   "resume": "Aucun courant électrique ne circule, pourtant ces bactéries imitent un vrai circuit programmable.",
+   "sources": [
+    {
+     "media": "Techno-Science.net",
+     "url": "https://www.techno-science.net/fr/actualites/bacteries-circuit-electronique-calcul-biologique-29319",
+     "auteur": "Adrien",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "des-bacteries-imprimees-reproduisent-le-comportement-d-un-ci-f8b49b",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "des-bacteries-imprimees-reproduisent-le-comportement-d-un-ci-f8b49b"
+  },
+  {
+   "titre": "Urinoirs optimisés, serpents piétinés: les Ig Nobel 2026 récompensent la science la plus insolite",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "medias": "Radio-Canada, Libération",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280505/urinoirs-optimises-sous-vetements-enterres-anti-nobel-2026",
+   "resume": "Piétiner des serpents venimeux ou enterrer des sous-vêtements dans son jardin, cela vaut un prix à Zurich.",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280505/urinoirs-optimises-sous-vetements-enterres-anti-nobel-2026",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-05T03:01-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/sciences/bols-de-bonbons-et-individualisme-des-riches-urinoirs-anti-eclaboussures-les-anti-nobel-decernent-leurs-prix-2026-20260904_NM7WMGDFHRE47ARCJCCU7UNR4I/",
+     "date": "2026-09-08T10:01-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "urinoirs-optimises-serpents-pietines-les-ig-nobel-2026-recom-2e62d0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "urinoirs-optimises-serpents-pietines-les-ig-nobel-2026-recom-2e62d0"
+  },
+  {
+   "titre": "Le grand courant qui réchauffe l'Europe pourrait s'effondrer bien plus vite que prévu",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "medias": "Techno-Science.net",
+   "url": "https://www.techno-science.net/fr/actualites/amoc-vitesse-rechauffement-effondrement-climat-29271",
+   "resume": "Un même réchauffement final ne garantit pas le même sort pour ce puissant système de courants marins.",
+   "sources": [
+    {
+     "media": "Techno-Science.net",
+     "url": "https://www.techno-science.net/fr/actualites/amoc-vitesse-rechauffement-effondrement-climat-29271",
+     "auteur": "Adrien",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "le-grand-courant-qui-rechauffe-l-europe-pourrait-s-effondrer-97aef5",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "le-grand-courant-qui-rechauffe-l-europe-pourrait-s-effondrer-97aef5"
+  },
+  {
+   "titre": "Le télescope James-Webb repère des paires de « petits points rouges », traces possibles de fusions de trous noirs géants",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "medias": "Futura",
+   "url": "https://www.futura-sciences.com/sciences/actualites/little-red-dots-telescope-james-webb-detecte-petits-points-rouges-deux-vers-collision-trous-noirs-geants-137443/",
+   "resume": "Deux points rouges très rapprochés relancent l'hypothèse de fusions entre trous noirs géants aux origines de l'univers.",
+   "sources": [
+    {
+     "media": "Futura",
+     "url": "https://www.futura-sciences.com/sciences/actualites/little-red-dots-telescope-james-webb-detecte-petits-points-rouges-deux-vers-collision-trous-noirs-geants-137443/",
+     "auteur": "Laurent Sacco",
+     "date": "2026-09-01T22:35-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "le-telescope-james-webb-repere-des-paires-de-petits-points-r-ada106",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "le-telescope-james-webb-repere-des-paires-de-petits-points-r-ada106"
+  },
+  {
+   "titre": "L'expérience LUX-ZEPLIN détecte un signal qui pourrait être une première trace de matière noire",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "medias": "Clubic, Ça se passe là-haut",
+   "url": "https://www.clubic.com/actualite-628375-la-matiere-noire-aurait-elle-enfin-ete-detectee-les-chercheurs-tiennent-peut-etre-une-premiere-piste.html",
+   "resume": "Un signal isolé intrigue les physiciens depuis des années, sans qu'aucune explication ordinaire ne tienne la route.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628375-la-matiere-noire-aurait-elle-enfin-ete-detectee-les-chercheurs-tiennent-peut-etre-une-premiere-piste.html",
+     "auteur": "Mélina Loupia",
+     "date": "2026-09-08T10:01-04:00"
+    },
+    {
+     "media": "Ça se passe là-haut",
+     "url": "https://www.ca-se-passe-la-haut.fr/2026/09/lexperience-lz-detecte-un-signal.html",
+     "auteur": "Éric Simon",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "l-experience-lux-zeplin-detecte-un-signal-qui-pourrait-etre-fa6be4",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "l-experience-lux-zeplin-detecte-un-signal-qui-pourrait-etre-fa6be4"
+  },
+  {
+   "titre": "Deux entreprises québécoises ont contribué au tout nouveau télescope spatial Nancy Grace Roman",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/sciences/2026-09-06/le-nancy-grace-roman-de-la-nasa/un-telescope-spatial-un-peu-quebecois.php",
+   "resume": "Deux entreprises québécoises ont mis la main à la pâte dans ce chasseur d'exoplanètes.",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/sciences/2026-09-06/le-nancy-grace-roman-de-la-nasa/un-telescope-spatial-un-peu-quebecois.php",
+     "auteur": "Mathieu Perreault",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Nancy_Grace_Roman_1969_NASA_Portrait_%2841124536895%29.jpg/1280px-Nancy_Grace_Roman_1969_NASA_Portrait_%2841124536895%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Nancy Grace Roman",
+   "horodate": "2026-09-08T09:56-04:00",
+   "photo_auteur": "NASA Hubble Space Telescope",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-en:Nancy Grace Roman",
+   "permalien": "deux-entreprises-quebecoises-ont-contribue-au-tout-nouveau-t-cc33ff",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "deux-entreprises-quebecoises-ont-contribue-au-tout-nouveau-t-cc33ff"
+  },
+  {
+   "titre": "Isar Aerospace réussit le premier vol orbital d'une fusée privée depuis l'Europe continentale",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-628405-apres-un-premier-echec-cette-fusee-europeenne-reussit-enfin-a-atteindre-l-orbite.html",
+   "resume": "L'Europe continentale a enfin placé une fusée privée en orbite, après un échec spectaculaire à son premier essai.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628405-apres-un-premier-echec-cette-fusee-europeenne-reussit-enfin-a-atteindre-l-orbite.html",
+     "auteur": "Mélina Loupia",
+     "date": "2026-09-07T09:58-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "isar-aerospace-reussit-le-premier-vol-orbital-d-une-fusee-pr-946f45",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "isar-aerospace-reussit-le-premier-vol-orbital-d-une-fusee-pr-946f45"
+  },
+  {
+   "titre": "Anthropic lance Claude Fable 5.1, présenté comme plus rapide et moins coûteux à l'usage",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-627820-anthropic-devoile-claude-fable-5-1-et-claude-mythos-5-1-peut-etre-ses-ia-les-plus-abouties.html",
+   "resume": "Anthropic promet un modèle plus véloce et moins cher, déjà mis à contribution pour cartographier Vénus.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627820-anthropic-devoile-claude-fable-5-1-et-claude-mythos-5-1-peut-etre-ses-ia-les-plus-abouties.html",
+     "auteur": "Alexandre Boero",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "anthropic-lance-claude-fable-5-1-presente-comme-plus-rapide-8935d1",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "anthropic-lance-claude-fable-5-1-presente-comme-plus-rapide-8935d1"
+  },
+  {
+   "titre": "Google échappe au démantèlement de son activité publicitaire malgré sa condamnation pour monopole",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-628006-google-echappe-au-demantelement-de-sa-tres-lucrative-activite-pub-malgre-sa-condamnation-pour-monopole.html",
+   "resume": "Une juge fédérale confirme Google coupable de position dominante, mais lui épargne sa sanction la plus redoutée.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628006-google-echappe-au-demantelement-de-sa-tres-lucrative-activite-pub-malgre-sa-condamnation-pour-monopole.html",
+     "auteur": "Mathilde Rochefort",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "google-echappe-au-demantelement-de-son-activite-publicitaire-82cc26",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "google-echappe-au-demantelement-de-son-activite-publicitaire-82cc26"
+  },
+  {
+   "titre": "En Chine, un robot-chien commercialisé pour guider les personnes aveugles",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-628612-en-chine-les-premiers-chiens-robots-pour-aveugle-commencent-a-apparaitre.html",
+   "resume": "Silencieux et increvable, un chien robot veut pallier la rareté criante des chiens guides en Chine.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628612-en-chine-les-premiers-chiens-robots-pour-aveugle-commencent-a-apparaitre.html",
+     "auteur": "Samir Rahmoune",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "en-chine-un-robot-chien-commercialise-pour-guider-les-person-f18ab8",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "en-chine-un-robot-chien-commercialise-pour-guider-les-person-f18ab8"
+  },
+  {
+   "titre": "XPENG ouvre sa première ligne d'assemblage automatisée pour robots humanoïdes",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "medias": "Tesla Mag",
+   "url": "https://www.tesla-mag.com/xpeng-franchit-une-etape-historique-le-robot-humanoide-iron-entre-en-phase-dindustrialisation/",
+   "resume": "Un constructeur automobile chinois applique désormais les cadences de l'usine à la fabrication de robots humanoïdes.",
+   "sources": [
+    {
+     "media": "Tesla Mag",
+     "url": "https://www.tesla-mag.com/xpeng-franchit-une-etape-historique-le-robot-humanoide-iron-entre-en-phase-dindustrialisation/",
+     "auteur": "Teslam",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "xpeng-ouvre-sa-premiere-ligne-d-assemblage-automatisee-pour-7c2a72",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "xpeng-ouvre-sa-premiere-ligne-d-assemblage-automatisee-pour-7c2a72"
+  },
+  {
+   "titre": "Trop peu de films signés par des femmes à Venise, selon la cinéaste Maggie Gyllenhaal, qui préside le jury",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "medias": "Libération, Franceinfo",
+   "url": "https://www.liberation.fr/culture/cinema/qui-decide-de-ce-qui-a-de-la-valeur-presidente-du-jury-de-la-mostra-de-venise-maggie-gyllenhaal-questionne-la-rarete-des-realisatrices-20260902_WMQVJSYPIBG5RFFNVSMNIKXHCU/",
+   "resume": "Seule une poignée de films sont signés par des femmes, et celle qui préside le jury s'en étonne.",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/culture/cinema/qui-decide-de-ce-qui-a-de-la-valeur-presidente-du-jury-de-la-mostra-de-venise-maggie-gyllenhaal-questionne-la-rarete-des-realisatrices-20260902_WMQVJSYPIBG5RFFNVSMNIKXHCU/",
+     "date": "2026-09-05T03:01-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Franceinfo",
+     "url": "https://www.franceinfo.fr/culture/cinema/mostra-de-venise-la-presidente-du-jury-maggie-gyllenhaal-tacle-la-faible-presence-de-realisatrices-en-competition_8175110.html",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Maggie_Gyllenhaal_at_the_83rd_Venice_International_Film_Festival.jpg/1280px-Maggie_Gyllenhaal_at_the_83rd_Venice_International_Film_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Maggie Gyllenhaal",
+   "horodate": "2026-09-08T09:56-04:00",
+   "photo_auteur": "Colleen Sturtevant",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Maggie Gyllenhaal",
+   "permalien": "trop-peu-de-films-signes-par-des-femmes-a-venise-selon-la-ci-143102",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "trop-peu-de-films-signes-par-des-femmes-a-venise-selon-la-ci-143102"
+  },
+  {
+   "titre": "La NASA choisit Blue Origin pour bâtir son futur réseau de télécommunications martien",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-627832-une-victoire-decisive-blue-origin-decroche-le-tres-convoite-contrat-pour-connecter-mars-a-la-terre.html",
+   "resume": "Bezos rafle un contrat martien convoité, tandis que son rival Rocket Lab reste sur le carreau.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627832-une-victoire-decisive-blue-origin-decroche-le-tres-convoite-contrat-pour-connecter-mars-a-la-terre.html",
+     "auteur": "Mathilde Rochefort",
+     "date": "2026-09-05T03:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "la-nasa-choisit-blue-origin-pour-batir-son-futur-reseau-de-t-ac0f01",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "la-nasa-choisit-blue-origin-pour-batir-son-futur-reseau-de-t-ac0f01"
+  },
+  {
+   "titre": "GoPro rachetée par Starman Holding, qui vise défense, gouvernement et aérospatiale",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+   "resume": "La marque des caméras d'aventure change radicalement de cap vers la défense et l'aérospatiale.",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+     "auteur": "Sean Hollister",
+     "date": "2026-09-03T02:34-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "gopro-rachetee-par-starman-holding-qui-vise-defense-gouverne-b84d78",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "gopro-rachetee-par-starman-holding-qui-vise-defense-gouverne-b84d78"
+  },
+  {
+   "titre": "La justice argentine ordonne la restitution d'une toile spoliée par les nazis à l'héritière du galeriste juif dépouillé",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/international/article/2026/09/04/en-argentine-un-tableau-vole-par-les-nazis-sera-restitue-a-l-heritiere-d-un-galeriste-juif_6765850_3210.html",
+   "resume": "Volé par un dignitaire nazi, un portrait du XVIIIe siècle refait surface des décennies plus tard en Argentine.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/en-argentine-un-tableau-vole-par-les-nazis-sera-restitue-a-l-heritiere-d-un-galeriste-juif_6765850_3210.html",
+     "auteur": "Le Monde avec AFP",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "la-justice-argentine-ordonne-la-restitution-d-une-toile-spol-a029b3",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "la-justice-argentine-ordonne-la-restitution-d-une-toile-spol-a029b3"
+  },
+  {
+   "titre": "« Trois Adieux » : Isabel Coixet adapte au cinéma le dernier livre de l'autrice italienne Michela Murgia",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/culture/cinema/avec-trois-adieux-isabel-coixet-touche-une-discorde-sensible-20260902_5PJW3HYI3JDSJJWBEPQFMKDL2Y/",
+   "resume": "Adapté du dernier livre d'une autrice italienne disparue, ce film explore une rupture peu ordinaire.",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/culture/cinema/avec-trois-adieux-isabel-coixet-touche-une-discorde-sensible-20260902_5PJW3HYI3JDSJJWBEPQFMKDL2Y/",
+     "date": "2026-09-08T10:01-04:00",
+     "auteur": "Camille Nevers"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Michela_Murgia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Michela Murgia",
+   "horodate": "2026-09-08T09:56-04:00",
+   "photo_auteur": "Radio Radicale",
+   "photo_licence": "CC BY 2.5 it",
+   "image_auto": "wikipedia-fr:Michela Murgia",
+   "permalien": "trois-adieux-isabel-coixet-adapte-au-cinema-le-dernier-livre-7dfd83",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "trois-adieux-isabel-coixet-adapte-au-cinema-le-dernier-livre-7dfd83"
+  },
+  {
+   "titre": "« Vincent et la prophétie des mers » : un film d'animation québécois porté par le chant des baleines",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/culture/cinema/1006280/vincent-prophetie-mers-puissance-chant",
+   "resume": "Un baleineau doit retrouver sa voix pour affronter une pieuvre géante et sauver tout un océan.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/cinema/1006280/vincent-prophetie-mers-puissance-chant",
+     "auteur": "Anne-Frédérique Hébert-Dolbec",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "vincent-et-la-prophetie-des-mers-un-film-d-animation-quebeco-2a26ca",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "vincent-et-la-prophetie-des-mers-un-film-d-animation-quebeco-2a26ca"
+  },
+  {
+   "titre": "Prix Goncourt 2026 : la première sélection de seize romans dévoilée",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/culture/article/2026/09/02/prix-goncourt-2026-la-premiere-liste-de-seize-ecrivains-devoilee-parmi-lesquels-lilia-hassaine-et-philippe-jaenada_6764463_3246.html",
+   "resume": "Seize romans entament la course vers la plus prestigieuse récompense des lettres françaises.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/culture/article/2026/09/02/prix-goncourt-2026-la-premiere-liste-de-seize-ecrivains-devoilee-parmi-lesquels-lilia-hassaine-et-philippe-jaenada_6764463_3246.html",
+     "auteur": "Le Monde avec AFP",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Edmond_Goncourt_-_Schriftsteller.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Prix Goncourt",
+   "horodate": "2026-09-08T09:56-04:00",
+   "photo_auteur": "Nadar",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Prix Goncourt",
+   "permalien": "prix-goncourt-2026-la-premiere-selection-de-seize-romans-dev-ec96e1",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "prix-goncourt-2026-la-premiere-selection-de-seize-romans-dev-ec96e1"
+  },
+  {
+   "titre": "Google dévoile WeatherNext 3, un modèle météo appuyé sur des images satellite horaires",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-628189-google-devoile-une-ia-meteo-ultra-precise-avec-donnees-satellite-en-temps-reel.html",
+   "resume": "Des images satellite renouvelées chaque heure remplacent les calculs classiques pour prédire la pluie et la neige.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628189-google-devoile-une-ia-meteo-ultra-precise-avec-donnees-satellite-en-temps-reel.html",
+     "auteur": "Mélina Loupia",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "google-devoile-weathernext-3-un-modele-meteo-appuye-sur-des-a1d15f",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "google-devoile-weathernext-3-un-modele-meteo-appuye-sur-des-a1d15f"
+  },
+  {
+   "titre": "Le régulateur américain ouvre une enquête sur le Cybercab de Tesla dès son lancement commercial",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-628372-a-peine-lances-les-cybercabs-de-tesla-font-deja-l-objet-d-une-enquete-aux-etats-unis.html",
+   "resume": "Sans volant ni pédales, le nouveau robotaxi doré d'Elon Musk attire déjà l'œil du régulateur américain.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628372-a-peine-lances-les-cybercabs-de-tesla-font-deja-l-objet-d-une-enquete-aux-etats-unis.html",
+     "auteur": "Mélina Loupia",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tesla_Cybercab_at_Santana_Row_oblique_view_dllu.jpg/1280px-Tesla_Cybercab_at_Santana_Row_oblique_view_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Tesla Cybercab",
+   "horodate": "2026-09-08T09:56-04:00",
+   "photo_auteur": "Dllu",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-fr:Cybercab de Tesla",
+   "permalien": "le-regulateur-americain-ouvre-une-enquete-sur-le-cybercab-de-1a2527",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "le-regulateur-americain-ouvre-une-enquete-sur-le-cybercab-de-1a2527"
+  },
+  {
+   "titre": "Londres accueille ses premiers robotaxis commerciaux, opérés par Uber et la start-up britannique Wayve",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-627982-surprise-uber-lance-les-premiers-robotaxis-de-londres-la-deferlante-s-accelere-en-europe.html",
+   "resume": "Waymo se fait devancer par un rival qui inaugure sans tambour ni trompette une flotte autonome à Londres.",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-627982-surprise-uber-lance-les-premiers-robotaxis-de-londres-la-deferlante-s-accelere-en-europe.html",
+     "auteur": "Mathilde Rochefort",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "londres-accueille-ses-premiers-robotaxis-commerciaux-operes-1757bb",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "londres-accueille-ses-premiers-robotaxis-commerciaux-operes-1757bb"
+  },
+  {
+   "titre": "Le QR code de réparabilité imposé aux smartphones européens ne mène nulle part, la moitié du temps",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "medias": "Mac4ever",
+   "url": "https://www.mac4ever.com/iphone/197875-l-etiquette-europeenne-de-reparabilite-des-smartphones-renvoie-dans-le-vide-une-fois-sur-deux",
+   "resume": "Le QR code censé afficher le prix des pièces détachées mène le plus souvent dans le vide.",
+   "sources": [
+    {
+     "media": "Mac4ever",
+     "url": "https://www.mac4ever.com/iphone/197875-l-etiquette-europeenne-de-reparabilite-des-smartphones-renvoie-dans-le-vide-une-fois-sur-deux",
+     "auteur": "Vincent Lautier",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T09:56-04:00",
+   "image_auto": "aucune",
+   "permalien": "le-qr-code-de-reparabilite-impose-aux-smartphones-europeens-a22983",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "le-qr-code-de-reparabilite-impose-aux-smartphones-europeens-a22983"
+  },
+  {
+   "titre": "Macron et Charles III inaugurent à Londres l'exposition de la tapisserie de Bayeux",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/international/article/2026/09/02/emmanuel-macron-se-rend-a-londres-pour-visiter-l-exposition-de-la-tapisserie-de-bayeux-en-compagnie-du-roi-charles-iii_6764382_3210.html",
+   "resume": "Le prêt d'une broderie presque millénaire scelle un moment de rapprochement entre Paris et Londres.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/02/emmanuel-macron-se-rend-a-londres-pour-visiter-l-exposition-de-la-tapisserie-de-bayeux-en-compagnie-du-roi-charles-iii_6764382_3210.html",
+     "auteur": "Le Monde avec AFP",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Charles III",
+   "horodate": "2026-09-08T09:56-04:00",
+   "photo_auteur": "White House",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-en:Charles III",
+   "permalien": "macron-et-charles-iii-inaugurent-a-londres-l-exposition-de-l-3bfde9",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "macron-et-charles-iii-inaugurent-a-londres-l-exposition-de-l-3bfde9"
+  },
+  {
+   "titre": "George Lucas dévoile son musée de l'art narratif, un « vaisseau spatial » à Los Angeles",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/culture/article/2026/09/04/a-los-angeles-george-lucas-presente-son-musee-un-vaisseau-spatial-a-1-milliard-de-dollars_6765626_3246.html",
+   "resume": "George Lucas ouvre enfin les portes d'un musée-vaisseau spatial conçu pour ravir petits et grands.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/culture/article/2026/09/04/a-los-angeles-george-lucas-presente-son-musee-un-vaisseau-spatial-a-1-milliard-de-dollars_6765626_3246.html",
+     "auteur": "Jessica Gourdon",
+     "date": "2026-09-08T10:01-04:00"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/George_Lucas_cropped_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "George Lucas",
+   "horodate": "2026-09-08T09:56-04:00",
+   "photo_auteur": "nicolas genin",
+   "photo_licence": "CC BY-SA 2.0",
+   "image_auto": "wikipedia-fr:George Lucas",
+   "permalien": "george-lucas-devoile-son-musee-de-l-art-narratif-un-vaisseau-2fd9ff",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-08.json",
+   "_slug": "george-lucas-devoile-son-musee-de-l-art-narratif-un-vaisseau-2fd9ff"
   }
  ]
 }
