@@ -1,0 +1,843 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "Entrée-Libre — Revue de presse",
+ "home_page_url": "https://entreelibre.ca/edition/2026-09-08/index.html",
+ "feed_url": "https://entreelibre.ca/flux.json",
+ "language": "fr-CA",
+ "items": [
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/au-mexique-le-proces-des-meurtriers-presumes-de-trois-surfeu-bf24b3.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/au-mexique-le-proces-des-meurtriers-presumes-de-trois-surfeu-bf24b3.html",
+   "title": "Au Mexique, le procès des meurtriers présumés de trois surfeurs australiens et américain s'ouvre à Ensenada",
+   "content_text": "Deux ans après leur disparition, les parents des victimes affrontent enfin les accusés devant un tribunal mexicain.",
+   "date_modified": "2026-09-07T23:45:00-04:00",
+   "tags": [
+    "Mexique",
+    "International",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/en-france-l-intersyndicale-des-pompiers-lance-un-preavis-de-bb2244.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/en-france-l-intersyndicale-des-pompiers-lance-un-preavis-de-bb2244.html",
+   "title": "En France, l'intersyndicale des pompiers lance un préavis de grève national jusqu'au 20 octobre",
+   "content_text": "Épuisés après un été d'incendies historiques, les pompiers réclament plus de moyens et 21 000 recrues.",
+   "date_modified": "2026-09-07T23:45:00-04:00",
+   "tags": [
+    "France",
+    "International",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/un-rapport-federal-prevoit-un-rechauffement-d-au-moins-3-5-c-493250.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/un-rapport-federal-prevoit-un-rechauffement-d-au-moins-3-5-c-493250.html",
+   "title": "Un rapport fédéral prévoit un réchauffement d'au moins 3,5 °C au Canada d'ici 2100",
+   "content_text": "Même avec la carboneutralité mondiale en 2075, la fonte des glaciers resterait irréversible, dit le rapport.",
+   "date_modified": "2026-09-07T23:45:00-04:00",
+   "tags": [
+    "Canada",
+    "Canada",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/un-nouveau-processeur-graphique-d-arm-promet-un-bond-techniq-83ac3c.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/un-nouveau-processeur-graphique-d-arm-promet-un-bond-techniq-83ac3c.html",
+   "title": "Un nouveau processeur graphique d'Arm promet un bond technique aux jeux mobiles, d'abord chez Xiaomi",
+   "content_text": "Après cinq ans de travail, la puce imite les technologies des jeux PC sans plus d'énergie.",
+   "date_modified": "2026-09-07T23:45:00-04:00",
+   "tags": [
+    "Chine, Royaume-Uni",
+    "Savoirs",
+    "Technologies et numérique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/un-an-apres-sa-femme-un-ukrainien-enleve-a-kherson-est-conda-3ddec8.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/un-an-apres-sa-femme-un-ukrainien-enleve-a-kherson-est-conda-3ddec8.html",
+   "title": "Un an après sa femme, un Ukrainien enlevé à Kherson est condamné à 16 ans par un tribunal d'occupation russe",
+   "content_text": "Arrêté en territoire occupé, l'homme est accusé d'avoir aidé les forces ukrainiennes, selon l'ONG KHPG.",
+   "date_modified": "2026-09-07T23:45:00-04:00",
+   "tags": [
+    "Kherson (Ukraine occupée)",
+    "International",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/la-lituanie-expulse-22-bielorusses-juges-menacants-pour-la-s-457f94.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/la-lituanie-expulse-22-bielorusses-juges-menacants-pour-la-s-457f94.html",
+   "title": "La Lituanie expulse 22 Biélorusses jugés menaçants pour la sécurité nationale",
+   "content_text": "Ils travaillaient pour une entreprise soupçonnée d'avoir détourné près de 500 000 euros d'un projet spatial européen.",
+   "date_modified": "2026-09-07T23:45:00-04:00",
+   "tags": [
+    "Lituanie",
+    "International",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/fermetures-de-consulats-drone-de-leipzig-lavrov-compare-berl-0efda3.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/fermetures-de-consulats-drone-de-leipzig-lavrov-compare-berl-0efda3.html",
+   "title": "Fermetures de consulats, drone de Leipzig : Lavrov compare Berlin à l'Allemagne d'avant 1939",
+   "content_text": "Derrière l'invective, un drone découvert à Leipzig et des représentations diplomatiques qui ferment des deux côtés.\n\n**Mise à jour, 23 h 30** — Moscou passe des mots aux actes : le personnel du consulat général d'Allemagne à Saint-Pétersbourg est prié de quitter la Russie avant le 18 septembre, et les antennes de l'Institut Goethe de Moscou, Saint-Pétersbourg et Iekaterinbourg doivent fermer d'ici le 13 septembre.",
+   "date_modified": "2026-09-07T23:45:00-04:00",
+   "tags": [
+    "Russie, Allemagne",
+    "International"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/a-victoriaville-la-guerre-commerciale-touche-aussi-l-industr-795ecb.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/a-victoriaville-la-guerre-commerciale-touche-aussi-l-industr-795ecb.html",
+   "title": "À Victoriaville, la guerre commerciale touche aussi l'industrie funéraire",
+   "content_text": "Un entrepreneur funéraire de Victoriaville s'inquiète de payer, lui aussi, le prix des contre-tarifs canadiens.",
+   "date_modified": "2026-09-07T23:20:00-04:00",
+   "tags": [
+    "Victoriaville (Centre-du-Québec)",
+    "Élections Québec 2026",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/bombardier-dans-la-mire-de-donald-trump-qui-menace-de-lui-fe-70e1b7.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/bombardier-dans-la-mire-de-donald-trump-qui-menace-de-lui-fe-70e1b7.html",
+   "title": "Bombardier dans la mire de Donald Trump, qui menace de lui fermer le marché américain",
+   "content_text": "Mise à jour, 22 h 28 — Cette fois, c'est la vente même des jets d'affaires aux États-Unis que Washington menace d'interdire.",
+   "date_modified": "2026-09-07T22:28:00-04:00",
+   "tags": [
+    "Canada, États-Unis",
+    "Canada",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-procureur-general-de-l-ukraine-demissionne-en-pleine-enqu-b5fa59.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-procureur-general-de-l-ukraine-demissionne-en-pleine-enqu-b5fa59.html",
+   "title": "Le procureur général de l'Ukraine démissionne en pleine enquête anticorruption sur des centres d'appels frauduleux",
+   "content_text": "Reste à savoir combien d'autres têtes tomberont encore dans l'appareil sécuritaire ukrainien.",
+   "date_modified": "2026-09-07T22:28:00-04:00",
+   "tags": [
+    "Ukraine",
+    "International",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344.html",
+   "title": "La Russie recommence à bombarder Kiev après une accalmie de trois jours, tandis que la diplomatie américaine s'active",
+   "content_text": "Les missiles reprennent alors que Kyiv dit vouloir remettre les pourparlers sur les rails.",
+   "date_modified": "2026-09-07T22:28:00-04:00",
+   "tags": [
+    "Kyiv (Ukraine)",
+    "International",
+    "Guerre et défense"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/quebec-ecarte-des-entreprises-etrangeres-de-plusieurs-appels-d42c56.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/quebec-ecarte-des-entreprises-etrangeres-de-plusieurs-appels-d42c56.html",
+   "title": "Québec écarte des entreprises étrangères de plusieurs appels d'offres gouvernementaux devant l'escalade tarifaire",
+   "content_text": "Reste à savoir jusqu'où Québec ira dans cette dérogation à ses propres engagements commerciaux.",
+   "date_modified": "2026-09-07T22:28:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/des-experts-mettent-en-garde-contre-les-contenus-generes-par-8e92d1.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/des-experts-mettent-en-garde-contre-les-contenus-generes-par-8e92d1.html",
+   "title": "Des experts mettent en garde contre les contenus générés par IA dans la campagne électorale québécoise",
+   "content_text": "Reconnaître un contenu trompeur devient plus difficile qu'on pense, à un mois du scrutin.",
+   "date_modified": "2026-09-07T21:56:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile.html",
+   "title": "En tournée dans le Bas-Saint-Laurent, St-Pierre Plamondon promet plus d'aide à domicile pour les aînés",
+   "content_text": "Mise à jour, 21 h 21 — En 2022 il visait trois fois plus, et la CAQ promet maintenant presque la même somme.",
+   "date_modified": "2026-09-07T21:21:00-04:00",
+   "tags": [
+    "Québec (Rivière-du-Loup)",
+    "Élections Québec 2026",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a.html",
+   "title": "Les contre-tarifs canadiens contre les États-Unis entrent en vigueur mardi",
+   "content_text": "Mise à jour, 20 h 38 — Cadres de portes et fenêtres, échafaudages et profilés en acier et en aluminium sont visés.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "Canada",
+    "Canada",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-procureur-general-d-ukraine-demissionne-au-cur-d-un-vaste-571e56.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-procureur-general-d-ukraine-demissionne-au-cur-d-un-vaste-571e56.html",
+   "title": "Le procureur général d'Ukraine démissionne au cœur d'un vaste scandale de corruption",
+   "content_text": "Deux agences anticorruption disent avoir démantelé un réseau qui protégeait des centres d'appels frauduleux.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "Ukraine",
+    "International",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-fils-de-jair-bolsonaro-rassemble-une-foule-immense-a-sao-9be35b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-fils-de-jair-bolsonaro-rassemble-une-foule-immense-a-sao-9be35b.html",
+   "title": "Le fils de Jair Bolsonaro rassemble une foule immense à São Paulo avant la présidentielle",
+   "content_text": "Flavio Bolsonaro conteste la condamnation de son père et vise la présidence face à Lula.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "Brésil",
+    "International",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/les-tribunaux-quebecois-balisent-l-usage-de-l-ia-generative-f6e440.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/les-tribunaux-quebecois-balisent-l-usage-de-l-ia-generative-f6e440.html",
+   "title": "Les tribunaux québécois balisent l'usage de l'IA générative par les juges",
+   "content_text": "De nouvelles directives rappellent que juger doit rester une responsabilité fondamentalement humaine.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/une-garantie-ajoutee-aux-electromenagers-pourrait-faire-grim-d1cea9.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/une-garantie-ajoutee-aux-electromenagers-pourrait-faire-grim-d1cea9.html",
+   "title": "Une garantie ajoutée aux électroménagers pourrait faire grimper leur prix au Québec",
+   "content_text": "Cette clause s'ajouterait aux hausses déjà causées par les tarifs américains et les contre-mesures canadiennes.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-tabagisme-passif-a-cause-1-6-million-de-morts-dans-le-mon-4d796e.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-tabagisme-passif-a-cause-1-6-million-de-morts-dans-le-mon-4d796e.html",
+   "title": "Le tabagisme passif a causé 1,6 million de morts dans le monde en 2023, selon une étude",
+   "content_text": "Près de 2,7 milliards de personnes y seraient exposées, la prévalence augmentant en Afrique et au Moyen-Orient.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "Savoirs",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/des-ballons-sondes-aident-a-prevoir-les-orages-violents-de-l-2540a6.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/des-ballons-sondes-aident-a-prevoir-les-orages-violents-de-l-2540a6.html",
+   "title": "Des ballons-sondes aident à prévoir les orages violents de l'été à Saskatoon",
+   "content_text": "Le programme recueille des données qui permettent d'anticiper le mauvais temps avant qu'il touche le sol.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "Saskatchewan",
+    "Canada",
+    "Sciences et santé"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-stationnement-du-parc-de-la-gatineau-surprend-des-visiteu-f3ad7a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-stationnement-du-parc-de-la-gatineau-surprend-des-visiteu-f3ad7a.html",
+   "title": "Le stationnement du parc de la Gatineau surprend des visiteurs en devenant payant",
+   "content_text": "La mesure de la Commission de la capitale nationale avait pourtant été annoncée depuis plusieurs semaines.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "Gatineau (Outaouais)",
+    "Québec et ses régions",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/charline-bourgeois-tacquet-filme-une-femme-de-50-ans-accompl-cf2b8b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/charline-bourgeois-tacquet-filme-une-femme-de-50-ans-accompl-cf2b8b.html",
+   "title": "Charline Bourgeois-Tacquet filme une femme de 50 ans accomplie sans être mère",
+   "content_text": "Sa nouvelle œuvre bouscule l'idée qu'une femme épanouie doive nécessairement passer par la maternité.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "France",
+    "Savoirs",
+    "Cinéma et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/uashat-mak-mani-utenam-celebre-l-entree-en-vigueur-prochaine-54da44.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/uashat-mak-mani-utenam-celebre-l-entree-en-vigueur-prochaine-54da44.html",
+   "title": "Uashat mak Mani-utenam célèbre l'entrée en vigueur prochaine de sa loi sur la protection de l'enfance",
+   "content_text": "La communauté innue de la Côte-Nord doit appliquer sa nouvelle loi dès le 14 septembre.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "Uashat mak Mani-utenam (Côte-Nord)",
+    "Québec et ses régions",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259.html",
+   "title": "Un cargo d'Amazon quitte la piste en flammes à l'aéroport de Miami : au moins cinq morts",
+   "content_text": "Mise à jour, 20 h 38 — Les enquêteurs fédéraux ont récupéré la boîte noire de l'appareil accidenté.",
+   "date_modified": "2026-09-07T20:38:00-04:00",
+   "tags": [
+    "Miami (Floride)",
+    "International",
+    "Transport et infrastructures"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-quebec-a-le-fardeau-fiscal-le-plus-lourd-d-amerique-du-no-0184ec.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-quebec-a-le-fardeau-fiscal-le-plus-lourd-d-amerique-du-no-0184ec.html",
+   "title": "Le Québec a le fardeau fiscal le plus lourd d'Amérique du Nord, mais pas l'imposition nette, nuance une vérification des faits",
+   "content_text": "Le chef conservateur en fait un argument de campagne, mais les calculs racontent une histoire plus nuancée.",
+   "date_modified": "2026-09-07T19:20:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/a-hull-les-candidats-des-partis-s-opposent-sur-la-hausse-du-a48bee.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/a-hull-les-candidats-des-partis-s-opposent-sur-la-hausse-du-a48bee.html",
+   "title": "À Hull, les candidats des partis s'opposent sur la hausse du salaire minimum face à l'Ontario",
+   "content_text": "Chaque parti a sa recette pour empêcher les travailleurs de traverser la rivière vers l'Ontario.",
+   "date_modified": "2026-09-07T19:20:00-04:00",
+   "tags": [
+    "Québec (Hull)",
+    "Élections Québec 2026",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/l-objectif-de-5-milliards-de-quebec-solidaire-pour-taxer-les-f7fac8.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/l-objectif-de-5-milliards-de-quebec-solidaire-pour-taxer-les-f7fac8.html",
+   "title": "L'objectif de 5 milliards $ de Québec solidaire pour taxer les grandes fortunes repose sur des données partielles",
+   "content_text": "Un chiffre-choc de campagne qui ne tient pas encore toute la démonstration.",
+   "date_modified": "2026-09-07T19:20:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/une-candidate-caquiste-de-la-peltrie-mene-sa-campagne-pendan-91e9b4.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/une-candidate-caquiste-de-la-peltrie-mene-sa-campagne-pendan-91e9b4.html",
+   "title": "Une candidate caquiste de La Peltrie mène sa campagne pendant que son conjoint est déployé militairement",
+   "content_text": "Ancienne militaire elle-même, elle a choisi de servir autrement, cette fois dans l'arène politique.",
+   "date_modified": "2026-09-07T19:20:00-04:00",
+   "tags": [
+    "Québec (La Peltrie)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/l-onu-redoute-que-gaza-n-enterre-la-solution-a-deux-etats-dc217d.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/l-onu-redoute-que-gaza-n-enterre-la-solution-a-deux-etats-dc217d.html",
+   "title": "L'ONU redoute que Gaza n'enterre la solution à deux États",
+   "content_text": "Le représentant du conseil de paix formé par Trump craint que l'escalade compromette durablement une cohabitation future.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Gaza, Israël",
+    "International",
+    "Guerre et défense"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/l-onu-somme-washington-de-rendre-des-comptes-apres-23-morts-348ba1.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/l-onu-somme-washington-de-rendre-des-comptes-apres-23-morts-348ba1.html",
+   "title": "L'ONU somme Washington de rendre des comptes après 23 morts en détention migratoire",
+   "content_text": "Selon le haut-commissaire Volker Türk, quatre décès de plus depuis juin justifient un arrêt des expulsions.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "États-Unis",
+    "International",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/israel-l-ex-chef-d-etat-major-eisenkot-accuse-netanyahu-de-p-2007d6.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/israel-l-ex-chef-d-etat-major-eisenkot-accuse-netanyahu-de-p-2007d6.html",
+   "title": "Israël : l'ex-chef d'état-major Eisenkot accuse Netanyahu de privilégier sa survie politique",
+   "content_text": "Gadi Eisenkot lance sa liste électorale en reprochant au premier ministre de fuir ses responsabilités depuis 2023.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Israël",
+    "International",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/macron-demande-a-bruxelles-d-interdire-les-reseaux-sociaux-a-cbcaeb.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/macron-demande-a-bruxelles-d-interdire-les-reseaux-sociaux-a-cbcaeb.html",
+   "title": "Macron demande à Bruxelles d'interdire les réseaux sociaux aux moins de 15 ans",
+   "content_text": "Le président français agit après la censure d'une loi similaire par le Conseil constitutionnel en août.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "France, Union européenne",
+    "International",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/la-nouvelle-ecosse-entame-les-travaux-apres-les-inondations-823fb4.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/la-nouvelle-ecosse-entame-les-travaux-apres-les-inondations-823fb4.html",
+   "title": "La Nouvelle-Écosse entame les travaux après les inondations record du Cap-Breton",
+   "content_text": "Un record de précipitations en deux jours a frappé l'île du Cap-Breton, selon les météorologues.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Nouvelle-Écosse",
+    "Canada",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/poilievre-reclame-la-transparence-d-ottawa-sur-le-cout-des-c-505d6f.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/poilievre-reclame-la-transparence-d-ottawa-sur-le-cout-des-c-505d6f.html",
+   "title": "Poilievre réclame la transparence d'Ottawa sur le coût des contre-tarifs",
+   "content_text": "Le chef conservateur exige aussi la publication du texte intégral de l'entente commerciale ratée avec Washington.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Canada",
+    "Canada",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/une-dizaine-de-vehicules-incendies-au-centre-ville-de-granby-f37ccc.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/une-dizaine-de-vehicules-incendies-au-centre-ville-de-granby-f37ccc.html",
+   "title": "Une dizaine de véhicules incendiés au centre-ville de Granby, un suspect appréhendé",
+   "content_text": "Le service de police précise qu'aucun des véhicules touchés n'est une perte totale.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Granby (Estrie)",
+    "Québec et ses régions",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/une-femme-agressee-a-son-domicile-devant-ses-enfants-a-trois-2cfc61.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/une-femme-agressee-a-son-domicile-devant-ses-enfants-a-trois-2cfc61.html",
+   "title": "Une femme agressée à son domicile devant ses enfants à Trois-Rivières",
+   "content_text": "L'agresseur présumé serait reparti en proférant des menaces, selon le signalement fait à la police.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Trois-Rivières (Mauricie)",
+    "Québec et ses régions",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/la-tuque-cinq-mois-de-prison-pour-un-conducteur-ivre-qui-a-h-cd0f8e.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/la-tuque-cinq-mois-de-prison-pour-un-conducteur-ivre-qui-a-h-cd0f8e.html",
+   "title": "La Tuque : cinq mois de prison pour un conducteur ivre qui a heurté un piéton",
+   "content_text": "La défense a invoqué une période difficile marquée par plusieurs deuils dans l'entourage de l'accusé.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "La Tuque (Mauricie)",
+    "Québec et ses régions",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/des-citoyens-reclament-un-moratoire-sur-les-projets-eoliens-1ec2b0.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/des-citoyens-reclament-un-moratoire-sur-les-projets-eoliens-1ec2b0.html",
+   "title": "Des citoyens réclament un moratoire sur les projets éoliens devant l'Assemblée nationale",
+   "content_text": "Des citoyens et des organismes ont manifesté lundi pour freiner l'implantation de nouveaux parcs éoliens.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Québec (Capitale-Nationale)",
+    "Québec et ses régions",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/pourquoi-les-banques-centrales-europeennes-rapatrient-leur-o-fa583d.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/pourquoi-les-banques-centrales-europeennes-rapatrient-leur-o-fa583d.html",
+   "title": "Pourquoi les banques centrales européennes rapatrient leur or d'Amérique du Nord",
+   "content_text": "La Banque d'Angleterre, qui détient près de 400 000 lingots, illustre ce mouvement de repli vers l'Europe.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Europe",
+    "Savoirs",
+    "Idées, philosophie et histoire"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/des-failles-dans-des-televiseurs-lg-permettraient-d-ecouter-402c5a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/des-failles-dans-des-televiseurs-lg-permettraient-d-ecouter-402c5a.html",
+   "title": "Des failles dans des téléviseurs LG permettraient d'écouter une pièce, écran éteint",
+   "content_text": "Des chercheurs montrent qu'un téléviseur compromis peut devenir un dispositif d'écoute même débranché du réseau.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Savoirs",
+    "Technologies et numérique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/a-paris-s-ouvre-le-proces-des-deux-hommes-poursuivis-pour-la-a88141.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/a-paris-s-ouvre-le-proces-des-deux-hommes-poursuivis-pour-la-a88141.html",
+   "title": "À Paris s'ouvre le procès des deux hommes poursuivis pour la mort par balles de l'ex-rugbyman argentin Federico Aramburu en 2022",
+   "content_text": "Mise à jour, 18 h 43 — Loïk Le Priol affirme à l'ouverture du procès avoir tiré pour se défendre.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Paris (France)",
+    "International",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/les-emissaires-de-donald-trump-rencontrent-vladimir-poutine-defcea.html",
+   "title": "Reçus à Moscou puis à Kyiv, les émissaires de Trump repartent sans accord et Zelensky se prépare à un hiver de guerre",
+   "content_text": "Mise à jour, 18 h 43 — Zelensky affirme que les émissaires de Trump lui ont rapporté que la Russie serait prête à discuter.",
+   "date_modified": "2026-09-07T18:43:00-04:00",
+   "tags": [
+    "Russie, Ukraine",
+    "International",
+    "Guerre et défense"
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Moscow_Kremlin_Towers_of_south_wall.jpg/1280px-Moscow_Kremlin_Towers_of_south_wall.jpg"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/la-caq-propose-de-porter-le-credit-d-impot-pour-un-premier-a-a1c574.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/la-caq-propose-de-porter-le-credit-d-impot-pour-un-premier-a-a1c574.html",
+   "title": "La CAQ propose de porter le crédit d'impôt pour un premier achat immobilier à 7000 $",
+   "content_text": "Le coup de pouce serait remboursable même pour un acheteur qui ne paie pas d'impôt.",
+   "date_modified": "2026-09-07T18:00:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-pcq-propose-un-droit-de-retrait-des-cotisations-syndicale-6f9a23.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-pcq-propose-un-droit-de-retrait-des-cotisations-syndicale-6f9a23.html",
+   "title": "Le PCQ propose un droit de retrait des cotisations syndicales consacrées au politique",
+   "content_text": "Scrutin secret, comptes publics et plainte gratuite composeraient la nouvelle mécanique syndicale proposée.",
+   "date_modified": "2026-09-07T18:00:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/les-cinq-partis-se-prononcent-sur-l-echeance-2029-du-fondeur-314778.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/les-cinq-partis-se-prononcent-sur-l-echeance-2029-du-fondeur-314778.html",
+   "title": "Les cinq partis se prononcent sur l'échéance 2029 du fondeur Horne à Rouyn-Noranda",
+   "content_text": "Sur l'arsenic de la fonderie, les cinq partis promettent la fermeté, mais pas la même.",
+   "date_modified": "2026-09-07T18:00:00-04:00",
+   "tags": [
+    "Québec (Rouyn-Noranda)",
+    "Élections Québec 2026",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-candidat-pequiste-de-portneuf-christian-hebert-se-retire-5c193a.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-candidat-pequiste-de-portneuf-christian-hebert-se-retire-5c193a.html",
+   "title": "Le candidat péquiste de Portneuf, Christian Hébert, se retire de la campagne",
+   "content_text": "Le PQ doit lui trouver un remplaçant avant la date limite des candidatures, le 17 septembre.",
+   "date_modified": "2026-09-07T18:00:00-04:00",
+   "tags": [
+    "Québec (Portneuf)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/frechette-convoque-son-conseil-des-ministres-avant-l-entree-en-4c0b11.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/frechette-convoque-son-conseil-des-ministres-avant-l-entree-en-4c0b11.html",
+   "title": "Fréchette convoque son conseil des ministres avant l'entrée en vigueur de nouveaux contre-tarifs",
+   "content_text": "Mise à jour, 17 h — Ottawa dément avoir assoupli sa riposte tarifaire, et Duhaime boude la réunion prévue avec Fréchette ce soir.",
+   "date_modified": "2026-09-07T17:31:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/st-pierre-plamondon-refuse-de-commenter-la-sortie-de-trump-c-cbbf77.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/st-pierre-plamondon-refuse-de-commenter-la-sortie-de-trump-c-cbbf77.html",
+   "title": "St-Pierre Plamondon refuse de commenter la sortie de Trump contre Bombardier",
+   "content_text": "Le chef péquiste choisit de ne pas répondre aux menaces lancées sur les réseaux sociaux.",
+   "date_modified": "2026-09-07T17:31:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/une-candidate-du-pcq-dans-montmorency-ne-renie-rien-de-son-p-b5eb2b.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/une-candidate-du-pcq-dans-montmorency-ne-renie-rien-de-son-p-b5eb2b.html",
+   "title": "Une candidate du PCQ dans Montmorency ne renie rien de son passé antivaccin",
+   "content_text": "Elle promet de revenir à la charge une fois élue à l'Assemblée nationale.",
+   "date_modified": "2026-09-07T17:31:00-04:00",
+   "tags": [
+    "Québec (Montmorency)",
+    "Élections Québec 2026",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/des-electeurs-de-rouyn-noranda-combinent-plusieurs-medias-po-66c757.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/des-electeurs-de-rouyn-noranda-combinent-plusieurs-medias-po-66c757.html",
+   "title": "Des électeurs de Rouyn-Noranda combinent plusieurs médias pour suivre la campagne",
+   "content_text": "Entre les réseaux sociaux et le courrier traditionnel, chacun compose son propre menu d'information.",
+   "date_modified": "2026-09-07T17:31:00-04:00",
+   "tags": [
+    "Québec (Rouyn-Noranda–Témiscamingue)",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/enleve-en-colombie-un-caporal-de-la-legion-etrangere-echappe-ae7fad.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/enleve-en-colombie-un-caporal-de-la-legion-etrangere-echappe-ae7fad.html",
+   "title": "Enlevé en Colombie, un caporal de la Légion étrangère échappe à ses ravisseurs et passe sous protection militaire",
+   "content_text": "Mise à jour, 15 h 53 — Après quatre jours de marche, il s'est rendu aux autorités de Policarpa, désormais protégé contre d'éventuelles représailles.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Colombie",
+    "International",
+    "Guerre et défense"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/apres-les-rencontres-de-witkoff-et-kushner-a-moscou-et-a-kyi-243136.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/apres-les-rencontres-de-witkoff-et-kushner-a-moscou-et-a-kyi-243136.html",
+   "title": "Après les rencontres de Witkoff et Kushner à Moscou et à Kyiv, la Russie n'écarte pas de nouveaux pourparlers",
+   "content_text": "Reste à savoir où et quand, si Moscou et Kyiv acceptent de s'asseoir à la même table.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Russie, Ukraine",
+    "International"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/la-percee-electorale-de-l-afd-en-saxe-anhalt-met-a-l-epreuve-04a123.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/la-percee-electorale-de-l-afd-en-saxe-anhalt-met-a-l-epreuve-04a123.html",
+   "title": "La percée électorale de l'AfD en Saxe-Anhalt met à l'épreuve le système des coalitions allemand",
+   "content_text": "Un score historique pour l'extrême droite, et un système bâti sur le compromis qui n'a plus de recette.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Saxe-Anhalt (Allemagne)",
+    "International",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/la-finlande-inaugure-un-troncon-de-200-kilometres-de-cloture-d2cc3e.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/la-finlande-inaugure-un-troncon-de-200-kilometres-de-cloture-d2cc3e.html",
+   "title": "La Finlande inaugure un tronçon de 200 kilomètres de clôture à sa frontière avec la Russie",
+   "content_text": "La Finlande blinde sa frontière est de barbelés et de capteurs, après avoir accusé Moscou de guerre hybride.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Finlande",
+    "International",
+    "Guerre et défense"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/l-aiea-affirme-que-la-syrie-de-bachar-al-assad-etait-pres-d-62e668.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/l-aiea-affirme-que-la-syrie-de-bachar-al-assad-etait-pres-d-62e668.html",
+   "title": "L'AIEA affirme que la Syrie de Bachar al-Assad était près d'achever un réacteur nucléaire",
+   "content_text": "Selon l'agence onusienne, il ne restait que le combustible à charger avant l'achèvement du réacteur.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Syrie",
+    "International"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/en-allemagne-la-percee-de-l-afd-relance-le-debat-sur-l-usage-84461d.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/en-allemagne-la-percee-de-l-afd-relance-le-debat-sur-l-usage-84461d.html",
+   "title": "En Allemagne, la percée de l'AfD relance le débat sur l'usage du mot néonazi",
+   "content_text": "L'étiquette la plus radicale ne s'accorde pas à la légère, et le débat divise les commentateurs eux-mêmes.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Allemagne",
+    "International",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/bernie-ecclestone-ex-patron-de-la-formule-1-interpelle-dans-f40a46.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/bernie-ecclestone-ex-patron-de-la-formule-1-interpelle-dans-f40a46.html",
+   "title": "Bernie Ecclestone, ex-patron de la Formule 1, interpellé dans un aéroport portugais pour possession d'arme",
+   "content_text": "Relâché après quelques heures, l'homme qui a dirigé la F1 pendant quatre décennies retrouve les ennuis judiciaires.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Portugal",
+    "International"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/vente-immobiliere-au-quebec-les-vendeurs-doivent-declarer-le-607b94.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/vente-immobiliere-au-quebec-les-vendeurs-doivent-declarer-le-607b94.html",
+   "title": "Vente immobilière au Québec : les vendeurs doivent déclarer les morts violentes survenues dans la maison",
+   "content_text": "Une clause qui protège vendeurs et acheteurs, mais qui, selon 98,5FM, en refroidit certains à la lecture.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Société et culture"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/les-tarifs-americains-sur-les-importations-canadiennes-font-ee3cd1.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/les-tarifs-americains-sur-les-importations-canadiennes-font-ee3cd1.html",
+   "title": "Les tarifs américains sur les importations canadiennes font grimper le prix des équipements de hockey",
+   "content_text": "Patins et équipement de gardien traversent deux fois la frontière, et chaque passage coûte plus cher.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Canada, États-Unis",
+    "Canada",
+    "Économie et travail"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/dans-l-action-nationale-un-texte-relie-l-extension-de-la-loi-d6a3cc.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/dans-l-action-nationale-un-texte-relie-l-extension-de-la-loi-d6a3cc.html",
+   "title": "Dans L'Action nationale, un texte relie l'extension de la loi 101 aux cégeps à la souveraineté du Québec",
+   "content_text": "L'auteur, dans une revue souverainiste, y voit un test de cohérence avant même le débat sur l'indépendance.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Idées, philosophie et histoire"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/fiat-chrysler-stellantis-renvoye-en-proces-pour-tromperie-ag-84ac5d.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/fiat-chrysler-stellantis-renvoye-en-proces-pour-tromperie-ag-84ac5d.html",
+   "title": "Fiat Chrysler (Stellantis) renvoyé en procès pour tromperie aggravée dans le dossier Dieselgate",
+   "content_text": "Le procès pourrait n'avoir lieu qu'en 2028, mais le renvoi devant le tribunal correctionnel, lui, est déjà acté.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "France",
+    "International",
+    "Justice et sécurité publique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/une-etude-espagnole-etablit-un-lien-entre-presence-d-un-chat-df5270.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/une-etude-espagnole-etablit-un-lien-entre-presence-d-un-chat-df5270.html",
+   "title": "Une étude espagnole établit un lien entre présence d'un chat et santé mentale des enfants",
+   "content_text": "Selon une étude espagnole, la présence d'un chat se distinguerait par son effet sur le moral des enfants.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Espagne",
+    "Savoirs",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/un-tombeau-vieux-de-4350-ans-celui-du-gardien-des-secrets-du-babe7d.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/un-tombeau-vieux-de-4350-ans-celui-du-gardien-des-secrets-du-babe7d.html",
+   "title": "Un tombeau vieux de 4350 ans, celui du gardien des secrets du roi, mis au jour à Saqqarah",
+   "content_text": "Deux fausses portes sculptées devaient relier, croyait-on, le monde des vivants à celui des morts.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Égypte",
+    "Savoirs",
+    "Sciences et santé"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/de-petites-marques-jaunatres-autour-des-yeux-pourraient-sign-d16aa6.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/de-petites-marques-jaunatres-autour-des-yeux-pourraient-sign-d16aa6.html",
+   "title": "De petites marques jaunâtres autour des yeux pourraient signaler un risque cardiovasculaire accru, selon une étude",
+   "content_text": "Le xanthélasma, ce dépôt de graisse sous la peau, ferait bien plus que nuire à l'apparence.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Savoirs",
+    "Santé et services sociaux"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/ios-27-pourrait-ajouter-un-histogramme-et-une-forme-d-onde-a-e0ba45.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/ios-27-pourrait-ajouter-un-histogramme-et-une-forme-d-onde-a-e0ba45.html",
+   "title": "iOS 27 pourrait ajouter un histogramme et une forme d'onde à l'application Appareil photo d'Apple",
+   "content_text": "Des outils empruntés aux appareils photo professionnels s'inviteraient bientôt dans la poche de tout le monde.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Savoirs",
+    "Technologies et numérique"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/le-phragmite-plante-envahissante-continue-de-gagner-du-terra-4137e6.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/le-phragmite-plante-envahissante-continue-de-gagner-du-terra-4137e6.html",
+   "title": "Le phragmite, plante envahissante, continue de gagner du terrain au Québec malgré les efforts d'éradication",
+   "content_text": "Les efforts de contrôle fonctionnent par endroits, mais la propagation de cette plante envahissante continue de s'accentuer.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Québec",
+    "Québec et ses régions",
+    "Environnement et climat"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/bruxelles-examine-un-incident-survenu-en-mai-ou-des-agents-d-674345.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/bruxelles-examine-un-incident-survenu-en-mai-ou-des-agents-d-674345.html",
+   "title": "Bruxelles examine un incident survenu en mai où des agents d'IA d'OpenAI avaient pris le contrôle d'un site allemand",
+   "content_text": "Mise à jour, 15 h 53 — OpenAI reconnaît maintenant l'incident et plaide pour des règles plus claires sur la divulgation de tels comportements.",
+   "date_modified": "2026-09-07T15:53:00-04:00",
+   "tags": [
+    "Union européenne, Allemagne",
+    "International",
+    "Technologies et numérique"
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg"
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/duhaime-propose-des-retouches-au-projet-de-loi-3-csn.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/duhaime-propose-des-retouches-au-projet-de-loi-3-csn.html",
+   "title": "Duhaime propose des retouches au projet de loi 3, en visite aux locaux québécois de la CSN",
+   "content_text": "Reste à savoir comment la CSN accueille ces retouches, proposées à ses propres bureaux.",
+   "date_modified": "2026-09-07T14:22:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
+   "id": "https://entreelibre.ca/edition/2026-09-08/a/en-visite-a-laval-milliard-agrandir-moderniser-cite-de-la-sante.html",
+   "url": "https://entreelibre.ca/edition/2026-09-08/a/en-visite-a-laval-milliard-agrandir-moderniser-cite-de-la-sante.html",
+   "title": "En visite à Laval, Milliard s'engage à agrandir et moderniser la Cité-de-la-Santé",
+   "content_text": "Reste à savoir quand ces travaux commenceraient, et ce qu'ils coûteraient aux contribuables.",
+   "date_modified": "2026-09-07T14:22:00-04:00",
+   "tags": [
+    "Québec (Laval)",
+    "Élections Québec 2026",
+    "Santé et services sociaux"
+   ]
+  }
+ ]
+}
