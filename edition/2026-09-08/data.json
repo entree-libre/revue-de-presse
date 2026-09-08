@@ -4,6 +4,7 @@
   "continu",
   "elections",
   "monde",
+  "presse-regionale",
   "quebec-canada",
   "report"
  ],
@@ -548,6 +549,86 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-08.json",
    "_slug": "critique-pour-d-anciens-propos-le-candidat-pequiste-francois-763fc1"
+  },
+  {
+   "titre": "Un sondage de l'OEM mesure l'inquiétude des Québécois face à l'IA en campagne électorale",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lavoixdelest.ca/partenaires/protegez-vous/2026/09/05/elections-provinciales-lia-inquiete-les-quebecois-66NXMXMV3VA5VEKP746K4WSBNI/",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/partenaires/protegez-vous/2026/09/05/elections-provinciales-lia-inquiete-les-quebecois-66NXMXMV3VA5VEKP746K4WSBNI/",
+     "auteur": "Elyette Levy, Protégez-Vous",
+     "date": "2026-09-08T04:06-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/partenaires/protegez-vous/2026/09/05/elections-provinciales-lia-inquiete-les-quebecois-66NXMXMV3VA5VEKP746K4WSBNI/",
+     "auteur": "Elyette Levy, Protégez-Vous",
+     "date": "2026-09-08T04:06-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/partenaires/protegez-vous/2026/09/05/elections-provinciales-lia-inquiete-les-quebecois-66NXMXMV3VA5VEKP746K4WSBNI/",
+     "auteur": "Elyette Levy, Protégez-Vous",
+     "date": "2026-09-08T04:06-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/partenaires/protegez-vous/2026/09/05/elections-provinciales-lia-inquiete-les-quebecois-66NXMXMV3VA5VEKP746K4WSBNI/",
+     "auteur": "Elyette Levy, Protégez-Vous",
+     "date": "2026-09-08T04:06-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/partenaires/protegez-vous/2026/09/05/elections-provinciales-lia-inquiete-les-quebecois-66NXMXMV3VA5VEKP746K4WSBNI/",
+     "auteur": "Elyette Levy, Protégez-Vous",
+     "date": "2026-09-08T04:06-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/partenaires/protegez-vous/2026/09/05/elections-provinciales-lia-inquiete-les-quebecois-66NXMXMV3VA5VEKP746K4WSBNI/",
+     "auteur": "Elyette Levy, Protégez-Vous",
+     "date": "2026-09-08T04:06-04:00"
+    }
+   ],
+   "resume": "Un seul des cinq chefs n'a toujours pas promis de respecter les règles du jeu sur l'IA.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T07:24-04:00",
+   "permalien": "un-sondage-de-l-oem-mesure-l-inquietude-des-quebecois-face-a-l-07f0d6",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "un-sondage-de-l-oem-mesure-l-inquietude-des-quebecois-face-a-l-07f0d6"
+  },
+  {
+   "titre": "Kristina Michaud décrit le poids de la ligne de parti pour les candidats en campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-08/trop-contraignante-la-ligne-de-parti.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-08/trop-contraignante-la-ligne-de-parti.php",
+     "auteur": "Kristina Michaud",
+     "date": "2026-09-08T05:00-04:00"
+    }
+   ],
+   "resume": "Reste à savoir jusqu'où un candidat doit taire ses convictions pour rester dans les rangs.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T07:24-04:00",
+   "permalien": "kristina-michaud-decrit-le-poids-de-la-ligne-de-parti-pour-les-5eb25f",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "kristina-michaud-decrit-le-poids-de-la-ligne-de-parti-pour-les-5eb25f"
   },
   {
    "titre": "L'Ukraine frappe un pont ferroviaire utilisé par la logistique militaire russe en Crimée occupée",
@@ -1535,11 +1616,542 @@
    "_slug": "la-cour-penale-internationale-entame-les-audiences-sur-les-r-46225b"
   },
   {
+   "titre": "Le maire de Pointe-aux-Outardes plaide pour un pont plutôt que des traversiers sur le Saguenay",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Pointe-aux-Outardes (Côte-Nord)",
+   "medias": "Le Haute Côte-Nord, Le Manic",
+   "url": "https://www.journalhcn.com/2026/09/07/pont-sur-le-saguenay-une-question-de-logique-pour-le-maire-de-pointe-aux-outardes/",
+   "resume": "Éviter de déranger les bélugas tout en ouvrant une nouvelle porte d'entrée vers la région, espère-t-on.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/07/pont-sur-le-saguenay-une-question-de-logique-pour-le-maire-de-pointe-aux-outardes/",
+     "auteur": "Morgane Busson",
+     "date": "2026-09-08T07:31-04:00"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/07/pont-sur-le-saguenay-une-question-de-logique-pour-le-maire-de-pointe-aux-outardes/",
+     "auteur": "Morgane Busson",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "le-maire-de-pointe-aux-outardes-plaide-pour-un-pont-plutot-q-582f09",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "le-maire-de-pointe-aux-outardes-plaide-pour-un-pont-plutot-q-582f09"
+  },
+  {
+   "titre": "Un motocycliste meurt dans une collision frontale sur la route 295 à Dégelis",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Dégelis (Bas-Saint-Laurent)",
+   "medias": "Coops de l'information, Radio-Canada",
+   "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/07/collision-mortelle-a-degelis-UK6MXFEHYNCX5FRU2YQZMM3XU4/",
+   "resume": "Une route du Témiscouata endeuillée un dimanche après-midi par une collision entre une voiture et une moto.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/07/collision-mortelle-a-degelis-UK6MXFEHYNCX5FRU2YQZMM3XU4/",
+     "date": "2026-09-07T10:55-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281241/accident-degelis-route-295",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "un-motocycliste-meurt-dans-une-collision-frontale-sur-la-rou-7fa115",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "un-motocycliste-meurt-dans-une-collision-frontale-sur-la-rou-7fa115"
+  },
+  {
+   "titre": "Un accident seul véhicule fait un mort à Hébertville, au Lac-Saint-Jean",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Hébertville (Saguenay–Lac-Saint-Jean)",
+   "medias": "Radio-Canada, Le Quotidien",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281242/accident-mortel-hebertville-st-wilbrod",
+   "resume": "Une embardée sur le chemin Saint-Wilbrod coûte la vie à un conducteur, au Saguenay–Lac-Saint-Jean.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281242/accident-mortel-hebertville-st-wilbrod",
+     "date": "2026-09-08T07:31-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2026/09/07/un-homme-perd-la-vie-dans-une-embardee-a-hebertville-3BKPTDUQAZFPDERURWXYGDPUVM/",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "un-accident-seul-vehicule-fait-un-mort-a-hebertville-au-lac-f2658f",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "un-accident-seul-vehicule-fait-un-mort-a-hebertville-au-lac-f2658f"
+  },
+  {
+   "titre": "Le Festival de musique émergente referme une 24e édition jugée réussie en Abitibi-Témiscamingue",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Rouyn-Noranda (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/episodes/1224524/lundi-7-septembre-2026",
+   "resume": "Après des années difficiles, la présidente du FME entrevoit dorénavant un avenir plus prometteur pour l'événement de Rouyn-Noranda.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/episodes/1224524/lundi-7-septembre-2026",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "le-festival-de-musique-emergente-referme-une-24e-edition-jug-2b6993",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "le-festival-de-musique-emergente-referme-une-24e-edition-jug-2b6993"
+  },
+  {
+   "titre": "Transport, logement et main-d'œuvre : le frein économique commun aux chambres de commerce de Duplessis",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Sept-Îles, Port-Cartier, Havre-Saint-Pierre (Côte-Nord)",
+   "medias": "Le Nord-Côtier",
+   "url": "https://lenord-cotier.com/2026/09/07/les-preoccupations-des-chambres-de-commerce-transport-logement-et-main-doeuvre/",
+   "resume": "De Port-Cartier à Havre-Saint-Pierre, les entrepreneurs nord-côtiers pointent les trois mêmes obstacles à leur croissance.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/07/les-preoccupations-des-chambres-de-commerce-transport-logement-et-main-doeuvre/",
+     "auteur": "Manuel Paradis",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "transport-logement-et-main-d-uvre-le-frein-economique-commun-e24534",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "transport-logement-et-main-d-uvre-le-frein-economique-commun-e24534"
+  },
+  {
+   "titre": "Une entreprise de remorquage de Val-d'Or menacée de perdre son unique conducteur formé pour les urgences",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Val-d'Or (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280859/immigration-entreprise-employes-survie",
+   "resume": "Ottawa juge son salaire trop élevé, mais l'entreprise craint de perdre son contrat avec la Sûreté du Québec.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280859/immigration-entreprise-employes-survie",
+     "auteur": "Marc-André Landry",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "une-entreprise-de-remorquage-de-val-d-or-menacee-de-perdre-s-9c3cb9",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "une-entreprise-de-remorquage-de-val-d-or-menacee-de-perdre-s-9c3cb9"
+  },
+  {
+   "titre": "Un Gatinois dénonce à nouveau les transferts refusés de patients de l'Outaouais vers d'autres régions",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Le Droit",
+   "url": "https://www.ledroit.com/actualites/sante/2026/09/08/cri-du-coeur-habiter-a-gatineau-semble-etre-un-handicap-LYW7VFLXABBA5LHBMLB5FWLCVM/",
+   "resume": "Le système pourrait de nouveau flancher pour les mêmes patients, craint un résident de Gatineau.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/sante/2026/09/08/cri-du-coeur-habiter-a-gatineau-semble-etre-un-handicap-LYW7VFLXABBA5LHBMLB5FWLCVM/",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "un-gatinois-denonce-a-nouveau-les-transferts-refuses-de-pati-92fbc5",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "un-gatinois-denonce-a-nouveau-les-transferts-refuses-de-pati-92fbc5"
+  },
+  {
+   "titre": "Ottawa refuse à Percé un encadrement plus strict des vols d'hélicoptères touristiques",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Percé (Gaspésie–Îles-de-la-Madeleine)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2280717/perce-restriction-rejete-helicoptere-aviation",
+   "resume": "Entre adrénaline touristique et tranquillité résidentielle, la Ville se retrouve sans pouvoir réel face à Transports Canada.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2280717/perce-restriction-rejete-helicoptere-aviation",
+     "auteur": "Martin Toulgoat",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "ottawa-refuse-a-perce-un-encadrement-plus-strict-des-vols-d-4f68e0",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "ottawa-refuse-a-perce-un-encadrement-plus-strict-des-vols-d-4f68e0"
+  },
+  {
+   "titre": "Des aînés de la Côte-Nord craignent de perdre le service de repas de leur résidence Vents et Marées",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Baie-Comeau (Manicouagan, Côte-Nord)",
+   "medias": "Le Nord-Côtier",
+   "url": "https://lenord-cotier.com/2026/09/08/vents-et-marees-les-residents-sur-la-corde-raide/",
+   "resume": "Un nouveau report d'audience prolonge l'incertitude d'une trentaine d'aînés sur l'avenir de leur résidence en Côte-Nord.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/08/vents-et-marees-les-residents-sur-la-corde-raide/",
+     "auteur": "Nadia Dorval",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "des-aines-de-la-cote-nord-craignent-de-perdre-le-service-de-6d286c",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "des-aines-de-la-cote-nord-craignent-de-perdre-le-service-de-6d286c"
+  },
+  {
+   "titre": "La passerelle de la rivière Touladi fermée trois semaines pour être élargie à Saint-Juste-du-Lac",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Saint-Juste-du-Lac (Témiscouata, Bas-Saint-Laurent)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/actualite/fermeture-de-la-passerelle-de-la-riviere-touladi-a-saint-juste-du-lac/",
+   "resume": "L'ouvrage, emprunté aussi par les cyclistes et les secouristes, passera de 36 à 48 pouces de largeur.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/actualite/fermeture-de-la-passerelle-de-la-riviere-touladi-a-saint-juste-du-lac/",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "la-passerelle-de-la-riviere-touladi-fermee-trois-semaines-po-c47711",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "la-passerelle-de-la-riviere-touladi-fermee-trois-semaines-po-c47711"
+  },
+  {
+   "titre": "Témiscouata-sur-le-Lac justifie la vente du Camping de la Marina par un enjeu de rentabilité",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Notre-Dame-du-Lac (Témiscouata, Bas-Saint-Laurent)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/actualite/vente-du-camping-de-la-marina-temiscouata-sur-le-lac-defend-sa-position/",
+   "resume": "Les campeurs installés parfois depuis vingt ans devront partir, prévient le maire, qui vise d'abord les rues.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/actualite/vente-du-camping-de-la-marina-temiscouata-sur-le-lac-defend-sa-position/",
+     "auteur": "Marc-Antoine Paquin",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "temiscouata-sur-le-lac-justifie-la-vente-du-camping-de-la-ma-37e4f6",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "temiscouata-sur-le-lac-justifie-la-vente-du-camping-de-la-ma-37e4f6"
+  },
+  {
+   "titre": "La malterie Innomalt de Bécancour, en difficulté financière, est mise en vente",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Bécancour (Centre-du-Québec)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10754059/innomalt-mis-en-vente",
+   "resume": "Nouveau coup dur pour le parc industriel : l'entreprise qui approvisionne les microbrasseries du Québec croule sous les dettes.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10754059/innomalt-mis-en-vente",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "la-malterie-innomalt-de-becancour-en-difficulte-financiere-e-580b1b",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "la-malterie-innomalt-de-becancour-en-difficulte-financiere-e-580b1b"
+  },
+  {
+   "titre": "Québec donne le feu vert à la remise en service de la vieille centrale de Saint-Narcisse",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Saint-Narcisse (Mauricie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10754052/feu-vert-pour-debut-travaux-a-centrale-st-narcisse",
+   "resume": "Les promoteurs du projet hydroélectrique, en Mauricie, respirent enfin après l'obtention de l'accord officiel du gouvernement.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10754052/feu-vert-pour-debut-travaux-a-centrale-st-narcisse",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "quebec-donne-le-feu-vert-a-la-remise-en-service-de-la-vieill-5b695e",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "quebec-donne-le-feu-vert-a-la-remise-en-service-de-la-vieill-5b695e"
+  },
+  {
+   "titre": "Rivière-du-Loup lance une plateforme pour aider à trier les matières résiduelles",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Rivière-du-Loup (Bas-Saint-Laurent)",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/actualite/rdltri-ca-veut-devenir-le-reflexe-du-bon-bac/",
+   "resume": "Devant un bac, le doute s'installe souvent : la MRC et Co-éco espèrent y mettre fin avec RDLTRI.ca.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/actualite/rdltri-ca-veut-devenir-le-reflexe-du-bon-bac/",
+     "auteur": "François Drouin",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "riviere-du-loup-lance-une-plateforme-pour-aider-a-trier-les-7f7841",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "riviere-du-loup-lance-une-plateforme-pour-aider-a-trier-les-7f7841"
+  },
+  {
+   "titre": "La MRC de Beauharnois-Salaberry adopte un règlement plus strict encadrant les projets éoliens",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Beauharnois-Salaberry (Montérégie)",
+   "medias": "Le Saint-François",
+   "url": "https://journalsaint-francois.ca/beauharnois-salaberry-les-nouvelles-regles-sur-les-eoliennes-adoptees-le-16-septembre/",
+   "resume": "Sols agricoles protégés, distances augmentées : le préfet dit concilier environnement, orientations gouvernementales et acceptabilité locale.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Le Saint-François",
+     "url": "https://journalsaint-francois.ca/beauharnois-salaberry-les-nouvelles-regles-sur-les-eoliennes-adoptees-le-16-septembre/",
+     "auteur": "Mario Pitre",
+     "date": "2026-09-07T12:00-04:00"
+    }
+   ],
+   "permalien": "la-mrc-de-beauharnois-salaberry-adopte-un-reglement-plus-str-1dd79d",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "la-mrc-de-beauharnois-salaberry-adopte-un-reglement-plus-str-1dd79d"
+  },
+  {
+   "titre": "Une coroner remet en question le suivi médical ayant précédé la mort d'un quadragénaire toxicomane",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Trois-Rivières (Mauricie)",
+   "medias": "Le Nouvelliste",
+   "url": "https://www.lenouvelliste.ca/actualites/sante/2026/09/07/lencadrement-des-dependances-remis-en-cause-dans-le-deces-dun-toxicomane-4TSECLTVGRD5VJF6KRNCZJEBXA/",
+   "resume": "Des bouteilles de méthadone intactes retrouvées après son décès amènent la coroner à recommander une révision des soins.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/sante/2026/09/07/lencadrement-des-dependances-remis-en-cause-dans-le-deces-dun-toxicomane-4TSECLTVGRD5VJF6KRNCZJEBXA/",
+     "auteur": "Sébastien Lacroix",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "une-coroner-remet-en-question-le-suivi-medical-ayant-precede-a73319",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "une-coroner-remet-en-question-le-suivi-medical-ayant-precede-a73319"
+  },
+  {
+   "titre": "Thetford Mines mise sur ses résidus miniers pour se réinventer en pôle d'économie circulaire",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Thetford Mines (Chaudière-Appalaches)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lenouvelliste.ca/affaires/2026/09/08/du-gris-au-vert-transformer-le-passif-minier-en-actif-IJ3ESU2Z5NHHFN5WPRTQB6ANMU/",
+   "resume": "Trois cents millions de tonnes de résidus, potentiellement source d'électricité pour tout le Québec, selon un commissaire régional.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lenouvelliste.ca/affaires/2026/09/08/du-gris-au-vert-transformer-le-passif-minier-en-actif-IJ3ESU2Z5NHHFN5WPRTQB6ANMU/",
+     "auteur": "Mégan Harvey",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "thetford-mines-mise-sur-ses-residus-miniers-pour-se-reinvent-fa5e39",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "thetford-mines-mise-sur-ses-residus-miniers-pour-se-reinvent-fa5e39"
+  },
+  {
+   "titre": "Le nombre de cadres dans le réseau de la santé a bondi de 21 % en cinq ans au Québec",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lequotidien.com/actualites/sante/2026/09/08/pourquoi-le-reseau-de-la-sante-a-ajoute-plus-de-2000-cadres-en-cinq-ans-HNUMNGBKCZEY5BMLBR5R36X4W4/",
+   "resume": "Plus de 2100 gestionnaires de plus depuis 2021 : la question, désormais, est de savoir pourquoi.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lequotidien.com/actualites/sante/2026/09/08/pourquoi-le-reseau-de-la-sante-a-ajoute-plus-de-2000-cadres-en-cinq-ans-HNUMNGBKCZEY5BMLBR5R36X4W4/",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "le-nombre-de-cadres-dans-le-reseau-de-la-sante-a-bondi-de-21-bacd87",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "le-nombre-de-cadres-dans-le-reseau-de-la-sante-a-bondi-de-21-bacd87"
+  },
+  {
+   "titre": "Deux aspirants maires multiplient les rencontres citoyennes avant l'élection à Saint-Siméon",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Saint-Siméon (Charlevoix)",
+   "medias": "Le Charlevoisien",
+   "url": "https://www.lecharlevoisien.com/2026/09/08/saint-simeon-les-aspirants-maires-en-mode-seduction/",
+   "resume": "Vieillissement de la population, avenir du centre Inouï, fusion écartée : les enjeux d'une petite ville charlevoisienne.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/08/saint-simeon-les-aspirants-maires-en-mode-seduction/",
+     "auteur": "Félix Côté",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "deux-aspirants-maires-multiplient-les-rencontres-citoyennes-239c75",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "deux-aspirants-maires-multiplient-les-rencontres-citoyennes-239c75"
+  },
+  {
+   "titre": "À Montmagny, l'itinérance visible pousse les organismes locaux à faire avec les moyens du bord",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Montmagny (Chaudière-Appalaches)",
+   "medias": "FM93",
+   "url": "https://www.fm93.com/audio/800221/montmagny-face-a-une-itinerance-de-plus-en-plus-visible",
+   "resume": "L'itinérance devient de plus en plus visible à Montmagny, où l'aide locale manque de moyens, selon FM93.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/800221/montmagny-face-a-une-itinerance-de-plus-en-plus-visible",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "a-montmagny-l-itinerance-visible-pousse-les-organismes-locau-189fa6",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "a-montmagny-l-itinerance-visible-pousse-les-organismes-locau-189fa6"
+  },
+  {
+   "titre": "Les fermetures de rues pour les Mondiaux de cyclisme inquiètent les personnes à mobilité réduite à Montréal",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Montréal",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/montreal-cycling-world-championships-accessibility-9.7334903?cmp=rss",
+   "resume": "La Ville promet un accès maintenu pour le transport adapté, mais des défenseurs de droits craignent un cauchemar.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-cycling-world-championships-accessibility-9.7334903?cmp=rss",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "les-fermetures-de-rues-pour-les-mondiaux-de-cyclisme-inquiet-69d1a0",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "les-fermetures-de-rues-pour-les-mondiaux-de-cyclisme-inquiet-69d1a0"
+  },
+  {
+   "titre": "Le Festival d'humour d'Alma referme une 9e édition qu'il juge réussie malgré un déménagement forcé",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Alma (Saguenay–Lac-Saint-Jean)",
+   "medias": "Le Quotidien",
+   "url": "https://www.lequotidien.com/arts/art-local/2026/09/07/mission-accomplie-pour-la-9e-edition-du-festival-dhumour-dalma-23YKQC2HSVHJPNB2SBXVEJTNPI/",
+   "resume": "Chassé de la Place Cogeco, l'événement almatois s'est réinventé dans le stationnement de l'église Saint-Joseph.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/arts/art-local/2026/09/07/mission-accomplie-pour-la-9e-edition-du-festival-dhumour-dalma-23YKQC2HSVHJPNB2SBXVEJTNPI/",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "le-festival-d-humour-d-alma-referme-une-9e-edition-qu-il-jug-263cce",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "le-festival-d-humour-d-alma-referme-une-9e-edition-qu-il-jug-263cce"
+  },
+  {
+   "titre": "Michèle Audette entame un mois de retraite au site ancestral innu du Mushuau-nipi",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Mushuau-nipi (Côte-Nord)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/bonjour-la-cote/segments/rattrapage/2470651/michele-audette-un-mois-dans-mushuau-nipi",
+   "resume": "La sénatrice s'y rend chaque année, sur la passe migratoire du troupeau de caribous de la rivière George.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/bonjour-la-cote/segments/rattrapage/2470651/michele-audette-un-mois-dans-mushuau-nipi",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "michele-audette-entame-un-mois-de-retraite-au-site-ancestral-0b2aa4",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "michele-audette-entame-un-mois-de-retraite-au-site-ancestral-0b2aa4"
+  },
+  {
+   "titre": "La murale montréalaise du cycliste Hugo Houle cède sa place à celle de son coéquipier Michael Woods",
+   "cahier": "montreal",
+   "rubrique": "societe",
+   "territoire": "Montréal",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/montreal-mural-of-quebec-cyclist-hugo-houle-replaced-by-image-of-michael-woods-9.7335017?cmp=rss",
+   "resume": "L'immeuble appartient à l'homme d'affaires derrière l'équipe cycliste des deux coureurs, à quelques jours des Mondiaux à Montréal.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-mural-of-quebec-cyclist-hugo-houle-replaced-by-image-of-michael-woods-9.7335017?cmp=rss",
+     "date": "2026-09-08T07:31-04:00"
+    }
+   ],
+   "permalien": "la-murale-montrealaise-du-cycliste-hugo-houle-cede-sa-place-540d99",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-08.json",
+   "_slug": "la-murale-montrealaise-du-cycliste-hugo-houle-cede-sa-place-540d99"
+  },
+  {
    "titre": "Stéphane Boyer révèle un méningiome, mais entend rester à la mairie de Laval",
    "cahier": "montreal",
    "rubrique": "politique",
    "territoire": "Laval",
-   "medias": "La Presse, Journal de Montréal, Le Devoir",
+   "medias": "La Presse, Journal de Montréal, Le Devoir, CBC, Courrier Laval, Le Canada Français",
    "url": "https://www.lapresse.ca/actualites/politique/2026-09-07/le-maire-de-laval-est-atteint-d-une-tumeur-au-cerveau.php",
    "resume": "Il promet de rester en poste, reste à savoir ce que la suite des examens lui réserve.",
    "sources": [
@@ -1560,6 +2172,21 @@
      "url": "https://www.ledevoir.com/politique/regions/1006982/maire-laval-stephane-boyer-annonce-etre",
      "auteur": "La Presse Canadienne",
      "date": "2026-09-07T00:00-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/laval-mayor-says-he-s-been-diagnosed-with-brain-tumour-will-stay-in-office-while-awaiting-next-steps-9.7334698?cmp=rss",
+     "date": "2026-09-08T07:31-04:00"
+    },
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/le-maire-de-laval-stephane-boyer-est-atteint-dune-tumeur-au-cerveau/",
+     "date": "2026-09-07T09:55-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/le-maire-de-laval-stephane-boyer-annonce-etre-atteint-dune-tumeur-au-cerveau/",
+     "date": "2026-09-07T15:00-04:00"
     }
    ],
    "horodate": "2026-09-08T06:07-04:00",
@@ -1598,6 +2225,7 @@
    "photo": "",
    "legende": "",
    "permalien": "un-trentenaire-attaque-a-l-arme-blanche-en-pleine-nuit-pres-4f8946",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "un-trentenaire-attaque-a-l-arme-blanche-en-pleine-nuit-pres-4f8946"
@@ -1607,7 +2235,7 @@
    "cahier": "quebec",
    "rubrique": "justice",
    "territoire": "Saint-Raymond (Portneuf)",
-   "medias": "Journal de Québec, Radio-Canada",
+   "medias": "Journal de Québec, Radio-Canada, Zone 911",
    "url": "https://www.journaldequebec.com/2026/09/07/une-personne-blessee-serieusement-a-la-suite-dune-invasion-de-domicile-a-saint-raymond-un-suspect-arrete",
    "resume": "La piste du crime organisé n'est pour l'instant pas retenue par les enquêteurs de la Sûreté du Québec.",
    "sources": [
@@ -1622,12 +2250,18 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281248/braquage-agression-saint-raymond",
      "auteur": "Marie-Christine Gagnon",
      "date": "2026-09-07T09:08-04:00"
+    },
+    {
+     "media": "Zone 911",
+     "url": "https://zone911.com/scenes-policieres/saint-raymond-une-femme-et-un-homme-blesses-lors-dune-invasion-de-domicile",
+     "date": "2026-09-08T07:31-04:00"
     }
    ],
    "horodate": "2026-09-08T06:07-04:00",
    "photo": "",
    "legende": "",
    "permalien": "une-invasion-a-main-armee-fait-deux-blesses-dans-une-residen-bc709f",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "une-invasion-a-main-armee-fait-deux-blesses-dans-une-residen-bc709f"
@@ -1652,6 +2286,7 @@
    "photo": "",
    "legende": "",
    "permalien": "le-nouveau-systeme-de-consignes-du-quebec-fait-face-a-des-cr-bfb99c",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "le-nouveau-systeme-de-consignes-du-quebec-fait-face-a-des-cr-bfb99c"
@@ -1702,6 +2337,7 @@
    "photo": "",
    "legende": "",
    "permalien": "le-constructeur-chinois-byd-sonde-une-usine-ontarienne-penda-7c42fc",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "le-constructeur-chinois-byd-sonde-une-usine-ontarienne-penda-7c42fc"
@@ -1725,6 +2361,7 @@
    "photo": "",
    "legende": "",
    "permalien": "un-detenu-ne-revient-pas-d-une-sortie-autorisee-du-penitenci-241d70",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "un-detenu-ne-revient-pas-d-une-sortie-autorisee-du-penitenci-241d70"
@@ -1749,6 +2386,7 @@
    "photo": "",
    "legende": "",
    "permalien": "quebec-a-mis-sur-pied-58-programmes-acceleres-pour-combler-l-dbbfc6",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "quebec-a-mis-sur-pied-58-programmes-acceleres-pour-combler-l-dbbfc6"
@@ -1773,6 +2411,7 @@
    "photo": "",
    "legende": "",
    "permalien": "une-erreur-d-une-policiere-a-livre-a-un-ex-conjoint-violent-b1fde4",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "une-erreur-d-une-policiere-a-livre-a-un-ex-conjoint-violent-b1fde4"
@@ -1797,6 +2436,7 @@
    "photo": "",
    "legende": "",
    "permalien": "deux-sergents-des-forces-armees-canadiennes-purgeront-une-pe-f6f611",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "deux-sergents-des-forces-armees-canadiennes-purgeront-une-pe-f6f611"
@@ -1821,6 +2461,7 @@
    "photo": "",
    "legende": "",
    "permalien": "aux-tests-pisa-2025-le-quebec-devance-toutes-les-provinces-e-5aa205",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "aux-tests-pisa-2025-le-quebec-devance-toutes-les-provinces-e-5aa205"
@@ -1845,6 +2486,7 @@
    "photo": "",
    "legende": "",
    "permalien": "une-etude-chiffre-pour-la-premiere-fois-precisement-l-emprei-778572",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "une-etude-chiffre-pour-la-premiere-fois-precisement-l-emprei-778572"
@@ -1900,6 +2542,7 @@
    "photo": "",
    "legende": "",
    "permalien": "le-canada-perd-du-terrain-dans-la-course-aux-satellites-de-s-25c0a2",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "le-canada-perd-du-terrain-dans-la-course-aux-satellites-de-s-25c0a2"
@@ -1924,6 +2567,7 @@
    "photo": "",
    "legende": "",
    "permalien": "des-avertissements-ignores-pendant-des-annees-ont-precede-l-4ac812",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "des-avertissements-ignores-pendant-des-annees-ont-precede-l-4ac812"
@@ -1948,6 +2592,7 @@
    "photo": "",
    "legende": "",
    "permalien": "un-an-apres-sa-creation-le-centre-franco-ontarien-de-planifi-ffe5df",
+   "image_auto": "aucune",
    "_volet": "quebec-canada",
    "_fichier": "revue-quebec-canada-2026-09-08.json",
    "_slug": "un-an-apres-sa-creation-le-centre-franco-ontarien-de-planifi-ffe5df"
@@ -2320,7 +2965,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada, États-Unis",
-   "medias": "CBC, La Presse, Les Affaires, RFI, The Globe and Mail, Le Temps, Québecor",
+   "medias": "CBC, La Presse, Les Affaires, RFI, The Globe and Mail, Le Temps, Québecor, Le Canada Français",
    "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/guerre-commerciale/trump-menace-d-interdire-la-vente-d-avions-de-bombardier-aux-etats-unis.php",
    "sources": [
     {
@@ -2361,6 +3006,11 @@
      "media": "Le Journal de Montréal",
      "url": "https://www.journaldemontreal.com/2026/09/07/donald-trump-sen-prend-aux-produits-de-bombardier",
      "date": "2026-09-07T13:55-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/trump-ne-veut-plus-que-les-produits-de-bombardier-soient-vendus-aux-e-u/",
+     "date": "2026-09-08T07:31-04:00"
     }
    ],
    "resume": "Mise à jour, 22 h 28 — La menace sur les jets d'affaires précède de quelques heures de nouveaux contre-tarifs canadiens.",
@@ -2916,7 +3566,7 @@
    "cahier": "quebec",
    "rubrique": "environnement",
    "territoire": "Québec (Capitale-Nationale)",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, Coops de l'information",
    "url": "https://ici.radio-canada.ca/nouvelle/2281366/moratoire-energie-eoliens-politique-quebec",
    "sources": [
     {
@@ -2924,6 +3574,11 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281366/moratoire-energie-eoliens-politique-quebec",
      "date": "2026-09-07T17:04-04:00",
      "auteur": "Jérémie Camirand"
+    },
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.ledroit.com/actualites/le-fil-des-coops/2026/09/07/des-centaines-dagriculteurs-prennent-la-rue-pour-freiner-les-eoliennes-SYY5K7N2IRBNVEZVQ3EOC35YLA/",
+     "date": "2026-09-08T07:31-04:00"
     }
    ],
    "resume": "Des citoyens et des organismes ont manifesté lundi pour freiner l'implantation de nouveaux parcs éoliens.",
