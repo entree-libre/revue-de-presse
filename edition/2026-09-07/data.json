@@ -2350,7 +2350,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Le Devoir, Radio-Canada",
+   "medias": "Le Devoir, Les Affaires, Radio-Canada",
    "url": "https://www.ledevoir.com/economie/1007081/contre-tarifs-douaniers-canadiens-entrent-vigueur-mardi",
    "sources": [
     {
@@ -2364,12 +2364,18 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281350/fete-travail-tarifs-travailleurs",
      "date": "2026-09-07T15:11-04:00",
      "auteur": "Pierre Chapdelaine de Montvalon"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/manufacturier/acier-et-aluminium-cadres-de-portes-et-de-fenetres-echafaudages-voici-les-produits-cibles-par-les-contre-tarifs/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-07T19:10-04:00"
     }
    ],
-   "resume": "Ottawa réplique ainsi à l'échec des négociations commerciales avec Washington, plus tôt cet été.",
+   "resume": "Mise à jour, 20 h 38 — Cadres de portes et fenêtres, échafaudages et profilés en acier et en aluminium sont visés.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-07T18:43-04:00",
+   "horodate": "2026-09-07T20:38-04:00",
    "permalien": "les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a",
    "image_auto": "aucune",
    "_volet": "continu",
@@ -2550,6 +2556,251 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-07.json",
    "_slug": "des-failles-dans-des-televiseurs-lg-permettraient-d-ecouter-402c5a"
+  },
+  {
+   "titre": "Le procureur général d'Ukraine démissionne au cœur d'un vaste scandale de corruption",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Ukraine",
+   "medias": "RFI, franceinfo, Kyiv Independent, Kyiv Post",
+   "url": "https://www.rfi.fr/fr/europe/20260907-ukraine-le-procureur-g%C3%A9n%C3%A9ral-d%C3%A9missionne-apr%C3%A8s-des-accusations-de-corruption",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260907-ukraine-le-procureur-g%C3%A9n%C3%A9ral-d%C3%A9missionne-apr%C3%A8s-des-accusations-de-corruption",
+     "auteur": "RFI avec AFP",
+     "date": "2026-09-07T18:37-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-le-procureur-general-demissionne-sur-fond-d-accusations-de-corruption_8181800.html",
+     "date": "2026-09-07T18:13-04:00"
+    },
+    {
+     "media": "Kyiv Independent",
+     "url": "https://kyivindependent.com/breaking-ukraines-prosecutor-general-resigns-amid-major-corruption-scandal/",
+     "date": "2026-09-07T18:41-04:00"
+    },
+    {
+     "media": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/83978",
+     "date": "2026-09-07T18:32-04:00",
+     "auteur": "Sevinj Osmanqizi"
+    }
+   ],
+   "resume": "Deux agences anticorruption disent avoir démantelé un réseau qui protégeait des centres d'appels frauduleux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T20:38-04:00",
+   "permalien": "le-procureur-general-d-ukraine-demissionne-au-cur-d-un-vaste-571e56",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "le-procureur-general-d-ukraine-demissionne-au-cur-d-un-vaste-571e56"
+  },
+  {
+   "titre": "Le fils de Jair Bolsonaro rassemble une foule immense à São Paulo avant la présidentielle",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Brésil",
+   "medias": "Le Parisien, La Presse",
+   "url": "https://www.leparisien.fr/international/une-candidature-de-protestation-le-fils-de-jair-bolsonaro-candidat-a-la-presidentielle-au-bresil-reunit-une-foule-monstre-a-sao-paulo-08-09-2026-CDJVWVXKQFFPXOBBIMYPRGWPRE.php",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/une-candidature-de-protestation-le-fils-de-jair-bolsonaro-candidat-a-la-presidentielle-au-bresil-reunit-une-foule-monstre-a-sao-paulo-08-09-2026-CDJVWVXKQFFPXOBBIMYPRGWPRE.php",
+     "date": "2026-09-07T19:17-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/amerique-latine/2026-09-07/bresil/flavio-bolsonaro-reunit-des-milliers-de-partisans-a-l-approche-de-la-presidentielle.php",
+     "date": "2026-09-07T19:35-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Flavio Bolsonaro conteste la condamnation de son père et vise la présidence face à Lula.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T20:38-04:00",
+   "permalien": "le-fils-de-jair-bolsonaro-rassemble-une-foule-immense-a-sao-9be35b",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "le-fils-de-jair-bolsonaro-rassemble-une-foule-immense-a-sao-9be35b"
+  },
+  {
+   "titre": "Les tribunaux québécois balisent l'usage de l'IA générative par les juges",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/canada/article-quebec-courts-restrict-judges-use-ai-guidelines/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/article-quebec-courts-restrict-judges-use-ai-guidelines/",
+     "auteur": "Pierre Saint-Arnaud",
+     "date": "2026-09-07T19:00-04:00"
+    }
+   ],
+   "resume": "De nouvelles directives rappellent que juger doit rester une responsabilité fondamentalement humaine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T20:38-04:00",
+   "permalien": "les-tribunaux-quebecois-balisent-l-usage-de-l-ia-generative-f6e440",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "les-tribunaux-quebecois-balisent-l-usage-de-l-ia-generative-f6e440"
+  },
+  {
+   "titre": "Une garantie ajoutée aux électroménagers pourrait faire grimper leur prix au Québec",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/une-nouvelle-garantie-sur-les-electromenagers-fait-craindre-des-hausses-de-prix/",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/une-nouvelle-garantie-sur-les-electromenagers-fait-craindre-des-hausses-de-prix/",
+     "date": "2026-09-07T18:05-04:00",
+     "auteur": "Audrey Sanikopoulos et La Presse Canadienne"
+    }
+   ],
+   "resume": "Cette clause s'ajouterait aux hausses déjà causées par les tarifs américains et les contre-mesures canadiennes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T20:38-04:00",
+   "permalien": "une-garantie-ajoutee-aux-electromenagers-pourrait-faire-grim-d1cea9",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "une-garantie-ajoutee-aux-electromenagers-pourrait-faire-grim-d1cea9"
+  },
+  {
+   "titre": "Le tabagisme passif a causé 1,6 million de morts dans le monde en 2023, selon une étude",
+   "cahier": "savoirs",
+   "rubrique": "sante",
+   "territoire": "",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/sciences/2026-09-07/selon-une-etude/le-tabagisme-passif-responsable-de-plus-de-1-6-million-de-deces-dans-le-monde-en-2023.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/sciences/2026-09-07/selon-une-etude/le-tabagisme-passif-responsable-de-plus-de-1-6-million-de-deces-dans-le-monde-en-2023.php",
+     "date": "2026-09-07T18:46-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Près de 2,7 milliards de personnes y seraient exposées, la prévalence augmentant en Afrique et au Moyen-Orient.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T20:38-04:00",
+   "permalien": "le-tabagisme-passif-a-cause-1-6-million-de-morts-dans-le-mon-4d796e",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "le-tabagisme-passif-a-cause-1-6-million-de-morts-dans-le-mon-4d796e"
+  },
+  {
+   "titre": "Des ballons-sondes aident à prévoir les orages violents de l'été à Saskatoon",
+   "cahier": "canada",
+   "rubrique": "sciences",
+   "territoire": "Saskatchewan",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12048547/summer-storm-weather-balloons-saskatoon/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12048547/summer-storm-weather-balloons-saskatoon/",
+     "auteur": "Chris Carr",
+     "date": "2026-09-07T18:40-04:00"
+    }
+   ],
+   "resume": "Le programme recueille des données qui permettent d'anticiper le mauvais temps avant qu'il touche le sol.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T20:38-04:00",
+   "permalien": "des-ballons-sondes-aident-a-prevoir-les-orages-violents-de-l-2540a6",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "des-ballons-sondes-aident-a-prevoir-les-orages-violents-de-l-2540a6"
+  },
+  {
+   "titre": "Le stationnement du parc de la Gatineau surprend des visiteurs en devenant payant",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10754419/visiteurs-surpris-payer-leur-stationnement-dans-parc-gatineau",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10754419/visiteurs-surpris-payer-leur-stationnement-dans-parc-gatineau",
+     "date": "2026-09-07T19:42-04:00"
+    }
+   ],
+   "resume": "La mesure de la Commission de la capitale nationale avait pourtant été annoncée depuis plusieurs semaines.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T20:38-04:00",
+   "permalien": "le-stationnement-du-parc-de-la-gatineau-surprend-des-visiteu-f3ad7a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "le-stationnement-du-parc-de-la-gatineau-surprend-des-visiteu-f3ad7a"
+  },
+  {
+   "titre": "Charline Bourgeois-Tacquet filme une femme de 50 ans accomplie sans être mère",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20260907-dans-la-vie-d-une-femme-charline-bourgeois-tacquet-renverse-les-codes-du-r%C3%A9cit-f%C3%A9minin",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20260907-dans-la-vie-d-une-femme-charline-bourgeois-tacquet-renverse-les-codes-du-r%C3%A9cit-f%C3%A9minin",
+     "auteur": "Léa Boutin-Rivière",
+     "date": "2026-09-07T18:55-04:00"
+    }
+   ],
+   "resume": "Sa nouvelle œuvre bouscule l'idée qu'une femme épanouie doive nécessairement passer par la maternité.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T20:38-04:00",
+   "permalien": "charline-bourgeois-tacquet-filme-une-femme-de-50-ans-accompl-cf2b8b",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "charline-bourgeois-tacquet-filme-une-femme-de-50-ans-accompl-cf2b8b"
+  },
+  {
+   "titre": "Uashat mak Mani-utenam célèbre l'entrée en vigueur prochaine de sa loi sur la protection de l'enfance",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Uashat mak Mani-utenam (Côte-Nord)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281424/celebration-loi-protection-enfants-uashat-tshisheuatishitau",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281424/celebration-loi-protection-enfants-uashat-tshisheuatishitau",
+     "date": "2026-09-07T19:30-04:00",
+     "auteur": "Lucas Handschuh"
+    }
+   ],
+   "resume": "La communauté innue de la Côte-Nord doit appliquer sa nouvelle loi dès le 14 septembre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T20:38-04:00",
+   "permalien": "uashat-mak-mani-utenam-celebre-l-entree-en-vigueur-prochaine-54da44",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "uashat-mak-mani-utenam-celebre-l-entree-en-vigueur-prochaine-54da44"
   },
   {
    "titre": "À Radisson, dans le Nord-du-Québec, l'essence se vend jusqu'à 2,37 $ le litre",
@@ -6303,7 +6554,7 @@
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Miami (Floride)",
-   "medias": "20 Minutes, Europe 1, France 24, Global News, La Presse, Le Figaro, Le Soleil, Ouest-France, TV5MONDE, The Verge, franceinfo",
+   "medias": "20 Minutes, Europe 1, France 24, Global News, La Presse, Le Figaro, Le Parisien, Le Soleil, Ouest-France, Radio-Canada, TV5MONDE, The Verge, franceinfo",
    "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
    "sources": [
     {
@@ -6378,12 +6629,22 @@
      "url": "https://globalnews.ca/news/12050224/miami-amazon-plane-crash-ntsb-update/",
      "auteur": "Sean Previl",
      "date": "2026-09-07T17:21-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281379/miami-avion-cargo-accident",
+     "date": "2026-09-07T19:09-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/victimes-dans-les-vehicules-vitesse-trop-elevee-lenquete-sur-lavion-cargo-damazon-accidente-a-miami-avance-la-boite-noire-recuperee-08-09-2026-R5P75CWQJRFK3OFZXWPODPQK2E.php",
+     "date": "2026-09-07T19:10-04:00"
     }
    ],
-   "resume": "Mise à jour, 15 h 53 — Miami n'a pas les systèmes d'arrêt d'urgence installés dans plus de 120 aéroports américains, selon la FAA.",
+   "resume": "Mise à jour, 20 h 38 — Les enquêteurs fédéraux ont récupéré la boîte noire de l'appareil accidenté.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-07T15:53-04:00",
+   "horodate": "2026-09-07T20:38-04:00",
    "permalien": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259",
    "image_auto": "aucune",
    "_fichier": "revue-report-2026-09-07.json",
