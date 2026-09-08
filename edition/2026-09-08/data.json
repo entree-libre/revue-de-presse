@@ -222,7 +222,8 @@
     {
      "media": "TVA Nouvelles",
      "url": "https://www.tvanouvelles.ca/2026/09/08/indonesie-un-bateau-porte-disparu-avec-des-journalistes-couvrant-une-eruption-volcanique",
-     "date": "2026-09-08T14:53-04:00"
+     "date": "2026-09-08T14:53-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "Mise à jour, 14 h 53 — Cinq journalistes comptent parmi les huit personnes portées disparues avec leur embarcation.",
@@ -1066,7 +1067,8 @@
     {
      "media": "Euronews",
      "url": "https://fr.euronews.com/2026/09/08/les-emirats-auraient-averti-benyamin-netanyahou-de-lattaque-du-7-octobre-selon-le-journal-",
-     "date": "2026-09-08T13:58-04:00"
+     "date": "2026-09-08T13:58-04:00",
+     "auteur": "Peter Barabas et Nathan Rennolds"
     }
    ],
    "resume": "Mise à jour, 13 h 58 — Le bureau de Netanyahou nuance sa position : les services de renseignement des deux pays ont pu échanger.",
@@ -1374,7 +1376,8 @@
     {
      "media": "Al Jazeera",
      "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts",
-     "date": "2026-09-08T14:36-04:00"
+     "date": "2026-09-08T14:36-04:00",
+     "auteur": "Associated Press"
     },
     {
      "media": "Radio-Canada",
@@ -1414,7 +1417,8 @@
     {
      "media": "Libération",
      "url": "https://www.liberation.fr/international/moyen-orient/les-operations-disrael-en-syrie-pourraient-constituer-des-crimes-de-guerre-selon-une-commission-denquete-de-lonu-20260908_WCG253MPUVB6TEF25AWCUEOKFA/",
-     "date": "2026-09-08T14:50-04:00"
+     "date": "2026-09-08T14:50-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "Mise à jour, 14 h 50 — La commission doit présenter un rapport complet sur ces frappes au Conseil des droits de l'homme au printemps.",
@@ -1574,7 +1578,8 @@
     {
      "media": "Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/08/les-prejudices-en-ligne-principale-menace-pour-les-enfants-au-canada",
-     "date": "2026-09-08T15:21-04:00"
+     "date": "2026-09-08T15:21-04:00",
+     "auteur": "Alexandra Lopis"
     }
    ],
    "resume": "Le Centre canadien de protection de l'enfance traite plus de 100 000 signalements d'abus en ligne chaque mois.",
@@ -1584,6 +1589,7 @@
    "volet": "continu",
    "permalien": "le-numerique-depasse-l-intimidation-comme-premier-danger-pou-45cb6c",
    "entree": "2026-09-08T15:21-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-08.json",
    "_slug": "le-numerique-depasse-l-intimidation-comme-premier-danger-pou-45cb6c"
@@ -1604,7 +1610,8 @@
     {
      "media": "Journal de Québec",
      "url": "https://www.journaldequebec.com/2026/09/08/lex-cardiologue-guy-turcotte-espere-obtenir-des-sorties-de-prison-avec-escorte",
-     "date": "2026-09-08T15:15-04:00"
+     "date": "2026-09-08T15:15-04:00",
+     "auteur": "Jean-François Racine"
     },
     {
      "media": "La Presse",
@@ -1620,6 +1627,7 @@
    "volet": "continu",
    "permalien": "guy-turcotte-comparaitra-le-22-septembre-devant-la-commissio-bc841c",
    "entree": "2026-09-08T15:15-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-08.json",
    "_slug": "guy-turcotte-comparaitra-le-22-septembre-devant-la-commissio-bc841c"
@@ -1697,7 +1705,8 @@
     {
      "media": "Journal Métro",
      "url": "https://journalmetro.com/actualites/montreal/3226733/entente-de-principe-conclue-entre-la-ville-de-montreal-et-les-pompiers-de-montre/",
-     "date": "2026-09-08T15:08-04:00"
+     "date": "2026-09-08T15:08-04:00",
+     "auteur": "Maïté Paradis"
     }
    ],
    "resume": "Le contenu de l'entente reste secret : le syndicat veut le réserver d'abord à ses membres.",
@@ -1752,7 +1761,8 @@
     {
      "media": "Courrier international",
      "url": "https://www.courrierinternational.com/article/musees-l-historien-noir-lonnie-bunch-quitte-la-tete-de-la-smithsonian-institution-attaquee-par-trump_269019",
-     "date": "2026-09-08T14:39-04:00"
+     "date": "2026-09-08T14:39-04:00",
+     "auteur": "Gabriel Hassan"
     }
    ],
    "resume": "Cette page se tourne alors que Washington multiplie les pressions sur les institutions culturelles de la capitale.",
@@ -1779,7 +1789,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2281690/bombardier-guerre-commerciale-delastek-shawinigan",
-     "date": "2026-09-08T15:04-04:00"
+     "date": "2026-09-08T15:04-04:00",
+     "auteur": "Louis Cloutier et Pascale Langlois"
     }
    ],
    "resume": "Le syndicat Unifor, qui représente aussi 7000 employés ailleurs dans l'aéronautique, dit ignorer à quoi s'attendre avec Washington.",
@@ -1789,6 +1800,7 @@
    "volet": "continu",
    "permalien": "la-guerre-commerciale-fragilise-delastek-sous-traitant-aeros-40e057",
    "entree": "2026-09-08T15:04-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-08.json",
    "_slug": "la-guerre-commerciale-fragilise-delastek-sous-traitant-aeros-40e057"
@@ -1815,6 +1827,7 @@
    "volet": "continu",
    "permalien": "un-complice-presume-est-arrete-dans-le-meurtre-du-barbier-jo-fc1a93",
    "entree": "2026-09-08T15:08-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-08.json",
    "_slug": "un-complice-presume-est-arrete-dans-le-meurtre-du-barbier-jo-fc1a93"
@@ -2514,7 +2527,7 @@
    "cahier": "elections",
    "rubrique": "societe",
    "territoire": "Québec (Capitale-Nationale)",
-   "medias": "Coops de l'information, Radio-Canada",
+   "medias": "Coops de l'information, Radio-Canada, La Presse",
    "url": "https://www.lesoleil.com/actualites/actualites-locales/la-capitale/2026/09/08/marchand-lance-litinerance-zero-dans-la-campagne-HC5WDZKNEREUVL3RBN3SQJEVR4/",
    "resume": "Un maire mise sur le débat des cinq chefs prévu mercredi pour arracher un engagement commun.",
    "photo": "",
@@ -2532,6 +2545,30 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281479/marchand-itinerance-ville-zero-partis",
      "date": "2026-09-08T08:02-04:00",
      "auteur": "Raphaël Beaumont-Drouin"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-08/les-chefs-parlent-trop-peu-d-itinerance-denonce-bruno-marchand.php",
+     "auteur": "Henri Ouellette-Vézina",
+     "date": "2026-09-08T14:20-04:00"
+    },
+    {
+     "media": "Mon Limoilou",
+     "url": "https://monlimoilou.com/2026/marchand-met-les-partis-au-defi-sur-litinerance/",
+     "auteur": "Christophe Gagnon-Fortin",
+     "date": "2026-09-08T14:34-04:00"
+    },
+    {
+     "media": "Mon Saint-Roch",
+     "url": "https://monsaintroch.com/2026/marchand-met-les-partis-au-defi-sur-litinerance/",
+     "auteur": "Christophe Gagnon-Fortin",
+     "date": "2026-09-08T14:34-04:00"
+    },
+    {
+     "media": "Mon Saint-Sauveur",
+     "url": "https://monsaintsauveur.com/2026/marchand-met-les-partis-au-defi-sur-litinerance/",
+     "auteur": "Christophe Gagnon-Fortin",
+     "date": "2026-09-08T14:34-04:00"
     }
    ],
    "permalien": "bruno-marchand-presse-les-cinq-chefs-de-parti-de-s-engager-f-841da8",
@@ -2782,13 +2819,13 @@
    "_slug": "quebec-solidaire-refuse-de-couper-dans-la-fonction-publiqu-344ef9"
   },
   {
-   "titre": "Guerre tarifaire : Fréchette annonce un bouclier économique, le PQ et QS l'accusent d'avoir cédé à Ottawa",
+   "titre": "Guerre tarifaire : Fréchette chiffre son bouclier à 1,5 milliard $, les partis d'opposition la critiquent en bloc",
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Journal Métro, La Presse, FM93, 98.5 Montréal",
+   "medias": "Journal Métro, La Presse, FM93, 98.5 Montréal, Le Canada Français",
    "url": "https://journalmetro.com/actualites/elections/3226703/christine-frechette-veut-se-tenir-debout-face-a-la-guerre-tarifaire/",
-   "resume": "Elle promet de s'être tenue debout devant Ottawa — l'opposition n'y voit qu'une capitulation.",
+   "resume": "Mise à jour, 15 h — L'absent de la rencontre essuie une charge inattendue, venue cette fois du camp gouvernemental.",
    "sources": [
     {
      "media": "Journal Métro",
@@ -2819,11 +2856,23 @@
      "url": "https://www.985fm.ca/audio/800429/christine-frechette-est-elle-la-meilleure-pour-faire-face-a-la-crise-tarifaire",
      "date": "2026-09-08T12:46-04:00",
      "auteur": "Olivier Couture et Félix-Antoine Bétil"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226741/guerre-tarifaire-feux-groupes-contre-christine-frechette/",
+     "auteur": "Maïté Paradis",
+     "date": "2026-09-08T15:10-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/15-milliard-aux-entreprises-quebecoises-pour-contrer-lintimidateur/",
+     "auteur": "Patrice Bergeron, La Presse Canadienne",
+     "date": "2026-09-08T12:26-04:00"
     }
    ],
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T13:26-04:00",
+   "horodate": "2026-09-08T15:10-04:00",
    "permalien": "guerre-tarifaire-frechette-annonce-un-bouclier-economique-le-88a671",
    "image_auto": "aucune",
    "entree": "2026-09-08T13:26-04:00",
@@ -2888,6 +2937,114 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-08.json",
    "_slug": "paul-st-pierre-plamondon-dit-vouloir-un-gouvernement-pequist-5991b8"
+  },
+  {
+   "titre": "Milliard promet de hausser à 195 milliards $ le programme d'infrastructures du Québec",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+   "resume": "Devant une école de Sherbrooke, le chef libéral mise gros sur l'éducation pour se distinguer.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:35-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "milliard-promet-de-hausser-a-195-milliards-le-programme-d-in-076eba",
+   "entree": "2026-09-08T14:35-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "milliard-promet-de-hausser-a-195-milliards-le-programme-d-in-076eba"
+  },
+  {
+   "titre": "Trois partis convergent sur la santé mentale dans un débat boudé par la CAQ et le PCQ",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec (Montréal)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1007321/pq-plq-qs-accordent-comment-ameliorer-sante-mentale",
+   "resume": "Chacun promet de mieux financer le communautaire, mais personne ne peut encore en dire le prix.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:33-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007321/pq-plq-qs-accordent-comment-ameliorer-sante-mentale",
+     "auteur": "Florence Morin-Martel",
+     "date": "2026-09-08T14:33-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "trois-partis-convergent-sur-la-sante-mentale-dans-un-debat-b-02c3ab",
+   "entree": "2026-09-08T14:33-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "trois-partis-convergent-sur-la-sante-mentale-dans-un-debat-b-02c3ab"
+  },
+  {
+   "titre": "Le chiffre d'une personne sur trois brandi par Ruba Ghazal ne trouve pas d'appui dans les données officielles",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/09/linsecurite-alimentaire-touche-t-elle-une-personne-sur-trois-au-quebec-comme-laffirme-ruba-ghazal",
+   "resume": "Entre le sondage cité par Québec solidaire et les statistiques officielles, l'écart interroge en pleine campagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:30-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/09/linsecurite-alimentaire-touche-t-elle-une-personne-sur-trois-au-quebec-comme-laffirme-ruba-ghazal",
+     "auteur": "Nicolas Brasseur",
+     "date": "2026-09-08T15:30-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-chiffre-d-une-personne-sur-trois-brandi-par-ruba-ghazal-n-50adb5",
+   "entree": "2026-09-08T15:30-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "le-chiffre-d-une-personne-sur-trois-brandi-par-ruba-ghazal-n-50adb5"
   },
   {
    "titre": "Six entreprises de voyage visées par une demande d'action collective sur des prix affichés",
@@ -3874,7 +4031,8 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/08/serbie-des-legislatives-anticipees-auront-lieu-le-25-octobre-annonce-le-president-qui-dissoudra-l-assemblee-mercredi_6768516_3210.html",
-     "date": "2026-09-08T15:20-04:00"
+     "date": "2026-09-08T15:20-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "horodate": "2026-09-08T15:20-04:00",
@@ -6513,7 +6671,8 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2281641/entreprises-beauce-quebec-consequences-contre-tarifs",
-     "date": "2026-09-08T14:13-04:00"
+     "date": "2026-09-08T14:13-04:00",
+     "auteur": "Marie-Christine Gagnon"
     }
    ],
    "resume": "Mise à jour, 14 h 13 — Des chefs d'entreprise à Beauce et ailleurs au Québec redoutent déjà des pertes liées à la riposte.",
