@@ -63,7 +63,7 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "France",
-   "medias": "France 24, CNEWS, franceinfo",
+   "medias": "France 24, CNEWS, franceinfo, Radio-Canada",
    "url": "https://www.france24.com/fr/info-en-continu/20260908-la-tour-eiffel-doit-rouvrir-apr%C3%A8s-une-gr%C3%A8ve-contre-la-discrimination-des-employ%C3%A9es",
    "sources": [
     {
@@ -82,12 +82,23 @@
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/societe/l-eviction-du-personnel-feminin-de-la-tour-eiffel-lors-d-un-evenement-hindou-est-un-evenement-totalement-choquant-et-inacceptable-assure-ariel-weil-president-de-la-societe-d-exploitation_8182616.html",
      "date": "2026-09-08T01:49-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281514/groupe-hindou-tour-eiffel-greve-reouverture",
+     "date": "2026-09-08T09:53-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-09-08/tour-eiffel-emmanuel-gregoire-demande-ce-que-toute-la-lumiere-soit-faite-apres",
+     "date": "2026-09-08T10:35-04:00",
+     "auteur": "Khalil Rajehi"
     }
    ],
-   "resume": "Le personnel accuse une consigne d'avoir écarté les femmes durant le passage d'une délégation hindoue conservatrice.",
+   "resume": "Mise à jour, 11 h 40 — La tour a rouvert au public mardi, au lendemain de sa fermeture pour grève.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T03:36-04:00",
+   "horodate": "2026-09-08T11:40-04:00",
    "permalien": "la-tour-eiffel-doit-rouvrir-apres-une-greve-denoncant-l-af048c",
    "image_auto": "aucune",
    "_volet": "continu",
@@ -219,7 +230,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "États-Unis",
-   "medias": "Le JDD, CNEWS, Le Figaro",
+   "medias": "Le JDD, CNEWS, Le Figaro, L'Indépendant, 20 Minutes, Le Devoir",
    "url": "https://www.lejdd.fr/International/donald-trump-diffuse-une-carte-des-etats-unis-englobant-les-antilles-francaises-le-mexique-et-le-canada-182874",
    "sources": [
     {
@@ -238,12 +249,29 @@
      "media": "Le Figaro",
      "url": "https://www.lefigaro.fr/international/donald-trump-publie-une-carte-des-etats-unis-englobant-le-mexique-le-canada-et-les-antilles-francaises-20260907",
      "date": "2026-09-07T16:59-04:00"
+    },
+    {
+     "media": "L'Indépendant",
+     "url": "https://www.lindependant.fr/2026/09/08/nouvelle-provocation-du-president-americain-donald-trump-publie-une-carte-des-etats-unis-englobant-le-canada-le-groenland-lislande-le-mexique-ainsi-13541010.php",
+     "date": "2026-09-08T08:11-04:00"
+    },
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/etats-unis/4243605-20260908-ile-absorbee-etats-unis-carte-trump-islande-furieuse-convoque-ambassadeur",
+     "date": "2026-09-08T08:24-04:00",
+     "auteur": "Jérôme Diesnis"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/etats-unis/1007222/trump-fait-polemique-placant-islande-mexique-caraibes-sous-banniere-americaine",
+     "date": "2026-09-08T09:43-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
-   "resume": "Publiée sans commentaire sur Truth Social, l'image intègre aussi le Groenland, Cuba et l'Islande.",
+   "resume": "Mise à jour, 11 h 40 — L'Islande a convoqué l'ambassadeur américain ; la carte inclut aussi la Guadeloupe et la Martinique.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T03:36-04:00",
+   "horodate": "2026-09-08T11:40-04:00",
    "permalien": "donald-trump-diffuse-une-carte-des-etats-unis-englobant-2731f0",
    "image_auto": "aucune",
    "_volet": "continu",
@@ -562,6 +590,274 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-08.json",
    "_slug": "moody-s-abaisse-a-1-sa-prevision-de-croissance-pour-l-econom-acd857"
+  },
+  {
+   "titre": "Douze pays, dont le Canada, veulent sanctionner le commerce des colonies israéliennes",
+   "cahier": "international",
+   "rubrique": "diplomatie",
+   "territoire": "Cisjordanie",
+   "medias": "Le Devoir, Libération, Le Monde, France 24, RFI",
+   "url": "https://www.ledevoir.com/monde/moyen-orient/1007237/canada-11-autres-pays-veulent-sanctionner-commerce-colonies-israeliennes",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1007237/canada-11-autres-pays-veulent-sanctionner-commerce-colonies-israeliennes",
+     "date": "2026-09-08T10:25-04:00",
+     "auteur": "Marie Heuclin et Delphine Touitou"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/cisjordanie-la-france-et-onze-autres-pays-veulent-sanctionner-le-commerce-avec-les-colonies-illegales-israeliennes-20260908_IWQJ5ZRPXRDTVFZC5F6E5SXYME/",
+     "date": "2026-09-08T08:43-04:00",
+     "auteur": "Libération ., AFP ."
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/la-france-le-canada-et-le-royaume-uni-vont-mettre-fin-au-commerce-avec-les-colonies-israeliennes-en-cisjordanie_6768387_3210.html",
+     "date": "2026-09-08T09:03-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/moyen-orient/20260908-cisjordanie-occup%C3%A9e-12-pays-france-veulent-sanctionner-commerce-colonies-isra%C3%ABl",
+     "date": "2026-09-08T10:41-04:00",
+     "auteur": "FRANCE24"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260908-cisjordanie-occup%C3%A9e-12-pays-dont-la-france-et-le-royaume-uni-veulent-sanctionner-le-commerce-avec-les-colonies-isra%C3%A9liennes",
+     "date": "2026-09-08T09:15-04:00",
+     "auteur": "RFI avec AFP"
+    }
+   ],
+   "resume": "La déclaration conjointe évoque des sanctions nationales ou un appui à des restrictions européennes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T11:40-04:00",
+   "permalien": "douze-pays-dont-le-canada-veulent-sanctionner-le-comme-4dc4ba",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "douze-pays-dont-le-canada-veulent-sanctionner-le-comme-4dc4ba"
+  },
+  {
+   "titre": "Poursuivi par Saâda Arbane pour diffamation, l'écrivain Kamel Daoud relaxé à Paris",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "France",
+   "medias": "France 24, franceinfo",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-poursuivi-en-diffamation-par-sa%C3%A2da-arbane-kamel-daoud-relax%C3%A9",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-poursuivi-en-diffamation-par-sa%C3%A2da-arbane-kamel-daoud-relax%C3%A9",
+     "date": "2026-09-08T08:25-04:00",
+     "auteur": "FRANCE24"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/livres/l-ecrivain-kamel-daoud-poursuivi-en-diffamation-par-saada-arbane-une-algerienne-l-accusant-d-avoir-vole-son-histoire-a-ete-relaxe_8183183.html",
+     "date": "2026-09-08T09:50-04:00"
+    }
+   ],
+   "resume": "Le romancier algéro-français avait évoqué la plaignante, sans la nommer, dans une interview de 2025.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T11:40-04:00",
+   "permalien": "le-tribunal-de-paris-relaxe-kamel-daoud-poursuivi-en-d-a620b2",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-tribunal-de-paris-relaxe-kamel-daoud-poursuivi-en-d-a620b2"
+  },
+  {
+   "titre": "Les bombes à sous-munitions ont fait plus de 1000 victimes en 2025",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "U.S. News (Reuters), The Straits Times",
+   "url": "https://www.usnews.com/news/world/articles/2026-09-08/cluster-bomb-casualties-near-record-driven-by-ukraine",
+   "sources": [
+    {
+     "media": "U.S. News (Reuters)",
+     "url": "https://www.usnews.com/news/world/articles/2026-09-08/cluster-bomb-casualties-near-record-driven-by-ukraine",
+     "date": "2026-09-08T09:02-04:00",
+     "auteur": "Reuters"
+    },
+    {
+     "media": "The Straits Times",
+     "url": "https://www.straitstimes.com/asia/cluster-bomb-casualties-near-record-driven-by-war-in-ukraine",
+     "date": "2026-09-08T09:07-04:00"
+    }
+   ],
+   "resume": "Le rapport, publié avant une conférence internationale, recense surtout des victimes ukrainiennes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T11:40-04:00",
+   "permalien": "les-bombes-a-sous-munitions-ont-fait-plus-de-1000-vict-9fb99c",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "les-bombes-a-sous-munitions-ont-fait-plus-de-1000-vict-9fb99c"
+  },
+  {
+   "titre": "L'or que plusieurs pays européens gardaient aux États-Unis revient peu à peu chez eux",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Europe",
+   "medias": "Geo.fr",
+   "url": "https://www.geo.fr/geopolitique/les-europeens-recuperent-leur-or-stocke-aux-etats-unis-depuis-la-guerre-froide-233551",
+   "sources": [
+    {
+     "media": "Geo.fr",
+     "url": "https://www.geo.fr/geopolitique/les-europeens-recuperent-leur-or-stocke-aux-etats-unis-depuis-la-guerre-froide-233551",
+     "date": "2026-09-08T07:56-04:00",
+     "auteur": "Lola Breton"
+    }
+   ],
+   "resume": "Les Pays-Bas viennent de transférer 86 tonnes de leurs réserves américaines vers Londres.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T11:40-04:00",
+   "permalien": "plusieurs-pays-europeens-rapatrient-l-or-qu-ils-stocka-f80a9f",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "plusieurs-pays-europeens-rapatrient-l-or-qu-ils-stocka-f80a9f"
+  },
+  {
+   "titre": "L'UE approuve l'achat de missiles Patriot pour l'Ukraine grâce à un prêt européen",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Interfax-Ukraine, Ukrinform",
+   "url": "https://en.interfax.com.ua/news/general/1200655.html",
+   "sources": [
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1200655.html",
+     "date": "2026-09-08T09:10-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4162089-eu-approves-purchase-of-patriot-missiles-for-ukraine-using-funds-from-ukraine-support-loan.html",
+     "date": "2026-09-08T09:53-04:00"
+    }
+   ],
+   "resume": "La dérogation doit permettre à Kyiv de se procurer des systèmes de défense aérienne avant l'hiver.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T11:40-04:00",
+   "permalien": "l-ue-approuve-l-achat-de-missiles-patriot-pour-l-ukrai-ef2db1",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "l-ue-approuve-l-achat-de-missiles-patriot-pour-l-ukrai-ef2db1"
+  },
+  {
+   "titre": "Adobe simplifie l'usage de l'intelligence artificielle dans son logiciel de montage Premiere Pro",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "The Verge, Mac4Ever",
+   "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+     "date": "2026-09-08T09:00-04:00",
+     "auteur": "Thomas Ricker"
+    },
+    {
+     "media": "Mac4Ever",
+     "url": "https://www.mac4ever.com/mac/197893-adobe-premiere-pro-va-generer-des-videos-et-du-son-directement-dans-la-timeline",
+     "date": "2026-09-08T09:00-04:00"
+    }
+   ],
+   "resume": "Le nouvel outil Generative Media crée vidéo, son et musique sans quitter le montage.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T11:40-04:00",
+   "permalien": "adobe-simplifie-l-usage-de-l-intelligence-artificielle-859ac8",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "adobe-simplifie-l-usage-de-l-intelligence-artificielle-859ac8"
+  },
+  {
+   "titre": "Sa loi sur les réseaux sociaux retoquée, Emmanuel Macron mise sur une règle européenne",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "France",
+   "medias": "Clubic",
+   "url": "https://www.clubic.com/actualite-628807-reseaux-sociaux-interdits-aux-moins-de-15-ans-macron-veut-une-loi-europeenne.html",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628807-reseaux-sociaux-interdits-aux-moins-de-15-ans-macron-veut-une-loi-europeenne.html",
+     "date": "2026-09-08T08:22-04:00",
+     "auteur": "Samir Rahmoune"
+    }
+   ],
+   "resume": "Le Conseil constitutionnel a d'abord retoqué la version strictement française du projet d'interdiction.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T11:40-04:00",
+   "permalien": "sa-loi-sur-les-reseaux-sociaux-retoquee-emmanuel-macro-73a190",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "sa-loi-sur-les-reseaux-sociaux-retoquee-emmanuel-macro-73a190"
+  },
+  {
+   "titre": "Les changements climatiques vont multiplier les glissements de terrain au Québec",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Québec",
+   "medias": "Québec Science",
+   "url": "https://www.quebecscience.qc.ca/environnement/glissements-terrain-quebec/",
+   "sources": [
+    {
+     "media": "Québec Science",
+     "url": "https://www.quebecscience.qc.ca/environnement/glissements-terrain-quebec/",
+     "date": "2026-09-08T08:12-04:00",
+     "auteur": "Annie Labrecque"
+    }
+   ],
+   "resume": "Un exemple cité, à Saint-Jude, décrit une maison emportée par la boue avec toute la famille.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T11:40-04:00",
+   "permalien": "les-changements-climatiques-vont-multiplier-les-glisse-70d24a",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "les-changements-climatiques-vont-multiplier-les-glisse-70d24a"
+  },
+  {
+   "titre": "Les tests de microbiote à domicile ne sont ni fiables ni utiles, conclut un vérificateur scientifique",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Agence Science-Presse",
+   "url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/detecteur-rumeurs/2026/09/02/bonne-idee-kits-pour-tester-microbiote-non",
+   "sources": [
+    {
+     "media": "Agence Science-Presse",
+     "url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/detecteur-rumeurs/2026/09/02/bonne-idee-kits-pour-tester-microbiote-non",
+     "date": "2026-09-08T09:43-04:00",
+     "auteur": "Kathleen Couillard"
+    }
+   ],
+   "resume": "Des chercheurs ont associé certaines altérations du microbiote à des maladies métaboliques ou inflammatoires.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T11:40-04:00",
+   "permalien": "les-tests-de-microbiote-a-domicile-ne-sont-ni-fiables-9e33c6",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "les-tests-de-microbiote-a-domicile-ne-sont-ni-fiables-9e33c6"
   },
   {
    "titre": "Deux chroniqueurs débattent de l'usage de la dette américaine détenue par le Canada comme arme commerciale",
@@ -2437,9 +2733,9 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Russie, Corée du Nord",
-   "medias": "The Guardian, Agence Yonhap, NHK World",
+   "medias": "The Guardian, Agence Yonhap, NHK World, CNEWS",
    "url": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
-   "resume": "Un couloir présenté comme touristique par Pyongyang, mais vu par des enquêteurs ukrainiens comme un axe militaire.",
+   "resume": "Mise à jour, 11 h 40 — La structure doit permettre le passage de jusqu'à 300 véhicules par jour.",
    "sources": [
     {
      "media": "The Guardian",
@@ -2457,9 +2753,15 @@
      "media": "NHK World",
      "url": "https://www3.nhk.or.jp/nhkworld/fr/news/20260908_RS06/",
      "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-09-08/jusqua-300-vehicules-par-jour-la-russie-et-la-coree-du-nord-inaugurent-leur",
+     "date": "2026-09-08T08:33-04:00",
+     "auteur": "CNEWS"
     }
    ],
-   "horodate": "2026-09-08T04:51-04:00",
+   "horodate": "2026-09-08T11:40-04:00",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/%E4%B8%89%E3%82%AB%E5%9B%BD%E8%BE%BA%E5%A2%83%E8%A8%98%E5%BF%B5.jpg/1280px-%E4%B8%89%E3%82%AB%E5%9B%BD%E8%BE%BA%E5%A2%83%E8%A8%98%E5%BF%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "legende": "Le point tripartite Chine-Russie-Corée du Nord, région frontalière — image d'illustration.",
    "photo_auteur": "Senkaku Islands",
@@ -4522,7 +4824,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Le Devoir, Les Affaires, Radio-Canada",
+   "medias": "Le Devoir, Radio-Canada, Les Affaires, La Presse, Global News",
    "url": "https://www.ledevoir.com/economie/1007081/contre-tarifs-douaniers-canadiens-entrent-vigueur-mardi",
    "sources": [
     {
@@ -4548,12 +4850,24 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281429/bombardier-contre-tarifs-quebec-paie-cher",
      "auteur": "Gérald Fillion",
      "date": "2026-09-08T04:00-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-08/guerre-commerciale/le-canada-devait-repliquer-aux-droits-de-douane-americains-selon-mark-carney.php",
+     "date": "2026-09-08T09:12-04:00",
+     "auteur": "Mathieu Paquette"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12050675/donald-trump-tariffs-canada-retaliation/",
+     "date": "2026-09-08T10:15-04:00",
+     "auteur": "Ariel Rabinovitch"
     }
    ],
-   "resume": "Mise à jour, 6 h 14 — Économistes et entreprises commencent à chiffrer la facture pour les ménages et les usines d'ici.",
+   "resume": "Mise à jour, 11 h 40 — Dans une adresse à la nation, Mark Carney défend la nécessité de la riposte tarifaire, même s'il reconnaît que la suite ne sera pas facile.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T06:14-04:00",
+   "horodate": "2026-09-08T11:40-04:00",
    "permalien": "les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a",
    "image_auto": "aucune",
    "_volet": "report",
@@ -5067,12 +5381,12 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Kyiv (Ukraine)",
-   "medias": "Radio-Canada, France 24, Ukrinform, Le Parisien, Libération, La Presse, Ukrinform, Interfax-Ukraine",
+   "medias": "Radio-Canada, France 24, Ukrinform, Le Parisien, Libération, La Presse, Interfax-Ukraine",
    "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
-   "resume": "Mise à jour, 8 h 44 — Le bilan s'alourdit à trois morts et dix-neuf blessés, selon les autorités locales.",
+   "resume": "Mise à jour, 11 h 40 — Le bilan des blessés est révisé à la hausse, à 26 ; le nombre de morts reste à trois.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T08:44-04:00",
+   "horodate": "2026-09-08T11:40-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -5116,6 +5430,16 @@
      "media": "Interfax-Ukraine",
      "url": "https://en.interfax.com.ua/news/general/1200520.html",
      "date": "2026-09-08T08:44-04:00"
+    },
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1200644.html",
+     "date": "2026-09-08T08:56-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4162119-injury-toll-in-russian-attack-on-kyiv-rises-to-26-three-killed.html",
+     "date": "2026-09-08T10:25-04:00"
     }
    ],
    "permalien": "la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344",
