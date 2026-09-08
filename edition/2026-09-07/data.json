@@ -1951,8 +1951,8 @@
    "sources": [
     {
      "media": "La Presse",
-     "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/guerre-commerciale/trump-menace-d-interdire-la-vente-d-avions-de-bombardier-aux-etats-unis.php",
-     "date": "2026-09-07T14:06-04:00",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/guerre-commerciale/trump-veut-fermer-le-marche-americain-a-bombardier.php",
+     "date": "2026-09-07T21:02-04:00",
      "auteur": "Julien Arsenault"
     },
     {
@@ -1979,10 +1979,10 @@
      "date": "2026-09-07T16:11-04:00"
     }
    ],
-   "resume": "Le président exige une production rapatriée aux États-Unis, sous peine de fermer son marché à l'avionneur.",
+   "resume": "Mise à jour, 22 h 28 — Cette fois, c'est la vente même des jets d'affaires aux États-Unis que Washington menace d'interdire.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-07T15:53-04:00",
+   "horodate": "2026-09-07T22:28-04:00",
    "permalien": "bombardier-dans-la-mire-de-donald-trump-qui-menace-de-lui-fe-70e1b7",
    "image_auto": "aucune",
    "_volet": "continu",
@@ -2389,7 +2389,7 @@
    "cahier": "canada",
    "rubrique": "politique",
    "territoire": "Canada",
-   "medias": "La Presse canadienne",
+   "medias": "La Presse canadienne, Le Canada Français",
    "url": "https://www.latribune.ca/affaires/2026/09/07/droits-de-douane-pierre-poilievre-reclame-plus-de-transparence-de-mark-carney-AWSH2JSL5BF7NF2SPHOE56SM4Y/",
    "sources": [
     {
@@ -2397,6 +2397,12 @@
      "url": "https://www.latribune.ca/affaires/2026/09/07/droits-de-douane-pierre-poilievre-reclame-plus-de-transparence-de-mark-carney-AWSH2JSL5BF7NF2SPHOE56SM4Y/",
      "auteur": "Alessia Passafiume, La Presse Canadienne",
      "date": "2026-09-07T15:57-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/droits-de-douane-pierre-poilievre-reclame-plus-de-transparence-de-mark-carney/",
+     "date": "2026-09-07T20:47-04:00",
+     "auteur": "Alessia Passafiume et La Presse Canadienne"
     }
    ],
    "resume": "Le chef conservateur exige aussi la publication du texte intégral de l'entente commerciale ratée avec Washington.",
@@ -2803,6 +2809,120 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-07.json",
    "_slug": "uashat-mak-mani-utenam-celebre-l-entree-en-vigueur-prochaine-54da44"
+  },
+  {
+   "titre": "Le procureur général de l'Ukraine démissionne en pleine enquête anticorruption sur des centres d'appels frauduleux",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Ukraine",
+   "medias": "The Guardian, Kyiv Post, BBC, Agence Anadolu",
+   "url": "https://www.theguardian.com/world/2026/sep/08/ukraine-war-briefing-new-political-turmoil-in-kyiv-as-prosecutor-general-resigns",
+   "resume": "Reste à savoir combien d'autres têtes tomberont encore dans l'appareil sécuritaire ukrainien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T22:28-04:00",
+   "sources": [
+    {
+     "media": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/sep/08/ukraine-war-briefing-new-political-turmoil-in-kyiv-as-prosecutor-general-resigns",
+     "auteur": "Warren Murray with Guardian writers and agencies",
+     "date": "2026-09-07T21:15-04:00"
+    },
+    {
+     "media": "Kyiv Post",
+     "url": "https://www.kyivpost.com/thread/83981",
+     "date": "2026-09-07T21:01-04:00"
+    },
+    {
+     "media": "BBC",
+     "url": "https://www.bbc.com/news/articles/c780nlgyd79o",
+     "date": "2026-09-07T21:07-04:00",
+     "auteur": "Tabby Wilson"
+    },
+    {
+     "media": "Agence Anadolu",
+     "url": "https://www.aa.com.tr/en/russia-ukraine-war/ukraine-s-prosecutor-general-resigns-amid-probe-into-alleged-protection-of-fraudulent-call-centers/4050194",
+     "auteur": "Elena Teslova",
+     "date": "2026-09-07T21:17-04:00"
+    }
+   ],
+   "permalien": "le-procureur-general-de-l-ukraine-demissionne-en-pleine-enqu-b5fa59",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "le-procureur-general-de-l-ukraine-demissionne-en-pleine-enqu-b5fa59"
+  },
+  {
+   "titre": "La Russie recommence à bombarder Kiev après une accalmie de trois jours, tandis que la diplomatie américaine s'active",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Kyiv (Ukraine)",
+   "medias": "Radio-Canada, France 24, Ukrinform",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
+   "resume": "Les missiles reprennent alors que Kyiv dit vouloir remettre les pourparlers sur les rails.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T22:28-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
+     "date": "2026-09-07T20:01-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/europe/20260908-en-direct-ukraine-russie-reprend-frappes-kiev-apres-trois-jours-treve",
+     "auteur": "FRANCE 24",
+     "date": "2026-09-07T21:27-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4161812-ukraine-wants-to-use-september-and-october-to-resume-negotiations-zelensky.html",
+     "date": "2026-09-07T20:15-04:00"
+    }
+   ],
+   "permalien": "la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344"
+  },
+  {
+   "titre": "Québec écarte des entreprises étrangères de plusieurs appels d'offres gouvernementaux devant l'escalade tarifaire",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "La Presse, Radio-Canada, La Presse canadienne",
+   "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/politique-d-achat-quebecois-renforcee/les-entreprises-americaines-et-etrangeres-ecartees-de-certains-appels-d-offres-publics.php",
+   "resume": "Reste à savoir jusqu'où Québec ira dans cette dérogation à ses propres engagements commerciaux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T22:28-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/politique-d-achat-quebecois-renforcee/les-entreprises-americaines-et-etrangeres-ecartees-de-certains-appels-d-offres-publics.php",
+     "auteur": "Tommy Chouinard",
+     "date": "2026-09-07T20:56-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281440/tarifs-douaniers-caq-appels-offres-entreprises-frechette-trump",
+     "date": "2026-09-07T20:46-04:00",
+     "auteur": "François-Alexis Favreau"
+    },
+    {
+     "media": "La Presse canadienne",
+     "url": "https://www.lesoleil.com/affaires/2026/09/08/le-gouvernement-caquiste-adopte-deux-decrets-pour-l-achat-local-NMUHR5UMANASZPRY7B7U764JFU/",
+     "auteur": "Patrice Bergeron, La Presse Canadienne",
+     "date": "2026-09-07T20:32-04:00"
+    }
+   ],
+   "permalien": "quebec-ecarte-des-entreprises-etrangeres-de-plusieurs-appels-d42c56",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-07.json",
+   "_slug": "quebec-ecarte-des-entreprises-etrangeres-de-plusieurs-appels-d42c56"
   },
   {
    "titre": "À Radisson, dans le Nord-du-Québec, l'essence se vend jusqu'à 2,37 $ le litre",
