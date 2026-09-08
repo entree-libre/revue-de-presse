@@ -2845,6 +2845,12 @@
      "url": "https://leger360.com/in-the-news-voting-intentions-are-stabilizing-but-strong-desire-for-change-remains/",
      "date": "2026-09-08T08:58-04:00",
      "auteur": "Caroline Fortin"
+    },
+    {
+     "media": "98,5 FM",
+     "url": "https://www.985fm.ca/audio/800487/sondage-leger-56-des-electeurs-quebecois-ont-fait-leur-choix",
+     "date": "2026-09-08T16:35-04:00",
+     "auteur": "Olivier Couture et Félix-Antoine Bétil"
     }
    ],
    "permalien": "sondage-leger-la-campagne-se-stabilise-mais-une-majorite-de-ccbbc2",
@@ -3557,6 +3563,109 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-08.json",
    "_slug": "l-equipe-frechette-promet-144-millions-pour-transformer-l-in-81561e"
+  },
+  {
+   "titre": "Le PQ maintient sa promesse de référendum peu importe le résultat du scrutin",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/secteurs/politique/le-parti-quebecois-tiendra-un-referendum-meme-sil-forme-un-gouvernement-minoritaire/",
+   "resume": "Duhaime veut s'en servir pour bloquer tout référendum, et Milliard se demande avec qui le PQ s'allierait.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:46-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/le-parti-quebecois-tiendra-un-referendum-meme-sil-forme-un-gouvernement-minoritaire/",
+     "date": "2026-09-08T17:46-04:00",
+     "auteur": "Caroline Plante, La Presse Canadienne"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T19:33-04:00",
+   "permalien": "le-pq-maintient-sa-promesse-de-referendum-peu-importe-l-dcec2b",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "le-pq-maintient-sa-promesse-de-referendum-peu-importe-l-dcec2b"
+  },
+  {
+   "titre": "Centraide chiffre à 137 000 emplois le poids du milieu communautaire, sous-représenté en campagne",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-apres-midi-est-a-nous/episodes/1223407/mardi-8-septembre-2026",
+   "resume": "Le vieillissement de la population pèse sur un secteur que la campagne ignore.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:12-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-apres-midi-est-a-nous/episodes/1223407/mardi-8-septembre-2026",
+     "date": "2026-09-08T17:12-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T19:33-04:00",
+   "permalien": "centraide-chiffre-a-137-000-emplois-le-poids-du-milieu-3b52f7",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "centraide-chiffre-a-137-000-emplois-le-poids-du-milieu-3b52f7"
+  },
+  {
+   "titre": "En Gaspésie–Îles-de-la-Madeleine, une coalition presse les candidats de s'engager sur le logement et la santé",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec (Gaspésie–Îles-de-la-Madeleine)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281656/apts-logement-transport-sante-quebec",
+   "resume": "Après des années de services fragilisés, cette région veut des engagements fermes de tous les partis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:23-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281656/apts-logement-transport-sante-quebec",
+     "date": "2026-09-08T18:23-04:00",
+     "auteur": "Gala Dionne"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T19:33-04:00",
+   "permalien": "en-gaspesieiles-de-la-madeleine-une-coalition-presse-le-45ea66",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "en-gaspesieiles-de-la-madeleine-une-coalition-presse-le-45ea66"
+  },
+  {
+   "titre": "Les préfets de l'Abitibi-Témiscamingue réclament le quart des redevances minières et un plan de rattrapage",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281758/campagne-quebec2026-prefets-abitibi-temiscamingue",
+   "resume": "Un HLM brûlé il y a quatre ans à Sainte-Germaine-Boulé illustre le retard que dénonce la région.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:07-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281758/campagne-quebec2026-prefets-abitibi-temiscamingue",
+     "date": "2026-09-08T18:07-04:00",
+     "auteur": "Gabriel Poirier"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T19:33-04:00",
+   "permalien": "les-prefets-de-l-abitibi-temiscamingue-reclament-le-qua-13146e",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "les-prefets-de-l-abitibi-temiscamingue-reclament-le-qua-13146e"
   },
   {
    "titre": "Six entreprises de voyage visées par une demande d'action collective sur des prix affichés",
