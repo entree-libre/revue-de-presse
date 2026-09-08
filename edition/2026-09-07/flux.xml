@@ -4,10 +4,19 @@
 <title>Entrée-Libre — Revue de presse — 7 septembre 2026</title>
 <link>https://entreelibre.ca/edition/2026-09-07/index.html</link>
 <atom:link href="https://entreelibre.ca/flux.xml" rel="self" type="application/rss+xml"/>
-<description>Entrée-Libre — revue de presse, l'actualité par thème, mise à jour quatre fois par jour. 318 sujets, 148 médias.</description>
+<description>Entrée-Libre — revue de presse, l'actualité par thème, mise à jour quatre fois par jour. 319 sujets, 148 médias.</description>
 <language>fr-CA</language>
-<lastBuildDate>Mon, 07 Sep 2026 21:21:00 -0400</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 21:56:00 -0400</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>Des experts mettent en garde contre les contenus générés par IA dans la campagne électorale québécoise</title>
+<link>https://entreelibre.ca/edition/2026-09-07/a/des-experts-mettent-en-garde-contre-les-contenus-generes-par-8e92d1.html</link>
+<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-07/a/des-experts-mettent-en-garde-contre-les-contenus-generes-par-8e92d1.html</guid>
+<pubDate>Mon, 07 Sep 2026 21:56:00 -0400</pubDate>
+<description>Reconnaître un contenu trompeur devient plus difficile qu&#x27;on pense, à un mois du scrutin.</description>
+<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
+<category>Élections Québec 2026</category><category>Politique et vie municipale</category>
+</item>
 <item>
 <title>En tournée dans le Bas-Saint-Laurent, St-Pierre Plamondon promet plus d&#x27;aide à domicile pour les aînés</title>
 <link>https://entreelibre.ca/edition/2026-09-07/a/en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile.html</link>
@@ -718,15 +727,6 @@
 <description>Les écosystèmes du programme scolaire s&#x27;apprennent sur place, et le modèle pourrait s&#x27;étendre d&#x27;ici 2030.</description>
 <source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
 <category>Québec et ses régions</category><category>Éducation</category>
-</item>
-<item>
-<title>La MRC de L&#x27;Islet lance un appel à projets du Fonds de vitalisation pour neuf de ses municipalités</title>
-<link>https://entreelibre.ca/edition/2026-09-07/a/la-mrc-de-l-islet-lance-un-appel-a-projets-du-fonds-de-vital-da2fb4.html</link>
-<guid isPermaLink="true">https://entreelibre.ca/edition/2026-09-07/a/la-mrc-de-l-islet-lance-un-appel-a-projets-du-fonds-de-vital-da2fb4.html</guid>
-<pubDate>Mon, 07 Sep 2026 11:58:00 -0400</pubDate>
-<description>La MRC de L&#x27;Islet ouvre jusqu&#x27;au 18 octobre un appel à projets réservé à neuf municipalités : Saint-Adalbert, Saint-Damase-de-L&#x27;Islet, Sainte-Félicité, Saint-Jean-Port-Joli, Saint-Marcel, Saint-Omer, Saint-Pamphile, Sainte-Perpétue et Tourville. L&#x27;enveloppe vient du volet Vitalisation du Fonds régions et ruralité du ministère des Affaires municipales et de l&#x27;Habitation, que la MRC administre dans le cadre de son entente de développement territorial 2025-2029 ; organismes, municipalités et autres organisations admissibles peuvent y soumettre des projets jugés structurants pour la vitalité et l&#x27;</description>
-<source url="https://entreelibre.ca/flux.xml">Entrée-Libre — Revue de presse</source>
-<category>Québec et ses régions</category><category>Économie et travail</category><enclosure url="https://upload.wikimedia.org/wikipedia/commons/0/0e/FLEUVE_ST-LAURENT_VU_DE_L%27ISLET-SUR-MER%2C_QU%C3%89BEC_-_panoramio.jpg" type="image/jpeg" length="0"/>
 </item>
 </channel>
 </rss>

@@ -6,6 +6,18 @@
  "language": "fr-CA",
  "items": [
   {
+   "id": "https://entreelibre.ca/edition/2026-09-07/a/des-experts-mettent-en-garde-contre-les-contenus-generes-par-8e92d1.html",
+   "url": "https://entreelibre.ca/edition/2026-09-07/a/des-experts-mettent-en-garde-contre-les-contenus-generes-par-8e92d1.html",
+   "title": "Des experts mettent en garde contre les contenus générés par IA dans la campagne électorale québécoise",
+   "content_text": "Reconnaître un contenu trompeur devient plus difficile qu'on pense, à un mois du scrutin.",
+   "date_modified": "2026-09-07T21:56:00-04:00",
+   "tags": [
+    "Québec",
+    "Élections Québec 2026",
+    "Politique et vie municipale"
+   ]
+  },
+  {
    "id": "https://entreelibre.ca/edition/2026-09-07/a/en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile.html",
    "url": "https://entreelibre.ca/edition/2026-09-07/a/en-tournee-dans-le-bas-saint-laurent-st-pierre-plamondon-promet-aide-domicile.html",
    "title": "En tournée dans le Bas-Saint-Laurent, St-Pierre Plamondon promet plus d'aide à domicile pour les aînés",
@@ -949,19 +961,6 @@
     "Québec et ses régions",
     "Éducation"
    ]
-  },
-  {
-   "id": "https://entreelibre.ca/edition/2026-09-07/a/la-mrc-de-l-islet-lance-un-appel-a-projets-du-fonds-de-vital-da2fb4.html",
-   "url": "https://entreelibre.ca/edition/2026-09-07/a/la-mrc-de-l-islet-lance-un-appel-a-projets-du-fonds-de-vital-da2fb4.html",
-   "title": "La MRC de L'Islet lance un appel à projets du Fonds de vitalisation pour neuf de ses municipalités",
-   "content_text": "La MRC de L'Islet ouvre jusqu'au 18 octobre un appel à projets réservé à neuf municipalités : Saint-Adalbert, Saint-Damase-de-L'Islet, Sainte-Félicité, Saint-Jean-Port-Joli, Saint-Marcel, Saint-Omer, Saint-Pamphile, Sainte-Perpétue et Tourville. L'enveloppe vient du volet Vitalisation du Fonds régions et ruralité du ministère des Affaires municipales et de l'Habitation, que la MRC administre dans le cadre de son entente de développement territorial 2025-2029 ; organismes, municipalités et autres organisations admissibles peuvent y soumettre des projets jugés structurants pour la vitalité et l'attractivité de ces localités.",
-   "date_modified": "2026-09-07T11:58:00-04:00",
-   "tags": [
-    "MRC de L'Islet (Chaudière-Appalaches)",
-    "Québec et ses régions",
-    "Économie et travail"
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/FLEUVE_ST-LAURENT_VU_DE_L%27ISLET-SUR-MER%2C_QU%C3%89BEC_-_panoramio.jpg"
   }
  ]
 }
