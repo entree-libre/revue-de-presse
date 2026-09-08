@@ -642,9 +642,15 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Cisjordanie",
-   "medias": "Le Devoir, Libération, Le Monde, France 24, RFI, BFM, franceinfo",
-   "url": "https://www.ledevoir.com/monde/moyen-orient/1007237/canada-11-autres-pays-veulent-sanctionner-commerce-colonies-israeliennes",
+   "medias": "Le Devoir, Libération, Le Monde, France 24, RFI, BFM, franceinfo, Human Rights Watch",
+   "url": "https://www.lemonde.fr/international/article/2026/09/08/onze-pays-europeens-et-le-canada-imposent-a-israel-des-sanctions-contre-les-produits-issus-des-colonies-en-cisjordanie_6768553_3210.html",
    "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/onze-pays-europeens-et-le-canada-imposent-a-israel-des-sanctions-contre-les-produits-issus-des-colonies-en-cisjordanie_6768553_3210.html",
+     "date": "2026-09-08T17:14-04:00",
+     "auteur": "Louis Imbert et Philippe Jacqué et Stéphanie Le Bars"
+    },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/monde/moyen-orient/1007237/canada-11-autres-pays-veulent-sanctionner-commerce-colonies-israeliennes",
@@ -684,12 +690,18 @@
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/monde/cisjordanie-le-royaume-uni-accuse-israel-de-nettoyage-ethnique_8183600.html",
      "date": "2026-09-08T12:47-04:00"
+    },
+    {
+     "media": "Human Rights Watch",
+     "url": "https://www.hrw.org/fr/news/2026/09/08/le-royaume-uni-la-france-et-le-canada-interdisent-le-commerce-avec-les-colonies",
+     "date": "2026-09-08T16:39-04:00",
+     "auteur": "Adam Coogle"
     }
    ],
-   "resume": "Mise à jour, 14 h 09 — Washington exclut toute sanction pendant qu'Israël ferme en représailles son consulat à Jérusalem.",
+   "resume": "Mise à jour, 17 h 14 — Le Royaume-Uni, la France et le Canada imposent désormais leurs sanctions, plutôt que de les envisager.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T14:09-04:00",
+   "horodate": "2026-09-08T17:14-04:00",
    "permalien": "douze-pays-dont-le-canada-veulent-sanctionner-le-comme-4dc4ba",
    "image_auto": "aucune",
    "entree": "2026-09-08T11:40-04:00",
@@ -1859,6 +1871,346 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-08.json",
    "_slug": "une-equipe-de-recherche-double-l-estimation-du-nombre-mondia-0d5f65"
+  },
+  {
+   "titre": "Telus poursuit un ex-employé pour 1,1 million de dollars de dépenses frauduleuses",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Colombie-Britannique",
+   "medias": "The Globe and Mail, Global News",
+   "url": "https://www.theglobeandmail.com/canada/british-columbia/article-telus-lawsuit-employee-company-card/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/british-columbia/article-telus-lawsuit-employee-company-card/",
+     "date": "2026-09-08T15:05-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12051267/telus-sues-former-employee-fraud-lawsuit/",
+     "date": "2026-09-08T15:15-04:00",
+     "auteur": "Globalnews Digital"
+    }
+   ],
+   "resume": "Plus de 2 500 achats non autorisés, dont du matériel de cinéma maison, en cinq ans.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:15-04:00",
+   "volet": "continu",
+   "permalien": "telus-poursuit-un-ex-employe-pour-1-1-million-de-dollars-de-8fa7ea",
+   "entree": "2026-09-08T15:15-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "telus-poursuit-un-ex-employe-pour-1-1-million-de-dollars-de-8fa7ea"
+  },
+  {
+   "titre": "Le patronat albertain doute que la séparation rende la province maîtresse de son destin",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/calgary/adam-legge-business-council-of-alberta-keith-wilson-9.7336020?cmp=rss",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/calgary/adam-legge-business-council-of-alberta-keith-wilson-9.7336020?cmp=rss",
+     "date": "2026-09-08T15:13-04:00",
+     "auteur": "Joel Dryden"
+    }
+   ],
+   "resume": "À quarante-cinq jours du référendum, les milieux d'affaires restent étrangement silencieux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:13-04:00",
+   "volet": "continu",
+   "permalien": "le-patronat-albertain-doute-que-la-separation-rende-la-provi-647268",
+   "entree": "2026-09-08T15:13-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-patronat-albertain-doute-que-la-separation-rende-la-provi-647268"
+  },
+  {
+   "titre": "Les contre-tarifs canadiens frapperont surtout les produits agroalimentaires, selon un avocat commercial",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12050985/donald-trump-tariffs-retaliation-consumer-impact/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12050985/donald-trump-tariffs-retaliation-consumer-impact/",
+     "date": "2026-09-08T15:46-04:00",
+     "auteur": "Ariel Rabinovitch"
+    }
+   ],
+   "resume": "Des centaines de produits sont touchés, et la facture pourrait remonter jusqu'à l'épicerie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:46-04:00",
+   "volet": "continu",
+   "permalien": "les-contre-tarifs-canadiens-frapperont-surtout-les-produits-55220f",
+   "entree": "2026-09-08T15:46-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "les-contre-tarifs-canadiens-frapperont-surtout-les-produits-55220f"
+  },
+  {
+   "titre": "L'ex-prêtre montréalais Boucher, accusé de pédopornographie, demeure détenu avant son procès",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Montréal",
+   "medias": "CBC, Le Canada Français",
+   "url": "https://www.cbc.ca/news/canada/montreal/former-priest-to-stay-detained-9.7336286?cmp=rss",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/former-priest-to-stay-detained-9.7336286?cmp=rss",
+     "date": "2026-09-08T17:05-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/pedopornographie-lex-pretre-boucher-restera-en-detention-en-attendant-son-proces/",
+     "date": "2026-09-08T17:19-04:00",
+     "auteur": "La Presse Canadienne"
+    }
+   ],
+   "resume": "Sa défense conteste la solidité du dossier avant la comparution prévue en novembre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:19-04:00",
+   "volet": "continu",
+   "permalien": "l-ex-pretre-montrealais-boucher-accuse-de-pedopornographie-d-07f702",
+   "entree": "2026-09-08T17:19-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "l-ex-pretre-montrealais-boucher-accuse-de-pedopornographie-d-07f702"
+  },
+  {
+   "titre": "Les avocates du Protecteur du citoyen du Québec entament un mouvement de grève",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/les-avocates-du-protecteur-du-citoyen-ont-declenche-leur-greve-mardi/",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/les-avocates-du-protecteur-du-citoyen-ont-declenche-leur-greve-mardi/",
+     "date": "2026-09-08T16:30-04:00",
+     "auteur": "Lia Lévesque et La Presse Canadienne"
+    }
+   ],
+   "resume": "Un service destiné à défendre les citoyens tourne au ralenti faute d'avocates au travail.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:30-04:00",
+   "volet": "continu",
+   "permalien": "les-avocates-du-protecteur-du-citoyen-du-quebec-entament-un-ac1a27",
+   "entree": "2026-09-08T16:30-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "les-avocates-du-protecteur-du-citoyen-du-quebec-entament-un-ac1a27"
+  },
+  {
+   "titre": "Qualcomm conclut une entente de puces d'intelligence artificielle avec Amazon",
+   "cahier": "international",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-qualcomm-ai-chip-deal-amazon/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-qualcomm-ai-chip-deal-amazon/",
+     "date": "2026-09-08T14:40-04:00",
+     "auteur": "Anhata Rooprai"
+    }
+   ],
+   "resume": "Un accord qui mêle vente de puces et actions à prix fixe, signe des temps en IA.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:40-04:00",
+   "volet": "continu",
+   "permalien": "qualcomm-conclut-une-entente-de-puces-d-intelligence-artific-759748",
+   "entree": "2026-09-08T14:40-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "qualcomm-conclut-une-entente-de-puces-d-intelligence-artific-759748"
+  },
+  {
+   "titre": "L'IRIS relie le virage migratoire caquiste à trois décennies de politiques néolibérales au Québec",
+   "cahier": "quebec",
+   "rubrique": "idees",
+   "territoire": "Québec",
+   "medias": "IRIS",
+   "url": "https://iris-recherche.qc.ca/blogue/etat-finances-publiques-et-secteur-public/serie-neoliberalisme-immigration/",
+   "sources": [
+    {
+     "media": "IRIS",
+     "url": "https://iris-recherche.qc.ca/blogue/etat-finances-publiques-et-secteur-public/serie-neoliberalisme-immigration/",
+     "date": "2026-09-08T14:12-04:00",
+     "auteur": "Julia Posca"
+    }
+   ],
+   "resume": "L'institut, qui critique le désengagement de l'État, y voit un choix idéologique plus qu'un hasard.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:12-04:00",
+   "volet": "continu",
+   "permalien": "l-iris-relie-le-virage-migratoire-caquiste-a-trois-decennies-f42b3c",
+   "entree": "2026-09-08T14:12-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "l-iris-relie-le-virage-migratoire-caquiste-a-trois-decennies-f42b3c"
+  },
+  {
+   "titre": "Le Pérou rejoint la coalition antidrogue Bouclier des Amériques lancée par Washington",
+   "cahier": "international",
+   "rubrique": "diplomatie",
+   "territoire": "Pérou",
+   "medias": "20 Minutes",
+   "url": "https://www.20minutes.fr/monde/etats-unis/4243711-20260908-perou-pays-rejoint-bouclier-ameriques-donald-trump",
+   "sources": [
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/etats-unis/4243711-20260908-perou-pays-rejoint-bouclier-ameriques-donald-trump",
+     "date": "2026-09-08T14:43-04:00",
+     "auteur": "Thibaut Chevillard"
+    }
+   ],
+   "resume": "Une coalition de droite contre le narcotrafic qui s'élargit encore en Amérique latine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:43-04:00",
+   "volet": "continu",
+   "permalien": "le-perou-rejoint-la-coalition-antidrogue-bouclier-des-ameriq-f223e0",
+   "entree": "2026-09-08T14:43-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-perou-rejoint-la-coalition-antidrogue-bouclier-des-ameriq-f223e0"
+  },
+  {
+   "titre": "Tung Chee-hwa, premier chef de l'exécutif de Hong Kong après 1997, meurt à 89 ans",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Hong Kong",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/asie-pacifique/20260908-tung-chee-hwa-premier-dirigeant-de-hong-kong-apr%C3%A8s-sa-restitution-%C3%A0-la-chine-est-mort-%C3%A0-89-ans",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20260908-tung-chee-hwa-premier-dirigeant-de-hong-kong-apr%C3%A8s-sa-restitution-%C3%A0-la-chine-est-mort-%C3%A0-89-ans",
+     "date": "2026-09-08T15:06-04:00",
+     "auteur": "RFI avec AFP"
+    }
+   ],
+   "resume": "Il avait pris les commandes du territoire dès sa rétrocession à Pékin en 1997.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:06-04:00",
+   "volet": "continu",
+   "permalien": "tung-chee-hwa-premier-chef-de-l-executif-de-hong-kong-apres-82f7c3",
+   "entree": "2026-09-08T15:06-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "tung-chee-hwa-premier-chef-de-l-executif-de-hong-kong-apres-82f7c3"
+  },
+  {
+   "titre": "Les États-Unis visent un nouveau pétrolier iranien près de l'île de Kharg",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran",
+   "medias": "Le Dauphiné Libéré, Le Monde",
+   "url": "https://www.ledauphine.com/defense-guerre-conflit/2026/09/08/les-etats-unis-ciblent-un-nouveau-petrolier-iranien-au-large-de-l-ile-de-kharg",
+   "sources": [
+    {
+     "media": "Le Dauphiné Libéré",
+     "url": "https://www.ledauphine.com/defense-guerre-conflit/2026/09/08/les-etats-unis-ciblent-un-nouveau-petrolier-iranien-au-large-de-l-ile-de-kharg",
+     "date": "2026-09-08T15:54-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/detroit-d-ormuz-l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-tandis-que-washington-parle-d-un-engin-defectueux_6768518_3210.html",
+     "date": "2026-09-08T16:22-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "L'épisode s'ajoute à une série de gestes qui font monter la tension dans le Golfe.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:22-04:00",
+   "volet": "continu",
+   "permalien": "les-etats-unis-visent-un-nouveau-petrolier-iranien-pres-de-l-2e939d",
+   "entree": "2026-09-08T16:22-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "les-etats-unis-visent-un-nouveau-petrolier-iranien-pres-de-l-2e939d"
+  },
+  {
+   "titre": "Un géographe alerte sur l'accélération de la désertification en France",
+   "cahier": "savoirs",
+   "rubrique": "environnement",
+   "territoire": "France",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/planete/actualites/secheresse-desertification-france-nous-devons-prendre-conscience-notre-vulnerabilite-alerte-geographe-jean-daniel-cesaro-137564/",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/planete/actualites/secheresse-desertification-france-nous-devons-prendre-conscience-notre-vulnerabilite-alerte-geographe-jean-daniel-cesaro-137564/",
+     "date": "2026-09-08T14:07-04:00",
+     "auteur": "Arnaud Pagès"
+    }
+   ],
+   "resume": "Le changement climatique referme peu à peu l'accès à l'eau dans des régions qu'on croyait à l'abri.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:07-04:00",
+   "volet": "continu",
+   "permalien": "un-geographe-alerte-sur-l-acceleration-de-la-desertification-961d21",
+   "entree": "2026-09-08T14:07-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "un-geographe-alerte-sur-l-acceleration-de-la-desertification-961d21"
+  },
+  {
+   "titre": "Une poursuite de 446 millions de dollars accuse Meta d'avoir utilisé des films pour adultes pour entraîner ses IA",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "Presse-citron",
+   "url": "https://www.presse-citron.net/meta-accuse-davoir-vole-des-milliers-de-films-x-pour-entrainer-ses-ia-lun-de-ses-cadres-directement-impliques/",
+   "sources": [
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/meta-accuse-davoir-vole-des-milliers-de-films-x-pour-entrainer-ses-ia-lun-de-ses-cadres-directement-impliques/",
+     "date": "2026-09-08T14:00-04:00",
+     "auteur": "Mathilde Rochefort"
+    }
+   ],
+   "resume": "Un cadre de l'entreprise serait directement mêlé à cette utilisation non autorisée de contenu protégé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:00-04:00",
+   "volet": "continu",
+   "permalien": "une-poursuite-de-446-millions-de-dollars-accuse-meta-d-avoir-f9a8ea",
+   "entree": "2026-09-08T14:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "une-poursuite-de-446-millions-de-dollars-accuse-meta-d-avoir-f9a8ea"
   },
   {
    "titre": "Deux chroniqueurs débattent de l'usage de la dette américaine détenue par le Canada comme arme commerciale",
@@ -7370,12 +7722,12 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Kyiv (Ukraine)",
-   "medias": "Radio-Canada, France 24, Ukrinform, Le Parisien, Libération, La Presse, Interfax-Ukraine",
+   "medias": "Radio-Canada, France 24, Ukrinform, Le Parisien, Libération, La Presse, Interfax-Ukraine, Al Jazeera",
    "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
-   "resume": "Mise à jour, 11 h 40 — Le bilan des blessés est révisé à la hausse, à 26 ; le nombre de morts reste à trois.",
+   "resume": "Mise à jour, 16 h 56 — Le bilan grimpe à 35 blessés et 5 morts, contre 26 et 3 quelques heures plus tôt.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T10:25-04:00",
+   "horodate": "2026-09-08T16:56-04:00",
    "sources": [
     {
      "media": "Radio-Canada",
@@ -7429,6 +7781,17 @@
      "media": "Ukrinform",
      "url": "https://www.ukrinform.net/rubric-ato/4162119-injury-toll-in-russian-attack-on-kyiv-rises-to-26-three-killed.html",
      "date": "2026-09-08T10:25-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4162242-injury-toll-from-russian-strikes-on-kyiv-rises-to-35-five-dead.html",
+     "date": "2026-09-08T16:56-04:00"
+    },
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends",
+     "date": "2026-09-08T14:34-04:00",
+     "auteur": "Agence France-Presse et Reuters"
     }
    ],
    "permalien": "la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344",
