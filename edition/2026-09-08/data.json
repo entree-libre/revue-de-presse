@@ -236,7 +236,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "États-Unis",
-   "medias": "Le JDD, CNEWS, Le Figaro, L'Indépendant, 20 Minutes, Le Devoir",
+   "medias": "Le JDD, CNEWS, Le Figaro, L'Indépendant, 20 Minutes, Le Devoir, Le Parisien",
    "url": "https://www.lejdd.fr/International/donald-trump-diffuse-une-carte-des-etats-unis-englobant-les-antilles-francaises-le-mexique-et-le-canada-182874",
    "sources": [
     {
@@ -272,12 +272,17 @@
      "url": "https://www.ledevoir.com/monde/etats-unis/1007222/trump-fait-polemique-placant-islande-mexique-caraibes-sous-banniere-americaine",
      "date": "2026-09-08T09:43-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/donald-trump-publie-une-carte-des-etats-unis-qui-annexe-la-guadeloupe-la-martinique-et-saint-martin-la-france-doit-elle-vraiment-sinquieter-08-09-2026-NY6R35LKINCELBQGU2VRRCRUKM.php",
+     "date": "2026-09-08T12:05-04:00"
     }
    ],
-   "resume": "Mise à jour, 11 h 40 — L'Islande a convoqué l'ambassadeur américain ; la carte inclut aussi la Guadeloupe et la Martinique.",
+   "resume": "Mise à jour, 12 h 05 — La présidente mexicaine Claudia Sheinbaum promet que son pays ne sera ni colonie ni protectorat.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T09:43-04:00",
+   "horodate": "2026-09-08T12:05-04:00",
    "permalien": "donald-trump-diffuse-une-carte-des-etats-unis-englobant-2731f0",
    "image_auto": "aucune",
    "entree": "2026-09-08T11:40-04:00",
@@ -326,7 +331,7 @@
    "cahier": "savoirs",
    "rubrique": "technologies",
    "territoire": "France",
-   "medias": "TV5 Monde Info, France 24",
+   "medias": "TV5 Monde Info, France 24, RFI",
    "url": "https://information.tv5monde.com/international/ia-mistral-leve-3-milliards-deuros-pour-garder-de-lelan-2836592",
    "sources": [
     {
@@ -340,6 +345,12 @@
      "url": "https://www.france24.com/fr/info-en-continu/20260908-ia-mistral-l%C3%A8ve-3-milliards-d-euros-pour-garder-de-l-%C3%A9lan",
      "auteur": "FRANCE24",
      "date": "2026-09-08T01:11-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260908-mistral-ai-l%C3%A8ve-trois-milliards-d-euros-et-acc%C3%A9l%C3%A8re-son-virage-industriel",
+     "auteur": "RFI",
+     "date": "2026-09-08T12:11-04:00"
     }
    ],
    "resume": "Samsung figure parmi les nouveaux investisseurs, dans une course mondiale à l'IA de plus en plus coûteuse.",
@@ -638,8 +649,8 @@
     },
     {
      "media": "France 24",
-     "url": "https://www.france24.com/fr/moyen-orient/20260908-cisjordanie-occup%C3%A9e-12-pays-france-veulent-sanctionner-commerce-colonies-isra%C3%ABl",
-     "date": "2026-09-08T10:41-04:00",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-guerre-%C3%A0-gaza-12-%C3%A9tats-mettent-fin-au-commerce-avec-les-colons-isra%C3%ABliens",
+     "date": "2026-09-08T12:06-04:00",
      "auteur": "FRANCE24"
     },
     {
@@ -649,10 +660,10 @@
      "auteur": "RFI avec AFP"
     }
    ],
-   "resume": "La déclaration conjointe évoque des sanctions nationales ou un appui à des restrictions européennes.",
+   "resume": "Mise à jour, 12 h 06 — Le Royaume-Uni interdit désormais l'importation de produits des colonies, et la France dit emboîter le pas.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T10:41-04:00",
+   "horodate": "2026-09-08T12:06-04:00",
    "permalien": "douze-pays-dont-le-canada-veulent-sanctionner-le-comme-4dc4ba",
    "image_auto": "aucune",
    "entree": "2026-09-08T11:40-04:00",
@@ -886,6 +897,276 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-08.json",
    "_slug": "les-tests-de-microbiote-a-domicile-ne-sont-ni-fiables-9e33c6"
+  },
+  {
+   "titre": "Le fédéral prolonge encore le répit fiscal accordé aux automobilistes sur l'essence",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Gouvernement du Canada",
+   "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-gouvernement-du-canada-prolonge-lallegement-de-la-taxe-daccise-federale-sur-lessence-le-combustible-diesel-et-les-carburants-aviation-pour-les-c.html",
+   "sources": [
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-gouvernement-du-canada-prolonge-lallegement-de-la-taxe-daccise-federale-sur-lessence-le-combustible-diesel-et-les-carburants-aviation-pour-les-c.html",
+     "date": "2026-09-08T12:00-04:00"
+    }
+   ],
+   "resume": "Le répit à la pompe se prolonge, sans échéance annoncée pour son retrait.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:00-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "le-federal-prolonge-encore-le-repit-fiscal-accorde-aux-autom-f36e4b",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-federal-prolonge-encore-le-repit-fiscal-accorde-aux-autom-f36e4b"
+  },
+  {
+   "titre": "Une grève évitée de justesse à l'Université de Toronto",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Toronto (Ontario)",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12050847/university-toronto-tentative-staff-agreement/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12050847/university-toronto-tentative-staff-agreement/",
+     "auteur": "Isaac Callan",
+     "date": "2026-09-08T12:19-04:00"
+    }
+   ],
+   "resume": "L'entente reste à ratifier, mais des milliers d'employés administratifs et techniques respirent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:19-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "une-greve-evitee-de-justesse-a-l-universite-de-toronto-682f7b",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "une-greve-evitee-de-justesse-a-l-universite-de-toronto-682f7b"
+  },
+  {
+   "titre": "La mode autochtone d'Atikuss, fondée à Uashat mak Mani-Utenam, s'invite à la Fashion Week de Paris",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Uashat Mak Mani-Utenam (Côte-Nord)",
+   "medias": "Le Nord-Côtier, Le Manic",
+   "url": "https://lenord-cotier.com/2026/09/08/fashion-week-de-uashat-mak-mani-utenam-a-paris/",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/08/fashion-week-de-uashat-mak-mani-utenam-a-paris/",
+     "auteur": "Roseline Pelletier",
+     "date": "2026-09-08T12:31-04:00"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/08/fashion-week-de-uashat-mak-mani-utenam-a-paris/",
+     "auteur": "Roseline Pelletier",
+     "date": "2026-09-08T12:31-04:00"
+    }
+   ],
+   "resume": "Des créations inspirées des savoir-faire innus s'apprêtent à défiler sur une grande scène parisienne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:31-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "la-mode-autochtone-d-atikuss-fondee-a-uashat-mak-mani-utenam-c1ac63",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "la-mode-autochtone-d-atikuss-fondee-a-uashat-mak-mani-utenam-c1ac63"
+  },
+  {
+   "titre": "Téhéran affirme avoir capturé un engin sous-marin sans pilote de la marine américaine près du détroit d'Ormuz",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran",
+   "medias": "franceinfo, Al-Manar",
+   "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-dans-le-detroit-d-ormuz_8183429.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-dans-le-detroit-d-ormuz_8183429.html",
+     "date": "2026-09-08T12:12-04:00"
+    },
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/123467/",
+     "auteur": "Leila Mazboudi",
+     "date": "2026-09-08T12:20-04:00"
+    }
+   ],
+   "resume": "L'incident survient alors que le détroit, verrouillé par Téhéran, reste au cœur des tensions régionales.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:20-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "teheran-affirme-avoir-capture-un-engin-sous-marin-sans-pilot-d6074e",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "teheran-affirme-avoir-capture-un-engin-sous-marin-sans-pilot-d6074e"
+  },
+  {
+   "titre": "Abou Dhabi savait, avant le 7 octobre 2023, que le Hamas préparait une offensive, selon la presse israélienne",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Émirats arabes unis",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/monde/moyen-orient/1007282/emirats-arabes-unis-auraient-averti-netanyahou-attaque-7-octobre-2023",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1007282/emirats-arabes-unis-auraient-averti-netanyahou-attaque-7-octobre-2023",
+     "auteur": "Associated Press",
+     "date": "2026-09-08T12:04-04:00"
+    }
+   ],
+   "resume": "Nétanyahou dément catégoriquement avoir reçu le moindre avertissement de la part d'Abou Dhabi.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:04-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "abou-dhabi-savait-avant-le-7-octobre-2023-que-le-hamas-prepa-143bb2",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "abou-dhabi-savait-avant-le-7-octobre-2023-que-le-hamas-prepa-143bb2"
+  },
+  {
+   "titre": "Treize personnes tuées devant un tribunal du Kordofan, dans une frappe imputée aux forces paramilitaires soudanaises",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Soudan",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/international/afrique/2026-09-08/soudan/une-attaque-des-paramilitaires-fait-13-morts-au-kordofan.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/afrique/2026-09-08/soudan/une-attaque-des-paramilitaires-fait-13-morts-au-kordofan.php",
+     "date": "2026-09-08T12:02-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Des habitants venus faire des démarches judiciaires se trouvaient sur place au moment de la frappe.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:02-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "treize-personnes-tuees-devant-un-tribunal-du-kordofan-dans-u-34d633",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "treize-personnes-tuees-devant-un-tribunal-du-kordofan-dans-u-34d633"
+  },
+  {
+   "titre": "Le parti d'extrême droite AfD remporte sa première élection régionale en Allemagne, en Saxe-Anhalt",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Allemagne",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281487/election-allemagne-saxe-anhalt-loups-afd",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281487/election-allemagne-saxe-anhalt-loups-afd",
+     "date": "2026-09-08T12:11-04:00",
+     "auteur": "Mathias Marchal"
+    }
+   ],
+   "resume": "Aucun parti classé à l'extrême droite n'avait remporté un Land depuis la chute du Troisième Reich.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:11-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "le-parti-d-extreme-droite-afd-remporte-sa-premiere-election-f4e032",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "le-parti-d-extreme-droite-afd-remporte-sa-premiere-election-f4e032"
+  },
+  {
+   "titre": "Malgré deux victoires judiciaires contre Google, les autorités antitrust américaines peinent à changer la donne",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/affaires/techno/2026-09-08/analyse/pourquoi-les-tribunaux-peinent-a-dompter-les-geants-technos.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/techno/2026-09-08/analyse/pourquoi-les-tribunaux-peinent-a-dompter-les-geants-technos.php",
+     "auteur": "Steve Lohr",
+     "date": "2026-09-08T12:00-04:00"
+    }
+   ],
+   "resume": "Le département de la Justice a fait condamner Google deux fois en neuf mois, sans grand effet apparent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:00-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "malgre-deux-victoires-judiciaires-contre-google-les-autorite-691beb",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "malgre-deux-victoires-judiciaires-contre-google-les-autorite-691beb"
+  },
+  {
+   "titre": "La Maison-Blanche retire discrètement un jeu en ligne accusé de racisme, inspiré de Tetris",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
+     "auteur": "Emma Roth",
+     "date": "2026-09-08T12:00-04:00"
+    }
+   ],
+   "resume": "Aucune explication n'a été donnée pour ce retrait, survenu quelques jours après le lancement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:00-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "la-maison-blanche-retire-discretement-un-jeu-en-ligne-accuse-2a80fc",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "la-maison-blanche-retire-discretement-un-jeu-en-ligne-accuse-2a80fc"
+  },
+  {
+   "titre": "Des chirurgiens découvrent un arthropode toujours vivant dans l'intestin d'une patiente",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/sante/actualites/intestins-chirurgiens-pensaient-retirer-masse-intestin-cette-femme-creature-vivante-soudainement-surgi-k2m6-137252/",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/sante/actualites/intestins-chirurgiens-pensaient-retirer-masse-intestin-cette-femme-creature-vivante-soudainement-surgi-k2m6-137252/",
+     "auteur": "la rédaction, Futura",
+     "date": "2026-09-08T12:00-04:00"
+    }
+   ],
+   "resume": "L'arthropode aurait survécu plusieurs heures dans le tube digestif avant d'être découvert.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:00-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "des-chirurgiens-decouvrent-un-arthropode-toujours-vivant-dan-84a210",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "des-chirurgiens-decouvrent-un-arthropode-toujours-vivant-dan-84a210"
   },
   {
    "titre": "Deux chroniqueurs débattent de l'usage de la dette américaine détenue par le Canada comme arme commerciale",
@@ -2891,9 +3172,9 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "France",
-   "medias": "CNEWS, France 24, franceinfo",
+   "medias": "CNEWS, France 24, franceinfo, Québecor, Radio-Canada",
    "url": "https://www.cnews.fr/france/2026-09-08/musee-renoir-de-cagnes-sur-mer-quatre-oeuvres-derobees-dont-une-abandonnee",
-   "resume": "Une toile abandonnée dans leur fuite, presque un an après le casse retentissant du Louvre.",
+   "resume": "Mise à jour, 12 h 01 — Deux des quatre toiles ont finalement été retrouvées dans le parc du musée.",
    "sources": [
     {
      "media": "CNEWS",
@@ -2909,9 +3190,20 @@
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/faits-divers/le-musee-auguste-renoir-a-cagnes-sur-mer-cambriole-mardi-matin-quatre-uvres-derobees-dont-une-abandonnee_8182688.html",
      "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/08/quatre-uvres-derobees-au-musee-renoir-de-cagnes-sur-mer-pour-plus-de-14-m",
+     "date": "2026-09-08T12:01-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281578/vol-tableaux-renoir-musee-france",
+     "date": "2026-09-08T12:22-04:00"
     }
    ],
-   "horodate": "2026-09-08T04:51-04:00",
+   "horodate": "2026-09-08T12:01-04:00",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cagnes-sur-Mer_-_Mus%C3%A9e_Renoir_-_Maison_-1.JPG/1280px-Cagnes-sur-Mer_-_Mus%C3%A9e_Renoir_-_Maison_-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "legende": "Le musée Renoir, à Cagnes-sur-Mer.",
    "photo_auteur": "MOSSOT",
