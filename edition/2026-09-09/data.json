@@ -3,6 +3,7 @@
  "volets": [
   "continu",
   "elections",
+  "monde",
   "report"
  ],
  "articles": [
@@ -115,7 +116,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Chine",
-   "medias": "CNEWS, franceinfo, Le Monde, Radio France",
+   "medias": "CNEWS, franceinfo, Le Monde, Radio France, RFI",
    "url": "https://www.cnews.fr/monde/2026-09-09/50-ans-de-la-mort-de-mao-zedong-comment-le-grand-timonier-avait-il-pris-le-pouvoir",
    "sources": [
     {
@@ -139,6 +140,13 @@
      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/50-ans-apres-la-mort-de-mao-quels-heritages-dans-la-chine-de-xi-jinping-6937801",
      "date": "2026-09-09T01:18-04:00",
      "auteur": "Guillaume Erner"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20260909-chine-50-ans-mort-mao-reste-une-figure-tut%C3%A9laire-au-bilan-difficilement-critiquable",
+     "auteur": "Clea Broadhurst",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Le Parti communiste chinois doit composer avec un bilan qui mêle nostalgie populaire et millions de victimes politiques.",
@@ -157,7 +165,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "États-Unis",
-   "medias": "Le Parisien, France 24, TV5Monde",
+   "medias": "Le Parisien, France 24, TV5Monde, Libération, Le Journal de Montréal",
    "url": "https://www.leparisien.fr/international/etats-unis/deux-pompiers-mont-dit-il-faut-partir-quand-donald-trump-raconte-une-scene-du-11-septembre-qui-nest-jamais-arrivee-09-09-2026-NYRIA7PUKBGT7OGUJYDJMI4Q2E.php",
    "sources": [
     {
@@ -176,6 +184,20 @@
      "url": "https://information.tv5monde.com/international/le-11-septembre-une-occasion-comme-une-autre-pour-trump-de-parler-de-lui-2836724",
      "auteur": "TV5MONDE Info",
      "date": "2026-09-08T22:10-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/le-11-septembre-une-occasion-comme-une-autre-pour-trump-de-parler-de-lui-et-de-sinventer-une-vie-20260908_IPP5Y6HQ5JB5VOUGXKGMEKWUHA/",
+     "auteur": "Libération ., AFP .",
+     "date": "2026-09-08T15:31-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/09/08/trump-empoigne-par-des-pompiers-le-11-septembre-une-histoire-qui-fait-sourciller",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T16:11-04:00",
+     "date_origine": "media"
     }
    ],
    "resume": "L'épisode ravive les critiques sur la tendance du président à se mettre en scène dans les drames nationaux.",
@@ -194,7 +216,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "États-Unis",
-   "medias": "Libération, CNEWS",
+   "medias": "Libération, CNEWS, France 24, TV5MONDE, RFI",
    "url": "https://www.liberation.fr/international/amerique/convention-republicaine-a-dallas-le-pari-risque-de-donald-trump-pour-sauver-les-midterms-20260909_QMJ6VS6PZNA2TLKO5UMTMHZDZM/",
    "sources": [
     {
@@ -208,6 +230,24 @@
      "url": "https://www.cnews.fr/monde/2026-09-09/elections-de-mi-mandat-aux-etats-unis-linitiative-de-donald-trump-le-parti",
      "auteur": "CNEWS avec AFP",
      "date": "2026-09-09T00:52-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260909-trump-r%C3%A9unit-son-camp-et-joue-la-t%C3%AAte-de-gondole-avant-les-%C3%A9lections-de-mi-mandat",
+     "date": "2026-09-08T20:43-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/trump-reunit-son-camp-et-joue-la-tete-de-gondole-avant-les-elections-de-mi-mandat-2836715",
+     "date": "2026-09-08T20:55-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260909-%C3%A9tats-unis-trump-r%C3%A9unit-camp-dallas-avant-des-%C3%A9lections-de-mi-mandat-qui-s-annoncent-difficiles",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "L'événement de deux jours expose surtout la dépendance d'un parti de plus en plus soumis à son chef.",
@@ -226,7 +266,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Allemagne",
-   "medias": "RTL, franceinfo",
+   "medias": "RTL, franceinfo, Le Figaro, Le Parisien, RTS",
    "url": "https://www.rtl.fr/actu/international/rendre-a-l-allemagne-sa-grandeur-trump-felicite-l-afd-apres-sa-victoire-historique-en-saxe-anhalt-7900670482",
    "sources": [
     {
@@ -239,6 +279,25 @@
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-salue-la-tres-bonne-soiree-de-l-extreme-droite-allemande-apres-sa-victoire-dimanche_8184278.html",
      "date": "2026-09-09T02:12-04:00"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/make-germany-great-again-trump-salue-la-tres-bonne-soiree-de-l-extreme-droite-apres-la-victoire-de-l-afd-en-allemagne-20260909",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T20:03-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/allemagne/ils-ne-vont-plus-se-laisser-faire-donald-trump-jubile-apres-la-victoire-de-lextreme-droite-en-allemagne-09-09-2026-7CSCDCGJE5AQJGBSPFWYPL2GSU.php",
+     "date": "2026-09-08T20:34-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "RTS",
+     "url": "https://www.rts.ch/info/monde/2026/article/percee-de-l-afd-donald-trump-se-rejouit-du-succes-de-l-extreme-droite-29351684.html",
+     "date": "2026-09-08T23:25-04:00",
+     "date_origine": "media"
     }
    ],
    "resume": "L'AfD récolte 44 % des voix contre 17 % aux conservateurs de Friedrich Merz, en Saxe-Anhalt.",
@@ -610,6 +669,1190 @@
    "_slug": "un-collectif-contre-la-pauvrete-reproche-aux-partis-leur-sil-74cac8"
   },
   {
+   "titre": "L'Arabie saoudite promet de riposter après une attaque houthie d'ampleur inédite sur son territoire",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Arabie saoudite",
+   "medias": "La Presse, France 24, Al-Manar, Euronews, Le Monde",
+   "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-08/arabie-saoudite/une-attaque-d-ampleur-menee-par-les-houtis-fait-73-blesses.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-08/arabie-saoudite/une-attaque-d-ampleur-menee-par-les-houtis-fait-73-blesses.php",
+     "auteur": "Sofiane ALSAAR avec les correspondants de l’AFP au Yémen",
+     "date": "2026-09-08T06:21-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-pourquoi-l-arabie-saoudite-frappe-t-elle-les-houthis-au-y%C3%A9men",
+     "auteur": "Ava Luquet",
+     "date": "2026-09-08T07:47-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/123367/",
+     "auteur": "Leila Mazboudi",
+     "date": "2026-09-08T07:47-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/09/08/larabie-saoudite-riposte-apres-la-plus-forte-attaque-des-houthis-contre-des-sites-petrolie",
+     "auteur": "Aleksandar Brezar",
+     "date": "2026-09-08T11:04-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/arabie-saoudite-des-frappes-houthis-blessent-73-civils-ryad-promet-de-riposter_6768483_3210.html",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T15:04-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Le conflit yéménite déborde désormais sur le grand voisin, à quelques encablures des installations pétrolières d'Aramco.",
+   "horodate": "2026-09-08T15:04-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "l-arabie-saoudite-promet-de-riposter-apres-une-attaque-houth-b19227",
+   "entree": "2026-09-09T02:34-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "l-arabie-saoudite-promet-de-riposter-apres-une-attaque-houth-b19227"
+  },
+  {
+   "titre": "La Roumanie affirme avoir déjoué une opération d'espionnage qu'elle attribue à la Russie",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Roumanie",
+   "medias": "Boursorama, Le Figaro",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/equipements-personnels-bases-une-operation-d-espionnage-coordonnee-par-la-russie-dejouee-par-la-roumanie-7e9df71dcd88b9f6dca3bb10e432a6bb",
+   "sources": [
+    {
+     "media": "Boursorama",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/equipements-personnels-bases-une-operation-d-espionnage-coordonnee-par-la-russie-dejouee-par-la-roumanie-7e9df71dcd88b9f6dca3bb10e432a6bb",
+     "date": "2026-09-08T12:11-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/un-citoyen-russe-soupconne-d-avoir-prepare-une-operation-de-sabotage-arrete-en-roumanie-20260908",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T12:11-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Le pays visé est à la fois membre de l'Union européenne et de l'OTAN.",
+   "horodate": "2026-09-08T12:11-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "la-roumanie-affirme-avoir-dejoue-une-operation-d-espionnage-e1eda7",
+   "entree": "2026-09-08T12:11-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "la-roumanie-affirme-avoir-dejoue-une-operation-d-espionnage-e1eda7"
+  },
+  {
+   "titre": "La Hongrie expulse dix diplomates russes, du jamais-vu depuis 2018",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Hongrie",
+   "medias": "Euronews, RFI",
+   "url": "https://fr.euronews.com/my-europe/2026/09/08/la-hongrie-expulse-10-diplomates-russes-pour-activites-inacceptables",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/my-europe/2026/09/08/la-hongrie-expulse-10-diplomates-russes-pour-activites-inacceptables",
+     "auteur": "Sandor Zsiros",
+     "date": "2026-09-08T10:20-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260908-la-hongrie-expulse-10-diplomates-russes-accus%C3%A9s-d-activit%C3%A9s-inacceptables-une-premi%C3%A8re-depuis-2018",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T11:18-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Longtemps le plus proche allié de Moscou en Europe, Budapest change de ton depuis l'arrivée d'un pouvoir pro-européen.",
+   "horodate": "2026-09-08T11:18-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "la-hongrie-expulse-dix-diplomates-russes-du-jamais-vu-depuis-969b8f",
+   "entree": "2026-09-08T11:18-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "la-hongrie-expulse-dix-diplomates-russes-du-jamais-vu-depuis-969b8f"
+  },
+  {
+   "titre": "Israël ferme le consulat britannique de Jérusalem en représailles à des sanctions occidentales sur la colonisation",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Israël",
+   "medias": "France 24, Le Monde, Al-Manar",
+   "url": "https://www.france24.com/fr/moyen-orient/20260908-en-direct-isra%C3%ABl-va-fermer-consulat-britannique-j%C3%A9rusalem-sanctions-contre-colonies-cisjordanie-occup%C3%A9e-territoires-palestiniens",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/moyen-orient/20260908-en-direct-isra%C3%ABl-va-fermer-consulat-britannique-j%C3%A9rusalem-sanctions-contre-colonies-cisjordanie-occup%C3%A9e-territoires-palestiniens",
+     "auteur": "Barbara GABEL",
+     "date": "2026-09-08T11:01-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/09/israel-cible-le-royaume-uni-en-riposte-aux-sanctions-sur-la-cisjordanie_6768849_3210.html",
+     "auteur": "Luc Bronner",
+     "date": "2026-09-09T03:30-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/123872/",
+     "auteur": "Mariam Demashk",
+     "date": "2026-09-09T04:21-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "La brouille diplomatique s'invite dans la campagne électorale israélienne, où l'opposition peine à répliquer.",
+   "horodate": "2026-09-09T04:21-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "israel-ferme-le-consulat-britannique-de-jerusalem-en-represa-d64b41",
+   "entree": "2026-09-09T04:21-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "israel-ferme-le-consulat-britannique-de-jerusalem-en-represa-d64b41"
+  },
+  {
+   "titre": "L'armée israélienne tue un Palestinien à Aqraba en affirmant avoir essuyé une attaque au couteau",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Cisjordanie",
+   "medias": "France 24, TV5MONDE",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-un-palestinien-tu%C3%A9-par-les-forces-isra%C3%A9liennes-lors-d-un-raid-en-cisjordanie",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-un-palestinien-tu%C3%A9-par-les-forces-isra%C3%A9liennes-lors-d-un-raid-en-cisjordanie",
+     "date": "2026-09-08T06:25-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/un-palestinien-tue-par-les-forces-israeliennes-lors-dun-raid-en-cisjordanie-2836628",
+     "date": "2026-09-08T06:25-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Rien n'indique, pour l'instant, combien de temps durera la rétention du corps par l'armée.",
+   "horodate": "2026-09-08T06:25-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "l-armee-israelienne-tue-un-palestinien-a-aqraba-en-affirmant-62da65",
+   "entree": "2026-09-08T06:25-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "l-armee-israelienne-tue-un-palestinien-a-aqraba-en-affirmant-62da65"
+  },
+  {
+   "titre": "Un tribunal de Jérusalem refuse de bloquer l'appel d'offres du projet de colonisation E1",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Cisjordanie",
+   "medias": "Al-Manar, franceinfo",
+   "url": "https://french.almanar.com.lb/article/123387/",
+   "sources": [
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/123387/",
+     "auteur": "Leila Mazboudi",
+     "date": "2026-09-08T08:06-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/la-justice-israelienne-rejette-un-recours-contre-le-projet-polemique-de-colonie-e1-qui-prevoit-de-couper-la-cisjordanie-en-deux_8183207.html",
+     "date": "2026-09-08T09:38-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Le projet, dénoncé comme un verrou coupant la Cisjordanie en deux, vient de franchir une étape judiciaire.",
+   "horodate": "2026-09-08T09:38-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "un-tribunal-de-jerusalem-refuse-de-bloquer-l-appel-d-offres-313188",
+   "entree": "2026-09-08T09:38-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "un-tribunal-de-jerusalem-refuse-de-bloquer-l-appel-d-offres-313188"
+  },
+  {
+   "titre": "La centrale nucléaire de Zaporijjia, occupée par la Russie, retrouve l'électricité extérieure",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Euromaidan Press",
+   "url": "https://euromaidanpress.com/2026/09/08/russian-occupied-nuclear-plant-ran-on-diesel-for-almost-three-weeks-ukraine-ended-that-and-the-uns-nuclear-watchdog-calls-it-a-crucial-step-against-an-accident/",
+   "sources": [
+    {
+     "media": "Euromaidan Press",
+     "url": "https://euromaidanpress.com/2026/09/08/russian-occupied-nuclear-plant-ran-on-diesel-for-almost-three-weeks-ukraine-ended-that-and-the-uns-nuclear-watchdog-calls-it-a-crucial-step-against-an-accident/",
+     "auteur": "Yuri Zoria",
+     "date": "2026-09-08T07:01-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Coupée du réseau, la plus grande centrale d'Europe a tourné sur ses propres générateurs, en zone de guerre.",
+   "horodate": "2026-09-08T07:01-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "la-centrale-nucleaire-de-zaporijjia-occupee-par-la-russie-re-67383d",
+   "entree": "2026-09-08T07:03-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "la-centrale-nucleaire-de-zaporijjia-occupee-par-la-russie-re-67383d"
+  },
+  {
+   "titre": "Le FSB russe affirme avoir arrêté un Moldave soupçonné d'avoir tiré sur un général, sur ordre de Kyiv",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Russie",
+   "medias": "The Moscow Times, The Independent, WKMG",
+   "url": "https://www.themoscowtimes.com/2026/09/08/fsb-arrests-moldovan-suspected-of-shooting-air-force-general-a93657",
+   "sources": [
+    {
+     "media": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/09/08/fsb-arrests-moldovan-suspected-of-shooting-air-force-general-a93657",
+     "date": "2026-09-08T05:05-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "The Independent",
+     "url": "https://www.independent.co.uk/news/russia-ukraine-vladimir-putin-kyiv-astrakhan-b3046609.html",
+     "auteur": "Associated Press",
+     "date": "2026-09-08T09:20-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "WKMG",
+     "url": "https://www.clickorlando.com/news/world/2026/09/08/russia-detains-a-moldovan-citizen-suspected-of-shooting-a-military-officer-on-orders-from-ukraine/",
+     "auteur": "Associated Press",
+     "date": "2026-09-08T09:20-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Kyiv n'a pour l'instant réagi à aucune des accusations portées par les services russes.",
+   "horodate": "2026-09-08T09:20-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-fsb-russe-affirme-avoir-arrete-un-moldave-soupconne-d-avo-0eedd0",
+   "entree": "2026-09-08T11:06-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "le-fsb-russe-affirme-avoir-arrete-un-moldave-soupconne-d-avo-0eedd0"
+  },
+  {
+   "titre": "Kyiv affirme avoir retrouvé des composants occidentaux récents dans des missiles et drones russes",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Russie",
+   "medias": "Interfax-Ukraine, Ukrinform",
+   "url": "https://en.interfax.com.ua/news/general/1200466.html",
+   "sources": [
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1200466.html",
+     "date": "2026-09-08T05:50-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4162020-foreign-components-manufactured-in-20252026-found-in-russian-geran-drones-iskander-missiles-vlasiuk.html",
+     "date": "2026-09-08T07:05-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Le commissaire ukrainien aux sanctions y voit la preuve que les circuits d'approvisionnement fuient toujours.",
+   "horodate": "2026-09-08T07:05-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "kyiv-affirme-avoir-retrouve-des-composants-occidentaux-recen-f2f81a",
+   "entree": "2026-09-08T13:40-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "kyiv-affirme-avoir-retrouve-des-composants-occidentaux-recen-f2f81a"
+  },
+  {
+   "titre": "Le bras de fer entre Téhéran et Washington a ranimé un conflit yéménite qu'on croyait figé",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Yémen",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/moyen-orient/20260908-guerre-yemen-offensive-houthis-arabie-saoudite-iran-bab-al-mandeb",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/moyen-orient/20260908-guerre-yemen-offensive-houthis-arabie-saoudite-iran-bab-al-mandeb",
+     "auteur": "Marc DAOU",
+     "date": "2026-09-08T11:01-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Un cessez-le-feu vieux de plusieurs années s'est effondré en l'espace de quelques jours à peine.",
+   "horodate": "2026-09-08T11:01-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-bras-de-fer-entre-teheran-et-washington-a-ranime-un-confl-ef11b8",
+   "entree": "2026-09-08T11:01-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "le-bras-de-fer-entre-teheran-et-washington-a-ranime-un-confl-ef11b8"
+  },
+  {
+   "titre": "Le procureur général d'Ukraine démissionne en pleine enquête pour corruption dans son propre bureau",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Ukraine",
+   "medias": "Euronews",
+   "url": "https://www.euronews.com/my-europe/2026/09/08/ukraines-prosecutor-general-resigns-amid-major-corruption-investigation",
+   "sources": [
+    {
+     "media": "Euronews",
+     "url": "https://www.euronews.com/my-europe/2026/09/08/ukraines-prosecutor-general-resigns-amid-major-corruption-investigation",
+     "auteur": "Sasha Vakulina",
+     "date": "2026-09-08T05:06-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Il assure vouloir éviter que sa fonction ne devienne un instrument de règlement de comptes politique.",
+   "horodate": "2026-09-08T05:06-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-procureur-general-d-ukraine-demissionne-en-pleine-enquete-a4cd96",
+   "entree": "2026-09-08T15:37-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "le-procureur-general-d-ukraine-demissionne-en-pleine-enquete-a4cd96"
+  },
+  {
+   "titre": "Vingt-six ex-passagers d'une flottille humanitaire accusent Israël de tortures devant la justice française",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "France",
+   "medias": "franceinfo, Le Monde, Al-Manar, France 24, Libération",
+   "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-nouvelle-plainte-pour-torture-deposee-contre-israel-par-26-francais-membres-de-la-flottille-pour-gaza_8182784.html",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/une-nouvelle-plainte-pour-torture-deposee-contre-israel-par-26-francais-membres-de-la-flottille-pour-gaza_8182784.html",
+     "date": "2026-09-08T04:40-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/flottille-pour-gaza-nouvelle-plainte-contre-israel-de-26-francais-pour-actes-de-torture_6768237_3210.html",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T05:11-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/123402/",
+     "auteur": "Leila Mazboudi",
+     "date": "2026-09-08T08:27-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-flottilles-pour-gaza-l-enqu%C3%AAte-fran%C3%A7aise-nourrie-par-de-nouvelles-plaintes",
+     "date": "2026-09-08T11:51-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/des-militants-de-flottilles-pour-gaza-portent-plainte-pour-nourrir-lenquete-francaise-premiere-fissure-dans-limpunite-disrael-20260908_ZEZQOYGI4VHNRGMSA72SODVNDE/",
+     "auteur": "Zoé Vezyroglou",
+     "date": "2026-09-08T13:47-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Les autorités militaires et pénitentiaires israéliennes ont déjà rejeté ces accusations, disent les plaignants.",
+   "horodate": "2026-09-08T13:47-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "vingt-six-ex-passagers-d-une-flottille-humanitaire-accusent-23b4d4",
+   "entree": "2026-09-08T13:47-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "vingt-six-ex-passagers-d-une-flottille-humanitaire-accusent-23b4d4"
+  },
+  {
+   "titre": "Une présentatrice vedette égyptienne condamnée à la peine capitale dans une affaire de stupéfiants",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Égypte",
+   "medias": "France 24, franceinfo",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-egypte-la-pr%C3%A9sentatrice-de-t%C3%A9l%C3%A9vision-sarah-khalifa-condamn%C3%A9e-%C3%A0-mort",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-egypte-la-pr%C3%A9sentatrice-de-t%C3%A9l%C3%A9vision-sarah-khalifa-condamn%C3%A9e-%C3%A0-mort",
+     "auteur": "Ludovic DE Foucaud",
+     "date": "2026-09-08T06:51-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-une-presentatrice-de-television-condamnee-a-mort-pour-trafic-de-drogue_8183201.html",
+     "date": "2026-09-08T09:10-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "D'autres accusés, dans la même affaire, partagent sa sentence, présentée comme visant une vaste organisation criminelle.",
+   "horodate": "2026-09-08T09:10-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "une-presentatrice-vedette-egyptienne-condamnee-a-la-peine-ca-3748e4",
+   "entree": "2026-09-08T09:10-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "une-presentatrice-vedette-egyptienne-condamnee-a-la-peine-ca-3748e4"
+  },
+  {
+   "titre": "La justice européenne interdit à un parti d'extrême droite belge d'utiliser la marque Ikea dans ses tracts",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "Belgique",
+   "medias": "Ouest-France, Ma Ville",
+   "url": "https://www.ouest-france.fr/economie/entreprises/ikea/lextreme-droite-ne-peut-pas-utiliser-ikea-dans-sa-communication-politique-selon-la-justice-europeenne-6837c2da-ab92-11f1-8801-66f16947434c",
+   "sources": [
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/economie/entreprises/ikea/lextreme-droite-ne-peut-pas-utiliser-ikea-dans-sa-communication-politique-selon-la-justice-europeenne-6837c2da-ab92-11f1-8801-66f16947434c",
+     "date": "2026-09-08T11:33-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Ma Ville",
+     "url": "https://lorient.maville.com/actu/actudet_-l-extreme-droite-ne-peut-pas-utiliser-ikea-dans-sa-communication-politique-selon-la-justice-europeenne_54135-7469842_actu.Htm",
+     "date": "2026-09-08T11:36-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Le parti invoquait la liberté d'expression ; les juges ont préféré s'en tenir au droit des marques.",
+   "horodate": "2026-09-08T11:36-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "la-justice-europeenne-interdit-a-un-parti-d-extreme-droite-b-e56f2a",
+   "entree": "2026-09-08T11:36-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "la-justice-europeenne-interdit-a-un-parti-d-extreme-droite-b-e56f2a"
+  },
+  {
+   "titre": "Ouverture à Paris du procès de quatorze passeurs présumés après le naufrage le plus meurtrier de la Manche",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "France",
+   "medias": "France 24, RFI",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-immigration-naufrage-meurtrier-ouverture-du-proc%C3%A8s-des-passeurs-pr%C3%A9sum%C3%A9s",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-immigration-naufrage-meurtrier-ouverture-du-proc%C3%A8s-des-passeurs-pr%C3%A9sum%C3%A9s",
+     "date": "2026-09-08T05:56-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/france/20260908-proc%C3%A8s-pire-naufrage-de-migrants-manche-2021-funeste-business-des-r%C3%A9seaux-de-passeurs",
+     "auteur": "Marie Casadebaig",
+     "date": "2026-09-08T07:23-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Deux réseaux distincts, l'un afghan et l'autre irakien, ont été mis au jour par l'enquête.",
+   "horodate": "2026-09-08T07:23-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "ouverture-a-paris-du-proces-de-quatorze-passeurs-presumes-ap-7caf4e",
+   "entree": "2026-09-08T08:37-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "ouverture-a-paris-du-proces-de-quatorze-passeurs-presumes-ap-7caf4e"
+  },
+  {
+   "titre": "Le Brésil suspend le chef de sa police fédérale, nouvel épisode d'une crise institutionnelle inédite",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Brésil",
+   "medias": "TV5MONDE, France 24",
+   "url": "https://information.tv5monde.com/international/bresil-la-crise-institutionnelle-saggrave-le-chef-de-la-police-suspendu-2836745",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/bresil-la-crise-institutionnelle-saggrave-le-chef-de-la-police-suspendu-2836745",
+     "date": "2026-09-08T16:37-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260909-br%C3%A9sil-la-crise-institutionnelle-s-aggrave-le-chef-de-la-police-suspendu",
+     "date": "2026-09-09T02:41-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "L'affaire s'invite à moins d'un mois d'une présidentielle qui pourrait opposer Lula au fils de Bolsonaro.",
+   "horodate": "2026-09-09T02:41-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-bresil-suspend-le-chef-de-sa-police-federale-nouvel-episo-431772",
+   "entree": "2026-09-09T02:41-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "le-bresil-suspend-le-chef-de-sa-police-federale-nouvel-episo-431772"
+  },
+  {
+   "titre": "Le chef de la diplomatie américaine entame une tournée sud-américaine par la Colombie, désormais gouvernée à droite",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Colombie",
+   "medias": "TV5MONDE, La Presse, Le Journal de Montréal, Le Monde, France 24",
+   "url": "https://information.tv5monde.com/international/rubio-promet-de-restaurer-les-liens-avec-la-colombie-gouvernee-droite-2836713",
+   "sources": [
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/rubio-promet-de-restaurer-les-liens-avec-la-colombie-gouvernee-droite-2836713",
+     "date": "2026-09-08T09:31-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/2026-09-08/tournee-en-amerique-latine/rubio-attendu-en-colombie-pour-y-rencontrer-le-nouveau-president-admirateur-de-trump.php",
+     "auteur": "Léon BRUNEAU",
+     "date": "2026-09-08T09:51-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/09/08/rubio-entame-une-tournee-en-amerique-latine-pour-conforter-linfluence-des-etats-unis",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T15:13-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/09/en-tournee-en-amerique-latine-marco-rubio-promet-une-cooperation-sans-precedent-avec-la-colombie_6768687_3210.html",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T19:29-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-rubio-promet-de-restaurer-les-liens-avec-la-colombie-gouvern%C3%A9e-%C3%A0-droite",
+     "date": "2026-09-08T19:59-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Washington veut consolider une vague de dirigeants sud-américains proches de la Maison-Blanche, avant l'Équateur et le Pérou.",
+   "horodate": "2026-09-08T19:59-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-chef-de-la-diplomatie-americaine-entame-une-tournee-sud-a-45ee2a",
+   "entree": "2026-09-09T02:38-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "le-chef-de-la-diplomatie-americaine-entame-une-tournee-sud-a-45ee2a"
+  },
+  {
+   "titre": "La Hongrie bloque une nouvelle fois l'ouverture de deux chapitres de l'adhésion de l'Ukraine à l'UE",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Hongrie",
+   "medias": "UNITED24 Media, Kyiv Post",
+   "url": "https://united24media.com/world/hungary-again-throws-up-roadblock-to-ukraines-eu-accession-blocking-clusters-2-and-3-22371",
+   "sources": [
+    {
+     "media": "UNITED24 Media",
+     "url": "https://united24media.com/world/hungary-again-throws-up-roadblock-to-ukraines-eu-accession-blocking-clusters-2-and-3-22371",
+     "auteur": "Katherina Popilnichenko",
+     "date": "2026-09-08T14:02-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/84061",
+     "auteur": "Nina Savić",
+     "date": "2026-09-08T16:41-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Budapest, disent des diplomates européens, n'a toujours pas précisé ce qu'il faudrait pour lever son opposition.",
+   "horodate": "2026-09-08T16:41-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "la-hongrie-bloque-une-nouvelle-fois-l-ouverture-de-deux-chap-1039e2",
+   "entree": "2026-09-08T16:41-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "la-hongrie-bloque-une-nouvelle-fois-l-ouverture-de-deux-chap-1039e2"
+  },
+  {
+   "titre": "Nétanyahou accusé d'avoir été averti d'une attaque avant le 7-Octobre, son bureau dément",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Israël",
+   "medias": "franceinfo, Libération, Le Monde, Le Parisien, Radio-Canada",
+   "url": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-critique-apres-la-publication-d-un-article-le-disant-informe-de-l-attaque-du-7-octobre_8182916.html#xtor=RSS-3-[lestitres]",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-critique-apres-la-publication-d-un-article-le-disant-informe-de-l-attaque-du-7-octobre_8182916.html#xtor=RSS-3-[lestitres]",
+     "date": "2026-09-08T05:51-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/netanyahou-avait-ete-informe-que-le-hamas-preparait-une-operation-majeure-quelques-jours-avant-lattaque-du-7-octobre-revele-une-enquete-journalistique-20260908_5BDY7DZPIBEQFLIVYSTEFNDCU4/",
+     "auteur": "Coppélia Piccolo",
+     "date": "2026-09-08T06:10-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/7-octobre-benyamin-netanyahou-mis-en-cause-apres-la-publication-d-une-enquete-journalistique-affirmant-qu-il-a-ete-informe-d-une-attaque-a-venir_6768375_3210.html",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T06:36-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/attaque-du-7-octobre-le-bureau-de-netanyahou-dement-quil-a-ete-informe-dune-attaque-a-venir-08-09-2026-ZMW26LNIGJG4DEUGBMYDAGGUZA.php",
+     "date": "2026-09-08T15:43-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281768/israel-haaretz-7-octobre-emirats-arabes-unis-netanyahou",
+     "date": "2026-09-08T17:53-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "L'information, tirée d'un livre à paraître, remonterait jusqu'à un chef d'État du Golfe averti par le Hamas.",
+   "horodate": "2026-09-08T17:53-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/1280px-Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Le premier ministre israélien Benyamin Nétanyahou.",
+   "image_auto": "aucune",
+   "photo_auteur": "Avi Ohayon",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "netanyahou-accuse-d-avoir-ete-averti-d-une-attaque-avant-le-a954b9",
+   "entree": "2026-09-08T17:53-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "netanyahou-accuse-d-avoir-ete-averti-d-une-attaque-avant-le-a954b9"
+  },
+  {
+   "titre": "L'Allemagne s'interroge après le triomphe historique de l'AfD aux élections régionales de Saxe-Anhalt",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Allemagne",
+   "medias": "Courrier international, Ouest-France, L’Express, Euronews",
+   "url": "https://www.courrierinternational.com/article/analyse-extreme-droite-en-allemagne-la-norme-en-saxe-anhalt-c-est-l-afd_268525",
+   "sources": [
+    {
+     "media": "Courrier international",
+     "url": "https://www.courrierinternational.com/article/analyse-extreme-droite-en-allemagne-la-norme-en-saxe-anhalt-c-est-l-afd_268525",
+     "auteur": "Kai Gauselmann et Caroline Lee et Manon Delfour",
+     "date": "2026-09-08T06:23-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/europe/allemagne/video-extreme-droite-en-allemagne-comment-lafd-a-remporte-une-victoire-historique-en-saxe-anhalt-ca588ec9-9d18-4370-b362-04f2757eec85",
+     "date": "2026-09-08T14:07-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "L’Express",
+     "url": "https://www.lexpress.fr/monde/europe/lallemagne-sous-le-choc-apres-le-triomphe-de-lafd-en-saxe-anhalt-nous-sommes-loin-de-1933-mais-cest-UDWUJG6XR5CSBOYWQKF5ZPTFQY/",
+     "auteur": "Corentin Pennarguear",
+     "date": "2026-09-08T05:45-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/09/08/ignorer-la-victoire-de-lafd-accroit-la-colere-des-electeurs-avertit-un-politologue",
+     "auteur": "Lauren Walker et Stefan Grobe",
+     "date": "2026-09-08T12:56-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Un politologue presse le gouvernement Merz de ne pas ignorer la colère exprimée dans les urnes.",
+   "horodate": "2026-09-08T14:07-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "l-allemagne-s-interroge-apres-le-triomphe-historique-de-l-af-dc5d65",
+   "entree": "2026-09-08T14:07-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "l-allemagne-s-interroge-apres-le-triomphe-historique-de-l-af-dc5d65"
+  },
+  {
+   "titre": "Le premier directeur afro-américain de la Smithsonian Institution annonce son départ, sous la pression de l'administration Trump",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Le Journal de Montréal, France 24",
+   "url": "https://www.journaldemontreal.com/2026/09/08/depart-du-chef-dune-institution-culturelle-americaine-dans-le-viseur-de-donald-trump",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/08/depart-du-chef-dune-institution-culturelle-americaine-dans-le-viseur-de-donald-trump",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T17:32-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260908-depart-retraite-lonnie-bunch-chef-smithsonian-institution-viseur-donald-trump-wokisme-musee-etats-unis-maison-blanche",
+     "date": "2026-09-08T19:40-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Le grand complexe muséal doit désormais composer avec des pressions politiques inédites sur son récit de l'histoire américaine.",
+   "horodate": "2026-09-08T19:40-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Smithsonian_Building_Sunlight.jpg/1280px-Smithsonian_Building_Sunlight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Smithsonian Institution",
+   "photo_auteur": "Nate Lee",
+   "photo_licence": "CC BY-SA 4.0",
+   "image_auto": "wikipedia-en:Smithsonian Institution",
+   "permalien": "le-premier-directeur-afro-americain-de-la-smithsonian-instit-3b0853",
+   "entree": "2026-09-08T19:40-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "le-premier-directeur-afro-americain-de-la-smithsonian-instit-3b0853"
+  },
+  {
+   "titre": "Reykjavik convoque l'envoyé américain après un message de Trump qui absorbe l'île, le Canada et des îles françaises",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Libération, Ma Ville, Euronews, Boursorama, France 24, Le Figaro",
+   "url": "https://www.liberation.fr/international/amerique/donald-trump-publie-une-carte-ou-les-etats-unis-ont-colonise-lamerique-du-nord-les-antilles-et-lislande-20260908_FDLD5YWGSJAMVN6JQGQWIGPG7U/",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/donald-trump-publie-une-carte-ou-les-etats-unis-ont-colonise-lamerique-du-nord-les-antilles-et-lislande-20260908_FDLD5YWGSJAMVN6JQGQWIGPG7U/",
+     "date": "2026-09-08T06:17-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Ma Ville",
+     "url": "https://vannes.maville.com/actu/actudet_-donald-trump-devoile-une-carte-des-etats-unis-qui-englobe-les-antilles-francaises-le-canada-et-le-mexique_54135-7469556_actu.Htm",
+     "date": "2026-09-08T07:16-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/my-europe/2026/09/08/donald-trump-publie-une-carte-des-etats-unis-avec-des-territoires-francais",
+     "auteur": "Simon Ormiston",
+     "date": "2026-09-08T09:55-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Boursorama",
+     "url": "https://www.boursorama.com/videos/actualites/du-groenland-aux-antilles-la-carte-des-etats-unis-selon-donald-trump-faef581a13ef68119400479fe59e41ca",
+     "date": "2026-09-08T15:52-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260908-du-gro%C3%ABnland-aux-antilles-la-carte-des-etats-unis-selon-donald-trump",
+     "auteur": "Anthony SAINT-LÉGER",
+     "date": "2026-09-08T15:52-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/l-islande-convoque-l-ambassadeur-des-etats-unis-suite-a-une-publication-de-donald-trump-qui-montre-l-ile-comme-appartenant-au-territoire-americain-20260908",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T06:30-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Le président américain multiplie depuis des mois les cartes qui étendent, sur papier, les frontières de son pays.",
+   "horodate": "2026-09-08T15:52-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/US_embassy_in_Reykjav%C3%ADk_2017.jpeg/1280px-US_embassy_in_Reykjav%C3%ADk_2017.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "L'ambassade des États-Unis à Reykjavik, en Islande.",
+   "image_auto": "aucune",
+   "photo_auteur": "Vera de Kok",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "reykjavik-convoque-l-envoye-americain-apres-un-message-de-tr-07b84a",
+   "entree": "2026-09-08T15:52-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "reykjavik-convoque-l-envoye-americain-apres-un-message-de-tr-07b84a"
+  },
+  {
+   "titre": "Les exportations chinoises accélèrent encore, portées par une demande américaine plus forte qu'en juillet",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Chine",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260908-chine-le-commerce-ext%C3%A9rieur-chinois-au-beau-fixe-les-ventes-vers-les-%C3%A9tats-unis-progressent-encore",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260908-chine-le-commerce-ext%C3%A9rieur-chinois-au-beau-fixe-les-ventes-vers-les-%C3%A9tats-unis-progressent-encore",
+     "date": "2026-09-08T06:51-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "La publication de ces statistiques précède de peu une rencontre attendue entre Donald Trump et Xi Jinping.",
+   "horodate": "2026-09-08T06:51-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "les-exportations-chinoises-accelerent-encore-portees-par-une-1504c5",
+   "entree": "2026-09-08T06:51-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "les-exportations-chinoises-accelerent-encore-portees-par-une-1504c5"
+  },
+  {
+   "titre": "Le fabricant français de briquets et rasoirs Bic table sur l'essor du cannabis légal aux États-Unis",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "Boursorama",
+   "url": "https://www.boursorama.com/bourse/actualites/bic-le-cannabis-legal-relais-de-croissance-pour-les-ventes-de-briquets-aux-etats-unis-76efdbe54e1174a685abcd169429ca23",
+   "sources": [
+    {
+     "media": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/bic-le-cannabis-legal-relais-de-croissance-pour-les-ventes-de-briquets-aux-etats-unis-76efdbe54e1174a685abcd169429ca23",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T08:51-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Un usage inattendu doit, espère le groupe, compenser le recul du tabac sur son marché numéro un.",
+   "horodate": "2026-09-08T08:51-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-fabricant-francais-de-briquets-et-rasoirs-bic-table-sur-l-26977b",
+   "entree": "2026-09-08T08:51-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "le-fabricant-francais-de-briquets-et-rasoirs-bic-table-sur-l-26977b"
+  },
+  {
+   "titre": "Washington accuse des entreprises chinoises d'intelligence artificielle d'avoir pillé des technologies américaines à grande échelle",
+   "cahier": "international",
+   "rubrique": "technologies",
+   "territoire": "Chine",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/info-en-continu/20260909-le-d%C3%A9tournement-de-l-ia-am%C3%A9ricaine-est-au-coeur-du-d%C3%A9veloppement-des-mod%C3%A8les-chinois-selon-les-etats-unis",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260909-le-d%C3%A9tournement-de-l-ia-am%C3%A9ricaine-est-au-coeur-du-d%C3%A9veloppement-des-mod%C3%A8les-chinois-selon-les-etats-unis",
+     "date": "2026-09-09T01:25-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Selon Washington, cette pratique ne serait plus un complément mais le socle du développement de ces modèles.",
+   "horodate": "2026-09-09T01:25-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "washington-accuse-des-entreprises-chinoises-d-intelligence-a-83f0b9",
+   "entree": "2026-09-09T01:25-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "washington-accuse-des-entreprises-chinoises-d-intelligence-a-83f0b9"
+  },
+  {
+   "titre": "Paris accueille un premier rendez-vous mondial consacré à l'espace, où l'Europe veut peser face aux deux superpuissances",
+   "cahier": "international",
+   "rubrique": "espace",
+   "territoire": "France",
+   "medias": "Fortuneo, France 24",
+   "url": "https://bourse.fortuneo.fr/actualites/sommet-spatial-l-europe-cherche-sa-place-entre-les-etats-unis-et-la-chine-4765065",
+   "sources": [
+    {
+     "media": "Fortuneo",
+     "url": "https://bourse.fortuneo.fr/actualites/sommet-spatial-l-europe-cherche-sa-place-entre-les-etats-unis-et-la-chine-4765065",
+     "date": "2026-09-08T19:36-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20260909-avec-son-premier-sommet-international-%C3%A0-paris-l-europe-cherche-sa-place-dans-la-course-spatiale",
+     "auteur": "Christophe Dansette",
+     "date": "2026-09-08T21:37-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Ni SpaceX ni Blue Origin n'ont fait le déplacement pour ce rendez-vous voulu par Emmanuel Macron.",
+   "horodate": "2026-09-08T21:37-04:00",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/1280px-Emmanuel_Macron_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Emmanuel Macron",
+   "photo_auteur": "Nebojša Tejić",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Emmanuel Macron",
+   "permalien": "paris-accueille-un-premier-rendez-vous-mondial-consacre-a-l-de4ebc",
+   "entree": "2026-09-08T21:37-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "paris-accueille-un-premier-rendez-vous-mondial-consacre-a-l-de4ebc"
+  },
+  {
+   "titre": "L'actrice australienne Cate Blanchett reçoit le Praemium Imperiale, la récompense japonaise comparée au Nobel des arts",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Australie",
+   "medias": "France 24, franceinfo",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-l-actrice-cate-blanchett-laur%C3%A9ate-du-nobel-des-arts",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-l-actrice-cate-blanchett-laur%C3%A9ate-du-nobel-des-arts",
+     "date": "2026-09-08T06:23-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/cinema/la-comedienne-australienne-cate-blanchett-remporte-le-nobel-des-arts-avec-quatre-autres-laureats_8183234.html",
+     "date": "2026-09-08T10:48-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Quatre autres lauréats, dans d'autres disciplines artistiques, recevront la même distinction à Tokyo.",
+   "horodate": "2026-09-08T10:48-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "l-actrice-australienne-cate-blanchett-recoit-le-praemium-imp-8baa38",
+   "entree": "2026-09-08T10:48-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "l-actrice-australienne-cate-blanchett-recoit-le-praemium-imp-8baa38"
+  },
+  {
+   "titre": "Un commissaire du Conseil de l'Europe pointe des manques persistants dans les maisons de retraite françaises",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "France",
+   "medias": "France 24, franceinfo",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-ehpad-le-conseil-de-l-europe-s-alarme-de-la-situation-en-france",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-ehpad-le-conseil-de-l-europe-s-alarme-de-la-situation-en-france",
+     "date": "2026-09-08T08:01-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/prise-en-charge-des-personnes-agees/maltraitance-dans-les-ehpad/des-ressources-humaines-et-financieres-largement-insuffisantes-4-ans-apres-le-scandale-orpea-le-conseil-de-l-europe-s-alarme-de-la-situation-des-ehpad-en-france_8183087.html",
+     "date": "2026-09-08T08:07-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Une lettre à la ministre concernée évoque plusieurs difficultés persistantes dans ces établissements.",
+   "horodate": "2026-09-08T08:07-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "un-commissaire-du-conseil-de-l-europe-pointe-des-manques-per-7d31cd",
+   "entree": "2026-09-08T08:07-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "un-commissaire-du-conseil-de-l-europe-pointe-des-manques-per-7d31cd"
+  },
+  {
+   "titre": "En pleine grève, les syndicats de pompiers jugent insuffisante la réforme présentée place Beauvau",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "France",
+   "medias": "France 24, franceinfo",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-france-les-pompiers-se-mobilisent-apr%C3%A8s-un-%C3%A9t%C3%A9-aux-incendies-virulents",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-france-les-pompiers-se-mobilisent-apr%C3%A8s-un-%C3%A9t%C3%A9-aux-incendies-virulents",
+     "date": "2026-09-08T06:04-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/nous-sommes-decus-assurent-les-sapeurs-pompiers-en-greve-apres-une-reunion-au-ministere-de-l-interieur_8183099.html",
+     "date": "2026-09-08T07:53-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Malgré un été rendu difficile par de violents feux de forêt, effectifs et matériel restent en jeu.",
+   "horodate": "2026-09-08T07:53-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "en-pleine-greve-les-syndicats-de-pompiers-jugent-insuffisant-0f0c85",
+   "entree": "2026-09-08T16:21-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "en-pleine-greve-les-syndicats-de-pompiers-jugent-insuffisant-0f0c85"
+  },
+  {
+   "titre": "Des violences urbaines éclatent à Chambéry après l'interpellation d'un automobiliste grièvement blessé",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "France",
+   "medias": "CNEWS, franceinfo",
+   "url": "https://www.cnews.fr/france/2026-09-08/voitures-incendiees-centre-social-detruit-chambery-frappe-par-des-violences",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-09-08/voitures-incendiees-centre-social-detruit-chambery-frappe-par-des-violences",
+     "auteur": "Antoine Bailleron",
+     "date": "2026-09-08T05:31-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/faits-divers/les-policiers-n-ont-pas-fait-usage-de-leur-arme-lors-des-violences-urbaines-a-chambery-affirme-le-parquet-de-la-ville_8183282.html",
+     "date": "2026-09-08T10:20-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Le parquet écarte, pour l'instant, l'hypothèse d'un tir policier lors de cette interpellation mouvementée.",
+   "horodate": "2026-09-08T10:20-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "des-violences-urbaines-eclatent-a-chambery-apres-l-interpell-aa2043",
+   "entree": "2026-09-08T10:20-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "des-violences-urbaines-eclatent-a-chambery-apres-l-interpell-aa2043"
+  },
+  {
+   "titre": "Un suspect arrêté en Allemagne pour des attaques contre des lignes à haute tension, motif encore incertain",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Allemagne",
+   "medias": "Le Monde, Le Parisien",
+   "url": "https://www.lemonde.fr/international/article/2026/09/08/en-allemagne-l-auteur-presume-d-actes-de-sabotage-sur-le-reseau-electrique-arrete-le-gouvernement-evoque-un-militant-du-climat_6768378_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/en-allemagne-l-auteur-presume-d-actes-de-sabotage-sur-le-reseau-electrique-arrete-le-gouvernement-evoque-un-militant-du-climat_6768378_3210.html",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T07:53-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/allemagne/allemagne-lauteur-presume-dactes-de-sabotage-sur-le-reseau-electrique-arrete-08-09-2026-NHS6ASXMR5CZZKDDCRZFEO3LBU.php",
+     "date": "2026-09-08T08:08-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Berlin y voit un possible geste politique plutôt qu'un simple acte de malveillance isolé.",
+   "horodate": "2026-09-08T08:08-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "un-suspect-arrete-en-allemagne-pour-des-attaques-contre-des-4d32d9",
+   "entree": "2026-09-08T08:08-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "un-suspect-arrete-en-allemagne-pour-des-attaques-contre-des-4d32d9"
+  },
+  {
+   "titre": "Au Népal, le bilan humain de la crue meurtrière du mois dernier continue de s'alourdir",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Népal",
+   "medias": "La Presse, Le Devoir",
+   "url": "https://www.lapresse.ca/international/asie-et-oceanie/2026-09-08/crue-au-nepal/la-liste-des-disparus-fait-un-nouveau-bond.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/asie-et-oceanie/2026-09-08/crue-au-nepal/la-liste-des-disparus-fait-un-nouveau-bond.php",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T06:46-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/asie/1007210/nepal-liste-disparus-apres-crue-fait-nouveau-bond",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T07:55-04:00",
+     "date_origine": "media"
+    }
+   ],
+   "resume": "Les recherches se poursuivent dans un pays aux moyens de secours limités face à l'ampleur des dégâts.",
+   "horodate": "2026-09-08T07:55-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "au-nepal-le-bilan-humain-de-la-crue-meurtriere-du-mois-derni-6b2b70",
+   "entree": "2026-09-08T07:55-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "au-nepal-le-bilan-humain-de-la-crue-meurtriere-du-mois-derni-6b2b70"
+  },
+  {
+   "titre": "Le chef de l'ONU exige le retrait d'Israël du Liban après une flambée de violence à Nabatieh",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Liban",
+   "medias": "ONU Info",
+   "url": "https://news.un.org/en/story/2026/09/1168298",
+   "sources": [
+    {
+     "media": "ONU Info",
+     "url": "https://news.un.org/en/story/2026/09/1168298",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
+    }
+   ],
+   "resume": "L'ONU dit redouter que les frappes touchant hôpitaux et aide humanitaire n'aggravent encore la situation.",
+   "horodate": "2026-09-08T12:00-04:00",
+   "photo": "",
+   "legende": "",
+   "image_auto": "aucune",
+   "permalien": "le-chef-de-l-onu-exige-le-retrait-d-israel-du-liban-apres-un-9791bf",
+   "entree": "2026-09-08T12:00-04:00",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "le-chef-de-l-onu-exige-le-retrait-d-israel-du-liban-apres-un-9791bf"
+  },
+  {
    "titre": "Après l'éruption du volcan Anak Krakatau, l'Indonésie recherche un bateau avec cinq journalistes à bord",
    "cahier": "international",
    "rubrique": "transport",
@@ -663,7 +1906,7 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Cisjordanie",
-   "medias": "Le Devoir, Libération, Le Monde, France 24, RFI, BFM, franceinfo, Human Rights Watch, TV5MONDE",
+   "medias": "Le Monde, Le Devoir, Libération, France 24, RFI, BFM, franceinfo, Human Rights Watch, TV5MONDE, Al-Manar, National Post, Radio France",
    "url": "https://www.lemonde.fr/international/article/2026/09/08/onze-pays-europeens-et-le-canada-imposent-a-israel-des-sanctions-contre-les-produits-issus-des-colonies-en-cisjordanie_6768553_3210.html",
    "sources": [
     {
@@ -723,6 +1966,27 @@
      "url": "https://information.tv5monde.com/international/cisjordanie-royaume-uni-france-canada-ciblent-le-commerce-avec-les-colonies-israel-riposte-2836693",
      "auteur": "TV5MONDE Info",
      "date": "2026-09-08T15:55-04:00"
+    },
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/123432/",
+     "auteur": "Leila Mazboudi",
+     "date": "2026-09-08T11:27-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/politics/canada-promises-trade-ban-on-goods-from-illegal-israeli-settlements-in-new-joint-statement",
+     "auteur": "Christopher Nardi",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
+    },
+    {
+     "media": "Radio France",
+     "url": "https://www.radiofrance.fr/franceinter/podcasts/geopolitique/geopolitique-du-mercredi-09-septembre-2026-1711872",
+     "auteur": "podcast@radiofrance.com (Radio France)",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Mise à jour, 20 h 10 — Israël a répliqué en annonçant la fermeture du consulat britannique de Jérusalem.",
@@ -856,7 +2120,7 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "New York (États-Unis)",
-   "medias": "La Presse, France 24, Le Devoir, franceinfo, Le Monde",
+   "medias": "La Presse, France 24, Le Devoir, franceinfo, Le Monde, Libération, Le Journal de Montréal, TV5MONDE",
    "url": "https://www.lapresse.ca/international/etats-unis/2026-09-08/apres-les-attaques-du-11-septembre/la-ville-de-new-york-a-dissimule-des-informations-sur-la-qualite-de-l-air.php",
    "sources": [
     {
@@ -886,6 +2150,26 @@
      "url": "https://www.lemonde.fr/international/article/2026/09/08/zohran-mamdani-denonce-des-dissimulations-sur-la-toxicite-de-l-air-a-new-york-apres-le-11-septembre-des-gens-sont-tombes-malades-parce-que-les-dirigeants-auxquels-ils-faisaient-confiance-leur-ont-menti_6768479_3210.html",
      "date": "2026-09-08T14:16-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/que-savait-la-ville-des-dangers-lies-au-nuage-toxique-a-ground-zero-le-maire-de-new-york-publie-des-documents-confidentiels-sur-la-toxicite-de-lair-apres-les-attentats-du-11-septembre-20260908_6W4LVESK65DIRPDTUDMZX5V3ZI/",
+     "auteur": "Libération ., AFP .",
+     "date": "2026-09-08T10:57-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/08/11-septembre-publication-de-milliers-de-documents-sur-la-toxicite-de-lair-a-new-york",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T11:21-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/attentat-du-11-septembre-la-ville-de-new-york-revele-que-la-pollution-de-lair-fait-plus-de-morts-posteriori-2836690",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Le maire Zohran Mamdani publie des dizaines de milliers de documents, obtenus après une bataille judiciaire.",
@@ -904,7 +2188,7 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Ukraine, Russie, États-Unis",
-   "medias": "France 24, TV5Monde, BBC, PBS, Al Jazeera, Radio-Canada",
+   "medias": "France 24, TV5Monde, BBC, PBS, Al Jazeera, Radio-Canada, Anadolu Ajansı, The Japan Times, AP News",
    "url": "https://www.france24.com/fr/info-en-continu/20260908-poutine-et-trump-ont-parl%C3%A9-avec-une-extr%C3%AAme-franchise-de-l-ukraine-selon-le-kremlin",
    "sources": [
     {
@@ -939,6 +2223,25 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2281667/poutine-trump-extreme-franchise-ukraine",
      "date": "2026-09-08T15:13-04:00"
+    },
+    {
+     "media": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/en/world/kremlin-says-putin-and-trump-had-constructive-and-frank-phone-call-on-ukraine-settlement/4051073",
+     "auteur": "Elena Teslova",
+     "date": "2026-09-08T10:45-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/09/09/world/politics/putin-trump-ukraine-call/",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
+    },
+    {
+     "media": "AP News",
+     "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-attacks-fd634a6786462bc95b7dfefc97d2331e",
+     "date": "2026-09-08T03:08-04:00",
+     "date_origine": "media"
     }
    ],
    "resume": "Mise à jour, 15 h 13 — Volodymyr Zelensky espère rencontrer Donald Trump d'ici deux semaines, pendant que Moscou dément toute visée sur l'Europe.",
@@ -957,7 +2260,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Syrie",
-   "medias": "France 24, TV5Monde, Libération",
+   "medias": "France 24, TV5Monde, Libération, Al-Manar",
    "url": "https://www.france24.com/fr/info-en-continu/20260908-les-op%C3%A9rations-d-isra%C3%ABl-en-syrie-pourraient-constituer-des-crimes-de-guerre-enqu%C3%AAteurs-de-l-onu",
    "sources": [
     {
@@ -975,6 +2278,13 @@
      "url": "https://www.liberation.fr/international/moyen-orient/les-operations-disrael-en-syrie-pourraient-constituer-des-crimes-de-guerre-selon-une-commission-denquete-de-lonu-20260908_WCG253MPUVB6TEF25AWCUEOKFA/",
      "date": "2026-09-08T14:50-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/123377/",
+     "auteur": "Leila Mazboudi",
+     "date": "2026-09-08T07:56-04:00",
+     "date_origine": "media"
     }
    ],
    "resume": "Mise à jour, 14 h 50 — La commission doit présenter un rapport complet sur ces frappes au Conseil des droits de l'homme au printemps.",
@@ -993,7 +2303,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Kenya",
-   "medias": "France 24",
+   "medias": "France 24, RFI",
    "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-kenya-les-petits-commer%C3%A7ants-%C3%A9trangers-menac%C3%A9s-d-expulsion",
    "sources": [
     {
@@ -1001,6 +2311,12 @@
      "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-kenya-les-petits-commer%C3%A7ants-%C3%A9trangers-menac%C3%A9s-d-expulsion",
      "date": "2026-09-08T13:29-04:00",
      "auteur": "Constant Mawouton Kintin"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/afrique/20260908-kenya-la-pol%C3%A9mique-enfle-autour-des-menaces-d-expulsions-sur-les-commer%C3%A7ants-%C3%A9trangers",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Ruto veut fermer les commerces tenus par des étrangers, provoquant un afflux à l'ambassade du Burundi.",
@@ -1193,7 +2509,7 @@
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Royaume-Uni",
-   "medias": "CNEWS",
+   "medias": "CNEWS, Libération, Al-Manar, France 24",
    "url": "https://www.cnews.fr/monde/2026-09-08/royaume-uni-heathrow-gatwick-les-aeroports-britanniques-fortement-perturbes-par",
    "sources": [
     {
@@ -1201,6 +2517,26 @@
      "url": "https://www.cnews.fr/monde/2026-09-08/royaume-uni-heathrow-gatwick-les-aeroports-britanniques-fortement-perturbes-par",
      "auteur": "Khalil Rajehi",
      "date": "2026-09-08T14:51-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/transports/paralysie-a-laeroport-de-londres-heathrow-un-millier-de-vols-annules-apres-une-panne-du-controle-aerien-20260909_YVTAY5RJBZCF7GZ6ALBRECUDCE/",
+     "auteur": "Libération ., AFP .",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
+    },
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/123787/",
+     "auteur": "Leila Mazboudi",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-royaume-uni-plus-de-1-000-vols-annul%C3%A9s-apr%C3%A8s-une-panne-du-contr%C3%B4le-a%C3%A9rien",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Liverpool, Birmingham et Édimbourg subissent aussi les contrecoups d'une défaillance du système de navigation aérienne britannique.",
@@ -1647,7 +2983,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "Hong Kong",
-   "medias": "RFI",
+   "medias": "RFI, France 24, TV5MONDE",
    "url": "https://www.rfi.fr/fr/asie-pacifique/20260908-tung-chee-hwa-premier-dirigeant-de-hong-kong-apr%C3%A8s-sa-restitution-%C3%A0-la-chine-est-mort-%C3%A0-89-ans",
    "sources": [
     {
@@ -1655,6 +2991,18 @@
      "url": "https://www.rfi.fr/fr/asie-pacifique/20260908-tung-chee-hwa-premier-dirigeant-de-hong-kong-apr%C3%A8s-sa-restitution-%C3%A0-la-chine-est-mort-%C3%A0-89-ans",
      "date": "2026-09-08T15:06-04:00",
      "auteur": "RFI avec AFP"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260909-d%C3%A9c%C3%A8s-de-tung-chee-hwa-premier-dirigeant-de-hong-kong-apr%C3%A8s-la-r%C3%A9trocession",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/deces-de-tung-chee-hwa-premier-dirigeant-de-hong-kong-apres-la-retrocession-2836748",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Il avait pris les commandes du territoire dès sa rétrocession à Pékin en 1997.",
@@ -1674,7 +3022,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Iran",
-   "medias": "Le Dauphiné Libéré, Le Monde, France 24, Le Parisien, LaPresse.ca, Radio-Canada",
+   "medias": "Le Dauphiné Libéré, Le Monde, France 24, Le Parisien, LaPresse.ca, Radio-Canada, Le HuffPost, Le Devoir, RFI, franceinfo, Al-Manar, CNEWS, Libération",
    "url": "https://www.ledauphine.com/defense-guerre-conflit/2026/09/08/les-etats-unis-ciblent-un-nouveau-petrolier-iranien-au-large-de-l-ile-de-kharg",
    "sources": [
     {
@@ -1732,6 +3080,27 @@
      "media": "franceinfo",
      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-teheran-attaque-une-base-militaire-des-etats-unis-en-jordanie-et-une-vingtaine-de-bateaux-apres-des-frappes-americaines-contre-des-petroliers_8184188.html",
      "date": "2026-09-09T01:12-04:00"
+    },
+    {
+     "media": "Al-Manar",
+     "url": "https://french.almanar.com.lb/article/123532/",
+     "auteur": "Ghada Hoballah",
+     "date": "2026-09-08T16:07-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-08/guerre-au-moyen-orient-liran-affirme-avoir-saisi-un-drone-sous-marin-americain",
+     "auteur": "Khalil Rajehi",
+     "date": "2026-09-08T12:56-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/teheran-frappe-en-jordanie-et-dans-le-golfe-apres-des-attaques-americaines-sur-des-petroliers-iraniens-20260909_YHRV5JROJNC53K7SZMUNRKA4IE/",
+     "auteur": "Libération ., AFP .",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Mise à jour, 01 h 12 — Téhéran affirme avoir visé deux navires américains, huit pétroliers et dix autres bateaux dans le Golfe.",
@@ -1994,7 +3363,7 @@
    "cahier": "savoirs",
    "rubrique": "sciences",
    "territoire": "États-Unis",
-   "medias": "France 24, The Verge, franceinfo, La Presse, Le Devoir",
+   "medias": "France 24, The Verge, franceinfo, La Presse, Le Devoir, Clubic, Le Journal de Montréal",
    "url": "https://www.france24.com/fr/info-en-continu/20260908-openai-dit-avoir-r%C3%A9solu-un-probl%C3%A8me-de-maths-crucial-en-quelques-jours-seulement",
    "sources": [
     {
@@ -2031,6 +3400,13 @@
      "url": "https://www.clubic.com/actualite-628879-openai-accuse-d-avoir-double-des-chercheurs-sur-un-probleme-mathematique-hors-norme.html",
      "date": "2026-09-09T00:37-04:00",
      "auteur": "Mélina Loupia"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/08/openai-dit-avoir-resolu-un-probleme-de-maths-crucial-en-quelques-jours-seulement",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T17:45-04:00",
+     "date_origine": "media"
     }
    ],
    "resume": "Mise à jour, 00 h 37 — Le mathématicien Tristan Buckmaster accuse OpenAI d'avoir publié une preuve concurrente après avoir eu connaissance de ses travaux.",
@@ -2049,7 +3425,7 @@
    "cahier": "savoirs",
    "rubrique": "cinema",
    "territoire": "États-Unis",
-   "medias": "France 24, franceinfo, Le Monde",
+   "medias": "France 24, franceinfo, Le Monde, Libération",
    "url": "https://www.france24.com/fr/info-en-continu/20260908-south-park-rebaptis%C3%A9-south-america-pour-se-moquer-de-trump",
    "sources": [
     {
@@ -2068,6 +3444,13 @@
      "url": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
      "date": "2026-09-08T18:48-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/south-park-devient-south-america-les-createurs-de-la-serie-raillent-donald-trump-20260909_GHY2QOVDOZBJDMPN7ZCL5XRMX4/",
+     "auteur": "Libération ., AFP .",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Comedy Central, filiale de Paramount visée au passage, n'a pas encore réagi à la blague.",
@@ -2112,7 +3495,7 @@
    "cahier": "canada",
    "rubrique": "conflits",
    "territoire": "Canada",
-   "medias": "Le Canada Français, La Presse, Canada's National Observer",
+   "medias": "La Presse, Canada's National Observer, Le Canada Français, Radio-Canada",
    "url": "https://www.lapresse.ca/actualites/politique/2026-09-08/la-chine-revele-avoir-mene-des-pourparlers-militaires-avec-des-responsables-canadiens.php",
    "sources": [
     {
@@ -2132,6 +3515,12 @@
      "url": "https://www.canadafrancais.com/nouvelles-nationales/la-chine-revele-avoir-mene-des-pourparlers-militaires-avec-des-responsables-canadiens/",
      "date": "2026-09-08T21:03-04:00",
      "auteur": "Dylan Robertson et La Presse Canadienne"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281853/canada-chine-echange-questions-militaires",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Les conservateurs s'inquiètent déjà d'un rapprochement militaire avec Pékin, huit ans après sa rupture.",
@@ -2292,13 +3681,25 @@
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Royaume-Uni",
-   "medias": "The Globe and Mail",
+   "medias": "The Globe and Mail, franceinfo, Le Parisien",
    "url": "https://www.theglobeandmail.com/business/article-uk-airports-flights-cancelled-air-traffic-control/",
    "sources": [
     {
      "media": "The Globe and Mail",
      "url": "https://www.theglobeandmail.com/business/article-uk-airports-flights-cancelled-air-traffic-control/",
      "date": "2026-09-08T18:00-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/economie/transports/au-royaume-uni-de-nombreux-vols-annules-apres-un-probleme-technique-du-controle-aerien_8183633.html",
+     "date": "2026-09-08T13:15-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/faits-divers/heathrow-gatwick-les-aeroports-britanniques-fortement-perturbes-par-une-panne-des-centaines-de-vols-annules-08-09-2026-MYFQ3HEF7NCD3FDPMERFUUKNZI.php",
+     "date": "2026-09-08T13:35-04:00",
+     "date_origine": "media"
     }
    ],
    "resume": "Les retards se sont propagés à quinze aéroports avant que le problème ne soit résolu dans la journée.",
@@ -2345,7 +3746,7 @@
    "cahier": "international",
    "rubrique": "societe",
    "territoire": "Norvège",
-   "medias": "France 24",
+   "medias": "France 24, TV5MONDE, CNEWS",
    "url": "https://www.france24.com/fr/info-en-continu/20260909-la-norv%C3%A8ge-fait-ses-adieux-au-roi-harald-v-grand-p%C3%A8re-de-la-nation",
    "sources": [
     {
@@ -2353,6 +3754,18 @@
      "url": "https://www.france24.com/fr/info-en-continu/20260909-la-norv%C3%A8ge-fait-ses-adieux-au-roi-harald-v-grand-p%C3%A8re-de-la-nation",
      "auteur": "FRANCE24",
      "date": "2026-09-08T21:11-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/la-norvege-fait-ses-adieux-au-roi-harald-v-grand-pere-de-la-nation-2836719",
+     "date": "2026-09-08T10:23-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/france/2026-09-09/norvege-sebastien-lecornu-oslo-pour-assister-aux-obseques-du-roi-harald-v-1915750",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Plus de 3500 soldats sont mobilisés et l'espace aérien restreint sur une grande partie du pays.",
@@ -2372,7 +3785,7 @@
    "cahier": "international",
    "rubrique": "justice",
    "territoire": "France",
-   "medias": "France 24",
+   "medias": "France 24, Le Monde, franceinfo, CNEWS",
    "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260908-affaire-des-assistants-du-modem-bayrou-de-retour-devant-la-justice",
    "sources": [
     {
@@ -2380,6 +3793,25 @@
      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260908-affaire-des-assistants-du-modem-bayrou-de-retour-devant-la-justice",
      "auteur": "Cécile Gallucio",
      "date": "2026-09-08T20:00-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/article/2026/09/08/francois-bayrou-juge-en-appel-dans-l-affaire-des-assistants-parlementaires-europeens-du-modem_6768404_3224.html",
+     "auteur": "Franck Johannès",
+     "date": "2026-09-08T11:00-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/j-aborde-ce-proces-avec-grande-serenite-francois-bayrou-repasse-devant-les-juges-dans-l-affaire-des-assistants-parlementaires-d-eurodeputes-du-modem_8180660.html",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/faits-divers/2026-09-09/affaire-des-assistants-deurodeputes-modem-francois-bayrou-de-retour-devant",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "resume": "Acquitté en première instance, l'ex-chef du MoDem se dit serein avant la reprise du dossier en appel.",
@@ -3146,7 +4578,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Le Devoir, Radio-Canada, Les Affaires, La Presse, Global News",
+   "medias": "Le Devoir, Radio-Canada, Les Affaires, La Presse, Global News, National Post, The Globe and Mail, Canada's National Observer",
    "url": "https://www.ledevoir.com/economie/1007081/contre-tarifs-douaniers-canadiens-entrent-vigueur-mardi",
    "sources": [
     {
@@ -3190,6 +4622,26 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281641/entreprises-beauce-quebec-consequences-contre-tarifs",
      "date": "2026-09-08T14:13-04:00",
      "auteur": "Marie-Christine Gagnon"
+    },
+    {
+     "media": "National Post",
+     "url": "https://nationalpost.com/news/trumps-bombardier-threat-is-an-own-goal-for-canada-u-s-defence-ties-analysts-say",
+     "auteur": "Tracy Moran",
+     "date": "2026-09-08T08:48-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/video-carney-warns-of-tough-times-ahead-in-national-address-as-retaliatory/",
+     "auteur": "Nick Murray",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
+    },
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/08/news/trump-ramps-trade-dispute-against-canada-banning-imports-booze-other-products",
+     "auteur": "Kelly Geraldine Malone",
+     "date": "2026-09-08T19:51-04:00"
     }
    ],
    "resume": "Mise à jour, 14 h 13 — Des chefs d'entreprise à Beauce et ailleurs au Québec redoutent déjà des pertes liées à la riposte.",
@@ -3208,7 +4660,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Kyiv (Ukraine)",
-   "medias": "Radio-Canada, France 24, Ukrinform, Le Parisien, Libération, La Presse, Interfax-Ukraine, Al Jazeera",
+   "medias": "Radio-Canada, France 24, Ukrinform, Le Parisien, Libération, La Presse, Interfax-Ukraine, Al Jazeera, AP News, L'actualité, NBC News",
    "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
    "resume": "Mise à jour, 16 h 56 — Le bilan grimpe à 35 blessés et 5 morts, contre 26 et 3 quelques heures plus tôt.",
    "photo": "",
@@ -3278,6 +4730,25 @@
      "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends",
      "date": "2026-09-08T14:34-04:00",
      "auteur": "Agence France-Presse et Reuters"
+    },
+    {
+     "media": "AP News",
+     "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-attacks-fd634a6786462bc95b7dfefc97d2331e",
+     "date": "2026-09-08T03:08-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/actualites/un-barrage-russe-et-une-frappe-ukrainienne-font-quatre-morts-mettant-fin-a-la-treve/",
+     "auteur": "Samya Kullab et Associated Press",
+     "date": "2026-09-08T06:50-04:00",
+     "date_origine": "media"
+    },
+    {
+     "media": "NBC News",
+     "url": "https://www.nbcnews.com/video/shorts/at-a-ukrainian-media-building-struck-by-a-russian-missile-269492805941",
+     "date": "2026-09-09T05:06-04:00",
+     "date_origine": "journal"
     }
    ],
    "permalien": "la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344",
