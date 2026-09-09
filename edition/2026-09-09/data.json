@@ -4,6 +4,7 @@
   "continu",
   "elections",
   "monde",
+  "presse-regionale",
   "report"
  ],
  "articles": [
@@ -905,6 +906,7 @@
    "horodate": "2026-09-09T06:21-04:00",
    "permalien": "le-plq-promet-d-elargir-le-mandat-de-la-regie-des-alcools-et-05a129",
    "entree": "2026-09-09T06:21-04:00",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "le-plq-promet-d-elargir-le-mandat-de-la-regie-des-alcools-et-05a129"
@@ -930,6 +932,7 @@
    "horodate": "2026-09-09T06:53-04:00",
    "permalien": "charles-milliard-se-dit-favorable-au-maintien-de-la-traverse-5bd6e6",
    "entree": "2026-09-09T06:53-04:00",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "charles-milliard-se-dit-favorable-au-maintien-de-la-traverse-5bd6e6"
@@ -2124,6 +2127,926 @@
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-09.json",
    "_slug": "le-chef-de-l-onu-exige-le-retrait-d-israel-du-liban-apres-un-9791bf"
+  },
+  {
+   "titre": "Sept-Îles et Havre-Saint-Pierre lancent la haute saison des croisières sur la Côte-Nord",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Sept-Îles, Havre-Saint-Pierre (Côte-Nord)",
+   "medias": "Radio-Canada, Le Nord-Côtier",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281710/sept-iles-croisieres-port-monseigneur-tourisme",
+   "resume": "Huit cents touristes allemands ont découvert un quai flambant neuf, entre visite guidée et confitures de chicoutai.",
+   "horodate": "2026-09-08T16:53-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281710/sept-iles-croisieres-port-monseigneur-tourisme",
+     "auteur": "Lucas Sanniti",
+     "date": "2026-09-08T16:53-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/08/la-haute-saison-des-croisieres-est-lancee-a-havre-saint-pierre/",
+     "auteur": "Vincent Rioux-Berrouard",
+     "date": "2026-09-08T15:05-04:00"
+    }
+   ],
+   "permalien": "sept-iles-et-havre-saint-pierre-lancent-la-haute-saison-des-8d0047",
+   "entree": "2026-09-08T16:53-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "sept-iles-et-havre-saint-pierre-lancent-la-haute-saison-des-8d0047"
+  },
+  {
+   "titre": "Hydro-Québec cherche un site pour un nouveau poste électrique près de Sept-Îles",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Sept-Îles (Côte-Nord)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281723/nouveau-poste-electrique-sept-iles-hq",
+   "resume": "Sur un relief jugé tout sauf plat, plus d'une centaine de sites ont été passés au crible.",
+   "horodate": "2026-09-08T17:38-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281723/nouveau-poste-electrique-sept-iles-hq",
+     "auteur": "Lucas Handschuh",
+     "date": "2026-09-08T17:38-04:00"
+    }
+   ],
+   "permalien": "hydro-quebec-cherche-un-site-pour-un-nouveau-poste-electriqu-aac6d9",
+   "entree": "2026-09-08T17:38-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "hydro-quebec-cherche-un-site-pour-un-nouveau-poste-electriqu-aac6d9"
+  },
+  {
+   "titre": "Un pont de la route 172 à Tadoussac sera réparé après près de soixante ans de service",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Tadoussac (Côte-Nord)",
+   "medias": "Le Haute Côte-Nord",
+   "url": "https://www.journalhcn.com/2026/09/08/tadoussac-des-reparations-a-venir-sur-un-pont-de-la-172/",
+   "resume": "Vieux de presque soixante ans, l'ouvrage approche la fin de sa durée de vie utile.",
+   "horodate": "2026-09-08T11:50-04:00",
+   "sources": [
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/08/tadoussac-des-reparations-a-venir-sur-un-pont-de-la-172/",
+     "auteur": "Renaud Cyr",
+     "date": "2026-09-08T11:50-04:00"
+    }
+   ],
+   "permalien": "un-pont-de-la-route-172-a-tadoussac-sera-repare-apres-pres-d-e8d25d",
+   "entree": "2026-09-08T11:50-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "un-pont-de-la-route-172-a-tadoussac-sera-repare-apres-pres-d-e8d25d"
+  },
+  {
+   "titre": "À Tête-à-la-Baleine, un festival rassemble l'une des communautés les plus isolées du Québec",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Tête-à-la-Baleine (Basse-Côte-Nord)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/plein-phare/episodes/1223861/mardi-8-septembre-2026",
+   "resume": "Au large de la Basse-Côte-Nord, une communauté se retrouve dans un cadre que peu de Québécois ont visité.",
+   "horodate": "2026-09-08T18:10-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/plein-phare/episodes/1223861/mardi-8-septembre-2026",
+     "date": "2026-09-08T18:10-04:00"
+    }
+   ],
+   "permalien": "a-tete-a-la-baleine-un-festival-rassemble-l-une-des-communau-6dcfd9",
+   "entree": "2026-09-08T18:10-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "a-tete-a-la-baleine-un-festival-rassemble-l-une-des-communau-6dcfd9"
+  },
+  {
+   "titre": "Le tourisme nord-côtier savoure une saison estivale meilleure que prévu",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Côte-Nord",
+   "medias": "Le Nord-Côtier, Le Manic, Le Haute Côte-Nord",
+   "url": "https://lenord-cotier.com/2026/09/09/tourisme-sur-la-cote-nord-une-premiere-moitie-de-saison-touristique-positive/",
+   "resume": "Après un mois de juin plombé par la pluie, la région vise maintenant une sixième année record d'affilée.",
+   "horodate": "2026-09-09T06:00-04:00",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/09/tourisme-sur-la-cote-nord-une-premiere-moitie-de-saison-touristique-positive/",
+     "auteur": "pierrebister",
+     "date": "2026-09-09T06:00-04:00"
+    }
+   ],
+   "permalien": "le-tourisme-nord-cotier-savoure-une-saison-estivale-meilleur-027a87",
+   "entree": "2026-09-09T06:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "le-tourisme-nord-cotier-savoure-une-saison-estivale-meilleur-027a87"
+  },
+  {
+   "titre": "Un conducteur de chargeuse accusé après la mort d'un camionneur à Saint-Alexandre-de-Kamouraska",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Saint-Alexandre-de-Kamouraska (Bas-Saint-Laurent)",
+   "medias": "Infodimanche, Radio-Canada",
+   "url": "https://www.infodimanche.com/justice-et-faits-divers/accident-de-travail-a-saint-alexandre-de-kamouraska-le-conducteur-accuse-de-conduite-causant-la-mort-et-de-negligence-criminelle/",
+   "resume": "Plus de deux ans après le drame, le dossier revient devant le tribunal pour un procès devant jury.",
+   "horodate": "2026-09-08T15:54-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/justice-et-faits-divers/accident-de-travail-a-saint-alexandre-de-kamouraska-le-conducteur-accuse-de-conduite-causant-la-mort-et-de-negligence-criminelle/",
+     "auteur": "Info Dimanche",
+     "date": "2026-09-08T12:36-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281702/conduite-dangereuse-saint-alexandre-kamouraska",
+     "auteur": "Andréanne Lebel",
+     "date": "2026-09-08T15:54-04:00"
+    }
+   ],
+   "permalien": "un-conducteur-de-chargeuse-accuse-apres-la-mort-d-un-camionn-edcac8",
+   "entree": "2026-09-08T15:54-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "un-conducteur-de-chargeuse-accuse-apres-la-mort-d-un-camionn-edcac8"
+  },
+  {
+   "titre": "La Ville de Rimouski poursuit le promoteur Corev pour récupérer les terrains de l'ex-Grande Place",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Rimouski (Bas-Saint-Laurent)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281767/rimouski-grande-place-poursuite",
+   "resume": "Un terrain vague en plein centre-ville, une résidence jamais construite, et un maire à court de patience.",
+   "horodate": "2026-09-09T06:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281767/rimouski-grande-place-poursuite",
+     "auteur": "Marie-Christine Rioux",
+     "date": "2026-09-09T06:26-04:00"
+    }
+   ],
+   "permalien": "la-ville-de-rimouski-poursuit-le-promoteur-corev-pour-recupe-7543a6",
+   "entree": "2026-09-09T06:26-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "la-ville-de-rimouski-poursuit-le-promoteur-corev-pour-recupe-7543a6"
+  },
+  {
+   "titre": "Les contre-tarifs canadiens ajoutent à l'incertitude des entreprises du Bas-Saint-Laurent",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281695/tarifs-douaniers-canada-trump-carney-bsl",
+   "resume": "Le prix de l'acier a presque doublé en quelques mois, et certains fabricants n'ont plus de garantie d'approvisionnement.",
+   "horodate": "2026-09-08T15:42-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281695/tarifs-douaniers-canada-trump-carney-bsl",
+     "auteur": "Véronique Duval",
+     "date": "2026-09-08T15:42-04:00"
+    }
+   ],
+   "permalien": "les-contre-tarifs-canadiens-ajoutent-a-l-incertitude-des-ent-1f373f",
+   "entree": "2026-09-08T18:22-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "les-contre-tarifs-canadiens-ajoutent-a-l-incertitude-des-ent-1f373f"
+  },
+  {
+   "titre": "L'orgue de la cathédrale de Rimouski hérite de pièces centenaires d'un couvent voisin",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Rimouski (Bas-Saint-Laurent)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281669/orgue-patrimoine-cathedrale-rimouski-rosaire",
+   "resume": "Quatre claviers d'ivoire et deux cents tuyaux changent de maison pour donner une nouvelle voix à l'instrument.",
+   "horodate": "2026-09-09T05:00-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281669/orgue-patrimoine-cathedrale-rimouski-rosaire",
+     "auteur": "Laurence Gallant",
+     "date": "2026-09-09T05:00-04:00"
+    }
+   ],
+   "permalien": "l-orgue-de-la-cathedrale-de-rimouski-herite-de-pieces-centen-535339",
+   "entree": "2026-09-09T05:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "l-orgue-de-la-cathedrale-de-rimouski-herite-de-pieces-centen-535339"
+  },
+  {
+   "titre": "Les infirmières du bloc opératoire de Val-d'Or dénoncent un stérilisateur défaillant",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Val-d'Or (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281726/soins-hopital-val-dor-syndicat-fiq-infirmiere",
+   "resume": "Des instruments ressortaient encore souillés, au point où le personnel refuse désormais d'opérer dans ces conditions.",
+   "horodate": "2026-09-08T16:30-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281726/soins-hopital-val-dor-syndicat-fiq-infirmiere",
+     "auteur": "Marc-André Landry",
+     "date": "2026-09-08T16:30-04:00"
+    }
+   ],
+   "permalien": "les-infirmieres-du-bloc-operatoire-de-val-d-or-denoncent-un-2d4654",
+   "entree": "2026-09-08T16:30-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "les-infirmieres-du-bloc-operatoire-de-val-d-or-denoncent-un-2d4654"
+  },
+  {
+   "titre": "Le Réseau libre savoir lance sa nouvelle programmation à Rouyn-Noranda",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Rouyn-Noranda (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/ca-vaut-le-retour/episodes/1224768/mardi-8-septembre-2026-reseau-libre-savoir-table-ronde-sante-lia-et-sorties-au-temiscamingue",
+   "resume": "De nouveaux cours s'ajoutent en Abitibi-Témiscamingue pour ceux qui veulent apprendre sans jamais retourner sur les bancs d'école.",
+   "horodate": "2026-09-08T17:10-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/ca-vaut-le-retour/episodes/1224768/mardi-8-septembre-2026-reseau-libre-savoir-table-ronde-sante-lia-et-sorties-au-temiscamingue",
+     "date": "2026-09-08T17:10-04:00"
+    }
+   ],
+   "permalien": "le-reseau-libre-savoir-lance-sa-nouvelle-programmation-a-rou-6ade3c",
+   "entree": "2026-09-08T17:10-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "le-reseau-libre-savoir-lance-sa-nouvelle-programmation-a-rou-6ade3c"
+  },
+  {
+   "titre": "Un suspect arrêté après un vol à main armée à Val-d'Or",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Val-d'Or (Abitibi-Témiscamingue)",
+   "medias": "Zone911",
+   "url": "https://zone911.com/scenes-policieres/vol-qualifie-a-val-dor-un-suspect-arrete",
+   "resume": "L'arme retrouvée près des lieux n'était qu'une imitation, mais le caissier avait déjà remis l'argent de la caisse.",
+   "horodate": "2026-09-08T13:05-04:00",
+   "sources": [
+    {
+     "media": "Zone911",
+     "url": "https://zone911.com/scenes-policieres/vol-qualifie-a-val-dor-un-suspect-arrete",
+     "date": "2026-09-08T13:05-04:00"
+    }
+   ],
+   "permalien": "un-suspect-arrete-apres-un-vol-a-main-armee-a-val-d-or-959426",
+   "entree": "2026-09-08T13:05-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "un-suspect-arrete-apres-un-vol-a-main-armee-a-val-d-or-959426"
+  },
+  {
+   "titre": "Saint-Fulgence impose une taxe pour contrôler ses chats et chiens errants",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Saint-Fulgence (MRC du Fjord-du-Saguenay)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281544/animaux-compagnie-saint-fulgence-spca",
+   "resume": "L'an dernier, trente-huit félins sans propriétaire ont dû être capturés un à un aux frais des contribuables.",
+   "horodate": "2026-09-08T10:20-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281544/animaux-compagnie-saint-fulgence-spca",
+     "auteur": "Vicky Boutin",
+     "date": "2026-09-08T10:20-04:00"
+    }
+   ],
+   "permalien": "saint-fulgence-impose-une-taxe-pour-controler-ses-chats-et-c-573d18",
+   "entree": "2026-09-08T10:20-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "saint-fulgence-impose-une-taxe-pour-controler-ses-chats-et-c-573d18"
+  },
+  {
+   "titre": "Un Normandinois diabétique boucle le tour du lac Saint-Jean à pied en sept jours",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Normandin, lac Saint-Jean (Saguenay–Lac-Saint-Jean)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281742/tour-lac-saint-jean-marche-diabete",
+   "resume": "Deux cent quatre-vingt-six kilomètres plus tard, il espère inspirer d'autres diabétiques à voir grand.",
+   "horodate": "2026-09-08T16:46-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281742/tour-lac-saint-jean-marche-diabete",
+     "auteur": "Johanie Bilodeau",
+     "date": "2026-09-08T16:46-04:00"
+    }
+   ],
+   "permalien": "un-normandinois-diabetique-boucle-le-tour-du-lac-saint-jean-d93967",
+   "entree": "2026-09-08T16:46-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "un-normandinois-diabetique-boucle-le-tour-du-lac-saint-jean-d93967"
+  },
+  {
+   "titre": "Un trafiquant de Jonquière remis en liberté en attendant sa peine au pénitencier",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Jonquière (Saguenay–Lac-Saint-Jean)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2026/09/08/libere-avant-de-retourner-au-penitencier-pour-trafic-de-drogue-YS26LEVSAFFURDXX7AZ6MM6EWA/",
+   "resume": "Cocaïne, méthamphétamines et véhicules volés : la perquisition a rapporté plus de quatre-vingt mille dollars en argent comptant.",
+   "horodate": "2026-09-08T18:12-04:00",
+   "sources": [
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2026/09/08/libere-avant-de-retourner-au-penitencier-pour-trafic-de-drogue-YS26LEVSAFFURDXX7AZ6MM6EWA/",
+     "auteur": "Stéphane Bégin",
+     "date": "2026-09-08T18:12-04:00"
+    }
+   ],
+   "permalien": "un-trafiquant-de-jonquiere-remis-en-liberte-en-attendant-sa-399b4b",
+   "entree": "2026-09-08T18:12-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "un-trafiquant-de-jonquiere-remis-en-liberte-en-attendant-sa-399b4b"
+  },
+  {
+   "titre": "Le Centre de services scolaire de l'Énergie supprime une dizaine de postes",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Mauricie",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281722/suppression-postes-ecoles-mauricie",
+   "resume": "Psychologie, orientation et maternelle quatre ans : trois cent quarante-cinq heures d'accompagnement par semaine disparaissent.",
+   "horodate": "2026-09-08T16:06-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281722/suppression-postes-ecoles-mauricie",
+     "auteur": "Pascale Langlois et Barbara Leroux",
+     "date": "2026-09-08T16:06-04:00"
+    }
+   ],
+   "permalien": "le-centre-de-services-scolaire-de-l-energie-supprime-une-diz-3d547b",
+   "entree": "2026-09-08T16:06-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "le-centre-de-services-scolaire-de-l-energie-supprime-une-diz-3d547b"
+  },
+  {
+   "titre": "L'aide au logement pour personnes itinérantes est mise sur pause en Mauricie",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Trois-Rivières (Mauricie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281549/centre-havre-confronte-bureaucratie-programme",
+   "resume": "Québec dit avoir dépassé ses cibles, mais les organismes du terrain accueillent le double des besoins réels.",
+   "horodate": "2026-09-08T10:40-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281549/centre-havre-confronte-bureaucratie-programme",
+     "auteur": "Francis Beaudry",
+     "date": "2026-09-08T10:40-04:00"
+    }
+   ],
+   "permalien": "l-aide-au-logement-pour-personnes-itinerantes-est-mise-sur-p-5d5ceb",
+   "entree": "2026-09-08T10:40-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "l-aide-au-logement-pour-personnes-itinerantes-est-mise-sur-p-5d5ceb"
+  },
+  {
+   "titre": "La Tablée populaire de Drummondville traverse une situation financière critique",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Drummondville (Centre-du-Québec)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281625/tablee-populaire-drummondville-difficultes-financieres",
+   "resume": "La Tablée populaire menace de couper repas à prix modique, plateaux de travail et boîtes à lunch.",
+   "horodate": "2026-09-08T14:41-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281625/tablee-populaire-drummondville-difficultes-financieres",
+     "date": "2026-09-08T14:41-04:00",
+     "auteur": "Jean-François Dumas"
+    }
+   ],
+   "permalien": "la-tablee-populaire-de-drummondville-traverse-une-situation-826a62",
+   "entree": "2026-09-08T14:41-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "la-tablee-populaire-de-drummondville-traverse-une-situation-826a62"
+  },
+  {
+   "titre": "Un travailleur fait une chute d'une dizaine de pieds sur un chantier à Sherbrooke",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Sherbrooke (Estrie)",
+   "medias": "Coops de l'information, Radio-Canada, Zone911",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281619/sherbrooke-chute-travailleur-blessure-cnesst",
+   "resume": "L'homme rénovait un patio de la rue D'Youville au moment où le sol s'est dérobé sous lui.",
+   "horodate": "2026-09-08T12:59-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281619/sherbrooke-chute-travailleur-blessure-cnesst",
+     "date": "2026-09-08T12:54-04:00",
+     "auteur": "Maelys Buteau-Leduc"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/actualites/justice-et-faits-divers/2026/09/08/un-travailleur-serieusement-blesse-sur-la-rue-dyouville-RK5BBFFWT5HINOLKDMVVQ5ZVLE/",
+     "auteur": "Tommy Brochu",
+     "date": "2026-09-08T12:10-04:00"
+    },
+    {
+     "media": "Zone911",
+     "url": "https://zone911.com/accidents/accident-de-travail-a-sherbrooke-un-travailleur-fait-une-chute-dune-dizaine-de-pieds",
+     "date": "2026-09-08T12:59-04:00"
+    }
+   ],
+   "permalien": "un-travailleur-fait-une-chute-d-une-dizaine-de-pieds-sur-un-753e53",
+   "entree": "2026-09-08T12:59-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "un-travailleur-fait-une-chute-d-une-dizaine-de-pieds-sur-un-753e53"
+  },
+  {
+   "titre": "L'Estrie lance un projet pour mieux dépister les difficultés de lecture chez les chercheurs d'emploi",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Estrie",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281642/cep-estrie-competences-action-litteratie",
+   "resume": "Un peu plus de la moitié de la population régionale n'atteint pas le niveau de littératie jugé fonctionnel.",
+   "horodate": "2026-09-08T13:49-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281642/cep-estrie-competences-action-litteratie",
+     "auteur": "Maelys Buteau-Leduc et Jean Arel",
+     "date": "2026-09-08T13:49-04:00"
+    }
+   ],
+   "permalien": "l-estrie-lance-un-projet-pour-mieux-depister-les-difficultes-8bed78",
+   "entree": "2026-09-08T13:49-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "l-estrie-lance-un-projet-pour-mieux-depister-les-difficultes-8bed78"
+  },
+  {
+   "titre": "Le projet d'agrandissement du port de Contrecœur soumis à une nouvelle consultation publique",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Contrecœur (Montérégie)",
+   "medias": "Les 2 Rives",
+   "url": "https://les2rives.com/projet-dagrandissement-du-terminal-portuaire-de-contrecoeur-la-population-consultee-sur-des-modifications/",
+   "resume": "Un changement à la sous-station électrique force Ottawa à revoir son analyse d'impact avant de trancher.",
+   "horodate": "2026-09-08T14:24-04:00",
+   "sources": [
+    {
+     "media": "Les 2 Rives",
+     "url": "https://les2rives.com/projet-dagrandissement-du-terminal-portuaire-de-contrecoeur-la-population-consultee-sur-des-modifications/",
+     "auteur": "Jean-Philippe Morin",
+     "date": "2026-09-08T14:24-04:00"
+    }
+   ],
+   "permalien": "le-projet-d-agrandissement-du-port-de-contrecur-soumis-a-une-42f748",
+   "entree": "2026-09-08T14:24-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "le-projet-d-agrandissement-du-port-de-contrecur-soumis-a-une-42f748"
+  },
+  {
+   "titre": "Une grue s'effondre sur une voiture stationnée à Longueuil",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Longueuil (Montérégie)",
+   "medias": "Le Courrier du Sud",
+   "url": "https://lecourrierdusud.ca/longueuil-grue-ecrase-sur-voiture/",
+   "resume": "L'imposant camion a fauché l'enseigne d'une pharmacie avant de bloquer la circulation pendant des heures.",
+   "horodate": "2026-09-08T16:24-04:00",
+   "sources": [
+    {
+     "media": "Le Courrier du Sud",
+     "url": "https://lecourrierdusud.ca/longueuil-grue-ecrase-sur-voiture/",
+     "auteur": "Sylvain Daignault",
+     "date": "2026-09-08T16:24-04:00"
+    }
+   ],
+   "permalien": "une-grue-s-effondre-sur-une-voiture-stationnee-a-longueuil-6e42c4",
+   "entree": "2026-09-08T16:24-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "une-grue-s-effondre-sur-une-voiture-stationnee-a-longueuil-6e42c4"
+  },
+  {
+   "titre": "Une école de Maniwaki tente de désamorcer des bagarres organisées entre élèves",
+   "cahier": "quebec",
+   "rubrique": "education",
+   "territoire": "Maniwaki (Outaouais)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281769/bagarre-eleves-cite-haute-gatineau-maniwaki",
+   "resume": "Les jeunes se donnent rendez-vous sur l'heure du dîner, même quand les deux camps ont consenti au combat.",
+   "horodate": "2026-09-08T17:47-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281769/bagarre-eleves-cite-haute-gatineau-maniwaki",
+     "auteur": "Simon Deschamps",
+     "date": "2026-09-08T17:47-04:00"
+    }
+   ],
+   "permalien": "une-ecole-de-maniwaki-tente-de-desamorcer-des-bagarres-organ-c2a573",
+   "entree": "2026-09-08T17:47-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "une-ecole-de-maniwaki-tente-de-desamorcer-des-bagarres-organ-c2a573"
+  },
+  {
+   "titre": "Sport Échange Outaouais ferme ses portes après trente-cinq ans",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Gatineau (Outaouais)",
+   "medias": "Coops de l'information",
+   "url": "https://www.ledroit.com/affaires/affaires-locales/2026/09/09/sport-echange-outaouais-annonce-sa-fermeture-VU25VGUCONHVJC74DWZSE7EN2A/",
+   "resume": "Le commerce familial assure ne pas être en faillite, mais deux générations d'entrepreneurs tirent leur révérence.",
+   "horodate": "2026-09-09T04:00-04:00",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/affaires/affaires-locales/2026/09/09/sport-echange-outaouais-annonce-sa-fermeture-VU25VGUCONHVJC74DWZSE7EN2A/",
+     "auteur": "Ani-Rose Deschatelets",
+     "date": "2026-09-09T04:00-04:00"
+    }
+   ],
+   "permalien": "sport-echange-outaouais-ferme-ses-portes-apres-trente-cinq-a-2a13e7",
+   "entree": "2026-09-09T04:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "sport-echange-outaouais-ferme-ses-portes-apres-trente-cinq-a-2a13e7"
+  },
+  {
+   "titre": "Le maire de Laval Stéphane Boyer annonce vivre avec une tumeur au cerveau",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Laval",
+   "medias": "Courrier Laval",
+   "url": "https://courrierlaval.com/le-maire-boyer-touche-par-une-vague-damour/",
+   "resume": "Il réduira ses activités publiques cet automne, mais promet à ses concitoyens qu'une petite bosse ne l'arrêtera pas.",
+   "horodate": "2026-09-08T14:03-04:00",
+   "sources": [
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/le-maire-boyer-touche-par-une-vague-damour/",
+     "auteur": "Stéphane St-Amour",
+     "date": "2026-09-08T14:03-04:00"
+    }
+   ],
+   "permalien": "le-maire-de-laval-stephane-boyer-annonce-vivre-avec-une-tume-2f4a04",
+   "entree": "2026-09-08T14:03-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "le-maire-de-laval-stephane-boyer-annonce-vivre-avec-une-tume-2f4a04"
+  },
+  {
+   "titre": "Une distribution gratuite de verrous d'arme à feu sillonnera la Chaudière-Appalaches cet automne",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Chaudière-Appalaches",
+   "medias": "EnBeauce.com",
+   "url": "https://www.enbeauce.com/actualites/faits-divers/674040/distribution-de-verrous-de-pontet-en-chaudiere-appalaches",
+   "resume": "Quinze municipalités accueilleront des kiosques liés à la Journée mondiale de prévention du suicide, un verrou par personne.",
+   "horodate": "2026-09-08T10:00-04:00",
+   "sources": [
+    {
+     "media": "EnBeauce.com",
+     "url": "https://www.enbeauce.com/actualites/faits-divers/674040/distribution-de-verrous-de-pontet-en-chaudiere-appalaches",
+     "date": "2026-09-08T10:00-04:00"
+    }
+   ],
+   "permalien": "une-distribution-gratuite-de-verrous-d-arme-a-feu-sillonnera-c5bdd2",
+   "entree": "2026-09-08T10:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "une-distribution-gratuite-de-verrous-d-arme-a-feu-sillonnera-c5bdd2"
+  },
+  {
+   "titre": "Le recrutement d'adolescents pour des contrats BBQ explose dans la grande région de Québec",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec, Sainte-Marie (Chaudière-Appalaches)",
+   "medias": "Radio-Canada, Coops de l'information",
+   "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/09/les-ados-recrutes-pour-le-crime-la-violence-en-hausse-significative-IMAUUC2DERGDTDYJHED5HVRPMU/",
+   "resume": "Un adolescent de dix-sept ans a empoché mille deux cents dollars pour frapper, par erreur, la mauvaise personne.",
+   "horodate": "2026-09-09T04:01-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/09/les-ados-recrutes-pour-le-crime-la-violence-en-hausse-significative-IMAUUC2DERGDTDYJHED5HVRPMU/",
+     "auteur": "Judith Desmeules et Victoria Baril",
+     "date": "2026-09-09T04:01-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/episodes/1220798/mardi-8-septembre-2026",
+     "date": "2026-09-08T17:13-04:00"
+    }
+   ],
+   "permalien": "le-recrutement-d-adolescents-pour-des-contrats-bbq-explose-d-9cb25a",
+   "entree": "2026-09-09T04:01-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "le-recrutement-d-adolescents-pour-des-contrats-bbq-explose-d-9cb25a"
+  },
+  {
+   "titre": "Une infiltration d'eau retarde encore le chantier du nouveau pont de l'île d'Orléans",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Île d'Orléans (Capitale-Nationale)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/actualites/2026/09/08/une-infiltration-deau-ralentit-le-chantier-du-nouveau-pont-de-lile-4BEI3QAWBFEKBLHNGE4R4FNSWY/",
+   "resume": "Un mur temporaire censé garder le chantier au sec a cédé, sur un projet déjà loin de l'échéancier.",
+   "horodate": "2026-09-08T15:46-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/2026/09/08/une-infiltration-deau-ralentit-le-chantier-du-nouveau-pont-de-lile-4BEI3QAWBFEKBLHNGE4R4FNSWY/",
+     "auteur": "Simon Carmichael et Émilie Pelletier",
+     "date": "2026-09-08T15:46-04:00"
+    }
+   ],
+   "permalien": "une-infiltration-d-eau-retarde-encore-le-chantier-du-nouveau-870133",
+   "entree": "2026-09-08T15:46-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "une-infiltration-d-eau-retarde-encore-le-chantier-du-nouveau-870133"
+  },
+  {
+   "titre": "Saint-Siméon lance un service de transport bénévole pour ses aînés",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Saint-Siméon (Charlevoix)",
+   "medias": "Le Charlevoisien",
+   "url": "https://www.lecharlevoisien.com/2026/09/08/mobilite-communautaire-saint-simeon-debut-du-service-mercredi/",
+   "resume": "Un concessionnaire prête le véhicule, et il suffit d'appeler deux jours à l'avance pour se rendre à l'épicerie.",
+   "horodate": "2026-09-08T19:30-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/08/mobilite-communautaire-saint-simeon-debut-du-service-mercredi/",
+     "auteur": "Victor Carré",
+     "date": "2026-09-08T19:30-04:00"
+    }
+   ],
+   "permalien": "saint-simeon-lance-un-service-de-transport-benevole-pour-ses-7bda64",
+   "entree": "2026-09-08T19:30-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "saint-simeon-lance-un-service-de-transport-benevole-pour-ses-7bda64"
+  },
+  {
+   "titre": "L'Observatoire de la géosphère de Charlevoix change de présidence après six ans et demi",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "La Malbaie (Charlevoix)",
+   "medias": "Le Charlevoisien",
+   "url": "https://www.lecharlevoisien.com/2026/09/09/hubert-reeves-francois-tremblay-passe-le-flambeau/",
+   "resume": "Il reste deux millions et demi à trouver pour boucler ce projet scientifique évalué à vingt millions.",
+   "horodate": "2026-09-09T05:00-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/09/hubert-reeves-francois-tremblay-passe-le-flambeau/",
+     "auteur": "Jérôme Gagnon",
+     "date": "2026-09-09T05:00-04:00"
+    }
+   ],
+   "permalien": "l-observatoire-de-la-geosphere-de-charlevoix-change-de-presi-1ea036",
+   "entree": "2026-09-09T05:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "l-observatoire-de-la-geosphere-de-charlevoix-change-de-presi-1ea036"
+  },
+  {
+   "titre": "De jeunes bénévoles lancent un troc de récoltes de jardin dans Portneuf",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Neuville (Portneuf)",
+   "medias": "Courrier de Portneuf",
+   "url": "https://www.courrierdeportneuf.com/2026/09/08/recoltes-et-partages-portneuf-veut-creer-une-communaute-dechange/",
+   "resume": "Plutôt que de dépenser à l'épicerie, les participants pourront troquer leurs surplus de légumes entre voisins.",
+   "horodate": "2026-09-08T08:00-04:00",
+   "sources": [
+    {
+     "media": "Courrier de Portneuf",
+     "url": "https://www.courrierdeportneuf.com/2026/09/08/recoltes-et-partages-portneuf-veut-creer-une-communaute-dechange/",
+     "date": "2026-09-08T08:00-04:00"
+    }
+   ],
+   "permalien": "de-jeunes-benevoles-lancent-un-troc-de-recoltes-de-jardin-da-e50c75",
+   "entree": "2026-09-08T08:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "de-jeunes-benevoles-lancent-un-troc-de-recoltes-de-jardin-da-e50c75"
+  },
+  {
+   "titre": "Le port d'écouteurs à vélo coûte de plus en plus cher à Montréal",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Montréal",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-retour/episodes/1264354/mardi-8-septembre-2026",
+   "resume": "Seize cents contraventions ont été remises l'an dernier, pour un geste qui reste permis au volant.",
+   "horodate": "2026-09-08T16:07-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/votre-retour/episodes/1264354/mardi-8-septembre-2026",
+     "date": "2026-09-08T16:07-04:00"
+    }
+   ],
+   "permalien": "le-port-d-ecouteurs-a-velo-coute-de-plus-en-plus-cher-a-mont-c49cae",
+   "entree": "2026-09-08T16:07-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "le-port-d-ecouteurs-a-velo-coute-de-plus-en-plus-cher-a-mont-c49cae"
+  },
+  {
+   "titre": "La grève des avocats de l'aide juridique se poursuit dans quatre régions du Québec",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Coops de l'information, Le Haute Côte-Nord, Le Nord-Côtier, Le Manic",
+   "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/08/la-greve-se-poursuit-a-laide-juridique-P6QMPNUL3NG3XDQWBKQXH26VJQ/",
+   "resume": "Le syndicat réclame une hausse de dix-sept pour cent pour atteindre la parité avec les procureurs de l'État.",
+   "horodate": "2026-09-08T11:35-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/09/08/la-greve-se-poursuit-a-laide-juridique-P6QMPNUL3NG3XDQWBKQXH26VJQ/",
+     "auteur": "Charles-Antoine Gagnon",
+     "date": "2026-09-08T11:35-04:00"
+    },
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/08/greve-des-avocats-de-laide-juridique-negociations-en-cours/",
+     "auteur": "Roseline Pelletier",
+     "date": "2026-09-08T11:31-04:00"
+    }
+   ],
+   "permalien": "la-greve-des-avocats-de-l-aide-juridique-se-poursuit-dans-qu-d2da1f",
+   "entree": "2026-09-08T11:35-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "la-greve-des-avocats-de-l-aide-juridique-se-poursuit-dans-qu-d2da1f"
+  },
+  {
+   "titre": "L'ACFO-Ottawa amorce un nouveau mandat avec un déficit de plus de cinquante mille dollars",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Ottawa (Ontario)",
+   "medias": "Coops de l'information, Radio-Canada",
+   "url": "https://www.ledroit.com/actualites/actualites-locales/ottawa/2026/09/09/bobby-bourdeau-reconduit-pour-deux-ans-a-la-tete-de-lacfo-ottawa-JTSKKVELIRE5DLPXJXSATS2L4E/",
+   "resume": "La fin d'un programme fédéral a fait fondre ses revenus de près de moitié en un an.",
+   "horodate": "2026-09-09T06:07-04:00",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/actualites-locales/ottawa/2026/09/09/bobby-bourdeau-reconduit-pour-deux-ans-a-la-tete-de-lacfo-ottawa-JTSKKVELIRE5DLPXJXSATS2L4E/",
+     "auteur": "Sébastien Pierroz",
+     "date": "2026-09-09T04:00-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281834/president-acfo-ottawa-bobby-bourdeau",
+     "date": "2026-09-09T06:07-04:00",
+     "auteur": "Tom Chazelle Schulze"
+    }
+   ],
+   "permalien": "l-acfo-ottawa-amorce-un-nouveau-mandat-avec-un-deficit-de-pl-cdce73",
+   "entree": "2026-09-09T06:07-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "l-acfo-ottawa-amorce-un-nouveau-mandat-avec-un-deficit-de-pl-cdce73"
+  },
+  {
+   "titre": "Une entente d'indemnisation est enfin dévoilée aux sinistrés de Sunny Bank, à Gaspé",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Gaspé (Gaspésie–Îles-de-la-Madeleine)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281442/inondation-sunny-bank-entente-inquietude",
+   "resume": "Réglée après seize ans de démarches, l'entente ne calme pas la peur d'une nouvelle inondation.",
+   "horodate": "2026-09-08T07:32-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281442/inondation-sunny-bank-entente-inquietude",
+     "auteur": "Toby Germain",
+     "date": "2026-09-08T07:32-04:00"
+    }
+   ],
+   "permalien": "une-entente-d-indemnisation-est-enfin-devoilee-aux-sinistres-871986",
+   "entree": "2026-09-08T07:32-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "une-entente-d-indemnisation-est-enfin-devoilee-aux-sinistres-871986"
+  },
+  {
+   "titre": "Québec veut éradiquer une plante envahissante qui gagne du terrain en Gaspésie",
+   "cahier": "quebec",
+   "rubrique": "environnement",
+   "territoire": "Gaspésie",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/en-bref/1-10754934/quebec-veut-eradiquer-cette-plante-envahissante",
+   "resume": "Le roseau commun colonise les berges gaspésiennes, et le ministère des Transports lui déclare la guerre.",
+   "horodate": "2026-09-08T13:37-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/en-bref/1-10754934/quebec-veut-eradiquer-cette-plante-envahissante",
+     "date": "2026-09-08T13:37-04:00"
+    }
+   ],
+   "permalien": "quebec-veut-eradiquer-une-plante-envahissante-qui-gagne-du-t-8a04be",
+   "entree": "2026-09-08T13:37-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "quebec-veut-eradiquer-une-plante-envahissante-qui-gagne-du-t-8a04be"
+  },
+  {
+   "titre": "Une exposition sur la communauté LGBTQ+ s'installe au Cégep de la Gaspésie et des Îles",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Gaspé (Gaspésie–Îles-de-la-Madeleine)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-escale/episodes/1223497/mardi-8-septembre-2026",
+   "resume": "L'artiste Sacha Bayberry explore comment ces réalités se vivent différemment loin des grands centres urbains.",
+   "horodate": "2026-09-08T09:28-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-escale/episodes/1223497/mardi-8-septembre-2026",
+     "date": "2026-09-08T09:28-04:00"
+    }
+   ],
+   "permalien": "une-exposition-sur-la-communaute-lgbtq-s-installe-au-cegep-d-b44225",
+   "entree": "2026-09-08T09:28-04:00",
+   "image_auto": "aucune",
+   "_volet": "presse-regionale",
+   "_fichier": "revue-presse-regionale-2026-09-09.json",
+   "_slug": "une-exposition-sur-la-communaute-lgbtq-s-installe-au-cegep-d-b44225"
   },
   {
    "titre": "Après l'éruption du volcan Anak Krakatau, l'Indonésie recherche un bateau avec cinq journalistes à bord",
