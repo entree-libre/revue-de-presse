@@ -3389,7 +3389,7 @@
    "cahier": "elections",
    "rubrique": "education",
    "territoire": "Québec",
-   "medias": "Les Affaires, Parti libéral du Québec",
+   "medias": "Les Affaires, Parti libéral du Québec, Radio-Canada",
    "url": "https://www.lesaffaires.com/secteurs/politique/jour-13-le-plq-promet-daugmenter-les-ressources-specialisees-dans-les-ecoles/",
    "resume": "Les listes d'attente en orthophonie et en psychoéducation sont devenues un enjeu de campagne.",
    "photo": "",
@@ -3407,6 +3407,12 @@
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-13-le-plq-promet-daugmenter-les-ressources-specialisees-dans-les-ecoles/",
      "date": "2026-09-08T10:24-04:00",
      "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281823/jour-13-campagne-electorale-charles-milliard-sherbrooke",
+     "auteur": "Katy Larouche et René-Charles Quirion",
+     "date": "2026-09-08T20:14-04:00"
     }
    ],
    "image_auto": "aucune",
@@ -3850,13 +3856,19 @@
    "cahier": "elections",
    "rubrique": "environnement",
    "territoire": "Québec",
-   "medias": "Coalition avenir Québec",
-   "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/08/lequipe-frechette-initiera-un-pacte-forestier-avec-les-acteurs-de-la-foret/",
-   "resume": "Un chantier national sur la forêt doit réconcilier économie régionale et pression tarifaire américaine.",
+   "medias": "Radio-Canada, Coalition avenir Québec",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281820/promesse-election-industrie-forestiere-caq",
+   "resume": "Une coopérative forestière salue le plan, mais réclame déjà des redevances calquées sur le marché.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T00:00-04:00",
+   "horodate": "2026-09-08T20:02-04:00",
    "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281820/promesse-election-industrie-forestiere-caq",
+     "auteur": "Julie Grenon et Pascale Langlois",
+     "date": "2026-09-08T20:02-04:00"
+    },
     {
      "media": "Coalition avenir Québec",
      "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/08/lequipe-frechette-initiera-un-pacte-forestier-avec-les-acteurs-de-la-foret/",
@@ -3972,6 +3984,122 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-08.json",
    "_slug": "les-prefets-de-l-abitibi-temiscamingue-reclament-le-qua-13146e"
+  },
+  {
+   "titre": "Ex-lobbyiste de l'eau, l'influenceur Olivier Primeau fait campagne pour la CAQ malgré des soupçons de conflit d'intérêts",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/09/09/en-campagne-pour-la-caq--olivier-primeau-se-defend-detre-en-conflit-dinterets",
+   "resume": "Quel rôle Christine Fréchette réserve-t-elle, après le scrutin, à cet ex-lobbyiste payé pour sillonner le Québec?",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:35-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldequebec.com/2026/09/09/en-campagne-pour-la-caq--olivier-primeau-se-defend-detre-en-conflit-dinterets",
+     "auteur": "Geneviève Lajoie",
+     "date": "2026-09-08T18:35-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T21:23-04:00",
+   "permalien": "ex-lobbyiste-de-l-eau-l-influenceur-olivier-primeau-fait-cam-22e3a0",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "ex-lobbyiste-de-l-eau-l-influenceur-olivier-primeau-fait-cam-22e3a0"
+  },
+  {
+   "titre": "Au Saguenay–Lac-Saint-Jean, le milieu culturel réclame des engagements fermes des candidats",
+   "cahier": "elections",
+   "rubrique": "culture",
+   "territoire": "Saguenay–Lac-Saint-Jean",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281791/elections-culture-saguenay-lac-saint-jean-candidats",
+   "resume": "Après une décennie sans indexation, artistes et diffuseurs de la région rédigent leur propre plateforme électorale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T19:05-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281791/elections-culture-saguenay-lac-saint-jean-candidats",
+     "auteur": "Philippe Marier-Verret et Johanie Bilodeau",
+     "date": "2026-09-08T19:05-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T21:23-04:00",
+   "permalien": "au-saguenaylac-saint-jean-le-milieu-culturel-reclame-des-eng-7671cd",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "au-saguenaylac-saint-jean-le-milieu-culturel-reclame-des-eng-7671cd"
+  },
+  {
+   "titre": "Le PLQ confirme la candidature de Leanne Loney dans Rouyn-Noranda–Témiscamingue",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Rouyn-Noranda–Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281804/elections-quebec2026-plq-rouyn-noranda-temiscamingue",
+   "resume": "Après vingt-deux ans à enseigner et entraîner sur place, elle mise sur sa notoriété locale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T19:25-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281804/elections-quebec2026-plq-rouyn-noranda-temiscamingue",
+     "auteur": "Boualem Hadjouti",
+     "date": "2026-09-08T19:25-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T21:23-04:00",
+   "permalien": "le-plq-confirme-la-candidature-de-leanne-loney-dans-rouyn-no-e7466d",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "le-plq-confirme-la-candidature-de-leanne-loney-dans-rouyn-no-e7466d"
+  },
+  {
+   "titre": "Québec solidaire propose une provision de 2 milliards $ contre les tarifs américains",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Charlevoisien, Les Affaires, Le Canada Français",
+   "url": "https://www.lecharlevoisien.com/2026/09/08/jour-13-les-repercussions-de-lescalade-commerciale-sur-le-quebec-inquietent/",
+   "resume": "Faute de réponse de Fréchette sur l'ampleur des dégâts, Ruba Ghazal propose déjà un coussin financier chiffré.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T20:34-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/08/jour-13-les-repercussions-de-lescalade-commerciale-sur-le-quebec-inquietent/",
+     "auteur": "Frédéric Lacroix-Couture",
+     "date": "2026-09-08T18:30-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-13-les-repercussions-de-lescalade-commerciale-sur-le-quebec-inquietent/",
+     "auteur": "Frédéric Lacroix-Couture",
+     "date": "2026-09-08T18:00-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/jour-13-les-repercussions-de-lescalade-commerciale-sur-le-quebec-inquietent/",
+     "auteur": "Frédéric Lacroix-Couture",
+     "date": "2026-09-08T20:34-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T21:23-04:00",
+   "permalien": "quebec-solidaire-propose-une-provision-de-2-milliards-contre-2b9330",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-08.json",
+   "_slug": "quebec-solidaire-propose-une-provision-de-2-milliards-contre-2b9330"
   },
   {
    "titre": "Six entreprises de voyage visées par une demande d'action collective sur des prix affichés",
@@ -8656,18 +8784,24 @@
    "cahier": "elections",
    "rubrique": "sante",
    "territoire": "Québec (Laval)",
-   "medias": "Les Affaires",
+   "medias": "Les Affaires, Courrier Laval",
    "url": "https://www.lesaffaires.com/secteurs/politique/jour-12-milliard-veut-prioriser-lagrandissement-et-la-modernisation-du-seul-hopital-de-laval/",
-   "resume": "Reste à savoir quand ces travaux commenceraient, et ce qu'ils coûteraient aux contribuables.",
+   "resume": "Mise à jour, 18 h — Le recul du parti dans les sondages fragilise déjà trois des six comtés lavallois visés.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-07T14:22-04:00",
+   "horodate": "2026-09-08T18:53-04:00",
    "sources": [
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-12-milliard-veut-prioriser-lagrandissement-et-la-modernisation-du-seul-hopital-de-laval/",
      "auteur": "La Presse Canadienne",
      "date": "2026-09-07T14:22-04:00"
+    },
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/agrandissement-cite-sante-premier-mandat-promet-charles-milliard/",
+     "date": "2026-09-08T18:53-04:00",
+     "auteur": "Stéphane St-Amour"
     }
    ],
    "image_auto": "aucune",
