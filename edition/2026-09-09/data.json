@@ -2063,12 +2063,18 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281827/pcq-cadre-financier-2026-engagements-election",
      "auteur": "Marie-Isabelle Rochon",
      "date": "2026-09-09T04:00-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282001/cadre-financier-pcq-3e-lien-prive",
+     "date": "2026-09-09T13:01-04:00",
+     "auteur": "Félix Morrissette-Beaulieu"
     }
    ],
-   "resume": "Son troisième lien Lévis–Île d'Orléans n'apparaît nulle part dans ces calculs officiels.",
+   "resume": "Mise à jour, 13 h 01 — Un partenariat public-privé, jamais chiffré, pourrait financer le troisième lien promis par le PCQ.",
    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Qu%C3%A9bec_-_%C3%8Ele_d%E2%80%99Orl%C3%A9ans_-_panoramio.jpg/1280px-Qu%C3%A9bec_-_%C3%8Ele_d%E2%80%99Orl%C3%A9ans_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "legende": "Île d'Orléans",
-   "horodate": "2026-09-09T04:00-04:00",
+   "horodate": "2026-09-09T13:01-04:00",
    "photo_auteur": "giggel",
    "photo_licence": "CC BY 3.0",
    "image_auto": "wikipedia-fr:Île d'Orléans",
@@ -2432,7 +2438,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Montreal Gazette, CTV News Montreal",
+   "medias": "Montreal Gazette, CTV News Montreal, CBC",
    "url": "https://montrealgazette.com/quebec-elections/quebec-french-only-election-mailouts-injunction-request-anglophones/",
    "resume": "Un ex-président de TALQ demande aux tribunaux de forcer l'envoi des documents électoraux aussi en anglais.",
    "photo": "",
@@ -2452,6 +2458,12 @@
      "auteur": "Robin Della Corte",
      "date": "2026-09-09T09:00-04:00",
      "date_origine": "journal"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/lawsuit-quebec-voter-information-documents-french-only-9.7337178?cmp=rss",
+     "date": "2026-09-09T12:47-04:00",
+     "auteur": "Boshko Maric"
     }
    ],
    "permalien": "une-demande-d-injonction-vise-a-retablir-l-anglais-dans-les-410f04",
@@ -2567,12 +2579,12 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec (Pontiac)",
-   "medias": "La Presse, Radio-Canada, Le Devoir",
+   "medias": "La Presse, Radio-Canada, Le Devoir, Coops de l'information, Québecor",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/antiavortement-therapie-de-conversion/un-premier-candidat-du-pcq-prend-la-porte.php",
-   "resume": "Duhaime, qui se dit rassembleur, doit défendre pour la première fois le retrait d'un des siens.",
+   "resume": "Mise à jour, 12 h 04 — Duhaime qualifie ces révélations de simple distraction et veut recentrer sa campagne sur le fond.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-09T09:41-04:00",
+   "horodate": "2026-09-09T12:04-04:00",
    "sources": [
     {
      "media": "La Presse",
@@ -2591,6 +2603,18 @@
      "url": "https://www.ledevoir.com/politique/quebec/1007549/eric-lanthier-devient-premier-candidat-pcq-retirer-course",
      "auteur": "Léo Mercier-Ross",
      "date": "2026-09-09T09:41-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/actualites/2026/09/09/propos-controverses-le-candidat-conservateur-dans-pontiac-se-retire-4PDF4PYKP5BFPCWPJO56CP7SZY/",
+     "date": "2026-09-09T12:10-04:00",
+     "auteur": "Daniel LeBlanc, Juliette Nadeau-Besse"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/09/euthanasie-51e-etat-antiavortement-voici-les-candidats-controverses-deric-duhaime",
+     "date": "2026-09-09T12:04-04:00",
+     "auteur": "Annabelle Blais et Patrick Bellerose"
     }
    ],
    "permalien": "eric-lanthier-quitte-la-course-dans-pontiac-vise-par-d-ancie-b2598b",
@@ -2771,7 +2795,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec (Chapleau)",
-   "medias": "La Presse",
+   "medias": "La Presse, Québecor",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/trudeau-en-hitler-theses-anti-vaccins/un-autre-candidat-conservateur-rattrape-par-ses-publications.php",
    "resume": "Ce candidat s'ajoute à une liste déjà longue de dérapages chez les conservateurs cette campagne.",
    "photo": "",
@@ -2783,6 +2807,12 @@
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/trudeau-en-hitler-theses-anti-vaccins/un-autre-candidat-conservateur-rattrape-par-ses-publications.php",
      "auteur": "Hugo Joncas, Charles Lecavalier",
      "date": "2026-09-09T10:16-04:00"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/09/euthanasie-51e-etat-antiavortement-voici-les-candidats-controverses-deric-duhaime",
+     "date": "2026-09-09T12:04-04:00",
+     "auteur": "Annabelle Blais et Patrick Bellerose"
     }
    ],
    "image_auto": "aucune",
@@ -2994,18 +3024,24 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Le Devoir",
+   "medias": "Le Devoir, Journal Métro",
    "url": "https://www.ledevoir.com/politique/quebec/1007603/pspp-refuse-parler-alliances-coalitions",
-   "resume": "En tête des sondages mais sans majorité assurée, trois chefs spéculent déjà sur l'après-scrutin.",
+   "resume": "Mise à jour, 12 h 54 — Milliard croit qu'un gouvernement minoritaire du PQ pourrait tout de même tenir un référendum.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-09T11:47-04:00",
+   "horodate": "2026-09-09T12:54-04:00",
    "sources": [
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1007603/pspp-refuse-parler-alliances-coalitions",
      "auteur": "Isabelle Porter",
      "date": "2026-09-09T11:47-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226862/un-referendum-avec-un-parti-quebecois-minoritaire/",
+     "date": "2026-09-09T12:54-04:00",
+     "auteur": "Olivier Robichaud"
     }
    ],
    "image_auto": "aucune",
@@ -3040,6 +3076,145 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "frechette-se-dit-la-mieux-placee-pour-piloter-le-quebec-dans-1197a6"
+  },
+  {
+   "titre": "Le candidat solidaire de René-Lévesque relance l'idée d'une traversée du Saguenay",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Côte-Nord (René-Lévesque)",
+   "medias": "Le Haute Côte-Nord, Le Manic",
+   "url": "https://www.journalhcn.com/2026/09/09/elections-2026-dans-rene-levesque-quebec-solidaire-veut-desenclaver-la-cote-nord/",
+   "resume": "Un candidat solidaire fait de la traversée du Saguenay la clé de voûte de son programme régional.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T13:00-04:00",
+   "sources": [
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/09/elections-2026-dans-rene-levesque-quebec-solidaire-veut-desenclaver-la-cote-nord/",
+     "auteur": "Karianne Nepton-Philippe",
+     "date": "2026-09-09T13:00-04:00"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/09/elections-2026-dans-rene-levesque-quebec-solidaire-veut-desenclaver-la-cote-nord/",
+     "auteur": "Karianne Nepton-Philippe",
+     "date": "2026-09-09T13:00-04:00"
+    }
+   ],
+   "permalien": "le-candidat-solidaire-de-rene-levesque-relance-l-idee-d-une-eccb14",
+   "entree": "2026-09-09T13:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "le-candidat-solidaire-de-rene-levesque-relance-l-idee-d-une-eccb14"
+  },
+  {
+   "titre": "Le maire de Québec dénonce les liens du PCQ avec Respect Citoyens et Radio X",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Coops de l'information, Québecor",
+   "url": "https://www.lesoleil.com/actualites/actualites-locales/la-capitale/2026/09/09/duhaime-respect-citoyens-et-radio-x-dansent-main-dans-la-main-GBAYQWGPOFCNJEPGXFZCZWFNSE/",
+   "resume": "Le maire de Québec s'interroge sur les alliés que le PCQ choisit de courtiser.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T12:58-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/actualites/actualites-locales/la-capitale/2026/09/09/duhaime-respect-citoyens-et-radio-x-dansent-main-dans-la-main-GBAYQWGPOFCNJEPGXFZCZWFNSE/",
+     "auteur": "Émilie Pelletier",
+     "date": "2026-09-09T12:58-04:00"
+    },
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/09/selon-bruno-marchand-eric-duhaime-danse-avec-respect-citoyens",
+     "date": "2026-09-09T12:26-04:00",
+     "auteur": "Taïeb Moalla"
+    }
+   ],
+   "permalien": "le-maire-de-quebec-denonce-les-liens-du-pcq-avec-respect-cit-c0c334",
+   "entree": "2026-09-09T12:58-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "le-maire-de-quebec-denonce-les-liens-du-pcq-avec-respect-cit-c0c334"
+  },
+  {
+   "titre": "Les artistes et diffuseurs des régions veulent influencer les engagements des partis",
+   "cahier": "elections",
+   "rubrique": "culture",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10755901/elections-milieu-culturel-regional-veut-etre-entendu-par-candidats",
+   "resume": "Ce secteur souhaite que ses priorités trouvent une place dans les engagements électoraux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T12:45-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10755901/elections-milieu-culturel-regional-veut-etre-entendu-par-candidats",
+     "date": "2026-09-09T12:45-04:00"
+    }
+   ],
+   "permalien": "les-artistes-et-diffuseurs-des-regions-veulent-influencer-le-4f89a8",
+   "entree": "2026-09-09T12:45-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "les-artistes-et-diffuseurs-des-regions-veulent-influencer-le-4f89a8"
+  },
+  {
+   "titre": "L'entrepreneur Olivier Primeau défend sa tournée des PME aux côtés de la CAQ",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Cogeco Média",
+   "url": "https://www.youtube.com/watch?v=9LcAZ0cG3DE",
+   "resume": "Ses propres démarches de permis auprès du gouvernement nourrissent les soupçons de retour d'ascenseur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T12:49-04:00",
+   "sources": [
+    {
+     "media": "Cogeco Média",
+     "url": "https://www.youtube.com/watch?v=9LcAZ0cG3DE",
+     "date": "2026-09-09T12:49-04:00"
+    }
+   ],
+   "permalien": "l-entrepreneur-olivier-primeau-defend-sa-tournee-des-pme-aux-04505f",
+   "entree": "2026-09-09T12:49-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "l-entrepreneur-olivier-primeau-defend-sa-tournee-des-pme-aux-04505f"
+  },
+  {
+   "titre": "La Ligue des droits et libertés présente son outil de vérification pour la campagne électorale",
+   "cahier": "elections",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/elections-quebecoises-2026-la-ligue-des-droits-et-libertes-lance-sa-verif-des-droits-humains/",
+   "resume": "La Ligue des droits et libertés met en ligne sa Vérif' des droits humains pour passer au crible les propos tenus pendant la campagne. L'organisme, actif depuis 1963, avait pris part à l'adoption de la Charte québécoise des droits et libertés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T13:09-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/elections-quebecoises-2026-la-ligue-des-droits-et-libertes-lance-sa-verif-des-droits-humains/",
+     "date": "2026-09-09T13:09-04:00"
+    }
+   ],
+   "permalien": "la-ligue-des-droits-et-libertes-presente-son-outil-de-verifi-f785ad",
+   "entree": "2026-09-09T13:09-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "la-ligue-des-droits-et-libertes-presente-son-outil-de-verifi-f785ad"
   },
   {
    "titre": "Québec exige 15 % de matériaux d'ici dans les chantiers des municipalités",
