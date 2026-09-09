@@ -1,0 +1,2792 @@
+{
+ "date": "2026-09-09",
+ "volets": [
+  "report"
+ ],
+ "articles": [
+  {
+   "titre": "Après l'éruption du volcan Anak Krakatau, l'Indonésie recherche un bateau avec cinq journalistes à bord",
+   "cahier": "international",
+   "rubrique": "transport",
+   "territoire": "Indonésie",
+   "medias": "TV5 Monde Info, France 24, Revue Conflits, Québecor",
+   "url": "https://information.tv5monde.com/international/indonesie-reprise-progressive-du-trafic-aerien-apres-une-eruption-volcanique-2836593",
+   "sources": [
+    {
+     "media": "TV5 Monde Info",
+     "url": "https://information.tv5monde.com/international/indonesie-reprise-progressive-du-trafic-aerien-apres-une-eruption-volcanique-2836593",
+     "auteur": "TV5MONDE Info",
+     "date": "2026-09-08T00:47-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-indon%C3%A9sie-reprise-progressive-du-trafic-a%C3%A9rien-apr%C3%A8s-une-%C3%A9ruption-volcanique",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T01:27-04:00"
+    },
+    {
+     "media": "Revue Conflits",
+     "url": "https://www.revueconflits.com/eruption-volcanique-en-indonesie-des-dizaines-de-milliers-de-voyageurs-bloques/",
+     "auteur": "AFP",
+     "date": "2026-09-07T06:17-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/07/images--eruption-volcanique-en-indonesie-des-dizaines-de-milliers-de-voyageurs-bloques",
+     "date": "2026-09-07T08:15-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/08/indonesie-un-bateau-porte-disparu-avec-des-journalistes-couvrant-une-eruption-volcanique",
+     "date": "2026-09-08T14:53-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Mise à jour, 14 h 53 — Cinq journalistes comptent parmi les huit personnes portées disparues avec leur embarcation.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:53-04:00",
+   "permalien": "le-trafic-aerien-reprend-en-indonesie-apres-l-eruption-622a7f",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T03:36-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-trafic-aerien-reprend-en-indonesie-apres-l-eruption-622a7f"
+  },
+  {
+   "titre": "Douze pays, dont le Canada, veulent sanctionner le commerce des colonies israéliennes",
+   "cahier": "international",
+   "rubrique": "diplomatie",
+   "territoire": "Cisjordanie",
+   "medias": "Le Devoir, Libération, Le Monde, France 24, RFI, BFM, franceinfo, Human Rights Watch, TV5MONDE",
+   "url": "https://www.lemonde.fr/international/article/2026/09/08/onze-pays-europeens-et-le-canada-imposent-a-israel-des-sanctions-contre-les-produits-issus-des-colonies-en-cisjordanie_6768553_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/onze-pays-europeens-et-le-canada-imposent-a-israel-des-sanctions-contre-les-produits-issus-des-colonies-en-cisjordanie_6768553_3210.html",
+     "date": "2026-09-08T17:14-04:00",
+     "auteur": "Louis Imbert et Philippe Jacqué et Stéphanie Le Bars"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1007237/canada-11-autres-pays-veulent-sanctionner-commerce-colonies-israeliennes",
+     "date": "2026-09-08T10:25-04:00",
+     "auteur": "Marie Heuclin et Delphine Touitou"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/cisjordanie-la-france-et-onze-autres-pays-veulent-sanctionner-le-commerce-avec-les-colonies-illegales-israeliennes-20260908_IWQJ5ZRPXRDTVFZC5F6E5SXYME/",
+     "date": "2026-09-08T08:43-04:00",
+     "auteur": "Libération ., AFP ."
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/la-france-le-canada-et-le-royaume-uni-vont-mettre-fin-au-commerce-avec-les-colonies-israeliennes-en-cisjordanie_6768387_3210.html",
+     "date": "2026-09-08T09:03-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-guerre-%C3%A0-gaza-12-%C3%A9tats-mettent-fin-au-commerce-avec-les-colons-isra%C3%ABliens",
+     "date": "2026-09-08T12:06-04:00",
+     "auteur": "FRANCE24"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/europe/20260908-cisjordanie-occup%C3%A9e-12-pays-dont-la-france-et-le-royaume-uni-veulent-sanctionner-le-commerce-avec-les-colonies-isra%C3%A9liennes",
+     "date": "2026-09-08T09:15-04:00",
+     "auteur": "RFI avec AFP"
+    },
+    {
+     "media": "BFM",
+     "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-marco-rubio-denonce-les-tensions-en-cisjordanie-mais-exclut-des-sanctions-contre-la-colonisation-israelienne_VN-202609080831.html",
+     "date": "2026-09-08T14:09-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/cisjordanie-le-royaume-uni-accuse-israel-de-nettoyage-ethnique_8183600.html",
+     "date": "2026-09-08T12:47-04:00"
+    },
+    {
+     "media": "Human Rights Watch",
+     "url": "https://www.hrw.org/fr/news/2026/09/08/le-royaume-uni-la-france-et-le-canada-interdisent-le-commerce-avec-les-colonies",
+     "date": "2026-09-08T16:39-04:00",
+     "auteur": "Adam Coogle"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/cisjordanie-royaume-uni-france-canada-ciblent-le-commerce-avec-les-colonies-israel-riposte-2836693",
+     "auteur": "TV5MONDE Info",
+     "date": "2026-09-08T15:55-04:00"
+    }
+   ],
+   "resume": "Mise à jour, 20 h 10 — Israël a répliqué en annonçant la fermeture du consulat britannique de Jérusalem.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T20:10-04:00",
+   "permalien": "douze-pays-dont-le-canada-veulent-sanctionner-le-comme-4dc4ba",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T11:40-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "douze-pays-dont-le-canada-veulent-sanctionner-le-comme-4dc4ba"
+  },
+  {
+   "titre": "Abou Dhabi savait, avant le 7 octobre 2023, que le Hamas préparait une offensive, selon la presse israélienne",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Émirats arabes unis",
+   "medias": "Le Devoir, Euronews",
+   "url": "https://www.ledevoir.com/monde/moyen-orient/1007282/emirats-arabes-unis-auraient-averti-netanyahou-attaque-7-octobre-2023",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1007282/emirats-arabes-unis-auraient-averti-netanyahou-attaque-7-octobre-2023",
+     "auteur": "Associated Press",
+     "date": "2026-09-08T12:04-04:00"
+    },
+    {
+     "media": "Euronews",
+     "url": "https://fr.euronews.com/2026/09/08/les-emirats-auraient-averti-benyamin-netanyahou-de-lattaque-du-7-octobre-selon-le-journal-",
+     "date": "2026-09-08T13:58-04:00",
+     "auteur": "Peter Barabas et Nathan Rennolds"
+    }
+   ],
+   "resume": "Mise à jour, 13 h 58 — Le bureau de Netanyahou nuance sa position : les services de renseignement des deux pays ont pu échanger.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:58-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:08-04:00",
+   "permalien": "abou-dhabi-savait-avant-le-7-octobre-2023-que-le-hamas-prepa-143bb2",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "abou-dhabi-savait-avant-le-7-octobre-2023-que-le-hamas-prepa-143bb2"
+  },
+  {
+   "titre": "Le Canada a déjà franchi un point de non-retour climatique, selon un rapport fédéral",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Canada",
+   "medias": "Acadie Nouvelle",
+   "url": "https://www.acadienouvelle.com/etc/dans-votre-nature/2026/09/08/les-changements-climatiques-au-canada-sont-desormais-irreversibles-dit-un-rapport/",
+   "sources": [
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/etc/dans-votre-nature/2026/09/08/les-changements-climatiques-au-canada-sont-desormais-irreversibles-dit-un-rapport/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-08T12:26-04:00"
+    }
+   ],
+   "resume": "Un rapport fédéral prévoit une hausse d'au moins 3,5 °C d'ici la fin du siècle.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:26-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "le-canada-a-deja-franchi-un-point-de-non-retour-climatique-s-c9e0d9",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-canada-a-deja-franchi-un-point-de-non-retour-climatique-s-c9e0d9"
+  },
+  {
+   "titre": "Plus de 10 000 Néo-Écossais réclament le retour de l'interdiction sur l'uranium",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Nouvelle-Écosse",
+   "medias": "Global News, Acadie Nouvelle",
+   "url": "https://globalnews.ca/news/12051004/nova-scotia-uranium-mining-petition/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12051004/nova-scotia-uranium-mining-petition/",
+     "date": "2026-09-08T12:34-04:00"
+    },
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/atlantique/2026/09/08/de-plus-en-plus-de-neo-ecossais-veulent-interdire-a-nouveau-lexploitation-duranium/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-08T13:42-04:00"
+    }
+   ],
+   "resume": "Une pétition en ligne relance le débat sur l'exploitation minière de l'uranium dans la province.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:42-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "plus-de-10-000-neo-ecossais-reclament-le-retour-de-l-interdi-fc2570",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "plus-de-10-000-neo-ecossais-reclament-le-retour-de-l-interdi-fc2570"
+  },
+  {
+   "titre": "Les droits de douane de rétorsion canadiens ne devraient pas plomber le panier d'épicerie",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/affaires/2026/09/08/les-droits-de-douane-de-retorsion-ne-devraient-pas-affecter-le-panier-d-epicerie-ESDD52X7FVHT5IOBND53L74USI/",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/affaires/2026/09/08/les-droits-de-douane-de-retorsion-ne-devraient-pas-affecter-le-panier-d-epicerie-ESDD52X7FVHT5IOBND53L74USI/",
+     "auteur": "Ritika Dubey, La Presse Canadienne",
+     "date": "2026-09-08T14:16-04:00"
+    }
+   ],
+   "resume": "Les prix des aliments resteraient stables, contrairement à certains produits de santé et de beauté.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:16-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "les-droits-de-douane-de-retorsion-canadiens-ne-devraient-pas-09e5b0",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "les-droits-de-douane-de-retorsion-canadiens-ne-devraient-pas-09e5b0"
+  },
+  {
+   "titre": "New York admet avoir caché des informations sur la qualité de l'air après le 11-Septembre",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "New York (États-Unis)",
+   "medias": "La Presse, France 24, Le Devoir, franceinfo, Le Monde",
+   "url": "https://www.lapresse.ca/international/etats-unis/2026-09-08/apres-les-attaques-du-11-septembre/la-ville-de-new-york-a-dissimule-des-informations-sur-la-qualite-de-l-air.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-08/apres-les-attaques-du-11-septembre/la-ville-de-new-york-a-dissimule-des-informations-sur-la-qualite-de-l-air.php",
+     "auteur": "Raphaël Hermano",
+     "date": "2026-09-08T12:48-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-11-septembre-la-ville-de-new-york-a-dissimul%C3%A9-des-informations-sur-la-toxicit%C3%A9-de-l-air",
+     "date": "2026-09-08T13:27-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/etats-unis/1007309/ville-new-york-dissimule-informations-qualite-air-apres-11-septembre",
+     "auteur": "Raphaël Hermano",
+     "date": "2026-09-08T13:39-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/usa/la-ville-de-new-york-a-dissimule-des-informations-sur-la-toxicite-de-l-air-apres-le-11-septembre-declare-le-maire-zohran-mamdani_8183660.html",
+     "date": "2026-09-08T14:13-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/zohran-mamdani-denonce-des-dissimulations-sur-la-toxicite-de-l-air-a-new-york-apres-le-11-septembre-des-gens-sont-tombes-malades-parce-que-les-dirigeants-auxquels-ils-faisaient-confiance-leur-ont-menti_6768479_3210.html",
+     "date": "2026-09-08T14:16-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Le maire Zohran Mamdani publie des dizaines de milliers de documents, obtenus après une bataille judiciaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:16-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "new-york-admet-avoir-cache-des-informations-sur-la-qualite-d-4be748",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "new-york-admet-avoir-cache-des-informations-sur-la-qualite-d-4be748"
+  },
+  {
+   "titre": "Poutine et Trump évoquent l'Ukraine dans un appel « d'une extrême franchise », selon le Kremlin",
+   "cahier": "international",
+   "rubrique": "diplomatie",
+   "territoire": "Ukraine, Russie, États-Unis",
+   "medias": "France 24, TV5Monde, BBC, PBS, Al Jazeera, Radio-Canada",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-poutine-et-trump-ont-parl%C3%A9-avec-une-extr%C3%AAme-franchise-de-l-ukraine-selon-le-kremlin",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-poutine-et-trump-ont-parl%C3%A9-avec-une-extr%C3%AAme-franchise-de-l-ukraine-selon-le-kremlin",
+     "date": "2026-09-08T13:27-04:00"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/poutine-et-trump-ont-parle-avec-une-extreme-franchise-de-lukraine-selon-le-kremlin-2836672",
+     "date": "2026-09-08T13:24-04:00"
+    },
+    {
+     "media": "BBC",
+     "url": "https://www.bbc.com/news/articles/cn8m1k7p3v7o",
+     "date": "2026-09-08T13:10-04:00",
+     "auteur": "Claire Keenan"
+    },
+    {
+     "media": "PBS",
+     "url": "https://www.pbs.org/newshour/world/putin-tells-trump-that-russia-doesnt-have-aggressive-intentions-toward-europe-kremlin-says",
+     "auteur": "The Associated Press",
+     "date": "2026-09-08T14:14-04:00"
+    },
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts",
+     "date": "2026-09-08T14:36-04:00",
+     "auteur": "Associated Press"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281667/poutine-trump-extreme-franchise-ukraine",
+     "date": "2026-09-08T15:13-04:00"
+    }
+   ],
+   "resume": "Mise à jour, 15 h 13 — Volodymyr Zelensky espère rencontrer Donald Trump d'ici deux semaines, pendant que Moscou dément toute visée sur l'Europe.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:13-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "poutine-et-trump-evoquent-l-ukraine-dans-un-appel-d-une-extr-49d11a",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "poutine-et-trump-evoquent-l-ukraine-dans-un-appel-d-une-extr-49d11a"
+  },
+  {
+   "titre": "Des enquêteurs de l'ONU évoquent de possibles crimes de guerre commis par Israël en Syrie",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Syrie",
+   "medias": "France 24, TV5Monde, Libération",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-les-op%C3%A9rations-d-isra%C3%ABl-en-syrie-pourraient-constituer-des-crimes-de-guerre-enqu%C3%AAteurs-de-l-onu",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-les-op%C3%A9rations-d-isra%C3%ABl-en-syrie-pourraient-constituer-des-crimes-de-guerre-enqu%C3%AAteurs-de-l-onu",
+     "date": "2026-09-08T13:39-04:00"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/les-operations-disrael-en-syrie-pourraient-constituer-des-crimes-de-guerre-enqueteurs-de-lonu-2836673",
+     "date": "2026-09-08T13:40-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/moyen-orient/les-operations-disrael-en-syrie-pourraient-constituer-des-crimes-de-guerre-selon-une-commission-denquete-de-lonu-20260908_WCG253MPUVB6TEF25AWCUEOKFA/",
+     "date": "2026-09-08T14:50-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Mise à jour, 14 h 50 — La commission doit présenter un rapport complet sur ces frappes au Conseil des droits de l'homme au printemps.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:50-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "des-enqueteurs-de-l-onu-evoquent-de-possibles-crimes-de-guer-c5bc8f",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "des-enqueteurs-de-l-onu-evoquent-de-possibles-crimes-de-guer-c5bc8f"
+  },
+  {
+   "titre": "Des milliers de commerçants étrangers fuient le Kenya après une annonce du président Ruto",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Kenya",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-kenya-les-petits-commer%C3%A7ants-%C3%A9trangers-menac%C3%A9s-d-expulsion",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260908-kenya-les-petits-commer%C3%A7ants-%C3%A9trangers-menac%C3%A9s-d-expulsion",
+     "date": "2026-09-08T13:29-04:00",
+     "auteur": "Constant Mawouton Kintin"
+    }
+   ],
+   "resume": "Ruto veut fermer les commerces tenus par des étrangers, provoquant un afflux à l'ambassade du Burundi.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:29-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "des-milliers-de-commercants-etrangers-fuient-le-kenya-apres-e5fee3",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "des-milliers-de-commercants-etrangers-fuient-le-kenya-apres-e5fee3"
+  },
+  {
+   "titre": "Une chaleur extrême a précédé l'effondrement meurtrier d'un pan de montagne au Népal, selon une étude",
+   "cahier": "international",
+   "rubrique": "environnement",
+   "territoire": "Népal",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/08/crue-au-nepal-des-temperatures-exceptionnellement-chaudes-avant-leffondrement-du-pan-de-montagne",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldemontreal.com/2026/09/08/crue-au-nepal-des-temperatures-exceptionnellement-chaudes-avant-leffondrement-du-pan-de-montagne",
+     "date": "2026-09-08T13:51-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Le réchauffement anormal du 26 août, mesuré par Berkeley Earth, n'est pas formellement relié à l'éboulement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:51-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "une-chaleur-extreme-a-precede-l-effondrement-meurtrier-d-un-e70d3f",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "une-chaleur-extreme-a-precede-l-effondrement-meurtrier-d-un-e70d3f"
+  },
+  {
+   "titre": "Le télescope Hubble capture une « superbulle » de 210 années-lumière dans le Grand Nuage de Magellan",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "NASA",
+   "url": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+   "sources": [
+    {
+     "media": "NASA",
+     "url": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+     "date": "2026-09-08T12:49-04:00"
+    }
+   ],
+   "resume": "La nébuleuse N44 doit sa cavité centrale aux vents stellaires et supernovas de ses étoiles massives.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:49-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "le-telescope-hubble-capture-une-superbulle-de-210-annees-lum-33963f",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-telescope-hubble-capture-une-superbulle-de-210-annees-lum-33963f"
+  },
+  {
+   "titre": "Anthropic visée par un recours collectif élargi pour publicité trompeuse sur ses forfaits payants",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+     "auteur": "Hayden Field",
+     "date": "2026-09-08T13:27-04:00"
+    }
+   ],
+   "resume": "Deux avocates ex-FTC accusent l'entreprise d'avoir exagéré les avantages de son abonnement Max.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T13:27-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "anthropic-visee-par-un-recours-collectif-elargi-pour-publici-c1967a",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "anthropic-visee-par-un-recours-collectif-elargi-pour-publici-c1967a"
+  },
+  {
+   "titre": "Andrew Garfield incarnera Sam Altman dans « Artificial », un film sur les origines d'OpenAI",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/cinema/2026-09-08/bande-annonce-de-artificial/andrew-garfield-incarne-sam-altman-dans-un-film-sur-openai.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-09-08/bande-annonce-de-artificial/andrew-garfield-incarne-sam-altman-dans-un-film-sur-openai.php",
+     "auteur": "Florence Dancause",
+     "date": "2026-09-08T12:20-04:00"
+    }
+   ],
+   "resume": "La bande-annonce du long métrage, produit par Neon, a été dévoilée mardi.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:20-04:00",
+   "entree": "2026-09-08T15:06-04:00",
+   "permalien": "andrew-garfield-incarnera-sam-altman-dans-artificial-un-film-e61c0a",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "andrew-garfield-incarnera-sam-altman-dans-artificial-un-film-e61c0a"
+  },
+  {
+   "titre": "Le numérique dépasse l'intimidation comme premier danger pour les enfants au pays",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "La Presse, Journal de Québec",
+   "url": "https://www.lapresse.ca/affaires/techno/2026-09-08/les-dangers-en-ligne-constituent-desormais-la-principale-menace-pour-les-enfants.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/techno/2026-09-08/les-dangers-en-ligne-constituent-desormais-la-principale-menace-pour-les-enfants.php",
+     "auteur": "Anja Karadeglija",
+     "date": "2026-09-08T14:59-04:00"
+    },
+    {
+     "media": "Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/08/les-prejudices-en-ligne-principale-menace-pour-les-enfants-au-canada",
+     "date": "2026-09-08T15:21-04:00",
+     "auteur": "Alexandra Lopis"
+    }
+   ],
+   "resume": "Le Centre canadien de protection de l'enfance traite plus de 100 000 signalements d'abus en ligne chaque mois.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:21-04:00",
+   "volet": "continu",
+   "permalien": "le-numerique-depasse-l-intimidation-comme-premier-danger-pou-45cb6c",
+   "entree": "2026-09-08T15:21-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-numerique-depasse-l-intimidation-comme-premier-danger-pou-45cb6c"
+  },
+  {
+   "titre": "Guy Turcotte comparaîtra le 22 septembre devant la Commission des libérations conditionnelles",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Radio-Canada, Journal de Québec, La Presse",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281692/guy-turcotte-demande-sortie-prison-escorte",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281692/guy-turcotte-demande-sortie-prison-escorte",
+     "date": "2026-09-08T14:58-04:00"
+    },
+    {
+     "media": "Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/08/lex-cardiologue-guy-turcotte-espere-obtenir-des-sorties-de-prison-avec-escorte",
+     "date": "2026-09-08T15:15-04:00",
+     "auteur": "Jean-François Racine"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-08/il-veut-sortir-du-penitencier/guy-turcotte-devant-les-commissaires-mais-la-decision-va-rester-secrete.php",
+     "auteur": "Louis-Samuel Perron",
+     "date": "2026-09-08T14:24-04:00"
+    }
+   ],
+   "resume": "La décision sur ces sorties avec escorte restera secrète, dix-sept ans après le meurtre de ses deux enfants.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:15-04:00",
+   "volet": "continu",
+   "permalien": "guy-turcotte-comparaitra-le-22-septembre-devant-la-commissio-bc841c",
+   "entree": "2026-09-08T15:15-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "guy-turcotte-comparaitra-le-22-septembre-devant-la-commissio-bc841c"
+  },
+  {
+   "titre": "Une panne du contrôle aérien paralyse les aéroports de Londres et perturbe des centaines de vols",
+   "cahier": "international",
+   "rubrique": "transport",
+   "territoire": "Royaume-Uni",
+   "medias": "CNEWS",
+   "url": "https://www.cnews.fr/monde/2026-09-08/royaume-uni-heathrow-gatwick-les-aeroports-britanniques-fortement-perturbes-par",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-08/royaume-uni-heathrow-gatwick-les-aeroports-britanniques-fortement-perturbes-par",
+     "auteur": "Khalil Rajehi",
+     "date": "2026-09-08T14:51-04:00"
+    }
+   ],
+   "resume": "Liverpool, Birmingham et Édimbourg subissent aussi les contrecoups d'une défaillance du système de navigation aérienne britannique.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Heathrow_Airport_Terminal_5.jpg/1280px-Heathrow_Airport_Terminal_5.jpg",
+   "legende": "L'aérogare 5 de l'aéroport de Heathrow, à Londres.",
+   "horodate": "2026-09-08T14:51-04:00",
+   "volet": "continu",
+   "photo_auteur": "CedarGlen86",
+   "photo_licence": "CC0",
+   "permalien": "une-panne-du-controle-aerien-paralyse-les-aeroports-de-londr-acf185",
+   "entree": "2026-09-08T14:51-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "une-panne-du-controle-aerien-paralyse-les-aeroports-de-londr-acf185"
+  },
+  {
+   "titre": "Otto Jelinek, ancien champion du monde de patinage artistique et ministre fédéral, meurt à 86 ans",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/otto-jelinek-death-former-world-figure-skating-champion-olympian-canada-9.7335643",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/otto-jelinek-death-former-world-figure-skating-champion-olympian-canada-9.7335643",
+     "auteur": "Dylan Robertson",
+     "date": "2026-09-08T14:56-04:00"
+    }
+   ],
+   "resume": "Avant de devenir ministre progressiste-conservateur, il avait fait ses classes dans les coulisses politiques de l'ère Diefenbaker.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Otto_Jelinek_2014.jpg",
+   "legende": "Otto Jelinek en 2014.",
+   "horodate": "2026-09-08T14:56-04:00",
+   "volet": "continu",
+   "photo_auteur": "OISV",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "otto-jelinek-ancien-champion-du-monde-de-patinage-artistique-c503d8",
+   "entree": "2026-09-08T14:56-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "otto-jelinek-ancien-champion-du-monde-de-patinage-artistique-c503d8"
+  },
+  {
+   "titre": "Montréal et ses pompiers concluent une entente de principe après plus de deux ans sans contrat",
+   "cahier": "montreal",
+   "rubrique": "politique",
+   "territoire": "Montréal",
+   "medias": "La Presse, Journal Métro",
+   "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-08/renouvellement-de-la-convention-collective/montreal-et-l-association-des-pompiers-s-entendent.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-08/renouvellement-de-la-convention-collective/montreal-et-l-association-des-pompiers-s-entendent.php",
+     "auteur": "Lia Lévesque",
+     "date": "2026-09-08T14:39-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/montreal/3226733/entente-de-principe-conclue-entre-la-ville-de-montreal-et-les-pompiers-de-montre/",
+     "date": "2026-09-08T15:08-04:00",
+     "auteur": "Maïté Paradis"
+    }
+   ],
+   "resume": "Le contenu de l'entente reste secret : le syndicat veut le réserver d'abord à ses membres.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Montreal_Fire_Department_Ladder_Truck.jpg/1280px-Montreal_Fire_Department_Ladder_Truck.jpg",
+   "legende": "Un camion-échelle du Service de sécurité incendie de Montréal.",
+   "horodate": "2026-09-08T15:08-04:00",
+   "volet": "continu",
+   "photo_auteur": "Hillelfrei",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "montreal-et-ses-pompiers-concluent-une-entente-de-principe-a-4696a1",
+   "entree": "2026-09-08T15:08-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "montreal-et-ses-pompiers-concluent-une-entente-de-principe-a-4696a1"
+  },
+  {
+   "titre": "Le pdg d'Enbridge, Greg Ebel, annonce son départ à la retraite d'ici la fin de l'année",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/secteurs/changement-de-direction-chez-enbridge-le-pdg-greg-ebel-prendra-sa-retraite-a-la-fin-de-lannee/",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/changement-de-direction-chez-enbridge-le-pdg-greg-ebel-prendra-sa-retraite-a-la-fin-de-lannee/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-08T14:36-04:00"
+    }
+   ],
+   "resume": "Michele Harradence, qui dirige la distribution du gaz chez Enbridge, prendra la relève à la présidence.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Enbridge_Tower.JPG",
+   "legende": "Le siège social d'Enbridge, à Calgary.",
+   "horodate": "2026-09-08T14:36-04:00",
+   "volet": "continu",
+   "photo_auteur": "Kyle1278",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "le-pdg-d-enbridge-greg-ebel-annonce-son-depart-a-la-retraite-fbf9d0",
+   "entree": "2026-09-08T14:36-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-pdg-d-enbridge-greg-ebel-annonce-son-depart-a-la-retraite-fbf9d0"
+  },
+  {
+   "titre": "Le premier secrétaire noir de la Smithsonian, Lonnie Bunch, quitte son poste sous la pression de Trump",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "États-Unis",
+   "medias": "Courrier international",
+   "url": "https://www.courrierinternational.com/article/musees-l-historien-noir-lonnie-bunch-quitte-la-tete-de-la-smithsonian-institution-attaquee-par-trump_269019",
+   "sources": [
+    {
+     "media": "Courrier international",
+     "url": "https://www.courrierinternational.com/article/musees-l-historien-noir-lonnie-bunch-quitte-la-tete-de-la-smithsonian-institution-attaquee-par-trump_269019",
+     "date": "2026-09-08T14:39-04:00",
+     "auteur": "Gabriel Hassan"
+    }
+   ],
+   "resume": "Cette page se tourne alors que Washington multiplie les pressions sur les institutions culturelles de la capitale.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Smithsonian_Institution_Building_%28%22The_Castle%22%29%2C_Washington%2C_D.C._in_2012.JPG/1280px-Smithsonian_Institution_Building_%28%22The_Castle%22%29%2C_Washington%2C_D.C._in_2012.JPG",
+   "legende": "Le Smithsonian Institution Building, à Washington.",
+   "horodate": "2026-09-08T14:39-04:00",
+   "volet": "continu",
+   "photo_auteur": "Another Believer",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "le-premier-secretaire-noir-de-la-smithsonian-lonnie-bunch-qu-1bbd3d",
+   "entree": "2026-09-08T14:39-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-premier-secretaire-noir-de-la-smithsonian-lonnie-bunch-qu-1bbd3d"
+  },
+  {
+   "titre": "La guerre commerciale fragilise Delastek, sous-traitant aérospatial de Bombardier à Shawinigan",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Shawinigan (Mauricie)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281690/bombardier-guerre-commerciale-delastek-shawinigan",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281690/bombardier-guerre-commerciale-delastek-shawinigan",
+     "date": "2026-09-08T15:04-04:00",
+     "auteur": "Louis Cloutier et Pascale Langlois"
+    }
+   ],
+   "resume": "Le syndicat Unifor, qui représente aussi 7000 employés ailleurs dans l'aéronautique, dit ignorer à quoi s'attendre avec Washington.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:04-04:00",
+   "volet": "continu",
+   "permalien": "la-guerre-commerciale-fragilise-delastek-sous-traitant-aeros-40e057",
+   "entree": "2026-09-08T15:04-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "la-guerre-commerciale-fragilise-delastek-sous-traitant-aeros-40e057"
+  },
+  {
+   "titre": "Un complice présumé est arrêté dans le meurtre du barbier Jordan Gagné à Salaberry-de-Valleyfield",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Salaberry-de-Valleyfield (Montérégie)",
+   "medias": "Le Saint-François",
+   "url": "https://journalsaint-francois.ca/meurtre-de-jordan-gagne-un-presume-complice-arrete/",
+   "sources": [
+    {
+     "media": "Le Saint-François",
+     "url": "https://journalsaint-francois.ca/meurtre-de-jordan-gagne-un-presume-complice-arrete/",
+     "auteur": "Eric Tremblay",
+     "date": "2026-09-08T15:08-04:00"
+    }
+   ],
+   "resume": "Félix Lepage, 18 ans, doit retourner au palais de justice le 23 septembre pour cette accusation de complicité.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:08-04:00",
+   "volet": "continu",
+   "permalien": "un-complice-presume-est-arrete-dans-le-meurtre-du-barbier-jo-fc1a93",
+   "entree": "2026-09-08T15:08-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "un-complice-presume-est-arrete-dans-le-meurtre-du-barbier-jo-fc1a93"
+  },
+  {
+   "titre": "Une équipe de recherche double l'estimation du nombre mondial d'espèces d'insectes",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "The Conversation",
+   "url": "https://theconversation.com/une-nouvelle-etude-estime-a-environ-20-millions-le-nombre-despeces-dinsectes-sur-terre-ce-qui-double-celles-menacees-dextinction-289433",
+   "sources": [
+    {
+     "media": "The Conversation",
+     "url": "https://theconversation.com/une-nouvelle-etude-estime-a-environ-20-millions-le-nombre-despeces-dinsectes-sur-terre-ce-qui-double-celles-menacees-dextinction-289433",
+     "auteur": "Dirk Steinke",
+     "date": "2026-09-08T15:20-04:00"
+    }
+   ],
+   "resume": "Cette révision à la hausse fait aussi doubler, du coup, le nombre d'espèces menacées d'extinction.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/S%C3%BCdliche_Mosaikjungfer_-_Aeshna_affinis.jpg/1280px-S%C3%BCdliche_Mosaikjungfer_-_Aeshna_affinis.jpg",
+   "legende": "Une libellule du genre Aeshna, comme celles étudiées par les chercheurs.",
+   "horodate": "2026-09-08T15:20-04:00",
+   "volet": "continu",
+   "photo_auteur": "Sven Damerow",
+   "photo_licence": "CC BY-SA 4.0",
+   "permalien": "une-equipe-de-recherche-double-l-estimation-du-nombre-mondia-0d5f65",
+   "entree": "2026-09-08T15:20-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "une-equipe-de-recherche-double-l-estimation-du-nombre-mondia-0d5f65"
+  },
+  {
+   "titre": "Telus poursuit un ex-employé pour 1,1 million de dollars de dépenses frauduleuses",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Colombie-Britannique",
+   "medias": "The Globe and Mail, Global News",
+   "url": "https://www.theglobeandmail.com/canada/british-columbia/article-telus-lawsuit-employee-company-card/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/british-columbia/article-telus-lawsuit-employee-company-card/",
+     "date": "2026-09-08T15:05-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12051267/telus-sues-former-employee-fraud-lawsuit/",
+     "date": "2026-09-08T15:15-04:00",
+     "auteur": "Globalnews Digital"
+    }
+   ],
+   "resume": "Plus de 2 500 achats non autorisés, dont du matériel de cinéma maison, en cinq ans.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:15-04:00",
+   "volet": "continu",
+   "permalien": "telus-poursuit-un-ex-employe-pour-1-1-million-de-dollars-de-8fa7ea",
+   "entree": "2026-09-08T15:15-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "telus-poursuit-un-ex-employe-pour-1-1-million-de-dollars-de-8fa7ea"
+  },
+  {
+   "titre": "Le patronat albertain doute que la séparation rende la province maîtresse de son destin",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Alberta",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/calgary/adam-legge-business-council-of-alberta-keith-wilson-9.7336020?cmp=rss",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/calgary/adam-legge-business-council-of-alberta-keith-wilson-9.7336020?cmp=rss",
+     "date": "2026-09-08T15:13-04:00",
+     "auteur": "Joel Dryden"
+    }
+   ],
+   "resume": "À quarante-cinq jours du référendum, les milieux d'affaires restent étrangement silencieux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:13-04:00",
+   "volet": "continu",
+   "permalien": "le-patronat-albertain-doute-que-la-separation-rende-la-provi-647268",
+   "entree": "2026-09-08T15:13-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-patronat-albertain-doute-que-la-separation-rende-la-provi-647268"
+  },
+  {
+   "titre": "Les contre-tarifs canadiens frapperont surtout les produits agroalimentaires, selon un avocat commercial",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12050985/donald-trump-tariffs-retaliation-consumer-impact/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12050985/donald-trump-tariffs-retaliation-consumer-impact/",
+     "date": "2026-09-08T15:46-04:00",
+     "auteur": "Ariel Rabinovitch"
+    }
+   ],
+   "resume": "Des centaines de produits sont touchés, et la facture pourrait remonter jusqu'à l'épicerie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:46-04:00",
+   "volet": "continu",
+   "permalien": "les-contre-tarifs-canadiens-frapperont-surtout-les-produits-55220f",
+   "entree": "2026-09-08T15:46-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "les-contre-tarifs-canadiens-frapperont-surtout-les-produits-55220f"
+  },
+  {
+   "titre": "L'ex-prêtre montréalais Boucher, accusé de pédopornographie, demeure détenu avant son procès",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Montréal",
+   "medias": "CBC, Le Canada Français",
+   "url": "https://www.cbc.ca/news/canada/montreal/former-priest-to-stay-detained-9.7336286?cmp=rss",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/former-priest-to-stay-detained-9.7336286?cmp=rss",
+     "date": "2026-09-08T17:05-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/pedopornographie-lex-pretre-boucher-restera-en-detention-en-attendant-son-proces/",
+     "date": "2026-09-08T17:19-04:00",
+     "auteur": "La Presse Canadienne"
+    }
+   ],
+   "resume": "Sa défense conteste la solidité du dossier avant la comparution prévue en novembre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:19-04:00",
+   "volet": "continu",
+   "permalien": "l-ex-pretre-montrealais-boucher-accuse-de-pedopornographie-d-07f702",
+   "entree": "2026-09-08T17:19-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "l-ex-pretre-montrealais-boucher-accuse-de-pedopornographie-d-07f702"
+  },
+  {
+   "titre": "Les avocates du Protecteur du citoyen du Québec entament un mouvement de grève",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/les-avocates-du-protecteur-du-citoyen-ont-declenche-leur-greve-mardi/",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/les-avocates-du-protecteur-du-citoyen-ont-declenche-leur-greve-mardi/",
+     "date": "2026-09-08T16:30-04:00",
+     "auteur": "Lia Lévesque et La Presse Canadienne"
+    }
+   ],
+   "resume": "Un service destiné à défendre les citoyens tourne au ralenti faute d'avocates au travail.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:30-04:00",
+   "volet": "continu",
+   "permalien": "les-avocates-du-protecteur-du-citoyen-du-quebec-entament-un-ac1a27",
+   "entree": "2026-09-08T16:30-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "les-avocates-du-protecteur-du-citoyen-du-quebec-entament-un-ac1a27"
+  },
+  {
+   "titre": "Qualcomm conclut une entente de puces d'intelligence artificielle avec Amazon",
+   "cahier": "international",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-qualcomm-ai-chip-deal-amazon/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-qualcomm-ai-chip-deal-amazon/",
+     "date": "2026-09-08T14:40-04:00",
+     "auteur": "Anhata Rooprai"
+    }
+   ],
+   "resume": "Un accord qui mêle vente de puces et actions à prix fixe, signe des temps en IA.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:40-04:00",
+   "volet": "continu",
+   "permalien": "qualcomm-conclut-une-entente-de-puces-d-intelligence-artific-759748",
+   "entree": "2026-09-08T14:40-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "qualcomm-conclut-une-entente-de-puces-d-intelligence-artific-759748"
+  },
+  {
+   "titre": "L'IRIS relie le virage migratoire caquiste à trois décennies de politiques néolibérales au Québec",
+   "cahier": "quebec",
+   "rubrique": "idees",
+   "territoire": "Québec",
+   "medias": "IRIS",
+   "url": "https://iris-recherche.qc.ca/blogue/etat-finances-publiques-et-secteur-public/serie-neoliberalisme-immigration/",
+   "sources": [
+    {
+     "media": "IRIS",
+     "url": "https://iris-recherche.qc.ca/blogue/etat-finances-publiques-et-secteur-public/serie-neoliberalisme-immigration/",
+     "date": "2026-09-08T14:12-04:00",
+     "auteur": "Julia Posca"
+    }
+   ],
+   "resume": "L'institut, qui critique le désengagement de l'État, y voit un choix idéologique plus qu'un hasard.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:12-04:00",
+   "volet": "continu",
+   "permalien": "l-iris-relie-le-virage-migratoire-caquiste-a-trois-decennies-f42b3c",
+   "entree": "2026-09-08T14:12-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "l-iris-relie-le-virage-migratoire-caquiste-a-trois-decennies-f42b3c"
+  },
+  {
+   "titre": "Le Pérou rejoint la coalition antidrogue Bouclier des Amériques lancée par Washington",
+   "cahier": "international",
+   "rubrique": "diplomatie",
+   "territoire": "Pérou",
+   "medias": "20 Minutes",
+   "url": "https://www.20minutes.fr/monde/etats-unis/4243711-20260908-perou-pays-rejoint-bouclier-ameriques-donald-trump",
+   "sources": [
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/etats-unis/4243711-20260908-perou-pays-rejoint-bouclier-ameriques-donald-trump",
+     "date": "2026-09-08T14:43-04:00",
+     "auteur": "Thibaut Chevillard"
+    }
+   ],
+   "resume": "Une coalition de droite contre le narcotrafic qui s'élargit encore en Amérique latine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:43-04:00",
+   "volet": "continu",
+   "permalien": "le-perou-rejoint-la-coalition-antidrogue-bouclier-des-ameriq-f223e0",
+   "entree": "2026-09-08T14:43-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-perou-rejoint-la-coalition-antidrogue-bouclier-des-ameriq-f223e0"
+  },
+  {
+   "titre": "Tung Chee-hwa, premier chef de l'exécutif de Hong Kong après 1997, meurt à 89 ans",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Hong Kong",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/asie-pacifique/20260908-tung-chee-hwa-premier-dirigeant-de-hong-kong-apr%C3%A8s-sa-restitution-%C3%A0-la-chine-est-mort-%C3%A0-89-ans",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/asie-pacifique/20260908-tung-chee-hwa-premier-dirigeant-de-hong-kong-apr%C3%A8s-sa-restitution-%C3%A0-la-chine-est-mort-%C3%A0-89-ans",
+     "date": "2026-09-08T15:06-04:00",
+     "auteur": "RFI avec AFP"
+    }
+   ],
+   "resume": "Il avait pris les commandes du territoire dès sa rétrocession à Pékin en 1997.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:06-04:00",
+   "volet": "continu",
+   "permalien": "tung-chee-hwa-premier-chef-de-l-executif-de-hong-kong-apres-82f7c3",
+   "entree": "2026-09-08T15:06-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "tung-chee-hwa-premier-chef-de-l-executif-de-hong-kong-apres-82f7c3"
+  },
+  {
+   "titre": "Téhéran dit avoir frappé une base américaine en Jordanie après les frappes sur ses pétroliers",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Iran",
+   "medias": "Le Dauphiné Libéré, Le Monde, France 24, Le Parisien, LaPresse.ca, Radio-Canada",
+   "url": "https://www.ledauphine.com/defense-guerre-conflit/2026/09/08/les-etats-unis-ciblent-un-nouveau-petrolier-iranien-au-large-de-l-ile-de-kharg",
+   "sources": [
+    {
+     "media": "Le Dauphiné Libéré",
+     "url": "https://www.ledauphine.com/defense-guerre-conflit/2026/09/08/les-etats-unis-ciblent-un-nouveau-petrolier-iranien-au-large-de-l-ile-de-kharg",
+     "date": "2026-09-08T15:54-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/detroit-d-ormuz-l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-tandis-que-washington-parle-d-un-engin-defectueux_6768518_3210.html",
+     "date": "2026-09-08T16:22-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/moyen-orient/20260908-en-direct-etats-unis-detruit-cinq-petroliers-navires-iraniens-gardiens-revolution-menacent-koweit-bahrein-pays-golfe-detroit-ormuz",
+     "auteur": "FRANCE 24",
+     "date": "2026-09-08T18:41-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/direct-les-etats-unis-detruisent-cinq-petroliers-iraniens-teheran-promet-de-riposter-09-09-2026-CNCSYYZHLJA53MMRTKKJZTGSWI.php",
+     "date": "2026-09-08T18:56-04:00"
+    },
+    {
+     "media": "LaPresse.ca",
+     "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-08/apres-des-attaques-sur-des-petroliers-iraniens/l-iran-frappe-une-base-militaire-americaine-en-jordanie.php",
+     "auteur": "Les bureaux de l'AFP à Téhéran et Washington",
+     "date": "2026-09-08T20:26-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281822/teheran-frappe-jordanie-attaques-petroliers-iraniens",
+     "date": "2026-09-08T20:43-04:00"
+    }
+   ],
+   "resume": "Mise à jour, 20 h 43 — L'Iran affirme avoir visé une base américaine en Jordanie, et dit avoir capturé un drone sous-marin américain.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T20:43-04:00",
+   "volet": "continu",
+   "permalien": "les-etats-unis-visent-un-nouveau-petrolier-iranien-pres-de-l-2e939d",
+   "entree": "2026-09-08T16:22-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "les-etats-unis-visent-un-nouveau-petrolier-iranien-pres-de-l-2e939d"
+  },
+  {
+   "titre": "Un géographe alerte sur l'accélération de la désertification en France",
+   "cahier": "savoirs",
+   "rubrique": "environnement",
+   "territoire": "France",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/planete/actualites/secheresse-desertification-france-nous-devons-prendre-conscience-notre-vulnerabilite-alerte-geographe-jean-daniel-cesaro-137564/",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/planete/actualites/secheresse-desertification-france-nous-devons-prendre-conscience-notre-vulnerabilite-alerte-geographe-jean-daniel-cesaro-137564/",
+     "date": "2026-09-08T14:07-04:00",
+     "auteur": "Arnaud Pagès"
+    }
+   ],
+   "resume": "Le changement climatique referme peu à peu l'accès à l'eau dans des régions qu'on croyait à l'abri.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:07-04:00",
+   "volet": "continu",
+   "permalien": "un-geographe-alerte-sur-l-acceleration-de-la-desertification-961d21",
+   "entree": "2026-09-08T14:07-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "un-geographe-alerte-sur-l-acceleration-de-la-desertification-961d21"
+  },
+  {
+   "titre": "Une poursuite de 446 millions de dollars accuse Meta d'avoir utilisé des films pour adultes pour entraîner ses IA",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "Presse-citron",
+   "url": "https://www.presse-citron.net/meta-accuse-davoir-vole-des-milliers-de-films-x-pour-entrainer-ses-ia-lun-de-ses-cadres-directement-impliques/",
+   "sources": [
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/meta-accuse-davoir-vole-des-milliers-de-films-x-pour-entrainer-ses-ia-lun-de-ses-cadres-directement-impliques/",
+     "date": "2026-09-08T14:00-04:00",
+     "auteur": "Mathilde Rochefort"
+    }
+   ],
+   "resume": "Un cadre de l'entreprise serait directement mêlé à cette utilisation non autorisée de contenu protégé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:00-04:00",
+   "volet": "continu",
+   "permalien": "une-poursuite-de-446-millions-de-dollars-accuse-meta-d-avoir-f9a8ea",
+   "entree": "2026-09-08T14:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "une-poursuite-de-446-millions-de-dollars-accuse-meta-d-avoir-f9a8ea"
+  },
+  {
+   "titre": "Washington ferme ses contrats fédéraux aux fournisseurs canadiens, en réplique aux contre-tarifs d'Ottawa",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada, États-Unis",
+   "medias": "Le Devoir, Acadie Nouvelle, TVA Nouvelles, Le Parisien, Coops de l'information",
+   "url": "https://www.ledevoir.com/economie/1007393/trump-replique-retirant-produits-canadiens-marches-publics",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1007393/trump-replique-retirant-produits-canadiens-marches-publics",
+     "auteur": "La Presse canadienne",
+     "date": "2026-09-08T17:24-04:00"
+    },
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/actualites/2026/09/08/trump-replique-en-retirant-des-produits-canadiens-des-marches-publics/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-08T18:09-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/08/les-produits-canadiens-exclus-des-achats-gouvernementaux-americains-annonce-donald-trump",
+     "date": "2026-09-08T16:43-04:00",
+     "auteur": "Agence QMI"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/instruction-de-retirer-les-produits-canadiens-trump-ferme-lacces-aux-commandes-publiques-americaines-au-canada-09-09-2026-S6SJ4OVPTBFIPEJW6XXHBQEHLI.php",
+     "date": "2026-09-08T18:12-04:00"
+    },
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.latribune.ca/affaires/2026/09/08/trump-replique-en-retirant-des-produits-canadiens-des-marches-publics-YZKRP4DSS5GCXIEB46AKUFSIMM/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-08T17:35-04:00"
+    }
+   ],
+   "resume": "Chaque camp cherche maintenant où frapper l'autre sans nuire à ses propres consommateurs.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:12-04:00",
+   "permalien": "washington-ferme-ses-contrats-federaux-aux-fournisseurs-36ac49",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "washington-ferme-ses-contrats-federaux-aux-fournisseurs-36ac49"
+  },
+  {
+   "titre": "Un octogénaire tué par une balle perdue à Burnaby, selon la police",
+   "cahier": "canada",
+   "rubrique": "faits-divers",
+   "territoire": "Burnaby (Colombie-Britannique)",
+   "medias": "Global News, CBC",
+   "url": "https://globalnews.ca/news/12051323/85-year-old-man-shot-killed-inside-burnaby-home-stray-bullet-homicide/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12051323/85-year-old-man-shot-killed-inside-burnaby-home-stray-bullet-homicide/",
+     "auteur": "Amy Judd",
+     "date": "2026-09-08T16:03-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/british-columbia/burnaby-senior-killed-stray-bullet-9.7336241",
+     "date": "2026-09-08T17:17-04:00"
+    }
+   ],
+   "resume": "Reste à savoir d'où est parti le coup de feu qui l'a tué chez lui.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:17-04:00",
+   "permalien": "un-octogenaire-tue-par-une-balle-perdue-a-son-domicile-8a3e44",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "un-octogenaire-tue-par-une-balle-perdue-a-son-domicile-8a3e44"
+  },
+  {
+   "titre": "Un rapport établit un lien entre l'exposition en ligne des enfants et la tuerie de Tumbler Ridge",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Tumbler Ridge (Colombie-Britannique)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/economie/techno/1007402/dangers-ligne-constituent-desormais-principale-menace-enfants",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/techno/1007402/dangers-ligne-constituent-desormais-principale-menace-enfants",
+     "auteur": "Anja Karadeglija",
+     "date": "2026-09-08T17:47-04:00"
+    }
+   ],
+   "resume": "Ce qu'un nouveau rapport documente déjà sur les plateformes que fréquentent les plus jeunes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:47-04:00",
+   "permalien": "un-rapport-etablit-un-lien-entre-l-exposition-en-ligne-095dd2",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "un-rapport-etablit-un-lien-entre-l-exposition-en-ligne-095dd2"
+  },
+  {
+   "titre": "La néobanque Neo Financial supprime 10 % de son effectif pour réduire ses coûts",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-neo-financial-job-cuts-online-services/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-neo-financial-job-cuts-online-services/",
+     "auteur": "Sean Silcoff",
+     "date": "2026-09-08T17:10-04:00"
+    }
+   ],
+   "resume": "Un million de clients sont concernés par la réduction de personnel annoncée mardi.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:10-04:00",
+   "permalien": "la-neobanque-neo-financial-supprime-10-de-son-effectif-8facd1",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "la-neobanque-neo-financial-supprime-10-de-son-effectif-8facd1"
+  },
+  {
+   "titre": "Grève des employés de laboratoires médicaux Dynacare au Manitoba, en plein différend salarial",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Manitoba",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/canada/article-dynacare-medical-lab-workers-strike-wage-manitoba/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/article-dynacare-medical-lab-workers-strike-wage-manitoba/",
+     "auteur": "Brittany Hobson et Ian Bickis",
+     "date": "2026-09-08T17:17-04:00"
+    }
+   ],
+   "resume": "Le gouvernement manitobain a déjà demandé que ces services soient déclarés essentiels, en pleine grève.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:17-04:00",
+   "permalien": "greve-des-employes-de-laboratoires-medicaux-dynacare-au-607e38",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "greve-des-employes-de-laboratoires-medicaux-dynacare-au-607e38"
+  },
+  {
+   "titre": "Une cour d'appel américaine empêche le fisc de transmettre en bloc les dossiers des contribuables à l'immigration",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "Ouest-France, Le Monde",
+   "url": "https://www.ouest-france.fr/monde/etats-unis/etats-unis-la-justice-bloque-le-transfert-massif-de-donnees-fiscales-aux-services-dimmigration-4e07cca0-abc1-11f1-8801-66f16947434c",
+   "sources": [
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/etats-unis/etats-unis-la-justice-bloque-le-transfert-massif-de-donnees-fiscales-aux-services-dimmigration-4e07cca0-abc1-11f1-8801-66f16947434c",
+     "date": "2026-09-08T16:39-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/aux-etats-unis-la-justice-interdit-le-partage-massif-de-donnees-sensibles-du-fisc-aux-services-de-l-immigration_6768519_3210.html",
+     "date": "2026-09-08T16:52-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Washington devra revoir sa façon de partager les données fiscales avec l'immigration.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:52-04:00",
+   "permalien": "une-cour-d-appel-americaine-empeche-le-fisc-de-transmet-e0be1a",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "une-cour-d-appel-americaine-empeche-le-fisc-de-transmet-e0be1a"
+  },
+  {
+   "titre": "OpenAI affirme avoir percé une équation non résolue depuis 90 ans, des mathématiciens restent sceptiques",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "États-Unis",
+   "medias": "France 24, The Verge, franceinfo, La Presse, Le Devoir",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-openai-dit-avoir-r%C3%A9solu-un-probl%C3%A8me-de-maths-crucial-en-quelques-jours-seulement",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-openai-dit-avoir-r%C3%A9solu-un-probl%C3%A8me-de-maths-crucial-en-quelques-jours-seulement",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T16:21-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+     "auteur": "Emma Roth",
+     "date": "2026-09-08T16:53-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/internet/le-geant-de-l-intelligence-artificielle-openai-dit-avoir-resolu-l-equation-de-navier-stokes-un-probleme-de-maths-crucial-en-seulement-quelques-jours_8183789.html",
+     "date": "2026-09-08T18:09-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/sciences/2026-09-08/en-moins-de-quatre-jours/openai-dit-avoir-resolu-un-probleme-de-maths-datant-de-plus-d-un-siecle.php",
+     "auteur": "Thomas Urbain et Alex Pigman",
+     "date": "2026-09-08T21:06-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/techno/1007465/openai-dit-avoir-resolu-probleme-maths-majeur-moins-quatre-jours",
+     "auteur": "Thomas Urbain et Alex Pigman",
+     "date": "2026-09-08T22:26-04:00"
+    }
+   ],
+   "resume": "Des mathématiciens indépendants doivent encore confirmer la démonstration avant qu'elle n'entre dans les manuels.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:09-04:00",
+   "permalien": "openai-affirme-avoir-perce-une-equation-non-resolue-dep-866846",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "openai-affirme-avoir-perce-une-equation-non-resolue-dep-866846"
+  },
+  {
+   "titre": "Les créateurs de South Park renomment temporairement la série «South America» pour railler Donald Trump",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "États-Unis",
+   "medias": "France 24, franceinfo, Le Monde",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-south-park-rebaptis%C3%A9-south-america-pour-se-moquer-de-trump",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-south-park-rebaptis%C3%A9-south-america-pour-se-moquer-de-trump",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T16:57-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html",
+     "date": "2026-09-08T17:53-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
+     "date": "2026-09-08T18:48-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Comedy Central, filiale de Paramount visée au passage, n'a pas encore réagi à la blague.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:48-04:00",
+   "permalien": "les-createurs-de-south-park-renomment-temporairement-la-245a7b",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "les-createurs-de-south-park-renomment-temporairement-la-245a7b"
+  },
+  {
+   "titre": "OpenAI ajoute une fonction Sketch à ChatGPT pour transformer des dessins en images",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+     "auteur": "Jay Peters",
+     "date": "2026-09-08T16:16-04:00"
+    }
+   ],
+   "resume": "Un trait griffonné suffit maintenant à orienter ce que l'intelligence artificielle dessine à la place de l'utilisateur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:16-04:00",
+   "permalien": "openai-ajoute-une-fonction-sketch-a-chatgpt-pour-transf-0e382f",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "openai-ajoute-une-fonction-sketch-a-chatgpt-pour-transf-0e382f"
+  },
+  {
+   "titre": "Le Canada et la Chine confirment la reprise de leurs pourparlers militaires directs",
+   "cahier": "canada",
+   "rubrique": "conflits",
+   "territoire": "Canada",
+   "medias": "Le Canada Français, La Presse, Canada's National Observer",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-09-08/la-chine-revele-avoir-mene-des-pourparlers-militaires-avec-des-responsables-canadiens.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-09-08/la-chine-revele-avoir-mene-des-pourparlers-militaires-avec-des-responsables-canadiens.php",
+     "auteur": "Dylan Robertson",
+     "date": "2026-09-08T21:41-04:00"
+    },
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/08/news/china-reveals-military-talks-canadian-officials-after-years-strain",
+     "auteur": "Dylan Robertson",
+     "date": "2026-09-08T21:06-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/la-chine-revele-avoir-mene-des-pourparlers-militaires-avec-des-responsables-canadiens/",
+     "date": "2026-09-08T21:03-04:00"
+    }
+   ],
+   "resume": "Les conservateurs s'inquiètent déjà d'un rapprochement militaire avec Pékin, huit ans après sa rupture.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T21:41-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T23:05-04:00",
+   "volet": "continu",
+   "permalien": "le-canada-et-la-chine-confirment-la-reprise-de-leurs-pourpar-63a02c",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-canada-et-la-chine-confirment-la-reprise-de-leurs-pourpar-63a02c"
+  },
+  {
+   "titre": "À Ottawa, le retour obligatoire au bureau s'invite dans la course à la mairie",
+   "cahier": "canada",
+   "rubrique": "politique",
+   "territoire": "Ottawa (Ontario)",
+   "medias": "Le Droit, Le Canada Français",
+   "url": "https://www.ledroit.com/affaires/2026/09/08/le-retour-au-bureau-devient-un-enjeu-majeur-dans-la-course-a-la-mairie-d-ottawa-4E5ZBVS6OBF6DJI73FECW334HA/",
+   "sources": [
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/affaires/2026/09/08/le-retour-au-bureau-devient-un-enjeu-majeur-dans-la-course-a-la-mairie-d-ottawa-4E5ZBVS6OBF6DJI73FECW334HA/",
+     "auteur": "Catherine Morrison, La Presse Canadienne",
+     "date": "2026-09-08T18:20-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/le-retour-au-bureau-devient-un-enjeu-majeur-dans-la-course-a-la-mairie-dottawa/",
+     "date": "2026-09-08T21:21-04:00",
+     "auteur": "Catherine Morrison et La Presse Canadienne"
+    }
+   ],
+   "resume": "Un candidat promet d'annuler l'obligation, le maire sortant la défend comme une bouée pour le centre-ville.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T21:21-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T23:05-04:00",
+   "volet": "continu",
+   "permalien": "a-ottawa-le-retour-obligatoire-au-bureau-s-invite-dans-la-co-8f2df8",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "a-ottawa-le-retour-obligatoire-au-bureau-s-invite-dans-la-co-8f2df8"
+  },
+  {
+   "titre": "Les dangers en ligne deviennent la première menace pour les enfants au Canada, selon un rapport",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/les-dangers-en-ligne-constituent-desormais-la-principale-menace-pour-les-enfants/",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/les-dangers-en-ligne-constituent-desormais-la-principale-menace-pour-les-enfants/",
+     "date": "2026-09-08T18:00-04:00",
+     "auteur": "Anja Karadeglija et La Presse Canadienne"
+    }
+   ],
+   "resume": "Ce risque devance désormais l'intimidation et la précarité dans ce palmarès annuel inédit.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:00-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T23:05-04:00",
+   "volet": "continu",
+   "permalien": "les-dangers-en-ligne-deviennent-la-premiere-menace-pour-les-1d839e",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "les-dangers-en-ligne-deviennent-la-premiere-menace-pour-les-1d839e"
+  },
+  {
+   "titre": "La Banque Scotia va émettre des obligations pour financer l'industrie canadienne de la défense",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/economy/article-bank-of-nova-scotia-to-issue-defence-bonds-through-new-framework/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/economy/article-bank-of-nova-scotia-to-issue-defence-bonds-through-new-framework/",
+     "date": "2026-09-08T19:10-04:00",
+     "auteur": "Pippa Norman"
+    }
+   ],
+   "resume": "Le secteur financier emboîte le pas aux ambitions d'Ottawa de bâtir une base industrielle militaire au pays.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T19:10-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T23:05-04:00",
+   "volet": "continu",
+   "permalien": "la-banque-scotia-va-emettre-des-obligations-pour-financer-l-7b29cf",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "la-banque-scotia-va-emettre-des-obligations-pour-financer-l-7b29cf"
+  },
+  {
+   "titre": "Valérie Plante anime une série documentaire sur les défis de six grandes villes",
+   "cahier": "montreal",
+   "rubrique": "cinema",
+   "territoire": "Montréal",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/culture/ecrans/1007441/valerie-plante-presente-envers-carte-postale-six-grandes-villes",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/ecrans/1007441/valerie-plante-presente-envers-carte-postale-six-grandes-villes",
+     "date": "2026-09-08T18:00-04:00",
+     "auteur": "Jeanne Corriveau"
+    }
+   ],
+   "resume": "L'ex-mairesse troque le micro électoral pour la caméra et compare Montréal à cinq autres métropoles.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:00-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T23:05-04:00",
+   "volet": "continu",
+   "permalien": "valerie-plante-anime-une-serie-documentaire-sur-les-defis-de-8b98d7",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "valerie-plante-anime-une-serie-documentaire-sur-les-defis-de-8b98d7"
+  },
+  {
+   "titre": "Un motocycliste meurt happé par un camion à Sainte-Mélanie, après plusieurs dépassements selon la SQ",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Sainte-Mélanie (Lanaudière)",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/un-motocycliste-meurt-apres-avoir-percute-un-camion-a-sainte-melanie-dans-lanaudiere/",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/un-motocycliste-meurt-apres-avoir-percute-un-camion-a-sainte-melanie-dans-lanaudiere/",
+     "date": "2026-09-08T21:02-04:00",
+     "auteur": "La Presse Canadienne"
+    }
+   ],
+   "resume": "Il n'avait que 25 ans, sur une route de campagne qu'il empruntait en pleine matinée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T21:02-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T23:05-04:00",
+   "volet": "continu",
+   "permalien": "un-motocycliste-meurt-happe-par-un-camion-a-sainte-melanie-a-4b653b",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "un-motocycliste-meurt-happe-par-un-camion-a-sainte-melanie-a-4b653b"
+  },
+  {
+   "titre": "Plus de 1000 vols annulés au Royaume-Uni après une panne du contrôle aérien",
+   "cahier": "international",
+   "rubrique": "transport",
+   "territoire": "Royaume-Uni",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-uk-airports-flights-cancelled-air-traffic-control/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-uk-airports-flights-cancelled-air-traffic-control/",
+     "date": "2026-09-08T18:00-04:00"
+    }
+   ],
+   "resume": "Les retards se sont propagés à quinze aéroports avant que le problème ne soit résolu dans la journée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:00-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T23:05-04:00",
+   "volet": "continu",
+   "permalien": "plus-de-1000-vols-annules-au-royaume-uni-apres-une-panne-du-72e525",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "plus-de-1000-vols-annules-au-royaume-uni-apres-une-panne-du-72e525"
+  },
+  {
+   "titre": "Le président cubain rejette l'idée d'un retour de son pays sous tutelle américaine",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Cuba",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/monde/ameriques/1007459/cuba-ne-sera-jamais-colonie-dit-president-apres-message-trump",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/ameriques/1007459/cuba-ne-sera-jamais-colonie-dit-president-apres-message-trump",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-08T20:30-04:00"
+    }
+   ],
+   "resume": "La sortie fait suite à une carte publiée par Donald Trump plaçant l'île dans le giron de Washington.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T20:30-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T23:05-04:00",
+   "volet": "continu",
+   "permalien": "le-president-cubain-rejette-l-idee-d-un-retour-de-son-pays-s-b2f1b9",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-president-cubain-rejette-l-idee-d-un-retour-de-son-pays-s-b2f1b9"
+  },
+  {
+   "titre": "La Norvège organise des funérailles nationales pour son ancien roi Harald V",
+   "cahier": "international",
+   "rubrique": "societe",
+   "territoire": "Norvège",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/info-en-continu/20260909-la-norv%C3%A8ge-fait-ses-adieux-au-roi-harald-v-grand-p%C3%A8re-de-la-nation",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260909-la-norv%C3%A8ge-fait-ses-adieux-au-roi-harald-v-grand-p%C3%A8re-de-la-nation",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T21:11-04:00"
+    }
+   ],
+   "resume": "Plus de 3500 soldats sont mobilisés et l'espace aérien restreint sur une grande partie du pays.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T21:11-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T23:05-04:00",
+   "volet": "continu",
+   "permalien": "la-norvege-organise-des-funerailles-nationales-pour-son-anci-913bd4",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "la-norvege-organise-des-funerailles-nationales-pour-son-anci-913bd4"
+  },
+  {
+   "titre": "Le procès en appel de François Bayrou et du MoDem s'ouvre à Paris",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "France",
+   "medias": "France 24",
+   "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260908-affaire-des-assistants-du-modem-bayrou-de-retour-devant-la-justice",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260908-affaire-des-assistants-du-modem-bayrou-de-retour-devant-la-justice",
+     "auteur": "Cécile Gallucio",
+     "date": "2026-09-08T20:00-04:00"
+    }
+   ],
+   "resume": "Acquitté en première instance, l'ex-chef du MoDem se dit serein avant la reprise du dossier en appel.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T20:00-04:00",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T23:05-04:00",
+   "volet": "continu",
+   "permalien": "le-proces-en-appel-de-francois-bayrou-et-du-modem-s-ouvre-a-7f16ce",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-proces-en-appel-de-francois-bayrou-et-du-modem-s-ouvre-a-7f16ce"
+  },
+  {
+   "titre": "Guerre tarifaire : Fréchette chiffre son bouclier à 1,5 milliard $, les partis d'opposition la critiquent en bloc",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "98.5 Montréal, CBC News, FM93, Gazette officielle du Québec, Journal Métro, La Presse, Le Canada Français, Parti québécois, Global News",
+   "url": "https://journalmetro.com/actualites/elections/3226703/christine-frechette-veut-se-tenir-debout-face-a-la-guerre-tarifaire/",
+   "resume": "Mise à jour, 15 h — L'absent de la rencontre essuie une charge inattendue, venue cette fois du camp gouvernemental.",
+   "sources": [
+    {
+     "media": "Gazette officielle du Québec",
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2635A-F.pdf",
+     "date": "2026-09-08"
+    },
+    {
+     "media": "Parti québécois",
+     "url": "https://pq.org/nouvelles/contre-tarifs-canadiens-declaration-du-chef-du-parti-quebecois-paul-st-pierre-plamondon/",
+     "date": "2026-09-08T00:00-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226703/christine-frechette-veut-se-tenir-debout-face-a-la-guerre-tarifaire/",
+     "auteur": "Olivier Robichaud",
+     "date": "2026-09-08T12:03-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-08/guerre-commerciale/ruba-ghazal-exige-des-reponses-de-christine-frechette.php",
+     "auteur": "William Thériault",
+     "date": "2026-09-08T12:21-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-08/riposte-tarifaire-de-mark-carney/un-risque-de-recession-severe-craint-le-pq.php",
+     "auteur": "Fanny Lévesque",
+     "date": "2026-09-08T13:26-04:00"
+    },
+    {
+     "media": "FM93",
+     "url": "https://www.fm93.com/audio/800369/nouvelle-mesure-pour-proteger-les-travailleurs-quebecois",
+     "auteur": "Thomas Beauchemin",
+     "date": "2026-09-08T12:09-04:00"
+    },
+    {
+     "media": "98.5 Montréal",
+     "url": "https://www.985fm.ca/audio/800429/christine-frechette-est-elle-la-meilleure-pour-faire-face-a-la-crise-tarifaire",
+     "date": "2026-09-08T12:46-04:00",
+     "auteur": "Olivier Couture et Félix-Antoine Bétil"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226741/guerre-tarifaire-feux-groupes-contre-christine-frechette/",
+     "auteur": "Maïté Paradis",
+     "date": "2026-09-08T15:10-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/15-milliard-aux-entreprises-quebecoises-pour-contrer-lintimidateur/",
+     "auteur": "Patrice Bergeron, La Presse Canadienne",
+     "date": "2026-09-08T12:26-04:00"
+    },
+    {
+     "media": "CBC News",
+     "url": "https://www.cbc.ca/news/canada/montreal/frechette-quebec-trump-9.7335409",
+     "date": "2026-09-08T11:08-04:00",
+     "auteur": "Cassandra Yanez-Leyton"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12051792/trade-war-quebec-election/",
+     "auteur": "Alessia Simona Maratta",
+     "date": "2026-09-08T22:02-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:10-04:00",
+   "permalien": "guerre-tarifaire-frechette-annonce-un-bouclier-economique-le-88a671",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T13:26-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "guerre-tarifaire-frechette-annonce-un-bouclier-economique-le-88a671"
+  },
+  {
+   "titre": "Milliard promet de hausser à 195 milliards $ le programme d'infrastructures du Québec",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Coops de l'information",
+   "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+   "resume": "Devant une école de Sherbrooke, le chef libéral mise gros sur l'éducation pour se distinguer.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:35-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/08/le-plq-compte-construire-des-ecoles-62INQZBW2FAB5EANT4JX2RXBHQ/",
+     "auteur": "Élodie Drolet",
+     "date": "2026-09-08T14:35-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "milliard-promet-de-hausser-a-195-milliards-le-programme-d-in-076eba",
+   "entree": "2026-09-08T14:35-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "milliard-promet-de-hausser-a-195-milliards-le-programme-d-in-076eba"
+  },
+  {
+   "titre": "Trois partis convergent sur la santé mentale dans un débat boudé par la CAQ et le PCQ",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec (Montréal)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1007321/pq-plq-qs-accordent-comment-ameliorer-sante-mentale",
+   "resume": "Chacun promet de mieux financer le communautaire, mais personne ne peut encore en dire le prix.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:33-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007321/pq-plq-qs-accordent-comment-ameliorer-sante-mentale",
+     "auteur": "Florence Morin-Martel",
+     "date": "2026-09-08T14:33-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "trois-partis-convergent-sur-la-sante-mentale-dans-un-debat-b-02c3ab",
+   "entree": "2026-09-08T14:33-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "trois-partis-convergent-sur-la-sante-mentale-dans-un-debat-b-02c3ab"
+  },
+  {
+   "titre": "Le chiffre d'une personne sur trois brandi par Ruba Ghazal ne trouve pas d'appui dans les données officielles",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/09/linsecurite-alimentaire-touche-t-elle-une-personne-sur-trois-au-quebec-comme-laffirme-ruba-ghazal",
+   "resume": "Entre le sondage cité par Québec solidaire et les statistiques officielles, l'écart interroge en pleine campagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T15:30-04:00",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/09/linsecurite-alimentaire-touche-t-elle-une-personne-sur-trois-au-quebec-comme-laffirme-ruba-ghazal",
+     "auteur": "Nicolas Brasseur",
+     "date": "2026-09-08T15:30-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-chiffre-d-une-personne-sur-trois-brandi-par-ruba-ghazal-n-50adb5",
+   "entree": "2026-09-08T15:30-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-chiffre-d-une-personne-sur-trois-brandi-par-ruba-ghazal-n-50adb5"
+  },
+  {
+   "titre": "Québec solidaire lie son option contre le pétrole à la guerre tarifaire avec Washington",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "Québec solidaire",
+   "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-face-a-la-guerre-tarifaire-quebec-solidaire-choisit-la-transition-ecologique-et-la-souverainete-energetique-pour-batir-lavenir/",
+   "resume": "Le parti reprend même une mise en garde du premier ministre canadien pour justifier son choix.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:18-04:00",
+   "sources": [
+    {
+     "media": "Québec solidaire",
+     "url": "https://api-wp.quebecsolidaire.net/articles/elections-2026-face-a-la-guerre-tarifaire-quebec-solidaire-choisit-la-transition-ecologique-et-la-souverainete-energetique-pour-batir-lavenir/",
+     "date": "2026-09-08T16:18-04:00"
+    },
+    {
+     "media": "Québec solidaire (CNW)",
+     "url": "https://www.newswire.ca/fr/news-releases/election-2026-face-a-la-guerre-tarifaire-quebec-solidaire-choisit-la-transition-ecologique-et-la-souverainete-energetique-pour-batir-l-avenir-895037396.html",
+     "date": "2026-09-08T13:30-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "quebec-solidaire-lie-son-option-contre-le-petrole-a-la-guerr-42ca62",
+   "entree": "2026-09-08T16:18-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "quebec-solidaire-lie-son-option-contre-le-petrole-a-la-guerr-42ca62"
+  },
+  {
+   "titre": "Une association dénonce que 13 656 Québécois attendent un service à domicile",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/en-pleine-campagne-electorale-lasdq-presse-les-partis-dagir-sur-les-soins-a-domicile/",
+   "resume": "Elle craint surtout que Santé Québec devienne une cible facile de cette campagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:20-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/en-pleine-campagne-electorale-lasdq-presse-les-partis-dagir-sur-les-soins-a-domicile/",
+     "date": "2026-09-08T16:20-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-association-denonce-que-13-656-quebecois-attendent-un-se-86f7a0",
+   "entree": "2026-09-08T16:20-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "une-association-denonce-que-13-656-quebecois-attendent-un-se-86f7a0"
+  },
+  {
+   "titre": "PSPP attribue le manque de place en classe à l'immigration, des chercheurs nuancent",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Pivot",
+   "url": "https://pivot.quebec/2026/09/08/limmigration-est-elle-la-cause-du-manque-despace-dans-les-ecoles/",
+   "resume": "Le chef péquiste n'a produit aucune donnée reliant précisément élèves immigrants et classes bondées.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:40-04:00",
+   "sources": [
+    {
+     "media": "Pivot",
+     "url": "https://pivot.quebec/2026/09/08/limmigration-est-elle-la-cause-du-manque-despace-dans-les-ecoles/",
+     "date": "2026-09-08T16:40-04:00",
+     "auteur": "Bifan Sun"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "pspp-attribue-le-manque-de-place-en-classe-a-l-immigration-d-b1a11f",
+   "entree": "2026-09-08T16:40-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "pspp-attribue-le-manque-de-place-en-classe-a-l-immigration-d-b1a11f"
+  },
+  {
+   "titre": "L'Équipe Fréchette promet 144 millions $ pour transformer l'industrie forestière",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "Radio-Canada, Coalition avenir Québec",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281820/promesse-election-industrie-forestiere-caq",
+   "resume": "Une coopérative forestière salue le plan, mais réclame déjà des redevances calquées sur le marché.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T20:02-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281820/promesse-election-industrie-forestiere-caq",
+     "auteur": "Julie Grenon et Pascale Langlois",
+     "date": "2026-09-08T20:02-04:00"
+    },
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/08/lequipe-frechette-initiera-un-pacte-forestier-avec-les-acteurs-de-la-foret/",
+     "date": "2026-09-08T00:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "l-equipe-frechette-promet-144-millions-pour-transformer-l-in-81561e",
+   "entree": "2026-09-08T00:00-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "l-equipe-frechette-promet-144-millions-pour-transformer-l-in-81561e"
+  },
+  {
+   "titre": "Le PQ maintient sa promesse de référendum peu importe le résultat du scrutin",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/secteurs/politique/le-parti-quebecois-tiendra-un-referendum-meme-sil-forme-un-gouvernement-minoritaire/",
+   "resume": "Duhaime veut s'en servir pour bloquer tout référendum, et Milliard se demande avec qui le PQ s'allierait.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:46-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/le-parti-quebecois-tiendra-un-referendum-meme-sil-forme-un-gouvernement-minoritaire/",
+     "date": "2026-09-08T17:46-04:00",
+     "auteur": "Caroline Plante, La Presse Canadienne"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T19:33-04:00",
+   "permalien": "le-pq-maintient-sa-promesse-de-referendum-peu-importe-l-dcec2b",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-pq-maintient-sa-promesse-de-referendum-peu-importe-l-dcec2b"
+  },
+  {
+   "titre": "Centraide chiffre à 137 000 emplois le poids du milieu communautaire, sous-représenté en campagne",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-apres-midi-est-a-nous/episodes/1223407/mardi-8-septembre-2026",
+   "resume": "Le vieillissement de la population pèse sur un secteur que la campagne ignore.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:12-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/l-apres-midi-est-a-nous/episodes/1223407/mardi-8-septembre-2026",
+     "date": "2026-09-08T17:12-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T19:33-04:00",
+   "permalien": "centraide-chiffre-a-137-000-emplois-le-poids-du-milieu-3b52f7",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "centraide-chiffre-a-137-000-emplois-le-poids-du-milieu-3b52f7"
+  },
+  {
+   "titre": "En Gaspésie–Îles-de-la-Madeleine, une coalition presse les candidats de s'engager sur le logement et la santé",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Québec (Gaspésie–Îles-de-la-Madeleine)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281656/apts-logement-transport-sante-quebec",
+   "resume": "Après des années de services fragilisés, cette région veut des engagements fermes de tous les partis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:23-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281656/apts-logement-transport-sante-quebec",
+     "date": "2026-09-08T18:23-04:00",
+     "auteur": "Gala Dionne"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T19:33-04:00",
+   "permalien": "en-gaspesieiles-de-la-madeleine-une-coalition-presse-le-45ea66",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "en-gaspesieiles-de-la-madeleine-une-coalition-presse-le-45ea66"
+  },
+  {
+   "titre": "Les préfets de l'Abitibi-Témiscamingue réclament le quart des redevances minières et un plan de rattrapage",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Abitibi-Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281758/campagne-quebec2026-prefets-abitibi-temiscamingue",
+   "resume": "Un HLM brûlé il y a quatre ans à Sainte-Germaine-Boulé illustre le retard que dénonce la région.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:07-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281758/campagne-quebec2026-prefets-abitibi-temiscamingue",
+     "date": "2026-09-08T18:07-04:00",
+     "auteur": "Gabriel Poirier"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T19:33-04:00",
+   "permalien": "les-prefets-de-l-abitibi-temiscamingue-reclament-le-qua-13146e",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "les-prefets-de-l-abitibi-temiscamingue-reclament-le-qua-13146e"
+  },
+  {
+   "titre": "Ex-lobbyiste de l'eau, l'influenceur Olivier Primeau fait campagne pour la CAQ malgré des soupçons de conflit d'intérêts",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldequebec.com/2026/09/09/en-campagne-pour-la-caq--olivier-primeau-se-defend-detre-en-conflit-dinterets",
+   "resume": "Quel rôle Christine Fréchette réserve-t-elle, après le scrutin, à cet ex-lobbyiste payé pour sillonner le Québec?",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:35-04:00",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.journaldequebec.com/2026/09/09/en-campagne-pour-la-caq--olivier-primeau-se-defend-detre-en-conflit-dinterets",
+     "auteur": "Geneviève Lajoie",
+     "date": "2026-09-08T18:35-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T21:23-04:00",
+   "permalien": "ex-lobbyiste-de-l-eau-l-influenceur-olivier-primeau-fait-cam-22e3a0",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "ex-lobbyiste-de-l-eau-l-influenceur-olivier-primeau-fait-cam-22e3a0"
+  },
+  {
+   "titre": "Au Saguenay–Lac-Saint-Jean, le milieu culturel réclame des engagements fermes des candidats",
+   "cahier": "elections",
+   "rubrique": "culture",
+   "territoire": "Saguenay–Lac-Saint-Jean",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281791/elections-culture-saguenay-lac-saint-jean-candidats",
+   "resume": "Après une décennie sans indexation, artistes et diffuseurs de la région rédigent leur propre plateforme électorale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T19:05-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281791/elections-culture-saguenay-lac-saint-jean-candidats",
+     "auteur": "Philippe Marier-Verret et Johanie Bilodeau",
+     "date": "2026-09-08T19:05-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T21:23-04:00",
+   "permalien": "au-saguenaylac-saint-jean-le-milieu-culturel-reclame-des-eng-7671cd",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "au-saguenaylac-saint-jean-le-milieu-culturel-reclame-des-eng-7671cd"
+  },
+  {
+   "titre": "Le PLQ confirme la candidature de Leanne Loney dans Rouyn-Noranda–Témiscamingue",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Rouyn-Noranda–Témiscamingue)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281804/elections-quebec2026-plq-rouyn-noranda-temiscamingue",
+   "resume": "Après vingt-deux ans à enseigner et entraîner sur place, elle mise sur sa notoriété locale.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T19:25-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281804/elections-quebec2026-plq-rouyn-noranda-temiscamingue",
+     "auteur": "Boualem Hadjouti",
+     "date": "2026-09-08T19:25-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T21:23-04:00",
+   "permalien": "le-plq-confirme-la-candidature-de-leanne-loney-dans-rouyn-no-e7466d",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-plq-confirme-la-candidature-de-leanne-loney-dans-rouyn-no-e7466d"
+  },
+  {
+   "titre": "Québec solidaire propose une provision de 2 milliards $ contre les tarifs américains",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Charlevoisien, Les Affaires, Le Canada Français",
+   "url": "https://www.lecharlevoisien.com/2026/09/08/jour-13-les-repercussions-de-lescalade-commerciale-sur-le-quebec-inquietent/",
+   "resume": "Faute de réponse de Fréchette sur l'ampleur des dégâts, Ruba Ghazal propose déjà un coussin financier chiffré.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T20:34-04:00",
+   "sources": [
+    {
+     "media": "Le Charlevoisien",
+     "url": "https://www.lecharlevoisien.com/2026/09/08/jour-13-les-repercussions-de-lescalade-commerciale-sur-le-quebec-inquietent/",
+     "auteur": "Frédéric Lacroix-Couture",
+     "date": "2026-09-08T18:30-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-13-les-repercussions-de-lescalade-commerciale-sur-le-quebec-inquietent/",
+     "auteur": "Frédéric Lacroix-Couture",
+     "date": "2026-09-08T18:00-04:00"
+    },
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/jour-13-les-repercussions-de-lescalade-commerciale-sur-le-quebec-inquietent/",
+     "auteur": "Frédéric Lacroix-Couture",
+     "date": "2026-09-08T20:34-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-08T21:23-04:00",
+   "permalien": "quebec-solidaire-propose-une-provision-de-2-milliards-contre-2b9330",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "quebec-solidaire-propose-une-provision-de-2-milliards-contre-2b9330"
+  },
+  {
+   "titre": "Le PQ veut rendre les musées gratuits un dimanche par mois et doubler l'aide aux artistes",
+   "cahier": "elections",
+   "rubrique": "culture",
+   "territoire": "Québec",
+   "medias": "Journal Métro",
+   "url": "https://journalmetro.com/actualites/elections/3226761/elections-jour-13-ecoles-forets-musees-et-hopitaux/",
+   "resume": "Séduire les jeunes par les musées plutôt que par le portefeuille : le pari culturel du PQ.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T21:05-04:00",
+   "sources": [
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226761/elections-jour-13-ecoles-forets-musees-et-hopitaux/",
+     "auteur": "Maïté Paradis",
+     "date": "2026-09-08T21:05-04:00"
+    }
+   ],
+   "permalien": "le-pq-veut-rendre-les-musees-gratuits-un-dimanche-par-mois-e-4d3df4",
+   "entree": "2026-09-08T21:05-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-pq-veut-rendre-les-musees-gratuits-un-dimanche-par-mois-e-4d3df4"
+  },
+  {
+   "titre": "La CAQ promet un chantier national sur la foresterie pour réduire la dépendance aux États-Unis",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "Journal Métro",
+   "url": "https://journalmetro.com/actualites/elections/3226761/elections-jour-13-ecoles-forets-musees-et-hopitaux/",
+   "resume": "Réunir l'industrie, les régions et les Premières Nations : encore un chantier promis en campagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T21:05-04:00",
+   "sources": [
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226761/elections-jour-13-ecoles-forets-musees-et-hopitaux/",
+     "auteur": "Maïté Paradis",
+     "date": "2026-09-08T21:05-04:00"
+    }
+   ],
+   "permalien": "la-caq-promet-un-chantier-national-sur-la-foresterie-pour-re-4d3df4",
+   "entree": "2026-09-08T21:05-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "la-caq-promet-un-chantier-national-sur-la-foresterie-pour-re-4d3df4"
+  },
+  {
+   "titre": "Le PCQ promet un délai maximal garanti pour les chirurgies et veut abolir Santé Québec",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Journal Métro",
+   "url": "https://journalmetro.com/actualites/elections/3226761/elections-jour-13-ecoles-forets-musees-et-hopitaux/",
+   "resume": "Un patient trop longtemps sur une liste d'attente pourrait se faire soigner ailleurs, aux frais de l'État.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T21:05-04:00",
+   "sources": [
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226761/elections-jour-13-ecoles-forets-musees-et-hopitaux/",
+     "auteur": "Maïté Paradis",
+     "date": "2026-09-08T21:05-04:00"
+    }
+   ],
+   "permalien": "le-pcq-promet-un-delai-maximal-garanti-pour-les-chirurgies-e-4d3df4",
+   "entree": "2026-09-08T21:05-04:00",
+   "image_auto": "aucune",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-pcq-promet-un-delai-maximal-garanti-pour-les-chirurgies-e-4d3df4"
+  },
+  {
+   "titre": "Israël menace d'envahir le sud du Liban, où ses frappes se poursuivent malgré le cessez-le-feu",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Liban",
+   "medias": "Le Devoir, La Presse, TV5Monde",
+   "url": "https://www.ledevoir.com/monde/moyen-orient/1006988/israel-mene-nouvelles-frappes-meurtrieres-sud-liban",
+   "resume": "Mise à jour, 14 h 49 — Israël intensifie son offensive contre le Hezbollah et brandit désormais la menace d'une invasion terrestre.",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1006988/israel-mene-nouvelles-frappes-meurtrieres-sud-liban",
+     "date": "2026-09-07T08:45-04:00",
+     "auteur": "Mahmoud Zayyat"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-07/nouvelles-frappes-israeliennes-meurtrieres-au-liban.php",
+     "date": "2026-09-07T09:58-04:00",
+     "auteur": "Mahmoud Zayyat"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/video/liban-israel-menace-dune-invasion-2836687",
+     "date": "2026-09-08T14:49-04:00"
+    }
+   ],
+   "horodate": "2026-09-08T14:49-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "israel-poursuit-ses-frappes-dans-le-sud-du-liban-des-civils-cf206a",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T04:51-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "israel-poursuit-ses-frappes-dans-le-sud-du-liban-des-civils-cf206a"
+  },
+  {
+   "titre": "La Serbie ira aux urnes le 25 octobre, après la dissolution de son Parlement",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Serbie",
+   "medias": "Le Monde, Libération",
+   "url": "https://www.lemonde.fr/international/article/2026/09/07/serbie-le-premier-ministre-reclame-au-president-la-dissolution-de-l-assemblee-nationale_6767970_3210.html",
+   "resume": "Mise à jour, 15 h 20 — Le président Vučić confirme la date du scrutin et dissoudra l'Assemblée nationale mercredi.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/07/serbie-le-premier-ministre-reclame-au-president-la-dissolution-de-l-assemblee-nationale_6767970_3210.html",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/sous-la-pression-de-la-rue-le-premier-ministre-annonce-la-dissolution-de-lassemblee-en-serbie-20260907_HXABLFYQ7BHYDBGLK2A5GZ5IOU/",
+     "date": "2026-09-08T05:28-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/serbie-des-legislatives-anticipees-auront-lieu-le-25-octobre-annonce-le-president-qui-dissoudra-l-assemblee-mercredi_6768516_3210.html",
+     "date": "2026-09-08T15:20-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-08T15:20-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "le-premier-ministre-serbe-demande-au-president-de-dissoudre-60430a",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T04:51-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "le-premier-ministre-serbe-demande-au-president-de-dissoudre-60430a"
+  },
+  {
+   "titre": "La guerre commerciale s'intensifie : Washington interdit l'entrée de plusieurs produits canadiens",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Le Figaro, Les Échos, France 24, La Presse, InfoBref, TVA Nouvelles, Canada's National Observer, Le Journal de Montréal",
+   "url": "https://www.lefigaro.fr/conjoncture/acier-produits-laitiers-pate-a-papier-le-canada-replique-avec-de-nouveaux-droits-de-douane-contre-les-etats-unis-20260908",
+   "resume": "Mise à jour, 21 h 41 — Washington réplique en interdisant l'importation de plusieurs produits canadiens et en relevant des droits de douane.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/conjoncture/acier-produits-laitiers-pate-a-papier-le-canada-replique-avec-de-nouveaux-droits-de-douane-contre-les-etats-unis-20260908",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "Les Échos",
+     "url": "https://www.lesechos.fr/monde/ameriques/droits-de-douane-le-canada-riposte-avec-des-taxes-jusqua-50-face-aux-etats-unis-2250266",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260908-acier-produits-laitiers-%C3%A9lectronique-conflit-commercial-avec-washington-la-riposte-du-canada-entre-en-vigueur",
+     "date": "2026-09-08T05:28-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-07/guerre-commerciale/la-riposte-canadienne-doit-entrer-en-vigueur-a-minuit.php",
+     "auteur": "Chloé Bourquin",
+     "date": "2026-09-07T09:00-04:00"
+    },
+    {
+     "media": "InfoBref",
+     "url": "https://infobref.com/riposte-tarifaire-canadienne-2026-09/",
+     "auteur": "Johanna Sabys",
+     "date": "2026-09-07T21:32-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/07/la-guerre-tarifaire-pourrait-avoir-des-repercussions-moins-importantes-que-certains-le-pensaient-explique-un-economiste",
+     "auteur": "Nathan Décarie",
+     "date": "2026-09-07T18:28-04:00"
+    },
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/08/news/trump-ramps-trade-dispute-against-canada-banning-imports-booze-other-products",
+     "auteur": "Kelly Geraldine Malone",
+     "date": "2026-09-08T19:51-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/08/trump-lance-une-nouvelle-salve-de-tarifs-douaniers-contre-le-canada",
+     "date": "2026-09-08T20:13-04:00",
+     "auteur": "Agence QMI et Agence France-Presse"
+    }
+   ],
+   "horodate": "2026-09-08T21:41-04:00",
+   "photo": "",
+   "legende": "",
+   "permalien": "la-riposte-tarifaire-canadienne-contre-les-etats-unis-entre-08ad25",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T09:31-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "la-riposte-tarifaire-canadienne-contre-les-etats-unis-entre-08ad25"
+  },
+  {
+   "titre": "Les contre-tarifs canadiens contre les États-Unis sont entrés en vigueur cette nuit",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Le Devoir, Radio-Canada, Les Affaires, La Presse, Global News",
+   "url": "https://www.ledevoir.com/economie/1007081/contre-tarifs-douaniers-canadiens-entrent-vigueur-mardi",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1007081/contre-tarifs-douaniers-canadiens-entrent-vigueur-mardi",
+     "auteur": "Mathilde Beaulieu-Lépine",
+     "date": "2026-09-07T15:00-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281350/fete-travail-tarifs-travailleurs",
+     "date": "2026-09-07T15:11-04:00",
+     "auteur": "Pierre Chapdelaine de Montvalon"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/manufacturier/acier-et-aluminium-cadres-de-portes-et-de-fenetres-echafaudages-voici-les-produits-cibles-par-les-contre-tarifs/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-07T19:10-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281429/bombardier-contre-tarifs-quebec-paie-cher",
+     "auteur": "Gérald Fillion",
+     "date": "2026-09-08T04:00-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-08/guerre-commerciale/le-canada-devait-repliquer-aux-droits-de-douane-americains-selon-mark-carney.php",
+     "date": "2026-09-08T09:12-04:00",
+     "auteur": "Mathieu Paquette"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12050675/donald-trump-tariffs-canada-retaliation/",
+     "date": "2026-09-08T10:15-04:00",
+     "auteur": "Ariel Rabinovitch"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281641/entreprises-beauce-quebec-consequences-contre-tarifs",
+     "date": "2026-09-08T14:13-04:00",
+     "auteur": "Marie-Christine Gagnon"
+    }
+   ],
+   "resume": "Mise à jour, 14 h 13 — Des chefs d'entreprise à Beauce et ailleurs au Québec redoutent déjà des pertes liées à la riposte.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:13-04:00",
+   "permalien": "les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T11:40-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "les-contre-tarifs-canadiens-contre-les-etats-unis-entrent-en-464a8a"
+  },
+  {
+   "titre": "La Russie recommence à bombarder Kiev après une accalmie de trois jours, tandis que la diplomatie américaine s'active",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Kyiv (Ukraine)",
+   "medias": "Radio-Canada, France 24, Ukrinform, Le Parisien, Libération, La Presse, Interfax-Ukraine, Al Jazeera",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
+   "resume": "Mise à jour, 16 h 56 — Le bilan grimpe à 35 blessés et 5 morts, contre 26 et 3 quelques heures plus tôt.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:56-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281443/reprise-attaques-russes-kiev-treve",
+     "date": "2026-09-07T20:01-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/europe/20260908-en-direct-ukraine-russie-reprend-frappes-kiev-apres-trois-jours-treve",
+     "auteur": "FRANCE 24",
+     "date": "2026-09-07T21:27-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4161812-ukraine-wants-to-use-september-and-october-to-resume-negotiations-zelensky.html",
+     "date": "2026-09-07T20:15-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/ukraine/une-desescalade-cet-hiver-les-espoirs-de-volodymyr-zelensky-au-sujet-de-linvasion-russe-en-ukraine-08-09-2026-RHR7MT53Z5EZFB655AM7ZUW3XQ.php",
+     "date": "2026-09-07T23:43-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/la-russie-reprend-ses-frappes-sur-kyiv-apres-trois-jours-de-treve-zelensky-evoque-une-possible-desescalade-cet-hiver-20260908_JJUSFCLL3JGURJFIQBVVMMKCSY/",
+     "auteur": "AFP",
+     "date": "2026-09-08T03:04-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/europe/2026-09-07/guerre-en-ukraine/la-russie-reprend-ses-frappes-sur-kyiv-apres-trois-jours-de-treve.php",
+     "date": "2026-09-07T23:58-04:00",
+     "auteur": "Florent Vergnes"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4162025-three-killed-19-injured-in-russian-attack-on-kyiv.html",
+     "date": "2026-09-08T08:44-04:00"
+    },
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1200520.html",
+     "date": "2026-09-08T08:44-04:00"
+    },
+    {
+     "media": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1200644.html",
+     "date": "2026-09-08T08:56-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4162119-injury-toll-in-russian-attack-on-kyiv-rises-to-26-three-killed.html",
+     "date": "2026-09-08T10:25-04:00"
+    },
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4162242-injury-toll-from-russian-strikes-on-kyiv-rises-to-35-five-dead.html",
+     "date": "2026-09-08T16:56-04:00"
+    },
+    {
+     "media": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends",
+     "date": "2026-09-08T14:34-04:00",
+     "auteur": "Agence France-Presse et Reuters"
+    }
+   ],
+   "permalien": "la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T11:40-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "la-russie-recommence-a-bombarder-kiev-apres-une-accalmie-de-c65344"
+  },
+  {
+   "titre": "En visite à Laval, Milliard s'engage à agrandir et moderniser la Cité-de-la-Santé",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec (Laval)",
+   "medias": "Les Affaires, Courrier Laval",
+   "url": "https://www.lesaffaires.com/secteurs/politique/jour-12-milliard-veut-prioriser-lagrandissement-et-la-modernisation-du-seul-hopital-de-laval/",
+   "resume": "Mise à jour, 18 h — Le recul du parti dans les sondages fragilise déjà trois des six comtés lavallois visés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:53-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-12-milliard-veut-prioriser-lagrandissement-et-la-modernisation-du-seul-hopital-de-laval/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-07T14:22-04:00"
+    },
+    {
+     "media": "Courrier Laval",
+     "url": "https://courrierlaval.com/agrandissement-cite-sante-premier-mandat-promet-charles-milliard/",
+     "date": "2026-09-08T18:53-04:00",
+     "auteur": "Stéphane St-Amour"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "en-visite-a-laval-milliard-agrandir-moderniser-cite-de-la-sante",
+   "entree": "2026-09-07T14:22-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "en-visite-a-laval-milliard-agrandir-moderniser-cite-de-la-sante"
+  },
+  {
+   "titre": "Un cargo d'Amazon quitte la piste en flammes à l'aéroport de Miami : au moins cinq morts",
+   "cahier": "international",
+   "rubrique": "transport",
+   "territoire": "Miami (Floride)",
+   "medias": "20 Minutes, Europe 1, France 24, Global News, La Presse, Le Figaro, Le Parisien, Le Soleil, Ouest-France, Radio-Canada, TV5MONDE, The Verge, franceinfo, Le Dauphiné Libéré",
+   "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-06/miami/un-avion-cargo-d-amazon-sort-de-piste-et-percute-plusieurs-vehicules.php",
+     "auteur": "Associated Press",
+     "date": "2026-09-06T16:04-04:00"
+    },
+    {
+     "media": "Europe 1",
+     "url": "https://www.europe1.fr/international/etats-unis-un-avion-cargo-sort-de-piste-a-miami-et-percute-des-vehicules-1059551",
+     "auteur": "AFP",
+     "date": "2026-09-06T15:57-04:00"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/etats-unis/etats-unis-un-avion-cargo-sort-de-piste-a-miami-et-percute-des-vehicules-effbdf1c-aa2a-11f1-a3f7-c4f38a0eaa1c",
+     "date": "2026-09-06T15:55-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/affaires/2026/09/06/un-avion-d-amazon-sort-de-la-piste-d-atterrissage-et-percute-des-vehicules-a-miami-UOI3BA5QSFDZNMFVVIFTB7YV3U/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-06T16:13-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+     "auteur": "Terrence O'Brien",
+     "date": "2026-09-06T16:56-04:00"
+    },
+    {
+     "media": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international/etats-unis-a-miami-un-avion-cargo-sort-de-piste-et-percute-des-vehicules-20260906",
+     "date": "2026-09-06T21:05-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260906-un-avion-cargo-d-amazon-sort-de-piste-%C3%A0-miami-cinq-morts-et-cinq-bless%C3%A9s",
+     "date": "2026-09-06T21:05-04:00"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/ce-que-lon-sait-de-laccident-dun-avion-cargo-damazon-sorti-de-piste-miami-qui-fait-au-moins-5-morts-2836452",
+     "date": "2026-09-07T02:19-04:00",
+     "auteur": "Pascale Veysset"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/un-avion-cargo-d-amazon-sort-de-piste-et-fait-5-morts-a-miami_8180492.html",
+     "date": "2026-09-07T02:25-04:00"
+    },
+    {
+     "media": "20 Minutes",
+     "url": "https://www.20minutes.fr/monde/etats-unis/4243070-20260907-etats-unis-morts-atterrissage-rate-sait-accident-avion-cargo-amazon",
+     "date": "2026-09-06T22:50-04:00",
+     "auteur": "Xavier Moulinot"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/etats-unis/2026-09-07/miami/une-enquete-federale-ouverte-apres-l-accident-mortel-d-un-avion-cargo-d-amazon.php",
+     "date": "2026-09-07T14:00-04:00",
+     "auteur": "Associated Press"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/usa/le-crash-spectaculaire-d-un-avion-cargo-d-amazon_8181719.html",
+     "date": "2026-09-07T16:00-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12050224/miami-amazon-plane-crash-ntsb-update/",
+     "auteur": "Sean Previl",
+     "date": "2026-09-07T17:21-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281720/victimes-accident-amazon-aeroport-miami-camionnette",
+     "date": "2026-09-08T16:05-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/victimes-dans-les-vehicules-vitesse-trop-elevee-lenquete-sur-lavion-cargo-damazon-accidente-a-miami-avance-la-boite-noire-recuperee-08-09-2026-R5P75CWQJRFK3OFZXWPODPQK2E.php",
+     "date": "2026-09-07T19:10-04:00"
+    },
+    {
+     "media": "Le Dauphiné Libéré",
+     "url": "https://www.ledauphine.com/faits-divers-justice/2026/09/08/avion-cargo-d-amazon-sorti-de-piste-a-miami-la-boite-noire-recuperee-l-enquete-se-poursuit",
+     "date": "2026-09-08T02:10-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Mise à jour, 20 h 04 — Les cinq victimes prenaient place dans une camionnette de nettoyage sur le tarmac.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:27-04:00",
+   "permalien": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T02:10-04:00",
+   "_volet": "report",
+   "_fichier": "revue-report-2026-09-09.json",
+   "_slug": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259"
+  }
+ ]
+}
