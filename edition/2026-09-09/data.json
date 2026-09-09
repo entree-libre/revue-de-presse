@@ -1180,6 +1180,64 @@
    "_slug": "charles-milliard-se-dit-favorable-au-maintien-de-la-traverse-5bd6e6"
   },
   {
+   "titre": "Le PCQ dépose un cadre financier de près de 100 pages visant l'équilibre budgétaire en 2029-2030",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Parti conservateur du Québec",
+   "url": "https://conservateur.quebec/blog/ressources/cadre-financier-le-pcq-presente-un-plan-credible-de-retour-a-lequilibre-budgetaire/",
+   "resume": "Duhaime chiffre chaque engagement et met la CAQ au défi de dévoiler le sien avant les débats.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T08:58-04:00",
+   "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/cadre-financier-le-pcq-presente-un-plan-credible-de-retour-a-lequilibre-budgetaire/",
+     "date": "2026-09-09T09:00-04:00",
+     "date_origine": "journal"
+    }
+   ],
+   "permalien": "le-pcq-depose-un-cadre-financier-de-pres-de-100-pages-visant-332b95",
+   "entree": "2026-09-09T08:58-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "le-pcq-depose-un-cadre-financier-de-pres-de-100-pages-visant-332b95"
+  },
+  {
+   "titre": "Une demande d'injonction vise à rétablir l'anglais dans les envois électoraux du Québec",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Montreal Gazette, CTV News Montreal",
+   "url": "https://montrealgazette.com/quebec-elections/quebec-french-only-election-mailouts-injunction-request-anglophones/",
+   "resume": "Un ex-président de TALQ demande aux tribunaux de forcer l'envoi des documents électoraux aussi en anglais.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:29-04:00",
+   "sources": [
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/quebec-elections/quebec-french-only-election-mailouts-injunction-request-anglophones/",
+     "auteur": "Kalina Laframboise",
+     "date": "2026-09-09T09:00-04:00",
+     "date_origine": "journal"
+    },
+    {
+     "media": "CTV News Montreal",
+     "url": "https://montreal.ctvnews.ca/montreal/article/lawsuit-filed-over-french-only-quebec-election-voting-mailouts/",
+     "auteur": "Robin Della Corte",
+     "date": "2026-09-09T09:00-04:00",
+     "date_origine": "journal"
+    }
+   ],
+   "permalien": "une-demande-d-injonction-vise-a-retablir-l-anglais-dans-les-410f04",
+   "entree": "2026-09-08T18:29-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "une-demande-d-injonction-vise-a-retablir-l-anglais-dans-les-410f04"
+  },
+  {
    "titre": "L'Arabie saoudite promet de riposter après une attaque houthie d'ampleur inédite sur son territoire",
    "cahier": "international",
    "rubrique": "conflits",
