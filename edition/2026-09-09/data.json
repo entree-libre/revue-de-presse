@@ -4,6 +4,7 @@
   "continu",
   "elections",
   "hors-rss",
+  "local",
   "monde",
   "presse-regionale",
   "quebec-canada",
@@ -1938,7 +1939,7 @@
    "cahier": "elections",
    "rubrique": "sante",
    "territoire": "Québec",
-   "medias": "Le Devoir",
+   "medias": "Le Devoir, Coops de l'information",
    "url": "https://www.ledevoir.com/politique/quebec/1007498/plq-veut-sevir-contre-plateformes-jeu-ligne",
    "sources": [
     {
@@ -1946,6 +1947,36 @@
      "url": "https://www.ledevoir.com/politique/quebec/1007498/plq-veut-sevir-contre-plateformes-jeu-ligne",
      "auteur": "Isabelle Porter",
      "date": "2026-09-09T06:21-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/09/milliard-veut-sattaquer-aux-plateformes-de-jeux-et-paris-en-ligne-WYDJOWYNZ5BC3LSWFRLDXTFDRM/",
+     "date": "2026-09-09T10:54-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/09/milliard-veut-sattaquer-aux-plateformes-de-jeux-et-paris-en-ligne-WYDJOWYNZ5BC3LSWFRLDXTFDRM/",
+     "date": "2026-09-09T10:54-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/09/milliard-veut-sattaquer-aux-plateformes-de-jeux-et-paris-en-ligne-WYDJOWYNZ5BC3LSWFRLDXTFDRM/",
+     "date": "2026-09-09T10:54-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/09/milliard-veut-sattaquer-aux-plateformes-de-jeux-et-paris-en-ligne-WYDJOWYNZ5BC3LSWFRLDXTFDRM/",
+     "date": "2026-09-09T10:54-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/09/milliard-veut-sattaquer-aux-plateformes-de-jeux-et-paris-en-ligne-WYDJOWYNZ5BC3LSWFRLDXTFDRM/",
+     "date": "2026-09-09T10:54-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/09/milliard-veut-sattaquer-aux-plateformes-de-jeux-et-paris-en-ligne-WYDJOWYNZ5BC3LSWFRLDXTFDRM/",
+     "date": "2026-09-09T10:54-04:00"
     }
    ],
    "resume": "Un régulateur des courses et des paris pourrait bientôt surveiller aussi les jeunes qui jouent en ligne.",
@@ -1990,7 +2021,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Parti conservateur du Québec, Coops de l'information",
+   "medias": "Parti conservateur du Québec, Coops de l'information, Le Devoir, Les Affaires",
    "url": "https://conservateur.quebec/blog/ressources/cadre-financier-le-pcq-presente-un-plan-credible-de-retour-a-lequilibre-budgetaire/",
    "resume": "Duhaime chiffre chaque engagement et met la CAQ au défi de dévoiler le sien avant les débats.",
    "photo": "",
@@ -2038,6 +2069,17 @@
      "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/09/le-parti-conservateur-detaille-son-cadre-financier-L4QJAQ2PS5GVNLCNRJ3FUQQ3WA/",
      "auteur": "Juliette Nadeau-Besse",
      "date": "2026-09-09T08:59-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007573/duhaime-presente-cadre-financier-prevoyant-coupures-incidence-services",
+     "auteur": "Léo Mercier-Ross",
+     "date": "2026-09-09T10:44-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/politique/jour-14-le-pcq-prevoit-economiser-47g-en-5-ans/",
+     "date": "2026-09-09T10:38-04:00"
     }
    ],
    "permalien": "le-pcq-depose-un-cadre-financier-de-pres-de-100-pages-visant-332b95",
@@ -2225,7 +2267,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "La Presse, Les Affaires",
+   "medias": "La Presse, Les Affaires, Le Devoir",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/infrastructures/christine-frechette-relancerait-les-partenariats-public-prive.php",
    "resume": "Le CHUM, le CUSM et leurs scandales de corruption planent sur cette nouvelle promesse électorale.",
    "photo": "",
@@ -2243,6 +2285,12 @@
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-14-la-caq-veut-simplifier-et-reduire-le-cout-de-la-construction-dinfrastructures/",
      "auteur": "La Presse Canadienne",
      "date": "2026-09-09T09:45-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007606/christine-frechette-presente-capitaine-quebec-capable-traverser-tempete",
+     "auteur": "Sébastien Tanguay",
+     "date": "2026-09-09T10:00-04:00"
     }
    ],
    "permalien": "la-caq-veut-retenter-les-ppp-pour-batir-ecoles-et-hopitaux-m-8226f1",
@@ -2277,6 +2325,383 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "le-plq-chiffre-a-12-000-postes-de-fonctionnaires-la-reductio-06c507"
+  },
+  {
+   "titre": "La CAQ propose aux forestières de la Côte-Nord un pacte de concertation régionale",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec (Côte-Nord)",
+   "medias": "Le Haute Côte-Nord, Le Manic, Le Nord-Côtier",
+   "url": "https://www.journalhcn.com/2026/09/09/elections-2026-les-candidats-caquistes-de-la-cote-nord-promettent-un-pacte-forestier/",
+   "resume": "Deux candidats caquistes offrent aux communautés forestières nord-côtières une place à la table des décisions.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T10:24-04:00",
+   "sources": [
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/09/elections-2026-les-candidats-caquistes-de-la-cote-nord-promettent-un-pacte-forestier/",
+     "auteur": "Karianne Nepton-Philippe",
+     "date": "2026-09-09T10:24-04:00"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/09/elections-2026-les-candidats-caquistes-de-la-cote-nord-promettent-un-pacte-forestier/",
+     "auteur": "Karianne Nepton-Philippe",
+     "date": "2026-09-09T10:24-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/09/elections-2026-les-candidats-caquistes-de-la-cote-nord-promettent-un-pacte-forestier/",
+     "auteur": "Karianne Nepton-Philippe",
+     "date": "2026-09-09T10:24-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-caq-propose-aux-forestieres-de-la-cote-nord-un-pacte-de-c-786571",
+   "entree": "2026-09-09T10:24-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "la-caq-propose-aux-forestieres-de-la-cote-nord-un-pacte-de-c-786571"
+  },
+  {
+   "titre": "Le regroupement des bassins versants somme les cinq partis d'agir sur l'eau",
+   "cahier": "elections",
+   "rubrique": "environnement",
+   "territoire": "Québec",
+   "medias": "Le Haute Côte-Nord, Le Manic, Le Nord-Côtier",
+   "url": "https://www.journalhcn.com/2026/09/09/les-obv-veulent-faire-de-la-gestion-de-leau-un-enjeu-electoral/",
+   "resume": "Avant le 5 octobre, les gardiens de l'eau du Québec réclament un engagement clair des cinq partis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T10:52-04:00",
+   "sources": [
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/09/les-obv-veulent-faire-de-la-gestion-de-leau-un-enjeu-electoral/",
+     "auteur": "Léo Langlois",
+     "date": "2026-09-09T10:52-04:00"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/09/les-obv-veulent-faire-de-la-gestion-de-leau-un-enjeu-electoral/",
+     "auteur": "Léo Langlois",
+     "date": "2026-09-09T10:52-04:00"
+    },
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/09/les-obv-veulent-faire-de-la-gestion-de-leau-un-enjeu-electoral/",
+     "auteur": "Léo Langlois",
+     "date": "2026-09-09T10:52-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-regroupement-des-bassins-versants-somme-les-cinq-partis-d-354279",
+   "entree": "2026-09-09T10:52-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "le-regroupement-des-bassins-versants-somme-les-cinq-partis-d-354279"
+  },
+  {
+   "titre": "Charles Milliard presse Ottawa et Washington de reprendre les négociations tarifaires",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/guerre-commerciale/il-faut-negocier-presse-charles-milliard.php",
+   "resume": "Charles Milliard redoute une récession québécoise si la surenchère tarifaire avec Washington ne s'arrête pas.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T11:09-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/guerre-commerciale/il-faut-negocier-presse-charles-milliard.php",
+     "auteur": "Hugo Pilon-Larose",
+     "date": "2026-09-09T11:09-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "charles-milliard-presse-ottawa-et-washington-de-reprendre-le-52e991",
+   "entree": "2026-09-09T11:09-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "charles-milliard-presse-ottawa-et-washington-de-reprendre-le-52e991"
+  },
+  {
+   "titre": "À Chapleau, un candidat conservateur avait relayé des publications complotistes et une caricature de Trudeau en Hitler",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Chapleau)",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/trudeau-en-hitler-theses-anti-vaccins/un-autre-candidat-conservateur-rattrape-par-ses-publications.php",
+   "resume": "Ce candidat s'ajoute à une liste déjà longue de dérapages chez les conservateurs cette campagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T10:16-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/trudeau-en-hitler-theses-anti-vaccins/un-autre-candidat-conservateur-rattrape-par-ses-publications.php",
+     "auteur": "Hugo Joncas, Charles Lecavalier",
+     "date": "2026-09-09T10:16-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "a-chapleau-un-candidat-conservateur-avait-relaye-des-publica-a1aeac",
+   "entree": "2026-09-09T10:16-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "a-chapleau-un-candidat-conservateur-avait-relaye-des-publica-a1aeac"
+  },
+  {
+   "titre": "Le FRAPRU juge insuffisants les engagements des partis en matière de logement social",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/les-engagements-concrets-pour-lutter-contre-linabordabilite-du-logement-se-font-attendre/",
+   "resume": "Ce soir, cinq chefs en débat, mais seulement deux partis ont chiffré leurs engagements en logement social.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T10:16-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/les-engagements-concrets-pour-lutter-contre-linabordabilite-du-logement-se-font-attendre/",
+     "date": "2026-09-09T10:16-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-frapru-juge-insuffisants-les-engagements-des-partis-en-ma-85d854",
+   "entree": "2026-09-09T10:16-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "le-frapru-juge-insuffisants-les-engagements-des-partis-en-ma-85d854"
+  },
+  {
+   "titre": "L'Ordre des pharmaciens réclame le pouvoir d'aiguiller lui-même ses patients vers une clinique",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/demandes-d-engagement-electoral/les-pharmaciens-veulent-pouvoir-diriger-les-patients-vers-les-cliniques-medicales.php",
+   "resume": "Faute d'un aiguillage direct, un patient sans médecin doit aujourd'hui repartir de zéro à l'urgence.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T10:53-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/demandes-d-engagement-electoral/les-pharmaciens-veulent-pouvoir-diriger-les-patients-vers-les-cliniques-medicales.php",
+     "auteur": "Marie-Eve Cousineau",
+     "date": "2026-09-09T10:53-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "l-ordre-des-pharmaciens-reclame-le-pouvoir-d-aiguiller-lui-m-5c5815",
+   "entree": "2026-09-09T10:53-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "l-ordre-des-pharmaciens-reclame-le-pouvoir-d-aiguiller-lui-m-5c5815"
+  },
+  {
+   "titre": "Le Parti libéral complète son équipe de candidats au Saguenay–Lac-Saint-Jean",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Saguenay–Lac-Saint-Jean)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281952/liberaux-candidats-dubuc-chicoutimi-plq",
+   "resume": "Le Parti libéral aligne enfin ses quatre derniers noms pour le Saguenay–Lac-Saint-Jean au complet.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T10:55-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281952/liberaux-candidats-dubuc-chicoutimi-plq",
+     "auteur": "Roby St-Gelais",
+     "date": "2026-09-09T10:55-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-parti-liberal-complete-son-equipe-de-candidats-au-saguena-3d3678",
+   "entree": "2026-09-09T10:55-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "le-parti-liberal-complete-son-equipe-de-candidats-au-saguena-3d3678"
+  },
+  {
+   "titre": "La CAQ rouvre la porte aux ministres dans ses cocktails de financement",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/cocktails-de-financement-de-la-caq/christine-frechette-favorable-a-la-presence-de-ministres.php",
+   "resume": "Fréchette jure qu'un don de 100 dollars n'achète l'oreille de personne au gouvernement.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T10:59-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/cocktails-de-financement-de-la-caq/christine-frechette-favorable-a-la-presence-de-ministres.php",
+     "auteur": "Tommy Chouinard",
+     "date": "2026-09-09T10:59-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-caq-rouvre-la-porte-aux-ministres-dans-ses-cocktails-de-f-11c955",
+   "entree": "2026-09-09T10:59-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "la-caq-rouvre-la-porte-aux-ministres-dans-ses-cocktails-de-f-11c955"
+  },
+  {
+   "titre": "Le Parti québécois promet un congé de TVQ pouvant atteindre 45 000 $ aux premiers acheteurs",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "La Presse, Le Devoir, Coops de l'information",
+   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/achat-de-maisons-neuves/le-pq-rembourserait-la-tvq-jusqu-a-45-000.php",
+   "resume": "De quoi faire pencher la balance pour les jeunes familles qui rêvent d'une première maison.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T11:52-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/achat-de-maisons-neuves/le-pq-rembourserait-la-tvq-jusqu-a-45-000.php",
+     "auteur": "Fanny Lévesque",
+     "date": "2026-09-09T11:52-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007603/pspp-refuse-parler-alliances-coalitions",
+     "auteur": "Isabelle Porter",
+     "date": "2026-09-09T11:47-04:00"
+    },
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/09/le-pq-veut-stimuler-la-construction-neuve-pour-rendre-les-maisons-plus-abordables-R7SPEDTHV5HMZJ2H65JJVV7DZI/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-09T11:19-04:00"
+    },
+    {
+     "media": "La Tribune",
+     "url": "https://www.latribune.ca/elections-provinciales-2026/2026/09/09/le-pq-veut-stimuler-la-construction-neuve-pour-rendre-les-maisons-plus-abordables-R7SPEDTHV5HMZJ2H65JJVV7DZI/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-09T11:19-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/09/le-pq-veut-stimuler-la-construction-neuve-pour-rendre-les-maisons-plus-abordables-R7SPEDTHV5HMZJ2H65JJVV7DZI/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-09T11:19-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/09/le-pq-veut-stimuler-la-construction-neuve-pour-rendre-les-maisons-plus-abordables-R7SPEDTHV5HMZJ2H65JJVV7DZI/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-09T11:19-04:00"
+    },
+    {
+     "media": "Le Droit",
+     "url": "https://www.ledroit.com/elections-provinciales-2026/2026/09/09/le-pq-veut-stimuler-la-construction-neuve-pour-rendre-les-maisons-plus-abordables-R7SPEDTHV5HMZJ2H65JJVV7DZI/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-09T11:19-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/09/le-pq-veut-stimuler-la-construction-neuve-pour-rendre-les-maisons-plus-abordables-R7SPEDTHV5HMZJ2H65JJVV7DZI/",
+     "auteur": "Rémi Léonard",
+     "date": "2026-09-09T11:19-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-parti-quebecois-promet-un-conge-de-tvq-pouvant-atteindre-336d63",
+   "entree": "2026-09-09T11:52-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "le-parti-quebecois-promet-un-conge-de-tvq-pouvant-atteindre-336d63"
+  },
+  {
+   "titre": "Le ministre sortant de la Sécurité intérieure n'exclut pas une tentative d'ingérence électorale",
+   "cahier": "elections",
+   "rubrique": "justice",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2281940/ingerence-etrangere-elections-lafreniere-securite",
+   "resume": "Le ministre responsable de la sécurité n'a même pas l'habilitation nécessaire pour le savoir.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T11:45-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281940/ingerence-etrangere-elections-lafreniere-securite",
+     "auteur": "Véronique Prince",
+     "date": "2026-09-09T11:45-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-ministre-sortant-de-la-securite-interieure-n-exclut-pas-u-be5bac",
+   "entree": "2026-09-09T11:45-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "le-ministre-sortant-de-la-securite-interieure-n-exclut-pas-u-be5bac"
+  },
+  {
+   "titre": "Paul St-Pierre Plamondon refuse de spéculer sur un gouvernement minoritaire du PQ",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1007603/pspp-refuse-parler-alliances-coalitions",
+   "resume": "En tête des sondages mais sans majorité assurée, trois chefs spéculent déjà sur l'après-scrutin.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T11:47-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007603/pspp-refuse-parler-alliances-coalitions",
+     "auteur": "Isabelle Porter",
+     "date": "2026-09-09T11:47-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "paul-st-pierre-plamondon-refuse-de-speculer-sur-un-gouvernem-1dcfc6",
+   "entree": "2026-09-09T11:47-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "paul-st-pierre-plamondon-refuse-de-speculer-sur-un-gouvernem-1dcfc6"
+  },
+  {
+   "titre": "Fréchette se dit la mieux placée pour piloter le Québec dans la guerre commerciale",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1007606/christine-frechette-presente-capitaine-quebec-capable-traverser-tempete",
+   "resume": "Cinq mois aux commandes suffiraient à en faire la capitaine toute désignée pour la tempête tarifaire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T11:49-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007606/christine-frechette-presente-capitaine-quebec-capable-traverser-tempete",
+     "auteur": "Sébastien Tanguay",
+     "date": "2026-09-09T11:49-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "frechette-se-dit-la-mieux-placee-pour-piloter-le-quebec-dans-1197a6",
+   "entree": "2026-09-09T11:49-04:00",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "frechette-se-dit-la-mieux-placee-pour-piloter-le-quebec-dans-1197a6"
   },
   {
    "titre": "Québec exige 15 % de matériaux d'ici dans les chantiers des municipalités",
@@ -2529,6 +2954,337 @@
    "_volet": "hors-rss",
    "_fichier": "revue-hors-rss-2026-09-09.json",
    "_slug": "pierrefonds-roxboro-dit-avoir-ralenti-les-automobilistes-pre-e81660"
+  },
+  {
+   "titre": "Vaudreuil-Soulanges presse Québec de compléter l'autoroute 20, inachevée depuis 60 ans",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Vaudreuil-Dorion (Montérégie)",
+   "medias": "MRC de Vaudreuil-Soulanges",
+   "url": "https://mrcvs.ca/a-20-inachevee/",
+   "resume": "Un tronçon de sept kilomètres qui manque depuis six décennies, et une facture qui s'alourdit chaque année.",
+   "sources": [
+    {
+     "media": "MRC de Vaudreuil-Soulanges",
+     "url": "https://mrcvs.ca/a-20-inachevee/",
+     "auteur": "Marie-Eve Gingras-Gosselin",
+     "date": "2026-09-08T14:02-04:00"
+    }
+   ],
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T14:02-04:00",
+   "permalien": "vaudreuil-soulanges-presse-quebec-de-completer-l-autoroute-2-356bdf",
+   "entree": "2026-09-09T00:00-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "vaudreuil-soulanges-presse-quebec-de-completer-l-autoroute-2-356bdf"
+  },
+  {
+   "titre": "Drummondville sécurise un carrefour accidentogène avec un terre-plein et de nouveaux feux",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Drummondville (Centre-du-Québec)",
+   "medias": "Ville de Drummondville",
+   "url": "https://www.drummondville.ca/le-conseil-en-action-lintersection-robert-bernard-et-rene-levesque-sera-securisee-cet-automne/",
+   "resume": "Des collisions répétées ont convaincu le conseil d'ajouter un terre-plein et des feux mieux synchronisés.",
+   "sources": [
+    {
+     "media": "Ville de Drummondville",
+     "url": "https://www.drummondville.ca/le-conseil-en-action-lintersection-robert-bernard-et-rene-levesque-sera-securisee-cet-automne/",
+     "auteur": "Étienne Béland",
+     "date": "2026-09-08T19:26-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Route_122_%28Drummondville%29.jpg/1280px-Route_122_%28Drummondville%29.jpg",
+   "legende": "Une route à Drummondville.",
+   "photo_auteur": "Vintotal",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-09-08T19:26-04:00",
+   "permalien": "drummondville-securise-un-carrefour-accidentogene-avec-un-te-7d8c8c",
+   "entree": "2026-09-08T19:26-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "drummondville-securise-un-carrefour-accidentogene-avec-un-te-7d8c8c"
+  },
+  {
+   "titre": "Drummondville réduit son état-major à deux directions générales adjointes avant l'arrivée d'un nouveau DG",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Drummondville (Centre-du-Québec)",
+   "medias": "Ville de Drummondville",
+   "url": "https://www.drummondville.ca/nouvelle-structure-administrative-a-la-ville-de-drummondville/",
+   "resume": "Une ville qui vise 100 000 habitants revoit d'abord sa chaîne de commandement.",
+   "sources": [
+    {
+     "media": "Ville de Drummondville",
+     "url": "https://www.drummondville.ca/nouvelle-structure-administrative-a-la-ville-de-drummondville/",
+     "auteur": "Étienne Béland",
+     "date": "2026-09-08T19:29-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Drummondville%2C_Quebec.jpg/1280px-Drummondville%2C_Quebec.jpg",
+   "legende": "Drummondville.",
+   "photo_auteur": "Quintin Soloviev",
+   "photo_licence": "CC BY 4.0",
+   "horodate": "2026-09-08T19:29-04:00",
+   "permalien": "drummondville-reduit-son-etat-major-a-deux-directions-genera-9bd3aa",
+   "entree": "2026-09-08T19:29-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "drummondville-reduit-son-etat-major-a-deux-directions-genera-9bd3aa"
+  },
+  {
+   "titre": "Drummondville abandonne son projet pilote de circulation des véhicules hors route dans Saint-Charles",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Drummondville (Centre-du-Québec)",
+   "medias": "Ville de Drummondville, RIM",
+   "url": "https://www.drummondville.ca/la-ville-met-fin-au-projet-pilote/",
+   "resume": "Deux ans d'essai plus tard, la cohabitation espérée entre résidents et amateurs de VHR n'a pas convaincu.",
+   "sources": [
+    {
+     "media": "Ville de Drummondville",
+     "url": "https://www.drummondville.ca/la-ville-met-fin-au-projet-pilote/",
+     "auteur": "Étienne Béland",
+     "date": "2026-09-08T19:33-04:00"
+    },
+    {
+     "media": "RIM",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/mobilite/69/1217308/circulation-de-vehicules-hors-route-dans-le-secteur-saint-charles-la-ville-met-fin-au-projet-pilote.html",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Drummondville.jpg/1280px-Drummondville.jpg",
+   "legende": "Le secteur Saint-Charles, à Drummondville.",
+   "photo_auteur": "abdallahh",
+   "photo_licence": "CC BY 2.0",
+   "horodate": "2026-09-09T00:00-04:00",
+   "permalien": "drummondville-abandonne-son-projet-pilote-de-circulation-des-9c3568",
+   "entree": "2026-09-09T00:00-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "drummondville-abandonne-son-projet-pilote-de-circulation-des-9c3568"
+  },
+  {
+   "titre": "Montréal teste ses réaménagements de rues dans un jumeau numérique avant de creuser",
+   "cahier": "montreal",
+   "rubrique": "transport",
+   "territoire": "Montréal",
+   "medias": "Ville de Montréal",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/technologie/71/1217179/le-projet-titans-utilise-un-jumeau-numerique-fonde-sur-les-sig-et-la-realite-virtuelle-pour-planifier-une-mobilite-urbaine-plus-sure-et-plus-intelligente.html",
+   "resume": "Casques de réalité virtuelle et double numérique du réseau routier, pour éviter les erreurs coûteuses sur le terrain.",
+   "sources": [
+    {
+     "media": "Ville de Montréal",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/technologie/71/1217179/le-projet-titans-utilise-un-jumeau-numerique-fonde-sur-les-sig-et-la-realite-virtuelle-pour-planifier-une-mobilite-urbaine-plus-sure-et-plus-intelligente.html",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/H%C3%B4tel_de_Ville_de_Montr%C3%A9al%2C_juin_2024.jpg/1280px-H%C3%B4tel_de_Ville_de_Montr%C3%A9al%2C_juin_2024.jpg",
+   "legende": "L'hôtel de ville de Montréal.",
+   "photo_auteur": "Pierre5018",
+   "photo_licence": "CC BY 4.0",
+   "horodate": "2026-09-09T00:00-04:00",
+   "permalien": "montreal-teste-ses-reamenagements-de-rues-dans-un-jumeau-num-f19706",
+   "entree": "2026-09-09T00:00-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "montreal-teste-ses-reamenagements-de-rues-dans-un-jumeau-num-f19706"
+  },
+  {
+   "titre": "Mascouche recrute l'INRS et Polytechnique Montréal comme conseillères scientifiques sur le climat",
+   "cahier": "montreal",
+   "rubrique": "environnement",
+   "territoire": "Mascouche (Lanaudière)",
+   "medias": "CFNJ, RIM",
+   "url": "https://cfnj.net/partenariat-entre-mascouche-et-linrs/",
+   "resume": "Deux scientifiques deviendront conseillères en chef d'une ville qui veut décider avec des données, pas des intuitions.",
+   "sources": [
+    {
+     "media": "CFNJ",
+     "url": "https://cfnj.net/partenariat-entre-mascouche-et-linrs/",
+     "auteur": "François Morin",
+     "date": "2026-09-09T07:18-04:00"
+    },
+    {
+     "media": "RIM",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/environnement/13/1217162/mascouche-s-associe-a-l-inrs-et-a-polytechnique-montreal-pour-mieux-affronter-les-changements-climatiques.html",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Mascouche_%28exo%29_train_station.jpg/1280px-Mascouche_%28exo%29_train_station.jpg",
+   "legende": "La gare de Mascouche.",
+   "photo_auteur": "Ed7789",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-09T07:18-04:00",
+   "permalien": "mascouche-recrute-l-inrs-et-polytechnique-montreal-comme-con-ff7141",
+   "entree": "2026-09-09T07:18-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "mascouche-recrute-l-inrs-et-polytechnique-montreal-comme-con-ff7141"
+  },
+  {
+   "titre": "Saint-Jérôme amorce une démarche vers sa première politique officielle sur l'itinérance",
+   "cahier": "montreal",
+   "rubrique": "sante",
+   "territoire": "Saint-Jérôme (Laurentides)",
+   "medias": "Ville de Saint-Jérôme",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/urbanisme/106/1217243/vers-une-premiere-politique-municipale-en-matiere-d-itinerance.html",
+   "resume": "Reste à voir ce que cette politique changera concrètement pour les personnes qui dorment dehors cet hiver.",
+   "sources": [
+    {
+     "media": "Ville de Saint-Jérôme",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/urbanisme/106/1217243/vers-une-premiere-politique-municipale-en-matiere-d-itinerance.html",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vieille_Gare_Saint-J%C3%A9r%C3%B4me_2018.jpg",
+   "legende": "La vieille gare de Saint-Jérôme.",
+   "photo_auteur": "Nevmar",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-09T00:00-04:00",
+   "permalien": "saint-jerome-amorce-une-demarche-vers-sa-premiere-politique-24b58a",
+   "entree": "2026-09-09T00:00-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "saint-jerome-amorce-une-demarche-vers-sa-premiere-politique-24b58a"
+  },
+  {
+   "titre": "Neuf élus municipaux de la Vallée-du-Richelieu haussent le ton sur le financement du transport collectif",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Vallée-du-Richelieu (Montérégie)",
+   "medias": "MRC de La Vallée-du-Richelieu",
+   "url": "https://rimq.qc.ca/article/municipal/categorie/mobilite/69/1217210/les-mairesses-et-maires-de-la-vallee-du-richelieu-interpellent-les-candidats-sur-l-avenir-du-transport-collectif.html",
+   "resume": "Leurs citoyens financent déjà le transport collectif par leurs taxes, sans que Québec suive la cadence.",
+   "sources": [
+    {
+     "media": "MRC de La Vallée-du-Richelieu",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/mobilite/69/1217210/les-mairesses-et-maires-de-la-vallee-du-richelieu-interpellent-les-candidats-sur-l-avenir-du-transport-collectif.html",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Mont-Saint-Hilaire-vue_de_la_route_116_%28coin_Bernard-Pilon%29_%C3%A0_Beloeil-2022-04-21.jpg/1280px-Mont-Saint-Hilaire-vue_de_la_route_116_%28coin_Bernard-Pilon%29_%C3%A0_Beloeil-2022-04-21.jpg",
+   "legende": "La route 116, entre Beloeil et Mont-Saint-Hilaire.",
+   "photo_auteur": "Veillg1",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-09T00:00-04:00",
+   "permalien": "neuf-elus-municipaux-de-la-vallee-du-richelieu-haussent-le-t-623783",
+   "entree": "2026-09-09T00:00-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "neuf-elus-municipaux-de-la-vallee-du-richelieu-haussent-le-t-623783"
+  },
+  {
+   "titre": "La Matawinie présente dix priorités aux candidats provinciaux de Berthier",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Matawinie (Lanaudière)",
+   "medias": "CFNJ, RIM",
+   "url": "https://cfnj.net/la-mrc-matawinie-interpelle-les-candidats-dans-berthier/",
+   "resume": "Routes, santé, logement : dix dossiers déposés sur la table avant même l'ouverture des bureaux de vote.",
+   "sources": [
+    {
+     "media": "CFNJ",
+     "url": "https://cfnj.net/la-mrc-matawinie-interpelle-les-candidats-dans-berthier/",
+     "auteur": "François Morin",
+     "date": "2026-09-09T07:22-04:00"
+    },
+    {
+     "media": "RIM",
+     "url": "https://rimq.qc.ca/article/municipal/categorie/politique/105/1217271/la-matawinie-presente-ses-priorites-aux-candidats-de-la-circonscription-de-berthier.html",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Rivi%C3%A8re_Ouareau%2C_dans_le_Parc_des_Chutes-Dorwin%2C_Rawdon%2C_Lanaudi%C3%A8re%2C_Qu%C3%A9bec%2C_Canada.jpg/1280px-Rivi%C3%A8re_Ouareau%2C_dans_le_Parc_des_Chutes-Dorwin%2C_Rawdon%2C_Lanaudi%C3%A8re%2C_Qu%C3%A9bec%2C_Canada.jpg",
+   "legende": "La rivière Ouareau, au parc des Chutes-Dorwin, à Rawdon, en Matawinie.",
+   "photo_auteur": "Maxime Laterreur",
+   "photo_licence": "CC BY 4.0",
+   "horodate": "2026-09-09T07:22-04:00",
+   "permalien": "la-matawinie-presente-dix-priorites-aux-candidats-provinciau-354505",
+   "entree": "2026-09-09T07:22-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "la-matawinie-presente-dix-priorites-aux-candidats-provinciau-354505"
+  },
+  {
+   "titre": "Le Grand Montréal résiste mieux que prévu à la guerre tarifaire, sauf pour quelques industries",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Grand Montréal (CMM)",
+   "medias": "Communauté métropolitaine de Montréal",
+   "url": "https://cmm.qc.ca/communiques/tarifs-americains-le-grand-montreal-tire-bien-son-epingle-du-jeu-malgre-des-impacts-prononces-pour-certaines-industries/",
+   "resume": "Le choc tarifaire frappe fort les vêtements et l'électronique, mais épargne l'essentiel de l'économie du Grand Montréal.",
+   "sources": [
+    {
+     "media": "Communauté métropolitaine de Montréal",
+     "url": "https://cmm.qc.ca/communiques/tarifs-americains-le-grand-montreal-tire-bien-son-epingle-du-jeu-malgre-des-impacts-prononces-pour-certaines-industries/",
+     "date": "2026-09-09T09:12-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Montreal_Skyline_Panorama.jpg/1280px-Montreal_Skyline_Panorama.jpg",
+   "legende": "Le centre-ville de Montréal, coeur du Grand Montréal.",
+   "photo_auteur": "MTLskyline",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-09-09T09:12-04:00",
+   "permalien": "le-grand-montreal-resiste-mieux-que-prevu-a-la-guerre-tarifa-1adde3",
+   "entree": "2026-09-09T09:12-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "le-grand-montreal-resiste-mieux-que-prevu-a-la-guerre-tarifa-1adde3"
+  },
+  {
+   "titre": "Bristol doit choisir entre rénover son quai centenaire à Norway Bay ou le démolir",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Bristol (Outaouais)",
+   "medias": "Municipalité de Bristol",
+   "url": "https://bristolmunicipality.ca/community-update-bristol-pier-at-norway-bay/",
+   "resume": "Après cent ans sur la baie, le quai force un choix qu'aucune subvention ne rendra facile.",
+   "sources": [
+    {
+     "media": "Municipalité de Bristol",
+     "url": "https://bristolmunicipality.ca/community-update-bristol-pier-at-norway-bay/",
+     "date": "2026-09-08T19:04-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Quai_et_plage_de_Norway_Bay_%C3%A0_Bristol_%28Pontiac%2C_QC%29-2018-06-27.jpg/1280px-Quai_et_plage_de_Norway_Bay_%C3%A0_Bristol_%28Pontiac%2C_QC%29-2018-06-27.jpg",
+   "legende": "Le quai de Norway Bay, à Bristol.",
+   "photo_auteur": "Veillg1",
+   "photo_licence": "CC BY-SA 4.0",
+   "horodate": "2026-09-08T19:04-04:00",
+   "permalien": "bristol-doit-choisir-entre-renover-son-quai-centenaire-a-nor-60dae0",
+   "entree": "2026-09-08T19:04-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "bristol-doit-choisir-entre-renover-son-quai-centenaire-a-nor-60dae0"
+  },
+  {
+   "titre": "Frelighsburg étudiera une dérogation pour scinder un terrain du chemin du Pinacle en deux lots plus étroits",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Frelighsburg (Estrie)",
+   "medias": "Municipalité de Frelighsburg",
+   "url": "https://frelighsburg.ca/avis-public-demande-de-derogation-mineure-au-reglement-sur-le-lotissement-numeros-132-2021/",
+   "resume": "Deux lots de 55 et 53 mètres, bien en deçà du minimum exigé pour un terrain non desservi.",
+   "sources": [
+    {
+     "media": "Municipalité de Frelighsburg",
+     "url": "https://frelighsburg.ca/avis-public-demande-de-derogation-mineure-au-reglement-sur-le-lotissement-numeros-132-2021/",
+     "date": "2026-09-09T11:50-04:00"
+    }
+   ],
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Frelighsburg-Automne_08.jpg/1280px-Frelighsburg-Automne_08.jpg",
+   "legende": "Le village de Frelighsburg.",
+   "photo_auteur": "Pierre Bona",
+   "photo_licence": "CC BY-SA 3.0",
+   "horodate": "2026-09-09T11:50-04:00",
+   "permalien": "frelighsburg-etudiera-une-derogation-pour-scinder-un-terrain-70f702",
+   "entree": "2026-09-09T11:50-04:00",
+   "_volet": "local",
+   "_fichier": "revue-local-2026-09-09.json",
+   "_slug": "frelighsburg-etudiera-une-derogation-pour-scinder-un-terrain-70f702"
   },
   {
    "titre": "L'Arabie saoudite promet de riposter après une attaque houthie d'ampleur inédite sur son territoire",
@@ -5704,7 +6460,7 @@
    "cahier": "montreal",
    "rubrique": "politique",
    "territoire": "Montréal",
-   "medias": "La Presse, Journal Métro",
+   "medias": "La Presse, Journal Métro, Ville de Montréal",
    "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-08/renouvellement-de-la-convention-collective/montreal-et-l-association-des-pompiers-s-entendent.php",
    "sources": [
     {
@@ -5718,6 +6474,12 @@
      "url": "https://journalmetro.com/actualites/montreal/3226733/entente-de-principe-conclue-entre-la-ville-de-montreal-et-les-pompiers-de-montre/",
      "date": "2026-09-08T15:08-04:00",
      "auteur": "Maïté Paradis"
+    },
+    {
+     "media": "Ville de Montréal",
+     "url": "https://montreal.ca/communiques-de-presse/la-ville-de-montreal-et-lassociation-des-pompiers-de-montreal-concluent-une-entente-de-principe",
+     "date": "2026-09-08T13:07-04:00",
+     "date_origine": "media"
     }
    ],
    "resume": "Le contenu de l'entente reste secret : le syndicat veut le réserver d'abord à ses membres.",
