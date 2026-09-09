@@ -642,7 +642,7 @@
    "cahier": "international",
    "rubrique": "diplomatie",
    "territoire": "Cisjordanie",
-   "medias": "Le Devoir, Libération, Le Monde, France 24, RFI, BFM, franceinfo, Human Rights Watch",
+   "medias": "Le Devoir, Libération, Le Monde, France 24, RFI, BFM, franceinfo, Human Rights Watch, TV5MONDE",
    "url": "https://www.lemonde.fr/international/article/2026/09/08/onze-pays-europeens-et-le-canada-imposent-a-israel-des-sanctions-contre-les-produits-issus-des-colonies-en-cisjordanie_6768553_3210.html",
    "sources": [
     {
@@ -696,12 +696,18 @@
      "url": "https://www.hrw.org/fr/news/2026/09/08/le-royaume-uni-la-france-et-le-canada-interdisent-le-commerce-avec-les-colonies",
      "date": "2026-09-08T16:39-04:00",
      "auteur": "Adam Coogle"
+    },
+    {
+     "media": "TV5MONDE",
+     "url": "https://information.tv5monde.com/international/cisjordanie-royaume-uni-france-canada-ciblent-le-commerce-avec-les-colonies-israel-riposte-2836693",
+     "auteur": "TV5MONDE Info",
+     "date": "2026-09-08T15:55-04:00"
     }
    ],
-   "resume": "Mise à jour, 17 h 14 — Le Royaume-Uni, la France et le Canada imposent désormais leurs sanctions, plutôt que de les envisager.",
+   "resume": "Mise à jour, 20 h 10 — Israël a répliqué en annonçant la fermeture du consulat britannique de Jérusalem.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T17:14-04:00",
+   "horodate": "2026-09-08T20:10-04:00",
    "permalien": "douze-pays-dont-le-canada-veulent-sanctionner-le-comme-4dc4ba",
    "image_auto": "aucune",
    "entree": "2026-09-08T11:40-04:00",
@@ -2126,11 +2132,11 @@
    "_slug": "tung-chee-hwa-premier-chef-de-l-executif-de-hong-kong-apres-82f7c3"
   },
   {
-   "titre": "Les États-Unis visent un nouveau pétrolier iranien près de l'île de Kharg",
+   "titre": "L'Iran affirme que cinq de ses pétroliers ont été visés par les États-Unis dans le Golfe",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Iran",
-   "medias": "Le Dauphiné Libéré, Le Monde",
+   "medias": "Le Dauphiné Libéré, Le Monde, France 24, Le Parisien",
    "url": "https://www.ledauphine.com/defense-guerre-conflit/2026/09/08/les-etats-unis-ciblent-un-nouveau-petrolier-iranien-au-large-de-l-ile-de-kharg",
    "sources": [
     {
@@ -2144,12 +2150,23 @@
      "url": "https://www.lemonde.fr/international/article/2026/09/08/detroit-d-ormuz-l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-tandis-que-washington-parle-d-un-engin-defectueux_6768518_3210.html",
      "date": "2026-09-08T16:22-04:00",
      "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/moyen-orient/20260908-en-direct-etats-unis-detruit-cinq-petroliers-navires-iraniens-gardiens-revolution-menacent-koweit-bahrein-pays-golfe-detroit-ormuz",
+     "auteur": "FRANCE 24",
+     "date": "2026-09-08T18:41-04:00"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/direct-les-etats-unis-detruisent-cinq-petroliers-iraniens-teheran-promet-de-riposter-09-09-2026-CNCSYYZHLJA53MMRTKKJZTGSWI.php",
+     "date": "2026-09-08T18:56-04:00"
     }
    ],
-   "resume": "L'épisode s'ajoute à une série de gestes qui font monter la tension dans le Golfe.",
+   "resume": "Mise à jour, 20 h 10 — Téhéran affirme que cinq de ses pétroliers iraniens ont été visés par l'armée américaine et promet de riposter.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T16:22-04:00",
+   "horodate": "2026-09-08T18:56-04:00",
    "volet": "continu",
    "permalien": "les-etats-unis-visent-un-nouveau-petrolier-iranien-pres-de-l-2e939d",
    "entree": "2026-09-08T16:22-04:00",
@@ -2211,6 +2228,295 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-08.json",
    "_slug": "une-poursuite-de-446-millions-de-dollars-accuse-meta-d-avoir-f9a8ea"
+  },
+  {
+   "titre": "Washington ferme ses contrats fédéraux aux fournisseurs canadiens, en réplique aux contre-tarifs d'Ottawa",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada, États-Unis",
+   "medias": "Le Devoir, Acadie Nouvelle, TVA Nouvelles, Le Parisien, Coops de l'information",
+   "url": "https://www.ledevoir.com/economie/1007393/trump-replique-retirant-produits-canadiens-marches-publics",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/1007393/trump-replique-retirant-produits-canadiens-marches-publics",
+     "auteur": "La Presse canadienne",
+     "date": "2026-09-08T17:24-04:00"
+    },
+    {
+     "media": "Acadie Nouvelle",
+     "url": "https://www.acadienouvelle.com/actualites/2026/09/08/trump-replique-en-retirant-des-produits-canadiens-des-marches-publics/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-08T18:09-04:00"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/08/les-produits-canadiens-exclus-des-achats-gouvernementaux-americains-annonce-donald-trump",
+     "date": "2026-09-08T16:43-04:00",
+     "auteur": "Agence QMI"
+    },
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/instruction-de-retirer-les-produits-canadiens-trump-ferme-lacces-aux-commandes-publiques-americaines-au-canada-09-09-2026-S6SJ4OVPTBFIPEJW6XXHBQEHLI.php",
+     "date": "2026-09-08T18:12-04:00"
+    },
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.latribune.ca/affaires/2026/09/08/trump-replique-en-retirant-des-produits-canadiens-des-marches-publics-YZKRP4DSS5GCXIEB46AKUFSIMM/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-08T17:35-04:00"
+    }
+   ],
+   "resume": "Chaque camp cherche maintenant où frapper l'autre sans nuire à ses propres consommateurs.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:12-04:00",
+   "permalien": "washington-ferme-ses-contrats-federaux-aux-fournisseurs-36ac49",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "washington-ferme-ses-contrats-federaux-aux-fournisseurs-36ac49"
+  },
+  {
+   "titre": "Un octogénaire tué par une balle perdue à Burnaby, selon la police",
+   "cahier": "canada",
+   "rubrique": "faits-divers",
+   "territoire": "Burnaby (Colombie-Britannique)",
+   "medias": "Global News, CBC",
+   "url": "https://globalnews.ca/news/12051323/85-year-old-man-shot-killed-inside-burnaby-home-stray-bullet-homicide/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12051323/85-year-old-man-shot-killed-inside-burnaby-home-stray-bullet-homicide/",
+     "auteur": "Amy Judd",
+     "date": "2026-09-08T16:03-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/british-columbia/burnaby-senior-killed-stray-bullet-9.7336241",
+     "date": "2026-09-08T17:17-04:00"
+    }
+   ],
+   "resume": "Reste à savoir d'où est parti le coup de feu qui l'a tué chez lui.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:17-04:00",
+   "permalien": "un-octogenaire-tue-par-une-balle-perdue-a-son-domicile-8a3e44",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "un-octogenaire-tue-par-une-balle-perdue-a-son-domicile-8a3e44"
+  },
+  {
+   "titre": "Un rapport établit un lien entre l'exposition en ligne des enfants et la tuerie de Tumbler Ridge",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Tumbler Ridge (Colombie-Britannique)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/economie/techno/1007402/dangers-ligne-constituent-desormais-principale-menace-enfants",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/techno/1007402/dangers-ligne-constituent-desormais-principale-menace-enfants",
+     "auteur": "Anja Karadeglija",
+     "date": "2026-09-08T17:47-04:00"
+    }
+   ],
+   "resume": "Ce qu'un nouveau rapport documente déjà sur les plateformes que fréquentent les plus jeunes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:47-04:00",
+   "permalien": "un-rapport-etablit-un-lien-entre-l-exposition-en-ligne-095dd2",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "un-rapport-etablit-un-lien-entre-l-exposition-en-ligne-095dd2"
+  },
+  {
+   "titre": "La néobanque Neo Financial supprime 10 % de son effectif pour réduire ses coûts",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-neo-financial-job-cuts-online-services/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-neo-financial-job-cuts-online-services/",
+     "auteur": "Sean Silcoff",
+     "date": "2026-09-08T17:10-04:00"
+    }
+   ],
+   "resume": "Un million de clients sont concernés par la réduction de personnel annoncée mardi.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:10-04:00",
+   "permalien": "la-neobanque-neo-financial-supprime-10-de-son-effectif-8facd1",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "la-neobanque-neo-financial-supprime-10-de-son-effectif-8facd1"
+  },
+  {
+   "titre": "Grève des employés de laboratoires médicaux Dynacare au Manitoba, en plein différend salarial",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Manitoba",
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/canada/article-dynacare-medical-lab-workers-strike-wage-manitoba/",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/article-dynacare-medical-lab-workers-strike-wage-manitoba/",
+     "auteur": "Brittany Hobson et Ian Bickis",
+     "date": "2026-09-08T17:17-04:00"
+    }
+   ],
+   "resume": "Le gouvernement manitobain a déjà demandé que ces services soient déclarés essentiels, en pleine grève.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T17:17-04:00",
+   "permalien": "greve-des-employes-de-laboratoires-medicaux-dynacare-au-607e38",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "greve-des-employes-de-laboratoires-medicaux-dynacare-au-607e38"
+  },
+  {
+   "titre": "Une cour d'appel américaine empêche le fisc de transmettre en bloc les dossiers des contribuables à l'immigration",
+   "cahier": "international",
+   "rubrique": "justice",
+   "territoire": "États-Unis",
+   "medias": "Ouest-France, Le Monde",
+   "url": "https://www.ouest-france.fr/monde/etats-unis/etats-unis-la-justice-bloque-le-transfert-massif-de-donnees-fiscales-aux-services-dimmigration-4e07cca0-abc1-11f1-8801-66f16947434c",
+   "sources": [
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/etats-unis/etats-unis-la-justice-bloque-le-transfert-massif-de-donnees-fiscales-aux-services-dimmigration-4e07cca0-abc1-11f1-8801-66f16947434c",
+     "date": "2026-09-08T16:39-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/08/aux-etats-unis-la-justice-interdit-le-partage-massif-de-donnees-sensibles-du-fisc-aux-services-de-l-immigration_6768519_3210.html",
+     "date": "2026-09-08T16:52-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Washington devra revoir sa façon de partager les données fiscales avec l'immigration.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:52-04:00",
+   "permalien": "une-cour-d-appel-americaine-empeche-le-fisc-de-transmet-e0be1a",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "une-cour-d-appel-americaine-empeche-le-fisc-de-transmet-e0be1a"
+  },
+  {
+   "titre": "OpenAI affirme avoir percé une équation non résolue depuis 90 ans, des mathématiciens restent sceptiques",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "États-Unis",
+   "medias": "France 24, The Verge, franceinfo",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-openai-dit-avoir-r%C3%A9solu-un-probl%C3%A8me-de-maths-crucial-en-quelques-jours-seulement",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-openai-dit-avoir-r%C3%A9solu-un-probl%C3%A8me-de-maths-crucial-en-quelques-jours-seulement",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T16:21-04:00"
+    },
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+     "auteur": "Emma Roth",
+     "date": "2026-09-08T16:53-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/internet/le-geant-de-l-intelligence-artificielle-openai-dit-avoir-resolu-l-equation-de-navier-stokes-un-probleme-de-maths-crucial-en-seulement-quelques-jours_8183789.html",
+     "date": "2026-09-08T18:09-04:00"
+    }
+   ],
+   "resume": "Des mathématiciens indépendants doivent encore confirmer la démonstration avant qu'elle n'entre dans les manuels.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:09-04:00",
+   "permalien": "openai-affirme-avoir-perce-une-equation-non-resolue-dep-866846",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "openai-affirme-avoir-perce-une-equation-non-resolue-dep-866846"
+  },
+  {
+   "titre": "Les créateurs de South Park renomment temporairement la série «South America» pour railler Donald Trump",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "États-Unis",
+   "medias": "France 24, franceinfo, Le Monde",
+   "url": "https://www.france24.com/fr/info-en-continu/20260908-south-park-rebaptis%C3%A9-south-america-pour-se-moquer-de-trump",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260908-south-park-rebaptis%C3%A9-south-america-pour-se-moquer-de-trump",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T16:57-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html",
+     "date": "2026-09-08T17:53-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
+     "date": "2026-09-08T18:48-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Comedy Central, filiale de Paramount visée au passage, n'a pas encore réagi à la blague.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T18:48-04:00",
+   "permalien": "les-createurs-de-south-park-renomment-temporairement-la-245a7b",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "les-createurs-de-south-park-renomment-temporairement-la-245a7b"
+  },
+  {
+   "titre": "OpenAI ajoute une fonction Sketch à ChatGPT pour transformer des dessins en images",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+     "auteur": "Jay Peters",
+     "date": "2026-09-08T16:16-04:00"
+    }
+   ],
+   "resume": "Un trait griffonné suffit maintenant à orienter ce que l'intelligence artificielle dessine à la place de l'utilisateur.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T16:16-04:00",
+   "permalien": "openai-ajoute-une-fonction-sketch-a-chatgpt-pour-transf-0e382f",
+   "image_auto": "aucune",
+   "entree": "2026-09-08T20:10-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-08.json",
+   "_slug": "openai-ajoute-une-fonction-sketch-a-chatgpt-pour-transf-0e382f"
   },
   {
    "titre": "Deux chroniqueurs débattent de l'usage de la dette américaine détenue par le Canada comme arme commerciale",
@@ -8786,8 +9092,8 @@
     },
     {
      "media": "Radio-Canada",
-     "url": "https://ici.radio-canada.ca/nouvelle/2281379/miami-avion-cargo-accident",
-     "date": "2026-09-07T19:09-04:00"
+     "url": "https://ici.radio-canada.ca/nouvelle/2281720/victimes-accident-amazon-aeroport-miami-camionnette",
+     "date": "2026-09-08T16:05-04:00"
     },
     {
      "media": "Le Parisien",
@@ -8801,10 +9107,10 @@
      "auteur": "Agence France-Presse"
     }
    ],
-   "resume": "Mise à jour, 2 h 10 — Les deux enregistreurs de vol ont été récupérés, l'appareil étant exploité par la compagnie 21 Air.",
+   "resume": "Mise à jour, 20 h 04 — Les cinq victimes prenaient place dans une camionnette de nettoyage sur le tarmac.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T02:10-04:00",
+   "horodate": "2026-09-08T16:27-04:00",
    "permalien": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259",
    "image_auto": "aucune",
    "entree": "2026-09-08T02:10-04:00",
