@@ -414,12 +414,12 @@
    "cahier": "international",
    "rubrique": "economie",
    "territoire": "Moyen-Orient",
-   "medias": "Le Devoir, Le Droit, Le Nouvelliste, La Voix de l'Est, La Tribune, Le Soleil, Le Quotidien, Radio-Canada, TVA Nouvelles",
+   "medias": "Le Devoir, Le Droit, Le Nouvelliste, La Voix de l'Est, La Tribune, Le Soleil, Le Quotidien, Radio-Canada, TVA Nouvelles, Les Affaires, The Globe and Mail",
    "url": "https://www.ledevoir.com/economie/1007510/baril-brent-depasse-100-dollars-apres-nouvelles-frappes-moyen-orient",
-   "resume": "Ce sursaut survient alors que les marchés doutent qu'un cessez-le-feu régional arrive à temps.",
+   "resume": "Mise à jour, 16 h 09 — Téhéran dit avoir visé une dizaine de navires au détroit d'Ormuz, et le litre grimpe déjà au Canada.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-09T07:30-04:00",
+   "horodate": "2026-09-09T16:09-04:00",
    "entree": "2026-09-09T08:05-04:00",
    "sources": [
     {
@@ -475,6 +475,18 @@
      "url": "https://www.tvanouvelles.ca/2026/09/09/petrole-le-baril-de-brent-depasse-les-100-dollars-apres-de-nouvelles-frappes-au-moyen-orient",
      "auteur": "Agence France-Presse",
      "date": "2026-09-09T07:43-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/nouvelles-frappes-dans-le-golfe-le-petrole-passe-la-barre-des-100us/",
+     "auteur": "AFP",
+     "date": "2026-09-09T15:30-04:00"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/canada/video-pump-prices-creep-higher-as-fighting-escalates-in-middle-east/",
+     "auteur": "Lauren Krugel",
+     "date": "2026-09-09T16:09-04:00"
     }
    ],
    "permalien": "le-petrole-grimpe-au-dessus-de-100-us-le-baril-un-sommet-en-a3ae40",
@@ -680,7 +692,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada, États-Unis",
-   "medias": "Canada's National Observer, TV5MONDE Informations, Le Nouvelliste, La Voix de l'Est, Le Quotidien, Le Soleil, La Tribune, Le Droit, Le Canada français, La Presse",
+   "medias": "Canada's National Observer, TV5MONDE Informations, Le Nouvelliste, La Voix de l'Est, Le Quotidien, Le Soleil, La Tribune, Le Droit, Le Canada français, La Presse, CBC, Global News",
    "url": "https://www.nationalobserver.com/2026/09/09/news/canada-blame-washingtons-escalation-trade-war-says-trump-trade-czar",
    "sources": [
     {
@@ -742,12 +754,24 @@
      "url": "https://www.lapresse.ca/affaires/economie/2026-09-09/guerre-commerciale/le-canada-est-responsable-de-l-escalade-selon-jamieson-greer.php",
      "auteur": "La Presse Canadienne",
      "date": "2026-09-09T06:21-04:00"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/toronto/ontario-business-trump-tariff-new-9.7337261",
+     "auteur": "Ariel Rabinovitch, Eleanor Yuneun Park",
+     "date": "2026-09-09T14:57-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12052996/ontario-alcohol-industry-trade-war/",
+     "auteur": "Isaac Callan",
+     "date": "2026-09-09T17:15-04:00"
     }
    ],
-   "resume": "La liste des produits visés s'allonge, et rien n'indique qui cédera le premier.",
+   "resume": "Mise à jour, 17 h 15 — Les producteurs ontariens, un temps épargnés, s'attendent maintenant à un dur coup pour leurs ventes.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-09T08:54-04:00",
+   "horodate": "2026-09-09T17:15-04:00",
    "entree": "2026-09-09T08:54-04:00",
    "image_auto": "aucune",
    "volet": "continu",
@@ -2067,6 +2091,185 @@
    "_slug": "une-frappe-de-drone-russe-touche-un-centre-commercial-a-soum-510e06"
   },
   {
+   "titre": "Budget 2026 : les centres d'amitié autochtones réclament plus de fonds à Ottawa",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/espaces-autochtones/2282050/budget-2026-centres-amitie-autochtones-emploi-logement",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2282050/budget-2026-centres-amitie-autochtones-emploi-logement",
+     "date": "2026-09-09T14:48-04:00"
+    }
+   ],
+   "resume": "Logement, sécurité, urgences : la liste des besoins non comblés s'allonge avant le dépôt du budget.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:48-04:00",
+   "entree": "2026-09-09T18:03-04:00",
+   "image_auto": "aucune",
+   "volet": "continu",
+   "permalien": "budget-2026-les-centres-d-amitie-autochtones-reclament-plus-1b218c",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "budget-2026-les-centres-d-amitie-autochtones-reclament-plus-1b218c"
+  },
+  {
+   "titre": "Employeurs et syndicats restent divisés sur le rôle d'Ottawa dans les conflits de travail, révèle un rapport fédéral",
+   "cahier": "canada",
+   "rubrique": "travail",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/affaires/2026-09-09/conflits-du-travail/la-question-de-l-intervention-du-gouvernement-divise.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/2026-09-09/conflits-du-travail/la-question-de-l-intervention-du-gouvernement-divise.php",
+     "auteur": "Craig Lord",
+     "date": "2026-09-09T15:06-04:00"
+    }
+   ],
+   "resume": "Le dossier alimente les consultations depuis le printemps, sans qu'aucun camp ne cède du terrain.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T15:06-04:00",
+   "entree": "2026-09-09T18:03-04:00",
+   "image_auto": "aucune",
+   "volet": "continu",
+   "permalien": "employeurs-et-syndicats-restent-divises-sur-le-role-d-ottawa-b84b93",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "employeurs-et-syndicats-restent-divises-sur-le-role-d-ottawa-b84b93"
+  },
+  {
+   "titre": "Jean Charest juge Ottawa et Washington voués à s'entendre malgré la guerre commerciale",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada, États-Unis",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/affaires/economie/2026-09-09/guerre-commerciale/les-etats-unis-et-le-canada-sont-condamnes-a-s-entendre-selon-jean-charest.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-09/guerre-commerciale/les-etats-unis-et-le-canada-sont-condamnes-a-s-entendre-selon-jean-charest.php",
+     "date": "2026-09-09T15:51-04:00",
+     "auteur": "La Presse Canadienne"
+    }
+   ],
+   "resume": "Ancien négociateur du dossier, il mise sur l'interdépendance économique plutôt que sur l'issue des tarifs.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T15:51-04:00",
+   "entree": "2026-09-09T18:03-04:00",
+   "image_auto": "aucune",
+   "volet": "continu",
+   "permalien": "jean-charest-juge-ottawa-et-washington-voues-a-s-entendre-ma-d3e3d5",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "jean-charest-juge-ottawa-et-washington-voues-a-s-entendre-ma-d3e3d5"
+  },
+  {
+   "titre": "Drummondville confie son transport en commun à Transdev pour une entente de 89 millions sur dix ans",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Drummondville (Centre-du-Québec)",
+   "medias": "L'Express, Radio-Canada",
+   "url": "https://www.journalexpress.ca/actualite/drummondville-devoile-nouveau-reseau-transport-en-commun-transdev-canada/",
+   "sources": [
+    {
+     "media": "L'Express",
+     "url": "https://www.journalexpress.ca/actualite/drummondville-devoile-nouveau-reseau-transport-en-commun-transdev-canada/",
+     "auteur": "Louis-Philippe Samson",
+     "date": "2026-09-09T15:18-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282022/transport-collectif-drummondville-autobus",
+     "date": "2026-09-09T14:47-04:00",
+     "auteur": "Jean-François Dumas"
+    }
+   ],
+   "resume": "Reste à voir si l'offre bonifiée suffira à convaincre de nouveaux usagers de délaisser l'auto.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T15:18-04:00",
+   "entree": "2026-09-09T18:03-04:00",
+   "image_auto": "aucune",
+   "volet": "continu",
+   "permalien": "drummondville-confie-son-transport-en-commun-a-transdev-pour-dbc1cd",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "drummondville-confie-son-transport-en-commun-a-transdev-pour-dbc1cd"
+  },
+  {
+   "titre": "Le traversier Forestville–Rimouski, réparé en Grèce, s'apprête à retraverser l'Atlantique",
+   "cahier": "quebec",
+   "rubrique": "transport",
+   "territoire": "Forestville (Côte-Nord), Rimouski (Bas-Saint-Laurent)",
+   "medias": "Le Nord-Côtier, Le Manic",
+   "url": "https://lenord-cotier.com/2026/09/09/le-bateau-de-la-traverse-forestville-rimouski-bientot-pret-a-traverser-latlantique/",
+   "sources": [
+    {
+     "media": "Le Nord-Côtier",
+     "url": "https://lenord-cotier.com/2026/09/09/le-bateau-de-la-traverse-forestville-rimouski-bientot-pret-a-traverser-latlantique/",
+     "date": "2026-09-09T15:24-04:00",
+     "auteur": "Pierre Bister"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/09/le-bateau-de-la-traverse-forestville-rimouski-bientot-pret-a-traverser-latlantique/",
+     "date": "2026-09-09T15:24-04:00",
+     "auteur": "Pierre Bister"
+    }
+   ],
+   "resume": "Après un bris et des mois d'attente, le propriétaire n'a pas caché son émotion en le revoyant flotter.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T15:24-04:00",
+   "entree": "2026-09-09T18:03-04:00",
+   "image_auto": "aucune",
+   "volet": "continu",
+   "permalien": "le-traversier-forestvillerimouski-repare-en-grece-s-apprete-917d65",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "le-traversier-forestvillerimouski-repare-en-grece-s-apprete-917d65"
+  },
+  {
+   "titre": "Le conseil de Saint-Célestin réclame à l'unanimité la démission du maire Raymond Noël",
+   "cahier": "quebec",
+   "rubrique": "politique",
+   "territoire": "Saint-Célestin (Centre-du-Québec)",
+   "medias": "Le Nouvelliste, Radio-Canada",
+   "url": "https://www.lenouvelliste.ca/actualites/actualites-locales/2026/09/09/saint-celestin-village-le-maire-somme-de-demissionner-POEFKTHH35EOPA3CDNT2HIPYLQ/",
+   "sources": [
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/actualites/actualites-locales/2026/09/09/saint-celestin-village-le-maire-somme-de-demissionner-POEFKTHH35EOPA3CDNT2HIPYLQ/",
+     "auteur": "Sébastien Lacroix",
+     "date": "2026-09-09T15:07-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282079/conseil-municipal-saint-celestin-raymond-noel",
+     "date": "2026-09-09T15:26-04:00",
+     "auteur": "Pascale Langlois et Barbara Leroux"
+    }
+   ],
+   "resume": "Perte de confiance, rétention d'information : les élus égrènent leurs griefs onze mois après une première alerte.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T15:26-04:00",
+   "entree": "2026-09-09T18:03-04:00",
+   "image_auto": "aucune",
+   "volet": "continu",
+   "permalien": "le-conseil-de-saint-celestin-reclame-a-l-unanimite-la-demiss-1f6ccf",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "le-conseil-de-saint-celestin-reclame-a-l-unanimite-la-demiss-1f6ccf"
+  },
+  {
    "titre": "CGI renforce ses capacités en IA d'entreprise en achetant une firme de Cincinnati",
    "cahier": "montreal",
    "rubrique": "economie",
@@ -3010,9 +3213,14 @@
    "cahier": "elections",
    "rubrique": "sante",
    "territoire": "Québec",
-   "medias": "Le Devoir, Coops de l'information",
-   "url": "https://www.ledevoir.com/politique/quebec/1007498/plq-veut-sevir-contre-plateformes-jeu-ligne",
+   "medias": "Parti libéral du Québec, Le Devoir, Coops de l'information",
+   "url": "https://plq.org/communique/moderniser-letat-pour-mieux-servir-les-quebecois/",
    "sources": [
+    {
+     "media": "Parti libéral du Québec",
+     "url": "https://plq.org/communique/moderniser-letat-pour-mieux-servir-les-quebecois/",
+     "date": "2026-09-09T10:42-04:00"
+    },
     {
      "media": "Le Devoir",
      "url": "https://www.ledevoir.com/politique/quebec/1007498/plq-veut-sevir-contre-plateformes-jeu-ligne",
@@ -3373,13 +3581,18 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "La Presse, Les Affaires, Le Devoir",
-   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/infrastructures/christine-frechette-relancerait-les-partenariats-public-prive.php",
+   "medias": "Coalition avenir Québec, La Presse, Les Affaires, Le Devoir",
+   "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/09/lequipe-frechette-changera-les-facons-de-construire-et-renover-nos-infrastructures-publiques/",
    "resume": "Le CHUM, le CUSM et leurs scandales de corruption planent sur cette nouvelle promesse électorale.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-09T09:45-04:00",
    "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/09/lequipe-frechette-changera-les-facons-de-construire-et-renover-nos-infrastructures-publiques/",
+     "date": "2026-09-09T09:37-04:00"
+    },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/infrastructures/christine-frechette-relancerait-les-partenariats-public-prive.php",
@@ -3411,13 +3624,18 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Les Affaires",
-   "url": "https://www.lesaffaires.com/secteurs/politique/jour-14-le-plq-devoile-son-plan-pour-ameliorer-lefficacite-de-letat/",
+   "medias": "Parti libéral du Québec, Les Affaires",
+   "url": "https://plq.org/communique/moderniser-letat-pour-mieux-servir-les-quebecois/",
    "resume": "Reste à savoir si l'attrition suffira à éviter toute perte d'emploi chez les fonctionnaires visés.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-09T09:36-04:00",
    "sources": [
+    {
+     "media": "Parti libéral du Québec",
+     "url": "https://plq.org/communique/moderniser-letat-pour-mieux-servir-les-quebecois/",
+     "date": "2026-09-09T10:42-04:00"
+    },
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-14-le-plq-devoile-son-plan-pour-ameliorer-lefficacite-de-letat/",
@@ -3680,13 +3898,18 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "La Presse, Le Devoir, Coops de l'information",
-   "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/achat-de-maisons-neuves/le-pq-rembourserait-la-tvq-jusqu-a-45-000.php",
+   "medias": "Parti québécois, La Presse, Le Devoir, Coops de l'information",
+   "url": "https://pq.org/nouvelles/le-parti-quebecois-presente-son-plan-dacces-a-la-propriete/",
    "resume": "De quoi faire pencher la balance pour les jeunes familles qui rêvent d'une première maison.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-09T11:52-04:00",
    "sources": [
+    {
+     "media": "Parti québécois",
+     "url": "https://pq.org/nouvelles/le-parti-quebecois-presente-son-plan-dacces-a-la-propriete/",
+     "date": "2026-09-09T12:55-04:00"
+    },
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/achat-de-maisons-neuves/le-pq-rembourserait-la-tvq-jusqu-a-45-000.php",
@@ -3806,7 +4029,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Le Devoir",
+   "medias": "Le Devoir, Montreal Gazette",
    "url": "https://www.ledevoir.com/politique/quebec/1007606/christine-frechette-presente-capitaine-quebec-capable-traverser-tempete",
    "resume": "Cinq mois aux commandes suffiraient à en faire la capitaine toute désignée pour la tempête tarifaire.",
    "photo": "",
@@ -3818,6 +4041,12 @@
      "url": "https://www.ledevoir.com/politique/quebec/1007606/christine-frechette-presente-capitaine-quebec-capable-traverser-tempete",
      "auteur": "Sébastien Tanguay",
      "date": "2026-09-09T11:49-04:00"
+    },
+    {
+     "media": "Montreal Gazette",
+     "url": "https://montrealgazette.com/news/provincial-news/the-old-economy-is-not-coming-back-and-quebec-has-to-pivot-now-frechette/",
+     "auteur": "Philip Authier",
+     "date": "2026-09-09T12:17-04:00"
     }
    ],
    "image_auto": "aucune",
@@ -4211,6 +4440,31 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "des-manufacturiers-du-saguenay-repetent-leur-appel-a-l-immig-487e40"
+  },
+  {
+   "titre": "La CAQ chiffre à 56 millions $ son plan pour la relève agricole",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Coalition avenir Québec",
+   "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/09/lequipe-frechette-veut-faire-grandir-les-fermes-et-la-releve-agricole/",
+   "resume": "Doubler un fonds de relève, alors que la guerre tarifaire fragilise déjà les fermes familiales.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:55-04:00",
+   "sources": [
+    {
+     "media": "Coalition avenir Québec",
+     "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/09/lequipe-frechette-veut-faire-grandir-les-fermes-et-la-releve-agricole/",
+     "date": "2026-09-09T14:55-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "entree": "2026-09-09T14:55-04:00",
+   "permalien": "la-caq-chiffre-a-56-millions-son-plan-pour-la-releve-agricol-9ff6dd",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "la-caq-chiffre-a-56-millions-son-plan-pour-la-releve-agricol-9ff6dd"
   },
   {
    "titre": "Québec exige 15 % de matériaux d'ici dans les chantiers des municipalités",
@@ -4797,11 +5051,11 @@
    "_slug": "frelighsburg-etudiera-une-derogation-pour-scinder-un-terrain-70f702"
   },
   {
-   "titre": "L'Arabie saoudite promet de riposter après une attaque houthie d'ampleur inédite sur son territoire",
+   "titre": "L'Arabie saoudite frappe le Yémen, les Houthis répliquent à nouveau sur son territoire",
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Arabie saoudite",
-   "medias": "La Presse, France 24, Al-Manar, Euronews, Le Monde",
+   "medias": "La Presse, France 24, Al-Manar, Euronews, Le Monde, Radio-Canada",
    "url": "https://www.lapresse.ca/international/moyen-orient/2026-09-08/arabie-saoudite/une-attaque-d-ampleur-menee-par-les-houtis-fait-73-blesses.php",
    "sources": [
     {
@@ -4834,14 +5088,19 @@
     },
     {
      "media": "Le Monde",
-     "url": "https://www.lemonde.fr/international/article/2026/09/08/arabie-saoudite-des-frappes-houthis-blessent-73-civils-ryad-promet-de-riposter_6768483_3210.html",
+     "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/09/arabie-saoudite-une-nouvelle-attaque-houthiste-apres-des-dizaines-de-frappes-saoudiennes_6768962_6325529.html",
      "auteur": "Agence France-Presse",
-     "date": "2026-09-08T15:04-04:00",
+     "date": "2026-09-09T16:33-04:00",
      "date_origine": "media"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281901/frappes-yemen-houthis-arabie-saoudite",
+     "date": "2026-09-09T16:33-04:00"
     }
    ],
-   "resume": "Le conflit yéménite déborde désormais sur le grand voisin, à quelques encablures des installations pétrolières d'Aramco.",
-   "horodate": "2026-09-08T15:04-04:00",
+   "resume": "Après des dizaines de frappes saoudiennes, des drones et missiles houthis visent de nouveau le royaume.",
+   "horodate": "2026-09-09T16:33-04:00",
    "photo": "",
    "legende": "",
    "image_auto": "aucune",
@@ -5986,6 +6245,38 @@
    "_volet": "monde",
    "_fichier": "revue-monde-2026-09-09.json",
    "_slug": "le-chef-de-l-onu-exige-le-retrait-d-israel-du-liban-apres-un-9791bf"
+  },
+  {
+   "titre": "Un drone ukrainien frappe pour la première fois un site gazier russe à 3000 km du front",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Russie",
+   "medias": "Ukrinform, Le Journal de Montréal",
+   "url": "https://www.ukrinform.net/rubric-ato/4162543-drones-strike-russias-largest-gas-production-complex-for-first-time-3000-km-from-ukraine-media-reports.html",
+   "sources": [
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4162543-drones-strike-russias-largest-gas-production-complex-for-first-time-3000-km-from-ukraine-media-reports.html",
+     "date": "2026-09-09T14:29-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/09/la-russie-dit-avoir-ete-visee-par-un-drone-ukrainien-a-3000-km-de-la-frontiere",
+     "date": "2026-09-09T14:27-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "L'attaque vise une région qui fournit plus de la moitié du gaz naturel produit en Russie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:29-04:00",
+   "entree": "2026-09-09T18:03-04:00",
+   "image_auto": "aucune",
+   "volet": "continu",
+   "permalien": "un-drone-ukrainien-frappe-pour-la-premiere-fois-un-site-gazi-d94134",
+   "_volet": "monde",
+   "_fichier": "revue-monde-2026-09-09.json",
+   "_slug": "un-drone-ukrainien-frappe-pour-la-premiere-fois-un-site-gazi-d94134"
   },
   {
    "titre": "Sept-Îles et Havre-Saint-Pierre lancent la haute saison des croisières sur la Côte-Nord",
