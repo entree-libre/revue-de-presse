@@ -1,9 +1,614 @@
 {
  "date": "2026-09-09",
  "volets": [
+  "continu",
+  "elections",
   "report"
  ],
  "articles": [
+  {
+   "titre": "Le satellite fédéral censé surveiller les feux de forêt du Canada prend du retard",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Canada",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/environnement/1007348/projet-federal-surveillance-satellitaire-feux-foret-fait-surplace",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/environnement/1007348/projet-federal-surveillance-satellitaire-feux-foret-fait-surplace",
+     "auteur": "Jamie Voyles",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "resume": "Annoncé pour 2029, le lancement du satellite GardeFeu bute sur un contrat annulé et 170 millions en jeu.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:00-04:00",
+   "permalien": "le-satellite-federal-cense-surveiller-les-feux-de-foret-du-c-5ad9e0",
+   "entree": "2026-09-09T00:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "le-satellite-federal-cense-surveiller-les-feux-de-foret-du-c-5ad9e0"
+  },
+  {
+   "titre": "Dix ans après la fermeture de son école française, un village acadien du Nouveau-Brunswick continue de s'angliciser",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Saint-Paul, Nouveau-Brunswick",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/info/videos/1-10755466/saint-paul-ecole-francophone-fermee-village-acadien-s-anglicise",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10755466/saint-paul-ecole-francophone-fermee-village-acadien-s-anglicise",
+     "auteur": "Nicolas Steinbach",
+     "date": "2026-09-08T22:19-04:00"
+    }
+   ],
+   "resume": "Ce que perd une communauté francophone quand sa seule école ferme ses portes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T22:19-04:00",
+   "permalien": "dix-ans-apres-la-fermeture-de-son-ecole-francaise-un-village-3d1bfc",
+   "entree": "2026-09-08T22:19-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "dix-ans-apres-la-fermeture-de-son-ecole-francaise-un-village-3d1bfc"
+  },
+  {
+   "titre": "Une trentaine de nouvelles poursuites visent OpenAI après la tuerie de Tumbler Ridge",
+   "cahier": "canada",
+   "rubrique": "justice",
+   "territoire": "Colombie-Britannique",
+   "medias": "Libération",
+   "url": "https://www.liberation.fr/economie/economie-numerique/tuerie-de-tumbler-ridge-30-plaintes-supplementaires-deposees-contre-sam-altman-et-openai-20260909_XW7IYTT665ENTBDFEMLUFRCOLM/",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/economie-numerique/tuerie-de-tumbler-ridge-30-plaintes-supplementaires-deposees-contre-sam-altman-et-openai-20260909_XW7IYTT665ENTBDFEMLUFRCOLM/",
+     "auteur": "Arthur Cerf",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "resume": "Selon les plaignants, un dysfonctionnement du système aurait contribué à la tragédie survenue plus tôt cette année.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:00-04:00",
+   "permalien": "une-trentaine-de-nouvelles-poursuites-visent-openai-apres-la-57eac0",
+   "entree": "2026-09-09T00:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "une-trentaine-de-nouvelles-poursuites-visent-openai-apres-la-57eac0"
+  },
+  {
+   "titre": "La Nouvelle-Écosse se dit prête à activer son fonds d'urgence pour les entreprises frappées par la guerre commerciale",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Nouvelle-Écosse",
+   "medias": "Le Canada Français",
+   "url": "https://www.canadafrancais.com/nouvelles-nationales/tim-houston-est-a-lecoute-des-entreprises-et-pret-a-utiliser-son-fonds-durgence/",
+   "sources": [
+    {
+     "media": "Le Canada Français",
+     "url": "https://www.canadafrancais.com/nouvelles-nationales/tim-houston-est-a-lecoute-des-entreprises-et-pret-a-utiliser-son-fonds-durgence/",
+     "date": "2026-09-08T22:32-04:00",
+     "auteur": "Lyndsay Armstrong et La Presse Canadienne"
+    }
+   ],
+   "resume": "Le fonds provincial de 50 millions $ reste intact, même si les secteurs agricole et manufacturier sont menacés.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T22:32-04:00",
+   "permalien": "la-nouvelle-ecosse-se-dit-prete-a-activer-son-fonds-d-urgenc-d458a6",
+   "entree": "2026-09-08T22:32-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "la-nouvelle-ecosse-se-dit-prete-a-activer-son-fonds-d-urgenc-d458a6"
+  },
+  {
+   "titre": "Un demi-siècle après le décès de Mao, la Chine peine encore à trancher son héritage",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Chine",
+   "medias": "CNEWS, franceinfo, Le Monde, Radio France",
+   "url": "https://www.cnews.fr/monde/2026-09-09/50-ans-de-la-mort-de-mao-zedong-comment-le-grand-timonier-avait-il-pris-le-pouvoir",
+   "sources": [
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-09/50-ans-de-la-mort-de-mao-zedong-comment-le-grand-timonier-avait-il-pris-le-pouvoir",
+     "auteur": "Quitterie Desjobert",
+     "date": "2026-09-09T01:29-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html",
+     "date": "2026-09-09T01:58-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://podcasts.lemonde.fr/lheure-du-monde/202609090200-mao-lheritage-encombrant-du-fondateur-de-la-chine-communiste",
+     "date": "2026-09-08T23:30-04:00"
+    },
+    {
+     "media": "Radio France",
+     "url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/50-ans-apres-la-mort-de-mao-quels-heritages-dans-la-chine-de-xi-jinping-6937801",
+     "date": "2026-09-09T01:18-04:00",
+     "auteur": "Guillaume Erner"
+    }
+   ],
+   "resume": "Le Parti communiste chinois doit composer avec un bilan qui mêle nostalgie populaire et millions de victimes politiques.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T01:58-04:00",
+   "permalien": "cinquante-ans-apres-la-mort-de-mao-la-chine-peine-encore-a-t-ba0234",
+   "entree": "2026-09-09T01:58-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "cinquante-ans-apres-la-mort-de-mao-la-chine-peine-encore-a-t-ba0234"
+  },
+  {
+   "titre": "Trump relate un sauvetage par des pompiers le 11-Septembre que Le Parisien dit inventé",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Le Parisien, France 24, TV5Monde",
+   "url": "https://www.leparisien.fr/international/etats-unis/deux-pompiers-mont-dit-il-faut-partir-quand-donald-trump-raconte-une-scene-du-11-septembre-qui-nest-jamais-arrivee-09-09-2026-NYRIA7PUKBGT7OGUJYDJMI4Q2E.php",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "url": "https://www.leparisien.fr/international/etats-unis/deux-pompiers-mont-dit-il-faut-partir-quand-donald-trump-raconte-une-scene-du-11-septembre-qui-nest-jamais-arrivee-09-09-2026-NYRIA7PUKBGT7OGUJYDJMI4Q2E.php",
+     "date": "2026-09-08T22:20-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260909-le-11-septembre-une-occasion-comme-une-autre-pour-trump-de-parler-de-lui",
+     "auteur": "FRANCE24",
+     "date": "2026-09-08T21:57-04:00"
+    },
+    {
+     "media": "TV5Monde",
+     "url": "https://information.tv5monde.com/international/le-11-septembre-une-occasion-comme-une-autre-pour-trump-de-parler-de-lui-2836724",
+     "auteur": "TV5MONDE Info",
+     "date": "2026-09-08T22:10-04:00"
+    }
+   ],
+   "resume": "L'épisode ravive les critiques sur la tendance du président à se mettre en scène dans les drames nationaux.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T22:20-04:00",
+   "permalien": "trump-relate-un-sauvetage-par-des-pompiers-le-11-septembre-q-5ccac3",
+   "entree": "2026-09-08T22:20-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "trump-relate-un-sauvetage-par-des-pompiers-le-11-septembre-q-5ccac3"
+  },
+  {
+   "titre": "Donald Trump mise sur une convention républicaine à Dallas pour redresser ses midterms",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "États-Unis",
+   "medias": "Libération, CNEWS",
+   "url": "https://www.liberation.fr/international/amerique/convention-republicaine-a-dallas-le-pari-risque-de-donald-trump-pour-sauver-les-midterms-20260909_QMJ6VS6PZNA2TLKO5UMTMHZDZM/",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/convention-republicaine-a-dallas-le-pari-risque-de-donald-trump-pour-sauver-les-midterms-20260909_QMJ6VS6PZNA2TLKO5UMTMHZDZM/",
+     "auteur": "Frédéric Autran",
+     "date": "2026-09-08T23:38-04:00"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-09/elections-de-mi-mandat-aux-etats-unis-linitiative-de-donald-trump-le-parti",
+     "auteur": "CNEWS avec AFP",
+     "date": "2026-09-09T00:52-04:00"
+    }
+   ],
+   "resume": "L'événement de deux jours expose surtout la dépendance d'un parti de plus en plus soumis à son chef.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:52-04:00",
+   "permalien": "donald-trump-mise-sur-une-convention-republicaine-a-dallas-p-56c45f",
+   "entree": "2026-09-09T00:52-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "donald-trump-mise-sur-une-convention-republicaine-a-dallas-p-56c45f"
+  },
+  {
+   "titre": "Trump salue le triomphe du parti antimigrants qui a bousculé la CDU en Saxe-Anhalt",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Allemagne",
+   "medias": "RTL, franceinfo",
+   "url": "https://www.rtl.fr/actu/international/rendre-a-l-allemagne-sa-grandeur-trump-felicite-l-afd-apres-sa-victoire-historique-en-saxe-anhalt-7900670482",
+   "sources": [
+    {
+     "media": "RTL",
+     "url": "https://www.rtl.fr/actu/international/rendre-a-l-allemagne-sa-grandeur-trump-felicite-l-afd-apres-sa-victoire-historique-en-saxe-anhalt-7900670482",
+     "date": "2026-09-09T00:35-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-salue-la-tres-bonne-soiree-de-l-extreme-droite-allemande-apres-sa-victoire-dimanche_8184278.html",
+     "date": "2026-09-09T02:12-04:00"
+    }
+   ],
+   "resume": "L'AfD récolte 44 % des voix contre 17 % aux conservateurs de Friedrich Merz, en Saxe-Anhalt.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T02:12-04:00",
+   "permalien": "trump-salue-la-percee-de-l-extreme-droite-allemande-apres-so-2363d7",
+   "entree": "2026-09-09T02:12-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "trump-salue-la-percee-de-l-extreme-droite-allemande-apres-so-2363d7"
+  },
+  {
+   "titre": "Après avoir travaillé chez OpenAI puis Anthropic, un chercheur en IA claque la porte en dénonçant les deux laboratoires",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Libération, CNEWS, France 24",
+   "url": "https://www.liberation.fr/economie/economie-numerique/elles-jouent-avec-nos-vies-un-chercheur-en-intelligence-artificielle-quitte-anthropic-avec-fracas-20260909_VUBTZHALF5FLZLI3QMIAMGSJ2M/",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/economie-numerique/elles-jouent-avec-nos-vies-un-chercheur-en-intelligence-artificielle-quitte-anthropic-avec-fracas-20260909_VUBTZHALF5FLZLI3QMIAMGSJ2M/",
+     "date": "2026-09-09T01:02-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/science/2026-09-09/les-gens-qui-construisent-lia-croient-sincerement-quelle-pourrait-tous-nous-tuer",
+     "auteur": "CNEWS avec AFP",
+     "date": "2026-09-09T01:04-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260909-elles-jouent-avec-nos-vies-apr%C3%A8s-openai-un-chercheur-en-ia-quitte-anthropic",
+     "auteur": "FRANCE24",
+     "date": "2026-09-09T02:25-04:00"
+    }
+   ],
+   "resume": "Selon lui, aucun des deux ne prévoit garder le contrôle d'une IA plus intelligente que nous.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T02:25-04:00",
+   "permalien": "apres-avoir-travaille-chez-openai-puis-anthropic-un-chercheu-ccee80",
+   "entree": "2026-09-09T02:25-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "apres-avoir-travaille-chez-openai-puis-anthropic-un-chercheu-ccee80"
+  },
+  {
+   "titre": "Un rapport sénatorial détaille comment des centaines de milliers de dossiers fiscaux français ont fuité cet été",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "Presse-citron",
+   "url": "https://www.presse-citron.net/piratage-fisc-senat-revele-comment-donnees-fuite-tres-inquietant/",
+   "sources": [
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/piratage-fisc-senat-revele-comment-donnees-fuite-tres-inquietant/",
+     "date": "2026-09-09T00:02-04:00"
+    }
+   ],
+   "resume": "Transmise le 4 septembre, leur note reconstitue le mode opératoire complet des pirates qui ont visé le fisc.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:02-04:00",
+   "permalien": "un-rapport-senatorial-detaille-comment-des-centaines-de-mill-6a74b3",
+   "entree": "2026-09-09T00:02-04:00",
+   "image_auto": "aucune",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "un-rapport-senatorial-detaille-comment-des-centaines-de-mill-6a74b3"
+  },
+  {
+   "titre": "La Boussole électorale de Radio-Canada accusée de biais par la gauche",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1007381/boussole-electorale-radio-canada-elle-perdu-nord",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007381/boussole-electorale-radio-canada-elle-perdu-nord",
+     "auteur": "Mathieu Carbasse",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "resume": "Un outil consulté par 260 000 personnes, mais contesté à gauche comme à droite.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "image_auto": "aucune",
+   "permalien": "la-boussole-electorale-de-radio-canada-accusee-de-biais-par-e34a12",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "la-boussole-electorale-de-radio-canada-accusee-de-biais-par-e34a12"
+  },
+  {
+   "titre": "Maisons des aînés : le PQ et le PLQ proposent de freiner un modèle jugé trop coûteux",
+   "cahier": "elections",
+   "rubrique": "sante",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/30/campagne-electorale--est-ce-la-fin-pour-les-maisons-des-aines",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/30/campagne-electorale--est-ce-la-fin-pour-les-maisons-des-aines",
+     "auteur": "Patrick Bellerose",
+     "date": "2026-09-09T00:00-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/30/les-couts-sont-devenus-faramineux---du-plomb-dans-laile-pour-les-maisons-des-aines",
+     "auteur": "Hugo Duchaine",
+     "date": "2026-09-09T03:26-04:00"
+    }
+   ],
+   "resume": "Chambres à 800 000 $, projets gelés : deux partis proposent de mettre fin au modèle.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "image_auto": "aucune",
+   "permalien": "maisons-des-aines-le-pq-et-le-plq-proposent-de-freiner-un-mo-0e8044",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "maisons-des-aines-le-pq-et-le-plq-proposent-de-freiner-un-mo-0e8044"
+  },
+  {
+   "titre": "Une feuille de route de l'Acfas presse les partis d'agir pour la science en français",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/education/1007417/declin-recherche-francais-preoccupe-il-politiciens",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/education/1007417/declin-recherche-francais-preoccupe-il-politiciens",
+     "auteur": "Zacharie Goudreault",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "resume": "Sous-financés, des chercheurs abandonnent avant même de publier en français.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "image_auto": "aucune",
+   "permalien": "une-feuille-de-route-de-l-acfas-presse-les-partis-d-agir-pou-135bc7",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "une-feuille-de-route-de-l-acfas-presse-les-partis-d-agir-pou-135bc7"
+  },
+  {
+   "titre": "Simulateur électoral : quatre partis se disputent l'Estrie selon Route127",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Estrie",
+   "medias": "Le Journal de Québec",
+   "url": "https://www.journaldequebec.com/2026/09/09/lestrie-vote-aux-couleurs-de-lautomne",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/09/lestrie-vote-aux-couleurs-de-lautomne",
+     "auteur": "Pierre-Olivier Zappa",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "resume": "Une simulation régionale distingue quatre teintes politiques, aucune ne l'emportant partout en Estrie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "image_auto": "aucune",
+   "permalien": "simulateur-electoral-quatre-partis-se-disputent-l-estrie-sel-91593a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "simulateur-electoral-quatre-partis-se-disputent-l-estrie-sel-91593a"
+  },
+  {
+   "titre": "Pascal Paradis, élu lors d'une partielle, brigue un premier mandat complet dans Jean-Talon",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Jean-Talon)",
+   "medias": "Le Journal de Québec",
+   "url": "https://www.journaldequebec.com/2026/09/09/paradis-veut-continuer-de-porter-le-flambeau-pour-la-capitale",
+   "sources": [
+    {
+     "media": "Le Journal de Québec",
+     "url": "https://www.journaldequebec.com/2026/09/09/paradis-veut-continuer-de-porter-le-flambeau-pour-la-capitale",
+     "auteur": "Karine Gagnon",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "resume": "Arrivé par une partielle, le péquiste mise sur son bilan pour rester à l'Assemblée nationale.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pascal_Paradis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Pascal Paradis",
+   "horodate": "2026-09-09T00:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "photo_auteur": "TVA Nouvelles",
+   "photo_licence": "CC BY 3.0",
+   "image_auto": "wikipedia-fr:Pascal Paradis",
+   "permalien": "pascal-paradis-elu-lors-d-une-partielle-brigue-un-premier-ma-28df58",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "pascal-paradis-elu-lors-d-une-partielle-brigue-un-premier-ma-28df58"
+  },
+  {
+   "titre": "Coût de la vie, logement, environnement : les grands enjeux qui domineront le vote du 5 octobre",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "L'actualité",
+   "url": "https://lactualite.com/politique/les-5-questions-de-lurne/",
+   "sources": [
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/politique/les-5-questions-de-lurne/",
+     "auteur": "Alexandre Robillard",
+     "date": "2026-09-09T01:00-04:00"
+    }
+   ],
+   "resume": "Cinq enjeux vont-ils vraiment déterminer le vote du 5 octobre ?",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T01:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "image_auto": "aucune",
+   "permalien": "cout-de-la-vie-logement-environnement-les-grands-enjeux-qui-17a91d",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "cout-de-la-vie-logement-environnement-les-grands-enjeux-qui-17a91d"
+  },
+  {
+   "titre": "Un sondage secret de 1995, gardé par Jean-François Lisée, refait surface avant un possible référendum",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "L'actualité",
+   "url": "https://lactualite.com/politique/referendum-les-vrais-moteurs-du-oui-et-du-non/",
+   "sources": [
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/politique/referendum-les-vrais-moteurs-du-oui-et-du-non/",
+     "auteur": "Guillaume Bourgault-Côté",
+     "date": "2026-09-09T01:00-04:00"
+    }
+   ],
+   "resume": "Un coup de sonde vieux de trente ans, verrouillé aux archives, éclaire le débat référendaire actuel.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T01:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "image_auto": "aucune",
+   "permalien": "un-sondage-secret-de-1995-garde-par-jean-francois-lisee-refa-7f4950",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "un-sondage-secret-de-1995-garde-par-jean-francois-lisee-refa-7f4950"
+  },
+  {
+   "titre": "Nés à quelques années d'écart, les cinq chefs de partis appartiennent tous à la génération X",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "L'actualité",
+   "url": "https://lactualite.com/politique/elections-provinciales-2026-place-aux-x/",
+   "sources": [
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/politique/elections-provinciales-2026-place-aux-x/",
+     "auteur": "Guillaume Bourgault-Côté",
+     "date": "2026-09-09T01:00-04:00"
+    }
+   ],
+   "resume": "Une seule génération occupe cette fois les cinq têtes d'affiche de la campagne.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T01:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "image_auto": "aucune",
+   "permalien": "nes-a-quelques-annees-d-ecart-les-cinq-chefs-de-partis-appar-c4a459",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "nes-a-quelques-annees-d-ecart-les-cinq-chefs-de-partis-appar-c4a459"
+  },
+  {
+   "titre": "Deux chercheurs rappellent que les électeurs ne suivent pas tous la campagne de la même façon",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/idees/1007429/seule-campagne-mais-plusieurs-realites-recadrer",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/opinion/idees/1007429/seule-campagne-mais-plusieurs-realites-recadrer",
+     "auteur": "Mireille Lalancette et Éric Bélanger",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "resume": "Vous informer sur cette campagne ne ressemble pas à la façon dont vos voisins s'informent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "image_auto": "aucune",
+   "permalien": "deux-chercheurs-rappellent-que-les-electeurs-ne-suivent-pas-233065",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "deux-chercheurs-rappellent-que-les-electeurs-ne-suivent-pas-233065"
+  },
+  {
+   "titre": "Un candidat péquiste défend la présence de tous les partis dans les 127 circonscriptions",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/libre-opinion/1007372/je-ne-suis-pas-poteau-je-suis-reverbere",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/opinion/libre-opinion/1007372/je-ne-suis-pas-poteau-je-suis-reverbere",
+     "auteur": "Vincent Hubert",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "resume": "Sans candidat partout, prévient un aspirant député, le choix de l'électorat rétrécit.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "image_auto": "aucune",
+   "permalien": "un-candidat-pequiste-defend-la-presence-de-tous-les-partis-d-991917",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "un-candidat-pequiste-defend-la-presence-de-tous-les-partis-d-991917"
+  },
+  {
+   "titre": "Un collectif contre la pauvreté reproche aux partis leur silence sur les plus démunis",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/idees/1007423/promesses-tout-monde-sauf-plus-pauvres",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/opinion/idees/1007423/promesses-tout-monde-sauf-plus-pauvres",
+     "auteur": "Marie-Ève Brunet et Serge Petitclerc",
+     "date": "2026-09-09T00:00-04:00"
+    }
+   ],
+   "resume": "Aucun parti ne nomme la pauvreté, malgré les annonces qui pleuvent.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T00:00-04:00",
+   "entree": "2026-09-09T03:26-04:00",
+   "image_auto": "aucune",
+   "permalien": "un-collectif-contre-la-pauvrete-reproche-aux-partis-leur-sil-74cac8",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "un-collectif-contre-la-pauvrete-reproche-aux-partis-leur-sil-74cac8"
+  },
   {
    "titre": "Après l'éruption du volcan Anak Krakatau, l'Indonésie recherche un bateau avec cinq journalistes à bord",
    "cahier": "international",
@@ -1105,12 +1710,34 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2281822/teheran-frappe-jordanie-attaques-petroliers-iraniens",
      "date": "2026-09-08T20:43-04:00"
+    },
+    {
+     "media": "Le HuffPost",
+     "url": "https://www.huffingtonpost.fr/international/article/ces-attaques-entre-les-etats-unis-et-l-iran-marquent-une-nouvelle-escalade-du-conflit_320927.html",
+     "date": "2026-09-08T23:45-04:00",
+     "auteur": "Timothée Barnaud et Agence France-Presse"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/moyen-orient/1007468/teheran-frappe-jordanie-golfe-apres-attaques-petroliers-iraniens",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-09T00:00-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/moyen-orient/20260909-en-direct-moyen-orient-t%C3%A9h%C3%A9ran-dit-avoir-attaqu%C3%A9-deux-navires-am%C3%A9ricains-et-huit-p%C3%A9troliers",
+     "date": "2026-09-09T00:36-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-teheran-attaque-une-base-militaire-des-etats-unis-en-jordanie-et-une-vingtaine-de-bateaux-apres-des-frappes-americaines-contre-des-petroliers_8184188.html",
+     "date": "2026-09-09T01:12-04:00"
     }
    ],
-   "resume": "Mise à jour, 20 h 43 — L'Iran affirme avoir visé une base américaine en Jordanie, et dit avoir capturé un drone sous-marin américain.",
+   "resume": "Mise à jour, 01 h 12 — Téhéran affirme avoir visé deux navires américains, huit pétroliers et dix autres bateaux dans le Golfe.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T20:43-04:00",
+   "horodate": "2026-09-09T01:12-04:00",
    "volet": "continu",
    "permalien": "les-etats-unis-visent-un-nouveau-petrolier-iranien-pres-de-l-2e939d",
    "entree": "2026-09-08T16:22-04:00",
@@ -1398,12 +2025,18 @@
      "url": "https://www.ledevoir.com/economie/techno/1007465/openai-dit-avoir-resolu-probleme-maths-majeur-moins-quatre-jours",
      "auteur": "Thomas Urbain et Alex Pigman",
      "date": "2026-09-08T22:26-04:00"
+    },
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628879-openai-accuse-d-avoir-double-des-chercheurs-sur-un-probleme-mathematique-hors-norme.html",
+     "date": "2026-09-09T00:37-04:00",
+     "auteur": "Mélina Loupia"
     }
    ],
-   "resume": "Des mathématiciens indépendants doivent encore confirmer la démonstration avant qu'elle n'entre dans les manuels.",
+   "resume": "Mise à jour, 00 h 37 — Le mathématicien Tristan Buckmaster accuse OpenAI d'avoir publié une preuve concurrente après avoir eu connaissance de ses travaux.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T18:09-04:00",
+   "horodate": "2026-09-09T00:37-04:00",
    "permalien": "openai-affirme-avoir-perce-une-equation-non-resolue-dep-866846",
    "image_auto": "aucune",
    "entree": "2026-09-08T20:10-04:00",
@@ -2444,7 +3077,7 @@
    "territoire": "Canada",
    "medias": "Le Figaro, Les Échos, France 24, La Presse, InfoBref, TVA Nouvelles, Canada's National Observer, Le Journal de Montréal",
    "url": "https://www.lefigaro.fr/conjoncture/acier-produits-laitiers-pate-a-papier-le-canada-replique-avec-de-nouveaux-droits-de-douane-contre-les-etats-unis-20260908",
-   "resume": "Mise à jour, 21 h 41 — Washington réplique en interdisant l'importation de plusieurs produits canadiens et en relevant des droits de douane.",
+   "resume": "Mise à jour, 23 h 11 — Washington élargit sa liste de représailles aux produits laitiers, à l'acier et à l'aluminium.",
    "sources": [
     {
      "media": "Le Figaro",
@@ -2490,9 +3123,15 @@
      "url": "https://www.journaldemontreal.com/2026/09/08/trump-lance-une-nouvelle-salve-de-tarifs-douaniers-contre-le-canada",
      "date": "2026-09-08T20:13-04:00",
      "auteur": "Agence QMI et Agence France-Presse"
+    },
+    {
+     "media": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/09/08/nouvelles-mesures-commerciales-de-donald-trump-feront-mal-au-canada-selon-deux-analystes-politiques",
+     "date": "2026-09-08T23:11-04:00",
+     "auteur": "Doualeh Ibrahim"
     }
    ],
-   "horodate": "2026-09-08T21:41-04:00",
+   "horodate": "2026-09-08T23:11-04:00",
    "photo": "",
    "legende": "",
    "permalien": "la-riposte-tarifaire-canadienne-contre-les-etats-unis-entre-08ad25",
