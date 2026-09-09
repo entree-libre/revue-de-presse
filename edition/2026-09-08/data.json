@@ -3427,13 +3427,18 @@
    "cahier": "elections",
    "rubrique": "sante",
    "territoire": "Québec",
-   "medias": "Les Affaires, Coops de l'information",
+   "medias": "Parti conservateur du Québec, Les Affaires, Coops de l'information",
    "url": "https://www.lesaffaires.com/secteurs/politique/jour-13-le-pcq-propose-de-remettre-le-patient-au-centre-du-systeme-de-sante/",
    "resume": "Le prix d'une promesse de santé s'ajoute à la facture globale des engagements de la campagne.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-08T11:35-04:00",
    "sources": [
+    {
+     "media": "Parti conservateur du Québec",
+     "url": "https://conservateur.quebec/blog/ressources/plateforme-sante-le-pcq-veut-garantir-des-soins-a-temps-sans-frais-pour-les-patients/",
+     "date": "2026-09-08T00:00-04:00"
+    },
     {
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-13-le-pcq-propose-de-remettre-le-patient-au-centre-du-systeme-de-sante/",
@@ -3511,7 +3516,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "98.5 Montréal, CBC News, FM93, Gazette officielle du Québec, Journal Métro, La Presse, Le Canada Français",
+   "medias": "98.5 Montréal, CBC News, FM93, Gazette officielle du Québec, Journal Métro, La Presse, Le Canada Français, Parti québécois",
    "url": "https://journalmetro.com/actualites/elections/3226703/christine-frechette-veut-se-tenir-debout-face-a-la-guerre-tarifaire/",
    "resume": "Mise à jour, 15 h — L'absent de la rencontre essuie une charge inattendue, venue cette fois du camp gouvernemental.",
    "sources": [
@@ -3519,6 +3524,11 @@
      "media": "Gazette officielle du Québec",
      "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2635A-F.pdf",
      "date": "2026-09-08"
+    },
+    {
+     "media": "Parti québécois",
+     "url": "https://pq.org/nouvelles/contre-tarifs-canadiens-declaration-du-chef-du-parti-quebecois-paul-st-pierre-plamondon/",
+     "date": "2026-09-08T00:00-04:00"
     },
     {
      "media": "Journal Métro",
