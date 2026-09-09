@@ -3157,6 +3157,12 @@
      "media": "Les Affaires",
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-14-le-pcq-prevoit-economiser-47g-en-5-ans/",
      "date": "2026-09-09T10:38-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226941/elections-jour-14-coupures-et-construction/",
+     "auteur": "Olivier Robichaud",
+     "date": "2026-09-09T16:24-04:00"
     }
    ],
    "permalien": "le-pcq-depose-un-cadre-financier-de-pres-de-100-pages-visant-332b95",
@@ -3417,6 +3423,12 @@
      "url": "https://www.lesaffaires.com/secteurs/politique/jour-14-le-plq-devoile-son-plan-pour-ameliorer-lefficacite-de-letat/",
      "auteur": "La Presse Canadienne",
      "date": "2026-09-09T09:36-04:00"
+    },
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/elections/3226941/elections-jour-14-coupures-et-construction/",
+     "auteur": "Olivier Robichaud",
+     "date": "2026-09-09T16:24-04:00"
     }
    ],
    "permalien": "le-plq-chiffre-a-12-000-postes-de-fonctionnaires-la-reductio-06c507",
@@ -4069,6 +4081,136 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "selon-l-actualite-les-debats-a-venir-presentent-un-risque-pa-94a26b"
+  },
+  {
+   "titre": "Le levier de l'électricité contre Trump divise les cinq chefs de la campagne",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/1007753/couper-electricite-faire-pression-trump-divise-chefs-quebecois",
+   "resume": "Sur l'option de couper le courant vers les États-Unis, les cinq chefs ne s'entendent sur rien.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T16:37-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/1007753/couper-electricite-faire-pression-trump-divise-chefs-quebecois",
+     "auteur": "Sandrine Vieira",
+     "date": "2026-09-09T16:37-04:00"
+    }
+   ],
+   "permalien": "le-levier-de-l-electricite-contre-trump-divise-les-cinq-chef-bdb01f",
+   "entree": "2026-09-09T16:37-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "le-levier-de-l-electricite-contre-trump-divise-les-cinq-chef-bdb01f"
+  },
+  {
+   "titre": "Trois partis d'opposition contestent la réponse caquiste à la pénurie de profs",
+   "cahier": "elections",
+   "rubrique": "education",
+   "territoire": "Québec",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2282080/caq-penurie-enseignants-critiques-partis-programmes",
+   "resume": "Cinquante-huit programmes accélérés plus tard, trois partis d'opposition doutent tous du même remède.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T16:17-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282080/caq-penurie-enseignants-critiques-partis-programmes",
+     "date": "2026-09-09T16:17-04:00",
+     "auteur": "Fannie Bussières McNicoll"
+    }
+   ],
+   "permalien": "trois-partis-d-opposition-contestent-la-reponse-caquiste-a-l-19c86f",
+   "entree": "2026-09-09T16:17-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "trois-partis-d-opposition-contestent-la-reponse-caquiste-a-l-19c86f"
+  },
+  {
+   "titre": "Guy Caron réclame douze engagements de transport pour désenclaver le Bas-Saint-Laurent",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Bas-Saint-Laurent",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2282062/rimouski-transport-commun-autoroute-20-elections",
+   "resume": "Douze mesures, un maire, et une région qui dit ne plus pouvoir se déplacer sans voiture.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T16:08-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282062/rimouski-transport-commun-autoroute-20-elections",
+     "date": "2026-09-09T16:08-04:00",
+     "auteur": "Lisa-Marie Bélanger"
+    }
+   ],
+   "permalien": "guy-caron-reclame-douze-engagements-de-transport-pour-desenc-462a66",
+   "entree": "2026-09-09T16:08-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "guy-caron-reclame-douze-engagements-de-transport-pour-desenc-462a66"
+  },
+  {
+   "titre": "Julie Bourdon présente huit priorités municipales aux partis en campagne",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Estrie",
+   "medias": "La Voix de l'Est",
+   "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/09/huit-fois-plutot-quune-granby-veut-etre-ecoutee-YZHPENDSLJG73P6IRLHJ5LBNKY/",
+   "resume": "Un chantier d'eau à 130 millions figure parmi les huit demandes que Granby adresse aux partis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T16:00-04:00",
+   "sources": [
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/09/huit-fois-plutot-quune-granby-veut-etre-ecoutee-YZHPENDSLJG73P6IRLHJ5LBNKY/",
+     "auteur": "Jérôme Savary",
+     "date": "2026-09-09T16:00-04:00"
+    }
+   ],
+   "permalien": "julie-bourdon-presente-huit-priorites-municipales-aux-partis-ff8675",
+   "entree": "2026-09-09T16:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "julie-bourdon-presente-huit-priorites-municipales-aux-partis-ff8675"
+  },
+  {
+   "titre": "Des manufacturiers du Saguenay répètent leur appel à l'immigration en pleine campagne",
+   "cahier": "elections",
+   "rubrique": "economie",
+   "territoire": "Saguenay–Lac-Saint-Jean",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2282020/travailleurs-etrangers-personnel-candidats",
+   "resume": "Sans main-d'œuvre étrangère, des usines du Saguenay craignent de devoir couper des quarts de travail.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:31-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282020/travailleurs-etrangers-personnel-candidats",
+     "date": "2026-09-09T14:31-04:00",
+     "auteur": "Vicky Boutin et Laurie Gobeil"
+    }
+   ],
+   "permalien": "des-manufacturiers-du-saguenay-repetent-leur-appel-a-l-immig-487e40",
+   "entree": "2026-09-09T14:31-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "des-manufacturiers-du-saguenay-repetent-leur-appel-a-l-immig-487e40"
   },
   {
    "titre": "Québec exige 15 % de matériaux d'ici dans les chantiers des municipalités",
