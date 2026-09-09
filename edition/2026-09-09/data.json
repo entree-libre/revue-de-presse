@@ -8,7 +8,8 @@
   "monde",
   "presse-regionale",
   "quebec-canada",
-  "report"
+  "report",
+  "savoirs"
  ],
  "articles": [
   {
@@ -320,7 +321,7 @@
    "cahier": "savoirs",
    "rubrique": "technologies",
    "territoire": "États-Unis",
-   "medias": "Libération, CNEWS, France 24, The Verge, Mac4Ever",
+   "medias": "Libération, CNEWS, France 24, The Verge, Mac4Ever, Radio-Canada, Le Devoir, MacGeneration",
    "url": "https://www.liberation.fr/economie/economie-numerique/elles-jouent-avec-nos-vies-un-chercheur-en-intelligence-artificielle-quitte-anthropic-avec-fracas-20260909_VUBTZHALF5FLZLI3QMIAMGSJ2M/",
    "sources": [
     {
@@ -352,6 +353,23 @@
      "url": "https://www.mac4ever.com/ia/197930-ce-chercheur-claque-la-porte-d-anthropic-et-accuse-l-ia-de-vouloir-tuer-les-humains",
      "auteur": "Vincent Lautier",
      "date": "2026-09-09T07:01-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2281966/chercheur-ia-avertit-hors-controle-coxon-anthropic",
+     "date": "2026-09-09T12:09-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/economie/techno/1007621/elles-jouent-vies-chercheur-ia-quitte-anthropic",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-09T12:20-04:00"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/intelligence-artificielle/2026/09/ils-jouent-avec-nos-vies-pourquoi-un-chercheur-en-ia-claque-la-porte-danthropic-310935",
+     "auteur": "Christophe Laporte",
+     "date": "2026-09-09T03:14-04:00"
     }
    ],
    "resume": "Mise à jour, 5 h 56 — Un cadre de la sécurité chez Anthropic évalue à plus de 10 % le risque que l'IA élimine l'humanité.",
@@ -783,6 +801,12 @@
      "url": "https://www.canada.ca/fr/sante-canada/nouvelles/2026/09/le-gouvernement-du-canada-prolonge-lallegement-de-la-taxe-daccise-federale-sur-lessence-le-combustible-diesel-et-les-carburants-daviation-pour-les-.html",
      "auteur": "Santé Canada",
      "date": "2026-09-09T09:28-04:00"
+    },
+    {
+     "media": "Gouvernement du Canada",
+     "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/la-secretaire-detat-belanger-souligne-la-prolongation-de-lallegement-de-la-taxe-daccise-federale-sur-le-carburant.html",
+     "auteur": "Innovation, Sciences et Développement économique Canada",
+     "date": "2026-09-09T14:00-04:00"
     }
    ],
    "resume": "Le rabais aide le budget des ménages, mais qui en profite vraiment le plus ?",
@@ -1617,38 +1641,6 @@
    "_slug": "les-taux-obligataires-grimpent-au-canada-un-signal-de-plus-d-f429f7"
   },
   {
-   "titre": "Un chercheur passé par OpenAI puis par Anthropic annonce son départ de l'industrie de l'IA, critiquant ses dirigeants",
-   "cahier": "savoirs",
-   "rubrique": "technologies",
-   "territoire": "États-Unis",
-   "medias": "Radio-Canada, Le Devoir",
-   "url": "https://ici.radio-canada.ca/nouvelle/2281966/chercheur-ia-avertit-hors-controle-coxon-anthropic",
-   "sources": [
-    {
-     "media": "Radio-Canada",
-     "url": "https://ici.radio-canada.ca/nouvelle/2281966/chercheur-ia-avertit-hors-controle-coxon-anthropic",
-     "date": "2026-09-09T12:09-04:00"
-    },
-    {
-     "media": "Le Devoir",
-     "url": "https://www.ledevoir.com/economie/techno/1007621/elles-jouent-vies-chercheur-ia-quitte-anthropic",
-     "auteur": "Agence France-Presse",
-     "date": "2026-09-09T12:20-04:00"
-    }
-   ],
-   "resume": "Reste à savoir si les avertissements de ceux qui la construisent changeront quoi que ce soit.",
-   "photo": "",
-   "legende": "",
-   "horodate": "2026-09-09T12:20-04:00",
-   "entree": "2026-09-09T13:05-04:00",
-   "image_auto": "aucune",
-   "volet": "continu",
-   "permalien": "un-chercheur-passe-par-openai-puis-par-anthropic-annonce-son-cdbe16",
-   "_volet": "continu",
-   "_fichier": "revue-continu-2026-09-09.json",
-   "_slug": "un-chercheur-passe-par-openai-puis-par-anthropic-annonce-son-cdbe16"
-  },
-  {
    "titre": "Une étude relie les matières grasses consommées à la survie après un cancer de la prostate",
    "cahier": "savoirs",
    "rubrique": "sante",
@@ -1755,6 +1747,303 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "en-russie-le-pouvoir-multiplie-les-pretextes-pour-ecarter-de-b25ed1"
+  },
+  {
+   "titre": "Le Canada et l'Union européenne préparent un partenariat économique et sécuritaire inédit",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "Coops de l'information, La Presse",
+   "url": "https://www.lesoleil.com/affaires/2026/09/09/un-nouveau-partenariat-unique-entre-le-canada-et-l-ue-se-met-en-place-LEDM7TG7G5A3VK26RCTPBWAAGQ/",
+   "resume": "Ottawa et Bruxelles discutent d'un accord qui irait au-delà de tout ce qui existe déjà.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:00-04:00",
+   "sources": [
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/affaires/2026/09/09/un-nouveau-partenariat-unique-entre-le-canada-et-l-ue-se-met-en-place-LEDM7TG7G5A3VK26RCTPBWAAGQ/",
+     "auteur": "Dylan Robertson, La Presse Canadienne",
+     "date": "2026-09-09T14:00-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-09/un-nouveau-partenariat-unique-entre-le-canada-et-l-ue-se-met-en-place.php",
+     "auteur": "Dylan Robertson",
+     "date": "2026-09-09T13:59-04:00"
+    }
+   ],
+   "permalien": "le-canada-et-l-union-europeenne-preparent-un-partenariat-eco-856ef4",
+   "entree": "2026-09-09T14:00-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "le-canada-et-l-union-europeenne-preparent-un-partenariat-eco-856ef4"
+  },
+  {
+   "titre": "Le fabricant québécois BRP touché par les dernières mesures commerciales américaines",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Valcourt (Estrie)",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/canada/montreal/trade-war-quebec-made-vehicles-brp-9.7337408?cmp=rss",
+   "resume": "Un autre secteur québécois qui sent passer la guerre commerciale avec Washington.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T13:57-04:00",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/trade-war-quebec-made-vehicles-brp-9.7337408?cmp=rss",
+     "date": "2026-09-09T13:57-04:00"
+    }
+   ],
+   "permalien": "le-fabricant-quebecois-brp-touche-par-les-dernieres-mesures-66a2fd",
+   "entree": "2026-09-09T13:57-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "le-fabricant-quebecois-brp-touche-par-les-dernieres-mesures-66a2fd"
+  },
+  {
+   "titre": "Vols de véhicules et crimes armés en fort recul à Montréal en 2025",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Montréal",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-09/legere-baisse-de-la-criminalite-a-montreal-l-an-dernier.php",
+   "resume": "Le bilan annuel du SPVM confirme un recul marqué depuis les sommets pandémiques.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:09-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-09-09/legere-baisse-de-la-criminalite-a-montreal-l-an-dernier.php",
+     "auteur": "Philippe Teisceira-Lessard",
+     "date": "2026-09-09T14:09-04:00"
+    }
+   ],
+   "permalien": "vols-de-vehicules-et-crimes-armes-en-fort-recul-a-montreal-e-b60dea",
+   "entree": "2026-09-09T14:09-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "vols-de-vehicules-et-crimes-armes-en-fort-recul-a-montreal-e-b60dea"
+  },
+  {
+   "titre": "L'hôpital de Gaspé suspend temporairement les accouchements dès jeudi",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Gaspé (Gaspésie–Îles-de-la-Madeleine)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2282030/obstetrique-rupture-hopital-gaspe",
+   "resume": "Les futures mères devront se tourner ailleurs pendant près d'une semaine.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T13:56-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282030/obstetrique-rupture-hopital-gaspe",
+     "date": "2026-09-09T13:56-04:00"
+    }
+   ],
+   "permalien": "l-hopital-de-gaspe-suspend-temporairement-les-accouchements-a804ef",
+   "entree": "2026-09-09T13:56-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "l-hopital-de-gaspe-suspend-temporairement-les-accouchements-a804ef"
+  },
+  {
+   "titre": "Un réseau de faux papiers d'identité démantelé à Deux-Montagnes",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Deux-Montagnes (Laurentides)",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-09/deux-montagnes/un-atelier-de-faux-documents-d-immigration-et-d-identite-demantele.php",
+   "resume": "Cartes de résident permanent, permis de conduire : l'homme accusé en fabriquait des centaines.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:04-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-09-09/deux-montagnes/un-atelier-de-faux-documents-d-immigration-et-d-identite-demantele.php",
+     "auteur": "Karim Benessaieh",
+     "date": "2026-09-09T14:04-04:00"
+    }
+   ],
+   "permalien": "un-reseau-de-faux-papiers-d-identite-demantele-a-deux-montag-33bd50",
+   "entree": "2026-09-09T14:04-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "un-reseau-de-faux-papiers-d-identite-demantele-a-deux-montag-33bd50"
+  },
+  {
+   "titre": "Acquittement pour le rappeur K'naan, visé par une plainte remontant à 2010",
+   "cahier": "quebec",
+   "rubrique": "justice",
+   "territoire": "Québec (Capitale-Nationale)",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/justice/1007657/rappeur-canadien-k-naan-acquitte-accusation-agression-sexuelle-feq-2010",
+   "resume": "Une affaire vieille de seize ans se referme devant un tribunal de Québec.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:25-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/justice/1007657/rappeur-canadien-k-naan-acquitte-accusation-agression-sexuelle-feq-2010",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-09T14:25-04:00"
+    }
+   ],
+   "permalien": "acquittement-pour-le-rappeur-k-naan-vise-par-une-plainte-rem-3f252f",
+   "entree": "2026-09-09T14:25-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "acquittement-pour-le-rappeur-k-naan-vise-par-une-plainte-rem-3f252f"
+  },
+  {
+   "titre": "Un nouveau centre de traitement des dépendances voit le jour à Iqaluit",
+   "cahier": "canada",
+   "rubrique": "sante",
+   "territoire": "Iqaluit (Nunavut)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2282005/nunavut-centre-retablissement-inuit",
+   "resume": "La guérison y passera par la culture inuit plutôt que par un modèle importé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282005/nunavut-centre-retablissement-inuit",
+     "date": "2026-09-09T14:26-04:00"
+    }
+   ],
+   "permalien": "un-nouveau-centre-de-traitement-des-dependances-voit-le-jour-3c671b",
+   "entree": "2026-09-09T14:26-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "un-nouveau-centre-de-traitement-des-dependances-voit-le-jour-3c671b"
+  },
+  {
+   "titre": "Procès pour le meurtre d'une jeune femme qui avait dénoncé son proxénète",
+   "cahier": "montreal",
+   "rubrique": "justice",
+   "territoire": "Montréal",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2282041/proces-meurtre-jade-racette-beaulieu",
+   "resume": "La poursuite doit démontrer qui a orchestré l'attaque, pas seulement qui a tiré.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:27-04:00",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282041/proces-meurtre-jade-racette-beaulieu",
+     "date": "2026-09-09T14:27-04:00"
+    }
+   ],
+   "permalien": "proces-pour-le-meurtre-d-une-jeune-femme-qui-avait-denonce-s-bd90a1",
+   "entree": "2026-09-09T14:27-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "proces-pour-le-meurtre-d-une-jeune-femme-qui-avait-denonce-s-bd90a1"
+  },
+  {
+   "titre": "Apple lance l'iPhone Duo, son premier téléphone pliable",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "The Verge, Mac4ever",
+   "url": "https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date",
+   "resume": "Sept ans après les premières rumeurs, le format pliable arrive enfin chez Apple.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T13:59-04:00",
+   "sources": [
+    {
+     "media": "The Verge",
+     "url": "https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date",
+     "auteur": "Dominic Preston",
+     "date": "2026-09-09T13:56-04:00"
+    },
+    {
+     "media": "Mac4ever",
+     "url": "https://www.mac4ever.com/iphone/197946-l-iphone-duo-est-officiel-voila-toutes-les-infos",
+     "date": "2026-09-09T13:59-04:00"
+    }
+   ],
+   "permalien": "apple-lance-l-iphone-duo-son-premier-telephone-pliable-aa1ce5",
+   "entree": "2026-09-09T13:59-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "apple-lance-l-iphone-duo-son-premier-telephone-pliable-aa1ce5"
+  },
+  {
+   "titre": "L'avion de Volodymyr Zelensky visé par un drone en direction de la Norvège",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Le Devoir, Libération, Le Monde, Radio-Canada",
+   "url": "https://www.ledevoir.com/monde/europe/1007654/avion-zelensky-failli-etre-touche-drone-tandis-il-faisait-route-vers-norvege",
+   "resume": "Kyiv rappelle que le ciel reste dangereux, même pour son propre président.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:22-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/europe/1007654/avion-zelensky-failli-etre-touche-drone-tandis-il-faisait-route-vers-norvege",
+     "auteur": "Agence France-Presse",
+     "date": "2026-09-09T14:21-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/international/europe/lavion-du-president-ukrainien-volodymyr-zelensky-a-failli-etre-frappe-par-un-drone-en-moldavie-20260909_J2DRTI6ASVET3AKGDFUK53Y3BE/",
+     "auteur": "AFP",
+     "date": "2026-09-09T14:16-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/live/2026/09/09/en-direct-guerre-en-ukraine-l-avion-qui-transportait-volodymyr-zelensky-vers-oslo-mardi-a-failli-etre-percute-par-un-drone-selon-le-premier-ministre-norvegien_6766818_3210.html",
+     "date": "2026-09-09T14:22-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282038/avion-zelensky-drone-norvege",
+     "date": "2026-09-09T14:14-04:00"
+    }
+   ],
+   "permalien": "l-avion-de-volodymyr-zelensky-vise-par-un-drone-en-direction-374113",
+   "entree": "2026-09-09T14:22-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "l-avion-de-volodymyr-zelensky-vise-par-un-drone-en-direction-374113"
+  },
+  {
+   "titre": "Une frappe de drone russe touche un centre commercial à Soumy, faisant un mort",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Ukraine",
+   "medias": "Ukrinform",
+   "url": "https://www.ukrinform.net/rubric-ato/4162542-russian-drone-strikes-shopping-mall-in-sumy-killing-one-and-injuring-others.html",
+   "resume": "Un centre commercial visé en pleine journée, un bilan encore incertain.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T13:58-04:00",
+   "sources": [
+    {
+     "media": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4162542-russian-drone-strikes-shopping-mall-in-sumy-killing-one-and-injuring-others.html",
+     "date": "2026-09-09T13:58-04:00"
+    }
+   ],
+   "permalien": "une-frappe-de-drone-russe-touche-un-centre-commercial-a-soum-510e06",
+   "entree": "2026-09-09T13:58-04:00",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "une-frappe-de-drone-russe-touche-un-centre-commercial-a-soum-510e06"
   },
   {
    "titre": "La Boussole électorale de Radio-Canada accusée de biais par la gauche",
@@ -6757,9 +7046,14 @@
      "media": "NASA",
      "url": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
      "date": "2026-09-08T12:49-04:00"
+    },
+    {
+     "media": "NASA",
+     "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/",
+     "date": "2026-09-03T09:16-04:00"
     }
    ],
-   "resume": "La nébuleuse N44 doit sa cavité centrale aux vents stellaires et supernovas de ses étoiles massives.",
+   "resume": "Un recensement y dénombre près de 500 000 étoiles, dont 30 000 encore trop jeunes pour briller.",
    "photo": "",
    "legende": "",
    "horodate": "2026-09-08T12:49-04:00",
@@ -7513,7 +7807,7 @@
   {
    "titre": "Un géographe alerte sur l'accélération de la désertification en France",
    "cahier": "savoirs",
-   "rubrique": "environnement",
+   "rubrique": "sciences",
    "territoire": "France",
    "medias": "Futura Sciences",
    "url": "https://www.futura-sciences.com/planete/actualites/secheresse-desertification-france-nous-devons-prendre-conscience-notre-vulnerabilite-alerte-geographe-jean-daniel-cesaro-137564/",
@@ -7826,7 +8120,7 @@
    "cahier": "savoirs",
    "rubrique": "cinema",
    "territoire": "États-Unis",
-   "medias": "France 24, franceinfo, Le Monde, Libération",
+   "medias": "France 24, franceinfo, Le Monde, Libération, La Presse",
    "url": "https://www.france24.com/fr/info-en-continu/20260908-south-park-rebaptis%C3%A9-south-america-pour-se-moquer-de-trump",
    "sources": [
     {
@@ -7852,6 +8146,11 @@
      "auteur": "Libération ., AFP .",
      "date": "2026-09-09T05:06-04:00",
      "date_origine": "journal"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/television/2026-09-08/south-park-rebaptise-south-america-pour-se-moquer-de-trump.php",
+     "date": "2026-09-08T17:05-04:00"
     }
    ],
    "resume": "Comedy Central, filiale de Paramount visée au passage, n'a pas encore réagi à la blague.",
@@ -9311,6 +9610,1165 @@
    "_volet": "report",
    "_fichier": "revue-report-2026-09-09.json",
    "_slug": "un-cargo-d-amazon-quitte-la-piste-en-flammes-a-l-aeroport-de-5b9259"
+  },
+  {
+   "titre": "Des chercheurs appellent à agir face à un possible lien entre Alzheimer et transfusion sanguine",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-transfusion-sanguine-chercheurs-appellent-deja-agir-cest-preoccupation-justifiee-137480/",
+   "resume": "Une protéine liée à Alzheimer voyagerait par transfusion, sans qu'aucun test ne la repère.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T23:27-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-alzheimer-transfusion-sanguine-chercheurs-appellent-deja-agir-cest-preoccupation-justifiee-137480/",
+     "auteur": "Annabelle Iglesias",
+     "date": "2026-09-03T23:27-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "des-chercheurs-appellent-a-agir-face-a-un-possible-lien-entr-b10766",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "des-chercheurs-appellent-a-agir-face-a-un-possible-lien-entr-b10766"
+  },
+  {
+   "titre": "Un excès de sucre dans le sang aiderait les cellules cancéreuses à échapper au système immunitaire",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "États-Unis",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/sante/actualites/cancer-trop-sucre-sang-pourrait-aider-cellules-cancereuses-proteger-systeme-immunitaire-137468/",
+   "resume": "Cibler une protéine précise pourrait priver les tumeurs de ce bouclier sucré qui les dissimule.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-02T23:27-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/sante/actualites/cancer-trop-sucre-sang-pourrait-aider-cellules-cancereuses-proteger-systeme-immunitaire-137468/",
+     "auteur": "Véronique Molénat",
+     "date": "2026-09-02T23:27-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-exces-de-sucre-dans-le-sang-aiderait-les-cellules-cancere-256001",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "un-exces-de-sucre-dans-le-sang-aiderait-les-cellules-cancere-256001"
+  },
+  {
+   "titre": "Une trithérapie donnée dès la naissance pourrait éliminer le VIH chez les nourrissons",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Sciences et Avenir",
+   "url": "https://www.sciencesetavenir.fr/sante/un-triple-traitement-a-la-naissance-eliminerait-le-vih_194618?xtor=RSS-16",
+   "resume": "Chez des bébés macaques, le virus a complètement disparu après ce seul traitement précoce.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T04:36-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/sante/un-triple-traitement-a-la-naissance-eliminerait-le-vih_194618?xtor=RSS-16",
+     "auteur": "Nicolas Gutierrez C.",
+     "date": "2026-09-04T04:36-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-tritherapie-donnee-des-la-naissance-pourrait-eliminer-le-a41908",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "une-tritherapie-donnee-des-la-naissance-pourrait-eliminer-le-a41908"
+  },
+  {
+   "titre": "Une étude sur le rationnement britannique montre les bienfaits d'éviter le sucre chez les nourrissons",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Royaume-Uni",
+   "medias": "Sciences et Avenir",
+   "url": "https://www.sciencesetavenir.fr/sante/eviter-le-sucre-durant-les-premiers-mois-de-vie-est-protecteur-pour-la-sante_194648?xtor=RSS-16",
+   "resume": "Nés avant ou après la fin du rationnement, des Britanniques ont vieilli très différemment.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T06:40-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/sante/eviter-le-sucre-durant-les-premiers-mois-de-vie-est-protecteur-pour-la-sante_194648?xtor=RSS-16",
+     "auteur": "Nicolas Gutierrez C.",
+     "date": "2026-09-07T06:40-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-etude-sur-le-rationnement-britannique-montre-les-bienfai-d30b25",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "une-etude-sur-le-rationnement-britannique-montre-les-bienfai-d30b25"
+  },
+  {
+   "titre": "Manger une orange par jour réduirait de 20 % le risque de dépression",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "États-Unis",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/sante/actualites/alimentation-ce-fruit-vous-connaissez-tous-pourrait-reduire-20-risque-depression-w2t8-137201/",
+   "resume": "Le fruit agirait sur le microbiote intestinal, une piste que les chercheurs veulent maintenant creuser.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T02:00-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/sante/actualites/alimentation-ce-fruit-vous-connaissez-tous-pourrait-reduire-20-risque-depression-w2t8-137201/",
+     "auteur": "Nathalie Mayer",
+     "date": "2026-09-08T02:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "manger-une-orange-par-jour-reduirait-de-20-le-risque-de-depr-e17491",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "manger-une-orange-par-jour-reduirait-de-20-le-risque-de-depr-e17491"
+  },
+  {
+   "titre": "Un rein de porc modifié a maintenu un patient en vie neuf mois avant une greffe humaine",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Sciences et Avenir",
+   "url": "https://www.sciencesetavenir.fr/sante/premiere-une-xenogreffe-permet-a-un-homme-de-survivre-jusqu-a-trouver-un-donneur-humain_194733?xtor=RSS-16",
+   "resume": "Le greffon animal n'était qu'un pont, le temps de trouver un donneur humain compatible.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T04:53-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/sante/premiere-une-xenogreffe-permet-a-un-homme-de-survivre-jusqu-a-trouver-un-donneur-humain_194733?xtor=RSS-16",
+     "auteur": "Nicolas Gutierrez C.",
+     "date": "2026-09-09T04:53-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-rein-de-porc-modifie-a-maintenu-un-patient-en-vie-neuf-mo-0cab87",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "un-rein-de-porc-modifie-a-maintenu-un-patient-en-vie-neuf-mo-0cab87"
+  },
+  {
+   "titre": "Un édulcorant courant, le xylitol, lié à davantage de problèmes cardiovasculaires",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-signal-preoccupant-cet-edulcorant-tres-courant-associe-risque-cardiovasculaire-jusqua-57-plus-eleve-137622/",
+   "resume": "Le risque d'accident cardiovasculaire grimpe de 57 % chez les plus exposés à ce sucre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T06:33-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-signal-preoccupant-cet-edulcorant-tres-courant-associe-risque-cardiovasculaire-jusqua-57-plus-eleve-137622/",
+     "auteur": "Christelle Cherrier",
+     "date": "2026-09-09T06:33-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-edulcorant-courant-le-xylitol-lie-a-davantage-de-probleme-5ad572",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "un-edulcorant-courant-le-xylitol-lie-a-davantage-de-probleme-5ad572"
+  },
+  {
+   "titre": "Une expérience en laboratoire explique l'accélération spectaculaire de l'érosion des rivières arctiques",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Canada",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/planete/actualites/arctique-ce-nest-pas-possible-ces-scientifiques-ont-refaire-experience-avant-croire-ce-quils-voyaient-arctique-137604/",
+   "resume": "Reproduite en laboratoire, la fonte du pergélisol a multiplié par dix la vitesse d'érosion.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T07:27-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/planete/actualites/arctique-ce-nest-pas-possible-ces-scientifiques-ont-refaire-experience-avant-croire-ce-quils-voyaient-arctique-137604/",
+     "auteur": "Cécile Breton",
+     "date": "2026-09-09T07:27-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-experience-en-laboratoire-explique-l-acceleration-specta-cd1bd7",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "une-experience-en-laboratoire-explique-l-acceleration-specta-cd1bd7"
+  },
+  {
+   "titre": "La recette du béton romain auto-réparant inspire de nouveaux matériaux de construction",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "États-Unis",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/sciences/actualites/matiere-romains-savaient-fabriquer-beton-repare-leur-recette-revient-faire-durer-nos-constructions-137556/",
+   "resume": "Un mélange à chaud vieux de deux mille ans pourrait prolonger la vie de nos bâtiments.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T05:15-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/sciences/actualites/matiere-romains-savaient-fabriquer-beton-repare-leur-recette-revient-faire-durer-nos-constructions-137556/",
+     "auteur": "Arnaud Pagès",
+     "date": "2026-09-07T05:15-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-recette-du-beton-romain-auto-reparant-inspire-de-nouveaux-e0be0a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "la-recette-du-beton-romain-auto-reparant-inspire-de-nouveaux-e0be0a"
+  },
+  {
+   "titre": "L'ADN d'un pangolin conservé 190 ans confirme l'existence d'une espèce distincte",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Royaume-Uni",
+   "medias": "Sciences et Avenir",
+   "url": "https://www.sciencesetavenir.fr/animaux/pangolin-l-adn-d-un-specimen-vieux-de-190-ans-confirme-une-espece-distincte_194702?xtor=RSS-26",
+   "resume": "Un naturaliste avait déjà repéré cette espèce en 1836, bien avant sa description officielle en 2025.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T06:33-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/animaux/pangolin-l-adn-d-un-specimen-vieux-de-190-ans-confirme-une-espece-distincte_194702?xtor=RSS-26",
+     "auteur": "Sarah Boulvard",
+     "date": "2026-09-07T06:33-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "l-adn-d-un-pangolin-conserve-190-ans-confirme-l-existence-d-8fc40e",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "l-adn-d-un-pangolin-conserve-190-ans-confirme-l-existence-d-8fc40e"
+  },
+  {
+   "titre": "Le squelette d'un soldat écossais du XIVe siècle révèle la première victime connue d'un trébuchet",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Royaume-Uni",
+   "medias": "Sciences et Avenir",
+   "url": "https://www.sciencesetavenir.fr/archeo-paleo/avec-plus-de-160-fractures-cet-ecossais-est-sans-doute-la-premiere-victime-identifiee-d-un-trebuchet_194655?xtor=RSS-4",
+   "resume": "167 fractures racontent l'impact du plus grand trébuchet jamais bâti, érigé sur ordre d'un roi anglais.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-05T08:01-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/archeo-paleo/avec-plus-de-160-fractures-cet-ecossais-est-sans-doute-la-premiere-victime-identifiee-d-un-trebuchet_194655?xtor=RSS-4",
+     "auteur": "Sara de Lacerda",
+     "date": "2026-09-05T08:01-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-squelette-d-un-soldat-ecossais-du-xive-siecle-revele-la-p-2ce0f0",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "le-squelette-d-un-soldat-ecossais-du-xive-siecle-revele-la-p-2ce0f0"
+  },
+  {
+   "titre": "Un fossile vieux d'un demi-milliard d'années réécrit l'histoire des chélicérates",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Pour la Science",
+   "url": "https://www.pourlascience.fr/sr/chroniques-de-levolution/un-fossile-de-500-millions-d-annees-eclaire-l-origine-des-chelicerates-29545.php",
+   "resume": "Un appendice buccal à trois segments distingue les ancêtres de ces araignées et scorpions modernes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T04:41-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Pour la Science",
+     "url": "https://www.pourlascience.fr/sr/chroniques-de-levolution/un-fossile-de-500-millions-d-annees-eclaire-l-origine-des-chelicerates-29545.php",
+     "auteur": "Hervé Le Guyader",
+     "date": "2026-09-09T04:41-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-fossile-vieux-d-un-demi-milliard-d-annees-reecrit-l-histo-1772d1",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "un-fossile-vieux-d-un-demi-milliard-d-annees-reecrit-l-histo-1772d1"
+  },
+  {
+   "titre": "Un code étonnamment simple expliquerait la diversité infinie des chants d'oiseaux",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/planete/actualites/oiseaux-derriere-diversite-infinie-chants-oiseaux-cacherait-code-etonnamment-simple-k2m6-137228/",
+   "resume": "Un seul motif sonore dominant suffit à expliquer la richesse de la plupart de ces chants.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T04:00-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/planete/actualites/oiseaux-derriere-diversite-infinie-chants-oiseaux-cacherait-code-etonnamment-simple-k2m6-137228/",
+     "date": "2026-09-03T04:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-code-etonnamment-simple-expliquerait-la-diversite-infinie-6139cd",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "un-code-etonnamment-simple-expliquerait-la-diversite-infinie-6139cd"
+  },
+  {
+   "titre": "Un champ magnétique intense fait réapparaître la supraconductivité dans un matériau à électrons lourds",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Pour la Science",
+   "url": "https://www.pourlascience.fr/sd/physique/quand-le-champ-magnetique-ressuscite-la-supraconductivite-29531.php",
+   "resume": "Là où un champ magnétique devrait tout détruire, la supraconductivité renaît contre toute attente.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T03:57-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Pour la Science",
+     "url": "https://www.pourlascience.fr/sd/physique/quand-le-champ-magnetique-ressuscite-la-supraconductivite-29531.php",
+     "auteur": "Évrard-Ouicem Eljaouhari",
+     "date": "2026-09-08T03:57-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-champ-magnetique-intense-fait-reapparaitre-la-supraconduc-7c82bf",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "un-champ-magnetique-intense-fait-reapparaitre-la-supraconduc-7c82bf"
+  },
+  {
+   "titre": "Un flux de neutrinos solaires prédit par la théorie est enfin confirmé",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-flux-matiere-noire-predit-soleil-existe-bien-137452/",
+   "resume": "La confirmation de ce flux invisible aide aussi à traquer les particules de matière noire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-04T14:08-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-flux-matiere-noire-predit-soleil-existe-bien-137452/",
+     "auteur": "Laurent Sacco",
+     "date": "2026-09-04T14:08-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-flux-de-neutrinos-solaires-predit-par-la-theorie-est-enfi-5e2eb9",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "un-flux-de-neutrinos-solaires-predit-par-la-theorie-est-enfi-5e2eb9"
+  },
+  {
+   "titre": "La Société royale du Canada dévoile sa cohorte 2026, avec plusieurs chercheurs québécois",
+   "cahier": "savoirs",
+   "rubrique": "sciences",
+   "territoire": "Québec",
+   "medias": "Société royale du Canada, Université de Sherbrooke, Université de Montréal",
+   "url": "https://rsc-src.ca/fr/nouvelles/annonce-la-promotion-de-2026-des-nouveaux-membres",
+   "resume": "De la faune sauvage aux futures missions lunaires, leurs travaux touchent presque tous les domaines.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:26-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Société royale du Canada",
+     "url": "https://rsc-src.ca/fr/nouvelles/annonce-la-promotion-de-2026-des-nouveaux-membres",
+     "date": "2026-09-09T14:26-04:00"
+    },
+    {
+     "media": "Université de Sherbrooke",
+     "url": "https://www.usherbrooke.ca/actualites/nouvelles/details/59152",
+     "auteur": "Valérie Millette",
+     "date": "2026-09-09T14:26-04:00"
+    },
+    {
+     "media": "Université de Montréal",
+     "url": "https://nouvelles.umontreal.ca/article/2026/09/08/six-membres-de-la-communaute-de-l-udem-sont-elus-a-la-societe-royale-du-canada",
+     "date": "2026-09-08T14:26-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-societe-royale-du-canada-devoile-sa-cohorte-2026-avec-plu-074705",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "la-societe-royale-du-canada-devoile-sa-cohorte-2026-avec-plu-074705"
+  },
+  {
+   "titre": "Avant le Sommet spatial de Paris, la France dément vouloir écarter les entreprises américaines",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "France",
+   "medias": "franceinfo, Libération, Sciences et Avenir",
+   "url": "https://www.franceinfo.fr/sciences/espace/sommet-spatial-a-paris-les-etats-unis-sont-les-bienvenus-selon-le-gouvernement-francais-alors-que-la-maison-blanche-pousserait-les-entreprises-americaines-a-bouder-l-evenement_8175164.html",
+   "resume": "Quatre grandes entreprises américaines auraient boudé l'événement, sous une pression prêtée à la Maison-Blanche.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T12:57-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sciences/espace/sommet-spatial-a-paris-les-etats-unis-sont-les-bienvenus-selon-le-gouvernement-francais-alors-que-la-maison-blanche-pousserait-les-entreprises-americaines-a-bouder-l-evenement_8175164.html",
+     "date": "2026-09-03T06:00-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/au-sommet-de-lespace-a-paris-macron-entre-cocorico-spatial-et-ambiance-assez-speciale-20260909_ZFOKCY77DZFL3FONYCJWK3LNIU/",
+     "auteur": "Jean-Christophe Féraud",
+     "date": "2026-09-09T12:57-04:00"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/espace/blue-origin-et-spacex-se-retirent-du-sommet-spatial-de-paris-sur-fond-de-pressions-americaines_194653?xtor=RSS-9",
+     "date": "2026-09-04T04:09-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "avant-le-sommet-spatial-de-paris-la-france-dement-vouloir-ec-a2ff2a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "avant-le-sommet-spatial-de-paris-la-france-dement-vouloir-ec-a2ff2a"
+  },
+  {
+   "titre": "Le patron de l'ESA raconte la renégociation forcée après l'abandon américain de la station Gateway",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "France",
+   "medias": "Ciel et Espace",
+   "url": "https://www.cieletespace.fr/article/quand-la-nasa-a-annule-la-station-lunaire-gateway-nous-avons-du-tout-renegocier-de-zero-josef-aschbacher-directeur-de-l-esa",
+   "resume": "Privé de partenaire lunaire du jour au lendemain, le programme spatial européen a dû revoir ses plans.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T03:58-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Ciel et Espace",
+     "url": "https://www.cieletespace.fr/article/quand-la-nasa-a-annule-la-station-lunaire-gateway-nous-avons-du-tout-renegocier-de-zero-josef-aschbacher-directeur-de-l-esa",
+     "auteur": "Guillaume Langin",
+     "date": "2026-09-03T03:58-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "le-patron-de-l-esa-raconte-la-renegociation-forcee-apres-l-a-d50864",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "le-patron-de-l-esa-raconte-la-renegociation-forcee-apres-l-a-d50864"
+  },
+  {
+   "titre": "Après l'Égypte et le Kenya, un pays de plus refuse de dépendre de l'étranger pour ses satellites",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "Sénégal",
+   "medias": "Sciences et Avenir",
+   "url": "https://www.sciencesetavenir.fr/sciences/en-afrique-aussi-la-course-a-l-espace-s-intensifie-le-senegal-veut-construire-ses-satellites-localement_194743?xtor=RSS-18",
+   "resume": "Dakar veut désormais concevoir et fabriquer ses propres satellites sur son propre sol.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T08:27-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/sciences/en-afrique-aussi-la-course-a-l-espace-s-intensifie-le-senegal-veut-construire-ses-satellites-localement_194743?xtor=RSS-18",
+     "date": "2026-09-09T08:27-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "apres-l-egypte-et-le-kenya-un-pays-de-plus-refuse-de-dependr-7f936a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "apres-l-egypte-et-le-kenya-un-pays-de-plus-refuse-de-dependr-7f936a"
+  },
+  {
+   "titre": "De nouvelles simulations expliquent enfin comment l'océan d'Encelade fracture sa banquise",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/sciences/actualites/encelade-encelade-simulations-pourraient-enfin-expliquer-son-ocean-fracture-banquise-137419/",
+   "resume": "Sous la glace de cette lune de Saturne, un océan pourrait abriter les ingrédients de la vie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T01:08-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/sciences/actualites/encelade-encelade-simulations-pourraient-enfin-expliquer-son-ocean-fracture-banquise-137419/",
+     "auteur": "Laurent Sacco",
+     "date": "2026-09-03T01:08-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "de-nouvelles-simulations-expliquent-enfin-comment-l-ocean-d-3559ae",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "de-nouvelles-simulations-expliquent-enfin-comment-l-ocean-d-3559ae"
+  },
+  {
+   "titre": "Des astronomes trouvent une «pierre de Rosette» pour percer l'énigme des sursauts radio à longue période",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/sciences/actualites/cosmologie-viennent-ces-mysterieux-signaux-venus-espace-nous-avons-trouve-leur-pierre-rosette-137510/",
+   "resume": "Un système déjà connu offre enfin la clé pour déchiffrer ces mystérieux signaux venus de l'espace.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T05:15-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/sciences/actualites/cosmologie-viennent-ces-mysterieux-signaux-venus-espace-nous-avons-trouve-leur-pierre-rosette-137510/",
+     "auteur": "Kovi Rose",
+     "date": "2026-09-09T05:15-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "des-astronomes-trouvent-une-pierre-de-rosette-pour-percer-l-493b2a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "des-astronomes-trouvent-une-pierre-de-rosette-pour-percer-l-493b2a"
+  },
+  {
+   "titre": "Une simulation suggère que la Lune serait née en seulement cinq heures",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/sciences/actualites/lune-lune-aurait-pu-naitre-seulement-cinq-heures-simulation-bouleverse-son-histoire-137490/",
+   "resume": "L'ancien scénario comptait en mois, la nouvelle simulation ne compte plus qu'en heures.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T05:35-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/sciences/actualites/lune-lune-aurait-pu-naitre-seulement-cinq-heures-simulation-bouleverse-son-histoire-137490/",
+     "auteur": "Gaspard Salomon",
+     "date": "2026-09-03T05:35-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-simulation-suggere-que-la-lune-serait-nee-en-seulement-c-f21d3f",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "une-simulation-suggere-que-la-lune-serait-nee-en-seulement-c-f21d3f"
+  },
+  {
+   "titre": "Au Sommet spatial de Paris, un expert dénonce le non-respect des règles sur les débris orbitaux",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "France",
+   "medias": "franceinfo",
+   "url": "https://www.franceinfo.fr/sciences/espace/debris-spatiaux-les-regles-internationales-ne-sont-pas-appliquees-alerte-un-expert-de-l-academie-de-l-air-et-de-l-espace_8184896.html",
+   "resume": "Des milliers d'objets s'accumulent en orbite, pendant que les règles censées limiter leur nombre restent lettre morte.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T12:17-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/sciences/espace/debris-spatiaux-les-regles-internationales-ne-sont-pas-appliquees-alerte-un-expert-de-l-academie-de-l-air-et-de-l-espace_8184896.html",
+     "date": "2026-09-09T12:17-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "au-sommet-spatial-de-paris-un-expert-denonce-le-non-respect-0ab6e2",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "au-sommet-spatial-de-paris-un-expert-denonce-le-non-respect-0ab6e2"
+  },
+  {
+   "titre": "Avec ses satellites Yoda, la France se dote de ses premiers gardes du corps orbitaux",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "France",
+   "medias": "The Conversation",
+   "url": "https://theconversation.com/avec-yoda-la-france-se-prepare-a-defendre-ses-interets-en-orbite-291186",
+   "resume": "D'ici 2030, deux satellites patrouilleurs français surveilleront ceux des autres puissances en orbite.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T06:38-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "The Conversation",
+     "url": "https://theconversation.com/avec-yoda-la-france-se-prepare-a-defendre-ses-interets-en-orbite-291186",
+     "auteur": "Philippe Steininger",
+     "date": "2026-09-08T06:38-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "avec-ses-satellites-yoda-la-france-se-dote-de-ses-premiers-g-9809eb",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "avec-ses-satellites-yoda-la-france-se-dote-de-ses-premiers-g-9809eb"
+  },
+  {
+   "titre": "À l'ONU, un vote quasi unanime redessine la carte du monde au profit de l'Afrique",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "",
+   "medias": "La Presse, BFM, Le Monde, France 24, Sciences et Avenir",
+   "url": "https://www.lapresse.ca/international/2026-09-04/plus-proche-de-la-realite/l-onu-adopte-une-reforme-d-ampleur-de-la-cartographie-mondiale.php",
+   "resume": "Cent soixante-quatre pays ont voté cette carte plus juste : un seul s'y est opposé.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T04:08-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/2026-09-04/plus-proche-de-la-realite/l-onu-adopte-une-reforme-d-ampleur-de-la-cartographie-mondiale.php",
+     "date": "2026-09-04T13:18-04:00"
+    },
+    {
+     "media": "BFM",
+     "url": "https://www.bfmtv.com/international/afrique/l-afrique-agrandie-et-les-etats-unis-retrecis-l-onu-adopte-une-reforme-de-la-cartographie-mondiale-plus-proche-de-la-realite_AD-202609040822.html",
+     "date": "2026-09-04T13:22-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/04/l-onu-adopte-une-reforme-d-ampleur-pour-promouvoir-une-cartographie-mondiale-plus-proche-de-la-realite-que-la-projection-dite-de-mercator_6765845_3210.html",
+     "date": "2026-09-04T13:29-04:00"
+    },
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260904-cartographie-afrique-am%C3%A9rique-latine-asie-sud-agrandies-onu-assembl%C3%A9e-g%C3%A9n%C3%A9rale",
+     "date": "2026-09-04T15:50-04:00"
+    },
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/politique/l-onu-adopte-une-nouvelle-carte-du-monde-plus-juste_194696",
+     "date": "2026-09-07T04:08-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "a-l-onu-un-vote-quasi-unanime-redessine-la-carte-du-monde-au-c8f118",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "a-l-onu-un-vote-quasi-unanime-redessine-la-carte-du-monde-au-c8f118"
+  },
+  {
+   "titre": "La correspondance intime de Nadja et André Breton, muse du surréalisme, est enfin rendue publique",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "Le Monde, RFI",
+   "url": "https://www.lemonde.fr/livres/article/2026/09/05/les-lettres-de-nadja-a-andre-breton-donnent-un-apercu-de-la-vie-tragique-de-la-muse-malmenee-par-l-ecrivain-surrealiste_6766364_3260.html",
+   "resume": "Un siècle après, ces lettres redonnent une voix à la muse que Breton a longtemps fait taire.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Andr%C3%A9_Breton_-_photo_Henri_Manuel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "André Breton",
+   "horodate": "2026-09-09T11:30-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/livres/article/2026/09/05/les-lettres-de-nadja-a-andre-breton-donnent-un-apercu-de-la-vie-tragique-de-la-muse-malmenee-par-l-ecrivain-surrealiste_6766364_3260.html",
+     "date": "2026-09-05T13:00-04:00"
+    },
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/podcasts/de-vive-s-voix/20260909-nadja-un-si%C3%A8cle-plus-tard-l%C3%A9ona-delcourt-andr%C3%A9-breton-et-une-correspondance-surr%C3%A9aliste",
+     "auteur": "Pascal Paradou",
+     "date": "2026-09-09T11:30-04:00"
+    }
+   ],
+   "photo_auteur": "Henri Manuel",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:André Breton",
+   "permalien": "la-correspondance-intime-de-nadja-et-andre-breton-muse-du-su-4d52ac",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "la-correspondance-intime-de-nadja-et-andre-breton-muse-du-su-4d52ac"
+  },
+  {
+   "titre": "L'écrivain Kamel Daoud relaxé au terme d'un procès en diffamation",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "Libération, Le Monde",
+   "url": "https://www.liberation.fr/societe/police-justice/lecrivain-kamel-daoud-relaxe-dans-un-proces-pour-diffamation-20260908_4GYP2GEP4VGPNAVIU57YE35VUM/",
+   "resume": "Le tribunal tranche en sa faveur, dans une affaire qui l'opposait à ceux qu'il avait mis en cause.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T12:36-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/societe/police-justice/lecrivain-kamel-daoud-relaxe-dans-un-proces-pour-diffamation-20260908_4GYP2GEP4VGPNAVIU57YE35VUM/",
+     "auteur": "Eva Lelièvre",
+     "date": "2026-09-08T08:24-04:00"
+    },
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/societe/article/2026/09/08/le-romancier-kamel-daoud-relaxe-dans-un-proces-en-diffamation_6768422_3224.html",
+     "date": "2026-09-08T12:36-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "l-ecrivain-kamel-daoud-relaxe-au-terme-d-un-proces-en-diffam-d380c1",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "l-ecrivain-kamel-daoud-relaxe-au-terme-d-un-proces-en-diffam-d380c1"
+  },
+  {
+   "titre": "Le prix Femina 2026 dévoile sa première sélection, entre Yannick Haenel et Thélyson Orélien",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "La Presse, franceinfo",
+   "url": "https://www.lapresse.ca/arts/litterature/2026-09-08/c-etait-ca-ou-mourir/thelyson-orelien-dans-la-course-au-prix-femina.php",
+   "resume": "La rentrée littéraire entre dans sa saison des prix, un mois avant Goncourt et Renaudot.",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Th%C3%A9lyson_Or%C3%A9lien_%C3%A9crivain.jpg/1280px-Th%C3%A9lyson_Or%C3%A9lien_%C3%A9crivain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Thélyson Orélien",
+   "horodate": "2026-09-08T13:46-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/arts/litterature/2026-09-08/c-etait-ca-ou-mourir/thelyson-orelien-dans-la-course-au-prix-femina.php",
+     "auteur": "Laila Maalouf",
+     "date": "2026-09-08T12:29-04:00"
+    },
+    {
+     "media": "franceinfo",
+     "url": "https://www.franceinfo.fr/culture/livres/prix-litteraires/prix-femina-2026-les-romans-de-yannick-haenel-polina-panassenko-et-thelyson-orelien-dans-la-premiere-selection_8183636.html",
+     "date": "2026-09-08T13:46-04:00"
+    }
+   ],
+   "photo_auteur": "Bablio27",
+   "photo_licence": "CC0",
+   "image_auto": "wikipedia-fr:Thélyson Orélien",
+   "permalien": "le-prix-femina-2026-devoile-sa-premiere-selection-entre-yann-7a3c59",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "le-prix-femina-2026-devoile-sa-premiere-selection-entre-yann-7a3c59"
+  },
+  {
+   "titre": "Corsets, crinolines et rouge à lèvres au plomb : l'histoire dangereuse de la mode féminine",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "",
+   "medias": "L'actualité",
+   "url": "https://lactualite.com/sante-et-science/corsets-crinolines-et-maquillage-au-plomb-quand-la-mode-mettait-la-vie-des-femmes-en-peril/",
+   "resume": "Une professeure de mode retrace des siècles de tendances qui ont mis en jeu la santé des femmes.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T11:50-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/sante-et-science/corsets-crinolines-et-maquillage-au-plomb-quand-la-mode-mettait-la-vie-des-femmes-en-peril/",
+     "auteur": "Naomi Braithwaite",
+     "date": "2026-09-08T11:50-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "corsets-crinolines-et-rouge-a-levres-au-plomb-l-histoire-dan-09584f",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "corsets-crinolines-et-rouge-a-levres-au-plomb-l-histoire-dan-09584f"
+  },
+  {
+   "titre": "Une chercheuse explique pourquoi la souveraineté spatiale européenne ne peut pas être une autonomie totale",
+   "cahier": "savoirs",
+   "rubrique": "idees",
+   "territoire": "France",
+   "medias": "The Conversation",
+   "url": "https://theconversation.com/souverainete-technologique-ce-que-le-spatial-europeen-nous-apprend-de-nos-dependances-291106",
+   "resume": "Vouloir tout maîtriser seul serait une erreur : la vraie souveraineté se joue dans les dépendances choisies.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T06:37-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "The Conversation",
+     "url": "https://theconversation.com/souverainete-technologique-ce-que-le-spatial-europeen-nous-apprend-de-nos-dependances-291106",
+     "auteur": "Mathilde Aubry",
+     "date": "2026-09-08T06:37-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-chercheuse-explique-pourquoi-la-souverainete-spatiale-eu-ba2c4a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "une-chercheuse-explique-pourquoi-la-souverainete-spatiale-eu-ba2c4a"
+  },
+  {
+   "titre": "Paris et Tesla négocient enfin les conditions d'un essai du FSD sur les routes françaises",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "ZDNet, MacGeneration, Tesla Mag",
+   "url": "https://www.zdnet.fr/actualites/conduite-autonome-tesla-demarre-ses-essais-de-fsd-en-france-501141.htm",
+   "resume": "Six semaines après l'avoir jugé pas assez sûr, le ministre des Transports change de ton.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T06:25-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/conduite-autonome-tesla-demarre-ses-essais-de-fsd-en-france-501141.htm",
+     "date": "2026-09-03T02:09-04:00"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/mobilites/2026/09/tesla-fsd-en-france-deux-voitures-bientot-testees-mais-rien-nest-encore-gagne-310817",
+     "auteur": "Christophe Laporte",
+     "date": "2026-09-03T02:59-04:00"
+    },
+    {
+     "media": "Tesla Mag",
+     "url": "https://www.tesla-mag.com/fsd-tesla-en-france-homologation-robotaxis-et-niveau-4-ce-que-change-vraiment-lappel-tabarot-musk/",
+     "auteur": "Teslam",
+     "date": "2026-09-08T06:25-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "paris-et-tesla-negocient-enfin-les-conditions-d-un-essai-du-2cd778",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "paris-et-tesla-negocient-enfin-les-conditions-d-un-essai-du-2cd778"
+  },
+  {
+   "titre": "Une nouvelle puce s'attaque au vrai goulot d'étranglement des ordinateurs quantiques : leurs câbles",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/tech/actualites/informatique-ordinateurs-quantiques-sont-freines-leurs-cables-cette-puce-pourrait-changer-donne-137166/",
+   "resume": "Chaque qubit relié par un câble classique produit une chaleur qui menace tout l'édifice quantique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T01:03-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/tech/actualites/informatique-ordinateurs-quantiques-sont-freines-leurs-cables-cette-puce-pourrait-changer-donne-137166/",
+     "auteur": "Arnaud Pagès",
+     "date": "2026-09-08T01:03-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-nouvelle-puce-s-attaque-au-vrai-goulot-d-etranglement-de-ed0c85",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "une-nouvelle-puce-s-attaque-au-vrai-goulot-d-etranglement-de-ed0c85"
+  },
+  {
+   "titre": "Une chercheuse propose une cote énergétique pour comparer l'appétit électrique de l'intelligence artificielle",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "L'actualité",
+   "url": "https://lactualite.com/sante-et-science/une-cote-energetique-pour-lia/",
+   "resume": "Une recherche enrichie par l'IA consomme dix fois plus d'électricité qu'une simple liste de liens.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T01:00-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/sante-et-science/une-cote-energetique-pour-lia/",
+     "auteur": "Chantal Srivastava",
+     "date": "2026-09-09T01:00-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-chercheuse-propose-une-cote-energetique-pour-comparer-l-0760cb",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "une-chercheuse-propose-une-cote-energetique-pour-comparer-l-0760cb"
+  },
+  {
+   "titre": "Dans une partie de Civilization VI, l'IA de Claude change de stratégie et bombarde Toulouse",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "Futura Sciences",
+   "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-claude-tenait-presque-victoire-civilization-vi-puis-ia-completement-change-strategie-bombarde-toulouse-137619/",
+   "resume": "Testée sur plus de 300 tours, la partie évalue la constance stratégique de l'intelligence artificielle.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T09:03-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Futura Sciences",
+     "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-claude-tenait-presque-victoire-civilization-vi-puis-ia-completement-change-strategie-bombarde-toulouse-137619/",
+     "auteur": "Edward Back",
+     "date": "2026-09-09T09:03-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "dans-une-partie-de-civilization-vi-l-ia-de-claude-change-de-af9a9a",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "dans-une-partie-de-civilization-vi-l-ia-de-claude-change-de-af9a9a"
+  },
+  {
+   "titre": "Un expert décortique la coordination inédite de 700 agents IA lors d'une cyberattaque contre Hugging Face",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "États-Unis",
+   "medias": "Sciences et Avenir",
+   "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/openai-688-agents-ia-se-coordonnent-ce-qu-en-dit-un-expert-en-cybersecurite_194644?xtor=RSS-12",
+   "resume": "Coordonner autant d'agents pour une intrusion révèle une capacité d'organisation autonome jusque-là jamais observée.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-03T10:53-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Sciences et Avenir",
+     "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/openai-688-agents-ia-se-coordonnent-ce-qu-en-dit-un-expert-en-cybersecurite_194644?xtor=RSS-12",
+     "auteur": "Olivier Lascar",
+     "date": "2026-09-03T10:53-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "un-expert-decortique-la-coordination-inedite-de-700-agents-i-23063b",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "un-expert-decortique-la-coordination-inedite-de-700-agents-i-23063b"
+  },
+  {
+   "titre": "La Suisse prépare son propre plan pour se passer de Microsoft 365",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "Suisse",
+   "medias": "Clubic, MacGeneration",
+   "url": "https://www.clubic.com/actualite-628705-a-son-tour-la-suisse-veut-quitter-microsoft-365.html",
+   "resume": "Comme l'Allemagne avant elle, la Confédération veut réduire sa dépendance aux logiciels américains.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T05:41-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628705-a-son-tour-la-suisse-veut-quitter-microsoft-365.html",
+     "date": "2026-09-08T04:22-04:00"
+    },
+    {
+     "media": "MacGeneration",
+     "url": "https://www.macg.co/logiciels/2026/09/la-suisse-prepare-un-plan-b-open-source-face-microsoft-365-310917",
+     "auteur": "Félix Cattafesta",
+     "date": "2026-09-08T05:41-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-suisse-prepare-son-propre-plan-pour-se-passer-de-microsof-ce2042",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "la-suisse-prepare-son-propre-plan-pour-se-passer-de-microsof-ce2042"
+  },
+  {
+   "titre": "Après un été d'attaques, l'agence française de cybersécurité obtient des pouvoirs élargis",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "Clubic, ZDNet",
+   "url": "https://www.clubic.com/actualite-628648-face-aux-cyberattaques-en-france-l-anssi-muscle-ses-capacites-de-reponse.html",
+   "resume": "L'agence pourra désormais imposer aux ministères des mesures immédiates pour protéger les données des citoyens.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-08T06:09-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Clubic",
+     "url": "https://www.clubic.com/actualite-628648-face-aux-cyberattaques-en-france-l-anssi-muscle-ses-capacites-de-reponse.html",
+     "date": "2026-09-07T12:46-04:00"
+    },
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/lanssi-prend-les-pleins-pouvoirs-pour-stopper-lhemorragie-cyber-de-letat-503007.htm",
+     "date": "2026-09-08T06:09-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "apres-un-ete-d-attaques-l-agence-francaise-de-cybersecurite-4bb972",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "apres-un-ete-d-attaques-l-agence-francaise-de-cybersecurite-4bb972"
+  },
+  {
+   "titre": "La gendarmerie alerte sur le «SIM swapping», une faille qui menace les comptes des entreprises",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "France",
+   "medias": "ZDNet, Libération",
+   "url": "https://www.zdnet.fr/actualites/sim-swapping-une-alerte-de-la-gendarmerie-revele-une-faille-critique-pour-la-securite-des-entreprises-502932.htm",
+   "resume": "En se faisant passer pour vous auprès de l'opérateur, un pirate peut vider un compte en une minute.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T10:55-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "ZDNet",
+     "url": "https://www.zdnet.fr/actualites/sim-swapping-une-alerte-de-la-gendarmerie-revele-une-faille-critique-pour-la-securite-des-entreprises-502932.htm",
+     "date": "2026-09-07T00:09-04:00"
+    },
+    {
+     "media": "Libération",
+     "url": "https://www.liberation.fr/economie/economie-numerique/le-sim-swapping-une-escroquerie-qui-vide-vos-comptes-en-soixante-secondes-20260907_F2ZYFKP3YBCZDDMBKCL3XVXUJQ/",
+     "date": "2026-09-07T10:55-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "la-gendarmerie-alerte-sur-le-sim-swapping-une-faille-qui-men-7eff20",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "la-gendarmerie-alerte-sur-le-sim-swapping-une-faille-qui-men-7eff20"
+  },
+  {
+   "titre": "Une faille de sécurité déjà exploitée pousse Google à mettre à jour Chrome en urgence",
+   "cahier": "savoirs",
+   "rubrique": "technologies",
+   "territoire": "",
+   "medias": "Presse-citron",
+   "url": "https://www.presse-citron.net/donnees-danger-google-chrome-faille-exploitee-mise-a-jour/",
+   "resume": "Tant que la mise à jour n'est pas installée, les données du navigateur restent exposées.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-07T09:31-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Presse-citron",
+     "url": "https://www.presse-citron.net/donnees-danger-google-chrome-faille-exploitee-mise-a-jour/",
+     "auteur": "Setra",
+     "date": "2026-09-07T09:31-04:00"
+    }
+   ],
+   "image_auto": "aucune",
+   "permalien": "une-faille-de-securite-deja-exploitee-pousse-google-a-mettre-7dcf4c",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "une-faille-de-securite-deja-exploitee-pousse-google-a-mettre-7dcf4c"
+  },
+  {
+   "titre": "Un documentaire présenté à la Mostra de Venise dissèque la personnalité d'Elon Musk",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "Italie",
+   "medias": "La Presse, Le Journal de Montréal, Le Devoir",
+   "url": "https://www.lapresse.ca/cinema/2026-09-08/mostra-de-venise/elon-musk-au-coeur-d-un-documentaire.php",
+   "resume": "Inventeur, sociopathe ou commerçant hors pair : le film ne tranche pas et laisse le spectateur juger.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_White_House_-_54409525537_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Elon Musk",
+   "horodate": "2026-09-08T18:24-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/cinema/2026-09-08/mostra-de-venise/elon-musk-au-coeur-d-un-documentaire.php",
+     "auteur": "Alexandria Sage",
+     "date": "2026-09-08T12:08-04:00"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/09/08/la-bande-annonce-dun-documentaire-sur-elon-musk-devoilee",
+     "date": "2026-09-08T13:04-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/cinema/1007444/enigmatique-elon-musk-coeur-documentaire-fleuve",
+     "auteur": "Alexandria Sage",
+     "date": "2026-09-08T18:24-04:00"
+    }
+   ],
+   "photo_auteur": "The White House",
+   "photo_licence": "Public domain",
+   "image_auto": "wikipedia-fr:Elon Musk",
+   "permalien": "un-documentaire-presente-a-la-mostra-de-venise-disseque-la-p-2b0ebf",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "un-documentaire-presente-a-la-mostra-de-venise-disseque-la-p-2b0ebf"
+  },
+  {
+   "titre": "«Adieu monde cruel» de Félix de Givry raconte deux solitudes qui s'inventent un refuge",
+   "cahier": "savoirs",
+   "rubrique": "cinema",
+   "territoire": "France",
+   "medias": "Le Monde",
+   "url": "https://www.lemonde.fr/culture/article/2026/09/08/dans-adieu-monde-cruel-felix-de-givry-filme-deux-ames-solitaires-qui-s-inventent-un-refuge-secret_6768109_3246.html",
+   "resume": "Le film suit deux âmes esseulées qui choisissent de réinventer, ensemble, une raison de continuer.",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/F%C3%A9lix_de_Givry_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Félix de Givry",
+   "horodate": "2026-09-08T00:30-04:00",
+   "entree": "2026-09-09T14:26-04:00",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/culture/article/2026/09/08/dans-adieu-monde-cruel-felix-de-givry-filme-deux-ames-solitaires-qui-s-inventent-un-refuge-secret_6768109_3246.html",
+     "date": "2026-09-08T00:30-04:00"
+    }
+   ],
+   "photo_auteur": "Georges Biard",
+   "photo_licence": "CC BY-SA 3.0",
+   "image_auto": "wikipedia-fr:Félix de Givry",
+   "permalien": "adieu-monde-cruel-de-felix-de-givry-raconte-deux-solitudes-q-f2bce4",
+   "_volet": "savoirs",
+   "_fichier": "revue-savoirs-2026-09-09.json",
+   "_slug": "adieu-monde-cruel-de-felix-de-givry-raconte-deux-solitudes-q-f2bce4"
   }
  ]
 }
