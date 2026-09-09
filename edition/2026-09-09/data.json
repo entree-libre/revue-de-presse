@@ -2,6 +2,7 @@
  "date": "2026-09-09",
  "volets": [
   "continu",
+  "economie-opinions",
   "elections",
   "hors-rss",
   "local",
@@ -1618,7 +1619,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Le Devoir",
+   "medias": "Le Devoir, LaPresse.ca - Affaires",
    "url": "https://www.ledevoir.com/economie/1007624/hausse-taux-interet-ajoute-craintes-liees-guerre-commerciale",
    "sources": [
     {
@@ -1626,6 +1627,12 @@
      "url": "https://www.ledevoir.com/economie/1007624/hausse-taux-interet-ajoute-craintes-liees-guerre-commerciale",
      "auteur": "Stéphane Rolland",
      "date": "2026-09-09T12:23-04:00"
+    },
+    {
+     "media": "LaPresse.ca - Affaires",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-09-09/guerre-commerciale/la-hausse-des-taux-d-interet-s-ajoute-aux-craintes.php",
+     "auteur": "Stéphane Rolland",
+     "date": "2026-09-09T11:44-04:00"
     }
    ],
    "resume": "Gouvernements et entreprises empruntent maintenant plus cher, en pleine tension commerciale avec Washington.",
@@ -1775,6 +1782,7 @@
    ],
    "permalien": "le-canada-et-l-union-europeenne-preparent-un-partenariat-eco-856ef4",
    "entree": "2026-09-09T14:00-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "le-canada-et-l-union-europeenne-preparent-un-partenariat-eco-856ef4"
@@ -1799,6 +1807,7 @@
    ],
    "permalien": "le-fabricant-quebecois-brp-touche-par-les-dernieres-mesures-66a2fd",
    "entree": "2026-09-09T13:57-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "le-fabricant-quebecois-brp-touche-par-les-dernieres-mesures-66a2fd"
@@ -1824,6 +1833,7 @@
    ],
    "permalien": "vols-de-vehicules-et-crimes-armes-en-fort-recul-a-montreal-e-b60dea",
    "entree": "2026-09-09T14:09-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "vols-de-vehicules-et-crimes-armes-en-fort-recul-a-montreal-e-b60dea"
@@ -1843,11 +1853,13 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2282030/obstetrique-rupture-hopital-gaspe",
-     "date": "2026-09-09T13:56-04:00"
+     "date": "2026-09-09T13:56-04:00",
+     "auteur": "Gala Dionne"
     }
    ],
    "permalien": "l-hopital-de-gaspe-suspend-temporairement-les-accouchements-a804ef",
    "entree": "2026-09-09T13:56-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "l-hopital-de-gaspe-suspend-temporairement-les-accouchements-a804ef"
@@ -1873,6 +1885,7 @@
    ],
    "permalien": "un-reseau-de-faux-papiers-d-identite-demantele-a-deux-montag-33bd50",
    "entree": "2026-09-09T14:04-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "un-reseau-de-faux-papiers-d-identite-demantele-a-deux-montag-33bd50"
@@ -1898,6 +1911,7 @@
    ],
    "permalien": "acquittement-pour-le-rappeur-k-naan-vise-par-une-plainte-rem-3f252f",
    "entree": "2026-09-09T14:25-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "acquittement-pour-le-rappeur-k-naan-vise-par-une-plainte-rem-3f252f"
@@ -1922,6 +1936,7 @@
    ],
    "permalien": "un-nouveau-centre-de-traitement-des-dependances-voit-le-jour-3c671b",
    "entree": "2026-09-09T14:26-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "un-nouveau-centre-de-traitement-des-dependances-voit-le-jour-3c671b"
@@ -1941,11 +1956,13 @@
     {
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2282041/proces-meurtre-jade-racette-beaulieu",
-     "date": "2026-09-09T14:27-04:00"
+     "date": "2026-09-09T14:27-04:00",
+     "auteur": "Amélie Desmarais"
     }
    ],
    "permalien": "proces-pour-le-meurtre-d-une-jeune-femme-qui-avait-denonce-s-bd90a1",
    "entree": "2026-09-09T14:27-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "proces-pour-le-meurtre-d-une-jeune-femme-qui-avait-denonce-s-bd90a1"
@@ -1971,11 +1988,13 @@
     {
      "media": "Mac4ever",
      "url": "https://www.mac4ever.com/iphone/197946-l-iphone-duo-est-officiel-voila-toutes-les-infos",
-     "date": "2026-09-09T13:59-04:00"
+     "date": "2026-09-09T13:59-04:00",
+     "auteur": "Vincent Lautier"
     }
    ],
    "permalien": "apple-lance-l-iphone-duo-son-premier-telephone-pliable-aa1ce5",
    "entree": "2026-09-09T13:59-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "apple-lance-l-iphone-duo-son-premier-telephone-pliable-aa1ce5"
@@ -2017,6 +2036,7 @@
    ],
    "permalien": "l-avion-de-volodymyr-zelensky-vise-par-un-drone-en-direction-374113",
    "entree": "2026-09-09T14:22-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "l-avion-de-volodymyr-zelensky-vise-par-un-drone-en-direction-374113"
@@ -2041,9 +2061,422 @@
    ],
    "permalien": "une-frappe-de-drone-russe-touche-un-centre-commercial-a-soum-510e06",
    "entree": "2026-09-09T13:58-04:00",
+   "image_auto": "aucune",
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "une-frappe-de-drone-russe-touche-un-centre-commercial-a-soum-510e06"
+  },
+  {
+   "titre": "CGI renforce ses capacités en IA d'entreprise en achetant une firme de Cincinnati",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Montréal",
+   "resume": "Cincinnati accueille une nouvelle antenne montréalaise en intelligence artificielle, acquise plutôt que bâtie.",
+   "horodate": "2026-09-09T11:38-04:00",
+   "sources": [
+    {
+     "media": "LaPresse.ca - Affaires",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-09/services-conseils-en-technologies/cgi-fait-l-acquisition-de-la-firme-americaine-callibrity.php",
+     "date": "2026-09-09T11:38-04:00",
+     "auteur": "La Presse Canadienne"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/cgi-fait-lacquisition-de-callibrity-renforcant-sa-presence-a-cincinnati-ainsi-que-ses-capacites-en-ia-prete-pour-la-production-et-en-ingenierie-de-plateformes/",
+     "date": "2026-09-09T06:30-04:00"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-cgi-acquires-us-tech-consulting-firm-callibrity/",
+     "date": "2026-09-09T09:00-04:00"
+    }
+   ],
+   "medias": "LaPresse.ca - Affaires, Les Affaires, The Globe and Mail",
+   "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-09/services-conseils-en-technologies/cgi-fait-l-acquisition-de-la-firme-americaine-callibrity.php",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "cgi-renforce-ses-capacites-en-ia-d-entreprise-en-achetant-un-013e89",
+   "entree": "2026-09-09T11:38-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "cgi-renforce-ses-capacites-en-ia-d-entreprise-en-achetant-un-013e89"
+  },
+  {
+   "titre": "Les prix affichés pour la location reculent encore au Canada, un 23e mois de baisse d'affilée",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "resume": "Vingt-trois mois de suite que ça recule : le marché locatif canadien n'a plus le vent en poupe.",
+   "horodate": "2026-09-09T13:05-04:00",
+   "sources": [
+    {
+     "media": "LaPresse.ca - Affaires",
+     "url": "https://www.lapresse.ca/affaires/marche-immobilier/2026-09-09/canada/le-loyer-moyen-demande-a-baisse-de-4-8-en-aout.php",
+     "auteur": "Sammy Hudes",
+     "date": "2026-09-09T13:05-04:00"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-average-asking-rents-fall-48-in-august/",
+     "auteur": "Sammy Hudes",
+     "date": "2026-09-09T11:00-04:00"
+    }
+   ],
+   "medias": "LaPresse.ca - Affaires, The Globe and Mail",
+   "url": "https://www.lapresse.ca/affaires/marche-immobilier/2026-09-09/canada/le-loyer-moyen-demande-a-baisse-de-4-8-en-aout.php",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "les-prix-affiches-pour-la-location-reculent-encore-au-canada-1d020a",
+   "entree": "2026-09-09T13:05-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "les-prix-affiches-pour-la-location-reculent-encore-au-canada-1d020a"
+  },
+  {
+   "titre": "Ottawa et l'Alberta lancent le plus grand chantier de captage de carbone au pays",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Alberta",
+   "resume": "Sous les plaines albertaines, la capacité d'enfouir plus d'un million de tonnes de CO2 par an prend forme.",
+   "horodate": "2026-09-09T13:29-04:00",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/energy-and-resources/article-enhance-energy-breaks-ground-on-canadas-largest-carbon-capture-project/",
+     "auteur": "Emma Graney",
+     "date": "2026-09-09T13:29-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/nous-tracons-la-voie-vers-la-carboneutralite-le-canada-lance-le-plus-important-projet-de-captage-et-de-stockage-du-carbone-au-pays/",
+     "date": "2026-09-09T13:15-04:00"
+    }
+   ],
+   "medias": "The Globe and Mail, Les Affaires",
+   "url": "https://www.theglobeandmail.com/business/energy-and-resources/article-enhance-energy-breaks-ground-on-canadas-largest-carbon-capture-project/",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "ottawa-et-l-alberta-lancent-le-plus-grand-chantier-de-captag-d2a60e",
+   "entree": "2026-09-09T13:29-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "ottawa-et-l-alberta-lancent-le-plus-grand-chantier-de-captag-d2a60e"
+  },
+  {
+   "titre": "IG Gestion de patrimoine confie à Goldman Sachs les placements d'un million de Canadiens",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "resume": "Ce qui était réservé aux gros portefeuilles institutionnels s'invite maintenant dans le régime d'épargne d'un million de Canadiens.",
+   "horodate": "2026-09-08T07:30-04:00",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-ig-wealth-hires-goldman-sachs-to-bring-institutional-investment/",
+     "auteur": "Andrew Willis",
+     "date": "2026-09-08T07:30-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/secteurs/finance/ig-gestion-de-patrimoine-et-goldman-sachs-asset-management-offriront-une-expertise-en-placement-institutionnel-a-la-clientele-canadienne/",
+     "date": "2026-09-08T07:30-04:00"
+    }
+   ],
+   "medias": "The Globe and Mail, Les Affaires",
+   "url": "https://www.theglobeandmail.com/business/article-ig-wealth-hires-goldman-sachs-to-bring-institutional-investment/",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey%2C_20231001_1150_1065.jpg/1280px-Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey%2C_20231001_1150_1065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "La tour de Goldman Sachs à Jersey City, au New Jersey.",
+   "photo_auteur": "Jakub Hałun",
+   "photo_licence": "CC BY 4.0",
+   "permalien": "ig-gestion-de-patrimoine-confie-a-goldman-sachs-les-placemen-ec18c1",
+   "entree": "2026-09-08T07:30-04:00",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "ig-gestion-de-patrimoine-confie-a-goldman-sachs-les-placemen-ec18c1"
+  },
+  {
+   "titre": "Geoffrey Turner presse les conservateurs fédéraux de miser sur la réforme fiscale",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "resume": "Récupérer le terrain économique perdu, un parti fédéral s'y emploierait par la réforme fiscale plutôt que par l'usure.",
+   "horodate": "2026-09-08T06:00-04:00",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/commentary/article-conservatives-losing-economic-narrative-tax-reform/",
+     "auteur": "Geoffrey S. Turner",
+     "date": "2026-09-08T06:00-04:00"
+    }
+   ],
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/commentary/article-conservatives-losing-economic-narrative-tax-reform/",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "geoffrey-turner-presse-les-conservateurs-federaux-de-miser-s-b568da",
+   "entree": "2026-09-08T06:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "geoffrey-turner-presse-les-conservateurs-federaux-de-miser-s-b568da"
+  },
+  {
+   "titre": "Joël Blit presse les universités de s'adapter en vitesse à l'intelligence artificielle",
+   "cahier": "canada",
+   "rubrique": "education",
+   "territoire": "Canada",
+   "resume": "Les politiques sur l'IA se multiplient sur les campus, mais la salle de classe a-t-elle vraiment changé?",
+   "horodate": "2026-09-09T05:00-04:00",
+   "sources": [
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/commentary/article-ai-is-disrupting-education-universities-must-change-and-change-fast/",
+     "auteur": "Joël Blit",
+     "date": "2026-09-09T05:00-04:00"
+    }
+   ],
+   "medias": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/commentary/article-ai-is-disrupting-education-universities-must-change-and-change-fast/",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "joel-blit-presse-les-universites-de-s-adapter-en-vitesse-a-l-ad0819",
+   "entree": "2026-09-09T05:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "joel-blit-presse-les-universites-de-s-adapter-en-vitesse-a-l-ad0819"
+  },
+  {
+   "titre": "Hydro-Québec : la production remonte un peu, mais les réservoirs restent bas",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "resume": "Un peu plus d'eau dans les barrages ce printemps, mais encore loin d'un plein soulagement.",
+   "horodate": "2026-09-09T05:00-04:00",
+   "sources": [
+    {
+     "media": "LaPresse.ca - Affaires",
+     "url": "https://www.lapresse.ca/affaires/2026-09-09/hydro-quebec/une-production-en-hausse-mais-un-niveau-d-eau-encore-critique.php",
+     "auteur": "Hélène Baril",
+     "date": "2026-09-09T05:00-04:00"
+    }
+   ],
+   "medias": "LaPresse.ca - Affaires",
+   "url": "https://www.lapresse.ca/affaires/2026-09-09/hydro-quebec/une-production-en-hausse-mais-un-niveau-d-eau-encore-critique.php",
+   "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Hydro-Qu%C3%A9bec_transformateur.jpg/1280px-Hydro-Qu%C3%A9bec_transformateur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "legende": "Un poste de transformation d'Hydro-Québec.",
+   "photo_auteur": "Jean-Pierre Lavoie from Montreal, Canada",
+   "photo_licence": "CC BY 2.0",
+   "permalien": "hydro-quebec-la-production-remonte-un-peu-mais-les-reservoir-33e1d1",
+   "entree": "2026-09-09T05:00-04:00",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "hydro-quebec-la-production-remonte-un-peu-mais-les-reservoir-33e1d1"
+  },
+  {
+   "titre": "Les contre-tarifs cachent une taxe de plus pour les consommateurs québécois",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "resume": "Une taxe qui se calcule sur une autre taxe : la facture cachée des contre-tarifs pour les consommateurs.",
+   "horodate": "2026-09-09T11:04-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/opinions/une-taxe-sur-les-tarifs/",
+     "auteur": "Dany Provost",
+     "date": "2026-09-09T11:04-04:00"
+    }
+   ],
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/opinions/une-taxe-sur-les-tarifs/",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "les-contre-tarifs-cachent-une-taxe-de-plus-pour-les-consomma-550369",
+   "entree": "2026-09-09T11:04-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "les-contre-tarifs-cachent-une-taxe-de-plus-pour-les-consomma-550369"
+  },
+  {
+   "titre": "Statistique Canada relie le revenu du couple à la probabilité d'un premier enfant",
+   "cahier": "canada",
+   "rubrique": "societe",
+   "territoire": "Canada",
+   "resume": "Chez les femmes en emploi, avoir un premier enfant reste deux fois plus probable dans les familles aisées.",
+   "horodate": "2026-09-09T08:30-04:00",
+   "sources": [
+    {
+     "media": "Statistique Canada",
+     "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260909/dq260909a-fra.htm",
+     "date": "2026-09-09T08:30-04:00"
+    }
+   ],
+   "medias": "Statistique Canada",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260909/dq260909a-fra.htm",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "statistique-canada-relie-le-revenu-du-couple-a-la-probabilit-6c2ce9",
+   "entree": "2026-09-09T08:30-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "statistique-canada-relie-le-revenu-du-couple-a-la-probabilit-6c2ce9"
+  },
+  {
+   "titre": "Statistique Canada chiffre le loyer moyen à 2130 $ par mois, Montréal en recul de 5 %",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "resume": "Dans trois villes, payer son loyer coûte désormais plus cher que ce qu'on demande aux nouveaux locataires.",
+   "horodate": "2026-09-09T08:30-04:00",
+   "sources": [
+    {
+     "media": "Statistique Canada",
+     "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260909/dq260909c-fra.htm",
+     "date": "2026-09-09T08:30-04:00"
+    }
+   ],
+   "medias": "Statistique Canada",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260909/dq260909c-fra.htm",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "statistique-canada-chiffre-le-loyer-moyen-a-2130-par-mois-mo-5ed75e",
+   "entree": "2026-09-09T08:30-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "statistique-canada-chiffre-le-loyer-moyen-a-2130-par-mois-mo-5ed75e"
+  },
+  {
+   "titre": "L'ISQ recense près de 23 000 mariages au Québec en 2025, un nombre stable",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Québec",
+   "resume": "Les trois derniers samedis d'août battent tous les autres jours de l'année pour se marier au Québec.",
+   "horodate": "2026-09-09T16:24-04:00",
+   "sources": [
+    {
+     "media": "Institut de la statistique du Québec",
+     "url": "https://statistique.quebec.ca/fr/communique/nombre-mariages-celebres-demeure-faible-2025",
+     "date": "2026-09-09T16:24-04:00"
+    }
+   ],
+   "medias": "Institut de la statistique du Québec",
+   "url": "https://statistique.quebec.ca/fr/communique/nombre-mariages-celebres-demeure-faible-2025",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "l-isq-recense-pres-de-23-000-mariages-au-quebec-en-2025-un-n-253c9f",
+   "entree": "2026-09-09T16:24-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "l-isq-recense-pres-de-23-000-mariages-au-quebec-en-2025-un-n-253c9f"
+  },
+  {
+   "titre": "Pierre-Carl Michaud propose une grille pour lire les cadres financiers des partis",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Québec",
+   "resume": "Un économiste dresse la liste des quatre tours qui rendent un cadre financier électoral plus séduisant que réaliste.",
+   "horodate": "2026-09-09T16:24-04:00",
+   "sources": [
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/chroniques/chronique-de-pierre-carl-michaud/",
+     "auteur": "Pierre-Carl Michaud",
+     "date": "2026-09-09T16:24-04:00"
+    }
+   ],
+   "medias": "L'actualité",
+   "url": "https://lactualite.com/chroniques/chronique-de-pierre-carl-michaud/",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "pierre-carl-michaud-propose-une-grille-pour-lire-les-cadres-1a63bd",
+   "entree": "2026-09-09T16:24-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "pierre-carl-michaud-propose-une-grille-pour-lire-les-cadres-1a63bd"
+  },
+  {
+   "titre": "Thetford Mines mise sur ses résidus miniers pour bâtir une filière de 450 milliards $",
+   "cahier": "quebec",
+   "rubrique": "economie",
+   "territoire": "Thetford Mines (Chaudière-Appalaches)",
+   "resume": "Une ancienne mine d'amiante viserait maintenant jusqu'à 450 milliards en valeur minérale récupérée.",
+   "horodate": "2026-09-08T04:00-04:00",
+   "sources": [
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/affaires/affaires-locales/2026/09/08/du-gris-au-vert-transformer-le-passif-minier-en-actif-IJ3ESU2Z5NHHFN5WPRTQB6ANMU/",
+     "date": "2026-09-08T04:00-04:00",
+     "auteur": "Mégan Harvey"
+    }
+   ],
+   "medias": "Le Soleil",
+   "url": "https://www.lesoleil.com/affaires/affaires-locales/2026/09/08/du-gris-au-vert-transformer-le-passif-minier-en-actif-IJ3ESU2Z5NHHFN5WPRTQB6ANMU/",
+   "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Downtown_Thetford_Mines_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "legende": "Le centre-ville de Thetford Mines, en Chaudière-Appalaches.",
+   "photo_auteur": "Thetfordboy",
+   "photo_licence": "CC BY-SA 3.0",
+   "permalien": "thetford-mines-mise-sur-ses-residus-miniers-pour-batir-une-f-4d9947",
+   "entree": "2026-09-08T04:00-04:00",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "thetford-mines-mise-sur-ses-residus-miniers-pour-batir-une-f-4d9947"
+  },
+  {
+   "titre": "Presse-toi à gauche dénonce l'accord pétrolier entre Washington et le Venezuela post-Maduro",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "Venezuela, États-Unis",
+   "resume": "Neuf mois après l'arrestation de son président, le sous-sol vénézuélien change de mains à coups de milliards.",
+   "horodate": "2026-09-08T06:17-04:00",
+   "sources": [
+    {
+     "media": "Presse-toi à gauche !",
+     "url": "https://www.pressegauche.org/Un-imperialisme-a-l-ancienne-Donald-Trump-fait-main-basse-sur-le-petrole-du",
+     "auteur": "Jeanne Cassard",
+     "date": "2026-09-08T06:17-04:00"
+    }
+   ],
+   "medias": "Presse-toi à gauche !",
+   "url": "https://www.pressegauche.org/Un-imperialisme-a-l-ancienne-Donald-Trump-fait-main-basse-sur-le-petrole-du",
+   "photo": "",
+   "legende": "",
+   "photo_auteur": "",
+   "photo_licence": "",
+   "permalien": "presse-toi-a-gauche-denonce-l-accord-petrolier-entre-washing-8391fa",
+   "entree": "2026-09-08T06:17-04:00",
+   "image_auto": "aucune",
+   "_volet": "economie-opinions",
+   "_fichier": "revue-economie-opinions-2026-09-09.json",
+   "_slug": "presse-toi-a-gauche-denonce-l-accord-petrolier-entre-washing-8391fa"
   },
   {
    "titre": "La Boussole électorale de Radio-Canada accusée de biais par la gauche",
@@ -2344,7 +2777,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Radio-Canada",
+   "medias": "Radio-Canada, La Presse",
    "url": "https://ici.radio-canada.ca/nouvelle/2281827/pcq-cadre-financier-2026-engagements-election",
    "sources": [
     {
@@ -2358,6 +2791,17 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2282001/cadre-financier-pcq-3e-lien-prive",
      "date": "2026-09-09T13:01-04:00",
      "auteur": "Félix Morrissette-Beaulieu"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/le-pcq-devoile-son-cadre-financier.php",
+     "auteur": "Charles Lecavalier",
+     "date": "2026-09-09T14:43-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10756042/elections-quebec-2026-eric-duhaime-presente-son-cadre-financier",
+     "date": "2026-09-09T15:01-04:00"
     }
    ],
    "resume": "Mise à jour, 13 h 01 — Un partenariat public-privé, jamais chiffré, pourrait financer le troisième lien promis par le PCQ.",
@@ -2868,7 +3312,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec (Pontiac)",
-   "medias": "La Presse, Radio-Canada, Le Devoir, Coops de l'information, Québecor",
+   "medias": "La Presse, Radio-Canada, Le Devoir, Coops de l'information, Québecor, CBC",
    "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/antiavortement-therapie-de-conversion/un-premier-candidat-du-pcq-prend-la-porte.php",
    "resume": "Mise à jour, 12 h 04 — Duhaime qualifie ces révélations de simple distraction et veut recentrer sa campagne sur le fond.",
    "photo": "",
@@ -2904,6 +3348,11 @@
      "url": "https://www.journaldequebec.com/2026/09/09/euthanasie-51e-etat-antiavortement-voici-les-candidats-controverses-deric-duhaime",
      "date": "2026-09-09T12:04-04:00",
      "auteur": "Annabelle Blais et Patrick Bellerose"
+    },
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/canada/ottawa/conservative-party-quebec-provincial-candidate-pontiac-eric-lanthier-9.7337188",
+     "date": "2026-09-09T14:16-04:00"
     }
    ],
    "permalien": "eric-lanthier-quitte-la-course-dans-pontiac-vise-par-d-ancie-b2598b",
@@ -3460,17 +3909,23 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Cogeco Média",
+   "medias": "Cogeco Média, La Presse",
    "url": "https://www.youtube.com/watch?v=9LcAZ0cG3DE",
-   "resume": "Ses propres démarches de permis auprès du gouvernement nourrissent les soupçons de retour d'ascenseur.",
+   "resume": "Mise à jour, 15 h 21 — Sa tournée doit débuter jeudi dans des PME à travers le Québec.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-09T12:49-04:00",
+   "horodate": "2026-09-09T15:21-04:00",
    "sources": [
     {
      "media": "Cogeco Média",
      "url": "https://www.youtube.com/watch?v=9LcAZ0cG3DE",
      "date": "2026-09-09T12:49-04:00"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/elections-quebecoises/2026-09-09/simple-conseiller/olivier-primeau-n-attend-absolument-rien-en-retour-de-la-caq.php",
+     "auteur": "Marie-Eve Morasse",
+     "date": "2026-09-09T15:21-04:00"
     }
    ],
    "permalien": "l-entrepreneur-olivier-primeau-defend-sa-tournee-des-pme-aux-04505f",
@@ -3504,6 +3959,116 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "la-ligue-des-droits-et-libertes-presente-son-outil-de-verifi-f785ad"
+  },
+  {
+   "titre": "Le PCQ présente Esther Besrest comme candidate dans René-Lévesque",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Côte-Nord (René-Lévesque)",
+   "medias": "Le Haute Côte-Nord, Le Manic",
+   "url": "https://www.journalhcn.com/2026/09/09/elections-2026-dans-rene-levesque-voici-la-candidate-conservatrice/",
+   "resume": "Comptable de profession, elle transmet à ses enfants la scolarisation à domicile qu'elle a elle-même connue.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T15:07-04:00",
+   "sources": [
+    {
+     "media": "Le Haute Côte-Nord",
+     "url": "https://www.journalhcn.com/2026/09/09/elections-2026-dans-rene-levesque-voici-la-candidate-conservatrice/",
+     "auteur": "Karianne Nepton-Philippe",
+     "date": "2026-09-09T15:07-04:00"
+    },
+    {
+     "media": "Le Manic",
+     "url": "https://www.lemanic.ca/2026/09/09/elections-2026-dans-rene-levesque-voici-la-candidate-conservatrice/",
+     "auteur": "Karianne Nepton-Philippe",
+     "date": "2026-09-09T15:07-04:00"
+    }
+   ],
+   "permalien": "le-pcq-presente-esther-besrest-comme-candidate-dans-rene-lev-921659",
+   "entree": "2026-09-09T15:07-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "le-pcq-presente-esther-besrest-comme-candidate-dans-rene-lev-921659"
+  },
+  {
+   "titre": "Selon Charles Milliard, une victoire de la CAQ ouvrirait la porte à un référendum",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1007675/vote-caq-est-vote-referendum-selon-charles-milliard",
+   "resume": "Interrogé sur cette théorie, son adversaire péquiste s'est simplement mis à rire.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T14:50-04:00",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1007675/vote-caq-est-vote-referendum-selon-charles-milliard",
+     "auteur": "Marie-Michèle Sioui",
+     "date": "2026-09-09T14:50-04:00"
+    }
+   ],
+   "permalien": "selon-charles-milliard-une-victoire-de-la-caq-ouvrirait-la-p-c40f4b",
+   "entree": "2026-09-09T14:50-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "selon-charles-milliard-une-victoire-de-la-caq-ouvrirait-la-p-c40f4b"
+  },
+  {
+   "titre": "Un politologue décortique les limites du vote stratégique en campagne québécoise",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "The Conversation",
+   "url": "https://theconversation.com/choisir-de-voter-de-facon-sincere-ou-strategique-291096",
+   "resume": "L'exercice suppose de deviner correctement le choix des autres électeurs, un pari incertain.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T13:56-04:00",
+   "sources": [
+    {
+     "media": "The Conversation",
+     "url": "https://theconversation.com/choisir-de-voter-de-facon-sincere-ou-strategique-291096",
+     "auteur": "André Blais",
+     "date": "2026-09-09T13:56-04:00"
+    }
+   ],
+   "permalien": "un-politologue-decortique-les-limites-du-vote-strategique-en-4b4d32",
+   "entree": "2026-09-09T13:56-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "un-politologue-decortique-les-limites-du-vote-strategique-en-4b4d32"
+  },
+  {
+   "titre": "Selon L'actualité, les débats à venir présentent un risque particulier pour le chef péquiste",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "L'actualité",
+   "url": "https://lactualite.com/politique/debats-ce-que-pspp-a-a-perdre-les-autres-a-gagner/",
+   "resume": "Le chroniqueur invoque une règle vieille de vingt ans sur les candidats à l'opposition.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T15:00-04:00",
+   "sources": [
+    {
+     "media": "L'actualité",
+     "url": "https://lactualite.com/politique/debats-ce-que-pspp-a-a-perdre-les-autres-a-gagner/",
+     "auteur": "Paul Wells",
+     "date": "2026-09-09T15:00-04:00"
+    }
+   ],
+   "permalien": "selon-l-actualite-les-debats-a-venir-presentent-un-risque-pa-94a26b",
+   "entree": "2026-09-09T15:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "selon-l-actualite-les-debats-a-venir-presentent-un-risque-pa-94a26b"
   },
   {
    "titre": "Québec exige 15 % de matériaux d'ici dans les chantiers des municipalités",
@@ -7618,7 +8183,7 @@
    "cahier": "quebec",
    "rubrique": "idees",
    "territoire": "Québec",
-   "medias": "IRIS",
+   "medias": "IRIS, Presse-toi à gauche !",
    "url": "https://iris-recherche.qc.ca/blogue/etat-finances-publiques-et-secteur-public/serie-neoliberalisme-immigration/",
    "sources": [
     {
@@ -7626,6 +8191,12 @@
      "url": "https://iris-recherche.qc.ca/blogue/etat-finances-publiques-et-secteur-public/serie-neoliberalisme-immigration/",
      "date": "2026-09-08T14:12-04:00",
      "auteur": "Julia Posca"
+    },
+    {
+     "media": "Presse-toi à gauche !",
+     "url": "https://www.pressegauche.org/Trente-ans-de-politiques-neoliberales-au-Quebec-Les-finances-publiques",
+     "auteur": "Guillaume Hébert",
+     "date": "2026-09-08T07:55-04:00"
     }
    ],
    "resume": "L'institut, qui critique le désengagement de l'État, y voit un choix idéologique plus qu'un hasard.",
@@ -8150,7 +8721,8 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/arts/television/2026-09-08/south-park-rebaptise-south-america-pour-se-moquer-de-trump.php",
-     "date": "2026-09-08T17:05-04:00"
+     "date": "2026-09-08T17:05-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "resume": "Comedy Central, filiale de Paramount visée au passage, n'a pas encore réagi à la blague.",
@@ -8300,7 +8872,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "The Globe and Mail",
+   "medias": "The Globe and Mail, Les Affaires",
    "url": "https://www.theglobeandmail.com/business/economy/article-bank-of-nova-scotia-to-issue-defence-bonds-through-new-framework/",
    "sources": [
     {
@@ -8308,6 +8880,11 @@
      "url": "https://www.theglobeandmail.com/business/economy/article-bank-of-nova-scotia-to-issue-defence-bonds-through-new-framework/",
      "date": "2026-09-08T19:10-04:00",
      "auteur": "Pippa Norman"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/la-banque-scotia-publie-son-cadre-de-reference-des-obligations-canadiennes-de-defense/",
+     "date": "2026-09-08T12:00-04:00"
     }
    ],
    "resume": "Le secteur financier emboîte le pas aux ambitions d'Ottawa de bâtir une base industrielle militaire au pays.",
@@ -10063,7 +10640,8 @@
     {
      "media": "Sciences et Avenir",
      "url": "https://www.sciencesetavenir.fr/espace/blue-origin-et-spacex-se-retirent-du-sommet-spatial-de-paris-sur-fond-de-pressions-americaines_194653?xtor=RSS-9",
-     "date": "2026-09-04T04:09-04:00"
+     "date": "2026-09-04T04:09-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "image_auto": "aucune",
@@ -10114,7 +10692,8 @@
     {
      "media": "Sciences et Avenir",
      "url": "https://www.sciencesetavenir.fr/sciences/en-afrique-aussi-la-course-a-l-espace-s-intensifie-le-senegal-veut-construire-ses-satellites-localement_194743?xtor=RSS-18",
-     "date": "2026-09-09T08:27-04:00"
+     "date": "2026-09-09T08:27-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "image_auto": "aucune",
@@ -10268,17 +10847,20 @@
     {
      "media": "La Presse",
      "url": "https://www.lapresse.ca/international/2026-09-04/plus-proche-de-la-realite/l-onu-adopte-une-reforme-d-ampleur-de-la-cartographie-mondiale.php",
-     "date": "2026-09-04T13:18-04:00"
+     "date": "2026-09-04T13:18-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "BFM",
      "url": "https://www.bfmtv.com/international/afrique/l-afrique-agrandie-et-les-etats-unis-retrecis-l-onu-adopte-une-reforme-de-la-cartographie-mondiale-plus-proche-de-la-realite_AD-202609040822.html",
-     "date": "2026-09-04T13:22-04:00"
+     "date": "2026-09-04T13:22-04:00",
+     "auteur": "BFM L.V. et Agence France-Presse"
     },
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/international/article/2026/09/04/l-onu-adopte-une-reforme-d-ampleur-pour-promouvoir-une-cartographie-mondiale-plus-proche-de-la-realite-que-la-projection-dite-de-mercator_6765845_3210.html",
-     "date": "2026-09-04T13:29-04:00"
+     "date": "2026-09-04T13:29-04:00",
+     "auteur": "Agence France-Presse"
     },
     {
      "media": "France 24",
@@ -10288,7 +10870,8 @@
     {
      "media": "Sciences et Avenir",
      "url": "https://www.sciencesetavenir.fr/politique/l-onu-adopte-une-nouvelle-carte-du-monde-plus-juste_194696",
-     "date": "2026-09-07T04:08-04:00"
+     "date": "2026-09-07T04:08-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "image_auto": "aucune",
@@ -10313,7 +10896,8 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/livres/article/2026/09/05/les-lettres-de-nadja-a-andre-breton-donnent-un-apercu-de-la-vie-tragique-de-la-muse-malmenee-par-l-ecrivain-surrealiste_6766364_3260.html",
-     "date": "2026-09-05T13:00-04:00"
+     "date": "2026-09-05T13:00-04:00",
+     "auteur": "Amaury da Cunha"
     },
     {
      "media": "RFI",
@@ -10352,7 +10936,8 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/societe/article/2026/09/08/le-romancier-kamel-daoud-relaxe-dans-un-proces-en-diffamation_6768422_3224.html",
-     "date": "2026-09-08T12:36-04:00"
+     "date": "2026-09-08T12:36-04:00",
+     "auteur": "Agence France-Presse"
     }
    ],
    "image_auto": "aucune",
@@ -10603,7 +11188,8 @@
     {
      "media": "Clubic",
      "url": "https://www.clubic.com/actualite-628705-a-son-tour-la-suisse-veut-quitter-microsoft-365.html",
-     "date": "2026-09-08T04:22-04:00"
+     "date": "2026-09-08T04:22-04:00",
+     "auteur": "Guillaume Belfiore"
     },
     {
      "media": "MacGeneration",
@@ -10634,7 +11220,8 @@
     {
      "media": "Clubic",
      "url": "https://www.clubic.com/actualite-628648-face-aux-cyberattaques-en-france-l-anssi-muscle-ses-capacites-de-reponse.html",
-     "date": "2026-09-07T12:46-04:00"
+     "date": "2026-09-07T12:46-04:00",
+     "auteur": "Guillaume Belfiore"
     },
     {
      "media": "ZDNet",
@@ -10759,7 +11346,8 @@
     {
      "media": "Le Monde",
      "url": "https://www.lemonde.fr/culture/article/2026/09/08/dans-adieu-monde-cruel-felix-de-givry-filme-deux-ames-solitaires-qui-s-inventent-un-refuge-secret_6768109_3246.html",
-     "date": "2026-09-08T00:30-04:00"
+     "date": "2026-09-08T00:30-04:00",
+     "auteur": "Boris Bastide"
     }
    ],
    "photo_auteur": "Georges Biard",
