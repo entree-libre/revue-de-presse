@@ -2686,7 +2686,7 @@
    "cahier": "elections",
    "rubrique": "politique",
    "territoire": "Québec",
-   "medias": "Le Devoir",
+   "medias": "Le Devoir, Radio-Canada",
    "url": "https://www.ledevoir.com/politique/quebec/1007381/boussole-electorale-radio-canada-elle-perdu-nord",
    "sources": [
     {
@@ -2694,12 +2694,17 @@
      "url": "https://www.ledevoir.com/politique/quebec/1007381/boussole-electorale-radio-canada-elle-perdu-nord",
      "auteur": "Mathieu Carbasse",
      "date": "2026-09-09T00:00-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/episodes/1220912/mercredi-9-septembre-quoi-faire-avec-vos-surplus-de-tomates-et-une-boussole-electorale-qui-suscite-une-pluie-de-critiques",
+     "date": "2026-09-09T17:11-04:00"
     }
    ],
-   "resume": "Un outil consulté par 260 000 personnes, mais contesté à gauche comme à droite.",
+   "resume": "Mise à jour, 17 h 11 — Son concepteur, un professeur de Laval, défend la rigueur de la méthode malgré la controverse.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-09T00:00-04:00",
+   "horodate": "2026-09-09T17:11-04:00",
    "entree": "2026-09-09T03:26-04:00",
    "image_auto": "aucune",
    "permalien": "la-boussole-electorale-de-radio-canada-accusee-de-biais-par-e34a12",
@@ -4465,6 +4470,102 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "la-caq-chiffre-a-56-millions-son-plan-pour-la-releve-agricol-9ff6dd"
+  },
+  {
+   "titre": "Une affirmation du candidat libéral Farnell Morisset sur le DGEQ et l'UPAC jugée fausse",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Québecor",
+   "url": "https://www.journaldemontreal.com/2026/09/09/heure-juste-non-le-plq-na-pas-ete-blanchi-par-le-dgeq-et-lupac-comme-le-pretend-son-candidat-farnel-morisset",
+   "resume": "Reste à savoir si d'autres candidats répéteront une conclusion que ni le DGEQ ni l'UPAC n'ont rendue publique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T18:00-04:00",
+   "sources": [
+    {
+     "media": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/09/heure-juste-non-le-plq-na-pas-ete-blanchi-par-le-dgeq-et-lupac-comme-le-pretend-son-candidat-farnel-morisset",
+     "date": "2026-09-09T18:00-04:00",
+     "auteur": "Annabelle Blais"
+    }
+   ],
+   "permalien": "une-affirmation-du-candidat-liberal-farnell-morisset-sur-le-59e7fb",
+   "entree": "2026-09-09T18:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "une-affirmation-du-candidat-liberal-farnell-morisset-sur-le-59e7fb"
+  },
+  {
+   "titre": "Une chronique observe comment l'itinérance se vit dans la campagne, depuis un refuge de Shawinigan",
+   "cahier": "elections",
+   "rubrique": "societe",
+   "territoire": "Shawinigan (Mauricie)",
+   "medias": "Coops de l'information",
+   "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/09/lisoloir-nest-pas-un-refuge-petit-guide-de-lelecteur-sans-abris-J333DNJ43FHURK6R5RMG5I6NAQ/",
+   "resume": "À Shawinigan, des personnes itinérantes commentent les questions de la boussole électorale affichées sur un babillard.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T18:57-04:00",
+   "sources": [
+    {
+     "media": "Le Quotidien",
+     "url": "https://www.lequotidien.com/elections-provinciales-2026/2026/09/09/lisoloir-nest-pas-un-refuge-petit-guide-de-lelecteur-sans-abris-J333DNJ43FHURK6R5RMG5I6NAQ/",
+     "auteur": "Sébastien Houle",
+     "date": "2026-09-09T18:57-04:00"
+    },
+    {
+     "media": "Le Nouvelliste",
+     "url": "https://www.lenouvelliste.ca/elections-provinciales-2026/2026/09/09/lisoloir-nest-pas-un-refuge-petit-guide-de-lelecteur-sans-abris-J333DNJ43FHURK6R5RMG5I6NAQ/",
+     "auteur": "Sébastien Houle",
+     "date": "2026-09-09T18:57-04:00"
+    },
+    {
+     "media": "La Voix de l'Est",
+     "url": "https://www.lavoixdelest.ca/elections-provinciales-2026/2026/09/09/lisoloir-nest-pas-un-refuge-petit-guide-de-lelecteur-sans-abris-J333DNJ43FHURK6R5RMG5I6NAQ/",
+     "auteur": "Sébastien Houle",
+     "date": "2026-09-09T18:57-04:00"
+    },
+    {
+     "media": "Le Soleil",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/09/lisoloir-nest-pas-un-refuge-petit-guide-de-lelecteur-sans-abris-J333DNJ43FHURK6R5RMG5I6NAQ/",
+     "auteur": "Sébastien Houle",
+     "date": "2026-09-09T18:57-04:00"
+    }
+   ],
+   "permalien": "une-chronique-observe-comment-l-itinerance-se-vit-dans-la-ca-0c1847",
+   "entree": "2026-09-09T18:57-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "une-chronique-observe-comment-l-itinerance-se-vit-dans-la-ca-0c1847"
+  },
+  {
+   "titre": "Alain Rayes s'interroge sur la vérification des candidats après plusieurs controverses dans tous les partis",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-09/des-squelettes-dans-le-placard/qui-a-laisse-passer-ces-candidats.php",
+   "resume": "Duhaime et Plamondon rejettent les critiques, quand Rayes y voit un test de jugement pour les partis.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T19:00-04:00",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/dialogue/chroniques/2026-09-09/des-squelettes-dans-le-placard/qui-a-laisse-passer-ces-candidats.php",
+     "auteur": "Alain Rayes",
+     "date": "2026-09-09T19:00-04:00"
+    }
+   ],
+   "permalien": "alain-rayes-s-interroge-sur-la-verification-des-candidats-ap-eb44d0",
+   "entree": "2026-09-09T19:00-04:00",
+   "image_auto": "aucune",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "alain-rayes-s-interroge-sur-la-verification-des-candidats-ap-eb44d0"
   },
   {
    "titre": "Québec exige 15 % de matériaux d'ici dans les chantiers des municipalités",
