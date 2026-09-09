@@ -1184,7 +1184,7 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Parti conservateur du Québec",
+   "medias": "Parti conservateur du Québec, Coops de l'information",
    "url": "https://conservateur.quebec/blog/ressources/cadre-financier-le-pcq-presente-un-plan-credible-de-retour-a-lequilibre-budgetaire/",
    "resume": "Duhaime chiffre chaque engagement et met la CAQ au défi de dévoiler le sien avant les débats.",
    "photo": "",
@@ -1196,10 +1196,17 @@
      "url": "https://conservateur.quebec/blog/ressources/cadre-financier-le-pcq-presente-un-plan-credible-de-retour-a-lequilibre-budgetaire/",
      "date": "2026-09-09T09:00-04:00",
      "date_origine": "journal"
+    },
+    {
+     "media": "Coops de l'information",
+     "url": "https://www.lesoleil.com/elections-provinciales-2026/2026/09/09/le-parti-conservateur-detaille-son-cadre-financier-L4QJAQ2PS5GVNLCNRJ3FUQQ3WA/",
+     "auteur": "Juliette Nadeau-Besse",
+     "date": "2026-09-09T08:59-04:00"
     }
    ],
    "permalien": "le-pcq-depose-un-cadre-financier-de-pres-de-100-pages-visant-332b95",
    "entree": "2026-09-09T08:58-04:00",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "le-pcq-depose-un-cadre-financier-de-pres-de-100-pages-visant-332b95"
@@ -1233,9 +1240,85 @@
    ],
    "permalien": "une-demande-d-injonction-vise-a-retablir-l-anglais-dans-les-410f04",
    "entree": "2026-09-08T18:29-04:00",
+   "image_auto": "aucune",
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "une-demande-d-injonction-vise-a-retablir-l-anglais-dans-les-410f04"
+  },
+  {
+   "titre": "Élections Québec rappelle les façons méconnues de voter avant le 5 octobre",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Infodimanche",
+   "url": "https://www.infodimanche.com/elections-quebec-2026/elections-provinciales-de-2026-plusieurs-options-pour-voter/",
+   "resume": "Chasseurs et travailleurs itinérants peuvent voter ailleurs que dans leur propre bureau de scrutin.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T05:55-04:00",
+   "sources": [
+    {
+     "media": "Infodimanche",
+     "url": "https://www.infodimanche.com/elections-quebec-2026/elections-provinciales-de-2026-plusieurs-options-pour-voter/",
+     "date": "2026-09-09T05:55-04:00"
+    }
+   ],
+   "entree": "2026-09-09T09:22-04:00",
+   "image_auto": "aucune",
+   "permalien": "elections-quebec-rappelle-les-facons-meconnues-de-voter-avan-965773",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "elections-quebec-rappelle-les-facons-meconnues-de-voter-avan-965773"
+  },
+  {
+   "titre": "L'APNQL demande aux partis provinciaux de s'engager envers les Premières Nations",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Les Affaires",
+   "url": "https://www.lesaffaires.com/communique-de-presse/elections-provinciales-lapnql-invite-les-partis-a-batir-ensemble-un-acces-plus-equitable-aux-services-publics-pour-les-premieres-nations/",
+   "resume": "Santé, enfance, éducation, sécurité publique : quatre chantiers que l'APNQL veut voir chiffrés avant le vote.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T07:00-04:00",
+   "sources": [
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/elections-provinciales-lapnql-invite-les-partis-a-batir-ensemble-un-acces-plus-equitable-aux-services-publics-pour-les-premieres-nations/",
+     "date": "2026-09-09T07:00-04:00"
+    }
+   ],
+   "entree": "2026-09-09T09:22-04:00",
+   "image_auto": "aucune",
+   "permalien": "l-apnql-demande-aux-partis-provinciaux-de-s-engager-envers-l-d6eb0a",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "l-apnql-demande-aux-partis-provinciaux-de-s-engager-envers-l-d6eb0a"
+  },
+  {
+   "titre": "Les maires de la MRC de Joliette pressent les candidats de s'engager sur leurs priorités",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Lanaudière",
+   "medias": "MRC de Joliette",
+   "url": "https://mrcjoliette.qc.ca/election2026/",
+   "resume": "Infrastructures, transport collectif, fiscalité : les élus veulent des engagements écrits avant le 5 octobre.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T08:15-04:00",
+   "sources": [
+    {
+     "media": "MRC de Joliette",
+     "url": "https://mrcjoliette.qc.ca/election2026/",
+     "date": "2026-09-09T08:15-04:00"
+    }
+   ],
+   "entree": "2026-09-09T09:22-04:00",
+   "image_auto": "aucune",
+   "permalien": "les-maires-de-la-mrc-de-joliette-pressent-les-candidats-de-s-53356b",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "les-maires-de-la-mrc-de-joliette-pressent-les-candidats-de-s-53356b"
   },
   {
    "titre": "L'Arabie saoudite promet de riposter après une attaque houthie d'ampleur inédite sur son territoire",
