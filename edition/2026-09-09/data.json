@@ -222,7 +222,7 @@
    "cahier": "international",
    "rubrique": "politique",
    "territoire": "États-Unis",
-   "medias": "Libération, CNEWS, France 24, TV5MONDE, RFI",
+   "medias": "Libération, CNEWS, France 24, TV5MONDE, RFI, Ouest-France, Le Devoir",
    "url": "https://www.liberation.fr/international/amerique/convention-republicaine-a-dallas-le-pari-risque-de-donald-trump-pour-sauver-les-midterms-20260909_QMJ6VS6PZNA2TLKO5UMTMHZDZM/",
    "sources": [
     {
@@ -254,6 +254,16 @@
      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260909-%C3%A9tats-unis-trump-r%C3%A9unit-camp-dallas-avant-des-%C3%A9lections-de-mi-mandat-qui-s-annoncent-difficiles",
      "date": "2026-09-09T05:06-04:00",
      "date_origine": "journal"
+    },
+    {
+     "media": "Ouest-France",
+     "url": "https://www.ouest-france.fr/monde/etats-unis/donald-trump/a-dallas-trump-mise-sur-sa-personne-pour-sauver-les-elections-de-mi-mandat-1df74708-ac97-11f1-8801-66f16947434c",
+     "date": "2026-09-09T00:00-04:00"
+    },
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/monde/etats-unis/1007789/dallas-trump-mise-personne-sauver-elections-mi-mandat",
+     "date": "2026-09-09T00:00-04:00"
     }
    ],
    "resume": "L'événement de deux jours expose surtout la dépendance d'un parti de plus en plus soumis à son chef.",
@@ -1784,7 +1794,7 @@
    "cahier": "canada",
    "rubrique": "economie",
    "territoire": "Canada",
-   "medias": "Coops de l'information, La Presse",
+   "medias": "Coops de l'information, La Presse, Canada's National Observer, Radio-Canada",
    "url": "https://www.lesoleil.com/affaires/2026/09/09/un-nouveau-partenariat-unique-entre-le-canada-et-l-ue-se-met-en-place-LEDM7TG7G5A3VK26RCTPBWAAGQ/",
    "resume": "Ottawa et Bruxelles discutent d'un accord qui irait au-delà de tout ce qui existe déjà.",
    "photo": "",
@@ -1802,6 +1812,17 @@
      "url": "https://www.lapresse.ca/affaires/economie/2026-09-09/un-nouveau-partenariat-unique-entre-le-canada-et-l-ue-se-met-en-place.php",
      "auteur": "Dylan Robertson",
      "date": "2026-09-09T13:59-04:00"
+    },
+    {
+     "media": "Canada's National Observer",
+     "url": "https://www.nationalobserver.com/2026/09/09/news/eu-envoy-says-unique-new-partnership-canada-forming-ahead-carneys-speech",
+     "auteur": "Dylan Robertson",
+     "date": "2026-09-09T19:21-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282146/nouveau-partenariat-unique-canada-ue",
+     "date": "2026-09-09T19:21-04:00"
     }
    ],
    "permalien": "le-canada-et-l-union-europeenne-preparent-un-partenariat-eco-856ef4",
@@ -2028,7 +2049,7 @@
    "cahier": "international",
    "rubrique": "conflits",
    "territoire": "Ukraine",
-   "medias": "Le Devoir, Libération, Le Monde, Radio-Canada",
+   "medias": "Le Devoir, Libération, Le Monde, Radio-Canada, South China Morning Post",
    "url": "https://www.ledevoir.com/monde/europe/1007654/avion-zelensky-failli-etre-touche-drone-tandis-il-faisait-route-vers-norvege",
    "resume": "Kyiv rappelle que le ciel reste dangereux, même pour son propre président.",
    "photo": "",
@@ -2056,6 +2077,12 @@
      "media": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2282038/avion-zelensky-drone-norvege",
      "date": "2026-09-09T14:14-04:00"
+    },
+    {
+     "media": "South China Morning Post",
+     "url": "https://www.scmp.com/news/world/europe/article/3366973/ukraine-leader-zelenskys-plane-almost-hit-drone-way-oslo-norway-pm-says",
+     "date": "2026-09-09T18:53-04:00",
+     "auteur": "Reuters"
     }
    ],
    "permalien": "l-avion-de-volodymyr-zelensky-vise-par-un-drone-en-direction-374113",
@@ -2268,6 +2295,351 @@
    "_volet": "continu",
    "_fichier": "revue-continu-2026-09-09.json",
    "_slug": "le-conseil-de-saint-celestin-reclame-a-l-unanimite-la-demiss-1f6ccf"
+  },
+  {
+   "titre": "L'entreprise albertaine Enbridge s'offre pour 2,55 milliards $ US les actifs pétroliers de Tallgrass Energy",
+   "cahier": "canada",
+   "rubrique": "economie",
+   "territoire": "Canada",
+   "medias": "La Presse, Les Affaires, Global News, The Globe and Mail",
+   "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-09/enbridge-annonce-une-acquisition-de-2-55-milliards-us-aux-etats-unis.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-09-09/enbridge-annonce-une-acquisition-de-2-55-milliards-us-aux-etats-unis.php",
+     "auteur": "Lauren Krugel, La Presse Canadienne",
+     "date": "2026-09-09T17:34-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/bourse/actualites-boursieres/enbridge-va-acquerir-les-activites-petrolieres-de-tallgrass-energy-pour-255gus/",
+     "auteur": "La Presse Canadienne",
+     "date": "2026-09-09T17:34-04:00"
+    },
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12053099/enbridge-us-pipeline-storage-acquisition/",
+     "date": "2026-09-09T17:55-04:00"
+    },
+    {
+     "media": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/business/article-enbridge-tallgrass-blackstone-pipeline-crude-oil/",
+     "date": "2026-09-09T17:00-04:00",
+     "auteur": "Lauren Krugel"
+    }
+   ],
+   "resume": "L'expansion américaine du géant albertain profite de la ruée sur le stockage pétrolier des Rocheuses.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T17:55-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "l-entreprise-albertaine-enbridge-s-offre-pour-2-55-milliards-82b827",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "l-entreprise-albertaine-enbridge-s-offre-pour-2-55-milliards-82b827"
+  },
+  {
+   "titre": "Ottawa exempte les pipelines interprovinciaux d'un pan de l'évaluation environnementale fédérale",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Canada",
+   "medias": "CBC",
+   "url": "https://www.cbc.ca/news/politics/government-regulation-review-process-9.7337783?cmp=rss",
+   "sources": [
+    {
+     "media": "CBC",
+     "url": "https://www.cbc.ca/news/politics/government-regulation-review-process-9.7337783?cmp=rss",
+     "auteur": "Darren Major",
+     "date": "2026-09-09T17:44-04:00"
+    }
+   ],
+   "resume": "Moins de projets énergétiques transfrontaliers passeront désormais sous la loupe de l'Agence d'évaluation d'impact.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T17:44-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "ottawa-exempte-les-pipelines-interprovinciaux-d-un-pan-de-l-a75335",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "ottawa-exempte-les-pipelines-interprovinciaux-d-un-pan-de-l-a75335"
+  },
+  {
+   "titre": "Le gouvernement fédéral recule sur son projet d'exempter de grands chantiers de la Loi sur les espèces en péril",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Canada",
+   "medias": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/environnement/2026-09-09/grands-projets/ottawa-renonce-a-contourner-la-loi-sur-les-especes-en-peril.php",
+   "sources": [
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-09-09/grands-projets/ottawa-renonce-a-contourner-la-loi-sur-les-especes-en-peril.php",
+     "auteur": "Nick Murray, La Presse Canadienne",
+     "date": "2026-09-09T17:21-04:00"
+    }
+   ],
+   "resume": "Des groupes environnementaux avertissent que d'autres contournements légaux restent possibles malgré ce recul.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T17:21-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "le-gouvernement-federal-recule-sur-son-projet-d-exempter-de-07f88c",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "le-gouvernement-federal-recule-sur-son-projet-d-exempter-de-07f88c"
+  },
+  {
+   "titre": "Un nouveau partenariat fédéral avec Amii doit offrir un cours gratuit de littératie en IA",
+   "cahier": "canada",
+   "rubrique": "education",
+   "territoire": "Canada",
+   "medias": "Innovation, Sciences et Développement économique Canada, Les Affaires",
+   "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/le-gouvernement-du-canada-lance-linitiative-nationale-de-litteratie-en-ia.html",
+   "sources": [
+    {
+     "media": "Innovation, Sciences et Développement économique Canada",
+     "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/le-gouvernement-du-canada-lance-linitiative-nationale-de-litteratie-en-ia.html",
+     "date": "2026-09-09T17:40-04:00"
+    },
+    {
+     "media": "Les Affaires",
+     "url": "https://www.lesaffaires.com/communique-de-presse/le-gouvernement-du-canada-lance-linitiative-nationale-de-litteratie-en-ia/",
+     "date": "2026-09-09T17:40-04:00"
+    }
+   ],
+   "resume": "Étudiants et travailleurs partout au pays pourront suivre un cours gratuit de trois heures.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T17:40-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "un-nouveau-partenariat-federal-avec-amii-doit-offrir-un-cour-143acc",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "un-nouveau-partenariat-federal-avec-amii-doit-offrir-un-cour-143acc"
+  },
+  {
+   "titre": "Santé Québec Estrie peine à trouver des milieux substituts pour 85 enfants suivis par la DPJ",
+   "cahier": "quebec",
+   "rubrique": "sante",
+   "territoire": "Estrie",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2282098/protection-jeunesse-sante-quebec",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282098/protection-jeunesse-sante-quebec",
+     "date": "2026-09-09T16:56-04:00",
+     "auteur": "Pierrick Pichette"
+    }
+   ],
+   "resume": "Sans plus de milieux d'accueil, des enfants vulnérables risquent de rester coincés dans le système.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T16:56-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "sante-quebec-estrie-peine-a-trouver-des-milieux-substituts-p-91e347",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "sante-quebec-estrie-peine-a-trouver-des-milieux-substituts-p-91e347"
+  },
+  {
+   "titre": "Malgré la guerre tarifaire, le Grand Montréal résiste bien grâce à l'aérospatiale, observe la CMM",
+   "cahier": "montreal",
+   "rubrique": "economie",
+   "territoire": "Grand Montréal (Montréal)",
+   "medias": "Journal Métro",
+   "url": "https://journalmetro.com/actualites/montreal/3226834/tarifs-americains-le-grand-montreal-resiste-mais-certaines-industries-sous-press/",
+   "sources": [
+    {
+     "media": "Journal Métro",
+     "url": "https://journalmetro.com/actualites/montreal/3226834/tarifs-americains-le-grand-montreal-resiste-mais-certaines-industries-sous-press/",
+     "date": "2026-09-09T19:09-04:00"
+    }
+   ],
+   "resume": "Certaines industries montréalaises souffrent pourtant nettement plus que la moyenne régionale face aux tarifs.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T19:09-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "malgre-la-guerre-tarifaire-le-grand-montreal-resiste-bien-gr-1a482f",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "malgre-la-guerre-tarifaire-le-grand-montreal-resiste-bien-gr-1a482f"
+  },
+  {
+   "titre": "Un projet de 150 logements abordables pourrait naître derrière la Place du Royaume à Chicoutimi",
+   "cahier": "quebec",
+   "rubrique": "societe",
+   "territoire": "Chicoutimi (Saguenay–Lac-Saint-Jean)",
+   "medias": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2282106/logements-abordables-saguenay-place-royaume",
+   "sources": [
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282106/logements-abordables-saguenay-place-royaume",
+     "date": "2026-09-09T16:57-04:00",
+     "auteur": "Johanie Bilodeau"
+    }
+   ],
+   "resume": "Un immeuble de 79 unités du Groupe Coderr sort déjà de terre tout près du CLSC.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T16:57-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "un-projet-de-150-logements-abordables-pourrait-naitre-derrie-f5aa8a",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "un-projet-de-150-logements-abordables-pourrait-naitre-derrie-f5aa8a"
+  },
+  {
+   "titre": "Un centre albertain de captage du carbone vise à devenir le plus grand au pays",
+   "cahier": "canada",
+   "rubrique": "environnement",
+   "territoire": "Alberta",
+   "medias": "Global News",
+   "url": "https://globalnews.ca/news/12053224/alberta-carbon-capture-the-origins-clive/",
+   "sources": [
+    {
+     "media": "Global News",
+     "url": "https://globalnews.ca/news/12053224/alberta-carbon-capture-the-origins-clive/",
+     "date": "2026-09-09T18:18-04:00"
+    }
+   ],
+   "resume": "Enhance Energy affirme avoir déjà enfoui plus de neuf millions de tonnes de CO2 depuis 2020.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T18:18-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "un-centre-albertain-de-captage-du-carbone-vise-a-devenir-le-d821b2",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "un-centre-albertain-de-captage-du-carbone-vise-a-devenir-le-d821b2"
+  },
+  {
+   "titre": "Le marché obligataire américain se retourne contre le Trésor de Washington",
+   "cahier": "international",
+   "rubrique": "economie",
+   "territoire": "États-Unis",
+   "medias": "France 24, Yahoo Finance France, Le Journal de Montréal",
+   "url": "https://www.france24.com/fr/info-en-continu/20260909-les-taux-d-emprunt-am%C3%A9ricains-bondissent-un-camouflet-pour-le-gouvernement-am%C3%A9ricain",
+   "sources": [
+    {
+     "media": "France 24",
+     "url": "https://www.france24.com/fr/info-en-continu/20260909-les-taux-d-emprunt-am%C3%A9ricains-bondissent-un-camouflet-pour-le-gouvernement-am%C3%A9ricain",
+     "date": "2026-09-09T17:22-04:00"
+    },
+    {
+     "media": "Yahoo Finance France",
+     "url": "https://fr.finance.yahoo.com/actualites/taux-demprunt-am%C3%A9ricains-bondissent-camouflet-210215429.html",
+     "date": "2026-09-09T17:02-04:00",
+     "auteur": "Théo Marie-Courtois"
+    },
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.tvanouvelles.ca/2026/09/09/les-taux-demprunt-americains-bondissent-un-camouflet-pour-le-gouvernement-americain",
+     "date": "2026-09-09T17:22-04:00",
+     "auteur": "Agence France-Presse"
+    }
+   ],
+   "resume": "Malgré l'intervention du Trésor, le taux d'emprunt à dix ans grimpe à son plus haut niveau depuis 2023.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T17:22-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "le-marche-obligataire-americain-se-retourne-contre-le-tresor-07efa0",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "le-marche-obligataire-americain-se-retourne-contre-le-tresor-07efa0"
+  },
+  {
+   "titre": "La Syrie dénonce l'entrée de Nétanyahou, en visite surprise dans le sud du pays",
+   "cahier": "international",
+   "rubrique": "conflits",
+   "territoire": "Syrie",
+   "medias": "Le Monde, CNEWS",
+   "url": "https://www.lemonde.fr/international/article/2026/09/09/la-syrie-condamne-l-entree-illegale-de-benyamin-netanyahou-sur-son-territoire_6768997_3210.html",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "url": "https://www.lemonde.fr/international/article/2026/09/09/la-syrie-condamne-l-entree-illegale-de-benyamin-netanyahou-sur-son-territoire_6768997_3210.html",
+     "date": "2026-09-09T17:00-04:00",
+     "auteur": "Agence France-Presse"
+    },
+    {
+     "media": "CNEWS",
+     "url": "https://www.cnews.fr/monde/2026-09-09/israel-est-tres-proche-de-renverser-la-republique-islamique-diran-assure-benjamin",
+     "date": "2026-09-09T17:00-04:00"
+    }
+   ],
+   "resume": "Netanyahou affirme au passage que la République islamique d'Iran est proche de s'effondrer.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T17:00-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "la-syrie-denonce-l-entree-de-netanyahou-en-visite-surprise-d-7fc719",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "la-syrie-denonce-l-entree-de-netanyahou-en-visite-surprise-d-7fc719"
+  },
+  {
+   "titre": "Moscou étend son réseau de centres culturels à huit nouveaux pays africains",
+   "cahier": "international",
+   "rubrique": "politique",
+   "territoire": "Russie",
+   "medias": "RFI",
+   "url": "https://www.rfi.fr/fr/afrique/20260909-moscou-annonce-l-ouverture-de-nouvelles-maisons-russes-dans-huit-pays-d-afrique",
+   "sources": [
+    {
+     "media": "RFI",
+     "url": "https://www.rfi.fr/fr/afrique/20260909-moscou-annonce-l-ouverture-de-nouvelles-maisons-russes-dans-huit-pays-d-afrique",
+     "date": "2026-09-09T17:20-04:00"
+    }
+   ],
+   "resume": "Ce réseau diplomatique discret sert aussi à étendre l'influence de Moscou en Afrique.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T17:20-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "moscou-etend-son-reseau-de-centres-culturels-a-huit-nouveaux-f723ca",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "moscou-etend-son-reseau-de-centres-culturels-a-huit-nouveaux-f723ca"
+  },
+  {
+   "titre": "Dassault et un partenaire allemand développent une navette spatiale européenne baptisée Vortex",
+   "cahier": "savoirs",
+   "rubrique": "espace",
+   "territoire": "France",
+   "medias": "France Info",
+   "url": "https://www.franceinfo.fr/sciences/espace/avec-la-navette-spatiale-vortex-l-europe-decolle-enfin-dans-le-secteur_8185430.html",
+   "sources": [
+    {
+     "media": "France Info",
+     "url": "https://www.franceinfo.fr/sciences/espace/avec-la-navette-spatiale-vortex-l-europe-decolle-enfin-dans-le-secteur_8185430.html",
+     "date": "2026-09-09T17:12-04:00"
+    }
+   ],
+   "resume": "L'Europe cherche ainsi à réduire sa dépendance aux lanceurs américains pour ses missions dans l'espace.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T17:12-04:00",
+   "entree": "2026-09-09T20:07-04:00",
+   "image_auto": "aucune",
+   "permalien": "dassault-et-un-partenaire-allemand-developpent-une-navette-s-00ca23",
+   "_volet": "continu",
+   "_fichier": "revue-continu-2026-09-09.json",
+   "_slug": "dassault-et-un-partenaire-allemand-developpent-une-navette-s-00ca23"
   },
   {
    "titre": "CGI renforce ses capacités en IA d'entreprise en achetant une firme de Cincinnati",
@@ -9492,7 +9864,7 @@
    "cahier": "international",
    "rubrique": "transport",
    "territoire": "Royaume-Uni",
-   "medias": "The Globe and Mail, franceinfo, Le Parisien",
+   "medias": "The Globe and Mail, franceinfo, Le Parisien, La Presse",
    "url": "https://www.theglobeandmail.com/business/article-uk-airports-flights-cancelled-air-traffic-control/",
    "sources": [
     {
@@ -9511,12 +9883,18 @@
      "url": "https://www.leparisien.fr/faits-divers/heathrow-gatwick-les-aeroports-britanniques-fortement-perturbes-par-une-panne-des-centaines-de-vols-annules-08-09-2026-MYFQ3HEF7NCD3FDPMERFUUKNZI.php",
      "date": "2026-09-08T13:35-04:00",
      "date_origine": "media"
+    },
+    {
+     "media": "La Presse",
+     "url": "https://www.lapresse.ca/international/europe/2026-09-09/panne-du-controle-aerien-au-royaume-uni/des-centaines-de-vols-annules-la-piste-d-une-cyberattaque-ecartee.php",
+     "auteur": "James Rybacki et Clément Zampa",
+     "date": "2026-09-09T17:52-04:00"
     }
    ],
-   "resume": "Les retards se sont propagés à quinze aéroports avant que le problème ne soit résolu dans la journée.",
+   "resume": "Mise à jour, 17 h 52 — Une nouvelle vague de près de 400 annulations frappe le pays, la piste d'une cyberattaque désormais écartée.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-08T18:00-04:00",
+   "horodate": "2026-09-09T17:52-04:00",
    "image_auto": "aucune",
    "entree": "2026-09-08T23:05-04:00",
    "volet": "continu",
