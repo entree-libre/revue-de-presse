@@ -1,33 +1,22 @@
 <!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
-<script>
-/* Redirection immediate (4 sept. 2026) : la page de la racine ne doit jamais
-   se voir. location.replace ne laisse pas la racine dans l'historique (le
-   bouton Retour ne rebondit pas dessus), et la couleur de fond est celle du
-   theme du lecteur pour eviter un eclair beige sur un ecran sombre. */
-try{var t=(JSON.parse(localStorage.getItem('revue-prefs')||'{}').theme)||'';
-var b={'':'#ffffff',dark:'#111114',gris:'#8e8e94',beige:'#f1e7d2',jaune:'#e0d8a2',contraste:'#000000'}[t]||'#ffffff';
-document.documentElement.style.background=b;}catch(e){}
-location.replace('edition/2026-09-09/'+(location.hash||''));
-</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="index, follow">
-<link rel="canonical" href="https://entreelibre.ca/">
-<link rel="alternate" type="application/rss+xml" title="Revue de presse" href="https://entreelibre.ca/edition/2026-09-09/flux.xml">
-<link rel="alternate" type="application/feed+json" title="Revue de presse" href="https://entreelibre.ca/edition/2026-09-09/flux.json">
-<meta http-equiv="refresh" content="0; url=edition/2026-09-09/">
-<title>Revue de presse — édition du 2026-09-09</title>
-<meta name="description" content="Revue de presse quotidienne, mise à jour quatre fois par jour : Québec, Montréal, Canada, international et savoirs.">
-<meta property="og:site_name" content="Revue de presse">
-<meta property="og:title" content="Revue de presse — édition du 2026-09-09">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://entreelibre.ca/">
-<style>body{margin:0;padding:2rem;font-family:Georgia,serif;color:#2b2b2b;background:transparent;
-opacity:0;animation:v 0s 2s forwards}@keyframes v{to{opacity:1}}</style>
+<meta name="robots" content="noindex, nofollow">
+<title>Hors ligne</title>
+<style>
+:root{color-scheme:light dark}
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+ background:#ffffff;color:#16161a;font:400 1rem/1.6 Georgia,"Times New Roman",serif;padding:2rem}
+main{max-width:34rem}
+h1{font-size:1.5rem;font-weight:700;margin:0 0 .8rem;letter-spacing:-.01em}
+p{margin:0 0 .6rem}
+.q{font:700 .68rem/1 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+ letter-spacing:.14em;text-transform:uppercase;color:#6b6b72;margin-bottom:1.2rem}
+@media (prefers-color-scheme:dark){body{background:#111114;color:#f2f2f4}.q{color:#9a9aa2}}
+</style>
 </head>
-<body>
-<h1>Revue de presse</h1>
-<p><a href="edition/2026-09-09/">Édition du 2026-09-09</a></p>
-<p><a href="edition/2026-09-09/flux.xml">Fil RSS</a></p>
-<p><a href="campagne.html">Cahier special &mdash; Elections Quebec 2026</a></p>
-<p><a href="a-propos.html">&Agrave; propos et m&eacute;thodes</a> &middot; <a href="charte.html">Charte</a> &middot; <a href="corrections.html">Corrections et retraits</a></p>
-</body></html>
+<body><main>
+<p class="q">Hors ligne</p>
+<h1>Le journal n'est pas accessible pour le moment</h1>
+<p>La revue de presse est retirée temporairement. Elle continue d’être assemblée chaque jour ; elle reviendra.</p>
+<p class="q" style="margin:1.6rem 0 0">Retiré le 2026-09-10</p>
+</main></body></html>
