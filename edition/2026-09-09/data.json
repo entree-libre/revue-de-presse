@@ -3438,6 +3438,12 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2281673/gaz-schiste-lotbiniere-exploration-elections",
      "auteur": "Eugénie Emond",
      "date": "2026-09-09T04:00-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10756327/lotbiniere-est-elle-prete-a-rouvrir-dossier-gaz-schiste",
+     "auteur": "Eugénie Emond",
+     "date": "2026-09-09T19:13-04:00"
     }
    ],
    "resume": "D'anciens militants ressortent leurs pancartes, pendant qu'élus et agriculteurs hésitent encore à trancher.",
@@ -3683,12 +3689,12 @@
    "cahier": "elections",
    "rubrique": "economie",
    "territoire": "Québec",
-   "medias": "Parti conservateur du Québec, Coops de l'information, Le Devoir, Les Affaires",
+   "medias": "Parti conservateur du Québec, Coops de l'information, Le Devoir, Les Affaires, Radio-Canada",
    "url": "https://conservateur.quebec/blog/ressources/cadre-financier-le-pcq-presente-un-plan-credible-de-retour-a-lequilibre-budgetaire/",
-   "resume": "Duhaime chiffre chaque engagement et met la CAQ au défi de dévoiler le sien avant les débats.",
+   "resume": "Mise à jour, 19 h 54 — Le cadre financier du PCQ mise sur des revenus gaziers avant même la première goutte de gaz produite.",
    "photo": "",
    "legende": "",
-   "horodate": "2026-09-09T08:58-04:00",
+   "horodate": "2026-09-09T19:54-04:00",
    "sources": [
     {
      "media": "Parti conservateur du Québec",
@@ -3748,6 +3754,17 @@
      "url": "https://journalmetro.com/actualites/elections/3226941/elections-jour-14-coupures-et-construction/",
      "auteur": "Olivier Robichaud",
      "date": "2026-09-09T16:24-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2282139/verif-cadre-financier-duhaime-pcq-quebec",
+     "auteur": "Jean-Philippe Hughes, Rosalie Sinclair et Sarah Rahmouni",
+     "date": "2026-09-09T19:54-04:00"
+    },
+    {
+     "media": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/info/videos/1-10756324/cadre-financier-pcq-est-il-credible-entrevue-avec-adrien-pouliot",
+     "date": "2026-09-09T19:09-04:00"
     }
    ],
    "permalien": "le-pcq-depose-un-cadre-financier-de-pres-de-100-pages-visant-332b95",
@@ -4938,6 +4955,110 @@
    "_volet": "elections",
    "_fichier": "revue-elections-2026-09-09.json",
    "_slug": "alain-rayes-s-interroge-sur-la-verification-des-candidats-ap-eb44d0"
+  },
+  {
+   "titre": "Un groupe de citoyens réclame aux partis la gratuité du transport en commun",
+   "cahier": "elections",
+   "rubrique": "transport",
+   "territoire": "Montréal",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/transports-urbanisme/1007822/collectif-interpelle-partis-politiques-gratuite-transports-commun",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/transports-urbanisme/1007822/collectif-interpelle-partis-politiques-gratuite-transports-commun",
+     "auteur": "Sarah Collardey",
+     "date": "2026-09-09T19:29-04:00"
+    }
+   ],
+   "resume": "Masqués et assis sur un quai de métro, ils réclament que se déplacer devienne un droit gratuit.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T19:29-04:00",
+   "entree": "2026-09-09T21:23-04:00",
+   "image_auto": "aucune",
+   "permalien": "un-groupe-de-citoyens-reclame-aux-partis-la-gratuite-du-tran-f59199",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "un-groupe-de-citoyens-reclame-aux-partis-la-gratuite-du-tran-f59199"
+  },
+  {
+   "titre": "Quatre partis sur cinq participent à un débat électoral consacré à la culture",
+   "cahier": "elections",
+   "rubrique": "culture",
+   "territoire": "Québec",
+   "medias": "Le Devoir",
+   "url": "https://www.ledevoir.com/culture/1007837/debat-culture-nommer-enjeux-chercher-solutions",
+   "sources": [
+    {
+     "media": "Le Devoir",
+     "url": "https://www.ledevoir.com/culture/1007837/debat-culture-nommer-enjeux-chercher-solutions",
+     "auteur": "Philippe Renaud",
+     "date": "2026-09-09T20:17-04:00"
+    }
+   ],
+   "resume": "Trois partis promettent plus pour la culture ; un cinquième chef n'a même pas répondu à l'invitation.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T20:17-04:00",
+   "entree": "2026-09-09T21:23-04:00",
+   "image_auto": "aucune",
+   "permalien": "quatre-partis-sur-cinq-participent-a-un-debat-electoral-cons-83d4c1",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "quatre-partis-sur-cinq-participent-a-un-debat-electoral-cons-83d4c1"
+  },
+  {
+   "titre": "Une chroniqueuse dénonce l'impact du «dégraissage de l'État» sur les régions",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec",
+   "medias": "Le Journal de Montréal",
+   "url": "https://www.journaldemontreal.com/2026/09/12/degraissage-de-letat--noublions-pas-les-regions",
+   "sources": [
+    {
+     "media": "Le Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/09/12/degraissage-de-letat--noublions-pas-les-regions",
+     "auteur": "Émilise Lessard-Therrien",
+     "date": "2026-09-09T19:00-04:00"
+    }
+   ],
+   "resume": "Une chroniqueuse y voit un recul de confiance envers les régions, pas une vraie économie.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T19:00-04:00",
+   "entree": "2026-09-09T21:23-04:00",
+   "image_auto": "aucune",
+   "permalien": "une-chroniqueuse-denonce-l-impact-du-degraissage-de-l-etat-s-3e538b",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "une-chroniqueuse-denonce-l-impact-du-degraissage-de-l-etat-s-3e538b"
+  },
+  {
+   "titre": "Dans Chambly, le ministre sortant de la CAQ affronte une candidate péquiste sans expérience politique",
+   "cahier": "elections",
+   "rubrique": "politique",
+   "territoire": "Québec (Chambly)",
+   "medias": "Québecor",
+   "url": "https://www.tvanouvelles.ca/2026/09/09/la-caq-et-le-pq-au-coude-a-coude-la-lutte-sannonce-chaude-dans-chambly",
+   "sources": [
+    {
+     "media": "Québecor",
+     "url": "https://www.tvanouvelles.ca/2026/09/09/la-caq-et-le-pq-au-coude-a-coude-la-lutte-sannonce-chaude-dans-chambly",
+     "date": "2026-09-09T19:48-04:00",
+     "auteur": "Agence QMI"
+    }
+   ],
+   "resume": "Après douze ans au pouvoir, un ministre sortant croise une enseignante d'histoire devenue candidate péquiste.",
+   "photo": "",
+   "legende": "",
+   "horodate": "2026-09-09T19:48-04:00",
+   "entree": "2026-09-09T21:23-04:00",
+   "image_auto": "aucune",
+   "permalien": "dans-chambly-le-ministre-sortant-de-la-caq-affronte-une-cand-df07af",
+   "_volet": "elections",
+   "_fichier": "revue-elections-2026-09-09.json",
+   "_slug": "dans-chambly-le-ministre-sortant-de-la-caq-affronte-une-cand-df07af"
   },
   {
    "titre": "Québec exige 15 % de matériaux d'ici dans les chantiers des municipalités",
